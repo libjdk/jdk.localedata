@@ -1,0 +1,72 @@
+#include <sun/util/resources/ext/LocaleNames_et.h>
+
+#include <java/lang/Array.h>
+#include <java/lang/Class.h>
+#include <java/lang/ClassInfo.h>
+#include <java/lang/MethodInfo.h>
+#include <java/lang/String.h>
+#include <java/lang/reflect/Constructor.h>
+#include <java/lang/reflect/Method.h>
+#include <sun/util/resources/LocaleNamesBundle.h>
+#include <jcpp.h>
+
+using $ObjectArray2 = $Array<::java::lang::Object, 2>;
+using $ClassInfo = ::java::lang::ClassInfo;
+using $MethodInfo = ::java::lang::MethodInfo;
+using $LocaleNamesBundle = ::sun::util::resources::LocaleNamesBundle;
+
+namespace sun {
+	namespace util {
+		namespace resources {
+			namespace ext {
+
+$MethodInfo _LocaleNames_et_MethodInfo_[] = {
+	{"<init>", "()V", nullptr, $PUBLIC, $method(static_cast<void(LocaleNames_et::*)()>(&LocaleNames_et::init$))},
+	{"getContents", "()[[Ljava/lang/Object;", nullptr, $PROTECTED | $FINAL},
+	{}
+};
+
+$ClassInfo _LocaleNames_et_ClassInfo_ = {
+	$PUBLIC | $FINAL | $ACC_SUPER,
+	"sun.util.resources.ext.LocaleNames_et",
+	"sun.util.resources.LocaleNamesBundle",
+	nullptr,
+	nullptr,
+	_LocaleNames_et_MethodInfo_
+};
+
+$Object* allocate$LocaleNames_et($Class* clazz) {
+	return $of($alloc(LocaleNames_et));
+}
+
+void LocaleNames_et::init$() {
+	$LocaleNamesBundle::init$();
+}
+
+$ObjectArray2* LocaleNames_et::getContents() {
+	return $new($ObjectArray2, {
+		$$new($ObjectArray, {
+			$of("EE"_s),
+			$of("Eesti"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("et"_s),
+			$of("Eesti"_s)
+		})
+	});
+}
+
+LocaleNames_et::LocaleNames_et() {
+}
+
+$Class* LocaleNames_et::load$($String* name, bool initialize) {
+	$loadClass(LocaleNames_et, name, initialize, &_LocaleNames_et_ClassInfo_, allocate$LocaleNames_et);
+	return class$;
+}
+
+$Class* LocaleNames_et::class$ = nullptr;
+
+			} // ext
+		} // resources
+	} // util
+} // sun

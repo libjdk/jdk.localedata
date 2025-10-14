@@ -1,0 +1,1139 @@
+#include <sun/util/resources/cldr/ext/LocaleNames_shi.h>
+
+#include <java/lang/Array.h>
+#include <java/lang/Class.h>
+#include <java/lang/ClassInfo.h>
+#include <java/lang/MethodInfo.h>
+#include <java/lang/String.h>
+#include <java/lang/reflect/Constructor.h>
+#include <java/lang/reflect/Method.h>
+#include <sun/util/resources/OpenListResourceBundle.h>
+#include <jcpp.h>
+
+using $ObjectArray2 = $Array<::java::lang::Object, 2>;
+using $ClassInfo = ::java::lang::ClassInfo;
+using $MethodInfo = ::java::lang::MethodInfo;
+using $OpenListResourceBundle = ::sun::util::resources::OpenListResourceBundle;
+
+namespace sun {
+	namespace util {
+		namespace resources {
+			namespace cldr {
+				namespace ext {
+
+$MethodInfo _LocaleNames_shi_MethodInfo_[] = {
+	{"<init>", "()V", nullptr, $PUBLIC, $method(static_cast<void(LocaleNames_shi::*)()>(&LocaleNames_shi::init$))},
+	{"getContents", "()[[Ljava/lang/Object;", nullptr, $PROTECTED | $FINAL},
+	{}
+};
+
+$ClassInfo _LocaleNames_shi_ClassInfo_ = {
+	$PUBLIC | $ACC_SUPER,
+	"sun.util.resources.cldr.ext.LocaleNames_shi",
+	"sun.util.resources.OpenListResourceBundle",
+	nullptr,
+	nullptr,
+	_LocaleNames_shi_MethodInfo_
+};
+
+$Object* allocate$LocaleNames_shi($Class* clazz) {
+	return $of($alloc(LocaleNames_shi));
+}
+
+void LocaleNames_shi::init$() {
+	$OpenListResourceBundle::init$();
+}
+
+$ObjectArray2* LocaleNames_shi::getContents() {
+	$var($ObjectArray2, data, $new($ObjectArray2, {
+		$$new($ObjectArray, {
+			$of("AD"_s),
+			$of(u"\u2d30\u2d4f\u2d37\u2d53\u2d54\u2d30"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("AE"_s),
+			$of(u"\u2d4d\u2d49\u2d4e\u2d30\u2d54\u2d30\u2d5c"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("AF"_s),
+			$of(u"\u2d30\u2d3c\u2d56\u2d30\u2d4f\u2d49\u2d59\u2d5c\u2d30\u2d4f"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("AG"_s),
+			$of(u"\u2d30\u2d4f\u2d5c\u2d49\u2d33\u2d30 \u2d37 \u2d31\u2d54\u2d31\u2d53\u2d37\u2d30"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("AI"_s),
+			$of(u"\u2d30\u2d4f\u2d33\u2d49\u2d4d\u2d30"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("AL"_s),
+			$of(u"\u2d30\u2d4d\u2d31\u2d30\u2d4f\u2d62\u2d30"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("AM"_s),
+			$of(u"\u2d30\u2d54\u2d4e\u2d49\u2d4f\u2d62\u2d30"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("AO"_s),
+			$of(u"\u2d30\u2d4f\u2d33\u2d53\u2d4d\u2d30"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("AR"_s),
+			$of(u"\u2d30\u2d54\u2d4a\u2d30\u2d4f\u2d5c\u2d49\u2d4f"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("AS"_s),
+			$of(u"\u2d59\u2d30\u2d4e\u2d61\u2d30 \u2d5c\u2d30\u2d4e\u2d49\u2d54\u2d49\u2d3d\u2d30\u2d4f\u2d49\u2d5c"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("AT"_s),
+			$of(u"\u2d4f\u2d4f\u2d4e\u2d59\u2d30"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("AU"_s),
+			$of(u"\u2d53\u2d59\u2d5c\u2d54\u2d30\u2d4d\u2d62\u2d30"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("AW"_s),
+			$of(u"\u2d30\u2d54\u2d53\u2d31\u2d30"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("AZ"_s),
+			$of(u"\u2d30\u2d37\u2d54\u2d30\u2d31\u2d49\u2d4a\u2d30\u2d4f"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("BA"_s),
+			$of(u"\u2d31\u2d53\u2d59\u2d4f\u2d30 \u2d37 \u2d40\u2d49\u2d54\u2d59\u2d49\u2d3d"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("BB"_s),
+			$of(u"\u2d31\u2d30\u2d54\u2d31\u2d30\u2d37"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("BD"_s),
+			$of(u"\u2d31\u2d30\u2d4f\u2d33\u2d4d\u2d30\u2d37\u2d49\u2d5b"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("BE"_s),
+			$of(u"\u2d31\u2d4d\u2d4a\u2d49\u2d3d\u2d30"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("BF"_s),
+			$of(u"\u2d31\u2d53\u2d54\u2d3d\u2d49\u2d4f\u2d30 \u2d3c\u2d30\u2d59\u2d53"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("BG"_s),
+			$of(u"\u2d31\u2d4d\u2d56\u2d30\u2d54\u2d62\u2d30"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("BH"_s),
+			$of(u"\u2d31\u2d43\u2d54\u2d30\u2d62\u2d4f"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("BI"_s),
+			$of(u"\u2d31\u2d53\u2d54\u2d53\u2d4f\u2d37\u2d49"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("BJ"_s),
+			$of(u"\u2d31\u2d49\u2d4f\u2d49\u2d4f"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("BM"_s),
+			$of(u"\u2d31\u2d54\u2d4e\u2d53\u2d37\u2d30"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("BN"_s),
+			$of(u"\u2d31\u2d54\u2d53\u2d4f\u2d49"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("BO"_s),
+			$of(u"\u2d31\u2d53\u2d4d\u2d49\u2d3c\u2d62\u2d30"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("BR"_s),
+			$of(u"\u2d31\u2d54\u2d30\u2d63\u2d49\u2d4d"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("BS"_s),
+			$of(u"\u2d31\u2d30\u2d40\u2d30\u2d4e\u2d30\u2d59"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("BT"_s),
+			$of(u"\u2d31\u2d40\u2d53\u2d5c\u2d30\u2d4f"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("BW"_s),
+			$of(u"\u2d31\u2d53\u2d5c\u2d59\u2d61\u2d30\u2d4f\u2d30"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("BY"_s),
+			$of(u"\u2d31\u2d49\u2d4d\u2d30\u2d54\u2d53\u2d59\u2d62\u2d30"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("BZ"_s),
+			$of(u"\u2d31\u2d49\u2d4d\u2d49\u2d63"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("CA"_s),
+			$of(u"\u2d3d\u2d30\u2d4f\u2d30\u2d37\u2d30"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("CD"_s),
+			$of(u"\u2d5c\u2d30\u2d33\u2d37\u2d53\u2d37\u2d30\u2d4f\u2d5c \u2d5c\u2d30\u2d37\u2d49\u2d4e\u2d53\u2d47\u2d54\u2d30\u2d5c\u2d49\u2d5c \u2d4f \u2d3d\u2d53\u2d4f\u2d33\u2d53"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("CF"_s),
+			$of(u"\u2d5c\u2d30\u2d33\u2d37\u2d53\u2d37\u2d30\u2d4f\u2d5c \u2d5c\u2d30\u2d4f\u2d30\u2d4e\u2d4e\u2d30\u2d59\u2d5c \u2d4f \u2d49\u2d3c\u2d54\u2d49\u2d47\u2d62\u2d30"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("CG"_s),
+			$of(u"\u2d3d\u2d53\u2d4f\u2d33\u2d53"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("CH"_s),
+			$of(u"\u2d59\u2d61\u2d49\u2d59\u2d54\u2d30"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("CI"_s),
+			$of(u"\u2d3d\u2d53\u2d5c \u2d37\u2d49\u2d3c\u2d61\u2d30\u2d54"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("CK"_s),
+			$of(u"\u2d5c\u2d49\u2d33\u2d63\u2d49\u2d54\u2d49\u2d4f \u2d4f \u2d3d\u2d53\u2d3d"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("CL"_s),
+			$of(u"\u2d5b\u2d5b\u2d49\u2d4d\u2d49"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("CM"_s),
+			$of(u"\u2d3d\u2d30\u2d4e\u2d49\u2d54\u2d53\u2d4f"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("CN"_s),
+			$of(u"\u2d5b\u2d5b\u2d49\u2d4f\u2d61\u2d30"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("CO"_s),
+			$of(u"\u2d3d\u2d53\u2d4d\u2d53\u2d4e\u2d31\u2d62\u2d30"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("CR"_s),
+			$of(u"\u2d3d\u2d53\u2d59\u2d5c\u2d30 \u2d54\u2d49\u2d3d\u2d30"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("CU"_s),
+			$of(u"\u2d3d\u2d53\u2d31\u2d30"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("CV"_s),
+			$of(u"\u2d5c\u2d49\u2d33\u2d63\u2d49\u2d54\u2d49\u2d4f \u2d4f \u2d3d\u2d30\u2d31\u2d31\u2d49\u2d54\u2d37\u2d49"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("CY"_s),
+			$of(u"\u2d47\u2d53\u2d31\u2d54\u2d53\u2d59"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("CZ"_s),
+			$of(u"\u2d5c\u2d30\u2d33\u2d37\u2d53\u2d37\u2d30\u2d4f\u2d5c \u2d5c\u2d30\u2d5c\u2d5b\u2d49\u2d3d\u2d49\u2d5c"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("DE"_s),
+			$of(u"\u2d30\u2d4d\u2d4e\u2d30\u2d4f\u2d62\u2d30"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("DJ"_s),
+			$of(u"\u2d37\u2d4a\u2d49\u2d31\u2d53\u2d5c\u2d49"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("DK"_s),
+			$of(u"\u2d37\u2d30\u2d4f\u2d4e\u2d30\u2d54\u2d3d"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("DM"_s),
+			$of(u"\u2d37\u2d53\u2d4e\u2d49\u2d4f\u2d49\u2d3d"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("DO"_s),
+			$of(u"\u2d5c\u2d30\u2d33\u2d37\u2d53\u2d37\u2d30\u2d4f\u2d5c \u2d5c\u2d30\u2d37\u2d53\u2d4e\u2d49\u2d4f\u2d49\u2d3d\u2d5c"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("DZ"_s),
+			$of(u"\u2d37\u2d63\u2d30\u2d62\u2d54"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("EC"_s),
+			$of(u"\u2d49\u2d3d\u2d61\u2d30\u2d37\u2d53\u2d54"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("EE"_s),
+			$of(u"\u2d49\u2d59\u2d5c\u2d53\u2d4f\u2d62\u2d30"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("EG"_s),
+			$of(u"\u2d4e\u2d49\u2d5a\u2d55"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("ER"_s),
+			$of(u"\u2d49\u2d54\u2d49\u2d5c\u2d49\u2d54\u2d62\u2d30"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("ES"_s),
+			$of(u"\u2d59\u2d31\u2d30\u2d4f\u2d62\u2d30"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("ET"_s),
+			$of(u"\u2d49\u2d5c\u2d62\u2d53\u2d31\u2d62\u2d30"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("FI"_s),
+			$of(u"\u2d3c\u2d49\u2d4d\u2d4d\u2d30\u2d4f\u2d37\u2d30"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("FJ"_s),
+			$of(u"\u2d3c\u2d49\u2d37\u2d4a\u2d49"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("FK"_s),
+			$of(u"\u2d5c\u2d49\u2d33\u2d63\u2d49\u2d54\u2d49\u2d4f \u2d4f \u2d4e\u2d30\u2d4d\u2d30\u2d61\u2d49"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("FM"_s),
+			$of(u"\u2d4e\u2d49\u2d3d\u2d54\u2d53\u2d4f\u2d49\u2d63\u2d62\u2d30"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("FR"_s),
+			$of(u"\u2d3c\u2d54\u2d30\u2d4f\u2d59\u2d30"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("GA"_s),
+			$of(u"\u2d33\u2d30\u2d31\u2d53\u2d4f"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("GB"_s),
+			$of(u"\u2d5c\u2d30\u2d33\u2d4d\u2d37\u2d49\u2d5c \u2d49\u2d4e\u2d53\u2d4f\u2d4f"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("GD"_s),
+			$of(u"\u2d56\u2d54\u2d4f\u2d30\u2d5f\u2d30"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("GE"_s),
+			$of(u"\u2d4a\u2d53\u2d54\u2d4a\u2d62\u2d30"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("GF"_s),
+			$of(u"\u2d33\u2d61\u2d49\u2d62\u2d30\u2d4f \u2d5c\u2d30\u2d3c\u2d54\u2d30\u2d4f\u2d59\u2d49\u2d59\u2d5c"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("GH"_s),
+			$of(u"\u2d56\u2d30\u2d4f\u2d30"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("GI"_s),
+			$of(u"\u2d30\u2d37\u2d54\u2d30\u2d54 \u2d4f \u2d5f\u2d30\u2d55\u2d49\u2d47"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("GL"_s),
+			$of(u"\u2d33\u2d54\u2d49\u2d4d\u2d30\u2d4f\u2d37"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("GM"_s),
+			$of(u"\u2d33\u2d30\u2d4e\u2d31\u2d62\u2d30"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("GN"_s),
+			$of(u"\u2d56\u2d49\u2d4f\u2d62\u2d30"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("GP"_s),
+			$of(u"\u2d33\u2d61\u2d30\u2d37\u2d30\u2d4d\u2d53\u2d31"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("GQ"_s),
+			$of(u"\u2d56\u2d49\u2d4f\u2d62\u2d30 \u2d4f \u2d49\u2d3d\u2d61\u2d30\u2d37\u2d53\u2d54"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("GR"_s),
+			$of(u"\u2d4d\u2d62\u2d53\u2d4f\u2d30\u2d4f"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("GT"_s),
+			$of(u"\u2d33\u2d61\u2d30\u2d5c\u2d49\u2d4e\u2d30\u2d4d\u2d30"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("GU"_s),
+			$of(u"\u2d33\u2d61\u2d30\u2d4e"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("GW"_s),
+			$of(u"\u2d56\u2d49\u2d4f\u2d62\u2d30 \u2d31\u2d49\u2d59\u2d30\u2d61"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("GY"_s),
+			$of(u"\u2d33\u2d61\u2d49\u2d62\u2d30\u2d4f\u2d30"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("HN"_s),
+			$of(u"\u2d40\u2d53\u2d4f\u2d37\u2d53\u2d54\u2d30\u2d59"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("HR"_s),
+			$of(u"\u2d3d\u2d54\u2d61\u2d30\u2d5c\u2d62\u2d30"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("HT"_s),
+			$of(u"\u2d40\u2d30\u2d62\u2d5c\u2d49"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("HU"_s),
+			$of(u"\u2d40\u2d4f\u2d56\u2d30\u2d54\u2d62\u2d30"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("ID"_s),
+			$of(u"\u2d30\u2d4f\u2d37\u2d53\u2d4f\u2d49\u2d59\u2d62\u2d30"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("IE"_s),
+			$of(u"\u2d49\u2d54\u2d4d\u2d30\u2d4f\u2d37\u2d30"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("IL"_s),
+			$of(u"\u2d49\u2d59\u2d54\u2d30\u2d62\u2d49\u2d4d"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("IN"_s),
+			$of(u"\u2d4d\u2d40\u2d49\u2d4f\u2d37"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("IO"_s),
+			$of(u"\u2d5c\u2d30\u2d4e\u2d4f\u2d30\u2d39\u2d5c \u2d5c\u2d30\u2d4f\u2d33\u2d4d\u2d49\u2d63\u2d49\u2d5c \u2d4f \u2d53\u2d33\u2d30\u2d54\u2d53 \u2d30\u2d40\u2d49\u2d4f\u2d37\u2d49"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("IQ"_s),
+			$of(u"\u2d4d\u2d44\u2d49\u2d54\u2d30\u2d47"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("IR"_s),
+			$of(u"\u2d49\u2d54\u2d30\u2d4f"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("IS"_s),
+			$of(u"\u2d49\u2d59\u2d4d\u2d30\u2d4f\u2d37"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("IT"_s),
+			$of(u"\u2d49\u2d5f\u2d30\u2d4d\u2d62\u2d30"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("JM"_s),
+			$of(u"\u2d4a\u2d30\u2d4e\u2d30\u2d62\u2d3d\u2d30"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("JO"_s),
+			$of(u"\u2d4d\u2d53\u2d54\u2d37\u2d53\u2d4f"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("JP"_s),
+			$of(u"\u2d4d\u2d62\u2d30\u2d31\u2d30\u2d4f"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("KE"_s),
+			$of(u"\u2d3d\u2d49\u2d4f\u2d62\u2d30"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("KG"_s),
+			$of(u"\u2d3d\u2d49\u2d54\u2d56\u2d49\u2d63\u2d49\u2d59\u2d5c\u2d30\u2d4f"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("KH"_s),
+			$of(u"\u2d3d\u2d30\u2d4e\u2d31\u2d53\u2d37\u2d62\u2d30"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("KI"_s),
+			$of(u"\u2d3d\u2d49\u2d54\u2d49\u2d31\u2d30\u2d5c\u2d49"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("KM"_s),
+			$of(u"\u2d47\u2d53\u2d4e\u2d53\u2d54"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("KN"_s),
+			$of(u"\u2d59\u2d30\u2d4f\u2d3d\u2d54\u2d49\u2d59 \u2d37 \u2d4f\u2d49\u2d3c\u2d49\u2d59"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("KP"_s),
+			$of(u"\u2d3d\u2d53\u2d54\u2d62\u2d30 \u2d4f \u2d49\u2d65\u2d65\u2d4d\u2d4e\u2d39"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("KR"_s),
+			$of(u"\u2d3d\u2d53\u2d54\u2d62\u2d30 \u2d4f \u2d49\u2d3c\u2d3c\u2d53\u2d59"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("KW"_s),
+			$of(u"\u2d4d\u2d3d\u2d61\u2d49\u2d5c"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("KY"_s),
+			$of(u"\u2d5c\u2d49\u2d33\u2d63\u2d49\u2d54\u2d49\u2d4f \u2d4f \u2d3d\u2d30\u2d62\u2d4e\u2d30\u2d4f"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("KZ"_s),
+			$of(u"\u2d3d\u2d30\u2d63\u2d30\u2d45\u2d59\u2d5c\u2d30\u2d4f"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("LA"_s),
+			$of(u"\u2d4d\u2d30\u2d61\u2d59"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("LB"_s),
+			$of(u"\u2d4d\u2d53\u2d31\u2d4f\u2d30\u2d4f"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("LC"_s),
+			$of(u"\u2d59\u2d30\u2d4f\u2d5c\u2d4d\u2d53\u2d59\u2d49"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("LI"_s),
+			$of(u"\u2d4d\u2d49\u2d3d\u2d49\u2d4f\u2d5b\u2d5c\u2d30\u2d62\u2d4f"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("LK"_s),
+			$of(u"\u2d59\u2d54\u2d49\u2d4d\u2d30\u2d4f\u2d3d\u2d30"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("LR"_s),
+			$of(u"\u2d4d\u2d49\u2d31\u2d49\u2d54\u2d62\u2d30"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("LS"_s),
+			$of(u"\u2d4d\u2d49\u2d5a\u2d53\u2d5f\u2d53"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("LT"_s),
+			$of(u"\u2d4d\u2d49\u2d5c\u2d61\u2d30\u2d4f\u2d62\u2d30"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("LU"_s),
+			$of(u"\u2d4d\u2d53\u2d3d\u2d59\u2d30\u2d4f\u2d31\u2d53\u2d54\u2d33"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("LV"_s),
+			$of(u"\u2d4d\u2d30\u2d5c\u2d3c\u2d62\u2d30"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("LY"_s),
+			$of(u"\u2d4d\u2d49\u2d31\u2d62\u2d30"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("MA"_s),
+			$of(u"\u2d4d\u2d4e\u2d56\u2d54\u2d49\u2d31"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("MC"_s),
+			$of(u"\u2d4e\u2d53\u2d4f\u2d30\u2d3d\u2d53"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("MD"_s),
+			$of(u"\u2d4e\u2d53\u2d4d\u2d37\u2d53\u2d3c\u2d62\u2d30"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("MG"_s),
+			$of(u"\u2d4e\u2d30\u2d37\u2d30\u2d56\u2d30\u2d5b\u2d47\u2d30\u2d54"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("MH"_s),
+			$of(u"\u2d5c\u2d49\u2d33\u2d63\u2d49\u2d54\u2d49\u2d4f \u2d4f \u2d4e\u2d30\u2d54\u2d5b\u2d30\u2d4d"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("ML"_s),
+			$of(u"\u2d4e\u2d30\u2d4d\u2d49"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("MM"_s),
+			$of(u"\u2d4e\u2d62\u2d30\u2d4f\u2d4e\u2d30\u2d54"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("MN"_s),
+			$of(u"\u2d4e\u2d4f\u2d56\u2d53\u2d4d\u2d62\u2d30"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("MP"_s),
+			$of(u"\u2d5c\u2d49\u2d33\u2d63\u2d49\u2d54\u2d49\u2d4f \u2d4f \u2d4e\u2d30\u2d54\u2d62\u2d30\u2d4f \u2d4f \u2d49\u2d65\u2d65\u2d4d\u2d4e\u2d39"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("MQ"_s),
+			$of(u"\u2d4e\u2d30\u2d54\u2d5c\u2d49\u2d4f\u2d49\u2d3d"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("MR"_s),
+			$of(u"\u2d4e\u2d53\u2d55\u2d49\u2d5f\u2d30\u2d4f\u2d62\u2d30"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("MS"_s),
+			$of(u"\u2d4e\u2d53\u2d4f\u2d59\u2d49\u2d54\u2d30\u2d5c"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("MT"_s),
+			$of(u"\u2d4e\u2d30\u2d4d\u2d5f\u2d30"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("MU"_s),
+			$of(u"\u2d4e\u2d53\u2d54\u2d49\u2d59"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("MV"_s),
+			$of(u"\u2d4e\u2d30\u2d4d\u2d37\u2d49\u2d3c"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("MW"_s),
+			$of(u"\u2d4e\u2d30\u2d4d\u2d30\u2d61\u2d49"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("MX"_s),
+			$of(u"\u2d4e\u2d49\u2d3d\u2d59\u2d49\u2d3d"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("MY"_s),
+			$of(u"\u2d4e\u2d30\u2d4d\u2d49\u2d63\u2d62\u2d30"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("MZ"_s),
+			$of(u"\u2d4e\u2d53\u2d63\u2d4f\u2d31\u2d49\u2d47"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("NA"_s),
+			$of(u"\u2d4f\u2d30\u2d4e\u2d49\u2d31\u2d62\u2d30"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("NC"_s),
+			$of(u"\u2d3d\u2d30\u2d4d\u2d49\u2d37\u2d53\u2d4f\u2d62\u2d30 \u2d5c\u2d30\u2d4e\u2d30\u2d62\u2d4f\u2d53\u2d5c"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("NE"_s),
+			$of(u"\u2d4f\u2d4f\u2d49\u2d4a\u2d49\u2d54"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("NF"_s),
+			$of(u"\u2d5c\u2d49\u2d33\u2d63\u2d49\u2d54\u2d49\u2d4f \u2d4f \u2d4f\u2d53\u2d54\u2d3c\u2d53\u2d4d\u2d3d"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("NG"_s),
+			$of(u"\u2d4f\u2d49\u2d4a\u2d49\u2d54\u2d62\u2d30"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("NI"_s),
+			$of(u"\u2d4f\u2d49\u2d3d\u2d30\u2d54\u2d30\u2d33\u2d61\u2d30"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("NL"_s),
+			$of(u"\u2d40\u2d53\u2d4d\u2d30\u2d4f\u2d37\u2d30"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("NO"_s),
+			$of(u"\u2d4f\u2d4f\u2d54\u2d61\u2d49\u2d4a"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("NP"_s),
+			$of(u"\u2d4f\u2d49\u2d31\u2d30\u2d4d"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("NR"_s),
+			$of(u"\u2d4f\u2d30\u2d61\u2d54\u2d53"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("NU"_s),
+			$of(u"\u2d4f\u2d49\u2d61\u2d49"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("NZ"_s),
+			$of(u"\u2d4f\u2d62\u2d53\u2d63\u2d49\u2d4d\u2d30\u2d4f\u2d37\u2d30"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("OM"_s),
+			$of(u"\u2d44\u2d53\u2d4e\u2d30\u2d4f"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("PA"_s),
+			$of(u"\u2d31\u2d30\u2d4f\u2d30\u2d4e\u2d30"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("PE"_s),
+			$of(u"\u2d31\u2d49\u2d54\u2d53"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("PF"_s),
+			$of(u"\u2d31\u2d53\u2d4d\u2d49\u2d4f\u2d49\u2d63\u2d62\u2d30 \u2d5c\u2d30\u2d3c\u2d54\u2d30\u2d4f\u2d59\u2d49\u2d59\u2d5c"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("PG"_s),
+			$of(u"\u2d31\u2d30\u2d31\u2d61\u2d30 \u2d56\u2d49\u2d4f\u2d62\u2d30 \u2d5c\u2d30\u2d4e\u2d30\u2d62\u2d4f\u2d53\u2d5c"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("PH"_s),
+			$of(u"\u2d3c\u2d49\u2d4d\u2d49\u2d31\u2d31\u2d49\u2d4f"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("PK"_s),
+			$of(u"\u2d31\u2d30\u2d3d\u2d49\u2d59\u2d5c\u2d30\u2d4f"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("PL"_s),
+			$of(u"\u2d31\u2d53\u2d4d\u2d53\u2d4f\u2d62\u2d30"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("PM"_s),
+			$of(u"\u2d59\u2d30\u2d4f\u2d31\u2d62\u2d49\u2d54 \u2d37 \u2d4e\u2d49\u2d3d\u2d4d\u2d53\u2d4f"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("PN"_s),
+			$of(u"\u2d31\u2d49\u2d5c\u2d3d\u2d30\u2d62\u2d54\u2d4f"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("PR"_s),
+			$of(u"\u2d31\u2d53\u2d54\u2d5c\u2d53 \u2d54\u2d49\u2d3d\u2d53"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("PS"_s),
+			$of(u"\u2d30\u2d33\u2d4e\u2d4e\u2d30\u2d39 \u2d4f \u2d5c\u2d30\u2d33\u2d53\u2d5c \u2d37 \u2d56\u2d63\u2d63\u2d30"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("PT"_s),
+			$of(u"\u2d31\u2d55\u2d5f\u2d47\u2d49\u2d63"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("PW"_s),
+			$of(u"\u2d31\u2d30\u2d4d\u2d30\u2d61"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("PY"_s),
+			$of(u"\u2d31\u2d30\u2d54\u2d30\u2d33\u2d61\u2d30\u2d62"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("QA"_s),
+			$of(u"\u2d47\u2d30\u2d5c\u2d30\u2d54"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("RE"_s),
+			$of(u"\u2d54\u2d49\u2d62\u2d53\u2d4f\u2d62\u2d53\u2d4f"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("RO"_s),
+			$of(u"\u2d54\u2d53\u2d4e\u2d30\u2d4f\u2d62\u2d30"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("RU"_s),
+			$of(u"\u2d54\u2d53\u2d59\u2d62\u2d30"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("RW"_s),
+			$of(u"\u2d54\u2d61\u2d30\u2d4f\u2d37\u2d30"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("SA"_s),
+			$of(u"\u2d59\u2d59\u2d30\u2d44\u2d53\u2d37\u2d49\u2d62\u2d30"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("SB"_s),
+			$of(u"\u2d5c\u2d49\u2d33\u2d63\u2d49\u2d54\u2d49\u2d4f \u2d4f \u2d59\u2d30\u2d4d\u2d53\u2d4e\u2d30\u2d4f"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("SC"_s),
+			$of(u"\u2d59\u2d59\u2d49\u2d5b\u2d49\u2d4d"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("SD"_s),
+			$of(u"\u2d59\u2d59\u2d53\u2d37\u2d30\u2d4f"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("SE"_s),
+			$of(u"\u2d59\u2d59\u2d61\u2d49\u2d37"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("SG"_s),
+			$of(u"\u2d59\u2d4f\u2d56\u2d30\u2d3c\u2d53\u2d54\u2d30"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("SH"_s),
+			$of(u"\u2d59\u2d30\u2d4f\u2d5c\u2d49\u2d4d\u2d49\u2d4f"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("SI"_s),
+			$of(u"\u2d59\u2d4d\u2d53\u2d3c\u2d49\u2d4f\u2d62\u2d30"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("SK"_s),
+			$of(u"\u2d59\u2d4d\u2d53\u2d3c\u2d30\u2d3d\u2d62\u2d30"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("SL"_s),
+			$of(u"\u2d59\u2d59\u2d49\u2d54\u2d30\u2d4d\u2d62\u2d53\u2d4f"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("SM"_s),
+			$of(u"\u2d59\u2d30\u2d4f\u2d4e\u2d30\u2d54\u2d49\u2d4f\u2d53"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("SN"_s),
+			$of(u"\u2d59\u2d59\u2d49\u2d4f\u2d49\u2d33\u2d30\u2d4d"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("SO"_s),
+			$of(u"\u2d5a\u2d5a\u2d53\u2d4e\u2d30\u2d4d"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("SR"_s),
+			$of(u"\u2d59\u2d53\u2d54\u2d49\u2d4f\u2d30\u2d4e"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("ST"_s),
+			$of(u"\u2d59\u2d30\u2d61\u2d5f\u2d53\u2d4e\u2d49 \u2d37 \u2d31\u2d54\u2d30\u2d4f\u2d59\u2d49\u2d31"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("SV"_s),
+			$of(u"\u2d59\u2d30\u2d4d\u2d3c\u2d30\u2d37\u2d53\u2d54"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("SY"_s),
+			$of(u"\u2d59\u2d53\u2d54\u2d62\u2d30"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("SZ"_s),
+			$of(u"\u2d59\u2d61\u2d30\u2d63\u2d49\u2d4d\u2d30\u2d4f\u2d37\u2d30"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("TC"_s),
+			$of(u"\u2d5c\u2d49\u2d33\u2d63\u2d49\u2d54\u2d49\u2d4f \u2d4f \u2d5c\u2d53\u2d54\u2d3d\u2d62\u2d30 \u2d37 \u2d3d\u2d30\u2d62\u2d3d"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("TD"_s),
+			$of(u"\u2d5c\u2d5b\u2d30\u2d37"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("TG"_s),
+			$of(u"\u2d5f\u2d53\u2d33\u2d53"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("TH"_s),
+			$of(u"\u2d5f\u2d30\u2d62\u2d4d\u2d30\u2d4f\u2d37"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("TJ"_s),
+			$of(u"\u2d5c\u2d30\u2d37\u2d4a\u2d30\u2d3d\u2d49\u2d59\u2d5c\u2d30\u2d4f"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("TK"_s),
+			$of(u"\u2d5f\u2d53\u2d3d\u2d4d\u2d30\u2d61"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("TL"_s),
+			$of(u"\u2d5c\u2d49\u2d4e\u2d53\u2d54 \u2d4f \u2d4d\u2d47\u2d31\u2d4d\u2d5c"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("TM"_s),
+			$of(u"\u2d5c\u2d53\u2d54\u2d3d\u2d4e\u2d30\u2d4f\u2d59\u2d5c\u2d30\u2d4f"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("TN"_s),
+			$of(u"\u2d5c\u2d53\u2d4f\u2d59"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("TO"_s),
+			$of(u"\u2d5f\u2d53\u2d4f\u2d33\u2d30"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("TR"_s),
+			$of(u"\u2d5c\u2d53\u2d54\u2d3d\u2d62\u2d30"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("TT"_s),
+			$of(u"\u2d5c\u2d54\u2d49\u2d4f\u2d49\u2d37\u2d30\u2d37 \u2d37 \u2d5f\u2d53\u2d31\u2d30\u2d33\u2d53"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("TV"_s),
+			$of(u"\u2d5c\u2d53\u2d3c\u2d30\u2d4d\u2d53"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("TW"_s),
+			$of(u"\u2d5f\u2d30\u2d62\u2d61\u2d30\u2d4f"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("TZ"_s),
+			$of(u"\u2d5f\u2d30\u2d4f\u2d65\u2d30\u2d4f\u2d62\u2d30"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("UA"_s),
+			$of(u"\u2d53\u2d3d\u2d54\u2d30\u2d4f\u2d62\u2d30"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("UG"_s),
+			$of(u"\u2d53\u2d56\u2d30\u2d4f\u2d37\u2d30"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("US"_s),
+			$of(u"\u2d49\u2d61\u2d53\u2d4f\u2d30\u2d3d \u2d4e\u2d53\u2d4f\u2d4f\u2d49\u2d4f \u2d4f \u2d4e\u2d49\u2d54\u2d49\u2d3d\u2d30\u2d4f"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("UY"_s),
+			$of(u"\u2d53\u2d54\u2d53\u2d33\u2d61\u2d30\u2d62"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("UZ"_s),
+			$of(u"\u2d53\u2d63\u2d31\u2d30\u2d3d\u2d49\u2d59\u2d5c\u2d30\u2d4f"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("VA"_s),
+			$of(u"\u2d30\u2d61\u2d30\u2d4f\u2d3d \u2d4f \u2d3c\u2d30\u2d5c\u2d49\u2d3d\u2d30\u2d4f"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("VC"_s),
+			$of(u"\u2d59\u2d30\u2d4f\u2d3c\u2d30\u2d4f\u2d59\u2d30\u2d4f \u2d37 \u2d33\u2d54\u2d49\u2d4f\u2d30\u2d37\u2d49\u2d4f"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("VE"_s),
+			$of(u"\u2d3c\u2d49\u2d4f\u2d63\u2d61\u2d49\u2d4d\u2d30"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("VG"_s),
+			$of(u"\u2d5c\u2d49\u2d33\u2d63\u2d49\u2d54\u2d49\u2d4f \u2d5c\u2d49\u2d4e\u2d33\u2d30\u2d37 \u2d4f \u2d4f\u2d4f\u2d33\u2d4d\u2d49\u2d63"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("VI"_s),
+			$of(u"\u2d5c\u2d49\u2d33\u2d63\u2d49\u2d54\u2d49\u2d4f \u2d5c\u2d49\u2d4e\u2d33\u2d30\u2d37 \u2d4f \u2d49\u2d61\u2d53\u2d4f\u2d30\u2d3d \u2d4e\u2d53\u2d4f\u2d4f\u2d49\u2d4f"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("VN"_s),
+			$of(u"\u2d3c\u2d49\u2d5c\u2d4f\u2d30\u2d4e"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("VU"_s),
+			$of(u"\u2d3c\u2d30\u2d4f\u2d61\u2d30\u2d5f\u2d53"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("WF"_s),
+			$of(u"\u2d61\u2d30\u2d4d\u2d49\u2d59 \u2d37 \u2d3c\u2d53\u2d5c\u2d53\u2d4f\u2d30"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("WS"_s),
+			$of(u"\u2d59\u2d30\u2d4e\u2d61\u2d30"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("YE"_s),
+			$of(u"\u2d62\u2d30\u2d4e\u2d30\u2d4f"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("YT"_s),
+			$of(u"\u2d4e\u2d30\u2d62\u2d53\u2d5f"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("ZA"_s),
+			$of(u"\u2d30\u2d3c\u2d54\u2d49\u2d47\u2d62\u2d30 \u2d4f \u2d49\u2d3c\u2d3c\u2d53\u2d59"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("ZM"_s),
+			$of(u"\u2d63\u2d30\u2d4e\u2d31\u2d62\u2d30"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("ZW"_s),
+			$of(u"\u2d63\u2d49\u2d4e\u2d31\u2d30\u2d31\u2d61\u2d49"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("ak"_s),
+			$of(u"\u2d5c\u2d30\u2d3d\u2d30\u2d4f\u2d5c"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("am"_s),
+			$of(u"\u2d5c\u2d30\u2d4e\u2d40\u2d30\u2d54\u2d49\u2d5c"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("ar"_s),
+			$of(u"\u2d5c\u2d30\u2d44\u2d54\u2d30\u2d31\u2d5c"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("be"_s),
+			$of(u"\u2d5c\u2d30\u2d31\u2d49\u2d4d\u2d30\u2d54\u2d53\u2d59\u2d5c"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("bg"_s),
+			$of(u"\u2d5c\u2d30\u2d31\u2d4d\u2d56\u2d30\u2d54\u2d49\u2d5c"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("bn"_s),
+			$of(u"\u2d5c\u2d30\u2d31\u2d4f\u2d56\u2d30\u2d4d\u2d49\u2d5c"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("cs"_s),
+			$of(u"\u2d5c\u2d30\u2d5c\u2d5b\u2d49\u2d3d\u2d49\u2d5c"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("de"_s),
+			$of(u"\u2d5c\u2d30\u2d4d\u2d49\u2d4e\u2d30\u2d4f\u2d5c"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("el"_s),
+			$of(u"\u2d5c\u2d30\u2d33\u2d54\u2d49\u2d33\u2d49\u2d5c"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("en"_s),
+			$of(u"\u2d5c\u2d30\u2d4f\u2d33\u2d4d\u2d49\u2d63\u2d5c"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("es"_s),
+			$of(u"\u2d5c\u2d30\u2d59\u2d31\u2d4f\u2d62\u2d53\u2d4d\u2d49\u2d5c"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("fa"_s),
+			$of(u"\u2d5c\u2d30\u2d3c\u2d53\u2d54\u2d59\u2d49\u2d5c"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("fr"_s),
+			$of(u"\u2d5c\u2d30\u2d3c\u2d54\u2d30\u2d4f\u2d59\u2d49\u2d59\u2d5c"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("ha"_s),
+			$of(u"\u2d5c\u2d30\u2d40\u2d30\u2d61\u2d59\u2d30\u2d5c"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("hi"_s),
+			$of(u"\u2d5c\u2d30\u2d40\u2d49\u2d4f\u2d37\u2d49\u2d5c"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("hu"_s),
+			$of(u"\u2d5c\u2d30\u2d40\u2d4f\u2d56\u2d30\u2d54\u2d49\u2d5c"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("id"_s),
+			$of(u"\u2d5c\u2d30\u2d4f\u2d37\u2d53\u2d4f\u2d49\u2d59\u2d49\u2d5c"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("ig"_s),
+			$of(u"\u2d5c\u2d49\u2d33\u2d31\u2d53\u2d5c"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("it"_s),
+			$of(u"\u2d5c\u2d30\u2d5f\u2d30\u2d4d\u2d62\u2d30\u2d4f\u2d5c"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("ja"_s),
+			$of(u"\u2d5c\u2d30\u2d4a\u2d30\u2d31\u2d31\u2d53\u2d4f\u2d49\u2d5c"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("jv"_s),
+			$of(u"\u2d5c\u2d30\u2d4a\u2d30\u2d3c\u2d30\u2d4f\u2d49\u2d5c"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("km"_s),
+			$of(u"\u2d5c\u2d30\u2d45\u2d4e\u2d49\u2d54\u2d5c"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("ko"_s),
+			$of(u"\u2d5c\u2d30\u2d3d\u2d53\u2d54\u2d49\u2d5c"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("ms"_s),
+			$of(u"\u2d5c\u2d30\u2d4e\u2d30\u2d4d\u2d30\u2d61\u2d49\u2d5c"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("my"_s),
+			$of(u"\u2d5c\u2d30\u2d31\u2d49\u2d54\u2d4e\u2d30\u2d4f\u2d49\u2d5c"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("ne"_s),
+			$of(u"\u2d5c\u2d30\u2d4f\u2d49\u2d31\u2d30\u2d4d\u2d49\u2d5c"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("nl"_s),
+			$of(u"\u2d5c\u2d30\u2d40\u2d53\u2d4d\u2d30\u2d4f\u2d37\u2d49\u2d5c"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("pa"_s),
+			$of(u"\u2d5c\u2d30\u2d31\u2d4f\u2d4a\u2d30\u2d31\u2d49\u2d5c"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("pl"_s),
+			$of(u"\u2d5c\u2d30\u2d31\u2d53\u2d4d\u2d53\u2d4f\u2d49\u2d5c"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("pt"_s),
+			$of(u"\u2d5c\u2d30\u2d31\u2d55\u2d5f\u2d47\u2d49\u2d63\u2d5c"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("ro"_s),
+			$of(u"\u2d5c\u2d30\u2d54\u2d53\u2d4e\u2d30\u2d4f\u2d49\u2d5c"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("ru"_s),
+			$of(u"\u2d5c\u2d30\u2d54\u2d53\u2d59\u2d49\u2d5c"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("rw"_s),
+			$of(u"\u2d5c\u2d30\u2d54\u2d53\u2d61\u2d30\u2d4f\u2d37\u2d49\u2d5c"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("so"_s),
+			$of(u"\u2d5c\u2d30\u2d59\u2d53\u2d4e\u2d30\u2d4d\u2d49\u2d5c"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("sv"_s),
+			$of(u"\u2d5c\u2d30\u2d59\u2d61\u2d49\u2d37\u2d49\u2d5c"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("ta"_s),
+			$of(u"\u2d5c\u2d30\u2d5c\u2d30\u2d4e\u2d49\u2d4d\u2d5c"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("th"_s),
+			$of(u"\u2d5c\u2d30\u2d5c\u2d30\u2d62\u2d4d\u2d30\u2d4f\u2d37\u2d49\u2d5c"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("tr"_s),
+			$of(u"\u2d5c\u2d30\u2d5c\u2d53\u2d54\u2d3d\u2d49\u2d5c"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("uk"_s),
+			$of(u"\u2d5c\u2d53\u2d3d\u2d54\u2d30\u2d4f\u2d49\u2d5c"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("ur"_s),
+			$of(u"\u2d5c\u2d53\u2d54\u2d37\u2d53\u2d5c"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("vi"_s),
+			$of(u"\u2d5c\u2d30\u2d3c\u2d49\u2d5c\u2d4f\u2d30\u2d4e\u2d49\u2d5c"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("yo"_s),
+			$of(u"\u2d5c\u2d30\u2d62\u2d54\u2d53\u2d31\u2d30\u2d5c"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("zh"_s),
+			$of(u"\u2d5c\u2d30\u2d5b\u2d49\u2d4f\u2d61\u2d49\u2d5c"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("zu"_s),
+			$of(u"\u2d5c\u2d30\u2d63\u2d53\u2d4d\u2d53\u2d5c"_s)
+		}),
+		$$new($ObjectArray, {
+			$of("shi"_s),
+			$of(u"\u2d5c\u2d30\u2d5b\u2d4d\u2d43\u2d49\u2d5c"_s)
+		})
+	}));
+	return data;
+}
+
+LocaleNames_shi::LocaleNames_shi() {
+}
+
+$Class* LocaleNames_shi::load$($String* name, bool initialize) {
+	$loadClass(LocaleNames_shi, name, initialize, &_LocaleNames_shi_ClassInfo_, allocate$LocaleNames_shi);
+	return class$;
+}
+
+$Class* LocaleNames_shi::class$ = nullptr;
+
+				} // ext
+			} // cldr
+		} // resources
+	} // util
+} // sun

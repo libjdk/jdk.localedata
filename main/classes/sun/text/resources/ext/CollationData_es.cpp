@@ -1,0 +1,66 @@
+#include <sun/text/resources/ext/CollationData_es.h>
+
+#include <java/lang/Array.h>
+#include <java/lang/Class.h>
+#include <java/lang/ClassInfo.h>
+#include <java/lang/MethodInfo.h>
+#include <java/lang/String.h>
+#include <java/lang/reflect/Constructor.h>
+#include <java/lang/reflect/Method.h>
+#include <java/util/ListResourceBundle.h>
+#include <jcpp.h>
+
+using $ObjectArray2 = $Array<::java::lang::Object, 2>;
+using $ClassInfo = ::java::lang::ClassInfo;
+using $MethodInfo = ::java::lang::MethodInfo;
+using $ListResourceBundle = ::java::util::ListResourceBundle;
+
+namespace sun {
+	namespace text {
+		namespace resources {
+			namespace ext {
+
+$MethodInfo _CollationData_es_MethodInfo_[] = {
+	{"<init>", "()V", nullptr, $PUBLIC, $method(static_cast<void(CollationData_es::*)()>(&CollationData_es::init$))},
+	{"getContents", "()[[Ljava/lang/Object;", nullptr, $PROTECTED | $FINAL},
+	{}
+};
+
+$ClassInfo _CollationData_es_ClassInfo_ = {
+	$PUBLIC | $ACC_SUPER,
+	"sun.text.resources.ext.CollationData_es",
+	"java.util.ListResourceBundle",
+	nullptr,
+	nullptr,
+	_CollationData_es_MethodInfo_
+};
+
+$Object* allocate$CollationData_es($Class* clazz) {
+	return $of($alloc(CollationData_es));
+}
+
+void CollationData_es::init$() {
+	$ListResourceBundle::init$();
+}
+
+$ObjectArray2* CollationData_es::getContents() {
+	return $new($ObjectArray2, {$$new($ObjectArray, {
+		$of("Rule"_s),
+		$of(u"& N < n\u0303, N\u0303 "_s)
+	})});
+}
+
+CollationData_es::CollationData_es() {
+}
+
+$Class* CollationData_es::load$($String* name, bool initialize) {
+	$loadClass(CollationData_es, name, initialize, &_CollationData_es_ClassInfo_, allocate$CollationData_es);
+	return class$;
+}
+
+$Class* CollationData_es::class$ = nullptr;
+
+			} // ext
+		} // resources
+	} // text
+} // sun
