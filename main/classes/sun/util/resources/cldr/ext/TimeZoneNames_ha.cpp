@@ -48,6 +48,7 @@ void TimeZoneNames_ha::init$() {
 }
 
 $ObjectArray2* TimeZoneNames_ha::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, GMT, $new($StringArray, {
 		"Lokacin Greenwhich a London"_s,
 		""_s,

@@ -45,6 +45,7 @@ void CurrencyNames_ar_LB::init$() {
 }
 
 $ObjectArray2* CurrencyNames_ar_LB::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {$$new($ObjectArray, {
 		$of("SDG"_s),
 		$of("SDG"_s)

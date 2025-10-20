@@ -45,6 +45,7 @@ void CurrencyNames_hr_BA::init$() {
 }
 
 $ObjectArray2* CurrencyNames_hr_BA::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {$$new($ObjectArray, {
 		$of("BAM"_s),
 		$of("KM"_s)

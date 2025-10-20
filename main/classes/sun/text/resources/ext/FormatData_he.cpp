@@ -44,6 +44,7 @@ void FormatData_he::init$() {
 }
 
 $ObjectArray2* FormatData_he::getContents() {
+	$useLocalCurrentObjectStackCache();
 	return $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("MonthNames"_s),

@@ -45,6 +45,7 @@ void LocaleNames_bs_Cyrl::init$() {
 }
 
 $ObjectArray2* LocaleNames_bs_Cyrl::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($String, metaValue_gu, u"\u0433\u0443\u045f\u0430\u0440\u0430\u0442\u0438"_s);
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {

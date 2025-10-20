@@ -45,6 +45,7 @@ void CurrencyNames_kln::init$() {
 }
 
 $ObjectArray2* CurrencyNames_kln::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("KES"_s),

@@ -44,6 +44,7 @@ void JavaTimeSupplementary_fr_BE::init$() {
 }
 
 $ObjectArray2* JavaTimeSupplementary_fr_BE::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, sharedTimePatterns, $new($StringArray, {
 		"H \'h\' mm \'min\' ss \'s\' zzzz"_s,
 		"HH:mm:ss z"_s,

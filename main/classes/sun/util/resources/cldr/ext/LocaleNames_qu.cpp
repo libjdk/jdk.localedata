@@ -45,6 +45,7 @@ void LocaleNames_qu::init$() {
 }
 
 $ObjectArray2* LocaleNames_qu::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($String, metaValue_MM, "Myanmar"_s);
 	$var($String, metaValue_ar, "Arabe Simi"_s);
 	$var($String, metaValue_bn, "Bangla Simi"_s);

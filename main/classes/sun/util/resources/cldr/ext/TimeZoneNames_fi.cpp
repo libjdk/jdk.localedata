@@ -48,6 +48,7 @@ void TimeZoneNames_fi::init$() {
 }
 
 $ObjectArray2* TimeZoneNames_fi::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, GMT, $new($StringArray, {
 		"Greenwichin normaaliaika"_s,
 		""_s,

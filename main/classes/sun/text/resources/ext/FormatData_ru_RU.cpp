@@ -44,6 +44,7 @@ void FormatData_ru_RU::init$() {
 }
 
 $ObjectArray2* FormatData_ru_RU::getContents() {
+	$useLocalCurrentObjectStackCache();
 	return $new($ObjectArray2, {$$new($ObjectArray, {
 		$of("NumberPatterns"_s),
 		$of($$new($StringArray, {

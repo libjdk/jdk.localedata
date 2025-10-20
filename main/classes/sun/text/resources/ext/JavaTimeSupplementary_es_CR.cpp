@@ -44,6 +44,7 @@ void JavaTimeSupplementary_es_CR::init$() {
 }
 
 $ObjectArray2* JavaTimeSupplementary_es_CR::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, sharedAmPmMarkers, $new($StringArray, {
 		"a.m."_s,
 		"p.m."_s

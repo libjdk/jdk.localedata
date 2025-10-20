@@ -45,6 +45,7 @@ void CurrencyNames_nnh::init$() {
 }
 
 $ObjectArray2* CurrencyNames_nnh::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {$$new($ObjectArray, {
 		$of("xaf"_s),
 		$of(u"fel\u00e1\u014b CFA"_s)

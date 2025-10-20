@@ -45,6 +45,7 @@ void LocaleNames_hu::init$() {
 }
 
 $ObjectArray2* LocaleNames_hu::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($String, metaValue_JP, u"Jap\u00e1n"_s);
 	$var($String, metaValue_zbl, u"Bliss jelk\u00e9prendszer"_s);
 	$var($String, metaValue_Hant, u"Hagyom\u00e1nyos"_s);

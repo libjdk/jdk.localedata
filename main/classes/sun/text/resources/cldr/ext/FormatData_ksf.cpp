@@ -45,6 +45,7 @@ void FormatData_ksf::init$() {
 }
 
 $ObjectArray2* FormatData_ksf::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_MonthNames, $new($StringArray, {
 		u"\u014bw\u00ed\u00ed a nt\u0254\u0301nt\u0254"_s,
 		u"\u014bw\u00ed\u00ed ak\u01dd b\u025b\u0301\u025b"_s,

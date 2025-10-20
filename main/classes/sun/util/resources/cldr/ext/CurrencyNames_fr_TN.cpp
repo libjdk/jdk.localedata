@@ -45,6 +45,7 @@ void CurrencyNames_fr_TN::init$() {
 }
 
 $ObjectArray2* CurrencyNames_fr_TN::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {$$new($ObjectArray, {
 		$of("TND"_s),
 		$of("DT"_s)

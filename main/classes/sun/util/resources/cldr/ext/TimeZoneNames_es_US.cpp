@@ -47,6 +47,7 @@ void TimeZoneNames_es_US::init$() {
 }
 
 $ObjectArray2* TimeZoneNames_es_US::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, Apia, $new($StringArray, {
 		u"hora est\u00e1ndar de Apia"_s,
 		""_s,

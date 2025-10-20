@@ -45,6 +45,7 @@ void CurrencyNames_pt_CV::init$() {
 }
 
 $ObjectArray2* CurrencyNames_pt_CV::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("CVE"_s),

@@ -54,6 +54,7 @@ $Object* allocate$TimeZoneNames_zh_HK($Class* clazz) {
 }
 
 void TimeZoneNames_zh_HK::init$() {
+	$useLocalCurrentObjectStackCache();
 	$TimeZoneNamesBundle::init$();
 	$init($Locale);
 	$var($ResourceBundle, bundle, $nc($($nc(($cast($ResourceBundleBasedAdapter, $($LocaleProviderAdapter::forJRE()))))->getLocaleData()))->getTimeZoneNames($Locale::TAIWAN));

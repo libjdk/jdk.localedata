@@ -45,6 +45,7 @@ void FormatData_zh_Hant_HK::init$() {
 }
 
 $ObjectArray2* FormatData_zh_Hant_HK::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_QuarterAbbreviations, $new($StringArray, {
 		"Q1"_s,
 		"Q2"_s,

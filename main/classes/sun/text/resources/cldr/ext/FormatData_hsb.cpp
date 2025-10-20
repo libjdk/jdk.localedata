@@ -45,6 +45,7 @@ void FormatData_hsb::init$() {
 }
 
 $ObjectArray2* FormatData_hsb::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_MonthNames, $new($StringArray, {
 		"januara"_s,
 		"februara"_s,

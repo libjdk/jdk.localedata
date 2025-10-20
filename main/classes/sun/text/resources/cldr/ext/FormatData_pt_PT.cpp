@@ -45,6 +45,7 @@ void FormatData_pt_PT::init$() {
 }
 
 $ObjectArray2* FormatData_pt_PT::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_DayAbbreviations, $new($StringArray, {
 		"domingo"_s,
 		"segunda"_s,

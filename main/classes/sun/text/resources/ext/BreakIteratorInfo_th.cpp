@@ -44,6 +44,7 @@ void BreakIteratorInfo_th::init$() {
 }
 
 $ObjectArray2* BreakIteratorInfo_th::getContents() {
+	$useLocalCurrentObjectStackCache();
 	return $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("BreakIteratorClasses"_s),

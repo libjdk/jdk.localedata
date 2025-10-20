@@ -44,6 +44,7 @@ void CurrencyNames_es_VE::init$() {
 }
 
 $ObjectArray2* CurrencyNames_es_VE::getContents() {
+	$useLocalCurrentObjectStackCache();
 	return $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("VEB"_s),

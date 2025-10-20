@@ -45,6 +45,7 @@ void LocaleNames_shi_Latn::init$() {
 }
 
 $ObjectArray2* LocaleNames_shi_Latn::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("AD"_s),

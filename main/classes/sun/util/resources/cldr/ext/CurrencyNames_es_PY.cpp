@@ -45,6 +45,7 @@ void CurrencyNames_es_PY::init$() {
 }
 
 $ObjectArray2* CurrencyNames_es_PY::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {$$new($ObjectArray, {
 		$of("PYG"_s),
 		$of("Gs."_s)

@@ -47,6 +47,7 @@ void TimeZoneNames_nn::init$() {
 }
 
 $ObjectArray2* TimeZoneNames_nn::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, Apia, $new($StringArray, {
 		"normaltid for Apia"_s,
 		""_s,

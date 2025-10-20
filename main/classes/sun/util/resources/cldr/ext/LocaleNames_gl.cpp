@@ -45,6 +45,7 @@ void LocaleNames_gl::init$() {
 }
 
 $ObjectArray2* LocaleNames_gl::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($String, metaValue_ar, u"\u00e1rabe"_s);
 	$var($String, metaValue_bn, u"bengal\u00ed"_s);
 	$var($String, metaValue_bo, "tibetano"_s);

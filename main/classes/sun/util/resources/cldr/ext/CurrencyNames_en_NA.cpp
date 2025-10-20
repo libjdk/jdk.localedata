@@ -45,6 +45,7 @@ void CurrencyNames_en_NA::init$() {
 }
 
 $ObjectArray2* CurrencyNames_en_NA::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {$$new($ObjectArray, {
 		$of("NAD"_s),
 		$of("$"_s)

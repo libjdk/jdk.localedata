@@ -48,6 +48,7 @@ void TimeZoneNames_pcm::init$() {
 }
 
 $ObjectArray2* TimeZoneNames_pcm::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, GMT, $new($StringArray, {
 		u"Gr\u00ednw\u00edch M\u00edn Taim"_s,
 		""_s,

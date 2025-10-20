@@ -45,6 +45,7 @@ void LocaleNames_gd::init$() {
 }
 
 $ObjectArray2* LocaleNames_gd::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($String, metaValue_MM, u"Mi\u00e0nmar"_s);
 	$var($String, metaValue_NR, "Nabhru"_s);
 	$var($String, metaValue_TK, "Tokelau"_s);

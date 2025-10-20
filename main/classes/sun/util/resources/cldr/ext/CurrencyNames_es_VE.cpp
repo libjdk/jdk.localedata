@@ -45,6 +45,7 @@ void CurrencyNames_es_VE::init$() {
 }
 
 $ObjectArray2* CurrencyNames_es_VE::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("VEF"_s),

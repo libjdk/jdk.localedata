@@ -45,6 +45,7 @@ void CurrencyNames_seh::init$() {
 }
 
 $ObjectArray2* CurrencyNames_seh::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("MZN"_s),

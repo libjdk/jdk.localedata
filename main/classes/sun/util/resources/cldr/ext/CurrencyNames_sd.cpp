@@ -45,6 +45,7 @@ void CurrencyNames_sd::init$() {
 }
 
 $ObjectArray2* CurrencyNames_sd::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("AED"_s),

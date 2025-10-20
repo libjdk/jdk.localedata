@@ -45,6 +45,7 @@ void LocaleNames_se::init$() {
 }
 
 $ObjectArray2* LocaleNames_se::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("001"_s),

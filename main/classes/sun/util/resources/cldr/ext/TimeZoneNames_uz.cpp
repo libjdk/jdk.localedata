@@ -48,6 +48,7 @@ void TimeZoneNames_uz::init$() {
 }
 
 $ObjectArray2* TimeZoneNames_uz::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, GMT, $new($StringArray, {
 		u"Grinvich o\u2018rtacha vaqti"_s,
 		""_s,

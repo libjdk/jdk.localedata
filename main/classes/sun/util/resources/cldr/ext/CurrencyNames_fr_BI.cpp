@@ -45,6 +45,7 @@ void CurrencyNames_fr_BI::init$() {
 }
 
 $ObjectArray2* CurrencyNames_fr_BI::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {$$new($ObjectArray, {
 		$of("BIF"_s),
 		$of("FBu"_s)

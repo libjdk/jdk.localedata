@@ -47,6 +47,7 @@ void TimeZoneNames_ne_IN::init$() {
 }
 
 $ObjectArray2* TimeZoneNames_ne_IN::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, India, $new($StringArray, {
 		u"\u092d\u093e\u0930\u0924\u0940\u092f \u092e\u093e\u0928\u0915 \u0938\u092e\u092f"_s,
 		"IST"_s,

@@ -45,6 +45,7 @@ void FormatData_de_CH::init$() {
 }
 
 $ObjectArray2* FormatData_de_CH::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("latn.NumberElements"_s),

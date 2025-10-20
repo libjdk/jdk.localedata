@@ -47,6 +47,7 @@ void TimeZoneNames_es_EC::init$() {
 }
 
 $ObjectArray2* TimeZoneNames_es_EC::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, Ecuador, $new($StringArray, {
 		"hora de Ecuador"_s,
 		"ECT"_s,

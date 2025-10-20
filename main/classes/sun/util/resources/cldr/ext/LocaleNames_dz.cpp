@@ -45,6 +45,7 @@ void LocaleNames_dz::init$() {
 }
 
 $ObjectArray2* LocaleNames_dz::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("001"_s),

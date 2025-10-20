@@ -45,6 +45,7 @@ void LocaleNames_vi::init$() {
 }
 
 $ObjectArray2* LocaleNames_vi::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($String, metaValue_ssy, u"Ti\u1ebfng Saho"_s);
 	$var($String, metaValue_key_nu, u"S\u1ed1"_s);
 	$var($ObjectArray2, data, $new($ObjectArray2, {

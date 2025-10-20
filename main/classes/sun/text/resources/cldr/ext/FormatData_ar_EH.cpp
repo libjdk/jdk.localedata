@@ -45,6 +45,7 @@ void FormatData_ar_EH::init$() {
 }
 
 $ObjectArray2* FormatData_ar_EH::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {$$new($ObjectArray, {
 		$of("DefaultNumberingSystem"_s),
 		$of("latn"_s)

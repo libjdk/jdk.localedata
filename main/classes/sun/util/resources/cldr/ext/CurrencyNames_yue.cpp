@@ -45,6 +45,7 @@ void CurrencyNames_yue::init$() {
 }
 
 $ObjectArray2* CurrencyNames_yue::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("ADP"_s),

@@ -48,6 +48,7 @@ void TimeZoneNames_kea::init$() {
 }
 
 $ObjectArray2* TimeZoneNames_kea::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, GMT, $new($StringArray, {
 		u"Ora M\u00e9diu di Greenwich"_s,
 		""_s,

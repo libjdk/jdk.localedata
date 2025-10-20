@@ -45,6 +45,7 @@ void CurrencyNames_uz_Arab::init$() {
 }
 
 $ObjectArray2* CurrencyNames_uz_Arab::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("AFN"_s),

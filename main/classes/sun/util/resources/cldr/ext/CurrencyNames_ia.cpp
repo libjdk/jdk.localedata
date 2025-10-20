@@ -45,6 +45,7 @@ void CurrencyNames_ia::init$() {
 }
 
 $ObjectArray2* CurrencyNames_ia::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("NLG"_s),

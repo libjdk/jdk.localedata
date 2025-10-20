@@ -45,6 +45,7 @@ void CurrencyNames_ebu::init$() {
 }
 
 $ObjectArray2* CurrencyNames_ebu::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("KES"_s),

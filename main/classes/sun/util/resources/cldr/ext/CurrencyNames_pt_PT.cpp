@@ -45,6 +45,7 @@ void CurrencyNames_pt_PT::init$() {
 }
 
 $ObjectArray2* CurrencyNames_pt_PT::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("LTL"_s),

@@ -45,6 +45,7 @@ void FormatData_kl::init$() {
 }
 
 $ObjectArray2* FormatData_kl::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_MonthNames, $new($StringArray, {
 		"januaarip"_s,
 		"februaarip"_s,

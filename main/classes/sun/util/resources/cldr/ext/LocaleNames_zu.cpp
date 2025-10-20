@@ -45,6 +45,7 @@ void LocaleNames_zu::init$() {
 }
 
 $ObjectArray2* LocaleNames_zu::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($String, metaValue_ar, "isi-Arabic"_s);
 	$var($String, metaValue_el, "isi-Greek"_s);
 	$var($String, metaValue_gu, "isi-Gujarati"_s);

@@ -45,6 +45,7 @@ void CurrencyNames_smn::init$() {
 }
 
 $ObjectArray2* CurrencyNames_smn::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("dkk"_s),

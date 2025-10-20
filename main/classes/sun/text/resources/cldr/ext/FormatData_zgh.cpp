@@ -45,6 +45,7 @@ void FormatData_zgh::init$() {
 }
 
 $ObjectArray2* FormatData_zgh::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_MonthNames, $new($StringArray, {
 		u"\u2d49\u2d4f\u2d4f\u2d30\u2d62\u2d54"_s,
 		u"\u2d31\u2d55\u2d30\u2d62\u2d55"_s,

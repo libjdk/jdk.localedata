@@ -44,6 +44,7 @@ void LocaleNames_sk::init$() {
 }
 
 $ObjectArray2* LocaleNames_sk::getContents() {
+	$useLocalCurrentObjectStackCache();
 	return $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("SK"_s),

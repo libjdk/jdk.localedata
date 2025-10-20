@@ -45,6 +45,7 @@ void FormatData_kkj::init$() {
 }
 
 $ObjectArray2* FormatData_kkj::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_MonthNames, $new($StringArray, {
 		"pamba"_s,
 		"wanja"_s,

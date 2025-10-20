@@ -45,6 +45,7 @@ void FormatData_luy::init$() {
 }
 
 $ObjectArray2* FormatData_luy::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_MonthNames, $new($StringArray, {
 		"Januari"_s,
 		"Februari"_s,

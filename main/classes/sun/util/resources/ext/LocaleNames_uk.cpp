@@ -44,6 +44,7 @@ void LocaleNames_uk::init$() {
 }
 
 $ObjectArray2* LocaleNames_uk::getContents() {
+	$useLocalCurrentObjectStackCache();
 	return $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("UA"_s),

@@ -45,6 +45,7 @@ void LocaleNames_de_CH::init$() {
 }
 
 $ObjectArray2* LocaleNames_de_CH::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("BN"_s),

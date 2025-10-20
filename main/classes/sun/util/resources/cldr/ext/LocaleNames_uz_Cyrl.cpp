@@ -45,6 +45,7 @@ void LocaleNames_uz_Cyrl::init$() {
 }
 
 $ObjectArray2* LocaleNames_uz_Cyrl::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("001"_s),

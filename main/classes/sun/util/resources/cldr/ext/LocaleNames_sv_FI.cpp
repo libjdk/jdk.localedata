@@ -45,6 +45,7 @@ void LocaleNames_sv_FI::init$() {
 }
 
 $ObjectArray2* LocaleNames_sv_FI::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {$$new($ObjectArray, {
 		$of("key.tz"_s),
 		$of("tidszon"_s)

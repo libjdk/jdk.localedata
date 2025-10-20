@@ -44,6 +44,7 @@ void LocaleNames_cs::init$() {
 }
 
 $ObjectArray2* LocaleNames_cs::getContents() {
+	$useLocalCurrentObjectStackCache();
 	return $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("CZ"_s),

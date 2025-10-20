@@ -44,6 +44,7 @@ void FormatData_ar_JO::init$() {
 }
 
 $ObjectArray2* FormatData_ar_JO::getContents() {
+	$useLocalCurrentObjectStackCache();
 	return $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("MonthNames"_s),

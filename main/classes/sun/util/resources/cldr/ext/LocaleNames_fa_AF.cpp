@@ -45,6 +45,7 @@ void LocaleNames_fa_AF::init$() {
 }
 
 $ObjectArray2* LocaleNames_fa_AF::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($String, metaValue_mn, u"\u0645\u063a\u0644\u06cc"_s);
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {

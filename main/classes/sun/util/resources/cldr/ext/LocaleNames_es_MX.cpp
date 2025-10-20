@@ -45,6 +45,7 @@ void LocaleNames_es_MX::init$() {
 }
 
 $ObjectArray2* LocaleNames_es_MX::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("011"_s),

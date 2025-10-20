@@ -124,6 +124,7 @@ void TimeZoneNames_ko::init$() {
 }
 
 $ObjectArray2* TimeZoneNames_ko::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, ACT, $new($StringArray, {
 		u"\uc5d0\uc774\ucee4 \uc2dc\uac04"_s,
 		"ACT"_s,

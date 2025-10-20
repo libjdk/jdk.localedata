@@ -44,6 +44,7 @@ void CurrencyNames_be_BY::init$() {
 }
 
 $ObjectArray2* CurrencyNames_be_BY::getContents() {
+	$useLocalCurrentObjectStackCache();
 	return $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("BYN"_s),

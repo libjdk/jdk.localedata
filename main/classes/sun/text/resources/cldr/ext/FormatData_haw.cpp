@@ -45,6 +45,7 @@ void FormatData_haw::init$() {
 }
 
 $ObjectArray2* FormatData_haw::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_MonthNames, $new($StringArray, {
 		"Ianuali"_s,
 		"Pepeluali"_s,

@@ -45,6 +45,7 @@ void CurrencyNames_zh_Hans_MO::init$() {
 }
 
 $ObjectArray2* CurrencyNames_zh_Hans_MO::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("CNY"_s),

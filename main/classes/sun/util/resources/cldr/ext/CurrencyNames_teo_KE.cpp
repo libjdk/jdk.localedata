@@ -45,6 +45,7 @@ void CurrencyNames_teo_KE::init$() {
 }
 
 $ObjectArray2* CurrencyNames_teo_KE::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {$$new($ObjectArray, {
 		$of("KES"_s),
 		$of("Ksh"_s)

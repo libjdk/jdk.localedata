@@ -45,6 +45,7 @@ void FormatData_seh::init$() {
 }
 
 $ObjectArray2* FormatData_seh::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_MonthNames, $new($StringArray, {
 		"Janeiro"_s,
 		"Fevreiro"_s,

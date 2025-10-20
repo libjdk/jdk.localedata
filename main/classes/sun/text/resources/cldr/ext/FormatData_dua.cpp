@@ -45,6 +45,7 @@ void FormatData_dua::init$() {
 }
 
 $ObjectArray2* FormatData_dua::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_MonthNames, $new($StringArray, {
 		u"dim\u0254\u0301di"_s,
 		u"\u014bg\u0254nd\u025b"_s,

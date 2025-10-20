@@ -124,6 +124,7 @@ void TimeZoneNames_sv::init$() {
 }
 
 $ObjectArray2* TimeZoneNames_sv::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, ACT, $new($StringArray, {
 		"Acre, normaltid"_s,
 		"ACT"_s,

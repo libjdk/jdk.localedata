@@ -45,6 +45,7 @@ void CurrencyNames_ln_AO::init$() {
 }
 
 $ObjectArray2* CurrencyNames_ln_AO::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {$$new($ObjectArray, {
 		$of("AOA"_s),
 		$of("Kz"_s)

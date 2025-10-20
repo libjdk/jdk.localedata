@@ -45,6 +45,7 @@ void FormatData_az::init$() {
 }
 
 $ObjectArray2* FormatData_az::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_MonthNames, $new($StringArray, {
 		"yanvar"_s,
 		"fevral"_s,

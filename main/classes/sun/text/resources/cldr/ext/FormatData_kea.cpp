@@ -45,6 +45,7 @@ void FormatData_kea::init$() {
 }
 
 $ObjectArray2* FormatData_kea::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_MonthNames, $new($StringArray, {
 		"Janeru"_s,
 		"Febreru"_s,

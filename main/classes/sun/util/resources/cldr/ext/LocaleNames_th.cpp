@@ -45,6 +45,7 @@ void LocaleNames_th::init$() {
 }
 
 $ObjectArray2* LocaleNames_th::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($String, metaValue_AL, u"\u0e41\u0e2d\u0e25\u0e40\u0e1a\u0e40\u0e19\u0e35\u0e22"_s);
 	$var($String, metaValue_AM, u"\u0e2d\u0e32\u0e23\u0e4c\u0e40\u0e21\u0e40\u0e19\u0e35\u0e22"_s);
 	$var($String, metaValue_AZ, u"\u0e2d\u0e32\u0e40\u0e0b\u0e2d\u0e23\u0e4c\u0e44\u0e1a\u0e08\u0e32\u0e19"_s);

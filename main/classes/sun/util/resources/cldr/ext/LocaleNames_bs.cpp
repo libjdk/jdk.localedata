@@ -45,6 +45,7 @@ void LocaleNames_bs::init$() {
 }
 
 $ObjectArray2* LocaleNames_bs::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($String, metaValue_tl, "tagalog"_s);
 	$var($String, metaValue_chr, u"\u010deroki"_s);
 	$var($ObjectArray2, data, $new($ObjectArray2, {

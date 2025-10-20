@@ -45,6 +45,7 @@ void LocaleNames_gv::init$() {
 }
 
 $ObjectArray2* LocaleNames_gv::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("GB"_s),

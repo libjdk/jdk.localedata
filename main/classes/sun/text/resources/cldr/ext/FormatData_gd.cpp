@@ -45,6 +45,7 @@ void FormatData_gd::init$() {
 }
 
 $ObjectArray2* FormatData_gd::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_MonthNames, $new($StringArray, {
 		"dhen Fhaoilleach"_s,
 		"dhen Ghearran"_s,

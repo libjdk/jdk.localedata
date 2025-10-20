@@ -48,6 +48,7 @@ void TimeZoneNames_sr_Latn::init$() {
 }
 
 $ObjectArray2* TimeZoneNames_sr_Latn::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, GMT, $new($StringArray, {
 		u"Srednje vreme po Grini\u010du"_s,
 		"GMT"_s,

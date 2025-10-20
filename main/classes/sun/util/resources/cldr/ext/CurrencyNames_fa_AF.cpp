@@ -45,6 +45,7 @@ void CurrencyNames_fa_AF::init$() {
 }
 
 $ObjectArray2* CurrencyNames_fa_AF::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("aud"_s),

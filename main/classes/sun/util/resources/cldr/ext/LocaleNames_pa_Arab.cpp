@@ -45,6 +45,7 @@ void LocaleNames_pa_Arab::init$() {
 }
 
 $ObjectArray2* LocaleNames_pa_Arab::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("PK"_s),

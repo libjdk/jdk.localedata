@@ -123,11 +123,13 @@ void FormatLocale::init$() {
 
 void FormatLocale::main($StringArray* args) {
 	$init(FormatLocale);
+	$useLocalCurrentObjectStackCache();
 	$nc($($IntStream::range(0, $nc(FormatLocale::formatLocale)->size())))->forEach(static_cast<$IntConsumer*>($$new(FormatLocale$$Lambda$lambda$main$0)));
 }
 
 void FormatLocale::lambda$main$0(int32_t i) {
 	$init(FormatLocale);
+	$useLocalCurrentObjectStackCache();
 	$init($Locale$Category);
 	$Locale::setDefault($Locale$Category::FORMAT, $cast($Locale, $($nc(FormatLocale::formatLocale)->get(i))));
 	$var($ByteArrayOutputStream, baos, $new($ByteArrayOutputStream));

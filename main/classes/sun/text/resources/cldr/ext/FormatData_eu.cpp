@@ -45,6 +45,7 @@ void FormatData_eu::init$() {
 }
 
 $ObjectArray2* FormatData_eu::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_MonthNames, $new($StringArray, {
 		"urtarrilak"_s,
 		"otsailak"_s,

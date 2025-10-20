@@ -124,6 +124,7 @@ void HijrahConfigCheck::init$() {
 
 void HijrahConfigCheck::main($StringArray* args) {
 	$init(HijrahConfigCheck);
+	$useLocalCurrentObjectStackCache();
 	if ($nc($($nc($($nc($($Chronology::getAvailableChronologies()))->stream()))->filter(static_cast<$Predicate*>($$new(HijrahConfigCheck$$Lambda$lambda$main$0)))))->count() != 1) {
 		$throwNew($RuntimeException, $$str({HijrahConfigCheck::CALTYPE, " chronology was not found, or appeared more than once in Chronology.getAvailableChronologies()"_s}));
 	}

@@ -45,6 +45,7 @@ void LocaleNames_agq::init$() {
 }
 
 $ObjectArray2* LocaleNames_agq::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($String, metaValue_RO, u"L\u00f9many\u00eca"_s);
 	$var($String, metaValue_RW, u"L\u00f9wand\u00e0"_s);
 	$var($ObjectArray2, data, $new($ObjectArray2, {

@@ -44,6 +44,7 @@ void JavaTimeSupplementary_en_CA::init$() {
 }
 
 $ObjectArray2* JavaTimeSupplementary_en_CA::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, sharedDatePatterns, $new($StringArray, {
 		"EEEE, MMMM d, y GGGG"_s,
 		"MMMM d, y GGGG"_s,

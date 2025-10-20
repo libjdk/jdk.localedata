@@ -48,6 +48,7 @@ void TimeZoneNames_ksh::init$() {
 }
 
 $ObjectArray2* TimeZoneNames_ksh::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, GMT, $new($StringArray, {
 		"Greenwich sing Standat-Zick"_s,
 		""_s,

@@ -45,6 +45,7 @@ void FormatData_cy::init$() {
 }
 
 $ObjectArray2* FormatData_cy::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_MonthNames, $new($StringArray, {
 		"Ionawr"_s,
 		"Chwefror"_s,

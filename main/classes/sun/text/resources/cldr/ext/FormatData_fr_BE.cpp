@@ -45,6 +45,7 @@ void FormatData_fr_BE::init$() {
 }
 
 $ObjectArray2* FormatData_fr_BE::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_buddhist_TimePatterns, $new($StringArray, {
 		"H \'h\' mm \'min\' ss \'s\' zzzz"_s,
 		""_s,

@@ -47,6 +47,7 @@ void TimeZoneNames_es_CL::init$() {
 }
 
 $ObjectArray2* TimeZoneNames_es_CL::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, Chile, $new($StringArray, {
 		u"hora est\u00e1ndar de Chile"_s,
 		"CLT"_s,

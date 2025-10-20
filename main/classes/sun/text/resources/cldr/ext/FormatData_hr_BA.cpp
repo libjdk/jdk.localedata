@@ -45,6 +45,7 @@ void FormatData_hr_BA::init$() {
 }
 
 $ObjectArray2* FormatData_hr_BA::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_QuarterAbbreviations, $new($StringArray, {
 		"1. kv."_s,
 		"2. kv."_s,

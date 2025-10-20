@@ -45,6 +45,7 @@ void LocaleNames_ceb::init$() {
 }
 
 $ObjectArray2* LocaleNames_ceb::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($String, metaValue_ja, "Hinapon"_s);
 	$var($String, metaValue_ko, "Korean"_s);
 	$var($ObjectArray2, data, $new($ObjectArray2, {

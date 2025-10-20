@@ -45,6 +45,7 @@ void CurrencyNames_ff_Adlm_LR::init$() {
 }
 
 $ObjectArray2* CurrencyNames_ff_Adlm_LR::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("GNF"_s),

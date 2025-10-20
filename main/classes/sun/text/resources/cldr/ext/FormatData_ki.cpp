@@ -45,6 +45,7 @@ void FormatData_ki::init$() {
 }
 
 $ObjectArray2* FormatData_ki::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_MonthNames, $new($StringArray, {
 		u"Njenuar\u0129"_s,
 		u"Mwere wa ker\u0129"_s,

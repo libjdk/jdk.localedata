@@ -45,6 +45,7 @@ void LocaleNames_ar_EG::init$() {
 }
 
 $ObjectArray2* LocaleNames_ar_EG::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {$$new($ObjectArray, {
 		$of("da"_s),
 		$of(u"\u0627\u0644\u062f\u0646\u0645\u0627\u0631\u0643\u064a\u0629"_s)

@@ -45,6 +45,7 @@ void CurrencyNames_bem::init$() {
 }
 
 $ObjectArray2* CurrencyNames_bem::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {$$new($ObjectArray, {
 		$of("ZMW"_s),
 		$of("K"_s)

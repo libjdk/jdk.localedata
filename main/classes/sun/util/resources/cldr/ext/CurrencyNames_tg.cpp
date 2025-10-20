@@ -45,6 +45,7 @@ void CurrencyNames_tg::init$() {
 }
 
 $ObjectArray2* CurrencyNames_tg::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("RUB"_s),

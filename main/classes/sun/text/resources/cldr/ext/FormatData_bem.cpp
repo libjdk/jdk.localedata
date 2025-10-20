@@ -45,6 +45,7 @@ void FormatData_bem::init$() {
 }
 
 $ObjectArray2* FormatData_bem::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_MonthNames, $new($StringArray, {
 		"Januari"_s,
 		"Februari"_s,

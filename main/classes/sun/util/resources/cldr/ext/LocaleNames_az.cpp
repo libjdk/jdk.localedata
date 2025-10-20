@@ -45,6 +45,7 @@ void LocaleNames_az::init$() {
 }
 
 $ObjectArray2* LocaleNames_az::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($String, metaValue_ae, "avestan"_s);
 	$var($String, metaValue_ar, u"\u0259r\u0259b"_s);
 	$var($String, metaValue_bn, "benqal"_s);

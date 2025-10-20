@@ -45,6 +45,7 @@ void FormatData_es_PY::init$() {
 }
 
 $ObjectArray2* FormatData_es_PY::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_MonthAbbreviations, $new($StringArray, {
 		"ene."_s,
 		"feb."_s,

@@ -44,6 +44,7 @@ void FormatData_sr_Latn::init$() {
 }
 
 $ObjectArray2* FormatData_sr_Latn::getContents() {
+	$useLocalCurrentObjectStackCache();
 	return $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("MonthNames"_s),

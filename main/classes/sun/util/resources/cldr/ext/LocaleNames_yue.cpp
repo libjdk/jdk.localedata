@@ -45,6 +45,7 @@ void LocaleNames_yue::init$() {
 }
 
 $ObjectArray2* LocaleNames_yue::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($String, metaValue_ar, u"\u963f\u62c9\u4f2f\u6587"_s);
 	$var($String, metaValue_bn, u"\u5b5f\u52a0\u62c9\u6587"_s);
 	$var($String, metaValue_el, u"\u5e0c\u81d8\u6587"_s);

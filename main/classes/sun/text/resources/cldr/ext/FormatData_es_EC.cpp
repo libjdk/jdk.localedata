@@ -45,6 +45,7 @@ void FormatData_es_EC::init$() {
 }
 
 $ObjectArray2* FormatData_es_EC::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("latn.NumberElements"_s),

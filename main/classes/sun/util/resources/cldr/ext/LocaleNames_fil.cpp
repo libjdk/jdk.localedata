@@ -45,6 +45,7 @@ void LocaleNames_fil::init$() {
 }
 
 $ObjectArray2* LocaleNames_fil::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($String, metaValue_NR, "Nauru"_s);
 	$var($String, metaValue_TV, "Tuvalu"_s);
 	$var($String, metaValue_ar, "Arabic"_s);

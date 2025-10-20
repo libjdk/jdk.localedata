@@ -44,6 +44,7 @@ void LocaleNames_bg::init$() {
 }
 
 $ObjectArray2* LocaleNames_bg::getContents() {
+	$useLocalCurrentObjectStackCache();
 	return $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("BG"_s),

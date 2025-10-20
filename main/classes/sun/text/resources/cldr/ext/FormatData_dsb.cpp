@@ -45,6 +45,7 @@ void FormatData_dsb::init$() {
 }
 
 $ObjectArray2* FormatData_dsb::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_MonthNames, $new($StringArray, {
 		"januara"_s,
 		"februara"_s,

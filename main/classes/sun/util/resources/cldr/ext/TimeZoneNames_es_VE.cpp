@@ -47,6 +47,7 @@ void TimeZoneNames_es_VE::init$() {
 }
 
 $ObjectArray2* TimeZoneNames_es_VE::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, Venezuela, $new($StringArray, {
 		"hora de Venezuela"_s,
 		"VET"_s,

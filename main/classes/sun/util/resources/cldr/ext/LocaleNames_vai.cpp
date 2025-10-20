@@ -45,6 +45,7 @@ void LocaleNames_vai::init$() {
 }
 
 $ObjectArray2* LocaleNames_vai::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($String, metaValue_DE, u"\ua567\ua56e\ua527"_s);
 	$var($String, metaValue_ES, u"\ua550\ua60a\ua527"_s);
 	$var($String, metaValue_GR, u"\ua5e5\ua5f7\ua60b"_s);

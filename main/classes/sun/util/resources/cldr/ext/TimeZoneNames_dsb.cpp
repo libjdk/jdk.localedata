@@ -48,6 +48,7 @@ void TimeZoneNames_dsb::init$() {
 }
 
 $ObjectArray2* TimeZoneNames_dsb::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, GMT, $new($StringArray, {
 		"Greenwichski cas"_s,
 		""_s,

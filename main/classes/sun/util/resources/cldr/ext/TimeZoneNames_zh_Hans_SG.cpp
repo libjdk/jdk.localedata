@@ -47,6 +47,7 @@ void TimeZoneNames_zh_Hans_SG::init$() {
 }
 
 $ObjectArray2* TimeZoneNames_zh_Hans_SG::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, Malaysia, $new($StringArray, {
 		u"\u9a6c\u6765\u897f\u4e9a\u65f6\u95f4"_s,
 		"MYT"_s,

@@ -45,6 +45,7 @@ void CurrencyNames_es_CU::init$() {
 }
 
 $ObjectArray2* CurrencyNames_es_CU::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("CUP"_s),

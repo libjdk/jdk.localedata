@@ -45,6 +45,7 @@ void LocaleNames_ps_PK::init$() {
 }
 
 $ObjectArray2* LocaleNames_ps_PK::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("019"_s),

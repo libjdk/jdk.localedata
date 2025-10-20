@@ -45,6 +45,7 @@ void CurrencyNames_fr_VU::init$() {
 }
 
 $ObjectArray2* CurrencyNames_fr_VU::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {$$new($ObjectArray, {
 		$of("VUV"_s),
 		$of("VT"_s)

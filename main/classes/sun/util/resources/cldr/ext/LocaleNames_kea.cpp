@@ -45,6 +45,7 @@ void LocaleNames_kea::init$() {
 }
 
 $ObjectArray2* LocaleNames_kea::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($String, metaValue_bn, "bengali"_s);
 	$var($String, metaValue_bo, "tibetanu"_s);
 	$var($String, metaValue_el, "gregu"_s);

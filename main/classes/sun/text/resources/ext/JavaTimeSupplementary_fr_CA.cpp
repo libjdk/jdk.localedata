@@ -44,6 +44,7 @@ void JavaTimeSupplementary_fr_CA::init$() {
 }
 
 $ObjectArray2* JavaTimeSupplementary_fr_CA::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, sharedNarrowAmPmMarkers, $new($StringArray, {
 		"a"_s,
 		"p"_s

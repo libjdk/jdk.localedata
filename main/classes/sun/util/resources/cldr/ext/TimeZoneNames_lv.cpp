@@ -48,6 +48,7 @@ void TimeZoneNames_lv::init$() {
 }
 
 $ObjectArray2* TimeZoneNames_lv::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, GMT, $new($StringArray, {
 		u"Grini\u010das laiks"_s,
 		""_s,

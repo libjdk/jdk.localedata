@@ -45,6 +45,7 @@ void CurrencyNames_es_AR::init$() {
 }
 
 $ObjectArray2* CurrencyNames_es_AR::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("ARS"_s),

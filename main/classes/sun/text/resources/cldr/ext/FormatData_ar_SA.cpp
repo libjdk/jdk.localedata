@@ -45,6 +45,7 @@ void FormatData_ar_SA::init$() {
 }
 
 $ObjectArray2* FormatData_ar_SA::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_AmPmMarkers, $new($StringArray, {
 		u"\u0635"_s,
 		u"\u0645"_s,

@@ -45,6 +45,7 @@ void CurrencyNames_se::init$() {
 }
 
 $ObjectArray2* CurrencyNames_se::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("DKK"_s),

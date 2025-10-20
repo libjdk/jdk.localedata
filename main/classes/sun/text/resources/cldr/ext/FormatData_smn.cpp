@@ -45,6 +45,7 @@ void FormatData_smn::init$() {
 }
 
 $ObjectArray2* FormatData_smn::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_MonthNames, $new($StringArray, {
 		u"u\u0111\u0111\u00e2ivem\u00e1\u00e1nu"_s,
 		u"kuov\u00e2m\u00e1\u00e1nu"_s,

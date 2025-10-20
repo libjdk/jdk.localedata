@@ -45,6 +45,7 @@ void FormatData_mzn::init$() {
 }
 
 $ObjectArray2* FormatData_mzn::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_MonthNames, $new($StringArray, {
 		u"\u0698\u0627\u0646\u0648\u06cc\u0647"_s,
 		u"\u0641\u0648\u0631\u06cc\u0647"_s,

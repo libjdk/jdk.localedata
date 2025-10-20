@@ -45,6 +45,7 @@ void LocaleNames_bem::init$() {
 }
 
 $ObjectArray2* LocaleNames_bem::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("ZM"_s),

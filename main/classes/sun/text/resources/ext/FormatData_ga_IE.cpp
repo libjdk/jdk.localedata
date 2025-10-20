@@ -44,6 +44,7 @@ void FormatData_ga_IE::init$() {
 }
 
 $ObjectArray2* FormatData_ga_IE::getContents() {
+	$useLocalCurrentObjectStackCache();
 	return $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("NumberPatterns"_s),

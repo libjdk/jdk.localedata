@@ -44,6 +44,7 @@ void CurrencyNames_mt_MT::init$() {
 }
 
 $ObjectArray2* CurrencyNames_mt_MT::getContents() {
+	$useLocalCurrentObjectStackCache();
 	return $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("EUR"_s),

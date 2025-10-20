@@ -45,6 +45,7 @@ void FormatData_sr_Latn_BA::init$() {
 }
 
 $ObjectArray2* FormatData_sr_Latn_BA::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_DayNames, $new($StringArray, {
 		"nedjelja"_s,
 		"ponedjeljak"_s,

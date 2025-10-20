@@ -44,6 +44,7 @@ void FormatData_sv::init$() {
 }
 
 $ObjectArray2* FormatData_sv::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, rocEras, $new($StringArray, {
 		u"f\u00f6re R.K."_s,
 		"R.K."_s

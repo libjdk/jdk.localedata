@@ -45,6 +45,7 @@ void CurrencyNames_mfe::init$() {
 }
 
 $ObjectArray2* CurrencyNames_mfe::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("MUR"_s),

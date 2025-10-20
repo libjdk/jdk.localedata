@@ -44,6 +44,7 @@ void LocaleNames_el::init$() {
 }
 
 $ObjectArray2* LocaleNames_el::getContents() {
+	$useLocalCurrentObjectStackCache();
 	return $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("AD"_s),

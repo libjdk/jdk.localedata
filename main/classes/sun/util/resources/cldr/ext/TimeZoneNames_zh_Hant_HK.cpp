@@ -47,6 +47,7 @@ void TimeZoneNames_zh_Hant_HK::init$() {
 }
 
 $ObjectArray2* TimeZoneNames_zh_Hant_HK::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, Gulf, $new($StringArray, {
 		u"\u6ce2\u65af\u7063\u6d77\u57df\u6642\u9593"_s,
 		""_s,

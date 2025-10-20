@@ -45,6 +45,7 @@ void CurrencyNames_ru_KZ::init$() {
 }
 
 $ObjectArray2* CurrencyNames_ru_KZ::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {$$new($ObjectArray, {
 		$of("KZT"_s),
 		$of(u"\u20b8"_s)

@@ -45,6 +45,7 @@ void CurrencyNames_jv::init$() {
 }
 
 $ObjectArray2* CurrencyNames_jv::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("IDR"_s),

@@ -45,6 +45,7 @@ void LocaleNames_lu::init$() {
 }
 
 $ObjectArray2* LocaleNames_lu::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($String, metaValue_PL, "Mpoloni"_s);
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {

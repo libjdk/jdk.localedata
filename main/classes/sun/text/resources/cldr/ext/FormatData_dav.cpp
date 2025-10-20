@@ -45,6 +45,7 @@ void FormatData_dav::init$() {
 }
 
 $ObjectArray2* FormatData_dav::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_MonthNames, $new($StringArray, {
 		"Mori ghwa imbiri"_s,
 		"Mori ghwa kawi"_s,

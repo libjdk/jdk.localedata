@@ -45,6 +45,7 @@ void CurrencyNames_fr_CD::init$() {
 }
 
 $ObjectArray2* CurrencyNames_fr_CD::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {$$new($ObjectArray, {
 		$of("CDF"_s),
 		$of("FC"_s)

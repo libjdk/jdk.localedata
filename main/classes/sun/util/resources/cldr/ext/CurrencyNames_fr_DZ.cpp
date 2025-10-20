@@ -45,6 +45,7 @@ void CurrencyNames_fr_DZ::init$() {
 }
 
 $ObjectArray2* CurrencyNames_fr_DZ::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {$$new($ObjectArray, {
 		$of("DZD"_s),
 		$of("DA"_s)

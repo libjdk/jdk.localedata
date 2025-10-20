@@ -45,6 +45,7 @@ void CurrencyNames_en_ZM::init$() {
 }
 
 $ObjectArray2* CurrencyNames_en_ZM::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {$$new($ObjectArray, {
 		$of("ZMW"_s),
 		$of("K"_s)

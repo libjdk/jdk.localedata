@@ -45,6 +45,7 @@ void CurrencyNames_nl_BQ::init$() {
 }
 
 $ObjectArray2* CurrencyNames_nl_BQ::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {$$new($ObjectArray, {
 		$of("USD"_s),
 		$of("$"_s)

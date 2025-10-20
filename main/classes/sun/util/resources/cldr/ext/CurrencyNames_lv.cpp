@@ -45,6 +45,7 @@ void CurrencyNames_lv::init$() {
 }
 
 $ObjectArray2* CurrencyNames_lv::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("AED"_s),

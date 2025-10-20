@@ -45,6 +45,7 @@ void FormatData_sr_Latn_XK::init$() {
 }
 
 $ObjectArray2* FormatData_sr_Latn_XK::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_MonthAbbreviations, $new($StringArray, {
 		"jan"_s,
 		"feb"_s,

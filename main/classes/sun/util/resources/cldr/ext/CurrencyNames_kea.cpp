@@ -45,6 +45,7 @@ void CurrencyNames_kea::init$() {
 }
 
 $ObjectArray2* CurrencyNames_kea::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("AED"_s),

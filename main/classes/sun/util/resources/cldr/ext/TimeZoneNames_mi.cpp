@@ -48,6 +48,7 @@ void TimeZoneNames_mi::init$() {
 }
 
 $ObjectArray2* TimeZoneNames_mi::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, GMT, $new($StringArray, {
 		u"W\u0101 Toharite Greenwich"_s,
 		""_s,

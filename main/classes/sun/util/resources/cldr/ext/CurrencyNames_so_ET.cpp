@@ -45,6 +45,7 @@ void CurrencyNames_so_ET::init$() {
 }
 
 $ObjectArray2* CurrencyNames_so_ET::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {$$new($ObjectArray, {
 		$of("ETB"_s),
 		$of("Br"_s)

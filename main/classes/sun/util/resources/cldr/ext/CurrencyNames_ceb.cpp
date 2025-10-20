@@ -45,6 +45,7 @@ void CurrencyNames_ceb::init$() {
 }
 
 $ObjectArray2* CurrencyNames_ceb::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("USD"_s),

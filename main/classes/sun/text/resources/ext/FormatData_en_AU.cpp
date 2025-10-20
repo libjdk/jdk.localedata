@@ -44,6 +44,7 @@ void FormatData_en_AU::init$() {
 }
 
 $ObjectArray2* FormatData_en_AU::getContents() {
+	$useLocalCurrentObjectStackCache();
 	return $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("TimePatterns"_s),

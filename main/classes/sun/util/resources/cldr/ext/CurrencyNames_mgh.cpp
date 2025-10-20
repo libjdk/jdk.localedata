@@ -45,6 +45,7 @@ void CurrencyNames_mgh::init$() {
 }
 
 $ObjectArray2* CurrencyNames_mgh::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {$$new($ObjectArray, {
 		$of("MZN"_s),
 		$of("MTn"_s)

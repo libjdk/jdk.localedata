@@ -45,6 +45,7 @@ void FormatData_ff_Adlm_GH::init$() {
 }
 
 $ObjectArray2* FormatData_ff_Adlm_GH::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_TimePatterns, $new($StringArray, {
 		"h:mm:ss a zzzz"_s,
 		"h:mm:ss a z"_s,

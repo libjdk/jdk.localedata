@@ -45,6 +45,7 @@ void FormatData_am::init$() {
 }
 
 $ObjectArray2* FormatData_am::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_MonthNames, $new($StringArray, {
 		u"\u1303\u1295\u12e9\u12c8\u122a"_s,
 		u"\u134c\u1265\u1229\u12c8\u122a"_s,

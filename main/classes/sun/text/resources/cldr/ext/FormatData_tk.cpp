@@ -45,6 +45,7 @@ void FormatData_tk::init$() {
 }
 
 $ObjectArray2* FormatData_tk::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_MonthNames, $new($StringArray, {
 		u"\u00fdanwar"_s,
 		"fewral"_s,

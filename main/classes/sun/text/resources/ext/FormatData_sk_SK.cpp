@@ -44,6 +44,7 @@ void FormatData_sk_SK::init$() {
 }
 
 $ObjectArray2* FormatData_sk_SK::getContents() {
+	$useLocalCurrentObjectStackCache();
 	return $new($ObjectArray2, {$$new($ObjectArray, {
 		$of("NumberPatterns"_s),
 		$of($$new($StringArray, {

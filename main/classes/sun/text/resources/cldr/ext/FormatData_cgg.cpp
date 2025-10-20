@@ -45,6 +45,7 @@ void FormatData_cgg::init$() {
 }
 
 $ObjectArray2* FormatData_cgg::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_MonthNames, $new($StringArray, {
 		"Okwokubanza"_s,
 		"Okwakabiri"_s,

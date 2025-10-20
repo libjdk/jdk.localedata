@@ -45,6 +45,7 @@ void LocaleNames_ro_MD::init$() {
 }
 
 $ObjectArray2* LocaleNames_ro_MD::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("MM"_s),

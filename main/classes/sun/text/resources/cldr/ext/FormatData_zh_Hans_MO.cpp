@@ -45,6 +45,7 @@ void FormatData_zh_Hans_MO::init$() {
 }
 
 $ObjectArray2* FormatData_zh_Hans_MO::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_java_time_buddhist_DatePatterns, $new($StringArray, {
 		u"Gy\u5e74M\u6708d\u65e5EEEE"_s,
 		u"Gy\u5e74M\u6708d\u65e5"_s,

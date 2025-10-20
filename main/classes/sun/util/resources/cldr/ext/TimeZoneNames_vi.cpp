@@ -48,6 +48,7 @@ void TimeZoneNames_vi::init$() {
 }
 
 $ObjectArray2* TimeZoneNames_vi::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, GMT, $new($StringArray, {
 		u"Gi\u1edd Trung b\u00ecnh Greenwich"_s,
 		""_s,

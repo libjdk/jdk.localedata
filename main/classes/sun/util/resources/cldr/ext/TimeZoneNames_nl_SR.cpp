@@ -47,6 +47,7 @@ void TimeZoneNames_nl_SR::init$() {
 }
 
 $ObjectArray2* TimeZoneNames_nl_SR::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, Suriname, $new($StringArray, {
 		"Surinaamse tijd"_s,
 		"SRT"_s,

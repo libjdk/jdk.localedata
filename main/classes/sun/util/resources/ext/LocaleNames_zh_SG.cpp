@@ -44,6 +44,7 @@ void LocaleNames_zh_SG::init$() {
 }
 
 $ObjectArray2* LocaleNames_zh_SG::getContents() {
+	$useLocalCurrentObjectStackCache();
 	return $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("AS"_s),

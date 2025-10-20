@@ -45,6 +45,7 @@ void FormatData_ksb::init$() {
 }
 
 $ObjectArray2* FormatData_ksb::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_MonthNames, $new($StringArray, {
 		"Januali"_s,
 		"Febluali"_s,

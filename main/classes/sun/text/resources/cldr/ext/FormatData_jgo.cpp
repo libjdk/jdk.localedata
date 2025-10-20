@@ -45,6 +45,7 @@ void FormatData_jgo::init$() {
 }
 
 $ObjectArray2* FormatData_jgo::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_MonthNames, $new($StringArray, {
 		u"Ndu\u014bmbi Sa\u014b"_s,
 		u"P\u025bsa\u014b P\u025b\u0301p\u00e1"_s,

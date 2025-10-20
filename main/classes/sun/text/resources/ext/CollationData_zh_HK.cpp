@@ -52,6 +52,7 @@ $Object* allocate$CollationData_zh_HK($Class* clazz) {
 }
 
 void CollationData_zh_HK::init$() {
+	$useLocalCurrentObjectStackCache();
 	$ListResourceBundle::init$();
 	$init($Locale);
 	$var($ResourceBundle, bundle, $nc($($nc(($cast($ResourceBundleBasedAdapter, $($LocaleProviderAdapter::forJRE()))))->getLocaleData()))->getCollationData($Locale::TAIWAN));

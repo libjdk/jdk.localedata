@@ -48,6 +48,7 @@ void TimeZoneNames_cy::init$() {
 }
 
 $ObjectArray2* TimeZoneNames_cy::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, GMT, $new($StringArray, {
 		"Amser Safonol Greenwich"_s,
 		"GMT"_s,

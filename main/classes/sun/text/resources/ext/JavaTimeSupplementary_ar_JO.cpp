@@ -44,6 +44,7 @@ void JavaTimeSupplementary_ar_JO::init$() {
 }
 
 $ObjectArray2* JavaTimeSupplementary_ar_JO::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, sharedMonthNames, $new($StringArray, {
 		u"\u0643\u0627\u0646\u0648\u0646 \u0627\u0644\u062b\u0627\u0646\u064a"_s,
 		u"\u0634\u0628\u0627\u0637"_s,

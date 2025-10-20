@@ -45,6 +45,7 @@ void CurrencyNames_fr_SY::init$() {
 }
 
 $ObjectArray2* CurrencyNames_fr_SY::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {$$new($ObjectArray, {
 		$of("SYP"_s),
 		$of("LS"_s)

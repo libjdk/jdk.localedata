@@ -45,6 +45,7 @@ void FormatData_ta_MY::init$() {
 }
 
 $ObjectArray2* FormatData_ta_MY::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("latn.NumberElements"_s),

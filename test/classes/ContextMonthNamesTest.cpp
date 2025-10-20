@@ -70,6 +70,7 @@ void ContextMonthNamesTest::init$() {
 
 void ContextMonthNamesTest::main($StringArray* args) {
 	$init(ContextMonthNamesTest);
+	$useLocalCurrentObjectStackCache();
 	$var($SimpleDateFormat, fmt, $new($SimpleDateFormat, ""_s, ContextMonthNamesTest::CZECH));
 	for (int32_t i = 0; i < $nc(ContextMonthNamesTest::PATTERNS)->length; ++i) {
 		fmt->applyPattern($nc(ContextMonthNamesTest::PATTERNS)->get(i));

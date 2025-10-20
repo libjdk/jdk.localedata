@@ -45,6 +45,7 @@ void FormatData_kam::init$() {
 }
 
 $ObjectArray2* FormatData_kam::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_MonthNames, $new($StringArray, {
 		"Mwai wa mbee"_s,
 		u"Mwai wa kel\u0129"_s,

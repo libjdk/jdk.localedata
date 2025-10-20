@@ -48,6 +48,7 @@ void TimeZoneNames_bs::init$() {
 }
 
 $ObjectArray2* TimeZoneNames_bs::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, GMT, $new($StringArray, {
 		u"Grini\u010dko vrijeme"_s,
 		"GMT"_s,

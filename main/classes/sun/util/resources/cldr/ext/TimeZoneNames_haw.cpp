@@ -47,6 +47,7 @@ void TimeZoneNames_haw::init$() {
 }
 
 $ObjectArray2* TimeZoneNames_haw::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, Alaska, $new($StringArray, {
 		""_s,
 		"AKST"_s,

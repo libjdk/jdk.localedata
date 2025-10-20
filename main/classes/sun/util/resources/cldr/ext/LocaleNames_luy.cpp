@@ -45,6 +45,7 @@ void LocaleNames_luy::init$() {
 }
 
 $ObjectArray2* LocaleNames_luy::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("AD"_s),

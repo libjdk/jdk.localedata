@@ -45,6 +45,7 @@ void CurrencyNames_dsb::init$() {
 }
 
 $ObjectArray2* CurrencyNames_dsb::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("ALL"_s),

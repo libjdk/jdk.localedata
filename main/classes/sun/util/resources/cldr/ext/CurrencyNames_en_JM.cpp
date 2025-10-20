@@ -45,6 +45,7 @@ void CurrencyNames_en_JM::init$() {
 }
 
 $ObjectArray2* CurrencyNames_en_JM::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {$$new($ObjectArray, {
 		$of("JMD"_s),
 		$of("$"_s)

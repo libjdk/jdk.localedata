@@ -44,6 +44,7 @@ void CurrencyNames_da_DK::init$() {
 }
 
 $ObjectArray2* CurrencyNames_da_DK::getContents() {
+	$useLocalCurrentObjectStackCache();
 	return $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("DKK"_s),

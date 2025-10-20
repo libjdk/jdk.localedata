@@ -45,6 +45,7 @@ void FormatData_dyo::init$() {
 }
 
 $ObjectArray2* FormatData_dyo::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_MonthNames, $new($StringArray, {
 		"Sanvie"_s,
 		u"F\u00e9birie"_s,

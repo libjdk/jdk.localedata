@@ -45,6 +45,7 @@ void CurrencyNames_sat::init$() {
 }
 
 $ObjectArray2* CurrencyNames_sat::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("brl"_s),

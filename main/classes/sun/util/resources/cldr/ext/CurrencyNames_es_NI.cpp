@@ -45,6 +45,7 @@ void CurrencyNames_es_NI::init$() {
 }
 
 $ObjectArray2* CurrencyNames_es_NI::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {$$new($ObjectArray, {
 		$of("NIO"_s),
 		$of("C$"_s)

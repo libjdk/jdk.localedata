@@ -45,6 +45,7 @@ void CurrencyNames_en_TT::init$() {
 }
 
 $ObjectArray2* CurrencyNames_en_TT::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {$$new($ObjectArray, {
 		$of("TTD"_s),
 		$of("$"_s)

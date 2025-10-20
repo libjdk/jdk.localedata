@@ -47,6 +47,7 @@ void TimeZoneNames_ti::init$() {
 }
 
 $ObjectArray2* TimeZoneNames_ti::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, ETC_UTC, $new($StringArray, {
 		"Coordinated Universal Time"_s,
 		"UTC"_s,

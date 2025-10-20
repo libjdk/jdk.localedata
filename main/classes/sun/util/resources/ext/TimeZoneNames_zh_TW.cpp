@@ -124,6 +124,7 @@ void TimeZoneNames_zh_TW::init$() {
 }
 
 $ObjectArray2* TimeZoneNames_zh_TW::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, ACT, $new($StringArray, {
 		u"Acre \u6642\u9593"_s,
 		"ACT"_s,

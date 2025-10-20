@@ -45,6 +45,7 @@ void FormatData_ug::init$() {
 }
 
 $ObjectArray2* FormatData_ug::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_MonthNames, $new($StringArray, {
 		u"\u064a\u0627\u0646\u06cb\u0627\u0631"_s,
 		u"\u0641\u06d0\u06cb\u0631\u0627\u0644"_s,

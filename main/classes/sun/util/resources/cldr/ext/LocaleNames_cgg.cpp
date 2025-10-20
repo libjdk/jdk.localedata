@@ -45,6 +45,7 @@ void LocaleNames_cgg::init$() {
 }
 
 $ObjectArray2* LocaleNames_cgg::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("AD"_s),

@@ -45,6 +45,7 @@ void CurrencyNames_pt_ST::init$() {
 }
 
 $ObjectArray2* CurrencyNames_pt_ST::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {$$new($ObjectArray, {
 		$of("STN"_s),
 		$of("Db"_s)

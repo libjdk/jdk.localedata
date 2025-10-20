@@ -45,6 +45,7 @@ void CurrencyNames_rm::init$() {
 }
 
 $ObjectArray2* CurrencyNames_rm::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("CHF"_s),

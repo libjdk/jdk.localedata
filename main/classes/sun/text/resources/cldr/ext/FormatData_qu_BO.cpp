@@ -45,6 +45,7 @@ void FormatData_qu_BO::init$() {
 }
 
 $ObjectArray2* FormatData_qu_BO::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("latn.NumberElements"_s),

@@ -48,6 +48,7 @@ void TimeZoneNames_jv::init$() {
 }
 
 $ObjectArray2* TimeZoneNames_jv::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, GMT, $new($StringArray, {
 		"Wektu Rerata Greenwich"_s,
 		""_s,

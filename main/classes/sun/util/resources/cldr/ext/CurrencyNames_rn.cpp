@@ -45,6 +45,7 @@ void CurrencyNames_rn::init$() {
 }
 
 $ObjectArray2* CurrencyNames_rn::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("BIF"_s),

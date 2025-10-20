@@ -45,6 +45,7 @@ void LocaleNames_mg::init$() {
 }
 
 $ObjectArray2* LocaleNames_mg::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($String, metaValue_CH, "Soisa"_s);
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {

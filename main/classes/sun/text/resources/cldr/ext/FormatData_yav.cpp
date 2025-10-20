@@ -45,6 +45,7 @@ void FormatData_yav::init$() {
 }
 
 $ObjectArray2* FormatData_yav::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_MonthNames, $new($StringArray, {
 		u"pik\u00edt\u00edk\u00edtie, o\u00f3l\u00ed \u00fa kut\u00faan"_s,
 		u"si\u025by\u025b\u0301, o\u00f3li \u00fa k\u00e1nd\u00ed\u025b"_s,

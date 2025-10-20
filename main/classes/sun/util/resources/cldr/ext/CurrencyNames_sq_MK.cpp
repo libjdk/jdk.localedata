@@ -45,6 +45,7 @@ void CurrencyNames_sq_MK::init$() {
 }
 
 $ObjectArray2* CurrencyNames_sq_MK::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {$$new($ObjectArray, {
 		$of("MKD"_s),
 		$of("den"_s)

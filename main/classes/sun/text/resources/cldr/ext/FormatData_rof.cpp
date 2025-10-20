@@ -45,6 +45,7 @@ void FormatData_rof::init$() {
 }
 
 $ObjectArray2* FormatData_rof::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_MonthNames, $new($StringArray, {
 		"Mweri wa kwanza"_s,
 		"Mweri wa kaili"_s,

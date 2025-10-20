@@ -44,6 +44,7 @@ void FormatData_es_GT::init$() {
 }
 
 $ObjectArray2* FormatData_es_GT::getContents() {
+	$useLocalCurrentObjectStackCache();
 	return $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("NumberElements"_s),

@@ -47,6 +47,7 @@ void TimeZoneNames_gsw::init$() {
 }
 
 $ObjectArray2* TimeZoneNames_gsw::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, Acre, $new($StringArray, {
 		"Acre-Schtandardziit"_s,
 		""_s,

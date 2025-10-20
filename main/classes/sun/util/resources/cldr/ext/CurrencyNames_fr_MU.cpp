@@ -45,6 +45,7 @@ void CurrencyNames_fr_MU::init$() {
 }
 
 $ObjectArray2* CurrencyNames_fr_MU::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {$$new($ObjectArray, {
 		$of("MUR"_s),
 		$of("Rs"_s)

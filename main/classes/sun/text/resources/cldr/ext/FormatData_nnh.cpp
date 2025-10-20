@@ -45,6 +45,7 @@ void FormatData_nnh::init$() {
 }
 
 $ObjectArray2* FormatData_nnh::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_MonthNames, $new($StringArray, {
 		u"sa\u014b tsets\u025b\u0300\u025b l\u00f9m"_s,
 		u"sa\u014b k\u00e0g ngw\u00f3\u014b"_s,

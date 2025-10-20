@@ -44,6 +44,7 @@ void LocaleNames_hi::init$() {
 }
 
 $ObjectArray2* LocaleNames_hi::getContents() {
+	$useLocalCurrentObjectStackCache();
 	return $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("IN"_s),

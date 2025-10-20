@@ -45,6 +45,7 @@ void FormatData_xh::init$() {
 }
 
 $ObjectArray2* FormatData_xh::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_MonthNames, $new($StringArray, {
 		"Janyuwari"_s,
 		"Februwari"_s,

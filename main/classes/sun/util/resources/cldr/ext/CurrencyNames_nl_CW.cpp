@@ -45,6 +45,7 @@ void CurrencyNames_nl_CW::init$() {
 }
 
 $ObjectArray2* CurrencyNames_nl_CW::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {$$new($ObjectArray, {
 		$of("ANG"_s),
 		$of("NAf."_s)

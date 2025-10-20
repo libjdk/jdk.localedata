@@ -45,6 +45,7 @@ void CurrencyNames_kab::init$() {
 }
 
 $ObjectArray2* CurrencyNames_kab::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("DZD"_s),

@@ -44,6 +44,7 @@ void FormatData_es_US::init$() {
 }
 
 $ObjectArray2* FormatData_es_US::getContents() {
+	$useLocalCurrentObjectStackCache();
 	return $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("AmPmMarkers"_s),

@@ -45,6 +45,7 @@ void CurrencyNames_ms_ID::init$() {
 }
 
 $ObjectArray2* CurrencyNames_ms_ID::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {$$new($ObjectArray, {
 		$of("IDR"_s),
 		$of("Rp"_s)

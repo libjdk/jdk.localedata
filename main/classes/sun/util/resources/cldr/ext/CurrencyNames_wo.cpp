@@ -45,6 +45,7 @@ void CurrencyNames_wo::init$() {
 }
 
 $ObjectArray2* CurrencyNames_wo::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("RUB"_s),

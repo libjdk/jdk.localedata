@@ -45,6 +45,7 @@ void LocaleNames_ar_LY::init$() {
 }
 
 $ObjectArray2* LocaleNames_ar_LY::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("EA"_s),

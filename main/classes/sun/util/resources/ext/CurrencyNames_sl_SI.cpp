@@ -44,6 +44,7 @@ void CurrencyNames_sl_SI::init$() {
 }
 
 $ObjectArray2* CurrencyNames_sl_SI::getContents() {
+	$useLocalCurrentObjectStackCache();
 	return $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("EUR"_s),

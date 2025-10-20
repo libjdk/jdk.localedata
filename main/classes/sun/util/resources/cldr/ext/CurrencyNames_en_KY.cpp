@@ -45,6 +45,7 @@ void CurrencyNames_en_KY::init$() {
 }
 
 $ObjectArray2* CurrencyNames_en_KY::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {$$new($ObjectArray, {
 		$of("KYD"_s),
 		$of("$"_s)

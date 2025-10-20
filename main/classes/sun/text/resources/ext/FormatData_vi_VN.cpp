@@ -44,6 +44,7 @@ void FormatData_vi_VN::init$() {
 }
 
 $ObjectArray2* FormatData_vi_VN::getContents() {
+	$useLocalCurrentObjectStackCache();
 	return $new($ObjectArray2, {$$new($ObjectArray, {
 		$of("NumberPatterns"_s),
 		$of($$new($StringArray, {

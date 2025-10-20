@@ -44,6 +44,7 @@ void LocaleNames_no_NO_NY::init$() {
 }
 
 $ObjectArray2* LocaleNames_no_NO_NY::getContents() {
+	$useLocalCurrentObjectStackCache();
 	return $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("%%B"_s),

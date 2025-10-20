@@ -47,6 +47,7 @@ void TimeZoneNames_en_AU::init$() {
 }
 
 $ObjectArray2* TimeZoneNames_en_AU::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, Cook, $new($StringArray, {
 		"Cook Island Standard Time"_s,
 		""_s,

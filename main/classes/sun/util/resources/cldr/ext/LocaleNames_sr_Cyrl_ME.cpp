@@ -45,6 +45,7 @@ void LocaleNames_sr_Cyrl_ME::init$() {
 }
 
 $ObjectArray2* LocaleNames_sr_Cyrl_ME::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("BY"_s),

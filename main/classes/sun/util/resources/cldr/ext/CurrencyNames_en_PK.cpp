@@ -45,6 +45,7 @@ void CurrencyNames_en_PK::init$() {
 }
 
 $ObjectArray2* CurrencyNames_en_PK::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {$$new($ObjectArray, {
 		$of("PKR"_s),
 		$of("Rs"_s)

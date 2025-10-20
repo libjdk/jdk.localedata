@@ -44,6 +44,7 @@ void LocaleNames_hu::init$() {
 }
 
 $ObjectArray2* LocaleNames_hu::getContents() {
+	$useLocalCurrentObjectStackCache();
 	return $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("HU"_s),

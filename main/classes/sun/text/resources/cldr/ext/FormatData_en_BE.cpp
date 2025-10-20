@@ -45,6 +45,7 @@ void FormatData_en_BE::init$() {
 }
 
 $ObjectArray2* FormatData_en_BE::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_java_time_buddhist_DatePatterns, $new($StringArray, {
 		""_s,
 		""_s,

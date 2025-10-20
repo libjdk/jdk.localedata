@@ -48,6 +48,7 @@ void TimeZoneNames_ee::init$() {
 }
 
 $ObjectArray2* TimeZoneNames_ee::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, GMT, $new($StringArray, {
 		u"Greenwich ga\u0192o\u0192o me"_s,
 		""_s,

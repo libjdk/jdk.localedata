@@ -47,6 +47,7 @@ void TimeZoneNames_ps_PK::init$() {
 }
 
 $ObjectArray2* TimeZoneNames_ps_PK::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, Apia, $new($StringArray, {
 		u"\u0627\u067e\u06cc\u0627 \u0645\u0639\u064a\u0627\u0631\u064a \u0648\u062e\u062a"_s,
 		""_s,

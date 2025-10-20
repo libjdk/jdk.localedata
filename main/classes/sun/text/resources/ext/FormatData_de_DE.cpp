@@ -44,6 +44,7 @@ void FormatData_de_DE::init$() {
 }
 
 $ObjectArray2* FormatData_de_DE::getContents() {
+	$useLocalCurrentObjectStackCache();
 	return $new($ObjectArray2, {$$new($ObjectArray, {
 		$of("NumberPatterns"_s),
 		$of($$new($StringArray, {

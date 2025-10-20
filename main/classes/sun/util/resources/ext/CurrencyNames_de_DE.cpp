@@ -44,6 +44,7 @@ void CurrencyNames_de_DE::init$() {
 }
 
 $ObjectArray2* CurrencyNames_de_DE::getContents() {
+	$useLocalCurrentObjectStackCache();
 	return $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("DEM"_s),

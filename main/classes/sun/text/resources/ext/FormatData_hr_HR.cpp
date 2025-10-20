@@ -44,6 +44,7 @@ void FormatData_hr_HR::init$() {
 }
 
 $ObjectArray2* FormatData_hr_HR::getContents() {
+	$useLocalCurrentObjectStackCache();
 	return $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("NumberPatterns"_s),

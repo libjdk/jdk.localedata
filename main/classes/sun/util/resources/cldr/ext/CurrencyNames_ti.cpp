@@ -45,6 +45,7 @@ void CurrencyNames_ti::init$() {
 }
 
 $ObjectArray2* CurrencyNames_ti::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("ETB"_s),

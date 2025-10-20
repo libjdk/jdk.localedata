@@ -45,6 +45,7 @@ void FormatData_nus::init$() {
 }
 
 $ObjectArray2* FormatData_nus::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_MonthNames, $new($StringArray, {
 		u"Tiop thar p\u025bt"_s,
 		u"P\u025bt"_s,

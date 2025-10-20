@@ -45,6 +45,7 @@ void LocaleNames_fy::init$() {
 }
 
 $ObjectArray2* LocaleNames_fy::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($String, metaValue_ar, "Arabysk"_s);
 	$var($String, metaValue_bo, "Tibetaansk"_s);
 	$var($String, metaValue_gu, "Gujarati"_s);

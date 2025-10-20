@@ -45,6 +45,7 @@ void FormatData_de_LU::init$() {
 }
 
 $ObjectArray2* FormatData_de_LU::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_narrow_AmPmMarkers, $new($StringArray, {
 		"vorm."_s,
 		"nachm."_s,

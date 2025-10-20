@@ -45,6 +45,7 @@ void CurrencyNames_en_SX::init$() {
 }
 
 $ObjectArray2* CurrencyNames_en_SX::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {$$new($ObjectArray, {
 		$of("ANG"_s),
 		$of("NAf."_s)

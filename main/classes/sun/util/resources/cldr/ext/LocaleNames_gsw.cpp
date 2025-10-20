@@ -45,6 +45,7 @@ void LocaleNames_gsw::init$() {
 }
 
 $ObjectArray2* LocaleNames_gsw::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($String, metaValue_PW, "Palau"_s);
 	$var($String, metaValue_ar, "Arabisch"_s);
 	$var($String, metaValue_bn, "Bengalisch"_s);

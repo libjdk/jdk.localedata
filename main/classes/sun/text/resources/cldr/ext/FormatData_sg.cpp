@@ -45,6 +45,7 @@ void FormatData_sg::init$() {
 }
 
 $ObjectArray2* FormatData_sg::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_MonthNames, $new($StringArray, {
 		"Nyenye"_s,
 		u"Fulund\u00efgi"_s,

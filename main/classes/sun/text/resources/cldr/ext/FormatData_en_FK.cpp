@@ -45,6 +45,7 @@ void FormatData_en_FK::init$() {
 }
 
 $ObjectArray2* FormatData_en_FK::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_TimePatterns, $new($StringArray, {
 		"HH:mm:ss zzzz"_s,
 		"HH:mm:ss z"_s,

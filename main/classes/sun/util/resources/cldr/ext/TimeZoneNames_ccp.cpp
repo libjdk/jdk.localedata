@@ -48,6 +48,7 @@ void TimeZoneNames_ccp::init$() {
 }
 
 $ObjectArray2* TimeZoneNames_ccp::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, GMT, $new($StringArray, {
 		$cstr({0x11109, 0x11133, 0x11122, 0x11128, 0x1111A, 0x11128, 0x1110C, 0x11134, ' ', 0x1111F, 0x11128, 0x1111A, 0x11134, ' ', 0x11111, 0x1112C, 0x1111F, 0x11134}),
 		""_s,

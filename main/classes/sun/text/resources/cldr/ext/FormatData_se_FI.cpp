@@ -45,6 +45,7 @@ void FormatData_se_FI::init$() {
 }
 
 $ObjectArray2* FormatData_se_FI::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_MonthAbbreviations, $new($StringArray, {
 		u"o\u0111\u0111j"_s,
 		"guov"_s,

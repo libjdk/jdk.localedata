@@ -45,6 +45,7 @@ void CurrencyNames_es_PH::init$() {
 }
 
 $ObjectArray2* CurrencyNames_es_PH::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {$$new($ObjectArray, {
 		$of("PHP"_s),
 		$of(u"\u20b1"_s)

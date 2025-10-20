@@ -45,6 +45,7 @@ void FormatData_nds::init$() {
 }
 
 $ObjectArray2* FormatData_nds::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("latn.NumberElements"_s),

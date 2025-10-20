@@ -45,6 +45,7 @@ void LocaleNames_cy::init$() {
 }
 
 $ObjectArray2* LocaleNames_cy::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($String, metaValue_la, "Lladin"_s);
 	$var($String, metaValue_te, "Telugu"_s);
 	$var($ObjectArray2, data, $new($ObjectArray2, {

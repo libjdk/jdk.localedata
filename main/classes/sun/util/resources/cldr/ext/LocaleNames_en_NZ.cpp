@@ -45,6 +45,7 @@ void LocaleNames_en_NZ::init$() {
 }
 
 $ObjectArray2* LocaleNames_en_NZ::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {$$new($ObjectArray, {
 		$of("mi"_s),
 		$of(u"M\u0101ori"_s)

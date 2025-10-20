@@ -45,6 +45,7 @@ void LocaleNames_yav::init$() {
 }
 
 $ObjectArray2* LocaleNames_yav::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("AD"_s),

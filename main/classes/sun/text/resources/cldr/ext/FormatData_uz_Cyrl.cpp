@@ -45,6 +45,7 @@ void FormatData_uz_Cyrl::init$() {
 }
 
 $ObjectArray2* FormatData_uz_Cyrl::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_MonthNames, $new($StringArray, {
 		u"\u044f\u043d\u0432\u0430\u0440"_s,
 		u"\u0444\u0435\u0432\u0440\u0430\u043b"_s,

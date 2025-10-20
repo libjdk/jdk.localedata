@@ -45,6 +45,7 @@ void LocaleNames_ru_UA::init$() {
 }
 
 $ObjectArray2* LocaleNames_ru_UA::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("AC"_s),

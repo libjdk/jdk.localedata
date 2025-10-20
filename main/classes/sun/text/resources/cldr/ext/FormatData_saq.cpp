@@ -45,6 +45,7 @@ void FormatData_saq::init$() {
 }
 
 $ObjectArray2* FormatData_saq::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_MonthNames, $new($StringArray, {
 		"Lapa le obo"_s,
 		"Lapa le waare"_s,

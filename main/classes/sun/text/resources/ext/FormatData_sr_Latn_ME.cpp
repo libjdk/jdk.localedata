@@ -44,6 +44,7 @@ void FormatData_sr_Latn_ME::init$() {
 }
 
 $ObjectArray2* FormatData_sr_Latn_ME::getContents() {
+	$useLocalCurrentObjectStackCache();
 	return $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("TimePatterns"_s),

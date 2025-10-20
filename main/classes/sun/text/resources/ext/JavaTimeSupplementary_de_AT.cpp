@@ -44,6 +44,7 @@ void JavaTimeSupplementary_de_AT::init$() {
 }
 
 $ObjectArray2* JavaTimeSupplementary_de_AT::getContents() {
+	$useLocalCurrentObjectStackCache();
 	return $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("roc.MonthAbbreviations"_s),

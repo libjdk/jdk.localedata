@@ -45,6 +45,7 @@ void CurrencyNames_en_UG::init$() {
 }
 
 $ObjectArray2* CurrencyNames_en_UG::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {$$new($ObjectArray, {
 		$of("UGX"_s),
 		$of("USh"_s)

@@ -45,6 +45,7 @@ void FormatData_mgo::init$() {
 }
 
 $ObjectArray2* FormatData_mgo::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_MonthNames, $new($StringArray, {
 		u"im\u0259g mbegtug"_s,
 		u"imeg \u00e0b\u00f9b\u00ec"_s,

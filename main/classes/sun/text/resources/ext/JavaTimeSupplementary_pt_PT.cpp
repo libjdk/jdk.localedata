@@ -44,6 +44,7 @@ void JavaTimeSupplementary_pt_PT::init$() {
 }
 
 $ObjectArray2* JavaTimeSupplementary_pt_PT::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, sharedQuarterNames, $new($StringArray, {
 		u"1.\u00ba trimestre"_s,
 		u"2.\u00ba trimestre"_s,

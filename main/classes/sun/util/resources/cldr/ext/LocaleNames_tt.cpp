@@ -45,6 +45,7 @@ void LocaleNames_tt::init$() {
 }
 
 $ObjectArray2* LocaleNames_tt::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($String, metaValue_ar, u"\u0433\u0430\u0440\u04d9\u043f"_s);
 	$var($String, metaValue_la, u"\u043b\u0430\u0442\u0438\u043d"_s);
 	$var($ObjectArray2, data, $new($ObjectArray2, {

@@ -44,6 +44,7 @@ void FormatData_ar::init$() {
 }
 
 $ObjectArray2* FormatData_ar::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, rocEras, $new($StringArray, {
 		"Before R.O.C."_s,
 		u"\u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0627\u0644\u0635\u064a"_s

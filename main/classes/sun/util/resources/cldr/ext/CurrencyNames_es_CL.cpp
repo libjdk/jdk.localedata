@@ -45,6 +45,7 @@ void CurrencyNames_es_CL::init$() {
 }
 
 $ObjectArray2* CurrencyNames_es_CL::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("CLP"_s),

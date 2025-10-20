@@ -44,6 +44,7 @@ void JavaTimeSupplementary_hi_IN::init$() {
 }
 
 $ObjectArray2* JavaTimeSupplementary_hi_IN::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, sharedQuarterAbbreviations, $new($StringArray, {
 		u"\u0924\u093f1"_s,
 		u"\u0924\u093f2"_s,

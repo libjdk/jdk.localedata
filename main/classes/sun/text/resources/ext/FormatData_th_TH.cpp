@@ -44,6 +44,7 @@ void FormatData_th_TH::init$() {
 }
 
 $ObjectArray2* FormatData_th_TH::getContents() {
+	$useLocalCurrentObjectStackCache();
 	return $new($ObjectArray2, {$$new($ObjectArray, {
 		$of("NumberPatterns"_s),
 		$of($$new($StringArray, {

@@ -47,6 +47,7 @@ void TimeZoneNames_en_AE::init$() {
 }
 
 $ObjectArray2* TimeZoneNames_en_AE::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, Gulf, $new($StringArray, {
 		"Gulf Standard Time"_s,
 		"GST"_s,

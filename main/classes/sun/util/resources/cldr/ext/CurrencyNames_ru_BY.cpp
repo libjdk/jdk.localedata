@@ -45,6 +45,7 @@ void CurrencyNames_ru_BY::init$() {
 }
 
 $ObjectArray2* CurrencyNames_ru_BY::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("BYN"_s),

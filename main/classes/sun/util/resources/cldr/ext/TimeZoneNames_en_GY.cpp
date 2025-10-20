@@ -47,6 +47,7 @@ void TimeZoneNames_en_GY::init$() {
 }
 
 $ObjectArray2* TimeZoneNames_en_GY::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, Guyana, $new($StringArray, {
 		"Guyana Time"_s,
 		"GYT"_s,

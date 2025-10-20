@@ -45,6 +45,7 @@ void CurrencyNames_dav::init$() {
 }
 
 $ObjectArray2* CurrencyNames_dav::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("KES"_s),

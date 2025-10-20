@@ -47,6 +47,7 @@ void TimeZoneNames_en_HK::init$() {
 }
 
 $ObjectArray2* TimeZoneNames_en_HK::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, Hong_Kong, $new($StringArray, {
 		"Hong Kong Standard Time"_s,
 		"HKT"_s,

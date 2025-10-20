@@ -48,6 +48,7 @@ void TimeZoneNames_ig::init$() {
 }
 
 $ObjectArray2* TimeZoneNames_ig::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, GMT, $new($StringArray, {
 		"Oge Mpaghara Greemwich Mean"_s,
 		""_s,

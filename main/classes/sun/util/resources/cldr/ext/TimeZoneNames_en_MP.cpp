@@ -47,6 +47,7 @@ void TimeZoneNames_en_MP::init$() {
 }
 
 $ObjectArray2* TimeZoneNames_en_MP::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, Alaska, $new($StringArray, {
 		"Alaska Standard Time"_s,
 		u"\u2205\u2205\u2205"_s,

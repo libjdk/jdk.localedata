@@ -52,6 +52,7 @@ $Object* allocate$FormatData_zh_HK($Class* clazz) {
 }
 
 void FormatData_zh_HK::init$() {
+	$useLocalCurrentObjectStackCache();
 	$ParallelListResourceBundle::init$();
 	$init($Locale);
 	$var($ResourceBundle, bundle, $nc($($nc(($cast($ResourceBundleBasedAdapter, $($LocaleProviderAdapter::forJRE()))))->getLocaleData()))->getDateFormatData($Locale::TAIWAN));
@@ -59,6 +60,7 @@ void FormatData_zh_HK::init$() {
 }
 
 $ObjectArray2* FormatData_zh_HK::getContents() {
+	$useLocalCurrentObjectStackCache();
 	return $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("MonthAbbreviations"_s),

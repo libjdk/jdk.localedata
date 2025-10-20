@@ -45,6 +45,7 @@ void FormatData_nyn::init$() {
 }
 
 $ObjectArray2* FormatData_nyn::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_MonthNames, $new($StringArray, {
 		"Okwokubanza"_s,
 		"Okwakabiri"_s,

@@ -44,6 +44,7 @@ void FormatData_es_PY::init$() {
 }
 
 $ObjectArray2* FormatData_es_PY::getContents() {
+	$useLocalCurrentObjectStackCache();
 	return $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("TimePatterns"_s),

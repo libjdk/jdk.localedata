@@ -45,6 +45,7 @@ void CurrencyNames_ar_DJ::init$() {
 }
 
 $ObjectArray2* CurrencyNames_ar_DJ::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {$$new($ObjectArray, {
 		$of("DJF"_s),
 		$of("Fdj"_s)

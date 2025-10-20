@@ -45,6 +45,7 @@ void LocaleNames_yo_BJ::init$() {
 }
 
 $ObjectArray2* LocaleNames_yo_BJ::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("003"_s),

@@ -48,6 +48,7 @@ void TimeZoneNames_az::init$() {
 }
 
 $ObjectArray2* TimeZoneNames_az::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, GMT, $new($StringArray, {
 		u"Qrinvi\u00e7 Orta Vaxt\u0131"_s,
 		""_s,

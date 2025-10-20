@@ -47,6 +47,7 @@ void TimeZoneNames_qu_BO::init$() {
 }
 
 $ObjectArray2* TimeZoneNames_qu_BO::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, Peru, $new($StringArray, {
 		u"Hora Estandar de Per\u00fa"_s,
 		u"\u2205\u2205\u2205"_s,

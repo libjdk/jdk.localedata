@@ -45,6 +45,7 @@ void FormatData_ps_PK::init$() {
 }
 
 $ObjectArray2* FormatData_ps_PK::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_TimePatterns, $new($StringArray, {
 		"h:mm:ss a zzzz"_s,
 		"h:mm:ss a z"_s,

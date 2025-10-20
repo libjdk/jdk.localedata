@@ -43,6 +43,7 @@ void Bug8132125::init$() {
 }
 
 void Bug8132125::main($StringArray* args) {
+	$useLocalCurrentObjectStackCache();
 	$var($Locale, deCH, $new($Locale, "de"_s, "CH"_s));
 	$var($NumberFormat, nf, $NumberFormat::getInstance(deCH));
 	$var($String, expected, u"54\u2019839\u2019483.142"_s);

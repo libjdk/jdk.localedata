@@ -45,6 +45,7 @@ void LocaleNames_br::init$() {
 }
 
 $ObjectArray2* LocaleNames_br::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($String, metaValue_bn, "bengali"_s);
 	$var($String, metaValue_gu, "gujarati"_s);
 	$var($String, metaValue_km, "khmer"_s);

@@ -44,6 +44,7 @@ void JavaTimeSupplementary_zh_SG::init$() {
 }
 
 $ObjectArray2* JavaTimeSupplementary_zh_SG::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, sharedDatePatterns, $new($StringArray, {
 		u"GGGGy\u5e74M\u6708d\u65e5EEEE"_s,
 		u"GGGGy\u5e74M\u6708d\u65e5"_s,

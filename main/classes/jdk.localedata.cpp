@@ -3659,7 +3659,7 @@ void jdk$localedata$LibEventAction(int32_t eventType, void* eventData) {
 		jdk$localedata$PreloadClass(eventData);
 	}
 	if (eventType == JCPP_LIB_EVENT_TYPE_THREAD_START) {
-		$setCurrentObjectStack();
+		$onLibThreadStart(eventData);
 	}
 }
 

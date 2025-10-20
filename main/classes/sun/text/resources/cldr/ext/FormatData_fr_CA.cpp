@@ -45,6 +45,7 @@ void FormatData_fr_CA::init$() {
 }
 
 $ObjectArray2* FormatData_fr_CA::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_MonthAbbreviations, $new($StringArray, {
 		"janv."_s,
 		u"f\u00e9vr."_s,

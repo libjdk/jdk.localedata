@@ -45,6 +45,7 @@ void FormatData_mfe::init$() {
 }
 
 $ObjectArray2* FormatData_mfe::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_MonthNames, $new($StringArray, {
 		"zanvie"_s,
 		"fevriye"_s,

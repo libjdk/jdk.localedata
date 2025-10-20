@@ -48,6 +48,7 @@ void TimeZoneNames_lb::init$() {
 }
 
 $ObjectArray2* TimeZoneNames_lb::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, GMT, $new($StringArray, {
 		u"M\u00ebttler Greenwich-Z\u00e4it"_s,
 		""_s,

@@ -44,6 +44,7 @@ void CurrencyNames_de_AT::init$() {
 }
 
 $ObjectArray2* CurrencyNames_de_AT::getContents() {
+	$useLocalCurrentObjectStackCache();
 	return $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("ATS"_s),

@@ -45,6 +45,7 @@ void FormatData_yo_BJ::init$() {
 }
 
 $ObjectArray2* FormatData_yo_BJ::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_MonthNames, $new($StringArray, {
 		u"Osh\u00f9 Sh\u025b\u0301r\u025b\u0301"_s,
 		u"Osh\u00f9 \u00c8r\u00e8l\u00e8"_s,

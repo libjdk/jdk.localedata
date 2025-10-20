@@ -45,6 +45,7 @@ void FormatData_luo::init$() {
 }
 
 $ObjectArray2* FormatData_luo::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_MonthNames, $new($StringArray, {
 		"Dwe mar Achiel"_s,
 		"Dwe mar Ariyo"_s,

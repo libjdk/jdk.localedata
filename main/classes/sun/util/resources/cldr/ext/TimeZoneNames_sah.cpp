@@ -47,6 +47,7 @@ void TimeZoneNames_sah::init$() {
 }
 
 $ObjectArray2* TimeZoneNames_sah::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, Iran, $new($StringArray, {
 		u"\u0418\u0440\u0430\u0430\u043d \u0441\u04af\u0440\u04af\u043d \u043a\u044d\u043c\u044d"_s,
 		""_s,

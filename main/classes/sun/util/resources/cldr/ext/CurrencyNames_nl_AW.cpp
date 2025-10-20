@@ -45,6 +45,7 @@ void CurrencyNames_nl_AW::init$() {
 }
 
 $ObjectArray2* CurrencyNames_nl_AW::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {$$new($ObjectArray, {
 		$of("AWG"_s),
 		$of("Afl."_s)

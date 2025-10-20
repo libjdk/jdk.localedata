@@ -45,6 +45,7 @@ void FormatData_lag::init$() {
 }
 
 $ObjectArray2* FormatData_lag::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_MonthNames, $new($StringArray, {
 		u"K\u0289f\u00fangat\u0268"_s,
 		u"K\u0289naan\u0268"_s,

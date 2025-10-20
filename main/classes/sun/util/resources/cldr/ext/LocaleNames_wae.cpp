@@ -45,6 +45,7 @@ void LocaleNames_wae::init$() {
 }
 
 $ObjectArray2* LocaleNames_wae::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($String, metaValue_TO, "Tonga"_s);
 	$var($String, metaValue_ar, u"Arabi\u0161"_s);
 	$var($String, metaValue_bn, u"Bengali\u0161"_s);

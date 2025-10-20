@@ -45,6 +45,7 @@ void LocaleNames_ccp::init$() {
 }
 
 $ObjectArray2* LocaleNames_ccp::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($String, metaValue_NR, $cstr({0x1111A, 0x11103, 0x1112A, 0x11122, 0x1112A}));
 	$var($String, metaValue_TK, $cstr({0x11111, 0x1112E, 0x11107, 0x1112C, 0x11123, 0x11103, 0x1112A}));
 	$var($String, metaValue_TV, $cstr({0x11111, 0x1112A, 0x1111E, 0x11123, 0x1112A}));

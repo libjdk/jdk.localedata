@@ -45,6 +45,7 @@ void CurrencyNames_ak::init$() {
 }
 
 $ObjectArray2* CurrencyNames_ak::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("GHS"_s),

@@ -45,6 +45,7 @@ void LocaleNames_fi::init$() {
 }
 
 $ObjectArray2* LocaleNames_fi::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($String, metaValue_bax, "bamum"_s);
 	$var($String, metaValue_doi, "dogri"_s);
 	$var($String, metaValue_kpe, "kpelle"_s);

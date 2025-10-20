@@ -45,6 +45,7 @@ void CurrencyNames_teo::init$() {
 }
 
 $ObjectArray2* CurrencyNames_teo::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("UGX"_s),

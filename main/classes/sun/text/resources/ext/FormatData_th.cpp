@@ -44,6 +44,7 @@ void FormatData_th::init$() {
 }
 
 $ObjectArray2* FormatData_th::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, timePatterns, $new($StringArray, {
 		u"H\' \u0e19\u0e32\u0e2c\u0e34\u0e01\u0e32 \'m\' \u0e19\u0e32\u0e17\u0e35 \'ss\' \u0e27\u0e34\u0e19\u0e32\u0e17\u0e35\'"_s,
 		u"H\' \u0e19\u0e32\u0e2c\u0e34\u0e01\u0e32 \'m\' \u0e19\u0e32\u0e17\u0e35\'"_s,

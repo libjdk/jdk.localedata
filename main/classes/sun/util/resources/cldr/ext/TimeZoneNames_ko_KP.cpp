@@ -47,6 +47,7 @@ void TimeZoneNames_ko_KP::init$() {
 }
 
 $ObjectArray2* TimeZoneNames_ko_KP::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, Korea, $new($StringArray, {
 		u"\uc870\uc120 \ud45c\uc900\uc2dc"_s,
 		""_s,

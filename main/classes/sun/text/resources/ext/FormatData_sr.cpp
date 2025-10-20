@@ -44,6 +44,7 @@ void FormatData_sr::init$() {
 }
 
 $ObjectArray2* FormatData_sr::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, rocEras, $new($StringArray, {
 		u"\u041f\u0440\u0435 \u0420\u041a"_s,
 		u"\u0420\u041a"_s

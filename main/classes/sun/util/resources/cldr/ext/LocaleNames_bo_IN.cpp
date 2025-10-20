@@ -45,6 +45,7 @@ void LocaleNames_bo_IN::init$() {
 }
 
 $ObjectArray2* LocaleNames_bo_IN::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {$$new($ObjectArray, {
 		$of("009"_s),
 		$of(u"\u0f68\u0f7c\u0f64\u0f72\u0f0b\u0f61\u0f71\u0f53\u0f0b\u0f53\u0f0d"_s)

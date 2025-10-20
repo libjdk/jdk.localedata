@@ -44,6 +44,7 @@ void CurrencyNames_sr_Latn_RS::init$() {
 }
 
 $ObjectArray2* CurrencyNames_sr_Latn_RS::getContents() {
+	$useLocalCurrentObjectStackCache();
 	return $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("RSD"_s),

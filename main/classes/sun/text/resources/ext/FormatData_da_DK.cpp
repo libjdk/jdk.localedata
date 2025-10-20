@@ -44,6 +44,7 @@ void FormatData_da_DK::init$() {
 }
 
 $ObjectArray2* FormatData_da_DK::getContents() {
+	$useLocalCurrentObjectStackCache();
 	return $new($ObjectArray2, {$$new($ObjectArray, {
 		$of("NumberPatterns"_s),
 		$of($$new($StringArray, {

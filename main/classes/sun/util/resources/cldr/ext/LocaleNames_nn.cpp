@@ -45,6 +45,7 @@ void LocaleNames_nn::init$() {
 }
 
 $ObjectArray2* LocaleNames_nn::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($String, metaValue_peo, "gammalpersisk"_s);
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {

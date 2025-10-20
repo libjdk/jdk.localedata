@@ -45,6 +45,7 @@ void CurrencyNames_hsb::init$() {
 }
 
 $ObjectArray2* CurrencyNames_hsb::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("ALL"_s),

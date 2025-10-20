@@ -44,6 +44,7 @@ void LocaleNames_hr::init$() {
 }
 
 $ObjectArray2* LocaleNames_hr::getContents() {
+	$useLocalCurrentObjectStackCache();
 	return $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("HR"_s),

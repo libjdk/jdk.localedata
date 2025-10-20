@@ -45,6 +45,7 @@ void CurrencyNames_fur::init$() {
 }
 
 $ObjectArray2* CurrencyNames_fur::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("amd"_s),

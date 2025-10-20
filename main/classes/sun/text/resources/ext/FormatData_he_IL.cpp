@@ -44,6 +44,7 @@ void FormatData_he_IL::init$() {
 }
 
 $ObjectArray2* FormatData_he_IL::getContents() {
+	$useLocalCurrentObjectStackCache();
 	return $new($ObjectArray2, {$$new($ObjectArray, {
 		$of("NumberPatterns"_s),
 		$of($$new($StringArray, {

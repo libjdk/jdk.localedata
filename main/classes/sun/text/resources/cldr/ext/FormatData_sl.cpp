@@ -45,6 +45,7 @@ void FormatData_sl::init$() {
 }
 
 $ObjectArray2* FormatData_sl::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_MonthNames, $new($StringArray, {
 		"januar"_s,
 		"februar"_s,

@@ -45,6 +45,7 @@ void CurrencyNames_ar_SO::init$() {
 }
 
 $ObjectArray2* CurrencyNames_ar_SO::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {$$new($ObjectArray, {
 		$of("SOS"_s),
 		$of("S"_s)

@@ -45,6 +45,7 @@ void LocaleNames_bg::init$() {
 }
 
 $ObjectArray2* LocaleNames_bg::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($String, metaValue_gu, u"\u0433\u0443\u0434\u0436\u0430\u0440\u0430\u0442\u0438"_s);
 	$var($String, metaValue_he, u"\u0438\u0432\u0440\u0438\u0442"_s);
 	$var($String, metaValue_kn, u"\u043a\u0430\u043d\u043d\u0430\u0434\u0430"_s);

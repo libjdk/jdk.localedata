@@ -45,6 +45,7 @@ void LocaleNames_lb::init$() {
 }
 
 $ObjectArray2* LocaleNames_lb::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($String, metaValue_PW, "Palau"_s);
 	$var($String, metaValue_ae, "Avestesch"_s);
 	$var($String, metaValue_ar, "Arabesch"_s);

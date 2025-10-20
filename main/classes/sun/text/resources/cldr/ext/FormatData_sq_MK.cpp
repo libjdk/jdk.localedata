@@ -45,6 +45,7 @@ void FormatData_sq_MK::init$() {
 }
 
 $ObjectArray2* FormatData_sq_MK::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_TimePatterns, $new($StringArray, {
 		"HH:mm:ss zzzz"_s,
 		"HH:mm:ss z"_s,

@@ -45,6 +45,7 @@ void CurrencyNames_lu::init$() {
 }
 
 $ObjectArray2* CurrencyNames_lu::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("CDF"_s),

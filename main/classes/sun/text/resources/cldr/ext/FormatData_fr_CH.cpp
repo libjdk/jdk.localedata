@@ -45,6 +45,7 @@ void FormatData_fr_CH::init$() {
 }
 
 $ObjectArray2* FormatData_fr_CH::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_AmPmMarkers, $new($StringArray, {
 		"AM"_s,
 		"PM"_s,

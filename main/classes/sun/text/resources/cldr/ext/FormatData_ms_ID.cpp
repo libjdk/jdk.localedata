@@ -45,6 +45,7 @@ void FormatData_ms_ID::init$() {
 }
 
 $ObjectArray2* FormatData_ms_ID::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_TimePatterns, $new($StringArray, {
 		"HH.mm.ss zzzz"_s,
 		"HH.mm.ss z"_s,

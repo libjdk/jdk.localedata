@@ -45,6 +45,7 @@ void CurrencyNames_en_ER::init$() {
 }
 
 $ObjectArray2* CurrencyNames_en_ER::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {$$new($ObjectArray, {
 		$of("ERN"_s),
 		$of("Nfk"_s)

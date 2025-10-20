@@ -44,6 +44,7 @@ void FormatData_ko_KR::init$() {
 }
 
 $ObjectArray2* FormatData_ko_KR::getContents() {
+	$useLocalCurrentObjectStackCache();
 	return $new($ObjectArray2, {$$new($ObjectArray, {
 		$of("NumberPatterns"_s),
 		$of($$new($StringArray, {

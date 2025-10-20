@@ -45,6 +45,7 @@ void FormatData_tr::init$() {
 }
 
 $ObjectArray2* FormatData_tr::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_MonthNames, $new($StringArray, {
 		"Ocak"_s,
 		u"\u015eubat"_s,

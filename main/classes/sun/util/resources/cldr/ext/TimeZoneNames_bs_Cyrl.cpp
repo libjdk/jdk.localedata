@@ -48,6 +48,7 @@ void TimeZoneNames_bs_Cyrl::init$() {
 }
 
 $ObjectArray2* TimeZoneNames_bs_Cyrl::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, GMT, $new($StringArray, {
 		u"\u0413\u0440\u0438\u043d\u0438\u0447\u043a\u043e \u0441\u0440\u0435\u0434\u045a\u0435 \u0432\u0440\u0438\u0458\u0435\u043c\u0435"_s,
 		""_s,

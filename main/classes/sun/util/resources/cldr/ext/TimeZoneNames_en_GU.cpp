@@ -47,6 +47,7 @@ void TimeZoneNames_en_GU::init$() {
 }
 
 $ObjectArray2* TimeZoneNames_en_GU::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, Chamorro, $new($StringArray, {
 		"Chamorro Standard Time"_s,
 		"ChST"_s,

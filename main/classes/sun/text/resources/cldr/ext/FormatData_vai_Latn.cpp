@@ -45,6 +45,7 @@ void FormatData_vai_Latn::init$() {
 }
 
 $ObjectArray2* FormatData_vai_Latn::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_DayNames, $new($StringArray, {
 		"lahadi"_s,
 		u"t\u025b\u025bn\u025b\u025b"_s,

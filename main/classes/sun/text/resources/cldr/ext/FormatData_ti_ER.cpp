@@ -45,6 +45,7 @@ void FormatData_ti_ER::init$() {
 }
 
 $ObjectArray2* FormatData_ti_ER::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_java_time_buddhist_DatePatterns, $new($StringArray, {
 		u"EEEE\u1361 dd MMMM \u1218\u12d3\u120d\u1272 y G"_s,
 		""_s,

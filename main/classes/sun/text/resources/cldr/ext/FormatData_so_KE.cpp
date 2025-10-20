@@ -45,6 +45,7 @@ void FormatData_so_KE::init$() {
 }
 
 $ObjectArray2* FormatData_so_KE::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_TimePatterns, $new($StringArray, {
 		"HH:mm:ss zzzz"_s,
 		"HH:mm:ss z"_s,

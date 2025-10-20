@@ -44,6 +44,7 @@ void FormatData_zh_CN::init$() {
 }
 
 $ObjectArray2* FormatData_zh_CN::getContents() {
+	$useLocalCurrentObjectStackCache();
 	return $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("NumberPatterns"_s),

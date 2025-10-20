@@ -44,6 +44,7 @@ void BreakIteratorRules_th::init$() {
 }
 
 $ObjectArray2* BreakIteratorRules_th::getContents() {
+	$useLocalCurrentObjectStackCache();
 	return $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("WordBreakRules"_s),

@@ -45,6 +45,7 @@ void LocaleNames_pl::init$() {
 }
 
 $ObjectArray2* LocaleNames_pl::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($String, metaValue_gu, u"gud\u017carati"_s);
 	$var($String, metaValue_kn, "kannada"_s);
 	$var($String, metaValue_ml, "malajalam"_s);

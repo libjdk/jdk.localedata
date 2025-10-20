@@ -45,6 +45,7 @@ void CurrencyNames_fr_KM::init$() {
 }
 
 $ObjectArray2* CurrencyNames_fr_KM::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {$$new($ObjectArray, {
 		$of("KMF"_s),
 		$of("CF"_s)

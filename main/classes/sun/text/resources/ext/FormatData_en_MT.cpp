@@ -44,6 +44,7 @@ void FormatData_en_MT::init$() {
 }
 
 $ObjectArray2* FormatData_en_MT::getContents() {
+	$useLocalCurrentObjectStackCache();
 	return $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("NumberPatterns"_s),

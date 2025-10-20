@@ -47,6 +47,7 @@ void TimeZoneNames_en_CA::init$() {
 }
 
 $ObjectArray2* TimeZoneNames_en_CA::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, Alaska, $new($StringArray, {
 		""_s,
 		"AKST"_s,

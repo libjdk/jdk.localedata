@@ -45,6 +45,7 @@ void FormatData_ceb::init$() {
 }
 
 $ObjectArray2* FormatData_ceb::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_MonthNames, $new($StringArray, {
 		"Enero"_s,
 		"Pebrero"_s,

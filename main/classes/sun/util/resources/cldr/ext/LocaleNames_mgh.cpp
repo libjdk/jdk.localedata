@@ -45,6 +45,7 @@ void LocaleNames_mgh::init$() {
 }
 
 $ObjectArray2* LocaleNames_mgh::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("AD"_s),

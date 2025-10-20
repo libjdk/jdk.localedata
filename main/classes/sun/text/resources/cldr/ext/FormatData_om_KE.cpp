@@ -45,6 +45,7 @@ void FormatData_om_KE::init$() {
 }
 
 $ObjectArray2* FormatData_om_KE::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_MonthNarrows, $new($StringArray, {
 		"A"_s,
 		"G"_s,

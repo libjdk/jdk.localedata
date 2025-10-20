@@ -45,6 +45,7 @@ void LocaleNames_kw::init$() {
 }
 
 $ObjectArray2* LocaleNames_kw::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("GB"_s),

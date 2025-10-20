@@ -44,6 +44,7 @@ void CalendarData_pt_PT::init$() {
 }
 
 $ObjectArray2* CalendarData_pt_PT::getContents() {
+	$useLocalCurrentObjectStackCache();
 	return $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("firstDayOfWeek"_s),

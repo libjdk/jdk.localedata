@@ -45,6 +45,7 @@ void CurrencyNames_agq::init$() {
 }
 
 $ObjectArray2* CurrencyNames_agq::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("aed"_s),

@@ -45,6 +45,7 @@ void FormatData_sr_Cyrl_BA::init$() {
 }
 
 $ObjectArray2* FormatData_sr_Cyrl_BA::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_DayNames, $new($StringArray, {
 		u"\u043d\u0435\u0434\u0458\u0435\u0459\u0430"_s,
 		u"\u043f\u043e\u043d\u0435\u0434\u0458\u0435\u0459\u0430\u043a"_s,

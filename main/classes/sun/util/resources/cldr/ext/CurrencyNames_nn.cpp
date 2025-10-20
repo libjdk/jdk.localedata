@@ -45,6 +45,7 @@ void CurrencyNames_nn::init$() {
 }
 
 $ObjectArray2* CurrencyNames_nn::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("GBP"_s),

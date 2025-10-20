@@ -44,6 +44,7 @@ void FormatData_uk_UA::init$() {
 }
 
 $ObjectArray2* FormatData_uk_UA::getContents() {
+	$useLocalCurrentObjectStackCache();
 	return $new($ObjectArray2, {$$new($ObjectArray, {
 		$of("NumberPatterns"_s),
 		$of($$new($StringArray, {

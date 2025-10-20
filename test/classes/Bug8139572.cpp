@@ -73,6 +73,7 @@ void Bug8139572::init$() {
 
 void Bug8139572::main($StringArray* args) {
 	$init(Bug8139572);
+	$useLocalCurrentObjectStackCache();
 	for (int32_t i = 0; i < $nc(Bug8139572::PATTERNS)->length; ++i) {
 		$var($SimpleDateFormat, fmt, $new($SimpleDateFormat, $nc(Bug8139572::PATTERNS)->get(i), Bug8139572::RUSSIAN));
 		$var($Date, standAloneDate, fmt->parse($nc(Bug8139572::APPLIED)->get(i)));

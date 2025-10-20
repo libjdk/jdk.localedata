@@ -47,6 +47,7 @@ void TimeZoneNames_en_NZ::init$() {
 }
 
 $ObjectArray2* TimeZoneNames_en_NZ::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, Chatham, $new($StringArray, {
 		"Chatham Standard Time"_s,
 		"CHAST"_s,

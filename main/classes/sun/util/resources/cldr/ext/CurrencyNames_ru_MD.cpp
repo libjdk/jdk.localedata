@@ -45,6 +45,7 @@ void CurrencyNames_ru_MD::init$() {
 }
 
 $ObjectArray2* CurrencyNames_ru_MD::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {$$new($ObjectArray, {
 		$of("MDL"_s),
 		$of("L"_s)

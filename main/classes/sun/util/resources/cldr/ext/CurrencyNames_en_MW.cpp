@@ -45,6 +45,7 @@ void CurrencyNames_en_MW::init$() {
 }
 
 $ObjectArray2* CurrencyNames_en_MW::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {$$new($ObjectArray, {
 		$of("MWK"_s),
 		$of("MK"_s)

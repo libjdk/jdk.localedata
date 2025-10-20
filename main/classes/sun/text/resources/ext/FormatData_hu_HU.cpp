@@ -44,6 +44,7 @@ void FormatData_hu_HU::init$() {
 }
 
 $ObjectArray2* FormatData_hu_HU::getContents() {
+	$useLocalCurrentObjectStackCache();
 	return $new($ObjectArray2, {$$new($ObjectArray, {
 		$of("NumberPatterns"_s),
 		$of($$new($StringArray, {

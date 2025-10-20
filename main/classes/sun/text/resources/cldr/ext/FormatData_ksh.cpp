@@ -45,6 +45,7 @@ void FormatData_ksh::init$() {
 }
 
 $ObjectArray2* FormatData_ksh::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_MonthNames, $new($StringArray, {
 		"Jannewa"_s,
 		u"F\u00e4browa"_s,

@@ -44,6 +44,7 @@ void CurrencyNames_es_ES::init$() {
 }
 
 $ObjectArray2* CurrencyNames_es_ES::getContents() {
+	$useLocalCurrentObjectStackCache();
 	return $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("ESP"_s),

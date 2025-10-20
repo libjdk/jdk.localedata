@@ -45,6 +45,7 @@ void CurrencyNames_en_AI::init$() {
 }
 
 $ObjectArray2* CurrencyNames_en_AI::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {$$new($ObjectArray, {
 		$of("XCD"_s),
 		$of("$"_s)

@@ -45,6 +45,7 @@ void CurrencyNames_kkj::init$() {
 }
 
 $ObjectArray2* CurrencyNames_kkj::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {$$new($ObjectArray, {
 		$of("xaf"_s),
 		$of("Franc CFA"_s)

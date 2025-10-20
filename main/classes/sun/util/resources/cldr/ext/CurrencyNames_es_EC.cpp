@@ -45,6 +45,7 @@ void CurrencyNames_es_EC::init$() {
 }
 
 $ObjectArray2* CurrencyNames_es_EC::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {$$new($ObjectArray, {
 		$of("USD"_s),
 		$of("$"_s)

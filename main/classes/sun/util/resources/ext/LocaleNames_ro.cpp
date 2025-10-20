@@ -44,6 +44,7 @@ void LocaleNames_ro::init$() {
 }
 
 $ObjectArray2* LocaleNames_ro::getContents() {
+	$useLocalCurrentObjectStackCache();
 	return $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("RO"_s),

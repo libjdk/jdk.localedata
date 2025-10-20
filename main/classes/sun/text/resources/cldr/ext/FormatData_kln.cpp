@@ -45,6 +45,7 @@ void FormatData_kln::init$() {
 }
 
 $ObjectArray2* FormatData_kln::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_MonthNames, $new($StringArray, {
 		"Mulgul"_s,
 		u"Ng\u2019atyaato"_s,

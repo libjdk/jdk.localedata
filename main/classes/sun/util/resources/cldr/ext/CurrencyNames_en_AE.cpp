@@ -45,6 +45,7 @@ void CurrencyNames_en_AE::init$() {
 }
 
 $ObjectArray2* CurrencyNames_en_AE::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {$$new($ObjectArray, {
 		$of("AED"_s),
 		$of("AED"_s)

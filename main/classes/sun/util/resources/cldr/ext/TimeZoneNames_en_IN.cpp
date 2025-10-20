@@ -47,6 +47,7 @@ void TimeZoneNames_en_IN::init$() {
 }
 
 $ObjectArray2* TimeZoneNames_en_IN::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, India, $new($StringArray, {
 		"India Standard Time"_s,
 		"IST"_s,

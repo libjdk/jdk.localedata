@@ -44,6 +44,7 @@ void TimeZoneNames_hi::init$() {
 }
 
 $ObjectArray2* TimeZoneNames_hi::getContents() {
+	$useLocalCurrentObjectStackCache();
 	return $new($ObjectArray2, {$$new($ObjectArray, {
 		$of("Asia/Calcutta"_s),
 		$of($$new($StringArray, {

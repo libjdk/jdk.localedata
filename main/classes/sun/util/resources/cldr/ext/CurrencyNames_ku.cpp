@@ -45,6 +45,7 @@ void CurrencyNames_ku::init$() {
 }
 
 $ObjectArray2* CurrencyNames_ku::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("TRY"_s),

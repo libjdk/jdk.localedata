@@ -45,6 +45,7 @@ void CurrencyNames_en_GH::init$() {
 }
 
 $ObjectArray2* CurrencyNames_en_GH::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {$$new($ObjectArray, {
 		$of("GHS"_s),
 		$of(u"GH\u20b5"_s)

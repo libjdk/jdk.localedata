@@ -45,6 +45,7 @@ void LocaleNames_mzn::init$() {
 }
 
 $ObjectArray2* LocaleNames_mzn::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($String, metaValue_MD, u"\u0645\u0648\u0644\u062f\u0627\u0648\u06cc"_s);
 	$var($String, metaValue_SK, u"\u0627\u0633\u0644\u0648\u0627\u06a9\u06cc"_s);
 	$var($String, metaValue_ar, u"\u0639\u0631\u0628\u06cc"_s);

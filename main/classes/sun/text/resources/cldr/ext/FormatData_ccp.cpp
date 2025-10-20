@@ -45,6 +45,7 @@ void FormatData_ccp::init$() {
 }
 
 $ObjectArray2* FormatData_ccp::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_MonthNames, $new($StringArray, {
 		$cstr({0x1110E, 0x1111A, 0x1112A, 0x11120, 0x11122, 0x11128}),
 		$cstr({0x1111C, 0x1112C, 0x1111B, 0x11134, 0x1111D, 0x11133, 0x11122, 0x1112A, 0x11120, 0x11122, 0x11128}),

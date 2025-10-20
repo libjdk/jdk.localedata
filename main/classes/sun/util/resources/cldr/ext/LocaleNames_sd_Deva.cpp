@@ -45,6 +45,7 @@ void LocaleNames_sd_Deva::init$() {
 }
 
 $ObjectArray2* LocaleNames_sd_Deva::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("BR"_s),

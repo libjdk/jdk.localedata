@@ -45,6 +45,7 @@ void FormatData_sq::init$() {
 }
 
 $ObjectArray2* FormatData_sq::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_MonthNames, $new($StringArray, {
 		"janar"_s,
 		"shkurt"_s,

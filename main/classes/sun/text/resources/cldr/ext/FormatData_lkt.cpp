@@ -45,6 +45,7 @@ void FormatData_lkt::init$() {
 }
 
 $ObjectArray2* FormatData_lkt::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_MonthNames, $new($StringArray, {
 		u"Wi\u00f3the\u021fika W\u00ed"_s,
 		u"Thiy\u00f3\u021feyu\u014bka W\u00ed"_s,

@@ -47,6 +47,7 @@ void TimeZoneNames_ta_SG::init$() {
 }
 
 $ObjectArray2* TimeZoneNames_ta_SG::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, India, $new($StringArray, {
 		u"\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0bbe\u0ba9 \u0ba8\u0bc7\u0bb0\u0bae\u0bcd"_s,
 		u"\u2205\u2205\u2205"_s,

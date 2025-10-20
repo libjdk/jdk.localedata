@@ -45,6 +45,7 @@ void FormatData_ar_KM::init$() {
 }
 
 $ObjectArray2* FormatData_ar_KM::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_TimePatterns, $new($StringArray, {
 		"HH:mm:ss zzzz"_s,
 		"HH:mm:ss z"_s,

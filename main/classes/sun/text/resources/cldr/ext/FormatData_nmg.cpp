@@ -45,6 +45,7 @@ void FormatData_nmg::init$() {
 }
 
 $ObjectArray2* FormatData_nmg::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_MonthNames, $new($StringArray, {
 		u"ngw\u025bn mat\u00e1hra"_s,
 		u"ngw\u025bn \u0144mba"_s,

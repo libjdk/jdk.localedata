@@ -45,6 +45,7 @@ void LocaleNames_brx::init$() {
 }
 
 $ObjectArray2* LocaleNames_brx::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($String, metaValue_TK, u"\u091f\u094b\u0915\u0947\u0932\u094c"_s);
 	$var($String, metaValue_TO, u"\u091f\u0949\u0902\u0917\u093e"_s);
 	$var($String, metaValue_TR, u"\u0924\u0941\u0930\u094d\u0915\u0940"_s);

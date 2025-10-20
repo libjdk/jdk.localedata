@@ -45,6 +45,7 @@ void FormatData_ig::init$() {
 }
 
 $ObjectArray2* FormatData_ig::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_MonthNames, $new($StringArray, {
 		u"Jen\u1ee5war\u1ecb"_s,
 		u"Febr\u1ee5war\u1ecb"_s,

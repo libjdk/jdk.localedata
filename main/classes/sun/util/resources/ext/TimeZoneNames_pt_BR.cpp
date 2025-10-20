@@ -124,6 +124,7 @@ void TimeZoneNames_pt_BR::init$() {
 }
 
 $ObjectArray2* TimeZoneNames_pt_BR::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, ACT, $new($StringArray, {
 		u"Fuso hor\u00e1rio do Acre"_s,
 		"ACT"_s,

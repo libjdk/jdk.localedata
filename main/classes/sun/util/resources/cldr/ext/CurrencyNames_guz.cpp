@@ -45,6 +45,7 @@ void CurrencyNames_guz::init$() {
 }
 
 $ObjectArray2* CurrencyNames_guz::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("KES"_s),

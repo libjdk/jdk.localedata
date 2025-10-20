@@ -45,6 +45,7 @@ void LocaleNames_eu::init$() {
 }
 
 $ObjectArray2* LocaleNames_eu::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($String, metaValue_si, "sinhala"_s);
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {

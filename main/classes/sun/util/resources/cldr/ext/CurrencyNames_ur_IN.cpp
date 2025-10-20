@@ -45,6 +45,7 @@ void CurrencyNames_ur_IN::init$() {
 }
 
 $ObjectArray2* CurrencyNames_ur_IN::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("PKR"_s),

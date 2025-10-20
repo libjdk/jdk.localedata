@@ -45,6 +45,7 @@ void CurrencyNames_bo_IN::init$() {
 }
 
 $ObjectArray2* CurrencyNames_bo_IN::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {$$new($ObjectArray, {
 		$of("CNY"_s),
 		$of(u"CN\u00a5"_s)

@@ -45,6 +45,7 @@ void CurrencyNames_ug::init$() {
 }
 
 $ObjectArray2* CurrencyNames_ug::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("CNY"_s),

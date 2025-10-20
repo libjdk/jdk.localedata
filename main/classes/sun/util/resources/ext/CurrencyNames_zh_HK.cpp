@@ -52,6 +52,7 @@ $Object* allocate$CurrencyNames_zh_HK($Class* clazz) {
 }
 
 void CurrencyNames_zh_HK::init$() {
+	$useLocalCurrentObjectStackCache();
 	$OpenListResourceBundle::init$();
 	$init($Locale);
 	$var($ResourceBundle, bundle, $nc($($nc(($cast($ResourceBundleBasedAdapter, $($LocaleProviderAdapter::forJRE()))))->getLocaleData()))->getCurrencyNames($Locale::TAIWAN));
@@ -59,6 +60,7 @@ void CurrencyNames_zh_HK::init$() {
 }
 
 $ObjectArray2* CurrencyNames_zh_HK::getContents() {
+	$useLocalCurrentObjectStackCache();
 	return $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("HKD"_s),

@@ -48,6 +48,7 @@ void TimeZoneNames_to::init$() {
 }
 
 $ObjectArray2* TimeZoneNames_to::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, GMT, $new($StringArray, {
 		u"houa fakakiliniuisi m\u0101lie"_s,
 		""_s,

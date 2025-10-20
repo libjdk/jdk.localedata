@@ -44,6 +44,7 @@ void LocaleNames_lv::init$() {
 }
 
 $ObjectArray2* LocaleNames_lv::getContents() {
+	$useLocalCurrentObjectStackCache();
 	return $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("LV"_s),

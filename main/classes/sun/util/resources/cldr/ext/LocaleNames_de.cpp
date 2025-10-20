@@ -45,6 +45,7 @@ void LocaleNames_de::init$() {
 }
 
 $ObjectArray2* LocaleNames_de::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($String, metaValue_FJ, "Fidschi"_s);
 	$var($String, metaValue_NU, "Niue"_s);
 	$var($String, metaValue_PW, "Palau"_s);

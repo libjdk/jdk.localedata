@@ -44,6 +44,7 @@ void JavaTimeSupplementary_sk::init$() {
 }
 
 $ObjectArray2* JavaTimeSupplementary_sk::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, sharedQuarterNames, $new($StringArray, {
 		u"1. \u0161tvr\u0165rok"_s,
 		u"2. \u0161tvr\u0165rok"_s,

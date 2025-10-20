@@ -45,6 +45,7 @@ void FormatData_mgh::init$() {
 }
 
 $ObjectArray2* FormatData_mgh::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_MonthNames, $new($StringArray, {
 		"Mweri wo kwanza"_s,
 		"Mweri wo unayeli"_s,

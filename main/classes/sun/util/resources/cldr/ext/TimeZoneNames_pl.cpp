@@ -48,6 +48,7 @@ void TimeZoneNames_pl::init$() {
 }
 
 $ObjectArray2* TimeZoneNames_pl::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, GMT, $new($StringArray, {
 		"czas uniwersalny"_s,
 		""_s,

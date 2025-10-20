@@ -45,6 +45,7 @@ void LocaleNames_zh_Hant::init$() {
 }
 
 $ObjectArray2* LocaleNames_zh_Hant::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($String, metaValue_ar, u"\u963f\u62c9\u4f2f\u6587"_s);
 	$var($String, metaValue_bn, u"\u5b5f\u52a0\u62c9\u6587"_s);
 	$var($String, metaValue_bo, u"\u85cf\u6587"_s);

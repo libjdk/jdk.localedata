@@ -45,6 +45,7 @@ void LocaleNames_de_AT::init$() {
 }
 
 $ObjectArray2* LocaleNames_de_AT::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("SJ"_s),

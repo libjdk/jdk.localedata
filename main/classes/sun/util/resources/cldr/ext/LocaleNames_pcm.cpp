@@ -45,6 +45,7 @@ void LocaleNames_pcm::init$() {
 }
 
 $ObjectArray2* LocaleNames_pcm::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($String, metaValue_GE, u"J\u1ecd\u0301jia"_s);
 	$var($String, metaValue_JP, "Japan"_s);
 	$var($String, metaValue_MN, u"M\u1ecdng\u00f3lia"_s);

@@ -45,6 +45,7 @@ void LocaleNames_mi::init$() {
 }
 
 $ObjectArray2* LocaleNames_mi::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($String, metaValue_DE, "Tiamana"_s);
 	$var($String, metaValue_FR, u"W\u012bw\u012b"_s);
 	$var($ObjectArray2, data, $new($ObjectArray2, {

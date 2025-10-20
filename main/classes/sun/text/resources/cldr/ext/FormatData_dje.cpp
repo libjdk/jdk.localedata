@@ -45,6 +45,7 @@ void FormatData_dje::init$() {
 }
 
 $ObjectArray2* FormatData_dje::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_MonthNames, $new($StringArray, {
 		u"\u017danwiye"_s,
 		"Feewiriye"_s,

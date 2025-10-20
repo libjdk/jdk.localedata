@@ -44,6 +44,7 @@ void LocaleNames_pt_PT::init$() {
 }
 
 $ObjectArray2* LocaleNames_pt_PT::getContents() {
+	$useLocalCurrentObjectStackCache();
 	return $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("AE"_s),

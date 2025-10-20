@@ -45,6 +45,7 @@ void FormatData_ff_Adlm::init$() {
 }
 
 $ObjectArray2* FormatData_ff_Adlm::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_MonthNames, $new($StringArray, {
 		$cstr({0x1E905, 0x1E92D, 0x1E945, 0x1E924, 0x1E92E}),
 		$cstr({0x1E915, 0x1E92E, 0x1E924, 0x1E93C, 0x1E92E}),

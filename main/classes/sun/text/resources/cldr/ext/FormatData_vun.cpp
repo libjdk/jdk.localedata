@@ -45,6 +45,7 @@ void FormatData_vun::init$() {
 }
 
 $ObjectArray2* FormatData_vun::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_MonthNames, $new($StringArray, {
 		"Januari"_s,
 		"Februari"_s,

@@ -45,6 +45,7 @@ void LocaleNames_jgo::init$() {
 }
 
 $ObjectArray2* LocaleNames_jgo::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($String, metaValue_DE, u"Nj\u00e1man"_s);
 	$var($String, metaValue_FR, u"F\u025bl\u00e1nci"_s);
 	$var($String, metaValue_GR, u"\u014ag\u025bl\u025b\u0302k"_s);

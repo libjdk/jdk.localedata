@@ -44,6 +44,7 @@ void LocaleNames_zh::init$() {
 }
 
 $ObjectArray2* LocaleNames_zh::getContents() {
+	$useLocalCurrentObjectStackCache();
 	return $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("001"_s),

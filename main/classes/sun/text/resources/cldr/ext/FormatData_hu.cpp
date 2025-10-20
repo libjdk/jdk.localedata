@@ -45,6 +45,7 @@ void FormatData_hu::init$() {
 }
 
 $ObjectArray2* FormatData_hu::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_MonthNames, $new($StringArray, {
 		u"janu\u00e1r"_s,
 		u"febru\u00e1r"_s,

@@ -45,6 +45,7 @@ void LocaleNames_smn::init$() {
 }
 
 $ObjectArray2* LocaleNames_smn::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("AC"_s),

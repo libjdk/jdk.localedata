@@ -45,6 +45,7 @@ void CurrencyNames_jgo::init$() {
 }
 
 $ObjectArray2* CurrencyNames_jgo::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("cad"_s),

@@ -44,6 +44,7 @@ void LocaleNames_he::init$() {
 }
 
 $ObjectArray2* LocaleNames_he::getContents() {
+	$useLocalCurrentObjectStackCache();
 	return $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("IL"_s),

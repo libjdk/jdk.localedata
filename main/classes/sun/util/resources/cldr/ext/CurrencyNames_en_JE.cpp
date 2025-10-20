@@ -45,6 +45,7 @@ void CurrencyNames_en_JE::init$() {
 }
 
 $ObjectArray2* CurrencyNames_en_JE::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {$$new($ObjectArray, {
 		$of("gbp"_s),
 		$of("UK Pound"_s)

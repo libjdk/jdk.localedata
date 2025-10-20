@@ -44,6 +44,7 @@ void FormatData_bg_BG::init$() {
 }
 
 $ObjectArray2* FormatData_bg_BG::getContents() {
+	$useLocalCurrentObjectStackCache();
 	return $new($ObjectArray2, {$$new($ObjectArray, {
 		$of("NumberPatterns"_s),
 		$of($$new($StringArray, {

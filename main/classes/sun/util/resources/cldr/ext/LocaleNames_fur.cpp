@@ -45,6 +45,7 @@ void LocaleNames_fur::init$() {
 }
 
 $ObjectArray2* LocaleNames_fur::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($String, metaValue_ar, "arap"_s);
 	$var($String, metaValue_bn, u"bengal\u00eas"_s);
 	$var($String, metaValue_bo, "tibetan"_s);

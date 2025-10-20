@@ -45,6 +45,7 @@ void FormatData_lrc_IQ::init$() {
 }
 
 $ObjectArray2* FormatData_lrc_IQ::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_TimePatterns, $new($StringArray, {
 		"h:mm:ss a zzzz"_s,
 		"h:mm:ss a z"_s,

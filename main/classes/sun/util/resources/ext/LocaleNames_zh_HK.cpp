@@ -52,6 +52,7 @@ $Object* allocate$LocaleNames_zh_HK($Class* clazz) {
 }
 
 void LocaleNames_zh_HK::init$() {
+	$useLocalCurrentObjectStackCache();
 	$OpenListResourceBundle::init$();
 	$init($Locale);
 	$var($ResourceBundle, bundle, $nc($($nc(($cast($ResourceBundleBasedAdapter, $($LocaleProviderAdapter::forJRE()))))->getLocaleData()))->getLocaleNames($Locale::TAIWAN));

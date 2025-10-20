@@ -45,6 +45,7 @@ void FormatData_tzm::init$() {
 }
 
 $ObjectArray2* FormatData_tzm::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_MonthNames, $new($StringArray, {
 		"Yennayer"_s,
 		"Yebrayer"_s,

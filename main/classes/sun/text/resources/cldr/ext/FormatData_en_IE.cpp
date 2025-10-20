@@ -45,6 +45,7 @@ void FormatData_en_IE::init$() {
 }
 
 $ObjectArray2* FormatData_en_IE::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_AmPmMarkers, $new($StringArray, {
 		"a.m."_s,
 		"p.m."_s,

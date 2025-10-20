@@ -45,6 +45,7 @@ void FormatData_mer::init$() {
 }
 
 $ObjectArray2* FormatData_mer::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_MonthNames, $new($StringArray, {
 		u"Januar\u0129"_s,
 		u"Feburuar\u0129"_s,

@@ -45,6 +45,7 @@ void LocaleNames_tr::init$() {
 }
 
 $ObjectArray2* LocaleNames_tr::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($String, metaValue_CY, u"K\u0131br\u0131s"_s);
 	$var($String, metaValue_ET, "Etiyopya"_s);
 	$var($String, metaValue_ko, "Korece"_s);

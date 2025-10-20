@@ -45,6 +45,7 @@ void CurrencyNames_se_SE::init$() {
 }
 
 $ObjectArray2* CurrencyNames_se_SE::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("NOK"_s),

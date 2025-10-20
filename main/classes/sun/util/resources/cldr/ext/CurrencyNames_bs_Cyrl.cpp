@@ -45,6 +45,7 @@ void CurrencyNames_bs_Cyrl::init$() {
 }
 
 $ObjectArray2* CurrencyNames_bs_Cyrl::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("BAM"_s),

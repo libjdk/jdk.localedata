@@ -45,6 +45,7 @@ void LocaleNames_kl::init$() {
 }
 
 $ObjectArray2* LocaleNames_kl::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("GL"_s),

@@ -45,6 +45,7 @@ void LocaleNames_mt::init$() {
 }
 
 $ObjectArray2* LocaleNames_mt::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($String, metaValue_TV, "Tuvalu"_s);
 	$var($String, metaValue_ar, u"G\u0127arbi"_s);
 	$var($String, metaValue_el, "Grieg"_s);

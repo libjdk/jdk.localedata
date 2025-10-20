@@ -44,6 +44,7 @@ void CurrencyNames_es_MX::init$() {
 }
 
 $ObjectArray2* CurrencyNames_es_MX::getContents() {
+	$useLocalCurrentObjectStackCache();
 	return $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("MXN"_s),

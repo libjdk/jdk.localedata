@@ -45,6 +45,7 @@ void CurrencyNames_nl_SR::init$() {
 }
 
 $ObjectArray2* CurrencyNames_nl_SR::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {$$new($ObjectArray, {
 		$of("SRD"_s),
 		$of("$"_s)

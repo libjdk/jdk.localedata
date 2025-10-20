@@ -45,6 +45,7 @@ void CurrencyNames_vai::init$() {
 }
 
 $ObjectArray2* CurrencyNames_vai::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("LRD"_s),

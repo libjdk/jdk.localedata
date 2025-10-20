@@ -45,6 +45,7 @@ void CurrencyNames_ff_Adlm_GH::init$() {
 }
 
 $ObjectArray2* CurrencyNames_ff_Adlm_GH::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("GHS"_s),

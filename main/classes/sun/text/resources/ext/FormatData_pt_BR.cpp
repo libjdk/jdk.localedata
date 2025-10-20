@@ -44,6 +44,7 @@ void FormatData_pt_BR::init$() {
 }
 
 $ObjectArray2* FormatData_pt_BR::getContents() {
+	$useLocalCurrentObjectStackCache();
 	return $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("NumberPatterns"_s),

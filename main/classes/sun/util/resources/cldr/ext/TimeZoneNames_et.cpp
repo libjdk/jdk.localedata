@@ -48,6 +48,7 @@ void TimeZoneNames_et::init$() {
 }
 
 $ObjectArray2* TimeZoneNames_et::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, GMT, $new($StringArray, {
 		"Greenwichi aeg"_s,
 		""_s,

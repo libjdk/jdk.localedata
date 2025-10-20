@@ -44,6 +44,7 @@ void CurrencyNames_lv_LV::init$() {
 }
 
 $ObjectArray2* CurrencyNames_lv_LV::getContents() {
+	$useLocalCurrentObjectStackCache();
 	return $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("EUR"_s),

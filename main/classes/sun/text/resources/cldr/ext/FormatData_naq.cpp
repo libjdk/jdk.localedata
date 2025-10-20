@@ -45,6 +45,7 @@ void FormatData_naq::init$() {
 }
 
 $ObjectArray2* FormatData_naq::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_MonthNames, $new($StringArray, {
 		u"\u01c3Khanni"_s,
 		u"\u01c3Khan\u01c0g\u00f4ab"_s,

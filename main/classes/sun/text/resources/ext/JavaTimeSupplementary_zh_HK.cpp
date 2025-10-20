@@ -44,6 +44,7 @@ void JavaTimeSupplementary_zh_HK::init$() {
 }
 
 $ObjectArray2* JavaTimeSupplementary_zh_HK::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, sharedQuarterAbbreviations, $new($StringArray, {
 		"Q1"_s,
 		"Q2"_s,

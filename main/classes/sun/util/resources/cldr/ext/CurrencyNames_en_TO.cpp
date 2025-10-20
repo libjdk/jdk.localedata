@@ -45,6 +45,7 @@ void CurrencyNames_en_TO::init$() {
 }
 
 $ObjectArray2* CurrencyNames_en_TO::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {$$new($ObjectArray, {
 		$of("TOP"_s),
 		$of("T$"_s)

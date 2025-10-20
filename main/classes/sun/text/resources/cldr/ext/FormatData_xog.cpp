@@ -45,6 +45,7 @@ void FormatData_xog::init$() {
 }
 
 $ObjectArray2* FormatData_xog::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_MonthNames, $new($StringArray, {
 		"Janwaliyo"_s,
 		"Febwaliyo"_s,

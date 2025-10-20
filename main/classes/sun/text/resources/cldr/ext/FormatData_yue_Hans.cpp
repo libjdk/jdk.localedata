@@ -45,6 +45,7 @@ void FormatData_yue_Hans::init$() {
 }
 
 $ObjectArray2* FormatData_yue_Hans::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_MonthNames, $new($StringArray, {
 		u"\u4e00\u6708"_s,
 		u"\u4e8c\u6708"_s,

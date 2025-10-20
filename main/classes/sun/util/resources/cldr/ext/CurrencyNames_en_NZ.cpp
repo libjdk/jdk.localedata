@@ -45,6 +45,7 @@ void CurrencyNames_en_NZ::init$() {
 }
 
 $ObjectArray2* CurrencyNames_en_NZ::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {$$new($ObjectArray, {
 		$of("NZD"_s),
 		$of("$"_s)

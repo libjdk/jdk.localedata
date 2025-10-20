@@ -45,6 +45,7 @@ void CurrencyNames_mg::init$() {
 }
 
 $ObjectArray2* CurrencyNames_mg::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("MGA"_s),

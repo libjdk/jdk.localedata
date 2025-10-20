@@ -45,6 +45,7 @@ void CurrencyNames_os_RU::init$() {
 }
 
 $ObjectArray2* CurrencyNames_os_RU::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("GEL"_s),

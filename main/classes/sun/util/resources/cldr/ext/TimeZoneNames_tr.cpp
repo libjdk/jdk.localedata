@@ -48,6 +48,7 @@ void TimeZoneNames_tr::init$() {
 }
 
 $ObjectArray2* TimeZoneNames_tr::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, GMT, $new($StringArray, {
 		"Greenwich Ortalama Saati"_s,
 		""_s,

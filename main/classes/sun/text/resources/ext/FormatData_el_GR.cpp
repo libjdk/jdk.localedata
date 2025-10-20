@@ -44,6 +44,7 @@ void FormatData_el_GR::init$() {
 }
 
 $ObjectArray2* FormatData_el_GR::getContents() {
+	$useLocalCurrentObjectStackCache();
 	return $new($ObjectArray2, {$$new($ObjectArray, {
 		$of("NumberPatterns"_s),
 		$of($$new($StringArray, {

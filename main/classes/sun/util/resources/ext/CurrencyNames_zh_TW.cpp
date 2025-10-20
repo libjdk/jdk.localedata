@@ -44,6 +44,7 @@ void CurrencyNames_zh_TW::init$() {
 }
 
 $ObjectArray2* CurrencyNames_zh_TW::getContents() {
+	$useLocalCurrentObjectStackCache();
 	return $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("TWD"_s),

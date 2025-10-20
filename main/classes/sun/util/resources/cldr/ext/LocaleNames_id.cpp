@@ -45,6 +45,7 @@ void LocaleNames_id::init$() {
 }
 
 $ObjectArray2* LocaleNames_id::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($String, metaValue_AL, "Albania"_s);
 	$var($String, metaValue_AM, "Armenia"_s);
 	$var($String, metaValue_BG, "Bulgaria"_s);

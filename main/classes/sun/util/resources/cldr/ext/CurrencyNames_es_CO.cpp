@@ -45,6 +45,7 @@ void CurrencyNames_es_CO::init$() {
 }
 
 $ObjectArray2* CurrencyNames_es_CO::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("COP"_s),

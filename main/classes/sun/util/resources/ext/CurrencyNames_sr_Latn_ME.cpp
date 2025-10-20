@@ -44,6 +44,7 @@ void CurrencyNames_sr_Latn_ME::init$() {
 }
 
 $ObjectArray2* CurrencyNames_sr_Latn_ME::getContents() {
+	$useLocalCurrentObjectStackCache();
 	return $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("EUR"_s),

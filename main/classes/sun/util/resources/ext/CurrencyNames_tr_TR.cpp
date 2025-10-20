@@ -44,6 +44,7 @@ void CurrencyNames_tr_TR::init$() {
 }
 
 $ObjectArray2* CurrencyNames_tr_TR::getContents() {
+	$useLocalCurrentObjectStackCache();
 	return $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("TRL"_s),

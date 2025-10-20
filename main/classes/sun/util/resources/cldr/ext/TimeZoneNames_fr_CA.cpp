@@ -47,6 +47,7 @@ void TimeZoneNames_fr_CA::init$() {
 }
 
 $ObjectArray2* TimeZoneNames_fr_CA::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, Acre, $new($StringArray, {
 		u"heure normale de l\u2019Acre"_s,
 		""_s,

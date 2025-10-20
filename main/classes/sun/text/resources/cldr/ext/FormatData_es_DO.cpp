@@ -45,6 +45,7 @@ void FormatData_es_DO::init$() {
 }
 
 $ObjectArray2* FormatData_es_DO::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_DayNarrows, $new($StringArray, {
 		"D"_s,
 		"L"_s,

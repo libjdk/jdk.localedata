@@ -44,6 +44,7 @@ void FormatData_sq_AL::init$() {
 }
 
 $ObjectArray2* FormatData_sq_AL::getContents() {
+	$useLocalCurrentObjectStackCache();
 	return $new($ObjectArray2, {$$new($ObjectArray, {
 		$of("NumberPatterns"_s),
 		$of($$new($StringArray, {

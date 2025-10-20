@@ -45,6 +45,7 @@ void LocaleNames_es_PY::init$() {
 }
 
 $ObjectArray2* LocaleNames_es_PY::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("BA"_s),

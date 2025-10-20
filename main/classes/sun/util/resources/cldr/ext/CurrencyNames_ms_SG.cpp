@@ -45,6 +45,7 @@ void CurrencyNames_ms_SG::init$() {
 }
 
 $ObjectArray2* CurrencyNames_ms_SG::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {$$new($ObjectArray, {
 		$of("SGD"_s),
 		$of("$"_s)

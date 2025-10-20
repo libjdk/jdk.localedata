@@ -45,6 +45,7 @@ void FormatData_gl::init$() {
 }
 
 $ObjectArray2* FormatData_gl::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_MonthNames, $new($StringArray, {
 		"xaneiro"_s,
 		"febreiro"_s,

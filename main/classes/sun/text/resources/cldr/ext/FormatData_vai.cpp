@@ -45,6 +45,7 @@ void FormatData_vai::init$() {
 }
 
 $ObjectArray2* FormatData_vai::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_MonthNames, $new($StringArray, {
 		u"\ua5a8\ua595 \ua56a\ua574 \ua51e\ua500\ua56e\ua54a"_s,
 		u"\ua552\ua561\ua59d\ua595"_s,

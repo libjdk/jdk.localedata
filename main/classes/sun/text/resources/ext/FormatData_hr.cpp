@@ -44,6 +44,7 @@ void FormatData_hr::init$() {
 }
 
 $ObjectArray2* FormatData_hr::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, rocEras, $new($StringArray, {
 		"prije R.O.C."_s,
 		"R.O.C."_s

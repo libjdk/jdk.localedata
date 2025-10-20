@@ -72,6 +72,7 @@ void LocaleDataProvider::init$() {
 }
 
 $ResourceBundle* LocaleDataProvider::getBundle($String* baseName, $Locale* locale) {
+	$useLocalCurrentObjectStackCache();
 	$var($String, bundleName, toBundleName(baseName, locale));
 	$var($ResourceBundle, rb, loadResourceBundle(bundleName));
 	if (rb == nullptr) {
@@ -85,6 +86,7 @@ $ResourceBundle* LocaleDataProvider::getBundle($String* baseName, $Locale* local
 
 $ResourceBundle* LocaleDataProvider::loadResourceBundle($String* bundleName) {
 	$init(LocaleDataProvider);
+	$useLocalCurrentObjectStackCache();
 	$beforeCallerSensitive();
 	$Class* c = $Class::forName($(LocaleDataProvider::class$->getModule()), bundleName);
 	$load($ResourceBundle);

@@ -45,6 +45,7 @@ void FormatData_es_PA::init$() {
 }
 
 $ObjectArray2* FormatData_es_PA::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_QuarterNames, $new($StringArray, {
 		"1er. trimestre"_s,
 		"2do. trimestre"_s,

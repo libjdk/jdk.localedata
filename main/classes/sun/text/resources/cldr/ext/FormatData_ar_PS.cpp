@@ -45,6 +45,7 @@ void FormatData_ar_PS::init$() {
 }
 
 $ObjectArray2* FormatData_ar_PS::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_MonthNames, $new($StringArray, {
 		u"\u0643\u0627\u0646\u0648\u0646 \u0627\u0644\u062b\u0627\u0646\u064a"_s,
 		u"\u0634\u0628\u0627\u0637"_s,

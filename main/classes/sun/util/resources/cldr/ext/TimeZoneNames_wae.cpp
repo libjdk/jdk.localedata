@@ -47,6 +47,7 @@ void TimeZoneNames_wae::init$() {
 }
 
 $ObjectArray2* TimeZoneNames_wae::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, Atlantic, $new($StringArray, {
 		u"Atlanti\u0161i Standardzit"_s,
 		""_s,

@@ -45,6 +45,7 @@ void LocaleNames_mfe::init$() {
 }
 
 $ObjectArray2* LocaleNames_mfe::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("AD"_s),

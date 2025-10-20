@@ -47,6 +47,7 @@ void TimeZoneNames_es_BO::init$() {
 }
 
 $ObjectArray2* TimeZoneNames_es_BO::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, Bolivia, $new($StringArray, {
 		"hora de Bolivia"_s,
 		"BOT"_s,

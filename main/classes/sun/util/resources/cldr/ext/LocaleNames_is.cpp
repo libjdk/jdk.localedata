@@ -45,6 +45,7 @@ void LocaleNames_is::init$() {
 }
 
 $ObjectArray2* LocaleNames_is::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($String, metaValue_gu, u"g\u00fajarat\u00ed"_s);
 	$var($String, metaValue_km, "kmer"_s);
 	$var($String, metaValue_kn, "kannada"_s);

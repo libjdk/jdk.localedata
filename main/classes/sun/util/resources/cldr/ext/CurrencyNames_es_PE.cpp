@@ -45,6 +45,7 @@ void CurrencyNames_es_PE::init$() {
 }
 
 $ObjectArray2* CurrencyNames_es_PE::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {$$new($ObjectArray, {
 		$of("PEN"_s),
 		$of("S/"_s)

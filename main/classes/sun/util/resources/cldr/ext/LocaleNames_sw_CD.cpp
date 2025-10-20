@@ -45,6 +45,7 @@ void LocaleNames_sw_CD::init$() {
 }
 
 $ObjectArray2* LocaleNames_sw_CD::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("030"_s),

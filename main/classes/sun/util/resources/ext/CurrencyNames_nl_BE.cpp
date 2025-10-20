@@ -44,6 +44,7 @@ void CurrencyNames_nl_BE::init$() {
 }
 
 $ObjectArray2* CurrencyNames_nl_BE::getContents() {
+	$useLocalCurrentObjectStackCache();
 	return $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("BEF"_s),

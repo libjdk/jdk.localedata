@@ -45,6 +45,7 @@ void FormatData_ee::init$() {
 }
 
 $ObjectArray2* FormatData_ee::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_MonthNames, $new($StringArray, {
 		"dzove"_s,
 		"dzodze"_s,

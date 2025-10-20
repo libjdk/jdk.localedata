@@ -45,6 +45,7 @@ void LocaleNames_zh::init$() {
 }
 
 $ObjectArray2* LocaleNames_zh::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($String, metaValue_key_nu, u"\u6570\u5b57"_s);
 	$var($String, metaValue_type_nu_gong, u"\u9a6c\u8428\u62c9\u59c6\u5188\u5fb7\u6570\u5b57"_s);
 	$var($ObjectArray2, data, $new($ObjectArray2, {

@@ -45,6 +45,7 @@ void CurrencyNames_sr_Latn_BA::init$() {
 }
 
 $ObjectArray2* CurrencyNames_sr_Latn_BA::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("bam"_s),

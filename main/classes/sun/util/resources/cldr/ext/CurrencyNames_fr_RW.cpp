@@ -45,6 +45,7 @@ void CurrencyNames_fr_RW::init$() {
 }
 
 $ObjectArray2* CurrencyNames_fr_RW::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {$$new($ObjectArray, {
 		$of("RWF"_s),
 		$of("RF"_s)

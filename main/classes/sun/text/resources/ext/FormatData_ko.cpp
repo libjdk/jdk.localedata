@@ -44,6 +44,7 @@ void FormatData_ko::init$() {
 }
 
 $ObjectArray2* FormatData_ko::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, rocEras, $new($StringArray, {
 		u"\uc911\ud654\ubbfc\uad6d\uc804"_s,
 		u"\uc911\ud654\ubbfc\uad6d"_s

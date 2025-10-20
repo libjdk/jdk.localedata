@@ -45,6 +45,7 @@ void LocaleNames_ky::init$() {
 }
 
 $ObjectArray2* LocaleNames_ky::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($String, metaValue_type_nu_gujr, u"\u0413\u0443\u0436\u0430\u0440\u0430\u0442\u0438 \u0441\u0430\u043d\u0434\u0430\u0440\u044b"_s);
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {

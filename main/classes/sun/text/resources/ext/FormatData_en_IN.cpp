@@ -44,6 +44,7 @@ void FormatData_en_IN::init$() {
 }
 
 $ObjectArray2* FormatData_en_IN::getContents() {
+	$useLocalCurrentObjectStackCache();
 	return $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("NumberElements"_s),

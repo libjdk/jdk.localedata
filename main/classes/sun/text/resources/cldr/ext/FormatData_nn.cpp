@@ -45,6 +45,7 @@ void FormatData_nn::init$() {
 }
 
 $ObjectArray2* FormatData_nn::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_MonthAbbreviations, $new($StringArray, {
 		"jan."_s,
 		"feb."_s,

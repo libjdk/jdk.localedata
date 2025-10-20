@@ -44,6 +44,7 @@ void FormatData_ja::init$() {
 }
 
 $ObjectArray2* FormatData_ja::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, japaneseEras, $new($StringArray, {
 		u"\u897f\u66a6"_s,
 		u"\u660e\u6cbb"_s,

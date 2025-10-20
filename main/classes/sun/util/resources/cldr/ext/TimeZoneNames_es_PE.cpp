@@ -47,6 +47,7 @@ void TimeZoneNames_es_PE::init$() {
 }
 
 $ObjectArray2* TimeZoneNames_es_PE::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, Peru, $new($StringArray, {
 		u"hora est\u00e1ndar de Per\u00fa"_s,
 		"PET"_s,

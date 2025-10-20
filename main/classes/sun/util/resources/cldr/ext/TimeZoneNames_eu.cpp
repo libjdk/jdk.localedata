@@ -48,6 +48,7 @@ void TimeZoneNames_eu::init$() {
 }
 
 $ObjectArray2* TimeZoneNames_eu::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, GMT, $new($StringArray, {
 		"Greenwichko meridianoaren ordua"_s,
 		"GMT"_s,

@@ -45,6 +45,7 @@ void FormatData_kab::init$() {
 }
 
 $ObjectArray2* FormatData_kab::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_MonthNames, $new($StringArray, {
 		"Yennayer"_s,
 		u"Fu\u1e5bar"_s,

@@ -45,6 +45,7 @@ void FormatData_es_HN::init$() {
 }
 
 $ObjectArray2* FormatData_es_HN::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_java_time_buddhist_DatePatterns, $new($StringArray, {
 		"EEEE dd \'de\' MMMM \'de\' y G"_s,
 		"dd \'de\' MMMM \'de\' y G"_s,

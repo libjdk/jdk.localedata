@@ -45,6 +45,7 @@ void CurrencyNames_ta_LK::init$() {
 }
 
 $ObjectArray2* CurrencyNames_ta_LK::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {$$new($ObjectArray, {
 		$of("LKR"_s),
 		$of("Rs."_s)

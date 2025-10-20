@@ -45,6 +45,7 @@ void FormatData_nb::init$() {
 }
 
 $ObjectArray2* FormatData_nb::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("PluralRules"_s),

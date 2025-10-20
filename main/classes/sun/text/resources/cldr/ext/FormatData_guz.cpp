@@ -45,6 +45,7 @@ void FormatData_guz::init$() {
 }
 
 $ObjectArray2* FormatData_guz::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_MonthNames, $new($StringArray, {
 		"Chanuari"_s,
 		"Feburari"_s,

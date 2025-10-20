@@ -45,6 +45,7 @@ void LocaleNames_ff::init$() {
 }
 
 $ObjectArray2* LocaleNames_ff::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($String, metaValue_SO, "Somalii"_s);
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {

@@ -45,6 +45,7 @@ void CurrencyNames_en_SB::init$() {
 }
 
 $ObjectArray2* CurrencyNames_en_SB::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {$$new($ObjectArray, {
 		$of("SBD"_s),
 		$of("$"_s)

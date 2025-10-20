@@ -45,6 +45,7 @@ void LocaleNames_nnh::init$() {
 }
 
 $ObjectArray2* LocaleNames_nnh::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("CM"_s),

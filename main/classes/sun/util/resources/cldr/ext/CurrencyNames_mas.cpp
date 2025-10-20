@@ -45,6 +45,7 @@ void CurrencyNames_mas::init$() {
 }
 
 $ObjectArray2* CurrencyNames_mas::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("KES"_s),

@@ -47,6 +47,7 @@ void TimeZoneNames_yo_BJ::init$() {
 }
 
 $ObjectArray2* TimeZoneNames_yo_BJ::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, Cuba, $new($StringArray, {
 		u"\u00c0k\u00f3k\u00f2 \u00c0f\u025bnuk\u00f2 K\u00fab\u00e0"_s,
 		""_s,

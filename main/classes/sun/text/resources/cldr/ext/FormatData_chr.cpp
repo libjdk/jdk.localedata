@@ -45,6 +45,7 @@ void FormatData_chr::init$() {
 }
 
 $ObjectArray2* FormatData_chr::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_MonthNames, $new($StringArray, {
 		u"\u13a4\u13c3\u13b8\u13d4\u13c5"_s,
 		u"\u13a7\u13a6\u13b5"_s,

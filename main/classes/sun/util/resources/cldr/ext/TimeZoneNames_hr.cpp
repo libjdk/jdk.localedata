@@ -48,6 +48,7 @@ void TimeZoneNames_hr::init$() {
 }
 
 $ObjectArray2* TimeZoneNames_hr::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, GMT, $new($StringArray, {
 		"univerzalno vrijeme"_s,
 		"GMT"_s,

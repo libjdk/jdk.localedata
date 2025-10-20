@@ -45,6 +45,7 @@ void FormatData_es_BO::init$() {
 }
 
 $ObjectArray2* FormatData_es_BO::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("DatePatterns"_s),

@@ -45,6 +45,7 @@ void LocaleNames_ak::init$() {
 }
 
 $ObjectArray2* LocaleNames_ak::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($String, metaValue_DE, "Gyaaman"_s);
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {

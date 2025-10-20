@@ -45,6 +45,7 @@ void LocaleNames_vai_Latn::init$() {
 }
 
 $ObjectArray2* LocaleNames_vai_Latn::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($String, metaValue_DE, u"Jam\u00e1\u0129"_s);
 	$var($String, metaValue_ES, u"Pany\u025b\u0129"_s);
 	$var($String, metaValue_FR, u"F\u025b\u014bsi"_s);

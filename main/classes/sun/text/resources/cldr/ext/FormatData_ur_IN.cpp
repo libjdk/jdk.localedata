@@ -45,6 +45,7 @@ void FormatData_ur_IN::init$() {
 }
 
 $ObjectArray2* FormatData_ur_IN::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("field.era"_s),

@@ -45,6 +45,7 @@ void CurrencyNames_en_WS::init$() {
 }
 
 $ObjectArray2* CurrencyNames_en_WS::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {$$new($ObjectArray, {
 		$of("WST"_s),
 		$of("WS$"_s)

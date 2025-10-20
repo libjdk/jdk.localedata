@@ -45,6 +45,7 @@ void CurrencyNames_ff_Latn_NG::init$() {
 }
 
 $ObjectArray2* CurrencyNames_ff_Latn_NG::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {$$new($ObjectArray, {
 		$of("NGN"_s),
 		$of(u"\u20a6"_s)

@@ -52,6 +52,7 @@ $Object* allocate$CurrencyNames_zh_SG($Class* clazz) {
 }
 
 void CurrencyNames_zh_SG::init$() {
+	$useLocalCurrentObjectStackCache();
 	$OpenListResourceBundle::init$();
 	$init($Locale);
 	$var($ResourceBundle, bundle, $nc($($nc(($cast($ResourceBundleBasedAdapter, $($LocaleProviderAdapter::forJRE()))))->getLocaleData()))->getCurrencyNames($Locale::CHINA));
@@ -59,6 +60,7 @@ void CurrencyNames_zh_SG::init$() {
 }
 
 $ObjectArray2* CurrencyNames_zh_SG::getContents() {
+	$useLocalCurrentObjectStackCache();
 	return $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("CNY"_s),

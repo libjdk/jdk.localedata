@@ -45,6 +45,7 @@ void FormatData_ee_TG::init$() {
 }
 
 $ObjectArray2* FormatData_ee_TG::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_TimePatterns, $new($StringArray, {
 		"HH:mm:ss zzzz"_s,
 		"HH:mm:ss z"_s,

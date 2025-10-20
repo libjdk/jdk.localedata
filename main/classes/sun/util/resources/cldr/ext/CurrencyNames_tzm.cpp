@@ -45,6 +45,7 @@ void CurrencyNames_tzm::init$() {
 }
 
 $ObjectArray2* CurrencyNames_tzm::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("aed"_s),

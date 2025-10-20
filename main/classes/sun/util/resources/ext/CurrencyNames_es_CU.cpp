@@ -44,6 +44,7 @@ void CurrencyNames_es_CU::init$() {
 }
 
 $ObjectArray2* CurrencyNames_es_CU::getContents() {
+	$useLocalCurrentObjectStackCache();
 	return $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("CUC"_s),

@@ -45,6 +45,7 @@ void FormatData_ro_MD::init$() {
 }
 
 $ObjectArray2* FormatData_ro_MD::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_DayAbbreviations, $new($StringArray, {
 		"Dum"_s,
 		"Lun"_s,

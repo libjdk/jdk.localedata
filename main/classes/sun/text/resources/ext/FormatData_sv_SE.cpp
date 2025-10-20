@@ -44,6 +44,7 @@ void FormatData_sv_SE::init$() {
 }
 
 $ObjectArray2* FormatData_sv_SE::getContents() {
+	$useLocalCurrentObjectStackCache();
 	return $new($ObjectArray2, {$$new($ObjectArray, {
 		$of("NumberPatterns"_s),
 		$of($$new($StringArray, {

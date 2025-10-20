@@ -45,6 +45,7 @@ void LocaleNames_hsb::init$() {
 }
 
 $ObjectArray2* LocaleNames_hsb::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($String, metaValue_gu, "gujarati"_s);
 	$var($String, metaValue_te, "telugu"_s);
 	$var($ObjectArray2, data, $new($ObjectArray2, {

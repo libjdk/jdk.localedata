@@ -47,6 +47,7 @@ void TimeZoneNames_fr_GF::init$() {
 }
 
 $ObjectArray2* TimeZoneNames_fr_GF::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, EMPTY_ZONE, $new($StringArray, {
 		""_s,
 		""_s,

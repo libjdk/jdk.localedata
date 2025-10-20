@@ -45,6 +45,7 @@ void CurrencyNames_en_TZ::init$() {
 }
 
 $ObjectArray2* CurrencyNames_en_TZ::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {$$new($ObjectArray, {
 		$of("TZS"_s),
 		$of("TSh"_s)

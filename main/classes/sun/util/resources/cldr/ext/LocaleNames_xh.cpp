@@ -45,6 +45,7 @@ void LocaleNames_xh::init$() {
 }
 
 $ObjectArray2* LocaleNames_xh::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("MK"_s),

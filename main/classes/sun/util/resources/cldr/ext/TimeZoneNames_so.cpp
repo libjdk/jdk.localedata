@@ -48,6 +48,7 @@ void TimeZoneNames_so::init$() {
 }
 
 $ObjectArray2* TimeZoneNames_so::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, GMT, $new($StringArray, {
 		"Wakhtiga Giriinwij"_s,
 		""_s,

@@ -44,6 +44,7 @@ void LocaleNames_tr::init$() {
 }
 
 $ObjectArray2* LocaleNames_tr::getContents() {
+	$useLocalCurrentObjectStackCache();
 	return $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("TR"_s),

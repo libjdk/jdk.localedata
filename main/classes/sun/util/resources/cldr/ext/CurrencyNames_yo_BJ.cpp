@@ -45,6 +45,7 @@ void CurrencyNames_yo_BJ::init$() {
 }
 
 $ObjectArray2* CurrencyNames_yo_BJ::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("aed"_s),

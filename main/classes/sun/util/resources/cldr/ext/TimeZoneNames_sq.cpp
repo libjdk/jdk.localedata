@@ -48,6 +48,7 @@ void TimeZoneNames_sq::init$() {
 }
 
 $ObjectArray2* TimeZoneNames_sq::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, GMT, $new($StringArray, {
 		u"Ora e Grinui\u00e7it"_s,
 		""_s,

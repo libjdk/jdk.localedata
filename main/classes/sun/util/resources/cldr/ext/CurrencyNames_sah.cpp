@@ -45,6 +45,7 @@ void CurrencyNames_sah::init$() {
 }
 
 $ObjectArray2* CurrencyNames_sah::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("RUB"_s),

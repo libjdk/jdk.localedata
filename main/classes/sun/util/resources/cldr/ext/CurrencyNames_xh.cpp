@@ -45,6 +45,7 @@ void CurrencyNames_xh::init$() {
 }
 
 $ObjectArray2* CurrencyNames_xh::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("ZAR"_s),

@@ -45,6 +45,7 @@ void FormatData_tr_CY::init$() {
 }
 
 $ObjectArray2* FormatData_tr_CY::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_TimePatterns, $new($StringArray, {
 		"h:mm:ss a zzzz"_s,
 		"h:mm:ss a z"_s,

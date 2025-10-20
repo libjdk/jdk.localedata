@@ -44,6 +44,7 @@ void LocaleNames_fi::init$() {
 }
 
 $ObjectArray2* LocaleNames_fi::getContents() {
+	$useLocalCurrentObjectStackCache();
 	return $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("BE"_s),

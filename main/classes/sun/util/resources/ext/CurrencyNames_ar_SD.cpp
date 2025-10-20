@@ -44,6 +44,7 @@ void CurrencyNames_ar_SD::init$() {
 }
 
 $ObjectArray2* CurrencyNames_ar_SD::getContents() {
+	$useLocalCurrentObjectStackCache();
 	return $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("SDD"_s),

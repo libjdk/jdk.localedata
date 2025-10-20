@@ -44,6 +44,7 @@ void FormatData_el_CY::init$() {
 }
 
 $ObjectArray2* FormatData_el_CY::getContents() {
+	$useLocalCurrentObjectStackCache();
 	return $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("MonthNames"_s),

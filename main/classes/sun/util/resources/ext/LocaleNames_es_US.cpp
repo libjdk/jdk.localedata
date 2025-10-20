@@ -44,6 +44,7 @@ void LocaleNames_es_US::init$() {
 }
 
 $ObjectArray2* LocaleNames_es_US::getContents() {
+	$useLocalCurrentObjectStackCache();
 	return $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("AN"_s),

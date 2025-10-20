@@ -45,6 +45,7 @@ void CurrencyNames_mzn::init$() {
 }
 
 $ObjectArray2* CurrencyNames_mzn::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("AED"_s),

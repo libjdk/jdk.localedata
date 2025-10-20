@@ -124,6 +124,7 @@ void TimeZoneNames_ja::init$() {
 }
 
 $ObjectArray2* TimeZoneNames_ja::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, ACT, $new($StringArray, {
 		u"\u30a2\u30af\u30ec\u6642\u9593"_s,
 		"ACT"_s,

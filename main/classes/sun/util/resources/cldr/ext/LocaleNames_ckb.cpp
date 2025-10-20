@@ -45,6 +45,7 @@ void LocaleNames_ckb::init$() {
 }
 
 $ObjectArray2* LocaleNames_ckb::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($String, metaValue_FJ, u"\u0641\u06cc\u062c\u06cc"_s);
 	$var($String, metaValue_MM, u"\u0645\u06cc\u0627\u0646\u0645\u0627\u0631"_s);
 	$var($String, metaValue_NR, u"\u0646\u0627\u0626\u0648\u0631\u0648\u0648"_s);

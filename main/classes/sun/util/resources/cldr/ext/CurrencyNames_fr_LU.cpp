@@ -45,6 +45,7 @@ void CurrencyNames_fr_LU::init$() {
 }
 
 $ObjectArray2* CurrencyNames_fr_LU::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("FRF"_s),

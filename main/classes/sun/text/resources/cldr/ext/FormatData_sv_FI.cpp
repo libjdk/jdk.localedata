@@ -45,6 +45,7 @@ void FormatData_sv_FI::init$() {
 }
 
 $ObjectArray2* FormatData_sv_FI::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_QuarterAbbreviations, $new($StringArray, {
 		"Q1"_s,
 		"Q2"_s,

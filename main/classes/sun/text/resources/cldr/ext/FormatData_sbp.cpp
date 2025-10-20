@@ -45,6 +45,7 @@ void FormatData_sbp::init$() {
 }
 
 $ObjectArray2* FormatData_sbp::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_MonthNames, $new($StringArray, {
 		"Mupalangulwa"_s,
 		"Mwitope"_s,

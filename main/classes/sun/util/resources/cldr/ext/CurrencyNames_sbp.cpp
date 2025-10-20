@@ -45,6 +45,7 @@ void CurrencyNames_sbp::init$() {
 }
 
 $ObjectArray2* CurrencyNames_sbp::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("TZS"_s),

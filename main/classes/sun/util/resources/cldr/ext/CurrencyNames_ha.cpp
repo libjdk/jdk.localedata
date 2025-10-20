@@ -45,6 +45,7 @@ void CurrencyNames_ha::init$() {
 }
 
 $ObjectArray2* CurrencyNames_ha::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("JPY"_s),

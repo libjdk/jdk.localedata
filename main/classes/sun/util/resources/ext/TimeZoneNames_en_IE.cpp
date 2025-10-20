@@ -44,6 +44,7 @@ void TimeZoneNames_en_IE::init$() {
 }
 
 $ObjectArray2* TimeZoneNames_en_IE::getContents() {
+	$useLocalCurrentObjectStackCache();
 	return $new($ObjectArray2, {$$new($ObjectArray, {
 		$of("Europe/London"_s),
 		$of($$new($StringArray, {

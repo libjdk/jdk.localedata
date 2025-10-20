@@ -45,6 +45,7 @@ void CurrencyNames_yo::init$() {
 }
 
 $ObjectArray2* CurrencyNames_yo::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("NGN"_s),

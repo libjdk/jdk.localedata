@@ -44,6 +44,7 @@ void CurrencyNames_pt_BR::init$() {
 }
 
 $ObjectArray2* CurrencyNames_pt_BR::getContents() {
+	$useLocalCurrentObjectStackCache();
 	return $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("BRL"_s),

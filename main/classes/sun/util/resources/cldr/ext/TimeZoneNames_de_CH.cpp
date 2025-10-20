@@ -47,6 +47,7 @@ void TimeZoneNames_de_CH::init$() {
 }
 
 $ObjectArray2* TimeZoneNames_de_CH::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, Brunei, $new($StringArray, {
 		"Brunei-Zeit"_s,
 		""_s,

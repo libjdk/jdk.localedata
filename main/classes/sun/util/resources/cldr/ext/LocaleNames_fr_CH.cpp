@@ -45,6 +45,7 @@ void LocaleNames_fr_CH::init$() {
 }
 
 $ObjectArray2* LocaleNames_fr_CH::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("gu"_s),

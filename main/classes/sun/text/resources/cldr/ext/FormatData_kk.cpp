@@ -45,6 +45,7 @@ void FormatData_kk::init$() {
 }
 
 $ObjectArray2* FormatData_kk::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_MonthNames, $new($StringArray, {
 		u"\u049b\u0430\u04a3\u0442\u0430\u0440"_s,
 		u"\u0430\u049b\u043f\u0430\u043d"_s,

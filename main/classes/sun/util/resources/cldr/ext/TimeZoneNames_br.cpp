@@ -48,6 +48,7 @@ void TimeZoneNames_br::init$() {
 }
 
 $ObjectArray2* TimeZoneNames_br::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, GMT, $new($StringArray, {
 		"Amzer keitat Greenwich (AKG)"_s,
 		""_s,

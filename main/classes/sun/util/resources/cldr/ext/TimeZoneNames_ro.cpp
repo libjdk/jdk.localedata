@@ -48,6 +48,7 @@ void TimeZoneNames_ro::init$() {
 }
 
 $ObjectArray2* TimeZoneNames_ro::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, GMT, $new($StringArray, {
 		"Ora de Greenwhich"_s,
 		"GMT"_s,

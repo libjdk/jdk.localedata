@@ -45,6 +45,7 @@ void CurrencyNames_gsw::init$() {
 }
 
 $ObjectArray2* CurrencyNames_gsw::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("ATS"_s),

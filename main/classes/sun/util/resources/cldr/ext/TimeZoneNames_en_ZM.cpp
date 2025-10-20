@@ -47,6 +47,7 @@ void TimeZoneNames_en_ZM::init$() {
 }
 
 $ObjectArray2* TimeZoneNames_en_ZM::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, EMPTY_ZONE, $new($StringArray, {
 		""_s,
 		""_s,

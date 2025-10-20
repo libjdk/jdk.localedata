@@ -45,6 +45,7 @@ void LocaleNames_mai::init$() {
 }
 
 $ObjectArray2* LocaleNames_mai::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("BR"_s),

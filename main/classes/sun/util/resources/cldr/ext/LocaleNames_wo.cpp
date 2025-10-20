@@ -45,6 +45,7 @@ void LocaleNames_wo::init$() {
 }
 
 $ObjectArray2* LocaleNames_wo::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($String, metaValue_BY, "Belaris"_s);
 	$var($String, metaValue_MT, "Malt"_s);
 	$var($String, metaValue_ar, "Araab"_s);

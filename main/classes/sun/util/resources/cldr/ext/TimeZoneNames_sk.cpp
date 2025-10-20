@@ -48,6 +48,7 @@ void TimeZoneNames_sk::init$() {
 }
 
 $ObjectArray2* TimeZoneNames_sk::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, GMT, $new($StringArray, {
 		u"greenwichsk\u00fd \u010das"_s,
 		""_s,

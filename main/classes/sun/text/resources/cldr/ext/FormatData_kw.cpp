@@ -45,6 +45,7 @@ void FormatData_kw::init$() {
 }
 
 $ObjectArray2* FormatData_kw::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_MonthNames, $new($StringArray, {
 		"mis Genver"_s,
 		"mis Hwevrer"_s,

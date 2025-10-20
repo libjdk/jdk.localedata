@@ -45,6 +45,7 @@ void CurrencyNames_zh_Hant::init$() {
 }
 
 $ObjectArray2* CurrencyNames_zh_Hant::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("ADP"_s),

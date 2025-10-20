@@ -45,6 +45,7 @@ void LocaleNames_sw_KE::init$() {
 }
 
 $ObjectArray2* LocaleNames_sw_KE::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($String, metaValue_or, "Kiodia"_s);
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {

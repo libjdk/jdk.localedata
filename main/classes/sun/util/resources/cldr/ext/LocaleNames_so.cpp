@@ -45,6 +45,7 @@ void LocaleNames_so::init$() {
 }
 
 $ObjectArray2* LocaleNames_so::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($String, metaValue_CA, "Kanada"_s);
 	$var($String, metaValue_DE, "Jarmal"_s);
 	$var($String, metaValue_ET, "Itoobiya"_s);

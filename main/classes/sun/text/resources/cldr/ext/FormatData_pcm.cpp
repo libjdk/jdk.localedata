@@ -45,6 +45,7 @@ void FormatData_pcm::init$() {
 }
 
 $ObjectArray2* FormatData_pcm::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_MonthNames, $new($StringArray, {
 		u"J\u00e9n\u00fa\u00e1ri"_s,
 		u"F\u1eb9\u0301b\u00fa\u00e1ri"_s,

@@ -45,6 +45,7 @@ void FormatData_ebu::init$() {
 }
 
 $ObjectArray2* FormatData_ebu::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_MonthNames, $new($StringArray, {
 		"Mweri wa mbere"_s,
 		u"Mweri wa ka\u0129ri"_s,

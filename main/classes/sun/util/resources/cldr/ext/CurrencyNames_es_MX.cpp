@@ -45,6 +45,7 @@ void CurrencyNames_es_MX::init$() {
 }
 
 $ObjectArray2* CurrencyNames_es_MX::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("MRO"_s),

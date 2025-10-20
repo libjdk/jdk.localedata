@@ -44,6 +44,7 @@ void CurrencyNames_et_EE::init$() {
 }
 
 $ObjectArray2* CurrencyNames_et_EE::getContents() {
+	$useLocalCurrentObjectStackCache();
 	return $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("EEK"_s),

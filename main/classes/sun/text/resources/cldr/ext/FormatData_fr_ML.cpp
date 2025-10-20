@@ -45,6 +45,7 @@ void FormatData_fr_ML::init$() {
 }
 
 $ObjectArray2* FormatData_fr_ML::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_QuarterNames, $new($StringArray, {
 		"le 1er trimestre"_s,
 		u"le 2\u00e8me trimestre"_s,

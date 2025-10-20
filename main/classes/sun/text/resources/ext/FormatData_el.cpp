@@ -44,6 +44,7 @@ void FormatData_el::init$() {
 }
 
 $ObjectArray2* FormatData_el::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, rocEras, $new($StringArray, {
 		u"\u03a0\u03c1\u03b9\u03bd R.O.C."_s,
 		"R.O.C."_s

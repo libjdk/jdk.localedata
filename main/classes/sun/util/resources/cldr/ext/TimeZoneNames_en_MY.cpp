@@ -47,6 +47,7 @@ void TimeZoneNames_en_MY::init$() {
 }
 
 $ObjectArray2* TimeZoneNames_en_MY::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, Malaysia, $new($StringArray, {
 		"Malaysia Time"_s,
 		"MYT"_s,

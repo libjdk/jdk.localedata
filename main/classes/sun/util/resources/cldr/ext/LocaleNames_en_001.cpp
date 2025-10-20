@@ -45,6 +45,7 @@ void LocaleNames_en_001::init$() {
 }
 
 $ObjectArray2* LocaleNames_en_001::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("UM"_s),

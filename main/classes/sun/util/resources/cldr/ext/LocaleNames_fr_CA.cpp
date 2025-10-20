@@ -45,6 +45,7 @@ void LocaleNames_fr_CA::init$() {
 }
 
 $ObjectArray2* LocaleNames_fr_CA::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($String, metaValue_gu, "gujarati"_s);
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {

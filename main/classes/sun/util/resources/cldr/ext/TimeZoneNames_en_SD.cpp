@@ -47,6 +47,7 @@ void TimeZoneNames_en_SD::init$() {
 }
 
 $ObjectArray2* TimeZoneNames_en_SD::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, EMPTY_ZONE, $new($StringArray, {
 		""_s,
 		""_s,

@@ -45,6 +45,7 @@ void LocaleNames_khq::init$() {
 }
 
 $ObjectArray2* LocaleNames_khq::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("AD"_s),

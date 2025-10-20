@@ -45,6 +45,7 @@ void LocaleNames_ha::init$() {
 }
 
 $ObjectArray2* LocaleNames_ha::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($String, metaValue_GR, "Girka"_s);
 	$var($String, metaValue_ar, "Larabci"_s);
 	$var($String, metaValue_gu, "Gujarati"_s);

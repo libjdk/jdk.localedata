@@ -48,6 +48,7 @@ void TimeZoneNames_ga::init$() {
 }
 
 $ObjectArray2* TimeZoneNames_ga::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, GMT, $new($StringArray, {
 		u"Me\u00e1n-Am Greenwich"_s,
 		"MAG"_s,

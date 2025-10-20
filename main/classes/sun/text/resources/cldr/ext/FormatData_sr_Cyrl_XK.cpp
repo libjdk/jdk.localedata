@@ -45,6 +45,7 @@ void FormatData_sr_Cyrl_XK::init$() {
 }
 
 $ObjectArray2* FormatData_sr_Cyrl_XK::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_MonthAbbreviations, $new($StringArray, {
 		u"\u0458\u0430\u043d"_s,
 		u"\u0444\u0435\u0431"_s,

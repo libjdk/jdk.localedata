@@ -45,6 +45,7 @@ void FormatData_fr_CD::init$() {
 }
 
 $ObjectArray2* FormatData_fr_CD::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_narrow_AmPmMarkers, $new($StringArray, {
 		"AM"_s,
 		"PM"_s,

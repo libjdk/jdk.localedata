@@ -44,6 +44,7 @@ void FormatData_zh::init$() {
 }
 
 $ObjectArray2* FormatData_zh::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, rocEras, $new($StringArray, {
 		u"\u6c11\u56fd\u524d"_s,
 		u"\u6c11\u56fd"_s

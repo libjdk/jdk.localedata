@@ -45,6 +45,7 @@ void CurrencyNames_jmc::init$() {
 }
 
 $ObjectArray2* CurrencyNames_jmc::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("TZS"_s),

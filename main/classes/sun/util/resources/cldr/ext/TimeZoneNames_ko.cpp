@@ -48,6 +48,7 @@ void TimeZoneNames_ko::init$() {
 }
 
 $ObjectArray2* TimeZoneNames_ko::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, GMT, $new($StringArray, {
 		u"\uadf8\ub9ac\ub2c8\uce58 \ud45c\uc900\uc2dc"_s,
 		""_s,

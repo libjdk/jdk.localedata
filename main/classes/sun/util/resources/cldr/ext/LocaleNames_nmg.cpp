@@ -45,6 +45,7 @@ void LocaleNames_nmg::init$() {
 }
 
 $ObjectArray2* LocaleNames_nmg::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($String, metaValue_ES, u"Pa\u014b\u00e1"_s);
 	$var($String, metaValue_FR, "Fala"_s);
 	$var($ObjectArray2, data, $new($ObjectArray2, {

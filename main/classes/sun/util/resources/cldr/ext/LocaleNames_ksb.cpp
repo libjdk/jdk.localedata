@@ -45,6 +45,7 @@ void LocaleNames_ksb::init$() {
 }
 
 $ObjectArray2* LocaleNames_ksb::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("AD"_s),

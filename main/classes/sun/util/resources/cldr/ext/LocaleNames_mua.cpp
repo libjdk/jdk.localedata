@@ -45,6 +45,7 @@ void LocaleNames_mua::init$() {
 }
 
 $ObjectArray2* LocaleNames_mua::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($String, metaValue_BY, "belarussiya"_s);
 	$var($String, metaValue_RO, "Romaniya"_s);
 	$var($String, metaValue_RU, "Russiya"_s);

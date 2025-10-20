@@ -45,6 +45,7 @@ void LocaleNames_ig::init$() {
 }
 
 $ObjectArray2* LocaleNames_ig::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($String, metaValue_DE, u"Jaman\u1ecb"_s);
 	$var($String, metaValue_RO, "Romania"_s);
 	$var($String, metaValue_lo, u"La\u1ecd"_s);

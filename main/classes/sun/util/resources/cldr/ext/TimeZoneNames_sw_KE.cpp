@@ -47,6 +47,7 @@ void TimeZoneNames_sw_KE::init$() {
 }
 
 $ObjectArray2* TimeZoneNames_sw_KE::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, Cook, $new($StringArray, {
 		"Saa za Wastani za Visiwa vya Cook"_s,
 		""_s,

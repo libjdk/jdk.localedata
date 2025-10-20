@@ -48,6 +48,7 @@ void TimeZoneNames_ceb::init$() {
 }
 
 $ObjectArray2* TimeZoneNames_ceb::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, GMT, $new($StringArray, {
 		"Oras sa Greenwich Mean"_s,
 		""_s,

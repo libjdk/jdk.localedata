@@ -45,6 +45,7 @@ void LocaleNames_ff_Adlm::init$() {
 }
 
 $ObjectArray2* LocaleNames_ff_Adlm::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("001"_s),

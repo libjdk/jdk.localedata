@@ -45,6 +45,7 @@ void FormatData_ast::init$() {
 }
 
 $ObjectArray2* FormatData_ast::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_MonthNames, $new($StringArray, {
 		"de xineru"_s,
 		"de febreru"_s,

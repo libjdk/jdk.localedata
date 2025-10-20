@@ -45,6 +45,7 @@ void LocaleNames_ks::init$() {
 }
 
 $ObjectArray2* LocaleNames_ks::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($String, metaValue_TO, u"\u0679\u0648\u0646\u06af\u0627"_s);
 	$var($String, metaValue_ae, u"\u0627\u064e\u0648\u06cc\u0633\u062a\u064e\u0646"_s);
 	$var($String, metaValue_bo, u"\u062a\u0650\u0628\u062a\u06cc"_s);

@@ -44,6 +44,7 @@ void FormatData_ja_JP::init$() {
 }
 
 $ObjectArray2* FormatData_ja_JP::getContents() {
+	$useLocalCurrentObjectStackCache();
 	return $new($ObjectArray2, {$$new($ObjectArray, {
 		$of("NumberPatterns"_s),
 		$of($$new($StringArray, {

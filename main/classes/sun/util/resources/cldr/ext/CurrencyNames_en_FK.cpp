@@ -45,6 +45,7 @@ void CurrencyNames_en_FK::init$() {
 }
 
 $ObjectArray2* CurrencyNames_en_FK::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("FKP"_s),

@@ -45,6 +45,7 @@ void FormatData_mua::init$() {
 }
 
 $ObjectArray2* FormatData_mua::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_MonthNames, $new($StringArray, {
 		u"F\u0129i Loo"_s,
 		u"Cokcwakla\u014bne"_s,

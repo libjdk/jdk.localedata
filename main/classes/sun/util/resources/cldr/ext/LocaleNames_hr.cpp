@@ -45,6 +45,7 @@ void LocaleNames_hr::init$() {
 }
 
 $ObjectArray2* LocaleNames_hr::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($String, metaValue_ssy, "saho"_s);
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {

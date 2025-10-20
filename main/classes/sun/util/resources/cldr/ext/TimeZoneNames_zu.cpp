@@ -48,6 +48,7 @@ void TimeZoneNames_zu::init$() {
 }
 
 $ObjectArray2* TimeZoneNames_zu::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, GMT, $new($StringArray, {
 		"Isikhathi sase-Greenwich Mean"_s,
 		""_s,

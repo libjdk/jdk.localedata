@@ -44,6 +44,7 @@ void FormatData_et_EE::init$() {
 }
 
 $ObjectArray2* FormatData_et_EE::getContents() {
+	$useLocalCurrentObjectStackCache();
 	return $new($ObjectArray2, {$$new($ObjectArray, {
 		$of("NumberPatterns"_s),
 		$of($$new($StringArray, {

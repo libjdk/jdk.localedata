@@ -45,6 +45,7 @@ void CurrencyNames_be::init$() {
 }
 
 $ObjectArray2* CurrencyNames_be::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("AED"_s),

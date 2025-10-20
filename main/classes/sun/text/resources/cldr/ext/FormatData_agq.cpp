@@ -45,6 +45,7 @@ void FormatData_agq::init$() {
 }
 
 $ObjectArray2* FormatData_agq::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_MonthNames, $new($StringArray, {
 		u"ndz\u0254\u0300\u014b\u0254\u0300n\u00f9m"_s,
 		u"ndz\u0254\u0300\u014b\u0254\u0300k\u0197\u0300z\u00f9\u0294"_s,

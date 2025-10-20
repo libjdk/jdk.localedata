@@ -45,6 +45,7 @@ void FormatData_zh_Hant::init$() {
 }
 
 $ObjectArray2* FormatData_zh_Hant::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_MonthNames, $new($StringArray, {
 		u"1\u6708"_s,
 		u"2\u6708"_s,

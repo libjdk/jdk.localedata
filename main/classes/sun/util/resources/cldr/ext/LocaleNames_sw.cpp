@@ -45,6 +45,7 @@ void LocaleNames_sw::init$() {
 }
 
 $ObjectArray2* LocaleNames_sw::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($String, metaValue_ar, "Kiarabu"_s);
 	$var($String, metaValue_bn, "Kibengali"_s);
 	$var($String, metaValue_bo, "Kitibeti"_s);

@@ -45,6 +45,7 @@ void CurrencyNames_zh_Hant_HK::init$() {
 }
 
 $ObjectArray2* CurrencyNames_zh_Hant_HK::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("KRW"_s),

@@ -44,6 +44,7 @@ void LocaleNames_el_CY::init$() {
 }
 
 $ObjectArray2* LocaleNames_el_CY::getContents() {
+	$useLocalCurrentObjectStackCache();
 	return $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("AD"_s),

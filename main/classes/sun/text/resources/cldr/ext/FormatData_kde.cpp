@@ -45,6 +45,7 @@ void FormatData_kde::init$() {
 }
 
 $ObjectArray2* FormatData_kde::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_MonthNames, $new($StringArray, {
 		"Mwedi Ntandi"_s,
 		"Mwedi wa Pili"_s,

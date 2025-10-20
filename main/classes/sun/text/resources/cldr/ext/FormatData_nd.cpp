@@ -45,6 +45,7 @@ void FormatData_nd::init$() {
 }
 
 $ObjectArray2* FormatData_nd::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_MonthNames, $new($StringArray, {
 		"Zibandlela"_s,
 		"Nhlolanja"_s,

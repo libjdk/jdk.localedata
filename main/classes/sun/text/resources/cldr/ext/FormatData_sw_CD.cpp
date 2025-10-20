@@ -45,6 +45,7 @@ void FormatData_sw_CD::init$() {
 }
 
 $ObjectArray2* FormatData_sw_CD::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("field.era"_s),

@@ -45,6 +45,7 @@ void LocaleNames_es_PE::init$() {
 }
 
 $ObjectArray2* LocaleNames_es_PE::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("BA"_s),

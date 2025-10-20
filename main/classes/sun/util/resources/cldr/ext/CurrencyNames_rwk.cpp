@@ -45,6 +45,7 @@ void CurrencyNames_rwk::init$() {
 }
 
 $ObjectArray2* CurrencyNames_rwk::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("TZS"_s),

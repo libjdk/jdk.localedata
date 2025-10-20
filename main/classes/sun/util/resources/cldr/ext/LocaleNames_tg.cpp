@@ -45,6 +45,7 @@ void LocaleNames_tg::init$() {
 }
 
 $ObjectArray2* LocaleNames_tg::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("AC"_s),

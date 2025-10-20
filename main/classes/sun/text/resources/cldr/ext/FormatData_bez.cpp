@@ -45,6 +45,7 @@ void FormatData_bez::init$() {
 }
 
 $ObjectArray2* FormatData_bez::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_MonthNames, $new($StringArray, {
 		"pa mwedzi gwa hutala"_s,
 		"pa mwedzi gwa wuvili"_s,

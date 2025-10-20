@@ -45,6 +45,7 @@ void CurrencyNames_fr_HT::init$() {
 }
 
 $ObjectArray2* CurrencyNames_fr_HT::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {$$new($ObjectArray, {
 		$of("HTG"_s),
 		$of("G"_s)

@@ -45,6 +45,7 @@ void LocaleNames_sq::init$() {
 }
 
 $ObjectArray2* LocaleNames_sq::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($String, metaValue_bo, "tibetisht"_s);
 	$var($String, metaValue_lo, "laosisht"_s);
 	$var($ObjectArray2, data, $new($ObjectArray2, {

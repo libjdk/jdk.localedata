@@ -45,6 +45,7 @@ void FormatData_rw::init$() {
 }
 
 $ObjectArray2* FormatData_rw::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_MonthNames, $new($StringArray, {
 		"Mutarama"_s,
 		"Gashyantare"_s,

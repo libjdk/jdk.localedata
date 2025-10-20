@@ -45,6 +45,7 @@ void LocaleNames_jv::init$() {
 }
 
 $ObjectArray2* LocaleNames_jv::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($String, metaValue_002, "Afrika"_s);
 	$var($String, metaValue_AZ, "Azerbaijan"_s);
 	$var($String, metaValue_DE, u"J\u00e9rman"_s);

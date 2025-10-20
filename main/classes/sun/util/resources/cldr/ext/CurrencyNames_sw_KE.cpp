@@ -45,6 +45,7 @@ void CurrencyNames_sw_KE::init$() {
 }
 
 $ObjectArray2* CurrencyNames_sw_KE::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("USD"_s),

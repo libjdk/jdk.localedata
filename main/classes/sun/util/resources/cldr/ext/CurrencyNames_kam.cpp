@@ -45,6 +45,7 @@ void CurrencyNames_kam::init$() {
 }
 
 $ObjectArray2* CurrencyNames_kam::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("KES"_s),

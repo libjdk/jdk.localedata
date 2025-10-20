@@ -45,6 +45,7 @@ void FormatData_khq::init$() {
 }
 
 $ObjectArray2* FormatData_khq::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_MonthNames, $new($StringArray, {
 		u"\u017danwiye"_s,
 		"Feewiriye"_s,

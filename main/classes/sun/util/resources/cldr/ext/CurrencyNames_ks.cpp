@@ -45,6 +45,7 @@ void CurrencyNames_ks::init$() {
 }
 
 $ObjectArray2* CurrencyNames_ks::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("adp"_s),

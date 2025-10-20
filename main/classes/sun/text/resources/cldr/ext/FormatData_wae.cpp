@@ -45,6 +45,7 @@ void FormatData_wae::init$() {
 }
 
 $ObjectArray2* FormatData_wae::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_MonthNames, $new($StringArray, {
 		"Jenner"_s,
 		"Hornig"_s,

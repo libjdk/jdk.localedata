@@ -45,6 +45,7 @@ void FormatData_ga::init$() {
 }
 
 $ObjectArray2* FormatData_ga::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_MonthNames, $new($StringArray, {
 		u"Ean\u00e1ir"_s,
 		"Feabhra"_s,

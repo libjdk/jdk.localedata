@@ -44,6 +44,7 @@ void LocaleNames_sr_Latn::init$() {
 }
 
 $ObjectArray2* LocaleNames_sr_Latn::getContents() {
+	$useLocalCurrentObjectStackCache();
 	return $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("AD"_s),

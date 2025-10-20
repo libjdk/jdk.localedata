@@ -45,6 +45,7 @@ void CurrencyNames_lrc::init$() {
 }
 
 $ObjectArray2* CurrencyNames_lrc::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("IQD"_s),

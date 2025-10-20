@@ -44,6 +44,7 @@ void FormatData_lv_LV::init$() {
 }
 
 $ObjectArray2* FormatData_lv_LV::getContents() {
+	$useLocalCurrentObjectStackCache();
 	return $new($ObjectArray2, {$$new($ObjectArray, {
 		$of("NumberPatterns"_s),
 		$of($$new($StringArray, {

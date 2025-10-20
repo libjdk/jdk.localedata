@@ -44,6 +44,7 @@ void FormatData_zh_SG::init$() {
 }
 
 $ObjectArray2* FormatData_zh_SG::getContents() {
+	$useLocalCurrentObjectStackCache();
 	return $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("DayAbbreviations"_s),

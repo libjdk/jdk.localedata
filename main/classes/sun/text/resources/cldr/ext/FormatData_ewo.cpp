@@ -45,6 +45,7 @@ void FormatData_ewo::init$() {
 }
 
 $ObjectArray2* FormatData_ewo::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_MonthNames, $new($StringArray, {
 		u"ng\u0254n os\u00fa"_s,
 		u"ng\u0254n b\u025b\u030c"_s,

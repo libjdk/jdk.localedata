@@ -45,6 +45,7 @@ void CurrencyNames_qu_EC::init$() {
 }
 
 $ObjectArray2* CurrencyNames_qu_EC::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("PEN"_s),

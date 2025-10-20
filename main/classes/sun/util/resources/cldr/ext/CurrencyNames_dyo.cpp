@@ -45,6 +45,7 @@ void CurrencyNames_dyo::init$() {
 }
 
 $ObjectArray2* CurrencyNames_dyo::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("aoa"_s),

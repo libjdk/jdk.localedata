@@ -45,6 +45,7 @@ void CurrencyNames_en_CA::init$() {
 }
 
 $ObjectArray2* CurrencyNames_en_CA::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("CAD"_s),

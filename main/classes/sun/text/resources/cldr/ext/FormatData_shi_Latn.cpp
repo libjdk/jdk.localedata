@@ -45,6 +45,7 @@ void FormatData_shi_Latn::init$() {
 }
 
 $ObjectArray2* FormatData_shi_Latn::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_MonthNames, $new($StringArray, {
 		"innayr"_s,
 		u"b\u1e5bay\u1e5b"_s,

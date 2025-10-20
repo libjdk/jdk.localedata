@@ -45,6 +45,7 @@ void LocaleNames_haw::init$() {
 }
 
 $ObjectArray2* LocaleNames_haw::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($String, metaValue_DE, u"Kelem\u0101nia"_s);
 	$var($String, metaValue_DK, "Kenemaka"_s);
 	$var($String, metaValue_FR, "Palani"_s);

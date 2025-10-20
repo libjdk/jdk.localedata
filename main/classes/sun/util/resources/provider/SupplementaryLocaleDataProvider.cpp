@@ -60,6 +60,7 @@ void SupplementaryLocaleDataProvider::init$() {
 }
 
 $ResourceBundle* SupplementaryLocaleDataProvider::getBundle($String* baseName, $Locale* locale) {
+	$useLocalCurrentObjectStackCache();
 	$var($String, bundleName, toBundleName(baseName, locale));
 	$var($ResourceBundle, rb, $LocaleDataProvider::loadResourceBundle(bundleName));
 	if (rb == nullptr) {

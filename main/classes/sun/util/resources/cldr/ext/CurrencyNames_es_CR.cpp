@@ -45,6 +45,7 @@ void CurrencyNames_es_CR::init$() {
 }
 
 $ObjectArray2* CurrencyNames_es_CR::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {$$new($ObjectArray, {
 		$of("CRC"_s),
 		$of(u"\u20a1"_s)

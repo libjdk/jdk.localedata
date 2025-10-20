@@ -45,6 +45,7 @@ void CurrencyNames_yav::init$() {
 }
 
 $ObjectArray2* CurrencyNames_yav::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("aoa"_s),

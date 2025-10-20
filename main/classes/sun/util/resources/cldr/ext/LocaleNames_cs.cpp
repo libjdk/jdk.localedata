@@ -45,6 +45,7 @@ void LocaleNames_cs::init$() {
 }
 
 $ObjectArray2* LocaleNames_cs::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($String, metaValue_ccp, u"\u010dakma"_s);
 	$var($String, metaValue_kpe, "kpelle"_s);
 	$var($String, metaValue_nqo, u"n\u2019ko"_s);

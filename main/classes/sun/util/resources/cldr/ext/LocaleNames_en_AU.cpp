@@ -45,6 +45,7 @@ void LocaleNames_en_AU::init$() {
 }
 
 $ObjectArray2* LocaleNames_en_AU::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($String, metaValue_bn, "Bengali"_s);
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {

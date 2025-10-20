@@ -45,6 +45,7 @@ void LocaleNames_pt_PT::init$() {
 }
 
 $ObjectArray2* LocaleNames_pt_PT::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($String, metaValue_bn, u"bengal\u00eas"_s);
 	$var($String, metaValue_hy, u"arm\u00e9nio"_s);
 	$var($String, metaValue_te, "telugu"_s);

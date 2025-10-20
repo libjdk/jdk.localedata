@@ -44,6 +44,7 @@ void CurrencyNames_el_CY::init$() {
 }
 
 $ObjectArray2* CurrencyNames_el_CY::getContents() {
+	$useLocalCurrentObjectStackCache();
 	return $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("CYP"_s),

@@ -45,6 +45,7 @@ void FormatData_teo::init$() {
 }
 
 $ObjectArray2* FormatData_teo::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_MonthNames, $new($StringArray, {
 		"Orara"_s,
 		"Omuk"_s,

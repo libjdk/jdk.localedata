@@ -47,6 +47,7 @@ void TimeZoneNames_pt_GW::init$() {
 }
 
 $ObjectArray2* TimeZoneNames_pt_GW::getContents() {
+	$useLocalCurrentObjectStackCache();
 	$var($StringArray, Azores, $new($StringArray, {
 		u"Hora padr\u00e3o dos A\u00e7ores"_s,
 		u"\u2205\u2205\u2205"_s,
