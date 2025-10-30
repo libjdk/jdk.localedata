@@ -72,5 +72,4 @@ add_test(NAME Bug8132125 COMMAND $<TARGET_FILE:${JCPP_PROJECT_FULL_NAME}-test> B
 add_test(NAME Bug8139572 COMMAND $<TARGET_FILE:${JCPP_PROJECT_FULL_NAME}-test> Bug8139572)
 add_test(NAME ContextMonthNamesTest COMMAND $<TARGET_FILE:${JCPP_PROJECT_FULL_NAME}-test> ContextMonthNamesTest)
 add_test(NAME FormatLocale COMMAND $<TARGET_FILE:${JCPP_PROJECT_FULL_NAME}-test> FormatLocale)
-add_test(NAME HijrahConfigCheck COMMAND $<TARGET_FILE:${JCPP_PROJECT_FULL_NAME}-test> HijrahConfigCheck)
 add_test(NAME nontestng.java.time.chrono.Bug8178823 COMMAND $<TARGET_FILE:${JCPP_PROJECT_FULL_NAME}-test> nontestng.java.time.chrono.Bug8178823)

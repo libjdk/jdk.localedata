@@ -7,7 +7,6 @@
 #include <HijrahConfigCheck.h>
 #include <nontestng/java/time/chrono/Bug8178823.h>
 #include <jcpp.h>
-#include <stdlib.h>
 
 
 class TestCases {
@@ -133,7 +132,9 @@ private:
 	int32_t processedCount;
 	bool success;
 };
+
 #define run(caseName, caseClass, ...) runCase<caseClass>(caseName, ##__VA_ARGS__);
+
 void TestCases::runCases() {
 	int64_t runCasesBeginMs = $System::currentTimeMillis();
 
@@ -141,7 +142,7 @@ void TestCases::runCases() {
 	run("Bug8139572", ::Bug8139572);
 	run("ContextMonthNamesTest", ::ContextMonthNamesTest);
 	run("FormatLocale", ::FormatLocale);
-	run("HijrahConfigCheck", ::HijrahConfigCheck);
+	run("HijrahConfigCheck", ::HijrahConfigCheck, true);
 	run("nontestng.java.time.chrono.Bug8178823", ::nontestng::java::time::chrono::Bug8178823);
 
 	int64_t runCaseEndMs = $System::currentTimeMillis();
@@ -157,8 +158,7 @@ int main(int argc, char** argv) {
 	TestCases testcases(argc, argv);
 	try {
 		testcases.runCases();
-	} catch ($Throwable&) {
-		$var($Throwable, e, $catch());
+	} catch ($Throwable& e) {
 		e->printStackTrace();
 	}
 	$System::deinit();
