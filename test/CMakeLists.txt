@@ -15,7 +15,7 @@ aux_source_directory("." source_SRCS)
 
 set(local_object ${local_object}
 	"$<TARGET_OBJECTS:test-classes>"
-	"$<TARGET_OBJECTS:test-classes.nontestng.java._1>"
+	"$<TARGET_OBJECTS:test.nontestng.java.time.chron>"
 )
 
 add_executable(${JCPP_PROJECT_FULL_NAME}-test "${local_object}" "${source_SRCS}")

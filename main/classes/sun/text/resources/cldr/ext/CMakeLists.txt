@@ -1,10 +1,10 @@
 #machine generated
 
-aux_source_directory("${CMAKE_CURRENT_SOURCE_DIR}" classes.sun.text.resources.c_1_SRCS)
-file(GLOB classes.sun.text.resources.c_1_HEADERS *.h *.hpp)
-source_group("Include" FILES ${classes.sun.text.resources.c_1_HEADERS}) 
-list(LENGTH classes.sun.text.resources.c_1_SRCS classes.sun.text.resources.c_1_SRCS_LENGTH)
-if(classes.sun.text.resources.c_1_SRCS_LENGTH)
-	add_library(classes.sun.text.resources.c_1 OBJECT "${classes.sun.text.resources.c_1_SRCS}" "${classes.sun.text.resources.c_1_HEADERS}")
-	jcpp_enable_bigobj(classes.sun.text.resources.c_1)
+aux_source_directory(. SRCS)
+file(GLOB HEADERS *.h *.hpp)
+source_group("Include" FILES ${HEADERS}) 
+list(LENGTH SRCS SRCS_LENGTH)
+if(SRCS_LENGTH)
+	add_library(sun.text.resources.cldr.ext OBJECT ${SRCS} ${HEADERS})
+	jcpp_enable_bigobj(sun.text.resources.cldr.ext)
 endif()

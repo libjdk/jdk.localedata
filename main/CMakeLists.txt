@@ -12,16 +12,16 @@ add_subdirectory("classes")
 
 set(local_object ${local_object}
 	"$<TARGET_OBJECTS:classes>"
-	"$<TARGET_OBJECTS:classes.sun.text.resources.c_1>"
-	"$<TARGET_OBJECTS:classes.sun.text.resources.ext>"
-	"$<TARGET_OBJECTS:classes.sun.util.resources.c_3>"
-	"$<TARGET_OBJECTS:classes.sun.util.resources.c_4>"
-	"$<TARGET_OBJECTS:classes.sun.util.resources.ext>"
-	"$<TARGET_OBJECTS:classes.sun.util.resources.p_5>"
+	"$<TARGET_OBJECTS:sun.text.resources.cldr.ext>"
+	"$<TARGET_OBJECTS:sun.text.resources.ext>"
+	"$<TARGET_OBJECTS:sun.util.resources.cldr.ext>"
+	"$<TARGET_OBJECTS:sun.util.resources.cldr.provid>"
+	"$<TARGET_OBJECTS:sun.util.resources.ext>"
+	"$<TARGET_OBJECTS:sun.util.resources.provider>"
 )
 
 if(BUILD_STATIC_LIB)
-	add_library(${JCPP_PROJECT_NAME}_static STATIC "${local_object}" "${source_SRCS}")
+	add_library(${JCPP_PROJECT_NAME}_static STATIC ${local_object} ${source_SRCS})
 
 	SET_TARGET_PROPERTIES(${JCPP_PROJECT_NAME}_static PROPERTIES OUTPUT_NAME "${JCPP_PROJECT_FULL_NAME}")
 	SET_TARGET_PROPERTIES(${JCPP_PROJECT_NAME}_static PROPERTIES CLEAN_DIRECT_OUTPUT 1)
@@ -37,7 +37,7 @@ if(BUILD_STATIC_LIB)
 endif()
 
 if(BUILD_SHARED_LIB)
-	add_library(${JCPP_PROJECT_NAME}_shared SHARED "${local_object}" "${source_SRCS}")
+	add_library(${JCPP_PROJECT_NAME}_shared SHARED ${local_object} ${source_SRCS})
 
 	SET_TARGET_PROPERTIES(${JCPP_PROJECT_NAME}_shared PROPERTIES OUTPUT_NAME "${JCPP_PROJECT_FULL_NAME}")
 	SET_TARGET_PROPERTIES(${JCPP_PROJECT_NAME}_shared PROPERTIES CLEAN_DIRECT_OUTPUT 1)
