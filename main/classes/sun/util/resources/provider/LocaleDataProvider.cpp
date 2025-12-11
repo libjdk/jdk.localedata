@@ -18,12 +18,10 @@ using $InnerClassInfo = ::java::lang::InnerClassInfo;
 using $InstantiationException = ::java::lang::InstantiationException;
 using $InternalError = ::java::lang::InternalError;
 using $MethodInfo = ::java::lang::MethodInfo;
-using $Module = ::java::lang::Module;
 using $ReflectiveOperationException = ::java::lang::ReflectiveOperationException;
 using $Locale = ::java::util::Locale;
 using $ResourceBundle = ::java::util::ResourceBundle;
 using $LocaleData$CommonResourceBundleProvider = ::sun::util::resources::LocaleData$CommonResourceBundleProvider;
-using $LocaleData$LocaleDataResourceBundleProvider = ::sun::util::resources::LocaleData$LocaleDataResourceBundleProvider;
 
 namespace sun {
 	namespace util {

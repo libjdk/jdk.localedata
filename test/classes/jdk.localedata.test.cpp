@@ -100,5 +100,4 @@ void jdk$localedata$test::init() {
 		jdk$localedata$test$GetResource
 	};
 	$System::addLibrary(&lib);
-	$System::init();
 }

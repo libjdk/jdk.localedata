@@ -25,16 +25,11 @@
 #undef UTC
 
 using $Serializable = ::java::io::Serializable;
-using $Boolean = ::java::lang::Boolean;
 using $ClassInfo = ::java::lang::ClassInfo;
 using $FieldInfo = ::java::lang::FieldInfo;
 using $MethodInfo = ::java::lang::MethodInfo;
 using $RuntimeException = ::java::lang::RuntimeException;
-using $CallSite = ::java::lang::invoke::CallSite;
-using $LambdaMetafactory = ::java::lang::invoke::LambdaMetafactory;
 using $MethodHandle = ::java::lang::invoke::MethodHandle;
-using $MethodHandles$Lookup = ::java::lang::invoke::MethodHandles$Lookup;
-using $MethodType = ::java::lang::invoke::MethodType;
 using $Instant = ::java::time::Instant;
 using $LocalDate = ::java::time::LocalDate;
 using $LocalDateTime = ::java::time::LocalDateTime;
@@ -43,7 +38,6 @@ using $ZoneOffset = ::java::time::ZoneOffset;
 using $ChronoLocalDate = ::java::time::chrono::ChronoLocalDate;
 using $ChronoLocalDateTime = ::java::time::chrono::ChronoLocalDateTime;
 using $Chronology = ::java::time::chrono::Chronology;
-using $Collection = ::java::util::Collection;
 using $Locale = ::java::util::Locale;
 using $Set = ::java::util::Set;
 using $Predicate = ::java::util::function::Predicate;
