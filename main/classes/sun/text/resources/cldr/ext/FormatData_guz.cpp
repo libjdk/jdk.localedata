@@ -112,7 +112,7 @@ $ObjectArray2* FormatData_guz::getContents() {
 		"E"_s
 	}));
 	$var($StringArray, metaValue_QuarterNames, $new($StringArray, {
-		u"Erobo entang\u2019ani"_s,
+		u"Erobo entang’ani"_s,
 		"Erobo yakabere"_s,
 		"Erobo yagatato"_s,
 		"Erobo yakane"_s
@@ -224,7 +224,7 @@ $ObjectArray2* FormatData_guz::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.zone"_s),
-			$of(u"Chinse \u2018chimo"_s)
+			$of(u"Chinse ‘chimo"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("japanese.QuarterAbbreviations"_s),
@@ -303,7 +303,7 @@ $ObjectArray2* FormatData_guz::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.weekday"_s),
-			$of(u"Rituko r\u2019ewiki"_s)
+			$of(u"Rituko r’ewiki"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("buddhist.MonthNames"_s),
@@ -324,8 +324,8 @@ $ObjectArray2* FormatData_guz::getContents() {
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
+				u"‰"_s,
+				u"∞"_s,
 				"NaN"_s,
 				""_s,
 				""_s
@@ -496,9 +496,9 @@ $ObjectArray2* FormatData_guz::getContents() {
 			$of("latn.NumberPatterns"_s),
 			$of($$new($StringArray, {
 				"#,##0.###"_s,
-				u"\u00a4#,##0.00"_s,
+				u"¤#,##0.00"_s,
 				"#,##0%"_s,
-				u"\u00a4#,##0.00;(\u00a4#,##0.00)"_s
+				u"¤#,##0.00;(¤#,##0.00)"_s
 			}))
 		}),
 		$$new($ObjectArray, {

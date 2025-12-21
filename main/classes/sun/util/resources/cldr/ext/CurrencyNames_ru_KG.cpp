@@ -41,7 +41,7 @@ $ObjectArray2* CurrencyNames_ru_KG::getContents() {
 	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {$$new($ObjectArray, {
 		$of("KGS"_s),
-		$of(u"\u0441\u043e\u043c"_s)
+		$of(u"сом"_s)
 	})}));
 	return data;
 }

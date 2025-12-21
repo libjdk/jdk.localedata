@@ -322,7 +322,7 @@ $ObjectArray2* LocaleNames_sw::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("CI"_s),
-			$of(u"Cote d\u2019Ivoire"_s)
+			$of(u"Cote d’Ivoire"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("CK"_s),
@@ -898,7 +898,7 @@ $ObjectArray2* LocaleNames_sw::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("gwi"_s),
-			$of(u"Gwich\u02bcin"_s)
+			$of(u"Gwichʼin"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("nds"_s),
@@ -1778,7 +1778,7 @@ $ObjectArray2* LocaleNames_sw::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("nqo"_s),
-			$of(u"N\u2019Ko"_s)
+			$of(u"N’Ko"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.co.standard"_s),
@@ -2902,11 +2902,11 @@ $ObjectArray2* LocaleNames_sw::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("type.hc.h23"_s),
-			$of(u"Kipindi cha saa 24 (0\u201323)"_s)
+			$of(u"Kipindi cha saa 24 (0–23)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.hc.h24"_s),
-			$of(u"Kipindi cha saa 24 (1\u201324)"_s)
+			$of(u"Kipindi cha saa 24 (1–24)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ssy"_s),
@@ -2934,11 +2934,11 @@ $ObjectArray2* LocaleNames_sw::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("type.hc.h12"_s),
-			$of(u"Kipindi cha saa 12 (1\u201312)"_s)
+			$of(u"Kipindi cha saa 12 (1–12)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.hc.h11"_s),
-			$of(u"Kipindi cha saa 12 (0\u201311)"_s)
+			$of(u"Kipindi cha saa 12 (0–11)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("rm"_s),
@@ -2978,7 +2978,7 @@ $ObjectArray2* LocaleNames_sw::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("mic"_s),
-			$of(u"Mi\u2019kmaq"_s)
+			$of(u"Mi’kmaq"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("suk"_s),
@@ -3266,7 +3266,7 @@ $ObjectArray2* LocaleNames_sw::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("quc"_s),
-			$of(u"K\u02bciche\u02bc"_s)
+			$of(u"Kʼicheʼ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gaa"_s),
@@ -3406,7 +3406,7 @@ $ObjectArray2* LocaleNames_sw::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("gez"_s),
-			$of(u"Kige\u2019ez"_s)
+			$of(u"Kige’ez"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.co.reformed"_s),

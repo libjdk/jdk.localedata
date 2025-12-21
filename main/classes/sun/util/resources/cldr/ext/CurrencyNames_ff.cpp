@@ -42,7 +42,7 @@ $ObjectArray2* CurrencyNames_ff::getContents() {
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("aed"_s),
-			$of(u"Dirham Emiraati Araab Dentu\u0257i"_s)
+			$of(u"Dirham Emiraati Araab Dentuɗi"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("aoa"_s),
@@ -58,7 +58,7 @@ $ObjectArray2* CurrencyNames_ff::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("bif"_s),
-			$of(u"Mbuu\u0257u Burunndi"_s)
+			$of(u"Mbuuɗu Burunndi"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bwp"_s),
@@ -134,7 +134,7 @@ $ObjectArray2* CurrencyNames_ff::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("kes"_s),
-			$of(u"Siling Ke\u00f1aa"_s)
+			$of(u"Siling Keñaa"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kmf"_s),
@@ -162,7 +162,7 @@ $ObjectArray2* CurrencyNames_ff::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("mro"_s),
-			$of(u"Ugiyya Muritani (1973\u20132017)"_s)
+			$of(u"Ugiyya Muritani (1973–2017)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mru"_s),
@@ -218,7 +218,7 @@ $ObjectArray2* CurrencyNames_ff::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("std"_s),
-			$of(u"Dobra Sawo Tome e Prensipe (1977\u20132017)"_s)
+			$of(u"Dobra Sawo Tome e Prensipe (1977–2017)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("stn"_s),
@@ -242,23 +242,23 @@ $ObjectArray2* CurrencyNames_ff::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("usd"_s),
-			$of(u"Dolaar Dowlaaji Dentu\u0257i"_s)
+			$of(u"Dolaar Dowlaaji Dentuɗi"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xaf"_s),
-			$of(u"Mbuu\u0257i Seefaa BEAC"_s)
+			$of(u"Mbuuɗi Seefaa BEAC"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xof"_s),
-			$of(u"Mbuu\u0257u Seefaa BCEAO"_s)
+			$of(u"Mbuuɗu Seefaa BCEAO"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("zar"_s),
-			$of(u"Rannda Afrik B\u014b Worgo"_s)
+			$of(u"Rannda Afrik Bŋ Worgo"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("zmk"_s),
-			$of(u"Kuwacca Sammbi (1968\u20132012)"_s)
+			$of(u"Kuwacca Sammbi (1968–2012)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("zmw"_s),

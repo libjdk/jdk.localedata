@@ -40,86 +40,86 @@ void FormatData_tg::init$() {
 $ObjectArray2* FormatData_tg::getContents() {
 	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_MonthNames, $new($StringArray, {
-		u"\u042f\u043d\u0432\u0430\u0440"_s,
-		u"\u0424\u0435\u0432\u0440\u0430\u043b"_s,
-		u"\u041c\u0430\u0440\u0442"_s,
-		u"\u0410\u043f\u0440\u0435\u043b"_s,
-		u"\u041c\u0430\u0439"_s,
-		u"\u0418\u044e\u043d"_s,
-		u"\u0418\u044e\u043b"_s,
-		u"\u0410\u0432\u0433\u0443\u0441\u0442"_s,
-		u"\u0421\u0435\u043d\u0442\u044f\u0431\u0440"_s,
-		u"\u041e\u043a\u0442\u044f\u0431\u0440"_s,
-		u"\u041d\u043e\u044f\u0431\u0440"_s,
-		u"\u0414\u0435\u043a\u0430\u0431\u0440"_s,
+		u"Январ"_s,
+		u"Феврал"_s,
+		u"Март"_s,
+		u"Апрел"_s,
+		u"Май"_s,
+		u"Июн"_s,
+		u"Июл"_s,
+		u"Август"_s,
+		u"Сентябр"_s,
+		u"Октябр"_s,
+		u"Ноябр"_s,
+		u"Декабр"_s,
 		""_s
 	}));
 	$var($StringArray, metaValue_MonthAbbreviations, $new($StringArray, {
-		u"\u042f\u043d\u0432"_s,
-		u"\u0424\u0435\u0432"_s,
-		u"\u041c\u0430\u0440"_s,
-		u"\u0410\u043f\u0440"_s,
-		u"\u041c\u0430\u0439"_s,
-		u"\u0418\u044e\u043d"_s,
-		u"\u0418\u044e\u043b"_s,
-		u"\u0410\u0432\u0433"_s,
-		u"\u0421\u0435\u043d"_s,
-		u"\u041e\u043a\u0442"_s,
-		u"\u041d\u043e\u044f"_s,
-		u"\u0414\u0435\u043a"_s,
+		u"Янв"_s,
+		u"Фев"_s,
+		u"Мар"_s,
+		u"Апр"_s,
+		u"Май"_s,
+		u"Июн"_s,
+		u"Июл"_s,
+		u"Авг"_s,
+		u"Сен"_s,
+		u"Окт"_s,
+		u"Ноя"_s,
+		u"Дек"_s,
 		""_s
 	}));
 	$var($StringArray, metaValue_MonthNarrows, $new($StringArray, {
-		u"\u042f"_s,
-		u"\u0424"_s,
-		u"\u041c"_s,
-		u"\u0410"_s,
-		u"\u041c"_s,
-		u"\u0418"_s,
-		u"\u0418"_s,
-		u"\u0410"_s,
-		u"\u0421"_s,
-		u"\u041e"_s,
-		u"\u041d"_s,
-		u"\u0414"_s,
+		u"Я"_s,
+		u"Ф"_s,
+		u"М"_s,
+		u"А"_s,
+		u"М"_s,
+		u"И"_s,
+		u"И"_s,
+		u"А"_s,
+		u"С"_s,
+		u"О"_s,
+		u"Н"_s,
+		u"Д"_s,
 		""_s
 	}));
 	$var($StringArray, metaValue_DayNames, $new($StringArray, {
-		u"\u042f\u043a\u0448\u0430\u043d\u0431\u0435"_s,
-		u"\u0414\u0443\u0448\u0430\u043d\u0431\u0435"_s,
-		u"\u0421\u0435\u0448\u0430\u043d\u0431\u0435"_s,
-		u"\u0427\u043e\u0440\u0448\u0430\u043d\u0431\u0435"_s,
-		u"\u041f\u0430\u043d\u04b7\u0448\u0430\u043d\u0431\u0435"_s,
-		u"\u04b6\u0443\u043c\u044a\u0430"_s,
-		u"\u0428\u0430\u043d\u0431\u0435"_s
+		u"Якшанбе"_s,
+		u"Душанбе"_s,
+		u"Сешанбе"_s,
+		u"Чоршанбе"_s,
+		u"Панҷшанбе"_s,
+		u"Ҷумъа"_s,
+		u"Шанбе"_s
 	}));
 	$var($StringArray, metaValue_DayAbbreviations, $new($StringArray, {
-		u"\u042f\u0448\u0431"_s,
-		u"\u0414\u0448\u0431"_s,
-		u"\u0421\u0448\u0431"_s,
-		u"\u0427\u0448\u0431"_s,
-		u"\u041f\u0448\u0431"_s,
-		u"\u04b6\u043c\u044a"_s,
-		u"\u0428\u043d\u0431"_s
+		u"Яшб"_s,
+		u"Дшб"_s,
+		u"Сшб"_s,
+		u"Чшб"_s,
+		u"Пшб"_s,
+		u"Ҷмъ"_s,
+		u"Шнб"_s
 	}));
 	$var($StringArray, metaValue_DayNarrows, $new($StringArray, {
-		u"\u042f"_s,
-		u"\u0414"_s,
-		u"\u0421"_s,
-		u"\u0427"_s,
-		u"\u041f"_s,
-		u"\u04b6"_s,
-		u"\u0428"_s
+		u"Я"_s,
+		u"Д"_s,
+		u"С"_s,
+		u"Ч"_s,
+		u"П"_s,
+		u"Ҷ"_s,
+		u"Ш"_s
 	}));
 	$var($StringArray, metaValue_QuarterNames, $new($StringArray, {
-		u"\u04271"_s,
-		u"\u04272"_s,
-		u"\u04273"_s,
-		u"\u04274"_s
+		u"Ч1"_s,
+		u"Ч2"_s,
+		u"Ч3"_s,
+		u"Ч4"_s
 	}));
 	$var($StringArray, metaValue_Eras, $new($StringArray, {
-		u"\u041f\u0435\u041c"_s,
-		u"\u041f\u0430\u041c"_s
+		u"ПеМ"_s,
+		u"ПаМ"_s
 	}));
 	$var($StringArray, metaValue_TimePatterns, $new($StringArray, {
 		"HH:mm:ss zzzz"_s,
@@ -161,9 +161,9 @@ $ObjectArray2* FormatData_tg::getContents() {
 	}));
 	$var($StringArray, metaValue_java_time_islamic_long_Eras, $new($StringArray, {
 		""_s,
-		u"\u0421\u0410\u041d\u0410"_s
+		u"САНА"_s
 	}));
-	$var($String, metaValue_calendarname_gregorian, u"\u0422\u0430\u049b\u0432\u0438\u043c\u0438 \u0433\u0440\u0435\u0433\u043e\u0440\u0438\u0430\u043d\u04e3"_s);
+	$var($String, metaValue_calendarname_gregorian, u"Тақвими грегорианӣ"_s);
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("MonthNames"_s),
@@ -171,7 +171,7 @@ $ObjectArray2* FormatData_tg::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.year"_s),
-			$of(u"\u0441\u043e\u043b"_s)
+			$of(u"сол"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("islamic.QuarterAbbreviations"_s),
@@ -215,7 +215,7 @@ $ObjectArray2* FormatData_tg::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.zone"_s),
-			$of(u"\u043c\u0438\u043d\u0442\u0430\u049b\u0430\u0438 \u0432\u0430\u049b\u0442"_s)
+			$of(u"минтақаи вақт"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("roc.MonthNarrows"_s),
@@ -264,8 +264,8 @@ $ObjectArray2* FormatData_tg::getContents() {
 		$$new($ObjectArray, {
 			$of("long.Eras"_s),
 			$of($$new($StringArray, {
-				u"\u041f\u0435\u0448 \u0430\u0437 \u043c\u0438\u043b\u043e\u0434"_s,
-				u"\u041f\u0430\u0441 \u0430\u0437 \u043c\u0438\u043b\u043e\u0434"_s
+				u"Пеш аз милод"_s,
+				u"Пас аз милод"_s
 			}))
 		}),
 		$$new($ObjectArray, {
@@ -279,8 +279,8 @@ $ObjectArray2* FormatData_tg::getContents() {
 		$$new($ObjectArray, {
 			$of("java.time.islamic.DatePatterns"_s),
 			$of($$new($StringArray, {
-				u"EEEE, d MMMM\'\u0438\' y G"_s,
-				u"d MMMM\'\u0438\' y G"_s,
+				u"EEEE, d MMMM\'и\' y G"_s,
+				u"d MMMM\'и\' y G"_s,
 				"d MMM y G"_s,
 				"M/d/y GGGGG"_s
 			}))
@@ -291,7 +291,7 @@ $ObjectArray2* FormatData_tg::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.weekday"_s),
-			$of(u"\u0440\u04ef\u0437\u0438 \u04b3\u0430\u0444\u0442\u0430"_s)
+			$of(u"рӯзи ҳафта"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("buddhist.MonthNames"_s),
@@ -310,15 +310,15 @@ $ObjectArray2* FormatData_tg::getContents() {
 			$of("latn.NumberElements"_s),
 			$of($$new($StringArray, {
 				","_s,
-				u"\u00a0"_s,
+				u" "_s,
 				";"_s,
 				"%"_s,
 				"0"_s,
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
+				u"‰"_s,
+				u"∞"_s,
 				"NaN"_s,
 				""_s,
 				""_s
@@ -342,11 +342,11 @@ $ObjectArray2* FormatData_tg::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.minute"_s),
-			$of(u"\u0434\u0430\u049b\u0438\u049b\u0430"_s)
+			$of(u"дақиқа"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("field.era"_s),
-			$of(u"\u043c\u0430\u0431\u0434\u0430\u0438 \u0442\u0430\u044a\u0440\u0438\u0445"_s)
+			$of(u"мабдаи таърих"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("islamic.DayAbbreviations"_s),
@@ -379,18 +379,18 @@ $ObjectArray2* FormatData_tg::getContents() {
 		$$new($ObjectArray, {
 			$of("islamic.MonthNames"_s),
 			$of($$new($StringArray, {
-				u"\u043c\u0443\u04b3\u0430\u0440\u0440\u0430\u043c"_s,
-				u"\u0441\u0430\u0444\u0430\u0440"_s,
-				u"\u0420\u0430\u0431\u0435\u044a I"_s,
-				u"\u0420\u0430\u0431\u0435\u044a II"_s,
-				u"\u04b7\u0438\u043c\u043e\u0434\u0438-\u0443\u043b-\u0443\u043b\u043e"_s,
-				u"\u04b7\u0438\u043c\u043e\u0434\u0438-\u0443\u043b-\u0441\u043e\u043d\u0438"_s,
-				u"\u0440\u0430\u04b7\u0430\u0431"_s,
-				u"\u0428\u0430\u0431\u0430\u043d"_s,
-				u"\u0420\u0430\u043c\u0430\u0434\u0430\u043d"_s,
-				u"\u0428\u0430\u0432\u0432\u0430\u043b"_s,
-				u"\u0414\u0445\u0443\u0442-\u049a\u0438\u0434\u0430\u04b3"_s,
-				u"\u0414\u0445\u0443\u0442-\u04b2\u0438\u04b7\u04b7\u0430\u04b3"_s,
+				u"муҳаррам"_s,
+				u"сафар"_s,
+				u"Рабеъ I"_s,
+				u"Рабеъ II"_s,
+				u"ҷимоди-ул-уло"_s,
+				u"ҷимоди-ул-сони"_s,
+				u"раҷаб"_s,
+				u"Шабан"_s,
+				u"Рамадан"_s,
+				u"Шаввал"_s,
+				u"Дхут-Қидаҳ"_s,
+				u"Дхут-Ҳиҷҷаҳ"_s,
 				""_s
 			}))
 		}),
@@ -405,8 +405,8 @@ $ObjectArray2* FormatData_tg::getContents() {
 		$$new($ObjectArray, {
 			$of("islamic.DatePatterns"_s),
 			$of($$new($StringArray, {
-				u"EEEE, d MMMM\'\u0438\' y GGGG"_s,
-				u"d MMMM\'\u0438\' y GGGG"_s,
+				u"EEEE, d MMMM\'и\' y GGGG"_s,
+				u"d MMMM\'и\' y GGGG"_s,
 				"d MMM y GGGG"_s,
 				"M/d/y G"_s
 			}))
@@ -433,7 +433,7 @@ $ObjectArray2* FormatData_tg::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.month"_s),
-			$of(u"\u043c\u043e\u04b3"_s)
+			$of(u"моҳ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("buddhist.DatePatterns"_s),
@@ -441,7 +441,7 @@ $ObjectArray2* FormatData_tg::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.second"_s),
-			$of(u"\u0441\u043e\u043d\u0438\u044f"_s)
+			$of(u"сония"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("roc.MonthNames"_s),
@@ -449,7 +449,7 @@ $ObjectArray2* FormatData_tg::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.week"_s),
-			$of(u"\u04b3\u0430\u0444\u0442\u0430"_s)
+			$of(u"ҳафта"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("DayAbbreviations"_s),
@@ -497,18 +497,18 @@ $ObjectArray2* FormatData_tg::getContents() {
 				""_s,
 				""_s,
 				""_s,
-				u"{other:0\u00a0\u04b3\u0437\u0440\'.\'}"_s,
-				u"{other:00\u00a0\u04b3\u0437\u0440\'.\'}"_s,
-				u"{other:000\u00a0\u04b3\u0437\u0440\'.\'}"_s,
-				u"{other:0\u00a0\u043c\u043b\u043d\'.\'}"_s,
-				u"{other:00\u00a0\u043c\u043b\u043d\'.\'}"_s,
-				u"{other:000\u00a0\u043c\u043b\u043d\'.\'}"_s,
-				u"{other:0\u00a0\u043c\u043b\u0440\u0434\'.\'}"_s,
-				u"{other:00\u00a0\u043c\u043b\u0440\u0434\'.\'}"_s,
-				u"{other:000\u00a0\u043c\u043b\u0440\u0434\'.\'}"_s,
-				u"{other:0\u00a0\u0442\u0440\u043b\u043d\'.\'}"_s,
-				u"{other:00\u00a0\u0442\u0440\u043b\u043d\'.\'}"_s,
-				u"{other:000\u00a0\u0442\u0440\u043b\u043d\'.\'}"_s
+				u"{other:0 ҳзр\'.\'}"_s,
+				u"{other:00 ҳзр\'.\'}"_s,
+				u"{other:000 ҳзр\'.\'}"_s,
+				u"{other:0 млн\'.\'}"_s,
+				u"{other:00 млн\'.\'}"_s,
+				u"{other:000 млн\'.\'}"_s,
+				u"{other:0 млрд\'.\'}"_s,
+				u"{other:00 млрд\'.\'}"_s,
+				u"{other:000 млрд\'.\'}"_s,
+				u"{other:0 трлн\'.\'}"_s,
+				u"{other:00 трлн\'.\'}"_s,
+				u"{other:000 трлн\'.\'}"_s
 			}))
 		}),
 		$$new($ObjectArray, {
@@ -542,7 +542,7 @@ $ObjectArray2* FormatData_tg::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.hour"_s),
-			$of(u"\u0441\u043e\u0430\u0442"_s)
+			$of(u"соат"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("buddhist.TimePatterns"_s),
@@ -551,18 +551,18 @@ $ObjectArray2* FormatData_tg::getContents() {
 		$$new($ObjectArray, {
 			$of("islamic.MonthAbbreviations"_s),
 			$of($$new($StringArray, {
-				u"\u041c\u0443\u04b3."_s,
-				u"\u0421\u0430\u0444."_s,
-				u"\u0420\u0430\u0431. I"_s,
-				u"\u0420\u0430\u0431. II"_s,
-				u"\u04b6\u0443\u043c. I"_s,
-				u"\u04b6\u0443\u043c. II"_s,
-				u"\u0420\u0430\u04b7."_s,
-				u"\u0428\u0430."_s,
-				u"\u0420\u0430\u043c."_s,
-				u"\u0428\u0430\u0432."_s,
-				u"\u0414\u0445\u0443\u043b-\u049a."_s,
-				u"\u0414\u0445\u0443\u043b-\u04b2."_s,
+				u"Муҳ."_s,
+				u"Саф."_s,
+				u"Раб. I"_s,
+				u"Раб. II"_s,
+				u"Ҷум. I"_s,
+				u"Ҷум. II"_s,
+				u"Раҷ."_s,
+				u"Ша."_s,
+				u"Рам."_s,
+				u"Шав."_s,
+				u"Дхул-Қ."_s,
+				u"Дхул-Ҳ."_s,
 				""_s
 			}))
 		}),
@@ -582,9 +582,9 @@ $ObjectArray2* FormatData_tg::getContents() {
 			$of("latn.NumberPatterns"_s),
 			$of($$new($StringArray, {
 				"#,##0.###"_s,
-				u"#,##0.00\u00a0\u00a4"_s,
+				u"#,##0.00 ¤"_s,
 				"#,##0%"_s,
-				u"#,##0.00\u00a0\u00a4"_s
+				u"#,##0.00 ¤"_s
 			}))
 		}),
 		$$new($ObjectArray, {
@@ -593,18 +593,18 @@ $ObjectArray2* FormatData_tg::getContents() {
 				""_s,
 				""_s,
 				""_s,
-				u"{other:0\' \'\u04b3\u0430\u0437\u043e\u0440}"_s,
-				u"{other:00\' \'\u04b3\u0430\u0437\u043e\u0440}"_s,
-				u"{other:000\' \'\u04b3\u0430\u0437\u043e\u0440}"_s,
-				u"{other:0\' \'\u043c\u0438\u043b\u043b\u0438\u043e\u043d}"_s,
-				u"{other:00\' \'\u043c\u0438\u043b\u043b\u0438\u043e\u043d}"_s,
-				u"{other:000\' \'\u043c\u0438\u043b\u043b\u0438\u043e\u043d}"_s,
-				u"{other:0\' \'\u043c\u0438\u043b\u043b\u0438\u0430\u0440\u0434}"_s,
-				u"{other:00\' \'\u043c\u0438\u043b\u043b\u0438\u0430\u0440\u0434}"_s,
-				u"{other:000\' \'\u043c\u0438\u043b\u043b\u0438\u0430\u0440\u0434}"_s,
-				u"{other:0\' \'\u0442\u0440\u0438\u043b\u043b\u0438\u043e\u043d}"_s,
-				u"{other:00\' \'\u0442\u0440\u0438\u043b\u043b\u0438\u043e\u043d}"_s,
-				u"{other:000\' \'\u0442\u0440\u0438\u043b\u043b\u0438\u043e\u043d}"_s
+				u"{other:0\' \'ҳазор}"_s,
+				u"{other:00\' \'ҳазор}"_s,
+				u"{other:000\' \'ҳазор}"_s,
+				u"{other:0\' \'миллион}"_s,
+				u"{other:00\' \'миллион}"_s,
+				u"{other:000\' \'миллион}"_s,
+				u"{other:0\' \'миллиард}"_s,
+				u"{other:00\' \'миллиард}"_s,
+				u"{other:000\' \'миллиард}"_s,
+				u"{other:0\' \'триллион}"_s,
+				u"{other:00\' \'триллион}"_s,
+				u"{other:000\' \'триллион}"_s
 			}))
 		}),
 		$$new($ObjectArray, {

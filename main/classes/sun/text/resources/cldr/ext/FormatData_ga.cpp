@@ -40,16 +40,16 @@ void FormatData_ga::init$() {
 $ObjectArray2* FormatData_ga::getContents() {
 	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_MonthNames, $new($StringArray, {
-		u"Ean\u00e1ir"_s,
+		u"Eanáir"_s,
 		"Feabhra"_s,
-		u"M\u00e1rta"_s,
-		u"Aibre\u00e1n"_s,
+		u"Márta"_s,
+		u"Aibreán"_s,
 		"Bealtaine"_s,
 		"Meitheamh"_s,
-		u"I\u00fail"_s,
-		u"L\u00fanasa"_s,
-		u"Me\u00e1n F\u00f3mhair"_s,
-		u"Deireadh F\u00f3mhair"_s,
+		u"Iúil"_s,
+		u"Lúnasa"_s,
+		u"Meán Fómhair"_s,
+		u"Deireadh Fómhair"_s,
 		"Samhain"_s,
 		"Nollaig"_s,
 		""_s
@@ -57,14 +57,14 @@ $ObjectArray2* FormatData_ga::getContents() {
 	$var($StringArray, metaValue_MonthAbbreviations, $new($StringArray, {
 		"Ean"_s,
 		"Feabh"_s,
-		u"M\u00e1rta"_s,
+		u"Márta"_s,
 		"Aib"_s,
 		"Beal"_s,
 		"Meith"_s,
-		u"I\u00fail"_s,
-		u"L\u00fan"_s,
-		u"MF\u00f3mh"_s,
-		u"DF\u00f3mh"_s,
+		u"Iúil"_s,
+		u"Lún"_s,
+		u"MFómh"_s,
+		u"DFómh"_s,
 		"Samh"_s,
 		"Noll"_s,
 		""_s
@@ -85,20 +85,20 @@ $ObjectArray2* FormatData_ga::getContents() {
 		""_s
 	}));
 	$var($StringArray, metaValue_DayNames, $new($StringArray, {
-		u"D\u00e9 Domhnaigh"_s,
-		u"D\u00e9 Luain"_s,
-		u"D\u00e9 M\u00e1irt"_s,
-		u"D\u00e9 C\u00e9adaoin"_s,
-		u"D\u00e9ardaoin"_s,
-		u"D\u00e9 hAoine"_s,
-		u"D\u00e9 Sathairn"_s
+		u"Dé Domhnaigh"_s,
+		u"Dé Luain"_s,
+		u"Dé Máirt"_s,
+		u"Dé Céadaoin"_s,
+		u"Déardaoin"_s,
+		u"Dé hAoine"_s,
+		u"Dé Sathairn"_s
 	}));
 	$var($StringArray, metaValue_DayAbbreviations, $new($StringArray, {
 		"Domh"_s,
 		"Luan"_s,
-		u"M\u00e1irt"_s,
-		u"C\u00e9ad"_s,
-		u"D\u00e9ar"_s,
+		u"Máirt"_s,
+		u"Céad"_s,
+		u"Déar"_s,
 		"Aoine"_s,
 		"Sath"_s
 	}));
@@ -112,10 +112,10 @@ $ObjectArray2* FormatData_ga::getContents() {
 		"S"_s
 	}));
 	$var($StringArray, metaValue_QuarterNames, $new($StringArray, {
-		u"1\u00fa r\u00e1ithe"_s,
-		u"2\u00fa r\u00e1ithe"_s,
-		u"3\u00fa r\u00e1ithe"_s,
-		u"4\u00fa r\u00e1ithe"_s
+		u"1ú ráithe"_s,
+		u"2ú ráithe"_s,
+		u"3ú ráithe"_s,
+		u"4ú ráithe"_s
 	}));
 	$var($StringArray, metaValue_QuarterAbbreviations, $new($StringArray, {
 		"R1"_s,
@@ -175,7 +175,7 @@ $ObjectArray2* FormatData_ga::getContents() {
 		"d MMM y GGGG"_s,
 		"dd/MM/y G"_s
 	}));
-	$var($String, metaValue_calendarname_gregorian, u"F\u00e9ilire Ghr\u00e9ag\u00f3ra"_s);
+	$var($String, metaValue_calendarname_gregorian, u"Féilire Ghréagóra"_s);
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("MonthNames"_s),
@@ -187,7 +187,7 @@ $ObjectArray2* FormatData_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.islamic-umalqura"_s),
-			$of(u"F\u00e9ilire Ioslamach (Umm al-Qura)"_s)
+			$of(u"Féilire Ioslamach (Umm al-Qura)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("japanese.AmPmMarkers"_s),
@@ -223,7 +223,7 @@ $ObjectArray2* FormatData_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.islamic-civil"_s),
-			$of(u"F\u00e9ilire Ioslamach (t\u00e1blach, seanr\u00e9 shibhialta)"_s)
+			$of(u"Féilire Ioslamach (táblach, seanré shibhialta)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("japanese.TimePatterns"_s),
@@ -243,7 +243,7 @@ $ObjectArray2* FormatData_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.japanese"_s),
-			$of(u"F\u00e9ilire Seap\u00e1nach"_s)
+			$of(u"Féilire Seapánach"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.gmtZeroFormat"_s),
@@ -264,7 +264,7 @@ $ObjectArray2* FormatData_ga::getContents() {
 		$$new($ObjectArray, {
 			$of("long.Eras"_s),
 			$of($$new($StringArray, {
-				u"Roimh Chr\u00edost"_s,
+				u"Roimh Chríost"_s,
 				"Anno Domini"_s
 			}))
 		}),
@@ -303,8 +303,8 @@ $ObjectArray2* FormatData_ga::getContents() {
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
+				u"‰"_s,
+				u"∞"_s,
 				"Nuimh"_s,
 				""_s,
 				""_s
@@ -324,11 +324,11 @@ $ObjectArray2* FormatData_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.minute"_s),
-			$of(u"N\u00f3im\u00e9ad"_s)
+			$of(u"Nóiméad"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("field.era"_s),
-			$of(u"R\u00e9"_s)
+			$of(u"Ré"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("buddhist.AmPmMarkers"_s),
@@ -348,7 +348,7 @@ $ObjectArray2* FormatData_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.roc"_s),
-			$of(u"F\u00e9ilire T\u00e9av\u00e1nach"_s)
+			$of(u"Féilire Téavánach"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("islamic.DatePatterns"_s),
@@ -360,7 +360,7 @@ $ObjectArray2* FormatData_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.month"_s),
-			$of(u"M\u00ed"_s)
+			$of(u"Mí"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("field.second"_s),
@@ -380,7 +380,7 @@ $ObjectArray2* FormatData_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.islamic"_s),
-			$of(u"F\u00e9ilire Ioslamach"_s)
+			$of(u"Féilire Ioslamach"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("buddhist.TimePatterns"_s),
@@ -396,18 +396,18 @@ $ObjectArray2* FormatData_ga::getContents() {
 				""_s,
 				""_s,
 				""_s,
-				u"{one:0\' \'mh\u00edle two:0\' \'mh\u00edle few:0\' \'mh\u00edle many:0\' \'m\u00edle other:0\' \'m\u00edle}"_s,
-				u"{one:00\' \'m\u00edle two:00\' \'m\u00edle few:00\' \'m\u00edle many:00\' \'m\u00edle other:00\' \'m\u00edle}"_s,
-				u"{one:000\' \'m\u00edle two:000\' \'m\u00edle few:000\' \'m\u00edle many:000\' \'m\u00edle other:000\' \'m\u00edle}"_s,
-				u"{one:0\' \'mhilli\u00fan two:0\' \'mhilli\u00fan few:0\' \'mhilli\u00fan many:0\' \'milli\u00fan other:0\' \'milli\u00fan}"_s,
-				u"{one:00\' \'milli\u00fan two:00\' \'milli\u00fan few:00\' \'milli\u00fan many:00\' \'milli\u00fan other:00\' \'milli\u00fan}"_s,
-				u"{one:000\' \'milli\u00fan two:000\' \'milli\u00fan few:000\' \'milli\u00fan many:000\' \'milli\u00fan other:000\' \'milli\u00fan}"_s,
-				u"{one:0\' \'bhilli\u00fan two:0\' \'bhilli\u00fan few:0\' \'bhilli\u00fan many:0\' \'mbilli\u00fan other:0\' \'billi\u00fan}"_s,
-				u"{one:00\' \'billi\u00fan two:00\' \'billi\u00fan few:00\' \'billi\u00fan many:00\' \'mbilli\u00fan other:00\' \'billi\u00fan}"_s,
-				u"{one:000\' \'billi\u00fan two:000\' \'billi\u00fan few:000\' \'billi\u00fan many:000\' \'billi\u00fan other:000\' \'billi\u00fan}"_s,
-				u"{one:0\' \'trilli\u00fan two:0\' \'thrilli\u00fan few:0\' \'thrilli\u00fan many:0\' \'dtrilli\u00fan other:0\' \'trilli\u00fan}"_s,
-				u"{one:00\' \'trilli\u00fan two:00\' \'trilli\u00fan few:00\' \'trilli\u00fan many:00\' \'dtrilli\u00fan other:00\' \'trilli\u00fan}"_s,
-				u"{one:000\' \'trilli\u00fan two:000\' \'trilli\u00fan few:000\' \'trilli\u00fan many:000\' \'trilli\u00fan other:000\' \'trilli\u00fan}"_s
+				u"{one:0\' \'mhíle two:0\' \'mhíle few:0\' \'mhíle many:0\' \'míle other:0\' \'míle}"_s,
+				u"{one:00\' \'míle two:00\' \'míle few:00\' \'míle many:00\' \'míle other:00\' \'míle}"_s,
+				u"{one:000\' \'míle two:000\' \'míle few:000\' \'míle many:000\' \'míle other:000\' \'míle}"_s,
+				u"{one:0\' \'mhilliún two:0\' \'mhilliún few:0\' \'mhilliún many:0\' \'milliún other:0\' \'milliún}"_s,
+				u"{one:00\' \'milliún two:00\' \'milliún few:00\' \'milliún many:00\' \'milliún other:00\' \'milliún}"_s,
+				u"{one:000\' \'milliún two:000\' \'milliún few:000\' \'milliún many:000\' \'milliún other:000\' \'milliún}"_s,
+				u"{one:0\' \'bhilliún two:0\' \'bhilliún few:0\' \'bhilliún many:0\' \'mbilliún other:0\' \'billiún}"_s,
+				u"{one:00\' \'billiún two:00\' \'billiún few:00\' \'billiún many:00\' \'mbilliún other:00\' \'billiún}"_s,
+				u"{one:000\' \'billiún two:000\' \'billiún few:000\' \'billiún many:000\' \'billiún other:000\' \'billiún}"_s,
+				u"{one:0\' \'trilliún two:0\' \'thrilliún few:0\' \'thrilliún many:0\' \'dtrilliún other:0\' \'trilliún}"_s,
+				u"{one:00\' \'trilliún two:00\' \'trilliún few:00\' \'trilliún many:00\' \'dtrilliún other:00\' \'trilliún}"_s,
+				u"{one:000\' \'trilliún two:000\' \'trilliún few:000\' \'trilliún many:000\' \'trilliún other:000\' \'trilliún}"_s
 			}))
 		}),
 		$$new($ObjectArray, {
@@ -492,7 +492,7 @@ $ObjectArray2* FormatData_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.weekday"_s),
-			$of(u"L\u00e1 na seachtaine"_s)
+			$of(u"Lá na seachtaine"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("japanese.MonthAbbreviations"_s),
@@ -637,7 +637,7 @@ $ObjectArray2* FormatData_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.buddhist"_s),
-			$of(u"F\u00e9ilire B\u00fada\u00edoch"_s)
+			$of(u"Féilire Búdaíoch"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("standalone.MonthNames"_s),
@@ -647,9 +647,9 @@ $ObjectArray2* FormatData_ga::getContents() {
 			$of("latn.NumberPatterns"_s),
 			$of($$new($StringArray, {
 				"#,##0.###"_s,
-				u"\u00a4#,##0.00"_s,
+				u"¤#,##0.00"_s,
 				"#,##0%"_s,
-				u"\u00a4#,##0.00;(\u00a4#,##0.00)"_s
+				u"¤#,##0.00;(¤#,##0.00)"_s
 			}))
 		}),
 		$$new($ObjectArray, {

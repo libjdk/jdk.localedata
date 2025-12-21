@@ -51,7 +51,7 @@ $ObjectArray2* TimeZoneNames_wo::getContents() {
 		""_s
 	}));
 	$var($StringArray, ETC_UTC, $new($StringArray, {
-		u"CUT (waxtu iniwelsel yu\u00f1 boole)"_s,
+		u"CUT (waxtu iniwelsel yuñ boole)"_s,
 		"UTC"_s,
 		""_s,
 		""_s,
@@ -59,65 +59,65 @@ $ObjectArray2* TimeZoneNames_wo::getContents() {
 		""_s
 	}));
 	$var($StringArray, Atlantic, $new($StringArray, {
-		u"AST (waxtu est\u00e0ndaaru penku)"_s,
+		u"AST (waxtu estàndaaru penku)"_s,
 		""_s,
-		u"ADT (waxtu b\u00ebcc\u00ebgu atl\u00e0ntik)"_s,
+		u"ADT (waxtu bëccëgu atlàntik)"_s,
 		""_s,
-		u"AT (waxtu atl\u00e0ntik)"_s,
+		u"AT (waxtu atlàntik)"_s,
 		""_s
 	}));
 	$var($StringArray, Europe_Central, $new($StringArray, {
-		u"CEST (waxtu est\u00e0ndaaru \u00ebroop s\u00e0ntaraal)"_s,
+		u"CEST (waxtu estàndaaru ëroop sàntaraal)"_s,
 		""_s,
-		u"CEST (waxtu ete wu \u00ebroop s\u00e0ntaraal)"_s,
+		u"CEST (waxtu ete wu ëroop sàntaraal)"_s,
 		""_s,
-		u"CTE (waxtu \u00ebroop s\u00e0ntaraal)"_s,
+		u"CTE (waxtu ëroop sàntaraal)"_s,
 		""_s
 	}));
 	$var($StringArray, Europe_Eastern, $new($StringArray, {
-		u"EEST (waxtu est\u00e0ndaaru \u00ebroop u penku)"_s,
+		u"EEST (waxtu estàndaaru ëroop u penku)"_s,
 		""_s,
-		u"EEST (waxtu ete wu \u00ebroop u penku)"_s,
+		u"EEST (waxtu ete wu ëroop u penku)"_s,
 		""_s,
-		u"EET (waxtu \u00ebroop u penku)"_s,
+		u"EET (waxtu ëroop u penku)"_s,
 		""_s
 	}));
 	$var($StringArray, Europe_Western, $new($StringArray, {
-		u"WEST (waxtu est\u00e0ndaaru \u00ebroop u sowwu-jant)"_s,
+		u"WEST (waxtu estàndaaru ëroop u sowwu-jant)"_s,
 		""_s,
-		u"WEST (waxtu ete wu \u00ebroop u sowwu-jant)"_s,
+		u"WEST (waxtu ete wu ëroop u sowwu-jant)"_s,
 		""_s,
-		u"WET (waxtu \u00ebroop u sowwu-jant"_s,
+		u"WET (waxtu ëroop u sowwu-jant"_s,
 		""_s
 	}));
 	$var($StringArray, America_Central, $new($StringArray, {
-		u"CST (waxtu est\u00e0ndaaru s\u00e0ntaraal)"_s,
+		u"CST (waxtu estàndaaru sàntaraal)"_s,
 		""_s,
-		u"CDT (waxtu b\u00ebcc\u00ebgu s\u00e0ntaraal"_s,
+		u"CDT (waxtu bëccëgu sàntaraal"_s,
 		""_s,
-		u"CT (waxtu s\u00e0ntaral)"_s,
+		u"CT (waxtu sàntaral)"_s,
 		""_s
 	}));
 	$var($StringArray, America_Eastern, $new($StringArray, {
-		u"EST (waxtu est\u00e0ndaaru penku)"_s,
+		u"EST (waxtu estàndaaru penku)"_s,
 		""_s,
-		u"EDT (waxtu b\u00ebcc\u00ebgu penku)"_s,
+		u"EDT (waxtu bëccëgu penku)"_s,
 		""_s,
 		"ET waxtu penku"_s,
 		""_s
 	}));
 	$var($StringArray, America_Pacific, $new($StringArray, {
-		u"PST (waxtu est\u00e0ndaaru pasifik)"_s,
+		u"PST (waxtu estàndaaru pasifik)"_s,
 		""_s,
-		u"PDT (waxtu b\u00ebcc\u00ebgu pasifik)"_s,
+		u"PDT (waxtu bëccëgu pasifik)"_s,
 		""_s,
 		"PT (waxtu pasifik)"_s,
 		""_s
 	}));
 	$var($StringArray, America_Mountain, $new($StringArray, {
-		u"MST (waxtu est\u00e0ndaaru tundu)"_s,
+		u"MST (waxtu estàndaaru tundu)"_s,
 		""_s,
-		u"MDT (waxtu b\u00ebcc\u00ebgu tundu)"_s,
+		u"MDT (waxtu bëccëgu tundu)"_s,
 		""_s,
 		"MT (waxtu tundu)"_s,
 		""_s
@@ -929,7 +929,7 @@ $ObjectArray2* TimeZoneNames_wo::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Etc/Unknown"_s),
-			$of(u"D\u00ebkk bu\u00f1 xamul"_s)
+			$of(u"Dëkk buñ xamul"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Africa/Dakar"_s),

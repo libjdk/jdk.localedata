@@ -499,7 +499,7 @@ $ObjectArray2* TimeZoneNames_cy::getContents() {
 		""_s
 	}));
 	$var($StringArray, Reunion, $new($StringArray, {
-		u"Amser R\u00e9union"_s,
+		u"Amser Réunion"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -563,11 +563,11 @@ $ObjectArray2* TimeZoneNames_cy::getContents() {
 		""_s
 	}));
 	$var($StringArray, Brasilia, $new($StringArray, {
-		u"Amser Safonol Bras\u00edlia"_s,
+		u"Amser Safonol Brasília"_s,
 		""_s,
-		u"Amser Haf Bras\u00edlia"_s,
+		u"Amser Haf Brasília"_s,
 		""_s,
-		u"Amser Bras\u00edlia"_s,
+		u"Amser Brasília"_s,
 		""_s
 	}));
 	$var($StringArray, Chamorro, $new($StringArray, {
@@ -947,7 +947,7 @@ $ObjectArray2* TimeZoneNames_cy::getContents() {
 		""_s
 	}));
 	$var($StringArray, DumontDUrville, $new($StringArray, {
-		u"Amser Dumont-d\u2019Urville"_s,
+		u"Amser Dumont-d’Urville"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -1019,7 +1019,7 @@ $ObjectArray2* TimeZoneNames_cy::getContents() {
 		""_s
 	}));
 	$var($StringArray, French_Southern, $new($StringArray, {
-		u"Amser Tiroedd Ffrainc yn y De a\u2019r Antarctig"_s,
+		u"Amser Tiroedd Ffrainc yn y De a’r Antarctig"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -3150,7 +3150,7 @@ $ObjectArray2* TimeZoneNames_cy::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Saigon"_s),
-			$of(u"Dinas H\u00f4 Chi Minh"_s)
+			$of(u"Dinas Hô Chi Minh"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Taipei"_s),
@@ -3398,7 +3398,7 @@ $ObjectArray2* TimeZoneNames_cy::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Belem"_s),
-			$of(u"Bel\u00e9m"_s)
+			$of(u"Belém"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Boise"_s),
@@ -3586,11 +3586,11 @@ $ObjectArray2* TimeZoneNames_cy::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Bogota"_s),
-			$of(u"Bogot\u00e1"_s)
+			$of(u"Bogotá"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Cancun"_s),
-			$of(u"Canc\u00fan"_s)
+			$of(u"Cancún"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Cayman"_s),
@@ -3598,7 +3598,7 @@ $ObjectArray2* TimeZoneNames_cy::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Cuiaba"_s),
-			$of(u"Cuiab\u00e1"_s)
+			$of(u"Cuiabá"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Dawson"_s),
@@ -3722,7 +3722,7 @@ $ObjectArray2* TimeZoneNames_cy::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Indian/Reunion"_s),
-			$of(u"R\u00e9union"_s)
+			$of(u"Réunion"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Pacific/Easter"_s),
@@ -3798,7 +3798,7 @@ $ObjectArray2* TimeZoneNames_cy::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Africa/Sao_Tome"_s),
-			$of(u"S\u00e3o Tom\u00e9"_s)
+			$of(u"São Tomé"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Africa/Windhoek"_s),
@@ -3830,7 +3830,7 @@ $ObjectArray2* TimeZoneNames_cy::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Curacao"_s),
-			$of(u"Cura\u00e7ao"_s)
+			$of(u"Curaçao"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Detroit"_s),
@@ -4002,7 +4002,7 @@ $ObjectArray2* TimeZoneNames_cy::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Asuncion"_s),
-			$of(u"Asunci\u00f3n"_s)
+			$of(u"Asunción"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Barbados"_s),
@@ -4018,7 +4018,7 @@ $ObjectArray2* TimeZoneNames_cy::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Eirunepe"_s),
-			$of(u"Eirunep\u00e9"_s)
+			$of(u"Eirunepé"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Mazatlan"_s),
@@ -4118,7 +4118,7 @@ $ObjectArray2* TimeZoneNames_cy::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Bucharest"_s),
-			$of(u"Bwcar\u00e9st"_s)
+			$of(u"Bwcarést"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Gibraltar"_s),
@@ -4410,7 +4410,7 @@ $ObjectArray2* TimeZoneNames_cy::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Atlantic/Reykjavik"_s),
-			$of(u"Reykjav\u00edk"_s)
+			$of(u"Reykjavík"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Australia/Adelaide"_s),
@@ -4570,7 +4570,7 @@ $ObjectArray2* TimeZoneNames_cy::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/St_Barthelemy"_s),
-			$of(u"St. Barth\u00e9lemy"_s)
+			$of(u"St. Barthélemy"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Swift_Current"_s),
@@ -4598,7 +4598,7 @@ $ObjectArray2* TimeZoneNames_cy::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Argentina/Tucuman"_s),
-			$of(u"Tucum\u00e1n"_s)
+			$of(u"Tucumán"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Argentina/Ushuaia"_s),

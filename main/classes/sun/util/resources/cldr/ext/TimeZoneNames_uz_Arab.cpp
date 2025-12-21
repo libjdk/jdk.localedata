@@ -56,7 +56,7 @@ $ObjectArray2* TimeZoneNames_uz_Arab::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Kabul"_s),
-			$of(u"\u06a9\u0627\u0628\u0644"_s)
+			$of(u"کابل"_s)
 		})
 	}));
 	return data;

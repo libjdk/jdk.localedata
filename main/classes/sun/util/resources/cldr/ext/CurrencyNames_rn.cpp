@@ -46,7 +46,7 @@ $ObjectArray2* CurrencyNames_rn::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("aed"_s),
-			$of(u"Idiramu ryo muri Leta Zunze Ubumwe z\u2019Abarabu"_s)
+			$of(u"Idiramu ryo muri Leta Zunze Ubumwe z’Abarabu"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("aoa"_s),
@@ -58,11 +58,11 @@ $ObjectArray2* CurrencyNames_rn::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("bhd"_s),
-			$of(u"Idinari ry\u2019iribahireyini"_s)
+			$of(u"Idinari ry’iribahireyini"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bif"_s),
-			$of(u"Ifaranga ry\u2019Uburundi"_s)
+			$of(u"Ifaranga ry’Uburundi"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bwp"_s),
@@ -78,7 +78,7 @@ $ObjectArray2* CurrencyNames_rn::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("chf"_s),
-			$of(u"Ifaranga ry\u2019Ubusuwisi"_s)
+			$of(u"Ifaranga ry’Ubusuwisi"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cny"_s),
@@ -134,7 +134,7 @@ $ObjectArray2* CurrencyNames_rn::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("jpy"_s),
-			$of(u"Iyeni ry\u2019Ubuyapani"_s)
+			$of(u"Iyeni ry’Ubuyapani"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kes"_s),
@@ -166,7 +166,7 @@ $ObjectArray2* CurrencyNames_rn::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("mro"_s),
-			$of(u"Ugwiya ryo muri Moritaniya (1973\u20132017)"_s)
+			$of(u"Ugwiya ryo muri Moritaniya (1973–2017)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mru"_s),
@@ -194,7 +194,7 @@ $ObjectArray2* CurrencyNames_rn::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("rwf"_s),
-			$of(u"Ifaranga ry\u2019u Rwanda"_s)
+			$of(u"Ifaranga ry’u Rwanda"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sar"_s),
@@ -222,7 +222,7 @@ $ObjectArray2* CurrencyNames_rn::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("std"_s),
-			$of(u"Idobura ryo muri Sawotome na Perensipe (1977\u20132017)"_s)
+			$of(u"Idobura ryo muri Sawotome na Perensipe (1977–2017)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("stn"_s),
@@ -242,19 +242,19 @@ $ObjectArray2* CurrencyNames_rn::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ugx"_s),
-			$of(u"Ishilingi ry\u2019Ubugande"_s)
+			$of(u"Ishilingi ry’Ubugande"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("usd"_s),
-			$of(u"Idolari ry\u2019abanyamerika"_s)
+			$of(u"Idolari ry’abanyamerika"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("zar"_s),
-			$of(u"Irandi ryo muri Afurika y\u2019Epfo"_s)
+			$of(u"Irandi ryo muri Afurika y’Epfo"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("zmk"_s),
-			$of(u"Ikwaca ryo muri Zambiya (1968\u20132012)"_s)
+			$of(u"Ikwaca ryo muri Zambiya (1968–2012)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("zmw"_s),

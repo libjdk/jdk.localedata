@@ -42,16 +42,16 @@ $ObjectArray2* FormatData_sk::getContents() {
 		$$new($ObjectArray, {
 			$of("MonthNames"_s),
 			$of($$new($StringArray, {
-				u"janu\u00e1ra"_s,
-				u"febru\u00e1ra"_s,
+				u"januára"_s,
+				u"februára"_s,
 				"marca"_s,
-				u"apr\u00edla"_s,
-				u"m\u00e1ja"_s,
-				u"j\u00fana"_s,
-				u"j\u00fala"_s,
+				u"apríla"_s,
+				u"mája"_s,
+				u"júna"_s,
+				u"júla"_s,
 				"augusta"_s,
 				"septembra"_s,
-				u"okt\u00f3bra"_s,
+				u"októbra"_s,
 				"novembra"_s,
 				"decembra"_s,
 				""_s
@@ -60,16 +60,16 @@ $ObjectArray2* FormatData_sk::getContents() {
 		$$new($ObjectArray, {
 			$of("standalone.MonthNames"_s),
 			$of($$new($StringArray, {
-				u"janu\u00e1r"_s,
-				u"febru\u00e1r"_s,
+				u"január"_s,
+				u"február"_s,
 				"marec"_s,
-				u"apr\u00edl"_s,
-				u"m\u00e1j"_s,
-				u"j\u00fan"_s,
-				u"j\u00fal"_s,
+				u"apríl"_s,
+				u"máj"_s,
+				u"jún"_s,
+				u"júl"_s,
 				"august"_s,
 				"september"_s,
-				u"okt\u00f3ber"_s,
+				u"október"_s,
 				"november"_s,
 				"december"_s,
 				""_s
@@ -82,9 +82,9 @@ $ObjectArray2* FormatData_sk::getContents() {
 				"feb"_s,
 				"mar"_s,
 				"apr"_s,
-				u"m\u00e1j"_s,
-				u"j\u00fan"_s,
-				u"j\u00fal"_s,
+				u"máj"_s,
+				u"jún"_s,
+				u"júl"_s,
 				"aug"_s,
 				"sep"_s,
 				"okt"_s,
@@ -100,9 +100,9 @@ $ObjectArray2* FormatData_sk::getContents() {
 				"feb"_s,
 				"mar"_s,
 				"apr"_s,
-				u"m\u00e1j"_s,
-				u"j\u00fan"_s,
-				u"j\u00fal"_s,
+				u"máj"_s,
+				u"jún"_s,
+				u"júl"_s,
 				"aug"_s,
 				"sep"_s,
 				"okt"_s,
@@ -132,11 +132,11 @@ $ObjectArray2* FormatData_sk::getContents() {
 		$$new($ObjectArray, {
 			$of("DayNames"_s),
 			$of($$new($StringArray, {
-				u"Nede\u013ea"_s,
+				u"Nedeľa"_s,
 				"Pondelok"_s,
 				"Utorok"_s,
 				"Streda"_s,
-				u"\u0160tvrtok"_s,
+				u"Štvrtok"_s,
 				"Piatok"_s,
 				"Sobota"_s
 			}))
@@ -144,11 +144,11 @@ $ObjectArray2* FormatData_sk::getContents() {
 		$$new($ObjectArray, {
 			$of("standalone.DayNames"_s),
 			$of($$new($StringArray, {
-				u"nede\u013ea"_s,
+				u"nedeľa"_s,
 				"pondelok"_s,
 				"utorok"_s,
 				"streda"_s,
-				u"\u0161tvrtok"_s,
+				u"štvrtok"_s,
 				"piatok"_s,
 				"sobota"_s
 			}))
@@ -160,7 +160,7 @@ $ObjectArray2* FormatData_sk::getContents() {
 				"Po"_s,
 				"Ut"_s,
 				"St"_s,
-				u"\u0160t"_s,
+				u"Št"_s,
 				"Pi"_s,
 				"So"_s
 			}))
@@ -172,7 +172,7 @@ $ObjectArray2* FormatData_sk::getContents() {
 				"po"_s,
 				"ut"_s,
 				"st"_s,
-				u"\u0161t"_s,
+				u"št"_s,
 				"pi"_s,
 				"so"_s
 			}))
@@ -184,7 +184,7 @@ $ObjectArray2* FormatData_sk::getContents() {
 				"P"_s,
 				"U"_s,
 				"S"_s,
-				u"\u0160"_s,
+				u"Š"_s,
 				"P"_s,
 				"S"_s
 			}))
@@ -196,7 +196,7 @@ $ObjectArray2* FormatData_sk::getContents() {
 				"P"_s,
 				"U"_s,
 				"S"_s,
-				u"\u0160"_s,
+				u"Š"_s,
 				"P"_s,
 				"S"_s
 			}))
@@ -212,16 +212,16 @@ $ObjectArray2* FormatData_sk::getContents() {
 			$of("NumberElements"_s),
 			$of($$new($StringArray, {
 				","_s,
-				u"\u00a0"_s,
+				u" "_s,
 				";"_s,
 				"%"_s,
 				"0"_s,
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
-				u"\ufffd"_s
+				u"‰"_s,
+				u"∞"_s,
+				u"�"_s
 			}))
 		}),
 		$$new($ObjectArray, {

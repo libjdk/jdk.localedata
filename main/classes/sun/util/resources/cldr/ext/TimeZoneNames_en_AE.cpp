@@ -51,19 +51,19 @@ $ObjectArray2* TimeZoneNames_en_AE::getContents() {
 	}));
 	$var($StringArray, Alaska, $new($StringArray, {
 		"Alaska Standard Time"_s,
-		u"\u2205\u2205\u2205"_s,
+		u"∅∅∅"_s,
 		"Alaska Daylight Time"_s,
-		u"\u2205\u2205\u2205"_s,
+		u"∅∅∅"_s,
 		"Alaska Time"_s,
-		u"\u2205\u2205\u2205"_s
+		u"∅∅∅"_s
 	}));
 	$var($StringArray, Atlantic, $new($StringArray, {
 		"Atlantic Standard Time"_s,
-		u"\u2205\u2205\u2205"_s,
+		u"∅∅∅"_s,
 		"Atlantic Daylight Time"_s,
-		u"\u2205\u2205\u2205"_s,
+		u"∅∅∅"_s,
 		"Atlantic Time"_s,
-		u"\u2205\u2205\u2205"_s
+		u"∅∅∅"_s
 	}));
 	$var($StringArray, EMPTY_ZONE, $new($StringArray, {
 		""_s,
@@ -75,43 +75,43 @@ $ObjectArray2* TimeZoneNames_en_AE::getContents() {
 	}));
 	$var($StringArray, America_Central, $new($StringArray, {
 		"Central Standard Time"_s,
-		u"\u2205\u2205\u2205"_s,
+		u"∅∅∅"_s,
 		"Central Daylight Time"_s,
-		u"\u2205\u2205\u2205"_s,
+		u"∅∅∅"_s,
 		"Central Time"_s,
-		u"\u2205\u2205\u2205"_s
+		u"∅∅∅"_s
 	}));
 	$var($StringArray, America_Eastern, $new($StringArray, {
 		"Eastern Standard Time"_s,
-		u"\u2205\u2205\u2205"_s,
+		u"∅∅∅"_s,
 		"Eastern Daylight Time"_s,
-		u"\u2205\u2205\u2205"_s,
+		u"∅∅∅"_s,
 		"Eastern Time"_s,
-		u"\u2205\u2205\u2205"_s
+		u"∅∅∅"_s
 	}));
 	$var($StringArray, America_Pacific, $new($StringArray, {
 		"Pacific Standard Time"_s,
-		u"\u2205\u2205\u2205"_s,
+		u"∅∅∅"_s,
 		"Pacific Daylight Time"_s,
-		u"\u2205\u2205\u2205"_s,
+		u"∅∅∅"_s,
 		"Pacific Time"_s,
-		u"\u2205\u2205\u2205"_s
+		u"∅∅∅"_s
 	}));
 	$var($StringArray, Hawaii_Aleutian, $new($StringArray, {
 		"Hawaii-Aleutian Standard Time"_s,
-		u"\u2205\u2205\u2205"_s,
+		u"∅∅∅"_s,
 		"Hawaii-Aleutian Daylight Time"_s,
-		u"\u2205\u2205\u2205"_s,
+		u"∅∅∅"_s,
 		"Hawaii-Aleutian Time"_s,
-		u"\u2205\u2205\u2205"_s
+		u"∅∅∅"_s
 	}));
 	$var($StringArray, America_Mountain, $new($StringArray, {
 		"Mountain Standard Time"_s,
-		u"\u2205\u2205\u2205"_s,
+		u"∅∅∅"_s,
 		"Mountain Daylight Time"_s,
-		u"\u2205\u2205\u2205"_s,
+		u"∅∅∅"_s,
 		"Mountain Time"_s,
-		u"\u2205\u2205\u2205"_s
+		u"∅∅∅"_s
 	}));
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
@@ -142,11 +142,11 @@ $ObjectArray2* TimeZoneNames_en_AE::getContents() {
 			$of("Pacific/Honolulu"_s),
 			$of($$new($StringArray, {
 				""_s,
-				u"\u2205\u2205\u2205"_s,
+				u"∅∅∅"_s,
 				""_s,
-				u"\u2205\u2205\u2205"_s,
+				u"∅∅∅"_s,
 				""_s,
-				u"\u2205\u2205\u2205"_s
+				u"∅∅∅"_s
 			}))
 		}),
 		$$new($ObjectArray, {
@@ -249,11 +249,11 @@ $ObjectArray2* TimeZoneNames_en_AE::getContents() {
 			$of("SystemV/HST10"_s),
 			$of($$new($StringArray, {
 				""_s,
-				u"\u2205\u2205\u2205"_s,
+				u"∅∅∅"_s,
 				""_s,
-				u"\u2205\u2205\u2205"_s,
+				u"∅∅∅"_s,
 				""_s,
-				u"\u2205\u2205\u2205"_s
+				u"∅∅∅"_s
 			}))
 		}),
 		$$new($ObjectArray, {

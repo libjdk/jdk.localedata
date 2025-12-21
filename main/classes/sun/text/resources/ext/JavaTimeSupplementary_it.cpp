@@ -45,10 +45,10 @@ $ObjectArray2* JavaTimeSupplementary_it::getContents() {
 		"T4"_s
 	}));
 	$var($StringArray, sharedQuarterNames, $new($StringArray, {
-		u"1\u00ba trimestre"_s,
-		u"2\u00ba trimestre"_s,
-		u"3\u00ba trimestre"_s,
-		u"4\u00ba trimestre"_s
+		u"1º trimestre"_s,
+		u"2º trimestre"_s,
+		u"3º trimestre"_s,
+		u"4º trimestre"_s
 	}));
 	$var($StringArray, sharedDatePatterns, $new($StringArray, {
 		"EEEE d MMMM y GGGG"_s,
@@ -67,11 +67,11 @@ $ObjectArray2* JavaTimeSupplementary_it::getContents() {
 	}));
 	$var($StringArray, sharedDayNames, $new($StringArray, {
 		"domenica"_s,
-		u"luned\u00ec"_s,
-		u"marted\u00ec"_s,
-		u"mercoled\u00ec"_s,
-		u"gioved\u00ec"_s,
-		u"venerd\u00ec"_s,
+		u"lunedì"_s,
+		u"martedì"_s,
+		u"mercoledì"_s,
+		u"giovedì"_s,
+		u"venerdì"_s,
 		"sabato"_s
 	}));
 	$var($StringArray, sharedDayNarrows, $new($StringArray, {

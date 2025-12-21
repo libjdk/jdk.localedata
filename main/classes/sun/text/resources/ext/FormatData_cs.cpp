@@ -43,15 +43,15 @@ $ObjectArray2* FormatData_cs::getContents() {
 			$of("MonthNames"_s),
 			$of($$new($StringArray, {
 				"ledna"_s,
-				u"\u00fanora"_s,
-				u"b\u0159ezna"_s,
+				u"února"_s,
+				u"března"_s,
 				"dubna"_s,
-				u"kv\u011btna"_s,
-				u"\u010dervna"_s,
-				u"\u010dervence"_s,
+				u"května"_s,
+				u"června"_s,
+				u"července"_s,
 				"srpna"_s,
-				u"z\u00e1\u0159\u00ed"_s,
-				u"\u0159\u00edjna"_s,
+				u"září"_s,
+				u"října"_s,
 				"listopadu"_s,
 				"prosince"_s,
 				""_s
@@ -61,15 +61,15 @@ $ObjectArray2* FormatData_cs::getContents() {
 			$of("standalone.MonthNames"_s),
 			$of($$new($StringArray, {
 				"leden"_s,
-				u"\u00fanor"_s,
-				u"b\u0159ezen"_s,
+				u"únor"_s,
+				u"březen"_s,
 				"duben"_s,
-				u"kv\u011bten"_s,
-				u"\u010derven"_s,
-				u"\u010dervenec"_s,
+				u"květen"_s,
+				u"červen"_s,
+				u"červenec"_s,
 				"srpen"_s,
-				u"z\u00e1\u0159\u00ed"_s,
-				u"\u0159\u00edjen"_s,
+				u"září"_s,
+				u"říjen"_s,
 				"listopad"_s,
 				"prosinec"_s,
 				""_s
@@ -79,15 +79,15 @@ $ObjectArray2* FormatData_cs::getContents() {
 			$of("MonthAbbreviations"_s),
 			$of($$new($StringArray, {
 				"Led"_s,
-				u"\u00dano"_s,
-				u"B\u0159e"_s,
+				u"Úno"_s,
+				u"Bře"_s,
 				"Dub"_s,
-				u"Kv\u011b"_s,
-				u"\u010cer"_s,
-				u"\u010cvc"_s,
+				u"Kvě"_s,
+				u"Čer"_s,
+				u"Čvc"_s,
 				"Srp"_s,
-				u"Z\u00e1\u0159"_s,
-				u"\u0158\u00edj"_s,
+				u"Zář"_s,
+				u"Říj"_s,
 				"Lis"_s,
 				"Pro"_s,
 				""_s
@@ -115,15 +115,15 @@ $ObjectArray2* FormatData_cs::getContents() {
 			$of("MonthNarrows"_s),
 			$of($$new($StringArray, {
 				"l"_s,
-				u"\u00fa"_s,
+				u"ú"_s,
 				"b"_s,
 				"d"_s,
 				"k"_s,
-				u"\u010d"_s,
-				u"\u010d"_s,
+				u"č"_s,
+				u"č"_s,
 				"s"_s,
 				"z"_s,
-				u"\u0159"_s,
+				u"ř"_s,
 				"l"_s,
 				"p"_s,
 				""_s
@@ -133,15 +133,15 @@ $ObjectArray2* FormatData_cs::getContents() {
 			$of("standalone.MonthNarrows"_s),
 			$of($$new($StringArray, {
 				"l"_s,
-				u"\u00fa"_s,
+				u"ú"_s,
 				"b"_s,
 				"d"_s,
 				"k"_s,
-				u"\u010d"_s,
-				u"\u010d"_s,
+				u"č"_s,
+				u"č"_s,
 				"s"_s,
 				"z"_s,
-				u"\u0159"_s,
+				u"ř"_s,
 				"l"_s,
 				"p"_s,
 				""_s
@@ -150,24 +150,24 @@ $ObjectArray2* FormatData_cs::getContents() {
 		$$new($ObjectArray, {
 			$of("DayNames"_s),
 			$of($$new($StringArray, {
-				u"Ned\u011ble"_s,
-				u"Pond\u011bl\u00ed"_s,
-				u"\u00dater\u00fd"_s,
-				u"St\u0159eda"_s,
-				u"\u010ctvrtek"_s,
-				u"P\u00e1tek"_s,
+				u"Neděle"_s,
+				u"Pondělí"_s,
+				u"Úterý"_s,
+				u"Středa"_s,
+				u"Čtvrtek"_s,
+				u"Pátek"_s,
 				"Sobota"_s
 			}))
 		}),
 		$$new($ObjectArray, {
 			$of("standalone.DayNames"_s),
 			$of($$new($StringArray, {
-				u"ned\u011ble"_s,
-				u"pond\u011bl\u00ed"_s,
-				u"\u00fater\u00fd"_s,
-				u"st\u0159eda"_s,
-				u"\u010dtvrtek"_s,
-				u"p\u00e1tek"_s,
+				u"neděle"_s,
+				u"pondělí"_s,
+				u"úterý"_s,
+				u"středa"_s,
+				u"čtvrtek"_s,
+				u"pátek"_s,
 				"sobota"_s
 			}))
 		}),
@@ -176,10 +176,10 @@ $ObjectArray2* FormatData_cs::getContents() {
 			$of($$new($StringArray, {
 				"Ne"_s,
 				"Po"_s,
-				u"\u00dat"_s,
+				u"Út"_s,
 				"St"_s,
-				u"\u010ct"_s,
-				u"P\u00e1"_s,
+				u"Čt"_s,
+				u"Pá"_s,
 				"So"_s
 			}))
 		}),
@@ -188,10 +188,10 @@ $ObjectArray2* FormatData_cs::getContents() {
 			$of($$new($StringArray, {
 				"ne"_s,
 				"po"_s,
-				u"\u00fat"_s,
+				u"út"_s,
 				"st"_s,
-				u"\u010dt"_s,
-				u"p\u00e1"_s,
+				u"čt"_s,
+				u"pá"_s,
 				"so"_s
 			}))
 		}),
@@ -200,9 +200,9 @@ $ObjectArray2* FormatData_cs::getContents() {
 			$of($$new($StringArray, {
 				"N"_s,
 				"P"_s,
-				u"\u00da"_s,
+				u"Ú"_s,
 				"S"_s,
-				u"\u010c"_s,
+				u"Č"_s,
 				"P"_s,
 				"S"_s
 			}))
@@ -212,9 +212,9 @@ $ObjectArray2* FormatData_cs::getContents() {
 			$of($$new($StringArray, {
 				"N"_s,
 				"P"_s,
-				u"\u00da"_s,
+				u"Ú"_s,
 				"S"_s,
-				u"\u010c"_s,
+				u"Č"_s,
 				"P"_s,
 				"S"_s
 			}))
@@ -229,21 +229,21 @@ $ObjectArray2* FormatData_cs::getContents() {
 		$$new($ObjectArray, {
 			$of("Eras"_s),
 			$of($$new($StringArray, {
-				u"p\u0159.Kr."_s,
+				u"př.Kr."_s,
 				"po Kr."_s
 			}))
 		}),
 		$$new($ObjectArray, {
 			$of("short.Eras"_s),
 			$of($$new($StringArray, {
-				u"p\u0159. n. l."_s,
+				u"př. n. l."_s,
 				"n. l."_s
 			}))
 		}),
 		$$new($ObjectArray, {
 			$of("narrow.Eras"_s),
 			$of($$new($StringArray, {
-				u"p\u0159.n.l."_s,
+				u"př.n.l."_s,
 				"n. l."_s
 			}))
 		}),
@@ -251,16 +251,16 @@ $ObjectArray2* FormatData_cs::getContents() {
 			$of("NumberElements"_s),
 			$of($$new($StringArray, {
 				","_s,
-				u"\u00a0"_s,
+				u" "_s,
 				";"_s,
 				"%"_s,
 				"0"_s,
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
-				u"\ufffd"_s
+				u"‰"_s,
+				u"∞"_s,
+				u"�"_s
 			}))
 		}),
 		$$new($ObjectArray, {

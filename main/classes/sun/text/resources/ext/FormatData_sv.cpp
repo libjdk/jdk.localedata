@@ -39,7 +39,7 @@ void FormatData_sv::init$() {
 $ObjectArray2* FormatData_sv::getContents() {
 	$useLocalCurrentObjectStackCache();
 	$var($StringArray, rocEras, $new($StringArray, {
-		u"f\u00f6re R.K."_s,
+		u"före R.K."_s,
 		"R.K."_s
 	}));
 	return $new($ObjectArray2, {
@@ -136,37 +136,37 @@ $ObjectArray2* FormatData_sv::getContents() {
 		$$new($ObjectArray, {
 			$of("DayNames"_s),
 			$of($$new($StringArray, {
-				u"s\u00f6ndag"_s,
-				u"m\u00e5ndag"_s,
+				u"söndag"_s,
+				u"måndag"_s,
 				"tisdag"_s,
 				"onsdag"_s,
 				"torsdag"_s,
 				"fredag"_s,
-				u"l\u00f6rdag"_s
+				u"lördag"_s
 			}))
 		}),
 		$$new($ObjectArray, {
 			$of("DayAbbreviations"_s),
 			$of($$new($StringArray, {
-				u"s\u00f6"_s,
-				u"m\u00e5"_s,
+				u"sö"_s,
+				u"må"_s,
 				"ti"_s,
 				"on"_s,
 				"to"_s,
 				"fr"_s,
-				u"l\u00f6"_s
+				u"lö"_s
 			}))
 		}),
 		$$new($ObjectArray, {
 			$of("standalone.DayAbbreviations"_s),
 			$of($$new($StringArray, {
-				u"s\u00f6n"_s,
-				u"m\u00e5n"_s,
+				u"sön"_s,
+				u"mån"_s,
 				"tis"_s,
 				"ons"_s,
 				"tor"_s,
 				"fre"_s,
-				u"l\u00f6r"_s
+				u"lör"_s
 			}))
 		}),
 		$$new($ObjectArray, {
@@ -184,13 +184,13 @@ $ObjectArray2* FormatData_sv::getContents() {
 		$$new($ObjectArray, {
 			$of("standalone.DayNames"_s),
 			$of($$new($StringArray, {
-				u"s\u00f6ndag"_s,
-				u"m\u00e5ndag"_s,
+				u"söndag"_s,
+				u"måndag"_s,
 				"tisdag"_s,
 				"onsdag"_s,
 				"torsdag"_s,
 				"fredag"_s,
-				u"l\u00f6rdag"_s
+				u"lördag"_s
 			}))
 		}),
 		$$new($ObjectArray, {
@@ -208,7 +208,7 @@ $ObjectArray2* FormatData_sv::getContents() {
 		$$new($ObjectArray, {
 			$of("Eras"_s),
 			$of($$new($StringArray, {
-				u"f\u00f6re Kristus"_s,
+				u"före Kristus"_s,
 				"efter Kristus"_s
 			}))
 		}),
@@ -244,7 +244,7 @@ $ObjectArray2* FormatData_sv::getContents() {
 			$of("NumberPatterns"_s),
 			$of($$new($StringArray, {
 				"#,##0.###;-#,##0.###"_s,
-				u"\u00a4 #,##0.00;-\u00a4 #,##0.00"_s,
+				u"¤ #,##0.00;-¤ #,##0.00"_s,
 				"#,##0 %"_s
 			}))
 		}),
@@ -252,16 +252,16 @@ $ObjectArray2* FormatData_sv::getContents() {
 			$of("NumberElements"_s),
 			$of($$new($StringArray, {
 				","_s,
-				u"\u00a0"_s,
+				u" "_s,
 				";"_s,
 				"%"_s,
 				"0"_s,
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
-				u"\ufffd"_s
+				u"‰"_s,
+				u"∞"_s,
+				u"�"_s
 			}))
 		}),
 		$$new($ObjectArray, {

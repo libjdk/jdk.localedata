@@ -46,7 +46,7 @@ $ObjectArray2* FormatData_fr_CM::getContents() {
 		"midi"_s,
 		"du matin"_s,
 		""_s,
-		u"de l\u2019apr\u00e8s-midi"_s,
+		u"de l’après-midi"_s,
 		""_s,
 		"du soir"_s,
 		""_s,

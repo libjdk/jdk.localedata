@@ -45,7 +45,7 @@ $ObjectArray2* LocaleNames_sl::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("sl"_s),
-			$of(u"Sloven\u0161\u010dina"_s)
+			$of(u"Slovenščina"_s)
 		})
 	});
 }

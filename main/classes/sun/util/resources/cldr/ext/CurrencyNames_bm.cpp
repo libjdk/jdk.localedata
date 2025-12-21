@@ -58,11 +58,11 @@ $ObjectArray2* CurrencyNames_bm::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("bif"_s),
-			$of(u"burundi Fra\u014b"_s)
+			$of(u"burundi Fraŋ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bwp"_s),
-			$of(u"b\u0254tisiwana Pula"_s)
+			$of(u"bɔtisiwana Pula"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cad"_s),
@@ -70,11 +70,11 @@ $ObjectArray2* CurrencyNames_bm::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("cdf"_s),
-			$of(u"kongole Fra\u014b"_s)
+			$of(u"kongole Fraŋ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("chf"_s),
-			$of(u"suwisi Fra\u014b"_s)
+			$of(u"suwisi Fraŋ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cny"_s),
@@ -82,11 +82,11 @@ $ObjectArray2* CurrencyNames_bm::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("cve"_s),
-			$of(u"capiv\u025brdi Esekudo"_s)
+			$of(u"capivɛrdi Esekudo"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("djf"_s),
-			$of(u"jibuti Fra\u014b"_s)
+			$of(u"jibuti Fraŋ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("dzd"_s),
@@ -110,7 +110,7 @@ $ObjectArray2* CurrencyNames_bm::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("gbp"_s),
-			$of(u"angil\u025b Livri"_s)
+			$of(u"angilɛ Livri"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ghc"_s),
@@ -122,15 +122,15 @@ $ObjectArray2* CurrencyNames_bm::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("gns"_s),
-			$of(u"gine Fra\u014b"_s)
+			$of(u"gine Fraŋ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("inr"_s),
-			$of(u"\u0190ndu Rupi"_s)
+			$of(u"Ɛndu Rupi"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("jpy"_s),
-			$of(u"zap\u0254ne Y\u025bn"_s)
+			$of(u"zapɔne Yɛn"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kes"_s),
@@ -138,7 +138,7 @@ $ObjectArray2* CurrencyNames_bm::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("kmf"_s),
-			$of(u"kom\u0254ri Fra\u014b"_s)
+			$of(u"komɔri Fraŋ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lrd"_s),
@@ -154,19 +154,19 @@ $ObjectArray2* CurrencyNames_bm::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("mad"_s),
-			$of(u"mar\u0254ku Diram"_s)
+			$of(u"marɔku Diram"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mga"_s),
-			$of(u"madagasikari Fra\u014b"_s)
+			$of(u"madagasikari Fraŋ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mro"_s),
-			$of(u"m\u0254ritani Uguwiya (1973\u20132017)"_s)
+			$of(u"mɔritani Uguwiya (1973–2017)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mru"_s),
-			$of(u"m\u0254ritani Uguwiya"_s)
+			$of(u"mɔritani Uguwiya"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mur"_s),
@@ -186,11 +186,11 @@ $ObjectArray2* CurrencyNames_bm::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ngn"_s),
-			$of(u"nizeriya N\u025bra"_s)
+			$of(u"nizeriya Nɛra"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("rwf"_s),
-			$of(u"ruwanda Fra\u014b"_s)
+			$of(u"ruwanda Fraŋ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sar"_s),
@@ -198,7 +198,7 @@ $ObjectArray2* CurrencyNames_bm::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("scr"_s),
-			$of(u"ses\u025bli Rupi"_s)
+			$of(u"sesɛli Rupi"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sdg"_s),
@@ -210,11 +210,11 @@ $ObjectArray2* CurrencyNames_bm::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("shp"_s),
-			$of(u"\u0190l\u025bni-Senu Livri"_s)
+			$of(u"Ɛlɛni-Senu Livri"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sll"_s),
-			$of(u"siyeralew\u0254ni Lew\u0254ni"_s)
+			$of(u"siyeralewɔni Lewɔni"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sos"_s),
@@ -222,7 +222,7 @@ $ObjectArray2* CurrencyNames_bm::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("std"_s),
-			$of(u"sawotome Dobra (1977\u20132017)"_s)
+			$of(u"sawotome Dobra (1977–2017)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("stn"_s),
@@ -250,11 +250,11 @@ $ObjectArray2* CurrencyNames_bm::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("xaf"_s),
-			$of(u"sefa Fra\u014b (BEAC)"_s)
+			$of(u"sefa Fraŋ (BEAC)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xof"_s),
-			$of(u"sefa Fra\u014b (BCEAO)"_s)
+			$of(u"sefa Fraŋ (BCEAO)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("zar"_s),
@@ -262,7 +262,7 @@ $ObjectArray2* CurrencyNames_bm::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("zmk"_s),
-			$of(u"zambi Kwaca (1968\u20132012)"_s)
+			$of(u"zambi Kwaca (1968–2012)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("zmw"_s),

@@ -42,7 +42,7 @@ $ObjectArray2* FormatData_ur_IN::getContents() {
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("field.era"_s),
-			$of(u"\u062f\u0648\u0631"_s)
+			$of(u"دور"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.gmtFormat"_s),
@@ -50,7 +50,7 @@ $ObjectArray2* FormatData_ur_IN::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.regionFormat.daylight"_s),
-			$of(u"{0} \u062f\u0646 \u06a9\u0627 \u0648\u0642\u062a"_s)
+			$of(u"{0} دن کا وقت"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("DefaultNumberingSystem"_s),
@@ -59,16 +59,16 @@ $ObjectArray2* FormatData_ur_IN::getContents() {
 		$$new($ObjectArray, {
 			$of("arabext.NumberElements"_s),
 			$of($$new($StringArray, {
-				u"\u066b"_s,
-				u"\u066c"_s,
+				u"٫"_s,
+				u"٬"_s,
 				";"_s,
 				"%"_s,
-				u"\u06f0"_s,
+				u"۰"_s,
 				"#"_s,
 				u"\u200e-\u200e"_s,
-				u"\u00d7\u06f1\u06f0^"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
+				u"×۱۰^"_s,
+				u"‰"_s,
+				u"∞"_s,
 				"NaN"_s,
 				""_s,
 				""_s
@@ -78,9 +78,9 @@ $ObjectArray2* FormatData_ur_IN::getContents() {
 			$of("arabext.NumberPatterns"_s),
 			$of($$new($StringArray, {
 				"#,##0.###"_s,
-				u"\u00a4\u00a0#,##,##0.00"_s,
+				u"¤ #,##,##0.00"_s,
 				"#,##0%"_s,
-				u"\u00a4#,##0.00;(\u00a4#,##0.00)"_s
+				u"¤#,##0.00;(¤#,##0.00)"_s
 			}))
 		})
 	}));

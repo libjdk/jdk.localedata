@@ -42,55 +42,55 @@ $ObjectArray2* LocaleNames_to::getContents() {
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("001"_s),
-			$of(u"M\u0101mani"_s)
+			$of(u"Māmani"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("002"_s),
-			$of(u"\u02bbAfilika"_s)
+			$of(u"ʻAfilika"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("003"_s),
-			$of(u"\u02bbAmelika tokelau"_s)
+			$of(u"ʻAmelika tokelau"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("005"_s),
-			$of(u"\u02bbAmelika tonga"_s)
+			$of(u"ʻAmelika tonga"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("009"_s),
-			$of(u"\u02bbOs\u0113nia"_s)
+			$of(u"ʻOsēnia"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("011"_s),
-			$of(u"\u02bbAfilika fakahihifo"_s)
+			$of(u"ʻAfilika fakahihifo"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("013"_s),
-			$of(u"\u02bbAmelika lotoloto"_s)
+			$of(u"ʻAmelika lotoloto"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("014"_s),
-			$of(u"\u02bbAfilika fakahahake"_s)
+			$of(u"ʻAfilika fakahahake"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("015"_s),
-			$of(u"\u02bbAfilika fakatokelau"_s)
+			$of(u"ʻAfilika fakatokelau"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("017"_s),
-			$of(u"\u02bbAfilika lotoloto"_s)
+			$of(u"ʻAfilika lotoloto"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("018"_s),
-			$of(u"\u02bbAfilika fakatonga"_s)
+			$of(u"ʻAfilika fakatonga"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("019"_s),
-			$of(u"Ongo \u02bbAmelika"_s)
+			$of(u"Ongo ʻAmelika"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("021"_s),
-			$of(u"\u02bbAmelika fakatokelau"_s)
+			$of(u"ʻAmelika fakatokelau"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("029"_s),
@@ -98,87 +98,87 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("030"_s),
-			$of(u"\u02bb\u0112sia fakahahake"_s)
+			$of(u"ʻĒsia fakahahake"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("034"_s),
-			$of(u"\u02bb\u0112sia fakatonga"_s)
+			$of(u"ʻĒsia fakatonga"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("035"_s),
-			$of(u"\u02bb\u0112sia fakatongahahake"_s)
+			$of(u"ʻĒsia fakatongahahake"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("039"_s),
-			$of(u"\u02bbEulope fakatonga"_s)
+			$of(u"ʻEulope fakatonga"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("053"_s),
-			$of(u"\u02bbAositel\u0113l\u0113sia"_s)
+			$of(u"ʻAositelēlēsia"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("054"_s),
-			$of(u"Melan\u012bsia"_s)
+			$of(u"Melanīsia"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("057"_s),
-			$of(u"Potu fonua Mikolon\u012bsia"_s)
+			$of(u"Potu fonua Mikolonīsia"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("061"_s),
-			$of(u"Polin\u012bsia"_s)
+			$of(u"Polinīsia"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("142"_s),
-			$of(u"\u02bb\u0112sia"_s)
+			$of(u"ʻĒsia"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("143"_s),
-			$of(u"\u02bb\u0112sia lotoloto"_s)
+			$of(u"ʻĒsia lotoloto"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("145"_s),
-			$of(u"\u02bb\u0112sia fakahihifo"_s)
+			$of(u"ʻĒsia fakahihifo"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("150"_s),
-			$of(u"\u02bbEulope"_s)
+			$of(u"ʻEulope"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("151"_s),
-			$of(u"\u02bbEulope fakahahake"_s)
+			$of(u"ʻEulope fakahahake"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("154"_s),
-			$of(u"\u02bbEulope fakatokelau"_s)
+			$of(u"ʻEulope fakatokelau"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("155"_s),
-			$of(u"\u02bbEulope fakahihifo"_s)
+			$of(u"ʻEulope fakahihifo"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("202"_s),
-			$of(u"\u02bbAfilika fakasahala-tonga"_s)
+			$of(u"ʻAfilika fakasahala-tonga"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("419"_s),
-			$of(u"\u02bbAmelika fakalatina"_s)
+			$of(u"ʻAmelika fakalatina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("AC"_s),
-			$of(u"Motu \u02bbAsenisini"_s)
+			$of(u"Motu ʻAsenisini"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("AD"_s),
-			$of(u"\u02bbAnitola"_s)
+			$of(u"ʻAnitola"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("AE"_s),
-			$of(u"\u02bbAlepea Fakatahataha"_s)
+			$of(u"ʻAlepea Fakatahataha"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("AF"_s),
-			$of(u"\u02bbAfik\u0101nisitani"_s)
+			$of(u"ʻAfikānisitani"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("AG"_s),
@@ -190,59 +190,59 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("AL"_s),
-			$of(u"\u02bbAlipania"_s)
+			$of(u"ʻAlipania"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("AM"_s),
-			$of(u"\u02bb\u0100menia"_s)
+			$of(u"ʻĀmenia"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("AO"_s),
-			$of(u"\u02bbAngikola"_s)
+			$of(u"ʻAngikola"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("AQ"_s),
-			$of(u"\u02bbAnit\u0101tika"_s)
+			$of(u"ʻAnitātika"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("AR"_s),
-			$of(u"\u02bbAsenitina"_s)
+			$of(u"ʻAsenitina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("AS"_s),
-			$of(u"Ha\u02bbamoa \u02bbAmelika"_s)
+			$of(u"Haʻamoa ʻAmelika"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("AT"_s),
-			$of(u"\u02bbAositulia"_s)
+			$of(u"ʻAositulia"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("AU"_s),
-			$of(u"\u02bbAositel\u0113lia"_s)
+			$of(u"ʻAositelēlia"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("AW"_s),
-			$of(u"\u02bbAlupa"_s)
+			$of(u"ʻAlupa"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("AX"_s),
-			$of(u"\u02bbOtumotu \u02bbAlani"_s)
+			$of(u"ʻOtumotu ʻAlani"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("AZ"_s),
-			$of(u"\u02bbAsapaisani"_s)
+			$of(u"ʻAsapaisani"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("BA"_s),
-			$of(u"Posinia mo Hesik\u014dvina"_s)
+			$of(u"Posinia mo Hesikōvina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("BB"_s),
-			$of(u"P\u0101peitosi"_s)
+			$of(u"Pāpeitosi"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("BD"_s),
-			$of(u"Pengil\u0101tesi"_s)
+			$of(u"Pengilātesi"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("BE"_s),
@@ -270,11 +270,11 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("BL"_s),
-			$of(u"S\u0101 Pat\u0113lemi"_s)
+			$of(u"Sā Patēlemi"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("BM"_s),
-			$of(u"P\u0113muta"_s)
+			$of(u"Pēmuta"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("BN"_s),
@@ -282,15 +282,15 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("BO"_s),
-			$of(u"Pol\u012bvia"_s)
+			$of(u"Polīvia"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("BQ"_s),
-			$of(u"Kalipiane fakah\u014dlani"_s)
+			$of(u"Kalipiane fakahōlani"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("BR"_s),
-			$of(u"Pal\u0101sili"_s)
+			$of(u"Palāsili"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("BS"_s),
@@ -298,7 +298,7 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("BT"_s),
-			$of(u"P\u016btani"_s)
+			$of(u"Pūtani"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("BV"_s),
@@ -318,11 +318,11 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("CA"_s),
-			$of(u"K\u0101nata"_s)
+			$of(u"Kānata"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("CC"_s),
-			$of(u"\u02bbOtumotu Koko"_s)
+			$of(u"ʻOtumotu Koko"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("CD"_s),
@@ -330,7 +330,7 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("CF"_s),
-			$of(u"Lepupelika \u02bbAfilika Lotoloto"_s)
+			$of(u"Lepupelika ʻAfilika Lotoloto"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("CG"_s),
@@ -342,11 +342,11 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("CI"_s),
-			$of(u"Matafonua \u02bbAivol\u012b"_s)
+			$of(u"Matafonua ʻAivolī"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("CK"_s),
-			$of(u"\u02bbOtumotu Kuki"_s)
+			$of(u"ʻOtumotu Kuki"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("CL"_s),
@@ -378,7 +378,7 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("CV"_s),
-			$of(u"Mui\u02bbi V\u0113te"_s)
+			$of(u"Muiʻi Vēte"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("CW"_s),
@@ -394,7 +394,7 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("CZ"_s),
-			$of(u"S\u0113kia"_s)
+			$of(u"Sēkia"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("DE"_s),
@@ -402,7 +402,7 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("DG"_s),
-			$of(u"Tieko K\u0101sia"_s)
+			$of(u"Tieko Kāsia"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("DJ"_s),
@@ -410,7 +410,7 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("DK"_s),
-			$of(u"Tenima\u02bbake"_s)
+			$of(u"Tenimaʻake"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("DM"_s),
@@ -422,7 +422,7 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("DZ"_s),
-			$of(u"\u02bbAlisilia"_s)
+			$of(u"ʻAlisilia"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("EA"_s),
@@ -430,15 +430,15 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("EC"_s),
-			$of(u"\u02bbEkuetoa"_s)
+			$of(u"ʻEkuetoa"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("EE"_s),
-			$of(u"\u02bbEsit\u014dnia"_s)
+			$of(u"ʻEsitōnia"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("EG"_s),
-			$of(u"\u02bbIsipite"_s)
+			$of(u"ʻIsipite"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("EH"_s),
@@ -446,7 +446,7 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ER"_s),
-			$of(u"\u02bbElitulia"_s)
+			$of(u"ʻElitulia"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ES"_s),
@@ -454,15 +454,15 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ET"_s),
-			$of(u"\u02bb\u012ati\u014dpia"_s)
+			$of(u"ʻĪtiōpia"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("EU"_s),
-			$of(u"\u02bbEulope fakatahataha"_s)
+			$of(u"ʻEulope fakatahataha"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("EZ"_s),
-			$of(u"\u02bbEulope fekau\u02bbaki-pa\u02bbanga"_s)
+			$of(u"ʻEulope fekauʻaki-paʻanga"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("FI"_s),
@@ -474,19 +474,19 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("FK"_s),
-			$of(u"\u02bbOtumotu Fokulani"_s)
+			$of(u"ʻOtumotu Fokulani"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("FM"_s),
-			$of(u"Mikolon\u012bsia"_s)
+			$of(u"Mikolonīsia"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("FO"_s),
-			$of(u"\u02bbOtumotu Faloe"_s)
+			$of(u"ʻOtumotu Faloe"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("FR"_s),
-			$of(u"Falanis\u0113"_s)
+			$of(u"Falanisē"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("GA"_s),
@@ -494,23 +494,23 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("GB"_s),
-			$of(u"Pilit\u0101nia"_s)
+			$of(u"Pilitānia"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("GD"_s),
-			$of(u"Kelenat\u0101"_s)
+			$of(u"Kelenatā"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("GE"_s),
-			$of(u"Se\u014dsia"_s)
+			$of(u"Seōsia"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("GF"_s),
-			$of(u"Kuiana fakafalanis\u0113"_s)
+			$of(u"Kuiana fakafalanisē"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("GG"_s),
-			$of(u"Kuenis\u012b"_s)
+			$of(u"Kuenisī"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("GH"_s),
@@ -518,7 +518,7 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("GI"_s),
-			$of(u"Sipal\u0101lit\u0101"_s)
+			$of(u"Sipalālitā"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("GL"_s),
@@ -538,7 +538,7 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("GQ"_s),
-			$of(u"\u02bbEkueta Kini"_s)
+			$of(u"ʻEkueta Kini"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("GR"_s),
@@ -546,7 +546,7 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("GS"_s),
-			$of(u"\u02bbOtumotu Se\u014dsia-tonga mo Saniuisi-tonga"_s)
+			$of(u"ʻOtumotu Seōsia-tonga mo Saniuisi-tonga"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("GT"_s),
@@ -570,7 +570,7 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("HM"_s),
-			$of(u"\u02bbOtumotu Heati mo Makitonali"_s)
+			$of(u"ʻOtumotu Heati mo Makitonali"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("HN"_s),
@@ -590,19 +590,19 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("IC"_s),
-			$of(u"\u02bbOtumotu Kaneli"_s)
+			$of(u"ʻOtumotu Kaneli"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ID"_s),
-			$of(u"\u02bbIniton\u0113sia"_s)
+			$of(u"ʻInitonēsia"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("IE"_s),
-			$of(u"\u02bbAealani"_s)
+			$of(u"ʻAealani"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("IL"_s),
-			$of(u"\u02bbIsileli"_s)
+			$of(u"ʻIsileli"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("IM"_s),
@@ -610,31 +610,31 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("IN"_s),
-			$of(u"\u02bbInitia"_s)
+			$of(u"ʻInitia"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("IO"_s),
-			$of(u"Potu fonua moana \u02bbInitia fakapilit\u0101nia"_s)
+			$of(u"Potu fonua moana ʻInitia fakapilitānia"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("IQ"_s),
-			$of(u"\u02bbIlaaki"_s)
+			$of(u"ʻIlaaki"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("IR"_s),
-			$of(u"\u02bbIlaani"_s)
+			$of(u"ʻIlaani"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("IS"_s),
-			$of(u"\u02bbAisilani"_s)
+			$of(u"ʻAisilani"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("IT"_s),
-			$of(u"\u02bb\u012atali"_s)
+			$of(u"ʻĪtali"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("JE"_s),
-			$of(u"Selus\u012b"_s)
+			$of(u"Selusī"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("JM"_s),
@@ -650,15 +650,15 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("KE"_s),
-			$of(u"Keni\u0101"_s)
+			$of(u"Keniā"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("KG"_s),
-			$of(u"K\u012bkisitani"_s)
+			$of(u"Kīkisitani"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("KH"_s),
-			$of(u"Kamip\u014dtia"_s)
+			$of(u"Kamipōtia"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("KI"_s),
@@ -670,15 +670,15 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("KN"_s),
-			$of(u"S\u0101 Kitisi mo Nevisi"_s)
+			$of(u"Sā Kitisi mo Nevisi"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("KP"_s),
-			$of(u"K\u014dlea tokelau"_s)
+			$of(u"Kōlea tokelau"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("KR"_s),
-			$of(u"K\u014dlea tonga"_s)
+			$of(u"Kōlea tonga"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("KW"_s),
@@ -686,7 +686,7 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("KY"_s),
-			$of(u"\u02bbOtumotu Keimeni"_s)
+			$of(u"ʻOtumotu Keimeni"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("KZ"_s),
@@ -702,7 +702,7 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("LC"_s),
-			$of(u"S\u0101 L\u016bsia"_s)
+			$of(u"Sā Lūsia"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("LI"_s),
@@ -710,7 +710,7 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("LK"_s),
-			$of(u"S\u012blangik\u0101"_s)
+			$of(u"Sīlangikā"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("LR"_s),
@@ -734,7 +734,7 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("LY"_s),
-			$of(u"L\u012bpia"_s)
+			$of(u"Līpia"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("MA"_s),
@@ -754,7 +754,7 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("MF"_s),
-			$of(u"S\u0101 M\u0101tini (fakafalanis\u0113)"_s)
+			$of(u"Sā Mātini (fakafalanisē)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("MG"_s),
@@ -762,23 +762,23 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("MH"_s),
-			$of(u"\u02bbOtumotu M\u0101solo"_s)
+			$of(u"ʻOtumotu Māsolo"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("MK"_s),
-			$of(u"Maset\u014dnia fakatokelau"_s)
+			$of(u"Masetōnia fakatokelau"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ML"_s),
-			$of(u"M\u0101li"_s)
+			$of(u"Māli"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("MM"_s),
-			$of(u"Mianim\u0101 (Pema)"_s)
+			$of(u"Mianimā (Pema)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("MN"_s),
-			$of(u"Mongok\u014dlia"_s)
+			$of(u"Mongokōlia"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("MO"_s),
@@ -786,11 +786,11 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("MP"_s),
-			$of(u"\u02bbOtumotu Maliana tokelau"_s)
+			$of(u"ʻOtumotu Maliana tokelau"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("MQ"_s),
-			$of(u"M\u0101tiniki"_s)
+			$of(u"Mātiniki"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("MR"_s),
@@ -798,7 +798,7 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("MS"_s),
-			$of(u"Mo\u02bbungaselati"_s)
+			$of(u"Moʻungaselati"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("MT"_s),
@@ -822,11 +822,11 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("MY"_s),
-			$of(u"Mal\u0113sia"_s)
+			$of(u"Malēsia"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("MZ"_s),
-			$of(u"Mos\u0113mipiki"_s)
+			$of(u"Mosēmipiki"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("NA"_s),
@@ -834,7 +834,7 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("NC"_s),
-			$of(u"Niu Kalet\u014dnia"_s)
+			$of(u"Niu Kaletōnia"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("NE"_s),
@@ -842,7 +842,7 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("NF"_s),
-			$of(u"Motu N\u014dfoliki"_s)
+			$of(u"Motu Nōfoliki"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("NG"_s),
@@ -854,11 +854,11 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("NL"_s),
-			$of(u"H\u014dlani"_s)
+			$of(u"Hōlani"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("NO"_s),
-			$of(u"Noau\u0113"_s)
+			$of(u"Noauē"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("NP"_s),
@@ -870,27 +870,27 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("NU"_s),
-			$of(u"Niu\u0113"_s)
+			$of(u"Niuē"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("NZ"_s),
-			$of(u"Nu\u02bbusila"_s)
+			$of(u"Nuʻusila"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("OM"_s),
-			$of(u"\u02bbOmani"_s)
+			$of(u"ʻOmani"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("PA"_s),
-			$of(u"Panam\u0101"_s)
+			$of(u"Panamā"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("PE"_s),
-			$of(u"Pel\u016b"_s)
+			$of(u"Pelū"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("PF"_s),
-			$of(u"Polinisia fakafalanis\u0113"_s)
+			$of(u"Polinisia fakafalanisē"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("PG"_s),
@@ -902,7 +902,7 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("PK"_s),
-			$of(u"P\u0101kisitani"_s)
+			$of(u"Pākisitani"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("PL"_s),
@@ -910,15 +910,15 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("PM"_s),
-			$of(u"S\u0101 Piea mo Mikeloni"_s)
+			$of(u"Sā Piea mo Mikeloni"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("PN"_s),
-			$of(u"\u02bbOtumotu Pitikeni"_s)
+			$of(u"ʻOtumotu Pitikeni"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("PR"_s),
-			$of(u"Pu\u0113to Liko"_s)
+			$of(u"Puēto Liko"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("PS"_s),
@@ -938,51 +938,51 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("QA"_s),
-			$of(u"Kat\u0101"_s)
+			$of(u"Katā"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("QO"_s),
-			$of(u"\u02bbOs\u0113nia mama\u02bbo"_s)
+			$of(u"ʻOsēnia mamaʻo"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("RE"_s),
-			$of(u"L\u0113unioni"_s)
+			$of(u"Lēunioni"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("RO"_s),
-			$of(u"Lom\u0113nia"_s)
+			$of(u"Lomēnia"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("RS"_s),
-			$of(u"S\u0113pia"_s)
+			$of(u"Sēpia"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("RU"_s),
-			$of(u"L\u016bsia"_s)
+			$of(u"Lūsia"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("RW"_s),
-			$of(u"Luanit\u0101"_s)
+			$of(u"Luanitā"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("SA"_s),
-			$of(u"Saute \u02bbAlepea"_s)
+			$of(u"Saute ʻAlepea"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("SB"_s),
-			$of(u"\u02bbOtumotu Solomone"_s)
+			$of(u"ʻOtumotu Solomone"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("SC"_s),
-			$of(u"\u02bbOtumotu Seiseli"_s)
+			$of(u"ʻOtumotu Seiseli"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("SD"_s),
-			$of(u"S\u016bteni"_s)
+			$of(u"Sūteni"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("SE"_s),
-			$of(u"Su\u0113teni"_s)
+			$of(u"Suēteni"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("SG"_s),
@@ -990,19 +990,19 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("SH"_s),
-			$of(u"S\u0101 Helena"_s)
+			$of(u"Sā Helena"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("SI"_s),
-			$of(u"Sil\u014dvenia"_s)
+			$of(u"Silōvenia"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("SJ"_s),
-			$of(u"Sivolop\u0101ti mo Sani Maieni"_s)
+			$of(u"Sivolopāti mo Sani Maieni"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("SK"_s),
-			$of(u"Sil\u014dvakia"_s)
+			$of(u"Silōvakia"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("SL"_s),
@@ -1010,7 +1010,7 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("SM"_s),
-			$of(u"S\u0101 Malino"_s)
+			$of(u"Sā Malino"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("SN"_s),
@@ -1018,7 +1018,7 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("SO"_s),
-			$of(u"S\u014dmalia"_s)
+			$of(u"Sōmalia"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("SR"_s),
@@ -1026,27 +1026,27 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("SS"_s),
-			$of(u"S\u016btani fakatonga"_s)
+			$of(u"Sūtani fakatonga"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ST"_s),
-			$of(u"Sao Tom\u0113 mo Pilinisipe"_s)
+			$of(u"Sao Tomē mo Pilinisipe"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("SV"_s),
-			$of(u"\u02bbEle Salavatoa"_s)
+			$of(u"ʻEle Salavatoa"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("SX"_s),
-			$of(u"S\u0101 M\u0101tini (fakah\u014dlani)"_s)
+			$of(u"Sā Mātini (fakahōlani)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("SY"_s),
-			$of(u"S\u012blia"_s)
+			$of(u"Sīlia"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("SZ"_s),
-			$of(u"\u02bbEsuatini"_s)
+			$of(u"ʻEsuatini"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("TA"_s),
@@ -1054,15 +1054,15 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("TC"_s),
-			$of(u"\u02bbOtumotu Tuki mo Kaikosi"_s)
+			$of(u"ʻOtumotu Tuki mo Kaikosi"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("TD"_s),
-			$of(u"S\u0101ti"_s)
+			$of(u"Sāti"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("TF"_s),
-			$of(u"Potu fonua tonga fakafalanis\u0113"_s)
+			$of(u"Potu fonua tonga fakafalanisē"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("TG"_s),
@@ -1086,11 +1086,11 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("TM"_s),
-			$of(u"T\u016bkimenisitani"_s)
+			$of(u"Tūkimenisitani"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("TN"_s),
-			$of(u"Tun\u012bsia"_s)
+			$of(u"Tunīsia"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("TO"_s),
@@ -1106,7 +1106,7 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("TV"_s),
-			$of(u"T\u016bvalu"_s)
+			$of(u"Tūvalu"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("TW"_s),
@@ -1114,35 +1114,35 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("TZ"_s),
-			$of(u"Tenis\u0101nia"_s)
+			$of(u"Tenisānia"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("UA"_s),
-			$of(u"\u02bb\u016akala\u02bbine"_s)
+			$of(u"ʻŪkalaʻine"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("UG"_s),
-			$of(u"\u02bbIukanit\u0101"_s)
+			$of(u"ʻIukanitā"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("UM"_s),
-			$of(u"\u02bbOtumotu si\u02bbi \u02bbo \u02bbAmelika"_s)
+			$of(u"ʻOtumotu siʻi ʻo ʻAmelika"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("UN"_s),
-			$of(u"\u02bb\u016a fonua fakatahataha"_s)
+			$of(u"ʻŪ fonua fakatahataha"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("US"_s),
-			$of(u"Pule\u02bbanga fakatahataha \u02bbAmelika"_s)
+			$of(u"Puleʻanga fakatahataha ʻAmelika"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("UY"_s),
-			$of(u"\u02bbUlukuai"_s)
+			$of(u"ʻUlukuai"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("UZ"_s),
-			$of(u"\u02bbUsipekitani"_s)
+			$of(u"ʻUsipekitani"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("VA"_s),
@@ -1150,7 +1150,7 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("VC"_s),
-			$of(u"S\u0101 Viniseni mo Kulenatini"_s)
+			$of(u"Sā Viniseni mo Kulenatini"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("VE"_s),
@@ -1158,11 +1158,11 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("VG"_s),
-			$of(u"\u02bbOtumotu Vilikini fakapilit\u0101nia"_s)
+			$of(u"ʻOtumotu Vilikini fakapilitānia"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("VI"_s),
-			$of(u"\u02bbOtumotu Vilikini faka\u02bbamelika"_s)
+			$of(u"ʻOtumotu Vilikini fakaʻamelika"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("VN"_s),
@@ -1174,15 +1174,15 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("WF"_s),
-			$of(u"\u02bbUvea mo Futuna"_s)
+			$of(u"ʻUvea mo Futuna"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("WS"_s),
-			$of(u"Ha\u02bbamoa"_s)
+			$of(u"Haʻamoa"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("XA"_s),
-			$of(u"fasi\u02bbalea loi"_s)
+			$of(u"fasiʻalea loi"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("XB"_s),
@@ -1190,7 +1190,7 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("XK"_s),
-			$of(u"K\u014dsovo"_s)
+			$of(u"Kōsovo"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("YE"_s),
@@ -1202,7 +1202,7 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ZA"_s),
-			$of(u"\u02bbAfilika tonga"_s)
+			$of(u"ʻAfilika tonga"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ZM"_s),
@@ -1214,55 +1214,55 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ZZ"_s),
-			$of(u"Potu fonua ta\u02bbe\u02bbiloa pe hala"_s)
+			$of(u"Potu fonua taʻeʻiloa pe hala"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("aa"_s),
-			$of(u"lea faka\u02bbaf\u0101la"_s)
+			$of(u"lea fakaʻafāla"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ab"_s),
-			$of(u"lea faka\u02bbapakasia"_s)
+			$of(u"lea fakaʻapakasia"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ae"_s),
-			$of(u"lea faka\u02bbavesitani"_s)
+			$of(u"lea fakaʻavesitani"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("af"_s),
-			$of(u"lea faka\u02bbafilikana"_s)
+			$of(u"lea fakaʻafilikana"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ak"_s),
-			$of(u"lea faka\u02bbakani"_s)
+			$of(u"lea fakaʻakani"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("am"_s),
-			$of(u"lea faka\u02bbameliki"_s)
+			$of(u"lea fakaʻameliki"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("an"_s),
-			$of(u"lea faka\u02bbalakoni"_s)
+			$of(u"lea fakaʻalakoni"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ar"_s),
-			$of(u"lea faka\u02bbalepea"_s)
+			$of(u"lea fakaʻalepea"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("as"_s),
-			$of(u"lea faka\u02bbasamia"_s)
+			$of(u"lea fakaʻasamia"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("av"_s),
-			$of(u"lea faka\u02bbavaliki"_s)
+			$of(u"lea fakaʻavaliki"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ay"_s),
-			$of(u"lea faka\u02bbaimala"_s)
+			$of(u"lea fakaʻaimala"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("az"_s),
-			$of(u"lea faka\u02bbasapaisani"_s)
+			$of(u"lea fakaʻasapaisani"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ba"_s),
@@ -1286,7 +1286,7 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("bn"_s),
-			$of(u"lea fakap\u0101ngil\u0101"_s)
+			$of(u"lea fakapāngilā"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bo"_s),
@@ -1314,11 +1314,11 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("co"_s),
-			$of(u"lea fakak\u014dsika"_s)
+			$of(u"lea fakakōsika"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cr"_s),
-			$of(u"lea fakakel\u012b"_s)
+			$of(u"lea fakakelī"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cs"_s),
@@ -1334,11 +1334,11 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("cy"_s),
-			$of(u"lea fakau\u0113lesi"_s)
+			$of(u"lea fakauēlesi"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("da"_s),
-			$of(u"lea fakatenima\u02bbake"_s)
+			$of(u"lea fakatenimaʻake"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("de"_s),
@@ -1350,11 +1350,11 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("dz"_s),
-			$of(u"lea fakatis\u014dngika"_s)
+			$of(u"lea fakatisōngika"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ee"_s),
-			$of(u"lea faka\u02bbeue"_s)
+			$of(u"lea fakaʻeue"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("el"_s),
@@ -1362,31 +1362,31 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("en"_s),
-			$of(u"lea fakap\u0101langi"_s)
+			$of(u"lea fakapālangi"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("eo"_s),
-			$of(u"lea faka\u02bbesipulanito"_s)
+			$of(u"lea fakaʻesipulanito"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("es"_s),
-			$of(u"lea fakasip\u0113nisi"_s)
+			$of(u"lea fakasipēnisi"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("et"_s),
-			$of(u"lea faka\u02bbesit\u014dnia"_s)
+			$of(u"lea fakaʻesitōnia"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("eu"_s),
-			$of(u"lea fakap\u0101siki"_s)
+			$of(u"lea fakapāsiki"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("fa"_s),
-			$of(u"lea fakap\u0113sia"_s)
+			$of(u"lea fakapēsia"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ff"_s),
-			$of(u"lea fakaful\u0101"_s)
+			$of(u"lea fakafulā"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("fi"_s),
@@ -1402,7 +1402,7 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("fr"_s),
-			$of(u"lea fakafalanis\u0113"_s)
+			$of(u"lea fakafalanisē"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("fy"_s),
@@ -1410,7 +1410,7 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ga"_s),
-			$of(u"lea faka\u02bbaelani"_s)
+			$of(u"lea fakaʻaelani"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gd"_s),
@@ -1430,7 +1430,7 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("gv"_s),
-			$of(u"lea fakamangik\u012b"_s)
+			$of(u"lea fakamangikī"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ha"_s),
@@ -1438,11 +1438,11 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("he"_s),
-			$of(u"lea fakahepel\u016b"_s)
+			$of(u"lea fakahepelū"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("hi"_s),
-			$of(u"lea fakahinit\u012b"_s)
+			$of(u"lea fakahinitī"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ho"_s),
@@ -1462,7 +1462,7 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("hy"_s),
-			$of(u"lea faka\u02bb\u0101menia"_s)
+			$of(u"lea fakaʻāmenia"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("hz"_s),
@@ -1470,43 +1470,43 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ia"_s),
-			$of(u"lea fakavaha\u02bbalea"_s)
+			$of(u"lea fakavahaʻalea"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("id"_s),
-			$of(u"lea faka\u02bbinit\u014dnesia"_s)
+			$of(u"lea fakaʻinitōnesia"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ie"_s),
-			$of(u"lea fakavaha\u02bbalingik\u0113"_s)
+			$of(u"lea fakavahaʻalingikē"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ig"_s),
-			$of(u"lea faka\u02bbikip\u014d"_s)
+			$of(u"lea fakaʻikipō"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ii"_s),
-			$of(u"lea fakasisiuani-\u012b"_s)
+			$of(u"lea fakasisiuani-ī"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ik"_s),
-			$of(u"lea faka\u02bbinupiaki"_s)
+			$of(u"lea fakaʻinupiaki"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("io"_s),
-			$of(u"lea faka\u02bbito"_s)
+			$of(u"lea fakaʻito"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("is"_s),
-			$of(u"lea faka\u02bbaisilani"_s)
+			$of(u"lea fakaʻaisilani"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("it"_s),
-			$of(u"lea faka\u02bb\u012btali"_s)
+			$of(u"lea fakaʻītali"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("iu"_s),
-			$of(u"lea faka\u02bbinuketituti"_s)
+			$of(u"lea fakaʻinuketituti"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ja"_s),
@@ -1518,11 +1518,11 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ka"_s),
-			$of(u"lea fakase\u014dsia"_s)
+			$of(u"lea fakaseōsia"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kg"_s),
-			$of(u"lea fakakongik\u014d"_s)
+			$of(u"lea fakakongikō"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ki"_s),
@@ -1538,11 +1538,11 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("kl"_s),
-			$of(u"lea fakakala\u02bbalisuti"_s)
+			$of(u"lea fakakalaʻalisuti"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("km"_s),
-			$of(u"lea fakakamip\u014dtia"_s)
+			$of(u"lea fakakamipōtia"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kn"_s),
@@ -1550,7 +1550,7 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ko"_s),
-			$of(u"lea fakak\u014dlea"_s)
+			$of(u"lea fakakōlea"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kr"_s),
@@ -1558,11 +1558,11 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ks"_s),
-			$of(u"lea fakak\u0101simila"_s)
+			$of(u"lea fakakāsimila"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ku"_s),
-			$of(u"lea fakakulit\u012b"_s)
+			$of(u"lea fakakulitī"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kv"_s),
@@ -1574,7 +1574,7 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ky"_s),
-			$of(u"lea fakak\u012bsisi"_s)
+			$of(u"lea fakakīsisi"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("la"_s),
@@ -1590,7 +1590,7 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("li"_s),
-			$of(u"lea fakalimip\u016bliki"_s)
+			$of(u"lea fakalimipūliki"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ln"_s),
@@ -1618,7 +1618,7 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("mh"_s),
-			$of(u"lea fakam\u0101solo"_s)
+			$of(u"lea fakamāsolo"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mi"_s),
@@ -1626,15 +1626,15 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("mk"_s),
-			$of(u"lea fakamasit\u014dnia"_s)
+			$of(u"lea fakamasitōnia"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ml"_s),
-			$of(u"lea faka\u02bbinitia-mal\u0101ialami"_s)
+			$of(u"lea fakaʻinitia-malāialami"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mn"_s),
-			$of(u"lea fakamongok\u014dlia"_s)
+			$of(u"lea fakamongokōlia"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mr"_s),
@@ -1658,7 +1658,7 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("nb"_s),
-			$of(u"lea fakanoua\u0113-pokimali"_s)
+			$of(u"lea fakanouaē-pokimali"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("nd"_s),
@@ -1670,19 +1670,19 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ng"_s),
-			$of(u"lea fakanetongik\u0101"_s)
+			$of(u"lea fakanetongikā"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("nl"_s),
-			$of(u"lea fakah\u014dlani"_s)
+			$of(u"lea fakahōlani"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("nn"_s),
-			$of(u"lea fakanoau\u0113-ninosiki"_s)
+			$of(u"lea fakanoauē-ninosiki"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("no"_s),
-			$of(u"lea fakanoua\u0113"_s)
+			$of(u"lea fakanouaē"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("nr"_s),
@@ -1698,31 +1698,31 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("oc"_s),
-			$of(u"lea faka\u02bbokitane"_s)
+			$of(u"lea fakaʻokitane"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("oj"_s),
-			$of(u"lea faka\u02bbosipiu\u0101"_s)
+			$of(u"lea fakaʻosipiuā"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("om"_s),
-			$of(u"lea faka\u02bbolomo"_s)
+			$of(u"lea fakaʻolomo"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("or"_s),
-			$of(u"lea faka-\u02bbotia"_s)
+			$of(u"lea faka-ʻotia"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("os"_s),
-			$of(u"lea faka\u02bbosetiki"_s)
+			$of(u"lea fakaʻosetiki"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pa"_s),
-			$of(u"lea fakap\u016bnusapi"_s)
+			$of(u"lea fakapūnusapi"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pi"_s),
-			$of(u"lea fakap\u0101li"_s)
+			$of(u"lea fakapāli"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pl"_s),
@@ -1730,7 +1730,7 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ps"_s),
-			$of(u"lea fakapasit\u014d"_s)
+			$of(u"lea fakapasitō"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pt"_s),
@@ -1742,7 +1742,7 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("rm"_s),
-			$of(u"lea fakalaito-lom\u0113nia"_s)
+			$of(u"lea fakalaito-lomēnia"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("rn"_s),
@@ -1750,15 +1750,15 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ro"_s),
-			$of(u"lea fakal\u014dmenia"_s)
+			$of(u"lea fakalōmenia"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ru"_s),
-			$of(u"lea fakal\u016bsia"_s)
+			$of(u"lea fakalūsia"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("rw"_s),
-			$of(u"lea fakakini\u0101uanita"_s)
+			$of(u"lea fakakiniāuanita"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sa"_s),
@@ -1766,11 +1766,11 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("sc"_s),
-			$of(u"lea fakasalet\u012bnia"_s)
+			$of(u"lea fakasaletīnia"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sd"_s),
-			$of(u"lea fakas\u012bniti"_s)
+			$of(u"lea fakasīniti"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("se"_s),
@@ -1778,11 +1778,11 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("sg"_s),
-			$of(u"lea fakasangik\u014d"_s)
+			$of(u"lea fakasangikō"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sh"_s),
-			$of(u"lea fakakuloisia-s\u0113pia"_s)
+			$of(u"lea fakakuloisia-sēpia"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("si"_s),
@@ -1790,7 +1790,7 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("sk"_s),
-			$of(u"lea fakasol\u0101vaki"_s)
+			$of(u"lea fakasolāvaki"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sl"_s),
@@ -1798,7 +1798,7 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("sm"_s),
-			$of(u"lea fakaha\u02bbamoa"_s)
+			$of(u"lea fakahaʻamoa"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sn"_s),
@@ -1810,11 +1810,11 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("sq"_s),
-			$of(u"lea faka\u02bbalap\u0113nia"_s)
+			$of(u"lea fakaʻalapēnia"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sr"_s),
-			$of(u"lea fakas\u0113pia"_s)
+			$of(u"lea fakasēpia"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ss"_s),
@@ -1826,11 +1826,11 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("su"_s),
-			$of(u"lea fakasunit\u0101"_s)
+			$of(u"lea fakasunitā"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sv"_s),
-			$of(u"lea fakasu\u0113teni"_s)
+			$of(u"lea fakasuēteni"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sw"_s),
@@ -1842,11 +1842,11 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("te"_s),
-			$of(u"lea faka\u02bbinitia-teluku"_s)
+			$of(u"lea fakaʻinitia-teluku"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("tg"_s),
-			$of(u"lea fakat\u0101siki"_s)
+			$of(u"lea fakatāsiki"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("th"_s),
@@ -1858,11 +1858,11 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("tk"_s),
-			$of(u"lea fakat\u0113kimeni"_s)
+			$of(u"lea fakatēkimeni"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("tl"_s),
-			$of(u"lea fakatak\u0101loka"_s)
+			$of(u"lea fakatakāloka"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("tn"_s),
@@ -1886,7 +1886,7 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("tw"_s),
-			$of(u"lea fakatusu\u012b"_s)
+			$of(u"lea fakatusuī"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ty"_s),
@@ -1894,23 +1894,23 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ug"_s),
-			$of(u"lea faka\u02bbuik\u016bli"_s)
+			$of(u"lea fakaʻuikūli"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("uk"_s),
-			$of(u"lea faka\u02bb\u016bkala\u02bbine"_s)
+			$of(u"lea fakaʻūkalaʻine"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ur"_s),
-			$of(u"lea faka\u02bb\u016bt\u016b"_s)
+			$of(u"lea fakaʻūtū"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("uz"_s),
-			$of(u"lea faka\u02bbusipeki"_s)
+			$of(u"lea fakaʻusipeki"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ve"_s),
-			$of(u"lea fakavenit\u0101"_s)
+			$of(u"lea fakavenitā"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("vi"_s),
@@ -1922,23 +1922,23 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("wa"_s),
-			$of(u"lea faka\u02bbualonia"_s)
+			$of(u"lea fakaʻualonia"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("wo"_s),
-			$of(u"lea faka\u02bbuolofo"_s)
+			$of(u"lea fakaʻuolofo"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xh"_s),
-			$of(u"lea fakat\u014dsa"_s)
+			$of(u"lea fakatōsa"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("yi"_s),
-			$of(u"lea faka\u012btisi"_s)
+			$of(u"lea fakaītisi"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("yo"_s),
-			$of(u"lea faka\u02bbi\u014dlupa"_s)
+			$of(u"lea fakaʻiōlupa"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("za"_s),
@@ -1954,67 +1954,67 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ace"_s),
-			$of(u"lea faka\u02bbatis\u0113"_s)
+			$of(u"lea fakaʻatisē"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ach"_s),
-			$of(u"lea faka\u02bbakoli"_s)
+			$of(u"lea fakaʻakoli"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ada"_s),
-			$of(u"lea faka\u02bbatangim\u0113"_s)
+			$of(u"lea fakaʻatangimē"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ady"_s),
-			$of(u"lea faka\u02bbatik\u0113"_s)
+			$of(u"lea fakaʻatikē"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("aeb"_s),
-			$of(u"lea faka\u02bbalepea-tun\u012bsia"_s)
+			$of(u"lea fakaʻalepea-tunīsia"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("afh"_s),
-			$of(u"lea faka\u02bbafilihili"_s)
+			$of(u"lea fakaʻafilihili"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("agq"_s),
-			$of(u"lea faka\u02bbakihemi"_s)
+			$of(u"lea fakaʻakihemi"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ain"_s),
-			$of(u"lea faka\u02bbainu"_s)
+			$of(u"lea fakaʻainu"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("akk"_s),
-			$of(u"lea faka\u02bbakatia"_s)
+			$of(u"lea fakaʻakatia"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("akz"_s),
-			$of(u"lea faka\u02bbalapama"_s)
+			$of(u"lea fakaʻalapama"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ale"_s),
-			$of(u"lea faka\u02bbaleuti"_s)
+			$of(u"lea fakaʻaleuti"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("aln"_s),
-			$of(u"lea faka\u02bbalap\u0113nia-keki"_s)
+			$of(u"lea fakaʻalapēnia-keki"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("alt"_s),
-			$of(u"lea faka\u02bbalitai-tonga"_s)
+			$of(u"lea fakaʻalitai-tonga"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ang"_s),
-			$of(u"lea fakap\u0101langi-motu\u02bba"_s)
+			$of(u"lea fakapālangi-motuʻa"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("anp"_s),
-			$of(u"lea faka\u02bbangika"_s)
+			$of(u"lea fakaʻangika"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("arc"_s),
-			$of(u"lea faka\u02bbal\u0101miti"_s)
+			$of(u"lea fakaʻalāmiti"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("arn"_s),
@@ -2022,39 +2022,39 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("aro"_s),
-			$of(u"lea faka\u02bbalaona"_s)
+			$of(u"lea fakaʻalaona"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("arp"_s),
-			$of(u"lea faka\u02bbalapaho"_s)
+			$of(u"lea fakaʻalapaho"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("arq"_s),
-			$of(u"lea faka\u02bbalepea-\u02bbaisilia"_s)
+			$of(u"lea fakaʻalepea-ʻaisilia"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("arw"_s),
-			$of(u"lea faka\u02bbalauaki"_s)
+			$of(u"lea fakaʻalauaki"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ary"_s),
-			$of(u"lea faka\u02bbalepea-moloko"_s)
+			$of(u"lea fakaʻalepea-moloko"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("arz"_s),
-			$of(u"lea faka\u02bbalepea-\u02bbisipite"_s)
+			$of(u"lea fakaʻalepea-ʻisipite"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("asa"_s),
-			$of(u"lea faka\u02bbasu"_s)
+			$of(u"lea fakaʻasu"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ase"_s),
-			$of(u"lea faka\u02bbilonga-\u02bbamelika"_s)
+			$of(u"lea fakaʻilonga-ʻamelika"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ast"_s),
-			$of(u"lea faka\u02bbasit\u016blia"_s)
+			$of(u"lea fakaʻasitūlia"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("avk"_s),
@@ -2062,7 +2062,7 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("awa"_s),
-			$of(u"lea faka\u02bbauati"_s)
+			$of(u"lea fakaʻauati"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bal"_s),
@@ -2074,11 +2074,11 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("bar"_s),
-			$of(u"lea fakapav\u0101lia"_s)
+			$of(u"lea fakapavālia"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bas"_s),
-			$of(u"lea fakapasa\u02bba"_s)
+			$of(u"lea fakapasaʻa"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bax"_s),
@@ -2086,7 +2086,7 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("bbc"_s),
-			$of(u"lea fakat\u014dpe-p\u0113teki"_s)
+			$of(u"lea fakatōpe-pēteki"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bbj"_s),
@@ -2098,7 +2098,7 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("bem"_s),
-			$of(u"lea fakap\u0113mipa"_s)
+			$of(u"lea fakapēmipa"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bew"_s),
@@ -2142,7 +2142,7 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("bla"_s),
-			$of(u"lea fakasikesik\u0101"_s)
+			$of(u"lea fakasikesikā"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bpy"_s),
@@ -2150,7 +2150,7 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("bqi"_s),
-			$of(u"lea fakapakiti\u0101li"_s)
+			$of(u"lea fakapakitiāli"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bra"_s),
@@ -2162,11 +2162,11 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("brx"_s),
-			$of(u"lea fakap\u014dto"_s)
+			$of(u"lea fakapōto"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bss"_s),
-			$of(u"lea faka\u02bbak\u014dse"_s)
+			$of(u"lea fakaʻakōse"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bua"_s),
@@ -2186,7 +2186,7 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("byv"_s),
-			$of(u"lea fakamet\u016bmipa"_s)
+			$of(u"lea fakametūmipa"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cad"_s),
@@ -2202,11 +2202,11 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("cch"_s),
-			$of(u"lea faka\u02bbatisami"_s)
+			$of(u"lea fakaʻatisami"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ccp"_s),
-			$of(u"lea fakas\u0101kima"_s)
+			$of(u"lea fakasākima"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ceb"_s),
@@ -2218,19 +2218,19 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("chb"_s),
-			$of(u"lea fakas\u012bpisa"_s)
+			$of(u"lea fakasīpisa"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("chg"_s),
-			$of(u"lea fakasakat\u0101i"_s)
+			$of(u"lea fakasakatāi"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("chk"_s),
-			$of(u"lea fakat\u016bke"_s)
+			$of(u"lea fakatūke"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("chm"_s),
-			$of(u"lea fakamal\u012b"_s)
+			$of(u"lea fakamalī"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("chn"_s),
@@ -2246,7 +2246,7 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("chr"_s),
-			$of(u"lea fakaselok\u012b"_s)
+			$of(u"lea fakaselokī"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("chy"_s),
@@ -2254,7 +2254,7 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ckb"_s),
-			$of(u"lea fakak\u016btisi-loloto"_s)
+			$of(u"lea fakakūtisi-loloto"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cop"_s),
@@ -2270,7 +2270,7 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("crs"_s),
-			$of(u"lea fakaseselua-falanis\u0113"_s)
+			$of(u"lea fakaseselua-falanisē"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("csb"_s),
@@ -2282,7 +2282,7 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("dar"_s),
-			$of(u"lea fakatalaku\u0101"_s)
+			$of(u"lea fakatalakuā"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("dav"_s),
@@ -2298,15 +2298,15 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("dgr"_s),
-			$of(u"lea fakat\u014dkelipi"_s)
+			$of(u"lea fakatōkelipi"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("din"_s),
-			$of(u"lea fakatingik\u0101"_s)
+			$of(u"lea fakatingikā"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("dje"_s),
-			$of(u"lea fakatis\u0101ma"_s)
+			$of(u"lea fakatisāma"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("doi"_s),
@@ -2314,7 +2314,7 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("dsb"_s),
-			$of(u"lea fakas\u014dpia-hifo"_s)
+			$of(u"lea fakasōpia-hifo"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("dtp"_s),
@@ -2326,11 +2326,11 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("dum"_s),
-			$of(u"lea fakah\u014dlani-lotoloto"_s)
+			$of(u"lea fakahōlani-lotoloto"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("dyo"_s),
-			$of(u"lea fakaiola-fon\u012b"_s)
+			$of(u"lea fakaiola-fonī"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("dyu"_s),
@@ -2342,43 +2342,43 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ebu"_s),
-			$of(u"lea faka\u02bbemip\u016b"_s)
+			$of(u"lea fakaʻemipū"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("efi"_s),
-			$of(u"lea faka\u02bbefiki"_s)
+			$of(u"lea fakaʻefiki"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("egl"_s),
-			$of(u"lea faka\u02bbemilia"_s)
+			$of(u"lea fakaʻemilia"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("egy"_s),
-			$of(u"lea faka\u02bbisipitemu\u02bba"_s)
+			$of(u"lea fakaʻisipitemuʻa"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("eka"_s),
-			$of(u"lea faka\u02bbekaiuki"_s)
+			$of(u"lea fakaʻekaiuki"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("elx"_s),
-			$of(u"lea faka\u02bbelamite"_s)
+			$of(u"lea fakaʻelamite"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("enm"_s),
-			$of(u"lea fakap\u0101langi-lotoloto"_s)
+			$of(u"lea fakapālangi-lotoloto"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("esu"_s),
-			$of(u"lea fakai\u016bpiki-loloto"_s)
+			$of(u"lea fakaiūpiki-loloto"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ewo"_s),
-			$of(u"lea faka\u02bbeu\u014dnito"_s)
+			$of(u"lea fakaʻeuōnito"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ext"_s),
-			$of(u"lea faka\u02bbekisitematula"_s)
+			$of(u"lea fakaʻekisitematula"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("fan"_s),
@@ -2386,7 +2386,7 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("fat"_s),
-			$of(u"lea fakafanit\u0113"_s)
+			$of(u"lea fakafanitē"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("fil"_s),
@@ -2394,27 +2394,27 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("fit"_s),
-			$of(u"lea fakafinilani-t\u014dnetale"_s)
+			$of(u"lea fakafinilani-tōnetale"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("fon"_s),
-			$of(u"lea fakaf\u014dngi"_s)
+			$of(u"lea fakafōngi"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("frc"_s),
-			$of(u"lea fakafalanis\u0113-kasuni"_s)
+			$of(u"lea fakafalanisē-kasuni"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("frm"_s),
-			$of(u"lea fakafalanis\u0113-lotoloto"_s)
+			$of(u"lea fakafalanisē-lotoloto"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("fro"_s),
-			$of(u"lea fakafalanis\u0113-motu\u02bba"_s)
+			$of(u"lea fakafalanisē-motuʻa"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("frp"_s),
-			$of(u"lea faka\u02bb\u0101pitano"_s)
+			$of(u"lea fakaʻāpitano"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("frr"_s),
@@ -2426,11 +2426,11 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("fur"_s),
-			$of(u"lea fakafulil\u0101ni"_s)
+			$of(u"lea fakafulilāni"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gaa"_s),
-			$of(u"lea fakak\u0101"_s)
+			$of(u"lea fakakā"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gag"_s),
@@ -2454,7 +2454,7 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("gez"_s),
-			$of(u"lea fakasi\u02bbisi"_s)
+			$of(u"lea fakasiʻisi"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gil"_s),
@@ -2470,15 +2470,15 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("goh"_s),
-			$of(u"lea fakasiamane-hake-motu\u02bba"_s)
+			$of(u"lea fakasiamane-hake-motuʻa"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gom"_s),
-			$of(u"lea fakakonikan\u012b-koani"_s)
+			$of(u"lea fakakonikanī-koani"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gon"_s),
-			$of(u"lea fakakonit\u012b"_s)
+			$of(u"lea fakakonitī"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gor"_s),
@@ -2490,11 +2490,11 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("grb"_s),
-			$of(u"lea fakak\u0113po"_s)
+			$of(u"lea fakakēpo"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("grc"_s),
-			$of(u"lea fakakalisimu\u02bba"_s)
+			$of(u"lea fakakalisimuʻa"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gsw"_s),
@@ -2502,7 +2502,7 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("guc"_s),
-			$of(u"lea faka\u02bbuai\u016b"_s)
+			$of(u"lea fakaʻuaiū"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gur"_s),
@@ -2510,11 +2510,11 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("guz"_s),
-			$of(u"lea fakakus\u012b"_s)
+			$of(u"lea fakakusī"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gwi"_s),
-			$of(u"lea faka\u02bbu\u012bsini"_s)
+			$of(u"lea fakaʻuīsini"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("hai"_s),
@@ -2526,11 +2526,11 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("haw"_s),
-			$of(u"lea fakahauai\u02bbi"_s)
+			$of(u"lea fakahauaiʻi"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("hif"_s),
-			$of(u"lea fakahinit\u012b-fisi"_s)
+			$of(u"lea fakahinitī-fisi"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("hil"_s),
@@ -2542,11 +2542,11 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("hmn"_s),
-			$of(u"lea fakam\u014dngi"_s)
+			$of(u"lea fakamōngi"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("hsb"_s),
-			$of(u"lea fakas\u014dpia-hake"_s)
+			$of(u"lea fakasōpia-hake"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("hsn"_s),
@@ -2558,27 +2558,27 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("iba"_s),
-			$of(u"lea faka\u02bbipani"_s)
+			$of(u"lea fakaʻipani"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ibb"_s),
-			$of(u"lea faka\u02bbipipio"_s)
+			$of(u"lea fakaʻipipio"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ilo"_s),
-			$of(u"lea faka\u02bbiloko"_s)
+			$of(u"lea fakaʻiloko"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("inh"_s),
-			$of(u"lea faka\u02bbingusi"_s)
+			$of(u"lea fakaʻingusi"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("izh"_s),
-			$of(u"lea faka\u02bbingiliani"_s)
+			$of(u"lea fakaʻingiliani"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("jam"_s),
-			$of(u"lea fakap\u0101langi-samaika"_s)
+			$of(u"lea fakapālangi-samaika"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("jbo"_s),
@@ -2586,7 +2586,7 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("jgo"_s),
-			$of(u"lea fakanik\u014dmipa"_s)
+			$of(u"lea fakanikōmipa"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("jmc"_s),
@@ -2594,15 +2594,15 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("jpr"_s),
-			$of(u"lea faka\u02bbiuteo-p\u0113sia"_s)
+			$of(u"lea fakaʻiuteo-pēsia"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("jrb"_s),
-			$of(u"lea faka\u02bbiuteo-\u02bbalepea"_s)
+			$of(u"lea fakaʻiuteo-ʻalepea"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("jut"_s),
-			$of(u"lea faka\u02bbiutilani"_s)
+			$of(u"lea fakaʻiutilani"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kaa"_s),
@@ -2618,7 +2618,7 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("kaj"_s),
-			$of(u"lea fakasis\u016b"_s)
+			$of(u"lea fakasisū"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kam"_s),
@@ -2630,11 +2630,11 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("kbd"_s),
-			$of(u"lea fakakap\u0101litia"_s)
+			$of(u"lea fakakapālitia"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kbl"_s),
-			$of(u"lea fakakan\u0113mipu"_s)
+			$of(u"lea fakakanēmipu"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kcg"_s),
@@ -2642,7 +2642,7 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("kde"_s),
-			$of(u"lea fakamak\u014dnite"_s)
+			$of(u"lea fakamakōnite"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kea"_s),
@@ -2662,15 +2662,15 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("kha"_s),
-			$of(u"lea fakak\u0101si"_s)
+			$of(u"lea fakakāsi"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kho"_s),
-			$of(u"lea fakak\u014dtani"_s)
+			$of(u"lea fakakōtani"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("khq"_s),
-			$of(u"lea fakakoila-s\u012bni"_s)
+			$of(u"lea fakakoila-sīni"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("khw"_s),
@@ -2678,7 +2678,7 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("kiu"_s),
-			$of(u"lea fakakilimanisik\u012b"_s)
+			$of(u"lea fakakilimanisikī"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kkj"_s),
@@ -2690,7 +2690,7 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("kmb"_s),
-			$of(u"lea fakakimip\u016bnitu"_s)
+			$of(u"lea fakakimipūnitu"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("koi"_s),
@@ -2698,7 +2698,7 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("kok"_s),
-			$of(u"lea fakakonikan\u012b"_s)
+			$of(u"lea fakakonikanī"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kos"_s),
@@ -2718,7 +2718,7 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("krj"_s),
-			$of(u"lea fakakinarai\u0101"_s)
+			$of(u"lea fakakinaraiā"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("krl"_s),
@@ -2758,11 +2758,11 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("lah"_s),
-			$of(u"lea fakal\u0101nita"_s)
+			$of(u"lea fakalānita"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lam"_s),
-			$of(u"lea fakalamip\u0101"_s)
+			$of(u"lea fakalamipā"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lez"_s),
@@ -2770,7 +2770,7 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("lfn"_s),
-			$of(u"lea fakakavakava-fo\u02bbou"_s)
+			$of(u"lea fakakavakava-foʻou"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lij"_s),
@@ -2786,11 +2786,11 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("lmo"_s),
-			$of(u"lea fakalomip\u0101ti"_s)
+			$of(u"lea fakalomipāti"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lol"_s),
-			$of(u"lea fakamongik\u014d"_s)
+			$of(u"lea fakamongikō"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("loz"_s),
@@ -2814,7 +2814,7 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("lun"_s),
-			$of(u"lea fakalunit\u0101"_s)
+			$of(u"lea fakalunitā"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("luo"_s),
@@ -2826,11 +2826,11 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("luy"_s),
-			$of(u"lea fakalu\u012ba"_s)
+			$of(u"lea fakaluīa"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lzh"_s),
-			$of(u"lea fakasiaina-fa\u02bbutohi"_s)
+			$of(u"lea fakasiaina-faʻutohi"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lzz"_s),
@@ -2858,7 +2858,7 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("man"_s),
-			$of(u"lea fakamanit\u012bngiko"_s)
+			$of(u"lea fakamanitīngiko"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mas"_s),
@@ -2870,7 +2870,7 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("mdf"_s),
-			$of(u"lea fakamokisi\u0101"_s)
+			$of(u"lea fakamokisiā"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mdr"_s),
@@ -2878,7 +2878,7 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("men"_s),
-			$of(u"lea fakamenet\u012b"_s)
+			$of(u"lea fakamenetī"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mer"_s),
@@ -2890,15 +2890,15 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("mga"_s),
-			$of(u"lea faka\u02bbaelani-lotoloto"_s)
+			$of(u"lea fakaʻaelani-lotoloto"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mgh"_s),
-			$of(u"lea fakamak\u016ba-me\u02bbeto"_s)
+			$of(u"lea fakamakūa-meʻeto"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mgo"_s),
-			$of(u"lea fakamet\u0101"_s)
+			$of(u"lea fakametā"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mic"_s),
@@ -2910,7 +2910,7 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("mnc"_s),
-			$of(u"lea fakamanis\u016b"_s)
+			$of(u"lea fakamanisū"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mni"_s),
@@ -2942,7 +2942,7 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("mwl"_s),
-			$of(u"lea fakamilanit\u0113si"_s)
+			$of(u"lea fakamilanitēsi"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mwr"_s),
@@ -2958,7 +2958,7 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("myv"_s),
-			$of(u"lea faka\u02bbelisia"_s)
+			$of(u"lea fakaʻelisia"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mzn"_s),
@@ -2990,11 +2990,11 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("niu"_s),
-			$of(u"lea fakaniu\u0113"_s)
+			$of(u"lea fakaniuē"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("njo"_s),
-			$of(u"lea faka\u02bbaonasa"_s)
+			$of(u"lea fakaʻaonasa"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("nmg"_s),
@@ -3002,7 +3002,7 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("nnh"_s),
-			$of(u"lea fakangiemip\u014dni"_s)
+			$of(u"lea fakangiemipōni"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("nog"_s),
@@ -3010,7 +3010,7 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("non"_s),
-			$of(u"lea fakanoau\u0113-motu\u02bba"_s)
+			$of(u"lea fakanoauē-motuʻa"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("nov"_s),
@@ -3018,7 +3018,7 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("nqo"_s),
-			$of(u"lea fakanik\u014d"_s)
+			$of(u"lea fakanikō"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("nso"_s),
@@ -3030,7 +3030,7 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("nwc"_s),
-			$of(u"lea fakaneuali-motu\u02bba"_s)
+			$of(u"lea fakaneuali-motuʻa"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("nym"_s),
@@ -3050,11 +3050,11 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("osa"_s),
-			$of(u"lea faka\u02bbos\u0113se"_s)
+			$of(u"lea fakaʻosēse"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ota"_s),
-			$of(u"lea fakatoake-\u02bbotomani"_s)
+			$of(u"lea fakatoake-ʻotomani"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pag"_s),
@@ -3062,7 +3062,7 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("pal"_s),
-			$of(u"lea fakap\u0101lavi"_s)
+			$of(u"lea fakapālavi"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pam"_s),
@@ -3070,7 +3070,7 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("pap"_s),
-			$of(u"lea fakapapiam\u0113nito"_s)
+			$of(u"lea fakapapiamēnito"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pau"_s),
@@ -3078,7 +3078,7 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("pcd"_s),
-			$of(u"lea fakapik\u0101ti"_s)
+			$of(u"lea fakapikāti"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pcm"_s),
@@ -3094,7 +3094,7 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("peo"_s),
-			$of(u"lea fakap\u0113sia-motu\u02bba"_s)
+			$of(u"lea fakapēsia-motuʻa"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pfl"_s),
@@ -3114,19 +3114,19 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("pon"_s),
-			$of(u"lea fakaponap\u0113"_s)
+			$of(u"lea fakaponapē"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("prg"_s),
-			$of(u"lea fakapul\u016bsia"_s)
+			$of(u"lea fakapulūsia"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pro"_s),
-			$of(u"lea fakapolovenisi-motu\u02bba"_s)
+			$of(u"lea fakapolovenisi-motuʻa"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("quc"_s),
-			$of(u"lea fakak\u012bs\u0113"_s)
+			$of(u"lea fakakīsē"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("qug"_s),
@@ -3154,7 +3154,7 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("rof"_s),
-			$of(u"lea fakalomip\u014d"_s)
+			$of(u"lea fakalomipō"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("rom"_s),
@@ -3174,11 +3174,11 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("rup"_s),
-			$of(u"lea faka\u02bbalomania"_s)
+			$of(u"lea fakaʻalomania"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("rwk"_s),
-			$of(u"lea fakalu\u0101"_s)
+			$of(u"lea fakaluā"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sad"_s),
@@ -3190,7 +3190,7 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("sam"_s),
-			$of(u"lea fakasamalitani-\u02bbal\u0101miti"_s)
+			$of(u"lea fakasamalitani-ʻalāmiti"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("saq"_s),
@@ -3206,11 +3206,11 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("saz"_s),
-			$of(u"lea fakasaulasitil\u0101"_s)
+			$of(u"lea fakasaulasitilā"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sba"_s),
-			$of(u"lea fakang\u0101mipai"_s)
+			$of(u"lea fakangāmipai"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sbp"_s),
@@ -3218,7 +3218,7 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("scn"_s),
-			$of(u"lea fakasis\u012blia"_s)
+			$of(u"lea fakasisīlia"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sco"_s),
@@ -3226,11 +3226,11 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("sdc"_s),
-			$of(u"lea fakasalet\u012bnia-sasalesu"_s)
+			$of(u"lea fakasaletīnia-sasalesu"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sdh"_s),
-			$of(u"lea faka-tonga \u2018o Ketesi"_s)
+			$of(u"lea faka-tonga ‘o Ketesi"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("see"_s),
@@ -3254,7 +3254,7 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("sga"_s),
-			$of(u"lea faka\u02bbaelani-motu\u02bba"_s)
+			$of(u"lea fakaʻaelani-motuʻa"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sgs"_s),
@@ -3270,7 +3270,7 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("shu"_s),
-			$of(u"lea faka\u02bbalepea-s\u0101ti"_s)
+			$of(u"lea fakaʻalepea-sāti"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sid"_s),
@@ -3282,7 +3282,7 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("sly"_s),
-			$of(u"lea fakaselai\u0101"_s)
+			$of(u"lea fakaselaiā"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sma"_s),
@@ -3294,7 +3294,7 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("smn"_s),
-			$of(u"lea fakasami-\u02bbinali"_s)
+			$of(u"lea fakasami-ʻinali"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sms"_s),
@@ -3302,7 +3302,7 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("snk"_s),
-			$of(u"lea fakasoninek\u0113"_s)
+			$of(u"lea fakasoninekē"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sog"_s),
@@ -3310,11 +3310,11 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("srn"_s),
-			$of(u"lea fakasulanane-tongik\u014d"_s)
+			$of(u"lea fakasulanane-tongikō"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("srr"_s),
-			$of(u"lea fakas\u0113l\u0113le"_s)
+			$of(u"lea fakasēlēle"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ssy"_s),
@@ -3322,7 +3322,7 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("stq"_s),
-			$of(u"lea fakafilisia-sat\u0113lani"_s)
+			$of(u"lea fakafilisia-satēlani"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("suk"_s),
@@ -3330,7 +3330,7 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("sus"_s),
-			$of(u"lea fakasus\u016b"_s)
+			$of(u"lea fakasusū"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sux"_s),
@@ -3342,11 +3342,11 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("syc"_s),
-			$of(u"lea fakasuli\u0101i\u0101-mu\u02bba"_s)
+			$of(u"lea fakasuliāiā-muʻa"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("syr"_s),
-			$of(u"lea fakasuli\u0101i\u0101"_s)
+			$of(u"lea fakasuliāiā"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("szl"_s),
@@ -3358,7 +3358,7 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("tem"_s),
-			$of(u"lea fakatimen\u0113"_s)
+			$of(u"lea fakatimenē"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("teo"_s),
@@ -3374,7 +3374,7 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("tig"_s),
-			$of(u"lea fakatikil\u0113"_s)
+			$of(u"lea fakatikilē"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("tiv"_s),
@@ -3386,7 +3386,7 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("tkr"_s),
-			$of(u"lea fakas\u0101kuli"_s)
+			$of(u"lea fakasākuli"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("tlh"_s),
@@ -3394,7 +3394,7 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("tli"_s),
-			$of(u"lea fakatilingik\u012bte"_s)
+			$of(u"lea fakatilingikīte"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("tly"_s),
@@ -3422,11 +3422,11 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("tsd"_s),
-			$of(u"lea fakasak\u014dnia"_s)
+			$of(u"lea fakasakōnia"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("tsi"_s),
-			$of(u"lea fakatis\u012bmisiani"_s)
+			$of(u"lea fakatisīmisiani"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ttt"_s),
@@ -3438,7 +3438,7 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("tvl"_s),
-			$of(u"lea fakat\u016bvalu"_s)
+			$of(u"lea fakatūvalu"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("twq"_s),
@@ -3446,27 +3446,27 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("tyv"_s),
-			$of(u"lea fakatuv\u012bnia"_s)
+			$of(u"lea fakatuvīnia"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("tzm"_s),
-			$of(u"lea fakatamasaiti-\u02bbatilasi-loloto"_s)
+			$of(u"lea fakatamasaiti-ʻatilasi-loloto"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("udm"_s),
-			$of(u"lea faka\u02bbutimuliti"_s)
+			$of(u"lea fakaʻutimuliti"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("uga"_s),
-			$of(u"lea faka\u02bb\u016bkaliti"_s)
+			$of(u"lea fakaʻūkaliti"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("umb"_s),
-			$of(u"lea faka\u02bbumip\u016bnitu"_s)
+			$of(u"lea fakaʻumipūnitu"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("und"_s),
-			$of(u"lea ta\u02bbe\u02bbiloa"_s)
+			$of(u"lea taʻeʻiloa"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("vai"_s),
@@ -3474,7 +3474,7 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("vec"_s),
-			$of(u"lea fakaven\u0113sia"_s)
+			$of(u"lea fakavenēsia"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("vep"_s),
@@ -3494,35 +3494,35 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("vro"_s),
-			$of(u"lea fakav\u014dlo"_s)
+			$of(u"lea fakavōlo"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("vun"_s),
-			$of(u"lea fakav\u016bniso"_s)
+			$of(u"lea fakavūniso"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("wae"_s),
-			$of(u"lea faka\u02bbualiseli"_s)
+			$of(u"lea fakaʻualiseli"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("wal"_s),
-			$of(u"lea faka\u02bbuolaita"_s)
+			$of(u"lea fakaʻuolaita"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("war"_s),
-			$of(u"lea faka\u02bbualai"_s)
+			$of(u"lea fakaʻualai"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("was"_s),
-			$of(u"lea faka\u02bbuasi\u014d"_s)
+			$of(u"lea fakaʻuasiō"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("wbp"_s),
-			$of(u"lea faka\u02bbu\u0101lipili"_s)
+			$of(u"lea fakaʻuālipili"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("wuu"_s),
-			$of(u"lea fakasiaina-u\u016b"_s)
+			$of(u"lea fakasiaina-uū"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xal"_s),
@@ -3538,23 +3538,23 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("yao"_s),
-			$of(u"lea faka\u02bbiao"_s)
+			$of(u"lea fakaʻiao"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("yap"_s),
-			$of(u"lea faka\u02bbiapi"_s)
+			$of(u"lea fakaʻiapi"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("yav"_s),
-			$of(u"lea faka\u02bbiangipeni"_s)
+			$of(u"lea fakaʻiangipeni"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ybb"_s),
-			$of(u"lea faka\u02bbi\u0113mipa"_s)
+			$of(u"lea fakaʻiēmipa"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("yrl"_s),
-			$of(u"lea fakane\u02bb\u0113ngat\u016b"_s)
+			$of(u"lea fakaneʻēngatū"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("yue"_s),
@@ -3566,11 +3566,11 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("zbl"_s),
-			$of(u"lea faka\u02bbilonga-pilisi"_s)
+			$of(u"lea fakaʻilonga-pilisi"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("zea"_s),
-			$of(u"lea fakas\u0113lani"_s)
+			$of(u"lea fakasēlani"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("zen"_s),
@@ -3586,35 +3586,35 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("zxx"_s),
-			$of(u"\u02bbikai ha lea"_s)
+			$of(u"ʻikai ha lea"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("zza"_s),
-			$of(u"lea fakas\u0101s\u0101"_s)
+			$of(u"lea fakasāsā"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Afak"_s),
-			$of(u"tohinima faka\u02bbafaka"_s)
+			$of(u"tohinima fakaʻafaka"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Aghb"_s),
-			$of(u"tohinima faka\u02bbalap\u0113nia-kaukasia"_s)
+			$of(u"tohinima fakaʻalapēnia-kaukasia"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Arab"_s),
-			$of(u"tohinima faka\u02bbalepea"_s)
+			$of(u"tohinima fakaʻalepea"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Armi"_s),
-			$of(u"tohinima faka\u02bbal\u0101miti-\u02bbemipaea"_s)
+			$of(u"tohinima fakaʻalāmiti-ʻemipaea"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Armn"_s),
-			$of(u"tohinima faka\u02bb\u0101menia"_s)
+			$of(u"tohinima fakaʻāmenia"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Avst"_s),
-			$of(u"tohinima faka\u02bbavesitani"_s)
+			$of(u"tohinima fakaʻavesitani"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Bali"_s),
@@ -3626,19 +3626,19 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("Bass"_s),
-			$of(u"tohinima fakapasa-v\u0101"_s)
+			$of(u"tohinima fakapasa-vā"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Batk"_s),
-			$of(u"tohinima fakap\u0101taki"_s)
+			$of(u"tohinima fakapātaki"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Beng"_s),
-			$of(u"tohinima fakap\u0101ngil\u0101"_s)
+			$of(u"tohinima fakapāngilā"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Blis"_s),
-			$of(u"tohinima faka\u02bbilonga-pilisi"_s)
+			$of(u"tohinima fakaʻilonga-pilisi"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Bopo"_s),
@@ -3646,7 +3646,7 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("Brah"_s),
-			$of(u"tohinima fakapal\u0101m\u012b"_s)
+			$of(u"tohinima fakapalāmī"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Brai"_s),
@@ -3662,11 +3662,11 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("Cakm"_s),
-			$of(u"tohinima fakasakim\u0101"_s)
+			$of(u"tohinima fakasakimā"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Cans"_s),
-			$of(u"tohinima fakatupu\u02bbi-k\u0101nata-fakatahataha"_s)
+			$of(u"tohinima fakatupuʻi-kānata-fakatahataha"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Cari"_s),
@@ -3678,11 +3678,11 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("Cher"_s),
-			$of(u"tohinima fakaselok\u012b"_s)
+			$of(u"tohinima fakaselokī"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Cirt"_s),
-			$of(u"tohinima fakak\u012bliti"_s)
+			$of(u"tohinima fakakīliti"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Copt"_s),
@@ -3694,15 +3694,15 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("Cyrl"_s),
-			$of(u"tohinima fakal\u016bsia"_s)
+			$of(u"tohinima fakalūsia"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Cyrs"_s),
-			$of(u"tohinima fakal\u016bsia-lotu-motu\u02bba"_s)
+			$of(u"tohinima fakalūsia-lotu-motuʻa"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Deva"_s),
-			$of(u"tohinima faka\u02bbinitia-tevan\u0101kal\u012b"_s)
+			$of(u"tohinima fakaʻinitia-tevanākalī"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Dsrt"_s),
@@ -3710,35 +3710,35 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("Dupl"_s),
-			$of(u"tohinimanounou fakatupoloi\u0113"_s)
+			$of(u"tohinimanounou fakatupoloiē"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Egyd"_s),
-			$of(u"tohinima temotika-faka\u02bbisipite"_s)
+			$of(u"tohinima temotika-fakaʻisipite"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Egyh"_s),
-			$of(u"tohinima hielatika-faka\u02bbisipite"_s)
+			$of(u"tohinima hielatika-fakaʻisipite"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Egyp"_s),
-			$of(u"tohinima tongitapu-faka\u02bbisipite"_s)
+			$of(u"tohinima tongitapu-fakaʻisipite"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Elba"_s),
-			$of(u"tohinima faka\u02bbelepasani"_s)
+			$of(u"tohinima fakaʻelepasani"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Ethi"_s),
-			$of(u"tohinima faka\u02bb\u012bti\u014dpia"_s)
+			$of(u"tohinima fakaʻītiōpia"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Geok"_s),
-			$of(u"tohinima fakakutusuli-se\u014dsia"_s)
+			$of(u"tohinima fakakutusuli-seōsia"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Geor"_s),
-			$of(u"tohinima fakase\u014dsia"_s)
+			$of(u"tohinima fakaseōsia"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Glag"_s),
@@ -3750,7 +3750,7 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("Gran"_s),
-			$of(u"tohinima fakasilanit\u0101"_s)
+			$of(u"tohinima fakasilanitā"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Grek"_s),
@@ -3758,19 +3758,19 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("Gujr"_s),
-			$of(u"tohinima faka\u02bbinitia-kutalati"_s)
+			$of(u"tohinima fakaʻinitia-kutalati"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Guru"_s),
-			$of(u"tohinima fakak\u016bmuki"_s)
+			$of(u"tohinima fakakūmuki"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Hanb"_s),
-			$of(u"tohinima fakah\u0101nipi"_s)
+			$of(u"tohinima fakahānipi"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Hang"_s),
-			$of(u"tohinima fakak\u014dlea-h\u0101ng\u016blu"_s)
+			$of(u"tohinima fakakōlea-hāngūlu"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Hani"_s),
@@ -3778,7 +3778,7 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("Hano"_s),
-			$of(u"tohinima fakahanun\u014d\u02bbo"_s)
+			$of(u"tohinima fakahanunōʻo"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Hans"_s),
@@ -3790,7 +3790,7 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("Hebr"_s),
-			$of(u"tohinima fakahepel\u016b"_s)
+			$of(u"tohinima fakahepelū"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Hira"_s),
@@ -3798,7 +3798,7 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("Hluw"_s),
-			$of(u"tohinima tongitapu-faka\u02bbanatolia"_s)
+			$of(u"tohinima tongitapu-fakaʻanatolia"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Hmng"_s),
@@ -3810,15 +3810,15 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("Hung"_s),
-			$of(u"tohinima fakahungakalia-motu\u02bba"_s)
+			$of(u"tohinima fakahungakalia-motuʻa"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Inds"_s),
-			$of(u"tohinima faka\u02bbinitusi"_s)
+			$of(u"tohinima fakaʻinitusi"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Ital"_s),
-			$of(u"tohinima faka\u02bb\u012btali-motu\u02bba"_s)
+			$of(u"tohinima fakaʻītali-motuʻa"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Jamo"_s),
@@ -3834,11 +3834,11 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("Jurc"_s),
-			$of(u"tohinima fakai\u016bkeni"_s)
+			$of(u"tohinima fakaiūkeni"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Kali"_s),
-			$of(u"tohinima fakakaial\u012b"_s)
+			$of(u"tohinima fakakaialī"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Kana"_s),
@@ -3846,23 +3846,23 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("Khar"_s),
-			$of(u"tohinima fakakalosit\u012b"_s)
+			$of(u"tohinima fakakalositī"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Khmr"_s),
-			$of(u"tohinima fakakamip\u014dtia"_s)
+			$of(u"tohinima fakakamipōtia"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Khoj"_s),
-			$of(u"tohinima fakakosik\u012b"_s)
+			$of(u"tohinima fakakosikī"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Knda"_s),
-			$of(u"tohinima faka\u02bbinitia-kanata"_s)
+			$of(u"tohinima fakaʻinitia-kanata"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Kore"_s),
-			$of(u"tohinima fakak\u014dlea"_s)
+			$of(u"tohinima fakakōlea"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Kpel"_s),
@@ -3870,7 +3870,7 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("Kthi"_s),
-			$of(u"tohinima fakakaiat\u012b"_s)
+			$of(u"tohinima fakakaiatī"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Lana"_s),
@@ -3894,11 +3894,11 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("Lepc"_s),
-			$of(u"tohinima fakalepas\u0101"_s)
+			$of(u"tohinima fakalepasā"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Limb"_s),
-			$of(u"tohinima fakalimip\u016b"_s)
+			$of(u"tohinima fakalimipū"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Lina"_s),
@@ -3910,7 +3910,7 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("Lisu"_s),
-			$of(u"tohinima fakafal\u0101se"_s)
+			$of(u"tohinima fakafalāse"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Loma"_s),
@@ -3918,11 +3918,11 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("Lyci"_s),
-			$of(u"tohinima fakal\u012bsia"_s)
+			$of(u"tohinima fakalīsia"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Lydi"_s),
-			$of(u"tohinima fakal\u012btia"_s)
+			$of(u"tohinima fakalītia"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Mahj"_s),
@@ -3942,7 +3942,7 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("Mend"_s),
-			$of(u"tohinima fakam\u0113niti"_s)
+			$of(u"tohinima fakamēniti"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Merc"_s),
@@ -3954,23 +3954,23 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("Mlym"_s),
-			$of(u"tohinima faka\u02bbinitia-mal\u0101ialami"_s)
+			$of(u"tohinima fakaʻinitia-malāialami"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Modi"_s),
-			$of(u"tohinima fakamot\u012b"_s)
+			$of(u"tohinima fakamotī"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Mong"_s),
-			$of(u"tohinima fakamongok\u014dlia"_s)
+			$of(u"tohinima fakamongokōlia"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Moon"_s),
-			$of(u"tohinima laukonga ki he kui-m\u0101hina"_s)
+			$of(u"tohinima laukonga ki he kui-māhina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Mroo"_s),
-			$of(u"tohinima fakamol\u014d"_s)
+			$of(u"tohinima fakamolō"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Mtei"_s),
@@ -3982,7 +3982,7 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("Narb"_s),
-			$of(u"tohinima faka\u02bbalepea-tokelau-motu\u02bba"_s)
+			$of(u"tohinima fakaʻalepea-tokelau-motuʻa"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Nbat"_s),
@@ -3994,31 +3994,31 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("Nkoo"_s),
-			$of(u"tohinima fakanik\u014d"_s)
+			$of(u"tohinima fakanikō"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Nshu"_s),
-			$of(u"tohinima fakanasi\u016b"_s)
+			$of(u"tohinima fakanasiū"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Ogam"_s),
-			$of(u"tohinima faka\u02bbokami"_s)
+			$of(u"tohinima fakaʻokami"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Olck"_s),
-			$of(u"tohinima faka\u02bbolisiki"_s)
+			$of(u"tohinima fakaʻolisiki"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Orkh"_s),
-			$of(u"tohinima faka\u02bbolikoni"_s)
+			$of(u"tohinima fakaʻolikoni"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Orya"_s),
-			$of(u"tohinima faka\u02bbotia"_s)
+			$of(u"tohinima fakaʻotia"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Osma"_s),
-			$of(u"tohinima faka\u02bbosim\u0101nia"_s)
+			$of(u"tohinima fakaʻosimānia"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Palm"_s),
@@ -4030,23 +4030,23 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("Perm"_s),
-			$of(u"tohinima fakap\u0113mi-motu\u02bba"_s)
+			$of(u"tohinima fakapēmi-motuʻa"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Phag"_s),
-			$of(u"tohinima fakap\u0101kisip\u0101"_s)
+			$of(u"tohinima fakapākisipā"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Phli"_s),
-			$of(u"tohinima fakap\u0101lavi-tongi"_s)
+			$of(u"tohinima fakapālavi-tongi"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Phlp"_s),
-			$of(u"tohinima fakap\u0101lavi-saame"_s)
+			$of(u"tohinima fakapālavi-saame"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Phlv"_s),
-			$of(u"tohinima fakap\u0101lavi-tohi"_s)
+			$of(u"tohinima fakapālavi-tohi"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Phnx"_s),
@@ -4054,11 +4054,11 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("Plrd"_s),
-			$of(u"tohinima fakafon\u0113tiki-pol\u0101ti"_s)
+			$of(u"tohinima fakafonētiki-polāti"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Prti"_s),
-			$of(u"tohinima fakap\u0101tia-tongi"_s)
+			$of(u"tohinima fakapātia-tongi"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Rjng"_s),
@@ -4082,15 +4082,15 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("Sarb"_s),
-			$of(u"tohinima faka\u02bbalepea-tonga-motu\u02bba"_s)
+			$of(u"tohinima fakaʻalepea-tonga-motuʻa"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Saur"_s),
-			$of(u"tohinima fakasaulasit\u0101"_s)
+			$of(u"tohinima fakasaulasitā"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Sgnw"_s),
-			$of(u"tohinima faka\u02bbilonga-tohi"_s)
+			$of(u"tohinima fakaʻilonga-tohi"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Shaw"_s),
@@ -4098,7 +4098,7 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("Shrd"_s),
-			$of(u"tohinima fakasi\u0101lat\u0101"_s)
+			$of(u"tohinima fakasiālatā"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Sidd"_s),
@@ -4106,7 +4106,7 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("Sind"_s),
-			$of(u"tohinima fakakutau\u0101ti"_s)
+			$of(u"tohinima fakakutauāti"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Sinh"_s),
@@ -4118,7 +4118,7 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("Sund"_s),
-			$of(u"tohinima fakasunit\u0101"_s)
+			$of(u"tohinima fakasunitā"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Sylo"_s),
@@ -4126,23 +4126,23 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("Syrc"_s),
-			$of(u"tohinima fakasuli\u0101i\u0101"_s)
+			$of(u"tohinima fakasuliāiā"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Syre"_s),
-			$of(u"tohinima fakasuli\u0101i\u0101-\u02bbesitelangelo"_s)
+			$of(u"tohinima fakasuliāiā-ʻesitelangelo"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Syrj"_s),
-			$of(u"tohinima fakasuli\u0101i\u0101-hihifo"_s)
+			$of(u"tohinima fakasuliāiā-hihifo"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Syrn"_s),
-			$of(u"tohinima fakasuli\u0101i\u0101-hahake"_s)
+			$of(u"tohinima fakasuliāiā-hahake"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Tagb"_s),
-			$of(u"tohinima fakatakipaneu\u0101"_s)
+			$of(u"tohinima fakatakipaneuā"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Takr"_s),
@@ -4154,7 +4154,7 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("Talu"_s),
-			$of(u"tohinima fakatai-lue-fo\u02bbou"_s)
+			$of(u"tohinima fakatai-lue-foʻou"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Taml"_s),
@@ -4170,7 +4170,7 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("Telu"_s),
-			$of(u"tohinima faka\u02bbinitia-teluku"_s)
+			$of(u"tohinima fakaʻinitia-teluku"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Teng"_s),
@@ -4178,7 +4178,7 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("Tfng"_s),
-			$of(u"tohinima fakatifin\u0101ki"_s)
+			$of(u"tohinima fakatifināki"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Tglg"_s),
@@ -4186,7 +4186,7 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("Thaa"_s),
-			$of(u"tohinima fakat\u0101na"_s)
+			$of(u"tohinima fakatāna"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Thai"_s),
@@ -4198,11 +4198,11 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("Tirh"_s),
-			$of(u"tohinima fakat\u012bhuta"_s)
+			$of(u"tohinima fakatīhuta"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Ugar"_s),
-			$of(u"tohinima faka\u02bb\u016bkaliti"_s)
+			$of(u"tohinima fakaʻūkaliti"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Vaii"_s),
@@ -4210,11 +4210,11 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("Visp"_s),
-			$of(u"tohinima fakafon\u0113tiki-h\u0101mai"_s)
+			$of(u"tohinima fakafonētiki-hāmai"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Wara"_s),
-			$of(u"tohinima fakavalangi-kisit\u012b"_s)
+			$of(u"tohinima fakavalangi-kisitī"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Wole"_s),
@@ -4222,15 +4222,15 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("Xpeo"_s),
-			$of(u"tohinima fakap\u0113siamu\u02bba"_s)
+			$of(u"tohinima fakapēsiamuʻa"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Xsux"_s),
-			$of(u"tohinima fakamata\u02bbingahau-sumelo-akatia"_s)
+			$of(u"tohinima fakamataʻingahau-sumelo-akatia"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Yiii"_s),
-			$of(u"tohinima faka\u012b\u012b"_s)
+			$of(u"tohinima fakaīī"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Zinh"_s),
@@ -4242,15 +4242,15 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("Zsye"_s),
-			$of(u"tohinima fakat\u0101t\u0101"_s)
+			$of(u"tohinima fakatātā"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Zsym"_s),
-			$of(u"tohinima faka\u02bbilonga"_s)
+			$of(u"tohinima fakaʻilonga"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Zxxx"_s),
-			$of(u"tohinima ta\u02bbetohitohi\u02bbi"_s)
+			$of(u"tohinima taʻetohitohiʻi"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Zyyy"_s),
@@ -4258,11 +4258,11 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("Zzzz"_s),
-			$of(u"tohinima ta\u02bbe\u02bbiloa"_s)
+			$of(u"tohinima taʻeʻiloa"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("de_AT"_s),
-			$of(u"lea fakasiamane-\u02bbaositulia"_s)
+			$of(u"lea fakasiamane-ʻaositulia"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("de_CH"_s),
@@ -4270,23 +4270,23 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("en_AU"_s),
-			$of(u"lea fakap\u0101langi-\u02bbaositel\u0113lia"_s)
+			$of(u"lea fakapālangi-ʻaositelēlia"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("en_CA"_s),
-			$of(u"lea fakap\u0101langi-k\u0101nata"_s)
+			$of(u"lea fakapālangi-kānata"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("en_GB"_s),
-			$of(u"lea fakapilit\u0101nia"_s)
+			$of(u"lea fakapilitānia"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("en_US"_s),
-			$of(u"lea fakap\u0101langi-\u02bbamelika"_s)
+			$of(u"lea fakapālangi-ʻamelika"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("es_ES"_s),
-			$of(u"lea fakasipeini-\u02bbeulope"_s)
+			$of(u"lea fakasipeini-ʻeulope"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("es_MX"_s),
@@ -4294,47 +4294,47 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("fr_CA"_s),
-			$of(u"lea fakafalanis\u0113-k\u0101nata"_s)
+			$of(u"lea fakafalanisē-kānata"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("fr_CH"_s),
-			$of(u"lea fakafalanis\u0113-suisilani"_s)
+			$of(u"lea fakafalanisē-suisilani"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("nl_BE"_s),
-			$of(u"lea fakah\u014dlani-pelesiume"_s)
+			$of(u"lea fakahōlani-pelesiume"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pt_BR"_s),
-			$of(u"lea fakapotukali-pal\u0101sili"_s)
+			$of(u"lea fakapotukali-palāsili"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pt_PT"_s),
-			$of(u"lea fakapotukali-\u02bbiulope"_s)
+			$of(u"lea fakapotukali-ʻiulope"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ro_MD"_s),
-			$of(u"lea fakamolit\u0101via"_s)
+			$of(u"lea fakamolitāvia"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sw_CD"_s),
-			$of(u"lea fakasuahili-kongik\u014d"_s)
+			$of(u"lea fakasuahili-kongikō"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ar_001"_s),
-			$of(u"lea faka\u02bbalepea (m\u0101mani)"_s)
+			$of(u"lea fakaʻalepea (māmani)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("es_419"_s),
-			$of(u"lea fakasipeini-l\u0101tini-\u02bbamelika"_s)
+			$of(u"lea fakasipeini-lātini-ʻamelika"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("key.ca"_s),
-			$of(u"tohi m\u0101hina"_s)
+			$of(u"tohi māhina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("key.cf"_s),
-			$of(u"anga pa\u02bbanga"_s)
+			$of(u"anga paʻanga"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("key.co"_s),
@@ -4342,7 +4342,7 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("key.cu"_s),
-			$of(u"pa\u02bbanga"_s)
+			$of(u"paʻanga"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("key.hc"_s),
@@ -4350,7 +4350,7 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("key.lb"_s),
-			$of(u"fesi\u02bbilaine"_s)
+			$of(u"fesiʻilaine"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("key.ms"_s),
@@ -4378,43 +4378,43 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("type.hc.h11"_s),
-			$of(u"takai houa 0\u201311"_s)
+			$of(u"takai houa 0–11"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.hc.h12"_s),
-			$of(u"takai houa 1\u201312"_s)
+			$of(u"takai houa 1–12"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.hc.h23"_s),
-			$of(u"takai houa 0\u201323"_s)
+			$of(u"takai houa 0–23"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.hc.h24"_s),
-			$of(u"takai houa 1\u201324"_s)
+			$of(u"takai houa 1–24"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.arab"_s),
-			$of(u"fika faka\u02bbalepea"_s)
+			$of(u"fika fakaʻalepea"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.armn"_s),
-			$of(u"fika faka\u02bb\u0101menia"_s)
+			$of(u"fika fakaʻāmenia"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.beng"_s),
-			$of(u"faka fakap\u0101ngil\u0101"_s)
+			$of(u"faka fakapāngilā"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.deva"_s),
-			$of(u"fika fakatevan\u0101kal\u012b"_s)
+			$of(u"fika fakatevanākalī"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.ethi"_s),
-			$of(u"fika faka\u02bb\u012bti\u014dpia"_s)
+			$of(u"fika fakaʻītiōpia"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.geor"_s),
-			$of(u"fika fakase\u014dsia"_s)
+			$of(u"fika fakaseōsia"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.grek"_s),
@@ -4426,7 +4426,7 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.guru"_s),
-			$of(u"fika fakak\u016bmuki"_s)
+			$of(u"fika fakakūmuki"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.hans"_s),
@@ -4438,7 +4438,7 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.hebr"_s),
-			$of(u"fika fakahepel\u016b"_s)
+			$of(u"fika fakahepelū"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.jpan"_s),
@@ -4446,7 +4446,7 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.khmr"_s),
-			$of(u"fika fakakamip\u014dtia"_s)
+			$of(u"fika fakakamipōtia"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.knda"_s),
@@ -4462,7 +4462,7 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.mlym"_s),
-			$of(u"fika fakamal\u0101ialami"_s)
+			$of(u"fika fakamalāialami"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.mymr"_s),
@@ -4470,11 +4470,11 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.nkoo"_s),
-			$of(u"fika fakanik\u014d"_s)
+			$of(u"fika fakanikō"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.orya"_s),
-			$of(u"fika faka\u02bbotia"_s)
+			$of(u"fika fakaʻotia"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.taml"_s),
@@ -4498,11 +4498,11 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("type.co.ducet"_s),
-			$of(u"\u02bbunik\u014dti"_s)
+			$of(u"ʻunikōti"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.lb.loose"_s),
-			$of(u"fesi\u02bbilaine ngaloku"_s)
+			$of(u"fesiʻilaine ngaloku"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.roman"_s),
@@ -4510,23 +4510,23 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("type.ca.hebrew"_s),
-			$of(u"fakahepel\u016b"_s)
+			$of(u"fakahepelū"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.ca.indian"_s),
-			$of(u"faka\u02bbinitia"_s)
+			$of(u"fakaʻinitia"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.co.search"_s),
-			$of(u"fakakumi \u02bbi hono anga lahi"_s)
+			$of(u"fakakumi ʻi hono anga lahi"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.lb.normal"_s),
-			$of(u"fesi\u02bbilaine fa\u02bbafai"_s)
+			$of(u"fesiʻilaine faʻafai"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.lb.strict"_s),
-			$of(u"fesi\u02bbilaine mafao"_s)
+			$of(u"fesiʻilaine mafao"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.ms.metric"_s),
@@ -4546,19 +4546,19 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("type.ca.persian"_s),
-			$of(u"fakap\u0113sia"_s)
+			$of(u"fakapēsia"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.cf.account"_s),
-			$of(u"anga pa\u02bbanga-kalake"_s)
+			$of(u"anga paʻanga-kalake"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.arabext"_s),
-			$of(u"fika faka\u02bbalepea fakalahi"_s)
+			$of(u"fika fakaʻalepea fakalahi"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.armnlow"_s),
-			$of(u"fika faka\u02bb\u0101menia fakalalo"_s)
+			$of(u"fika fakaʻāmenia fakalalo"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.greklow"_s),
@@ -4570,15 +4570,15 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.hansfin"_s),
-			$of(u"fika fakasiaina fakafaingofua fakapa\u02bbanga"_s)
+			$of(u"fika fakasiaina fakafaingofua fakapaʻanga"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.hantfin"_s),
-			$of(u"fika fakasiaina tukufakaholo fakapa\u02bbanga"_s)
+			$of(u"fika fakasiaina tukufakaholo fakapaʻanga"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.jpanfin"_s),
-			$of(u"fika fakasiapani fakapa\u02bbanga"_s)
+			$of(u"fika fakasiapani fakapaʻanga"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.tamldec"_s),
@@ -4590,7 +4590,7 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("type.ca.ethiopic"_s),
-			$of(u"faka\u02bb\u012bti\u014dpia"_s)
+			$of(u"fakaʻītiōpia"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.ca.japanese"_s),
@@ -4598,19 +4598,19 @@ $ObjectArray2* LocaleNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("type.cf.standard"_s),
-			$of(u"anga pa\u02bbanga-s\u012bpinga"_s)
+			$of(u"anga paʻanga-sīpinga"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.co.standard"_s),
-			$of(u"fakas\u012bpinga"_s)
+			$of(u"fakasīpinga"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.ms.uksystem"_s),
-			$of(u"founga fakapilit\u0101nia"_s)
+			$of(u"founga fakapilitānia"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.ms.ussystem"_s),
-			$of(u"founga faka\u02bbamelika"_s)
+			$of(u"founga fakaʻamelika"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.fullwide"_s),

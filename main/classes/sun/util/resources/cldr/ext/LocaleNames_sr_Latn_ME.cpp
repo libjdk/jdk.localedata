@@ -50,11 +50,11 @@ $ObjectArray2* LocaleNames_sr_Latn_ME::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("CZ"_s),
-			$of(u"\u010ce\u0161ka Republika"_s)
+			$of(u"Češka Republika"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("DE"_s),
-			$of(u"Njema\u010dka"_s)
+			$of(u"Njemačka"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("KN"_s),
@@ -78,11 +78,11 @@ $ObjectArray2* LocaleNames_sr_Latn_ME::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("VG"_s),
-			$of(u"Britanska Djevi\u010danska Ostrva"_s)
+			$of(u"Britanska Djevičanska Ostrva"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("VI"_s),
-			$of(u"Ameri\u010dka Djevi\u010danska Ostrva"_s)
+			$of(u"Američka Djevičanska Ostrva"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("be"_s),
@@ -102,11 +102,11 @@ $ObjectArray2* LocaleNames_sr_Latn_ME::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ht"_s),
-			$of(u"hai\u0107anski kreolski"_s)
+			$of(u"haićanski kreolski"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lo"_s),
-			$of(u"lao\u0161ki"_s)
+			$of(u"laoški"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xh"_s),
@@ -126,19 +126,19 @@ $ObjectArray2* LocaleNames_sr_Latn_ME::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("nqo"_s),
-			$of(u"n\u2019ko"_s)
+			$of(u"n’ko"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("shi"_s),
-			$of(u"ju\u017eni \u0161ilha"_s)
+			$of(u"južni šilha"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("tzm"_s),
-			$of(u"centralnoatlaski tama\u0161ek"_s)
+			$of(u"centralnoatlaski tamašek"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("zgh"_s),
-			$of(u"standardni marokanski tama\u0161ek"_s)
+			$of(u"standardni marokanski tamašek"_s)
 		})
 	}));
 	return data;

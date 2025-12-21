@@ -42,7 +42,7 @@ void TimeZoneNames_es_MX::init$() {
 $ObjectArray2* TimeZoneNames_es_MX::getContents() {
 	$useLocalCurrentObjectStackCache();
 	$var($StringArray, Apia, $new($StringArray, {
-		u"hora est\u00e1ndar de Apia"_s,
+		u"hora estándar de Apia"_s,
 		""_s,
 		"hora de verano de Apia"_s,
 		""_s,
@@ -50,7 +50,7 @@ $ObjectArray2* TimeZoneNames_es_MX::getContents() {
 		""_s
 	}));
 	$var($StringArray, Cook, $new($StringArray, {
-		u"hora est\u00e1ndar de las Islas Cook"_s,
+		u"hora estándar de las Islas Cook"_s,
 		""_s,
 		"hora de verano media de las Islas Cook"_s,
 		""_s,
@@ -74,7 +74,7 @@ $ObjectArray2* TimeZoneNames_es_MX::getContents() {
 		""_s
 	}));
 	$var($StringArray, Easter, $new($StringArray, {
-		u"hora est\u00e1ndar de la isla de Pascua"_s,
+		u"hora estándar de la isla de Pascua"_s,
 		""_s,
 		"hora de verano de la isla de Pascua"_s,
 		""_s,
@@ -82,7 +82,7 @@ $ObjectArray2* TimeZoneNames_es_MX::getContents() {
 		""_s
 	}));
 	$var($StringArray, Solomon, $new($StringArray, {
-		u"hora de las Islas Salom\u00f3n"_s,
+		u"hora de las Islas Salomón"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -90,7 +90,7 @@ $ObjectArray2* TimeZoneNames_es_MX::getContents() {
 		""_s
 	}));
 	$var($StringArray, Falkland, $new($StringArray, {
-		u"hora est\u00e1ndar de Islas Malvinas"_s,
+		u"hora estándar de Islas Malvinas"_s,
 		""_s,
 		"hora de verano de Islas Malvinas"_s,
 		""_s,
@@ -114,20 +114,20 @@ $ObjectArray2* TimeZoneNames_es_MX::getContents() {
 		""_s
 	}));
 	$var($StringArray, Europe_Eastern, $new($StringArray, {
-		u"hora est\u00e1ndar de Europa oriental"_s,
-		u"\u2205\u2205\u2205"_s,
+		u"hora estándar de Europa oriental"_s,
+		u"∅∅∅"_s,
 		"hora de verano de Europa oriental"_s,
-		u"\u2205\u2205\u2205"_s,
+		u"∅∅∅"_s,
 		"hora de Europa oriental"_s,
-		u"\u2205\u2205\u2205"_s
+		u"∅∅∅"_s
 	}));
 	$var($StringArray, Europe_Western, $new($StringArray, {
-		u"hora est\u00e1ndar de Europa occidental"_s,
-		u"\u2205\u2205\u2205"_s,
+		u"hora estándar de Europa occidental"_s,
+		u"∅∅∅"_s,
 		"hora de verano de Europa occidental"_s,
-		u"\u2205\u2205\u2205"_s,
+		u"∅∅∅"_s,
 		"hora de Europa occidental"_s,
-		u"\u2205\u2205\u2205"_s
+		u"∅∅∅"_s
 	}));
 	$var($StringArray, Gilbert_Islands, $new($StringArray, {
 		"hora de las Islas Gilbert"_s,
@@ -308,11 +308,11 @@ $ObjectArray2* TimeZoneNames_es_MX::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Almaty"_s),
-			$of(u"Almat\u00fd"_s)
+			$of(u"Almatý"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Aqtobe"_s),
-			$of(u"Aktob\u00e9"_s)
+			$of(u"Aktobé"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Atyrau"_s),

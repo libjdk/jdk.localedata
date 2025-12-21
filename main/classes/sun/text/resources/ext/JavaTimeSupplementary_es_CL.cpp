@@ -39,10 +39,10 @@ void JavaTimeSupplementary_es_CL::init$() {
 $ObjectArray2* JavaTimeSupplementary_es_CL::getContents() {
 	$useLocalCurrentObjectStackCache();
 	$var($StringArray, sharedQuarterNames, $new($StringArray, {
-		u"1.\u00b0 trimestre"_s,
-		u"2.\u00b0 trimestre"_s,
-		u"3.\u00b0 trimestre"_s,
-		u"4.\u00ba trimestre"_s
+		u"1.° trimestre"_s,
+		u"2.° trimestre"_s,
+		u"3.° trimestre"_s,
+		u"4.º trimestre"_s
 	}));
 	$var($StringArray, sharedAmPmMarkers, $new($StringArray, {
 		"a.m."_s,

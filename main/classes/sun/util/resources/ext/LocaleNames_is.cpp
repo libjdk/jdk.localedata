@@ -41,11 +41,11 @@ $ObjectArray2* LocaleNames_is::getContents() {
 	return $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("IS"_s),
-			$of(u"\u00cdsland"_s)
+			$of(u"Ísland"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("is"_s),
-			$of(u"\u00edslenska"_s)
+			$of(u"íslenska"_s)
 		})
 	});
 }

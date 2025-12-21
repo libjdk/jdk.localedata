@@ -574,7 +574,7 @@ $ObjectArray2* CurrencyNames_uz::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("UZS"_s),
-			$of(u"so\u02bbm"_s)
+			$of(u"soʻm"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("VEF"_s),
@@ -610,7 +610,7 @@ $ObjectArray2* CurrencyNames_uz::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("afn"_s),
-			$of(u"Afg\u2018oniston afg\u2018oniysi"_s)
+			$of(u"Afg‘oniston afg‘oniysi"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("all"_s),
@@ -702,7 +702,7 @@ $ObjectArray2* CurrencyNames_uz::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("byr"_s),
-			$of(u"Belarus rubli (2000\u20132016)"_s)
+			$of(u"Belarus rubli (2000–2016)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bzd"_s),
@@ -890,7 +890,7 @@ $ObjectArray2* CurrencyNames_uz::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("kgs"_s),
-			$of(u"Qirg\u2018iziston somi"_s)
+			$of(u"Qirg‘iziston somi"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("khr"_s),
@@ -918,7 +918,7 @@ $ObjectArray2* CurrencyNames_uz::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("kzt"_s),
-			$of(u"Qozog\u2018iston tengesi"_s)
+			$of(u"Qozog‘iston tengesi"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lak"_s),
@@ -978,7 +978,7 @@ $ObjectArray2* CurrencyNames_uz::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("mro"_s),
-			$of(u"Mavritaniya uqiyasi (1973\u20132017)"_s)
+			$of(u"Mavritaniya uqiyasi (1973–2017)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mru"_s),
@@ -1046,7 +1046,7 @@ $ObjectArray2* CurrencyNames_uz::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("pgk"_s),
-			$of(u"Papua \u2013 Yangi Gvineya kinasi"_s)
+			$of(u"Papua – Yangi Gvineya kinasi"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("php"_s),
@@ -1130,7 +1130,7 @@ $ObjectArray2* CurrencyNames_uz::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("std"_s),
-			$of(u"San-Tome va Prinsipi dobrasi (1977\u20132017)"_s)
+			$of(u"San-Tome va Prinsipi dobrasi (1977–2017)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("stn"_s),
@@ -1198,11 +1198,11 @@ $ObjectArray2* CurrencyNames_uz::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("uzs"_s),
-			$of(u"O\u2018zbekiston so\u2018mi"_s)
+			$of(u"O‘zbekiston so‘mi"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("vef"_s),
-			$of(u"Venesuela bolivari (2008\u20132018)"_s)
+			$of(u"Venesuela bolivari (2008–2018)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ves"_s),
@@ -1230,7 +1230,7 @@ $ObjectArray2* CurrencyNames_uz::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("xof"_s),
-			$of(u"G\u2018arbiy Afrika CFA franki"_s)
+			$of(u"G‘arbiy Afrika CFA franki"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xpf"_s),
@@ -1238,7 +1238,7 @@ $ObjectArray2* CurrencyNames_uz::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("xxx"_s),
-			$of(u"Noma\u2019lum valyuta"_s)
+			$of(u"Noma’lum valyuta"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("yer"_s),

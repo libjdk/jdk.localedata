@@ -43,7 +43,7 @@ void TimeZoneNames_mi::init$() {
 $ObjectArray2* TimeZoneNames_mi::getContents() {
 	$useLocalCurrentObjectStackCache();
 	$var($StringArray, GMT, $new($StringArray, {
-		u"W\u0101 Toharite Greenwich"_s,
+		u"Wā Toharite Greenwich"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -51,7 +51,7 @@ $ObjectArray2* TimeZoneNames_mi::getContents() {
 		""_s
 	}));
 	$var($StringArray, ETC_UTC, $new($StringArray, {
-		u"W\u0101 Aonui K\u014dtuitui"_s,
+		u"Wā Aonui Kōtuitui"_s,
 		"UTC"_s,
 		""_s,
 		""_s,
@@ -59,67 +59,67 @@ $ObjectArray2* TimeZoneNames_mi::getContents() {
 		""_s
 	}));
 	$var($StringArray, Atlantic, $new($StringArray, {
-		u"W\u0101 Arowh\u0101nui Ranatiki"_s,
+		u"Wā Arowhānui Ranatiki"_s,
 		""_s,
-		u"W\u0101 Awatea Ranatiki"_s,
+		u"Wā Awatea Ranatiki"_s,
 		""_s,
-		u"W\u0101 Ranatiki"_s,
+		u"Wā Ranatiki"_s,
 		""_s
 	}));
 	$var($StringArray, Europe_Central, $new($StringArray, {
-		u"W\u0101 Arowh\u0101nui Uropi Waenga"_s,
+		u"Wā Arowhānui Uropi Waenga"_s,
 		""_s,
-		u"W\u0101 Raumati Uropi Waenga"_s,
+		u"Wā Raumati Uropi Waenga"_s,
 		""_s,
-		u"W\u0101 Uropi Waenga"_s,
+		u"Wā Uropi Waenga"_s,
 		""_s
 	}));
 	$var($StringArray, Europe_Eastern, $new($StringArray, {
-		u"W\u0101 Arowh\u0101nui Uropi R\u0101whiti"_s,
+		u"Wā Arowhānui Uropi Rāwhiti"_s,
 		""_s,
-		u"W\u0101 Raumati Uropi R\u0101whiti"_s,
+		u"Wā Raumati Uropi Rāwhiti"_s,
 		""_s,
-		u"W\u0101 Uropi R\u0101whiti"_s,
+		u"Wā Uropi Rāwhiti"_s,
 		""_s
 	}));
 	$var($StringArray, Europe_Western, $new($StringArray, {
-		u"W\u0101 Arowh\u0101nui Uropi Uru"_s,
+		u"Wā Arowhānui Uropi Uru"_s,
 		""_s,
-		u"W\u0101 Raumati Uropi Uru"_s,
+		u"Wā Raumati Uropi Uru"_s,
 		""_s,
-		u"W\u0101 Uropi Uru"_s,
+		u"Wā Uropi Uru"_s,
 		""_s
 	}));
 	$var($StringArray, America_Central, $new($StringArray, {
-		u"W\u0101 Arowh\u0101nui Waenga"_s,
+		u"Wā Arowhānui Waenga"_s,
 		""_s,
-		u"W\u0101 Awatea Waenga"_s,
+		u"Wā Awatea Waenga"_s,
 		""_s,
-		u"W\u0101 Waenga"_s,
+		u"Wā Waenga"_s,
 		""_s
 	}));
 	$var($StringArray, America_Eastern, $new($StringArray, {
-		u"W\u0101 Arowh\u0101nui R\u0101whiti"_s,
+		u"Wā Arowhānui Rāwhiti"_s,
 		""_s,
-		u"W\u0101 Awatea R\u0101whiti"_s,
+		u"Wā Awatea Rāwhiti"_s,
 		""_s,
-		u"W\u0101 R\u0101whiti"_s,
+		u"Wā Rāwhiti"_s,
 		""_s
 	}));
 	$var($StringArray, America_Pacific, $new($StringArray, {
-		u"W\u0101 Arowh\u0101nui Kiwa"_s,
+		u"Wā Arowhānui Kiwa"_s,
 		""_s,
-		u"W\u0101 Awatea Kiwa"_s,
+		u"Wā Awatea Kiwa"_s,
 		""_s,
-		u"W\u0101 Kiwa"_s,
+		u"Wā Kiwa"_s,
 		""_s
 	}));
 	$var($StringArray, America_Mountain, $new($StringArray, {
-		u"W\u0101 Arowh\u0101nui Maunga"_s,
+		u"Wā Arowhānui Maunga"_s,
 		""_s,
-		u"W\u0101 Awatea Maunga"_s,
+		u"Wā Awatea Maunga"_s,
 		""_s,
-		u"W\u0101 Maunga"_s,
+		u"Wā Maunga"_s,
 		""_s
 	}));
 	$var($ObjectArray2, data, $new($ObjectArray2, {
@@ -929,7 +929,7 @@ $ObjectArray2* TimeZoneNames_mi::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Etc/Unknown"_s),
-			$of(u"T\u0101one T\u0113 M\u014dhiotia"_s)
+			$of(u"Tāone Tē Mōhiotia"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Lima"_s),
@@ -1005,7 +1005,7 @@ $ObjectArray2* TimeZoneNames_mi::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Pacific/Chatham"_s),
-			$of(u"R\u0113kohu"_s)
+			$of(u"Rēkohu"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Asuncion"_s),
@@ -1029,7 +1029,7 @@ $ObjectArray2* TimeZoneNames_mi::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Pacific/Auckland"_s),
-			$of(u"T\u0101maki Makaurau"_s)
+			$of(u"Tāmaki Makaurau"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Araguaina"_s),

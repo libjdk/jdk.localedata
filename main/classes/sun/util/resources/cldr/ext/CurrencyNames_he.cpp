@@ -154,7 +154,7 @@ $ObjectArray2* CurrencyNames_he::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("CNY"_s),
-			$of(u"\u200eCN\u00a5\u200e"_s)
+			$of(u"\u200eCN¥\u200e"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("COP"_s),
@@ -266,7 +266,7 @@ $ObjectArray2* CurrencyNames_he::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ILP"_s),
-			$of(u"\u05dc\u05f4\u05d9"_s)
+			$of(u"ל״י"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("IQD"_s),
@@ -290,7 +290,7 @@ $ObjectArray2* CurrencyNames_he::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("JPY"_s),
-			$of(u"\u00a5"_s)
+			$of(u"¥"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("KES"_s),
@@ -542,7 +542,7 @@ $ObjectArray2* CurrencyNames_he::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("THB"_s),
-			$of(u"\u0e3f"_s)
+			$of(u"฿"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("TJS"_s),
@@ -622,911 +622,911 @@ $ObjectArray2* CurrencyNames_he::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("adp"_s),
-			$of(u"\u05e4\u05d6\u05d8\u05d4 \u05d0\u05e0\u05d3\u05d5\u05e8\u05d9\u05ea"_s)
+			$of(u"פזטה אנדורית"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("aed"_s),
-			$of(u"\u05d3\u05d9\u05e8\u05d4\u05dd \u05e9\u05dc \u05d0\u05d9\u05d7\u05d5\u05d3 \u05d4\u05e0\u05e1\u05d9\u05db\u05d5\u05d9\u05d5\u05ea \u05d4\u05e2\u05e8\u05d1\u05d9\u05d5\u05ea"_s)
+			$of(u"דירהם של איחוד הנסיכויות הערביות"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("afn"_s),
-			$of(u"\u05d0\u05e4\u05d2\u05e0\u05d9 \u05d0\u05e4\u05d2\u05e0\u05d9"_s)
+			$of(u"אפגני אפגני"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("all"_s),
-			$of(u"\u05dc\u05e7 \u05d0\u05dc\u05d1\u05e0\u05d9"_s)
+			$of(u"לק אלבני"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("amd"_s),
-			$of(u"\u05d3\u05e8\u05d0\u05dd \u05d0\u05e8\u05de\u05e0\u05d9"_s)
+			$of(u"דראם ארמני"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ang"_s),
-			$of(u"\u05d2\u05d9\u05dc\u05d3\u05e8 \u05e9\u05dc \u05d4\u05d0\u05e0\u05d8\u05d9\u05dc\u05d9\u05dd \u05d4\u05d4\u05d5\u05dc\u05e0\u05d3\u05d9\u05d9\u05dd"_s)
+			$of(u"גילדר של האנטילים ההולנדיים"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("aoa"_s),
-			$of(u"\u05e7\u05d5\u05d0\u05e0\u05d6\u05d4 \u05d0\u05e0\u05d2\u05d5\u05dc\u05d9"_s)
+			$of(u"קואנזה אנגולי"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("aon"_s),
-			$of(u"\u05e7\u05d5\u05d0\u05e0\u05d6\u05d4 \u05d7\u05d3\u05e9 \u05d0\u05e0\u05d2\u05d5\u05dc\u05d9 (1990\u20132000)"_s)
+			$of(u"קואנזה חדש אנגולי (1990–2000)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("aor"_s),
-			$of(u"\u05e7\u05d5\u05d0\u05e0\u05d6\u05d4 \u05e8\u05d2\u05f3\u05d5\u05e1\u05d8\u05d3\u05d5 \u05d0\u05e0\u05d2\u05d5\u05dc\u05d9 (1995\u20131999)"_s)
+			$of(u"קואנזה רג׳וסטדו אנגולי (1995–1999)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("arp"_s),
-			$of(u"\u05e4\u05d6\u05d5 \u05d0\u05e8\u05d2\u05e0\u05d8\u05d9\u05e0\u05d0\u05d9 (1983\u20131985)"_s)
+			$of(u"פזו ארגנטינאי (1983–1985)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ars"_s),
-			$of(u"\u05e4\u05e1\u05d5 \u05d0\u05e8\u05d2\u05e0\u05d8\u05d9\u05e0\u05d0\u05d9"_s)
+			$of(u"פסו ארגנטינאי"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ats"_s),
-			$of(u"\u05e9\u05d9\u05dc\u05d9\u05e0\u05d2 \u05d0\u05d5\u05e1\u05d8\u05e8\u05d9"_s)
+			$of(u"שילינג אוסטרי"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("aud"_s),
-			$of(u"\u05d3\u05d5\u05dc\u05e8 \u05d0\u05d5\u05e1\u05d8\u05e8\u05dc\u05d9"_s)
+			$of(u"דולר אוסטרלי"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("awg"_s),
-			$of(u"\u05e4\u05dc\u05d5\u05e8\u05d9\u05df \u05e9\u05dc \u05d0\u05e8\u05d5\u05d1\u05d4"_s)
+			$of(u"פלורין של ארובה"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("azm"_s),
-			$of(u"\u05de\u05e0\u05d0\u05d8 \u05d0\u05d6\u05e8\u05d1\u05d9\u05d2\u05f3\u05d0\u05e0\u05d9 (1993\u20132006)"_s)
+			$of(u"מנאט אזרביג׳אני (1993–2006)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("azn"_s),
-			$of(u"\u05de\u05d0\u05e0\u05d0\u05d8 \u05d0\u05d6\u05e8\u05d1\u05d9\u05d9\u05d2\u05f3\u05e0\u05d9"_s)
+			$of(u"מאנאט אזרבייג׳ני"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bad"_s),
-			$of(u"\u05d3\u05d9\u05e0\u05e8 \u05e9\u05dc \u05d1\u05d5\u05e1\u05e0\u05d9\u05d4\u05be\u05d4\u05e8\u05e6\u05d2\u05d5\u05d1\u05d9\u05e0\u05d4"_s)
+			$of(u"דינר של בוסניה־הרצגובינה"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bam"_s),
-			$of(u"\u05de\u05d0\u05e8\u05e7 \u05e1\u05d7\u05d9\u05e8 \u05e9\u05dc \u05d1\u05d5\u05e1\u05e0\u05d9\u05d4 \u05d5\u05d4\u05e8\u05e6\u05d2\u05d5\u05d1\u05d9\u05e0\u05d4"_s)
+			$of(u"מארק סחיר של בוסניה והרצגובינה"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bbd"_s),
-			$of(u"\u05d3\u05d5\u05dc\u05e8 \u05d1\u05e8\u05d1\u05d3\u05d9\u05d0\u05e0\u05d9"_s)
+			$of(u"דולר ברבדיאני"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bdt"_s),
-			$of(u"\u05d8\u05d0\u05e7\u05d4 \u05d1\u05e0\u05d2\u05dc\u05d3\u05e9\u05d9"_s)
+			$of(u"טאקה בנגלדשי"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bec"_s),
-			$of(u"\u05e4\u05e8\u05e0\u05e7 \u05d1\u05dc\u05d2\u05d9 (\u05d1\u05e8 \u05d4\u05de\u05e8\u05d4)"_s)
+			$of(u"פרנק בלגי (בר המרה)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bef"_s),
-			$of(u"\u05e4\u05e8\u05e0\u05e7 \u05d1\u05dc\u05d2\u05d9"_s)
+			$of(u"פרנק בלגי"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bgl"_s),
-			$of(u"\u05dc\u05d1 \u05d1\u05d5\u05dc\u05d2\u05e8\u05d9 \u05d9\u05e9\u05df"_s)
+			$of(u"לב בולגרי ישן"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bgn"_s),
-			$of(u"\u05dc\u05d1 \u05d1\u05d5\u05dc\u05d2\u05e8\u05d9"_s)
+			$of(u"לב בולגרי"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bhd"_s),
-			$of(u"\u05d3\u05d9\u05e0\u05e8 \u05d1\u05d7\u05e8\u05d9\u05d9\u05e0\u05d9"_s)
+			$of(u"דינר בחרייני"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bif"_s),
-			$of(u"\u05e4\u05e8\u05e0\u05e7 \u05d1\u05d5\u05e8\u05d5\u05e0\u05d3\u05d9"_s)
+			$of(u"פרנק בורונדי"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bmd"_s),
-			$of(u"\u05d3\u05d5\u05dc\u05e8 \u05d1\u05e8\u05de\u05d5\u05d3\u05d4"_s)
+			$of(u"דולר ברמודה"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bnd"_s),
-			$of(u"\u05d3\u05d5\u05dc\u05e8 \u05d1\u05e8\u05d5\u05e0\u05d9\u05d9"_s)
+			$of(u"דולר ברוניי"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bob"_s),
-			$of(u"\u05d1\u05d5\u05dc\u05d9\u05d1\u05d9\u05d0\u05e0\u05d5"_s)
+			$of(u"בוליביאנו"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bop"_s),
-			$of(u"\u05e4\u05d6\u05d5 \u05d1\u05d5\u05dc\u05d9\u05d1\u05d9"_s)
+			$of(u"פזו בוליבי"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("brb"_s),
-			$of(u"\u05e7\u05e8\u05d5\u05d6\u05d9\u05d0\u05e8\u05d5 \u05d7\u05d3\u05e9 \u05d1\u05e8\u05d6\u05d9\u05dc\u05d0\u05d9 (1967\u20131986)"_s)
+			$of(u"קרוזיארו חדש ברזילאי (1967–1986)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("brc"_s),
-			$of(u"\u05e7\u05e8\u05d5\u05d6\u05d3\u05d5 \u05d1\u05e8\u05d6\u05d9\u05dc\u05d0\u05d9"_s)
+			$of(u"קרוזדו ברזילאי"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("brl"_s),
-			$of(u"\u05e8\u05d9\u05d0\u05dc \u05d1\u05e8\u05d6\u05d9\u05dc\u05d0\u05d9"_s)
+			$of(u"ריאל ברזילאי"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bsd"_s),
-			$of(u"\u05d3\u05d5\u05dc\u05e8 \u05d1\u05d4\u05d0\u05de\u05d9"_s)
+			$of(u"דולר בהאמי"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("btn"_s),
-			$of(u"\u05e0\u05d2\u05d5\u05dc\u05d8\u05e8\u05d5\u05dd \u05d1\u05d4\u05d5\u05d8\u05e0\u05d9"_s)
+			$of(u"נגולטרום בהוטני"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bwp"_s),
-			$of(u"\u05e4\u05d5\u05dc\u05d4 \u05d1\u05d5\u05d8\u05e1\u05d5\u05d0\u05e0\u05d9"_s)
+			$of(u"פולה בוטסואני"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("byn"_s),
-			$of(u"\u05e8\u05d5\u05d1\u05dc \u05d1\u05dc\u05e8\u05d5\u05e1\u05d9"_s)
+			$of(u"רובל בלרוסי"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("byr"_s),
-			$of(u"\u05e8\u05d5\u05d1\u05dc \u05d1\u05dc\u05e8\u05d5\u05e1\u05d9 (2000\u20132016)"_s)
+			$of(u"רובל בלרוסי (2000–2016)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bzd"_s),
-			$of(u"\u05d3\u05d5\u05dc\u05e8 \u05d1\u05dc\u05d9\u05d6\u05d9"_s)
+			$of(u"דולר בליזי"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cad"_s),
-			$of(u"\u05d3\u05d5\u05dc\u05e8 \u05e7\u05e0\u05d3\u05d9"_s)
+			$of(u"דולר קנדי"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cdf"_s),
-			$of(u"\u05e4\u05e8\u05e0\u05e7 \u05e7\u05d5\u05e0\u05d2\u05d5\u05dc\u05d6\u05d9"_s)
+			$of(u"פרנק קונגולזי"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("chf"_s),
-			$of(u"\u05e4\u05e8\u05e0\u05e7 \u05e9\u05d5\u05d5\u05d9\u05e6\u05e8\u05d9"_s)
+			$of(u"פרנק שוויצרי"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("clp"_s),
-			$of(u"\u05e4\u05e1\u05d5 \u05e6\u05f3\u05d9\u05dc\u05d0\u05e0\u05d9"_s)
+			$of(u"פסו צ׳ילאני"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cnh"_s),
-			$of(u"\u05d9\u05d5\u05d0\u05df \u05e1\u05d9\u05e0\u05d9 (CNH)"_s)
+			$of(u"יואן סיני (CNH)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cny"_s),
-			$of(u"\u05d9\u05d5\u05d0\u05df \u05e1\u05d9\u05e0\u05d9"_s)
+			$of(u"יואן סיני"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cop"_s),
-			$of(u"\u05e4\u05e1\u05d5 \u05e7\u05d5\u05dc\u05d5\u05de\u05d1\u05d9\u05d0\u05e0\u05d9"_s)
+			$of(u"פסו קולומביאני"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("crc"_s),
-			$of(u"\u05e7\u05d5\u05dc\u05d5\u05df \u05e7\u05d5\u05e1\u05d8\u05d4\u05be\u05e8\u05d9\u05e7\u05e0\u05d9"_s)
+			$of(u"קולון קוסטה־ריקני"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("csd"_s),
-			$of(u"\u05d3\u05d9\u05e0\u05e8 \u05e1\u05e8\u05d1\u05d9 \u05d9\u05e9\u05df"_s)
+			$of(u"דינר סרבי ישן"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cuc"_s),
-			$of(u"\u05e4\u05d6\u05d5 \u05e7\u05d5\u05d1\u05e0\u05d9 \u05dc\u05d4\u05de\u05e8\u05d4"_s)
+			$of(u"פזו קובני להמרה"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cup"_s),
-			$of(u"\u05e4\u05d6\u05d5 \u05e7\u05d5\u05d1\u05e0\u05d9"_s)
+			$of(u"פזו קובני"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cve"_s),
-			$of(u"\u05d0\u05e1\u05e7\u05d5\u05d3\u05d5 \u05db\u05e3 \u05d5\u05e8\u05d3\u05d4"_s)
+			$of(u"אסקודו כף ורדה"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cyp"_s),
-			$of(u"\u05dc\u05d9\u05e8\u05d4 \u05e7\u05e4\u05e8\u05d9\u05e1\u05d0\u05d9\u05ea"_s)
+			$of(u"לירה קפריסאית"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("czk"_s),
-			$of(u"\u05e7\u05d5\u05e8\u05d5\u05e0\u05d4 \u05e6\u05f3\u05db\u05d9\u05ea"_s)
+			$of(u"קורונה צ׳כית"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ddm"_s),
-			$of(u"\u05de\u05e8\u05e7 \u05de\u05d6\u05e8\u05d7 \u05d2\u05e8\u05de\u05e0\u05d9"_s)
+			$of(u"מרק מזרח גרמני"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("dem"_s),
-			$of(u"\u05de\u05e8\u05e7 \u05d2\u05e8\u05de\u05e0\u05d9"_s)
+			$of(u"מרק גרמני"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("djf"_s),
-			$of(u"\u05e4\u05e8\u05e0\u05e7 \u05d2\u05f3\u05d9\u05d1\u05d5\u05d8\u05d9"_s)
+			$of(u"פרנק ג׳יבוטי"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("dkk"_s),
-			$of(u"\u05db\u05ea\u05e8 \u05d3\u05e0\u05d9"_s)
+			$of(u"כתר דני"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("dop"_s),
-			$of(u"\u05e4\u05d6\u05d5 \u05d3\u05d5\u05de\u05d9\u05e0\u05d9\u05e7\u05e0\u05d9"_s)
+			$of(u"פזו דומיניקני"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("dzd"_s),
-			$of(u"\u05d3\u05d9\u05e0\u05e8 \u05d0\u05dc\u05d2\u05f3\u05d9\u05e8\u05d9"_s)
+			$of(u"דינר אלג׳ירי"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ecs"_s),
-			$of(u"\u05e1\u05d5\u05e7\u05e8 \u05d0\u05e7\u05d5\u05d0\u05d3\u05d5\u05e8\u05d9"_s)
+			$of(u"סוקר אקואדורי"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("eek"_s),
-			$of(u"\u05e7\u05e8\u05d5\u05df \u05d0\u05e1\u05d8\u05d5\u05e0\u05d9"_s)
+			$of(u"קרון אסטוני"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("egp"_s),
-			$of(u"\u05dc\u05d9\u05e8\u05d4 \u05de\u05e6\u05e8\u05d9\u05ea"_s)
+			$of(u"לירה מצרית"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ern"_s),
-			$of(u"\u05e0\u05d0\u05e7\u05e4\u05d4 \u05d0\u05e8\u05d9\u05ea\u05e8\u05d0\u05d9"_s)
+			$of(u"נאקפה אריתראי"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("esp"_s),
-			$of(u"\u05e4\u05e1\u05d8\u05d4 \u05e1\u05e4\u05e8\u05d3\u05d9"_s)
+			$of(u"פסטה ספרדי"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("etb"_s),
-			$of(u"\u05d1\u05d9\u05e8 \u05d0\u05ea\u05d9\u05d5\u05e4\u05d9"_s)
+			$of(u"ביר אתיופי"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("eur"_s),
-			$of(u"\u05d0\u05d9\u05e8\u05d5"_s)
+			$of(u"אירו"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("fim"_s),
-			$of(u"\u05de\u05e8\u05e7 \u05e4\u05d9\u05e0\u05d9"_s)
+			$of(u"מרק פיני"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("fjd"_s),
-			$of(u"\u05d3\u05d5\u05dc\u05e8 \u05e4\u05d9\u05d2\u05f3\u05d9"_s)
+			$of(u"דולר פיג׳י"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("fkp"_s),
-			$of(u"\u05dc\u05d9\u05e8\u05d4 \u05e9\u05dc \u05d0\u05d9\u05d9 \u05e4\u05d5\u05e7\u05dc\u05e0\u05d3"_s)
+			$of(u"לירה של איי פוקלנד"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("frf"_s),
-			$of(u"\u05e4\u05e8\u05e0\u05e7 \u05e6\u05e8\u05e4\u05ea\u05d9"_s)
+			$of(u"פרנק צרפתי"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gbp"_s),
-			$of(u"\u05dc\u05d9\u05e8\u05d4 \u05e9\u05d8\u05e8\u05dc\u05d9\u05e0\u05d2"_s)
+			$of(u"לירה שטרלינג"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gel"_s),
-			$of(u"\u05dc\u05d0\u05e8\u05d9 \u05d2\u05d0\u05d5\u05e8\u05d2\u05d9"_s)
+			$of(u"לארי גאורגי"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ghs"_s),
-			$of(u"\u05e1\u05d3\u05d9 \u05d2\u05d0\u05e0\u05d9"_s)
+			$of(u"סדי גאני"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gip"_s),
-			$of(u"\u05e4\u05d0\u05d5\u05e0\u05d3 \u05d2\u05d9\u05d1\u05e8\u05dc\u05d8\u05e8"_s)
+			$of(u"פאונד גיברלטר"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gmd"_s),
-			$of(u"\u05d3\u05dc\u05e1\u05d9 \u05d2\u05de\u05d1\u05d9"_s)
+			$of(u"דלסי גמבי"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gnf"_s),
-			$of(u"\u05e4\u05e8\u05e0\u05e7 \u05d2\u05d9\u05e0\u05d0\u05d9"_s)
+			$of(u"פרנק גינאי"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("grd"_s),
-			$of(u"\u05d3\u05e8\u05db\u05de\u05d4"_s)
+			$of(u"דרכמה"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gtq"_s),
-			$of(u"\u05e7\u05e6\u05d0\u05dc \u05d2\u05d5\u05d0\u05d8\u05de\u05dc\u05d9"_s)
+			$of(u"קצאל גואטמלי"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gwp"_s),
-			$of(u"\u05e4\u05d6\u05d5 \u05d2\u05d9\u05e0\u05d0\u05d9"_s)
+			$of(u"פזו גינאי"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gyd"_s),
-			$of(u"\u05d3\u05d5\u05dc\u05e8 \u05d2\u05d9\u05d0\u05e0\u05d9"_s)
+			$of(u"דולר גיאני"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("hkd"_s),
-			$of(u"\u05d3\u05d5\u05dc\u05e8 \u05d4\u05d5\u05e0\u05d2 \u05e7\u05d5\u05e0\u05d2\u05d9"_s)
+			$of(u"דולר הונג קונגי"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("hnl"_s),
-			$of(u"\u05dc\u05de\u05e4\u05d9\u05e8\u05d4 \u05d4\u05d5\u05e0\u05d3\u05d5\u05e8\u05d9"_s)
+			$of(u"למפירה הונדורי"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("hrk"_s),
-			$of(u"\u05e7\u05d5\u05e0\u05d4 \u05e7\u05e8\u05d5\u05d0\u05d8\u05d9"_s)
+			$of(u"קונה קרואטי"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("htg"_s),
-			$of(u"\u05d2\u05d5\u05e8\u05d3 \u05d4\u05d0\u05d9\u05d8\u05d9"_s)
+			$of(u"גורד האיטי"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("huf"_s),
-			$of(u"\u05e4\u05d5\u05e8\u05d9\u05e0\u05d8 \u05d4\u05d5\u05e0\u05d2\u05e8\u05d9"_s)
+			$of(u"פורינט הונגרי"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("idr"_s),
-			$of(u"\u05e8\u05d5\u05e4\u05d9\u05d4 \u05d0\u05d9\u05e0\u05d3\u05d5\u05e0\u05d6\u05d9\u05ea"_s)
+			$of(u"רופיה אינדונזית"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("iep"_s),
-			$of(u"\u05dc\u05d9\u05e8\u05d4 \u05d0\u05d9\u05e8\u05d9\u05ea"_s)
+			$of(u"לירה אירית"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ilp"_s),
-			$of(u"\u05dc\u05d9\u05e8\u05d4 \u05d9\u05e9\u05e8\u05d0\u05dc\u05d9\u05ea"_s)
+			$of(u"לירה ישראלית"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ils"_s),
-			$of(u"\u05e9\u05e7\u05dc \u05d7\u05d3\u05e9"_s)
+			$of(u"שקל חדש"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("inr"_s),
-			$of(u"\u05e8\u05d5\u05e4\u05d9 \u05d4\u05d5\u05d3\u05d9"_s)
+			$of(u"רופי הודי"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("iqd"_s),
-			$of(u"\u05d3\u05d9\u05e0\u05e8 \u05e2\u05d9\u05e8\u05d0\u05e7\u05d9"_s)
+			$of(u"דינר עיראקי"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("irr"_s),
-			$of(u"\u05e8\u05d9\u05d0\u05dc \u05d0\u05d9\u05e8\u05d0\u05e0\u05d9"_s)
+			$of(u"ריאל איראני"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("isk"_s),
-			$of(u"\u05db\u05ea\u05e8 \u05d0\u05d9\u05e1\u05dc\u05e0\u05d3\u05d9"_s)
+			$of(u"כתר איסלנדי"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("itl"_s),
-			$of(u"\u05dc\u05d9\u05e8\u05d4 \u05d0\u05d9\u05d8\u05dc\u05e7\u05d9\u05ea"_s)
+			$of(u"לירה איטלקית"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("jmd"_s),
-			$of(u"\u05d3\u05d5\u05dc\u05e8 \u05d2\u05f3\u05de\u05d9\u05d9\u05e7\u05e0\u05d9"_s)
+			$of(u"דולר ג׳מייקני"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("jod"_s),
-			$of(u"\u05d3\u05d9\u05e0\u05e8 \u05d9\u05e8\u05d3\u05e0\u05d9"_s)
+			$of(u"דינר ירדני"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("jpy"_s),
-			$of(u"\u05d9\u05df \u05d9\u05e4\u05e0\u05d9"_s)
+			$of(u"ין יפני"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kes"_s),
-			$of(u"\u05e9\u05d9\u05dc\u05d9\u05e0\u05d2 \u05e7\u05e0\u05d9\u05d9\u05ea\u05d9"_s)
+			$of(u"שילינג קנייתי"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kgs"_s),
-			$of(u"\u05e1\u05d5\u05dd \u05e7\u05d9\u05e8\u05d2\u05d9\u05d6\u05d9"_s)
+			$of(u"סום קירגיזי"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("khr"_s),
-			$of(u"\u05e8\u05d9\u05dc \u05e7\u05de\u05d1\u05d5\u05d3\u05d9"_s)
+			$of(u"ריל קמבודי"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kmf"_s),
-			$of(u"\u05e4\u05e8\u05e0\u05e7 \u05e7\u05d5\u05de\u05d5\u05e8\u05d5\u05d0\u05d9"_s)
+			$of(u"פרנק קומורואי"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kpw"_s),
-			$of(u"\u05d5\u05d5\u05df \u05e6\u05e4\u05d5\u05df \u05e7\u05d5\u05e8\u05d9\u05d0\u05e0\u05d9"_s)
+			$of(u"וון צפון קוריאני"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("krw"_s),
-			$of(u"\u05d5\u05d5\u05df \u05d3\u05e8\u05d5\u05dd \u05e7\u05d5\u05e8\u05d9\u05d0\u05e0\u05d9"_s)
+			$of(u"וון דרום קוריאני"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kwd"_s),
-			$of(u"\u05d3\u05d9\u05e0\u05e8 \u05db\u05d5\u05d5\u05d9\u05ea\u05d9"_s)
+			$of(u"דינר כוויתי"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kyd"_s),
-			$of(u"\u05d3\u05d5\u05dc\u05e8 \u05e7\u05d9\u05d9\u05de\u05e0\u05d9"_s)
+			$of(u"דולר קיימני"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kzt"_s),
-			$of(u"\u05d8\u05e0\u05d2\u05d4 \u05e7\u05d6\u05d7\u05e1\u05d8\u05e0\u05d9"_s)
+			$of(u"טנגה קזחסטני"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lak"_s),
-			$of(u"\u05e7\u05d9\u05e4 \u05dc\u05d0\u05d9"_s)
+			$of(u"קיפ לאי"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lbp"_s),
-			$of(u"\u05dc\u05d9\u05e8\u05d4 \u05dc\u05d1\u05e0\u05d5\u05e0\u05d9\u05ea"_s)
+			$of(u"לירה לבנונית"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lkr"_s),
-			$of(u"\u05e8\u05d5\u05e4\u05d9 \u05e1\u05e8\u05d9 \u05dc\u05e0\u05e7\u05d9"_s)
+			$of(u"רופי סרי לנקי"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lrd"_s),
-			$of(u"\u05d3\u05d5\u05dc\u05e8 \u05dc\u05d9\u05d1\u05e8\u05d9"_s)
+			$of(u"דולר ליברי"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lsl"_s),
-			$of(u"\u05dc\u05d5\u05d8\u05d9 \u05dc\u05e1\u05d5\u05ea\u05d9"_s)
+			$of(u"לוטי לסותי"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ltl"_s),
-			$of(u"\u05dc\u05d9\u05d8\u05d0 \u05dc\u05d9\u05d8\u05d0\u05d9"_s)
+			$of(u"ליטא ליטאי"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("luf"_s),
-			$of(u"\u05e4\u05e8\u05e0\u05e7 \u05dc\u05d5\u05e7\u05e1\u05de\u05d1\u05d5\u05e8\u05d2\u05d9"_s)
+			$of(u"פרנק לוקסמבורגי"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lvl"_s),
-			$of(u"\u05dc\u05d8 \u05dc\u05d8\u05d1\u05d9"_s)
+			$of(u"לט לטבי"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lyd"_s),
-			$of(u"\u05d3\u05d9\u05e0\u05e8 \u05dc\u05d5\u05d1\u05d9"_s)
+			$of(u"דינר לובי"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mad"_s),
-			$of(u"\u05d3\u05d9\u05e8\u05d4\u05dd \u05de\u05e8\u05d5\u05e7\u05d0\u05d9"_s)
+			$of(u"דירהם מרוקאי"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("maf"_s),
-			$of(u"\u05e4\u05e8\u05e0\u05e7 \u05de\u05e8\u05d5\u05e7\u05d0\u05d9"_s)
+			$of(u"פרנק מרוקאי"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mdl"_s),
-			$of(u"\u05dc\u05d0\u05d5 \u05de\u05d5\u05dc\u05d3\u05d5\u05d1\u05e0\u05d9"_s)
+			$of(u"לאו מולדובני"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mga"_s),
-			$of(u"\u05d0\u05e8\u05d9\u05d0\u05e8\u05d9 \u05de\u05dc\u05d2\u05e9\u05d9"_s)
+			$of(u"אריארי מלגשי"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mgf"_s),
-			$of(u"\u05e4\u05e8\u05e0\u05e7 \u05de\u05d3\u05d2\u05e1\u05e7\u05d0\u05e8\u05d9"_s)
+			$of(u"פרנק מדגסקארי"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mkd"_s),
-			$of(u"\u05d3\u05d9\u05e0\u05e8 \u05de\u05e7\u05d3\u05d5\u05e0\u05d9"_s)
+			$of(u"דינר מקדוני"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mmk"_s),
-			$of(u"\u05e7\u05d9\u05d0\u05d8 \u05de\u05d9\u05d0\u05e0\u05de\u05e8\u05d9"_s)
+			$of(u"קיאט מיאנמרי"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mnt"_s),
-			$of(u"\u05d8\u05d5\u05d2\u05e8\u05d5\u05d2 \u05de\u05d5\u05e0\u05d2\u05d5\u05dc\u05d9"_s)
+			$of(u"טוגרוג מונגולי"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mop"_s),
-			$of(u"\u05e4\u05d8\u05e7\u05d4 \u05e9\u05dc \u05de\u05e7\u05d0\u05d5"_s)
+			$of(u"פטקה של מקאו"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mro"_s),
-			$of(u"\u05d0\u05d5\u05d0\u05d5\u05d2\u05d5\u05d9\u05d4 \u05de\u05d0\u05d5\u05e8\u05d9\u05d8\u05e0\u05d9 (1973\u20132017)"_s)
+			$of(u"אואוגויה מאוריטני (1973–2017)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mru"_s),
-			$of(u"\u05d0\u05d5\u05d0\u05d5\u05d2\u05d5\u05d9\u05d4 \u05de\u05d0\u05d5\u05e8\u05d9\u05d8\u05e0\u05d9"_s)
+			$of(u"אואוגויה מאוריטני"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mtl"_s),
-			$of(u"\u05dc\u05d9\u05e8\u05d4 \u05de\u05dc\u05d8\u05d9\u05ea"_s)
+			$of(u"לירה מלטית"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mur"_s),
-			$of(u"\u05e8\u05d5\u05e4\u05d9 \u05de\u05d0\u05d5\u05e8\u05d9\u05e6\u05d9\u05e0\u05d9"_s)
+			$of(u"רופי מאוריציני"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mvr"_s),
-			$of(u"\u05e8\u05d5\u05e4\u05d9\u05d4 \u05de\u05dc\u05d3\u05d9\u05d1\u05d9\u05ea"_s)
+			$of(u"רופיה מלדיבית"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mwk"_s),
-			$of(u"\u05e7\u05d5\u05d0\u05e6\u05f3\u05d4 \u05de\u05dc\u05d0\u05d5\u05d5\u05d9"_s)
+			$of(u"קואצ׳ה מלאווי"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mxn"_s),
-			$of(u"\u05e4\u05d6\u05d5 \u05de\u05e7\u05e1\u05d9\u05e7\u05e0\u05d9"_s)
+			$of(u"פזו מקסיקני"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mxp"_s),
-			$of(u"\u05e4\u05d6\u05d5 \u05de\u05e7\u05e1\u05d9\u05e7\u05e0\u05d9 (1861 \u2013 1992)"_s)
+			$of(u"פזו מקסיקני (1861 – 1992)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("myr"_s),
-			$of(u"\u05e8\u05d9\u05e0\u05d2\u05d9\u05d8 \u05de\u05dc\u05d6\u05d9"_s)
+			$of(u"רינגיט מלזי"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mze"_s),
-			$of(u"\u05d0\u05e1\u05e7\u05d5\u05d3\u05d5 \u05de\u05d5\u05d6\u05de\u05d1\u05d9\u05e7\u05d9"_s)
+			$of(u"אסקודו מוזמביקי"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mzm"_s),
-			$of(u"\u05de\u05d8\u05d9\u05e7\u05dc"_s)
+			$of(u"מטיקל"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mzn"_s),
-			$of(u"\u05de\u05d8\u05d9\u05e7\u05dc \u05de\u05d5\u05d6\u05de\u05d1\u05d9\u05e0\u05d9"_s)
+			$of(u"מטיקל מוזמביני"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("nad"_s),
-			$of(u"\u05d3\u05d5\u05dc\u05e8 \u05e0\u05de\u05d9\u05d1\u05d9"_s)
+			$of(u"דולר נמיבי"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ngn"_s),
-			$of(u"\u05e0\u05d0\u05d9\u05e8\u05d4 \u05e0\u05d9\u05d2\u05e8\u05d9"_s)
+			$of(u"נאירה ניגרי"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("nio"_s),
-			$of(u"\u05e7\u05d5\u05e8\u05d3\u05d5\u05d1\u05d4 \u05e0\u05d9\u05e7\u05e8\u05d2\u05d5\u05d0\u05d4"_s)
+			$of(u"קורדובה ניקרגואה"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("nlg"_s),
-			$of(u"\u05d2\u05d9\u05dc\u05d3\u05df \u05d4\u05d5\u05dc\u05e0\u05d3\u05d9"_s)
+			$of(u"גילדן הולנדי"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("nok"_s),
-			$of(u"\u05db\u05ea\u05e8 \u05e0\u05d5\u05e8\u05d5\u05d5\u05d2\u05d9"_s)
+			$of(u"כתר נורווגי"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("npr"_s),
-			$of(u"\u05e8\u05d5\u05e4\u05d9 \u05e0\u05e4\u05d0\u05dc\u05d9"_s)
+			$of(u"רופי נפאלי"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("nzd"_s),
-			$of(u"\u05d3\u05d5\u05dc\u05e8 \u05e0\u05d9\u05d5 \u05d6\u05d9\u05dc\u05e0\u05d3\u05d9"_s)
+			$of(u"דולר ניו זילנדי"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("omr"_s),
-			$of(u"\u05e8\u05d9\u05d0\u05dc \u05e2\u05d5\u05de\u05d0\u05e0\u05d9"_s)
+			$of(u"ריאל עומאני"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pab"_s),
-			$of(u"\u05d1\u05dc\u05d1\u05d5\u05d0\u05d4 \u05e4\u05e0\u05de\u05d9"_s)
+			$of(u"בלבואה פנמי"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pen"_s),
-			$of(u"\u05e1\u05d5\u05dc \u05e4\u05e8\u05d5\u05d0\u05e0\u05d9"_s)
+			$of(u"סול פרואני"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pgk"_s),
-			$of(u"\u05e7\u05d9\u05e0\u05d4 \u05e9\u05dc \u05e4\u05e4\u05d5\u05d0\u05d4 \u05d2\u05d9\u05e0\u05d0\u05d4 \u05d4\u05d7\u05d3\u05e9\u05d4"_s)
+			$of(u"קינה של פפואה גינאה החדשה"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("php"_s),
-			$of(u"\u05e4\u05d6\u05d5 \u05e4\u05d9\u05dc\u05d9\u05e4\u05d9\u05e0\u05d9"_s)
+			$of(u"פזו פיליפיני"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pkr"_s),
-			$of(u"\u05e8\u05d5\u05e4\u05d9 \u05e4\u05e7\u05d9\u05e1\u05d8\u05e0\u05d9"_s)
+			$of(u"רופי פקיסטני"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pln"_s),
-			$of(u"\u05d6\u05dc\u05d5\u05d8\u05d9 \u05e4\u05d5\u05dc\u05e0\u05d9"_s)
+			$of(u"זלוטי פולני"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pte"_s),
-			$of(u"\u05d0\u05e1\u05e7\u05d5\u05d3\u05d5 \u05e4\u05d5\u05e8\u05d8\u05d5\u05d2\u05dc\u05d9"_s)
+			$of(u"אסקודו פורטוגלי"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pyg"_s),
-			$of(u"\u05d2\u05d5\u05d0\u05e8\u05e0\u05d9 \u05e4\u05e8\u05d2\u05d5\u05d5\u05d0\u05d9"_s)
+			$of(u"גוארני פרגוואי"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("qar"_s),
-			$of(u"\u05e8\u05d9\u05d0\u05dc \u05e7\u05d8\u05d0\u05e8\u05d9"_s)
+			$of(u"ריאל קטארי"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("rol"_s),
-			$of(u"\u05dc\u05d0\u05d5 \u05e8\u05d5\u05de\u05e0\u05d9 \u05d9\u05e9\u05df"_s)
+			$of(u"לאו רומני ישן"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ron"_s),
-			$of(u"\u05dc\u05d0\u05d5 \u05e8\u05d5\u05de\u05e0\u05d9"_s)
+			$of(u"לאו רומני"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("rsd"_s),
-			$of(u"\u05d3\u05d9\u05e0\u05e8 \u05e1\u05e8\u05d1\u05d9"_s)
+			$of(u"דינר סרבי"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("rub"_s),
-			$of(u"\u05e8\u05d5\u05d1\u05dc \u05e8\u05d5\u05e1\u05d9"_s)
+			$of(u"רובל רוסי"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("rur"_s),
-			$of(u"\u05e8\u05d5\u05d1\u05dc \u05e8\u05d5\u05e1\u05d9 (1991 \u2013 1998)"_s)
+			$of(u"רובל רוסי (1991 – 1998)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("rwf"_s),
-			$of(u"\u05e4\u05e8\u05e0\u05e7 \u05e8\u05d5\u05d0\u05e0\u05d3\u05d9"_s)
+			$of(u"פרנק רואנדי"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sar"_s),
-			$of(u"\u05e8\u05d9\u05d0\u05dc \u05e1\u05e2\u05d5\u05d3\u05d9"_s)
+			$of(u"ריאל סעודי"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sbd"_s),
-			$of(u"\u05d3\u05d5\u05dc\u05e8 \u05d0\u05d9\u05d9 \u05e9\u05dc\u05de\u05d4"_s)
+			$of(u"דולר איי שלמה"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("scr"_s),
-			$of(u"\u05e8\u05d5\u05e4\u05d9 \u05e1\u05d9\u05d9\u05e9\u05dc\u05d9"_s)
+			$of(u"רופי סיישלי"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sdd"_s),
-			$of(u"\u05d3\u05d9\u05e0\u05e8 \u05e1\u05d5\u05d3\u05e0\u05d9"_s)
+			$of(u"דינר סודני"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sdg"_s),
-			$of(u"\u05dc\u05d9\u05e8\u05d4 \u05e1\u05d5\u05d3\u05e0\u05d9\u05ea"_s)
+			$of(u"לירה סודנית"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sdp"_s),
-			$of(u"\u05dc\u05d9\u05e8\u05d4 \u05e1\u05d5\u05d3\u05e0\u05d9\u05ea (1957\u20131998)"_s)
+			$of(u"לירה סודנית (1957–1998)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sek"_s),
-			$of(u"\u05db\u05ea\u05e8 \u05e9\u05d5\u05d5\u05d3\u05d9"_s)
+			$of(u"כתר שוודי"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sgd"_s),
-			$of(u"\u05d3\u05d5\u05dc\u05e8 \u05e1\u05d9\u05e0\u05d2\u05e4\u05d5\u05e8\u05d9"_s)
+			$of(u"דולר סינגפורי"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("shp"_s),
-			$of(u"\u05e4\u05d0\u05d5\u05e0\u05d3 \u05e1\u05e0\u05d8 \u05d4\u05dc\u05e0\u05d9"_s)
+			$of(u"פאונד סנט הלני"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sit"_s),
-			$of(u"\u05d8\u05d5\u05dc\u05d0\u05e8 \u05e1\u05dc\u05d5\u05d1\u05e0\u05d9"_s)
+			$of(u"טולאר סלובני"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("skk"_s),
-			$of(u"\u05e7\u05d5\u05e8\u05d5\u05e0\u05d4 \u05e1\u05dc\u05d5\u05d1\u05e7\u05d9"_s)
+			$of(u"קורונה סלובקי"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sll"_s),
-			$of(u"\u05dc\u05d9\u05d0\u05d5\u05df \u05e1\u05d9\u05d9\u05e8\u05d4 \u05dc\u05d0\u05d5\u05e0\u05d9"_s)
+			$of(u"ליאון סיירה לאוני"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sos"_s),
-			$of(u"\u05e9\u05d9\u05dc\u05d9\u05e0\u05d2 \u05e1\u05d5\u05de\u05dc\u05d9"_s)
+			$of(u"שילינג סומלי"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("srd"_s),
-			$of(u"\u05d3\u05d5\u05dc\u05e8 \u05e1\u05d5\u05e8\u05d9\u05e0\u05d0\u05de\u05d9"_s)
+			$of(u"דולר סורינאמי"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("srg"_s),
-			$of(u"\u05d2\u05d9\u05dc\u05d3\u05e8 \u05e1\u05d5\u05e8\u05d9\u05e0\u05d0\u05de\u05d9"_s)
+			$of(u"גילדר סורינאמי"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ssp"_s),
-			$of(u"\u05dc\u05d9\u05e8\u05d4 \u05d3\u05e8\u05d5\u05dd-\u05e1\u05d5\u05d3\u05e0\u05d9\u05ea"_s)
+			$of(u"לירה דרום-סודנית"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("std"_s),
-			$of(u"\u05d3\u05d5\u05d1\u05e8\u05d4 \u05e9\u05dc \u05e1\u05df \u05d8\u05d5\u05de\u05d4 \u05d5\u05e4\u05e8\u05d9\u05e0\u05e1\u05d9\u05e4\u05d4 (1977\u20132017)"_s)
+			$of(u"דוברה של סן טומה ופרינסיפה (1977–2017)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("stn"_s),
-			$of(u"\u05d3\u05d5\u05d1\u05e8\u05d4 \u05e9\u05dc \u05e1\u05d0\u05d5 \u05d8\u05d5\u05de\u05d4 \u05d5\u05e4\u05e8\u05d9\u05e0\u05e1\u05d9\u05e4\u05d4"_s)
+			$of(u"דוברה של סאו טומה ופרינסיפה"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sur"_s),
-			$of(u"\u05e8\u05d5\u05d1\u05dc \u05e1\u05d5\u05d1\u05d9\u05d9\u05d8\u05d9"_s)
+			$of(u"רובל סובייטי"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("svc"_s),
-			$of(u"\u05e7\u05d5\u05dc\u05d5\u05df \u05e1\u05dc\u05d1\u05d3\u05d5\u05e8\u05d9"_s)
+			$of(u"קולון סלבדורי"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("syp"_s),
-			$of(u"\u05dc\u05d9\u05e8\u05d4 \u05e1\u05d5\u05e8\u05d9\u05ea"_s)
+			$of(u"לירה סורית"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("szl"_s),
-			$of(u"\u05dc\u05d9\u05dc\u05e0\u05d2\u05e0\u05d9 \u05e1\u05d5\u05d5\u05d6\u05d9\u05dc\u05e0\u05d3\u05d9"_s)
+			$of(u"לילנגני סווזילנדי"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("thb"_s),
-			$of(u"\u05d1\u05d4\u05d8 \u05ea\u05d0\u05d9\u05dc\u05e0\u05d3\u05d9"_s)
+			$of(u"בהט תאילנדי"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("tjs"_s),
-			$of(u"\u05e1\u05d5\u05de\u05d5\u05e0\u05d9 \u05d8\u05d2\u05f3\u05e7\u05d9\u05e1\u05d8\u05e0\u05d9"_s)
+			$of(u"סומוני טג׳קיסטני"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("tmm"_s),
-			$of(u"\u05de\u05e0\u05d0\u05d8 \u05d8\u05d5\u05e8\u05e7\u05de\u05d0\u05e0\u05d9"_s)
+			$of(u"מנאט טורקמאני"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("tmt"_s),
-			$of(u"\u05de\u05d0\u05e0\u05d0\u05d8 \u05d8\u05d5\u05e8\u05e7\u05de\u05e0\u05d9"_s)
+			$of(u"מאנאט טורקמני"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("tnd"_s),
-			$of(u"\u05d3\u05d9\u05e0\u05e8 \u05d8\u05d5\u05e0\u05d9\u05e1\u05d0\u05d9"_s)
+			$of(u"דינר טוניסאי"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("top"_s),
-			$of(u"\u05e4\u05d0\u05e0\u05d2\u05d4 \u05d8\u05d5\u05e0\u05d2\u05d9"_s)
+			$of(u"פאנגה טונגי"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("tpe"_s),
-			$of(u"\u05d0\u05e1\u05e7\u05d5\u05d3\u05d5 \u05d8\u05d9\u05de\u05d5\u05e8\u05d0\u05d9"_s)
+			$of(u"אסקודו טימוראי"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("trl"_s),
-			$of(u"\u05dc\u05d9\u05e8\u05d4 \u05d8\u05d5\u05e8\u05e7\u05d9\u05ea"_s)
+			$of(u"לירה טורקית"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("try"_s),
-			$of(u"\u05dc\u05d9\u05e8\u05d4 \u05d8\u05d5\u05e8\u05e7\u05d9\u05ea \u05d7\u05d3\u05e9\u05d4"_s)
+			$of(u"לירה טורקית חדשה"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ttd"_s),
-			$of(u"\u05d3\u05d5\u05dc\u05e8 \u05d8\u05e8\u05d9\u05e0\u05d9\u05d3\u05d3\u05d9"_s)
+			$of(u"דולר טרינידדי"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("twd"_s),
-			$of(u"\u05d3\u05d5\u05dc\u05e8 \u05d8\u05d9\u05d9\u05d5\u05d5\u05d0\u05e0\u05d9 \u05d7\u05d3\u05e9"_s)
+			$of(u"דולר טייוואני חדש"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("tzs"_s),
-			$of(u"\u05e9\u05d9\u05dc\u05d9\u05e0\u05d2 \u05d8\u05e0\u05d6\u05e0\u05d9"_s)
+			$of(u"שילינג טנזני"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("uah"_s),
-			$of(u"\u05d4\u05e8\u05d9\u05d1\u05e0\u05d4 \u05d0\u05d5\u05e7\u05e8\u05d0\u05d9\u05e0\u05d9"_s)
+			$of(u"הריבנה אוקראיני"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ugs"_s),
-			$of(u"\u05e9\u05d9\u05dc\u05d9\u05e0\u05d2 \u05d0\u05d5\u05d2\u05e0\u05d3\u05d9 (1966 \u2013 1987)"_s)
+			$of(u"שילינג אוגנדי (1966 – 1987)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ugx"_s),
-			$of(u"\u05e9\u05d9\u05dc\u05d9\u05e0\u05d2 \u05d0\u05d5\u05d2\u05e0\u05d3\u05d9"_s)
+			$of(u"שילינג אוגנדי"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("usd"_s),
-			$of(u"\u05d3\u05d5\u05dc\u05e8 \u05d0\u05de\u05e8\u05d9\u05e7\u05d0\u05d9"_s)
+			$of(u"דולר אמריקאי"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("usn"_s),
-			$of(u"\u05d3\u05d5\u05dc\u05e8 \u05d0\u05de\u05e8\u05d9\u05e7\u05d0\u05d9 (\u05d4\u05d9\u05d5\u05dd \u05d4\u05d1\u05d0)"_s)
+			$of(u"דולר אמריקאי (היום הבא)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("uss"_s),
-			$of(u"\u05d3\u05d5\u05dc\u05e8 \u05d0\u05de\u05e8\u05d9\u05e7\u05d0\u05d9 (\u05d4\u05d9\u05d5\u05dd \u05d4\u05d6\u05d4)"_s)
+			$of(u"דולר אמריקאי (היום הזה)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("uyu"_s),
-			$of(u"\u05e4\u05e1\u05d5 \u05d0\u05d5\u05e8\u05d5\u05d2\u05d5\u05d5\u05d0\u05d9"_s)
+			$of(u"פסו אורוגוואי"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("uzs"_s),
-			$of(u"\u05e1\u05d5\u05dd \u05d0\u05d5\u05d6\u05d1\u05e7\u05d9"_s)
+			$of(u"סום אוזבקי"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("veb"_s),
-			$of(u"\u05d1\u05d5\u05dc\u05d9\u05d1\u05e8 \u05d5\u05e0\u05e6\u05d5\u05d0\u05dc\u05d9 (1871\u20132008)"_s)
+			$of(u"בוליבר ונצואלי (1871–2008)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("vef"_s),
-			$of(u"\u05d1\u05d5\u05dc\u05d9\u05d1\u05e8 \u05d5\u05e0\u05e6\u05d5\u05d0\u05dc\u05d9 (2008\u20132018)"_s)
+			$of(u"בוליבר ונצואלי (2008–2018)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ves"_s),
-			$of(u"\u05d1\u05d5\u05dc\u05d9\u05d1\u05e8 \u05d5\u05e0\u05e6\u05d5\u05d0\u05dc\u05d9"_s)
+			$of(u"בוליבר ונצואלי"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("vnd"_s),
-			$of(u"\u05d3\u05d5\u05e0\u05d2 \u05d5\u05d9\u05d9\u05d8\u05e0\u05d0\u05de\u05d9"_s)
+			$of(u"דונג וייטנאמי"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("vuv"_s),
-			$of(u"\u05d5\u05d0\u05d8\u05d5 \u05e9\u05dc \u05d5\u05e0\u05d5\u05d0\u05d8\u05d5"_s)
+			$of(u"ואטו של ונואטו"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("wst"_s),
-			$of(u"\u05d8\u05d0\u05dc\u05d4 \u05e1\u05de\u05d5\u05d0\u05d9"_s)
+			$of(u"טאלה סמואי"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xaf"_s),
-			$of(u"\u05e4\u05e8\u05e0\u05e7 CFA \u05de\u05e8\u05db\u05d6 \u05d0\u05e4\u05e8\u05d9\u05e7\u05e0\u05d9"_s)
+			$of(u"פרנק CFA מרכז אפריקני"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xag"_s),
-			$of(u"\u05db\u05e1\u05e3"_s)
+			$of(u"כסף"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xau"_s),
-			$of(u"\u05d6\u05d4\u05d1"_s)
+			$of(u"זהב"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xcd"_s),
-			$of(u"\u05d3\u05d5\u05dc\u05e8 \u05de\u05d6\u05e8\u05d7 \u05e7\u05e8\u05d9\u05d1\u05d9"_s)
+			$of(u"דולר מזרח קריבי"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xdr"_s),
-			$of(u"\u05d6\u05db\u05d5\u05d9\u05d5\u05ea \u05de\u05e9\u05d9\u05db\u05d4 \u05de\u05d9\u05d5\u05d7\u05d3\u05d5\u05ea"_s)
+			$of(u"זכויות משיכה מיוחדות"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xfo"_s),
-			$of(u"\u05e4\u05e8\u05e0\u05e7 \u05d6\u05d4\u05d1"_s)
+			$of(u"פרנק זהב"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xof"_s),
-			$of(u"\u05e4\u05e8\u05e0\u05e7 CFA \u05de\u05e2\u05e8\u05d1 \u05d0\u05e4\u05e8\u05d9\u05e7\u05e0\u05d9"_s)
+			$of(u"פרנק CFA מערב אפריקני"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xpd"_s),
-			$of(u"\u05e4\u05dc\u05d3\u05d9\u05d5\u05dd"_s)
+			$of(u"פלדיום"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xpf"_s),
-			$of(u"\u05e4\u05e8\u05e0\u05e7 \u05e4\u05d5\u05dc\u05d9\u05e0\u05d6\u05d9\u05d4 \u05d4\u05e6\u05e8\u05e4\u05ea\u05d9\u05ea"_s)
+			$of(u"פרנק פולינזיה הצרפתית"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xpt"_s),
-			$of(u"\u05e4\u05dc\u05d8\u05d9\u05e0\u05d4"_s)
+			$of(u"פלטינה"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xts"_s),
-			$of(u"\u05e1\u05d9\u05de\u05d5\u05df \u05dc\u05de\u05d8\u05e8\u05d5\u05ea \u05d1\u05d3\u05d9\u05e7\u05d4"_s)
+			$of(u"סימון למטרות בדיקה"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xxx"_s),
-			$of(u"\u05de\u05d8\u05d1\u05e2 \u05e9\u05d0\u05d9\u05e0\u05d5 \u05d9\u05d3\u05d5\u05e2"_s)
+			$of(u"מטבע שאינו ידוע"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ydd"_s),
-			$of(u"\u05d3\u05d9\u05e0\u05e8 \u05ea\u05d9\u05de\u05e0\u05d9"_s)
+			$of(u"דינר תימני"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("yer"_s),
-			$of(u"\u05e8\u05d9\u05d0\u05dc \u05ea\u05d9\u05de\u05e0\u05d9"_s)
+			$of(u"ריאל תימני"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("zal"_s),
-			$of(u"\u05e8\u05d0\u05e0\u05d3 \u05d3\u05e8\u05d5\u05dd \u05d0\u05e4\u05e8\u05d9\u05e7\u05d0\u05d9 (\u05db\u05e1\u05e4\u05d9)"_s)
+			$of(u"ראנד דרום אפריקאי (כספי)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("zar"_s),
-			$of(u"\u05e8\u05d0\u05e0\u05d3 \u05d3\u05e8\u05d5\u05dd \u05d0\u05e4\u05e8\u05d9\u05e7\u05d0\u05d9"_s)
+			$of(u"ראנד דרום אפריקאי"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("zmk"_s),
-			$of(u"\u05e7\u05d5\u05d5\u05d0\u05e6\u05f3\u05d4 \u05d6\u05de\u05d1\u05d9\u05ea (1968\u20132012)"_s)
+			$of(u"קוואצ׳ה זמבית (1968–2012)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("zmw"_s),
-			$of(u"\u05e7\u05d5\u05d5\u05d0\u05e6\u05f3\u05d4 \u05d6\u05de\u05d1\u05d9"_s)
+			$of(u"קוואצ׳ה זמבי"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("zrn"_s),
-			$of(u"\u05d6\u05d0\u05d9\u05e8 \u05d7\u05d3\u05e9"_s)
+			$of(u"זאיר חדש"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("zwd"_s),
-			$of(u"\u05d3\u05d5\u05dc\u05e8 \u05d6\u05d9\u05de\u05d1\u05d1\u05d5\u05d0\u05d9"_s)
+			$of(u"דולר זימבבואי"_s)
 		})
 	}));
 	return data;

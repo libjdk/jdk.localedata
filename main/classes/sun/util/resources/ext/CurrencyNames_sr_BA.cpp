@@ -41,11 +41,11 @@ $ObjectArray2* CurrencyNames_sr_BA::getContents() {
 	return $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("BAM"_s),
-			$of(u"\u041a\u041c."_s)
+			$of(u"КМ."_s)
 		}),
 		$$new($ObjectArray, {
 			$of("EUR"_s),
-			$of(u"\u20ac"_s)
+			$of(u"€"_s)
 		})
 	});
 }

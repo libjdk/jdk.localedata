@@ -42,7 +42,7 @@ $ObjectArray2* LocaleNames_rw::getContents() {
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("MK"_s),
-			$of(u"Masedoniya y\u2019Amajyaruguru"_s)
+			$of(u"Masedoniya y’Amajyaruguru"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("RW"_s),
@@ -162,7 +162,7 @@ $ObjectArray2* LocaleNames_rw::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("gd"_s),
-			$of(u"Ikigaluwa cy\u2019Igisweduwa"_s)
+			$of(u"Ikigaluwa cy’Igisweduwa"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gl"_s),

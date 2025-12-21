@@ -39,10 +39,10 @@ void JavaTimeSupplementary_sk::init$() {
 $ObjectArray2* JavaTimeSupplementary_sk::getContents() {
 	$useLocalCurrentObjectStackCache();
 	$var($StringArray, sharedQuarterNames, $new($StringArray, {
-		u"1. \u0161tvr\u0165rok"_s,
-		u"2. \u0161tvr\u0165rok"_s,
-		u"3. \u0161tvr\u0165rok"_s,
-		u"4. \u0161tvr\u0165rok"_s
+		u"1. štvrťrok"_s,
+		u"2. štvrťrok"_s,
+		u"3. štvrťrok"_s,
+		u"4. štvrťrok"_s
 	}));
 	$var($StringArray, sharedAmPmMarkers, $new($StringArray, {
 		"AM"_s,
@@ -59,16 +59,16 @@ $ObjectArray2* JavaTimeSupplementary_sk::getContents() {
 		"po"_s,
 		"ut"_s,
 		"st"_s,
-		u"\u0161t"_s,
+		u"št"_s,
 		"pi"_s,
 		"so"_s
 	}));
 	$var($StringArray, sharedDayNames, $new($StringArray, {
-		u"nede\u013ea"_s,
+		u"nedeľa"_s,
 		"pondelok"_s,
 		"utorok"_s,
 		"streda"_s,
-		u"\u0161tvrtok"_s,
+		u"štvrtok"_s,
 		"piatok"_s,
 		"sobota"_s
 	}));
@@ -77,7 +77,7 @@ $ObjectArray2* JavaTimeSupplementary_sk::getContents() {
 		"p"_s,
 		"u"_s,
 		"s"_s,
-		u"\u0161"_s,
+		u"š"_s,
 		"p"_s,
 		"s"_s
 	}));
@@ -106,39 +106,39 @@ $ObjectArray2* JavaTimeSupplementary_sk::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.buddhist"_s),
-			$of(u"buddhistick\u00fd kalend\u00e1r"_s)
+			$of(u"buddhistický kalendár"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.gregorian"_s),
-			$of(u"gregori\u00e1nsky kalend\u00e1r"_s)
+			$of(u"gregoriánsky kalendár"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.gregory"_s),
-			$of(u"gregori\u00e1nsky kalend\u00e1r"_s)
+			$of(u"gregoriánsky kalendár"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.islamic"_s),
-			$of(u"islamsk\u00fd kalend\u00e1r"_s)
+			$of(u"islamský kalendár"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.islamic-civil"_s),
-			$of(u"Islamsk\u00fd ob\u010diansky kalend\u00e1r"_s)
+			$of(u"Islamský občiansky kalendár"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.japanese"_s),
-			$of(u"japonsk\u00fd kalend\u00e1r"_s)
+			$of(u"japonský kalendár"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.roc"_s),
-			$of(u"\u010d\u00ednsky republik\u00e1nsky kalend\u00e1r"_s)
+			$of(u"čínsky republikánsky kalendár"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("field.dayperiod"_s),
-			$of(u"\u010das\u0165 d\u0148a"_s)
+			$of(u"časť dňa"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("field.era"_s),
-			$of(u"letopo\u010det"_s)
+			$of(u"letopočet"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("field.hour"_s),
@@ -146,7 +146,7 @@ $ObjectArray2* JavaTimeSupplementary_sk::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.minute"_s),
-			$of(u"min\u00fata"_s)
+			$of(u"minúta"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("field.month"_s),
@@ -158,11 +158,11 @@ $ObjectArray2* JavaTimeSupplementary_sk::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.week"_s),
-			$of(u"t\u00fd\u017ede\u0148"_s)
+			$of(u"týždeň"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("field.weekday"_s),
-			$of(u"de\u0148 v t\u00fd\u017edni"_s)
+			$of(u"deň v týždni"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("field.year"_s),
@@ -170,7 +170,7 @@ $ObjectArray2* JavaTimeSupplementary_sk::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.zone"_s),
-			$of(u"\u010dasov\u00e9 p\u00e1smo"_s)
+			$of(u"časové pásmo"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("islamic.AmPmMarkers"_s),
@@ -261,9 +261,9 @@ $ObjectArray2* JavaTimeSupplementary_sk::getContents() {
 				"feb"_s,
 				"mar"_s,
 				"apr"_s,
-				u"m\u00e1j"_s,
-				u"j\u00fan"_s,
-				u"j\u00fal"_s,
+				u"máj"_s,
+				u"jún"_s,
+				u"júl"_s,
 				"aug"_s,
 				"sep"_s,
 				"okt"_s,
@@ -275,16 +275,16 @@ $ObjectArray2* JavaTimeSupplementary_sk::getContents() {
 		$$new($ObjectArray, {
 			$of("roc.MonthNames"_s),
 			$of($$new($StringArray, {
-				u"janu\u00e1ra"_s,
-				u"febru\u00e1ra"_s,
+				u"januára"_s,
+				u"februára"_s,
 				"marca"_s,
-				u"apr\u00edla"_s,
-				u"m\u00e1ja"_s,
-				u"j\u00fana"_s,
-				u"j\u00fala"_s,
+				u"apríla"_s,
+				u"mája"_s,
+				u"júna"_s,
+				u"júla"_s,
 				"augusta"_s,
 				"septembra"_s,
-				u"okt\u00f3bra"_s,
+				u"októbra"_s,
 				"novembra"_s,
 				"decembra"_s,
 				""_s

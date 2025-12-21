@@ -538,7 +538,7 @@ $ObjectArray2* CurrencyNames_yue::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("JPY"_s),
-			$of(u"\u00a5"_s)
+			$of(u"¥"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("KES"_s),
@@ -570,7 +570,7 @@ $ObjectArray2* CurrencyNames_yue::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("KRW"_s),
-			$of(u"\uffe6"_s)
+			$of(u"￦"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("KWD"_s),
@@ -1174,1207 +1174,1207 @@ $ObjectArray2* CurrencyNames_yue::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("adp"_s),
-			$of(u"\u5b89\u9053\u723e\u966a\u58eb\u7279"_s)
+			$of(u"安道爾陪士特"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("aed"_s),
-			$of(u"\u963f\u62c9\u4f2f\u806f\u5408\u5927\u516c\u570b\u8fea\u723e\u6c57"_s)
+			$of(u"阿拉伯聯合大公國迪爾汗"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("afa"_s),
-			$of(u"\u963f\u5bcc\u6c57\u5c3c (1927\u20132002)"_s)
+			$of(u"阿富汗尼 (1927–2002)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("afn"_s),
-			$of(u"\u963f\u5bcc\u6c57\u5c3c"_s)
+			$of(u"阿富汗尼"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("alk"_s),
-			$of(u"\u963f\u723e\u5df4\u5c3c\u4e9e\u5217\u514b (1946\u20131965)"_s)
+			$of(u"阿爾巴尼亞列克 (1946–1965)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("all"_s),
-			$of(u"\u963f\u723e\u5df4\u5c3c\u4e9e\u5217\u514b"_s)
+			$of(u"阿爾巴尼亞列克"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("amd"_s),
-			$of(u"\u4e9e\u7f8e\u5c3c\u4e9e\u5fb7\u62c9\u59c6"_s)
+			$of(u"亞美尼亞德拉姆"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ang"_s),
-			$of(u"\u8377\u5c6c\u5b89\u5730\u5217\u65af\u76fe"_s)
+			$of(u"荷屬安地列斯盾"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("aoa"_s),
-			$of(u"\u5b89\u54e5\u62c9\u5bec\u624e"_s)
+			$of(u"安哥拉寬扎"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("aok"_s),
-			$of(u"\u5b89\u54e5\u62c9\u5bec\u624e (1977\u20131990)"_s)
+			$of(u"安哥拉寬扎 (1977–1990)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("aon"_s),
-			$of(u"\u5b89\u54e5\u62c9\u65b0\u5bec\u624e (1990\u20132000)"_s)
+			$of(u"安哥拉新寬扎 (1990–2000)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("aor"_s),
-			$of(u"\u5b89\u54e5\u62c9\u65b0\u8abf\u5bec\u624e (1995\u20131999)"_s)
+			$of(u"安哥拉新調寬扎 (1995–1999)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ara"_s),
-			$of(u"\u963f\u6839\u5ef7\u5967\u65af\u7279\u7d0d\u723e"_s)
+			$of(u"阿根廷奧斯特納爾"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("arl"_s),
-			$of(u"\u963f\u6839\u5ef7\u62ab\u7d22 (1970\u20131983)"_s)
+			$of(u"阿根廷披索 (1970–1983)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("arm"_s),
-			$of(u"\u963f\u6839\u5ef7\u62ab\u7d22 (1881\u20131970)"_s)
+			$of(u"阿根廷披索 (1881–1970)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("arp"_s),
-			$of(u"\u963f\u6839\u5ef7\u62ab\u7d22 (1983\u20131985)"_s)
+			$of(u"阿根廷披索 (1983–1985)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ars"_s),
-			$of(u"\u963f\u6839\u5ef7\u62ab\u7d22"_s)
+			$of(u"阿根廷披索"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ats"_s),
-			$of(u"\u5967\u5730\u5229\u5148\u4ee4"_s)
+			$of(u"奧地利先令"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("aud"_s),
-			$of(u"\u6fb3\u5e63"_s)
+			$of(u"澳幣"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("awg"_s),
-			$of(u"\u963f\u8def\u5df4\u76fe"_s)
+			$of(u"阿路巴盾"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("azm"_s),
-			$of(u"\u4e9e\u585e\u62dc\u7136\u99ac\u7d0d\u7279 (1993\u20132006)"_s)
+			$of(u"亞塞拜然馬納特 (1993–2006)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("azn"_s),
-			$of(u"\u4e9e\u585e\u62dc\u7136\u99ac\u7d0d\u7279"_s)
+			$of(u"亞塞拜然馬納特"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bad"_s),
-			$of(u"\u6ce2\u58eb\u5c3c\u4e9e-\u8d6b\u585e\u54e5\u7dad\u7d0d\u7b2c\u7d0d\u723e"_s)
+			$of(u"波士尼亞-赫塞哥維納第納爾"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bam"_s),
-			$of(u"\u6ce2\u58eb\u5c3c\u4e9e-\u8d6b\u585e\u54e5\u7dad\u7d0d\u53ef\u8f49\u63db\u99ac\u514b"_s)
+			$of(u"波士尼亞-赫塞哥維納可轉換馬克"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ban"_s),
-			$of(u"\u6ce2\u58eb\u5c3c\u4e9e-\u8d6b\u585e\u54e5\u7dad\u7d0d\u65b0\u7b2c\u7d0d\u723e"_s)
+			$of(u"波士尼亞-赫塞哥維納新第納爾"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bbd"_s),
-			$of(u"\u5df4\u8c9d\u591a\u5143"_s)
+			$of(u"巴貝多元"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bdt"_s),
-			$of(u"\u5b5f\u52a0\u62c9\u5854\u5361"_s)
+			$of(u"孟加拉塔卡"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bec"_s),
-			$of(u"\u6bd4\u5229\u6642\u6cd5\u90ce\uff08\u53ef\u8f49\u63db\uff09"_s)
+			$of(u"比利時法郎（可轉換）"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bef"_s),
-			$of(u"\u6bd4\u5229\u6642\u6cd5\u90ce"_s)
+			$of(u"比利時法郎"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bel"_s),
-			$of(u"\u6bd4\u5229\u6642\u6cd5\u90ce\uff08\u91d1\u878d\uff09"_s)
+			$of(u"比利時法郎（金融）"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bgl"_s),
-			$of(u"\u4fdd\u52a0\u5229\u4e9e\u786c\u5217\u5f17"_s)
+			$of(u"保加利亞硬列弗"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bgm"_s),
-			$of(u"\u4fdd\u52a0\u5229\u4e9e\u793e\u6703\u9ee8\u5217\u5f17"_s)
+			$of(u"保加利亞社會黨列弗"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bgn"_s),
-			$of(u"\u4fdd\u52a0\u5229\u4e9e\u65b0\u5217\u5f17"_s)
+			$of(u"保加利亞新列弗"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bgo"_s),
-			$of(u"\u4fdd\u52a0\u5229\u4e9e\u5217\u5f17 (1879\u20131952)"_s)
+			$of(u"保加利亞列弗 (1879–1952)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bhd"_s),
-			$of(u"\u5df4\u6797\u7b2c\u7d0d\u723e"_s)
+			$of(u"巴林第納爾"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bif"_s),
-			$of(u"\u84b2\u9686\u5730\u6cd5\u90ce"_s)
+			$of(u"蒲隆地法郎"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bmd"_s),
-			$of(u"\u767e\u6155\u9054\u5e63"_s)
+			$of(u"百慕達幣"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bnd"_s),
-			$of(u"\u6c76\u840a\u5143"_s)
+			$of(u"汶萊元"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bob"_s),
-			$of(u"\u73bb\u5229\u7dad\u4e9e\u8afe"_s)
+			$of(u"玻利維亞諾"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bol"_s),
-			$of(u"\u73bb\u5229\u7dad\u4e9e\u73bb\u5229\u7dad\u4e9e\u8afe (1863\u20131963)"_s)
+			$of(u"玻利維亞玻利維亞諾 (1863–1963)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bop"_s),
-			$of(u"\u73bb\u5229\u7dad\u4e9e\u62ab\u7d22"_s)
+			$of(u"玻利維亞披索"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bov"_s),
-			$of(u"\u73bb\u5229\u7dad\u4e9e\u5e55\u591a"_s)
+			$of(u"玻利維亞幕多"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("brb"_s),
-			$of(u"\u5df4\u897f\u514b\u9b6f\u85a9\u591a\u8fb2\u74e6 (1967\u20131986)"_s)
+			$of(u"巴西克魯薩多農瓦 (1967–1986)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("brc"_s),
-			$of(u"\u5df4\u897f\u514b\u9b6f\u8cfd\u7f85 (1986\u20131989)"_s)
+			$of(u"巴西克魯賽羅 (1986–1989)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bre"_s),
-			$of(u"\u5df4\u897f\u514b\u9b6f\u8cfd\u7f85 (1990\u20131993)"_s)
+			$of(u"巴西克魯賽羅 (1990–1993)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("brl"_s),
-			$of(u"\u5df4\u897f\u91cc\u62c9"_s)
+			$of(u"巴西里拉"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("brn"_s),
-			$of(u"\u5df4\u897f\u514b\u5982\u723e\u9054\u8fb2\u74e6"_s)
+			$of(u"巴西克如爾達農瓦"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("brr"_s),
-			$of(u"\u5df4\u897f\u514b\u9b6f\u8cfd\u7f85 (1993\u20131994)"_s)
+			$of(u"巴西克魯賽羅 (1993–1994)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("brz"_s),
-			$of(u"\u5df4\u897f\u514b\u9b6f\u8cfd\u7f85 (1942 \u20131967)"_s)
+			$of(u"巴西克魯賽羅 (1942 –1967)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bsd"_s),
-			$of(u"\u5df4\u54c8\u99ac\u5143"_s)
+			$of(u"巴哈馬元"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("btn"_s),
-			$of(u"\u4e0d\u4e39\u90a3\u7279\u502b"_s)
+			$of(u"不丹那特倫"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("buk"_s),
-			$of(u"\u7dec\u7538\u57fa\u96c5\u7279"_s)
+			$of(u"緬甸基雅特"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bwp"_s),
-			$of(u"\u6ce2\u672d\u90a3\u666e\u62c9"_s)
+			$of(u"波札那普拉"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("byb"_s),
-			$of(u"\u767d\u4fc4\u7f85\u65af\u65b0\u76e7\u5e03 (1994\u20131999)"_s)
+			$of(u"白俄羅斯新盧布 (1994–1999)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("byn"_s),
-			$of(u"\u767d\u4fc4\u7f85\u65af\u76e7\u5e03"_s)
+			$of(u"白俄羅斯盧布"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("byr"_s),
-			$of(u"\u767d\u4fc4\u7f85\u65af\u76e7\u5e03 (2000\u20132016)"_s)
+			$of(u"白俄羅斯盧布 (2000–2016)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bzd"_s),
-			$of(u"\u8c9d\u91cc\u65af\u5143"_s)
+			$of(u"貝里斯元"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cad"_s),
-			$of(u"\u52a0\u5e63"_s)
+			$of(u"加幣"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cdf"_s),
-			$of(u"\u525b\u679c\u6cd5\u90ce"_s)
+			$of(u"剛果法郎"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("che"_s),
-			$of(u"\u6b50\u5143 (WIR)"_s)
+			$of(u"歐元 (WIR)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("chf"_s),
-			$of(u"\u745e\u58eb\u6cd5\u90ce"_s)
+			$of(u"瑞士法郎"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("chw"_s),
-			$of(u"\u6cd5\u90ce (WIR)"_s)
+			$of(u"法郎 (WIR)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cle"_s),
-			$of(u"\u667a\u5229\u57c3\u65af\u5eab\u591a"_s)
+			$of(u"智利埃斯庫多"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("clf"_s),
-			$of(u"\u5361\u6797\u6cb9\u9054\u4f5b\u66fc\u8dce"_s)
+			$of(u"卡林油達佛曼跎"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("clp"_s),
-			$of(u"\u667a\u5229\u62ab\u7d22"_s)
+			$of(u"智利披索"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cnh"_s),
-			$of(u"\u4eba\u6c11\u5e63 (\u96e2\u5cb8)"_s)
+			$of(u"人民幣 (離岸)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cny"_s),
-			$of(u"\u4eba\u6c11\u5e63"_s)
+			$of(u"人民幣"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cop"_s),
-			$of(u"\u54e5\u502b\u6bd4\u4e9e\u62ab\u7d22"_s)
+			$of(u"哥倫比亞披索"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cou"_s),
-			$of(u"\u54e5\u502b\u6bd4\u4e9e\u5e63 (COU)"_s)
+			$of(u"哥倫比亞幣 (COU)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("crc"_s),
-			$of(u"\u54e5\u65af\u5927\u9ece\u52a0\u79d1\u6717"_s)
+			$of(u"哥斯大黎加科朗"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("csd"_s),
-			$of(u"\u820a\u585e\u723e\u7dad\u4e9e\u7b2c\u7d0d\u723e"_s)
+			$of(u"舊塞爾維亞第納爾"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("csk"_s),
-			$of(u"\u6377\u514b\u65af\u6d1b\u4f10\u514b\u786c\u514b\u6717"_s)
+			$of(u"捷克斯洛伐克硬克朗"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cuc"_s),
-			$of(u"\u53e4\u5df4\u53ef\u8f49\u63db\u62ab\u7d22"_s)
+			$of(u"古巴可轉換披索"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cup"_s),
-			$of(u"\u53e4\u5df4\u62ab\u7d22"_s)
+			$of(u"古巴披索"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cve"_s),
-			$of(u"\u7dad\u5fb7\u89d2\u57c3\u65af\u5eab\u591a"_s)
+			$of(u"維德角埃斯庫多"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cyp"_s),
-			$of(u"\u8cfd\u666e\u52d2\u65af\u938a"_s)
+			$of(u"賽普勒斯鎊"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("czk"_s),
-			$of(u"\u6377\u514b\u514b\u6717"_s)
+			$of(u"捷克克朗"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ddm"_s),
-			$of(u"\u6771\u5fb7\u5967\u65af\u7279\u99ac\u514b"_s)
+			$of(u"東德奧斯特馬克"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("dem"_s),
-			$of(u"\u5fb7\u570b\u99ac\u514b"_s)
+			$of(u"德國馬克"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("djf"_s),
-			$of(u"\u5409\u5e03\u5730\u6cd5\u90ce"_s)
+			$of(u"吉布地法郎"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("dkk"_s),
-			$of(u"\u4e39\u9ea5\u514b\u6717"_s)
+			$of(u"丹麥克朗"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("dop"_s),
-			$of(u"\u591a\u660e\u5c3c\u52a0\u62ab\u7d22"_s)
+			$of(u"多明尼加披索"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("dzd"_s),
-			$of(u"\u963f\u723e\u53ca\u5229\u4e9e\u7b2c\u7d0d\u723e"_s)
+			$of(u"阿爾及利亞第納爾"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ecs"_s),
-			$of(u"\u5384\u74dc\u591a\u8607\u514b\u96f7"_s)
+			$of(u"厄瓜多蘇克雷"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ecv"_s),
-			$of(u"\u5384\u74dc\u591a\u723e\u7531\u91cc\u9054\u74e6\u5eb7\u65af\u5766 (UVC)"_s)
+			$of(u"厄瓜多爾由里達瓦康斯坦 (UVC)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("eek"_s),
-			$of(u"\u611b\u6c99\u5c3c\u4e9e\u514b\u6717"_s)
+			$of(u"愛沙尼亞克朗"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("egp"_s),
-			$of(u"\u57c3\u53ca\u938a"_s)
+			$of(u"埃及鎊"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ern"_s),
-			$of(u"\u5384\u7acb\u7279\u91cc\u4e9e\u7d0d\u514b\u6cd5"_s)
+			$of(u"厄立特里亞納克法"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("esa"_s),
-			$of(u"\u897f\u73ed\u7259\u6bd4\u585e\u5854\uff08\u6703\u8a08\u55ae\u4f4d\uff09"_s)
+			$of(u"西班牙比塞塔（會計單位）"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("esb"_s),
-			$of(u"\u897f\u73ed\u7259\u6bd4\u585e\u5854\uff08\u53ef\u8f49\u63db\u6703\u8a08\u55ae\u4f4d\uff09"_s)
+			$of(u"西班牙比塞塔（可轉換會計單位）"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("esp"_s),
-			$of(u"\u897f\u73ed\u7259\u966a\u58eb\u7279"_s)
+			$of(u"西班牙陪士特"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("etb"_s),
-			$of(u"\u8863\u7d22\u6bd4\u4e9e\u6bd4\u723e"_s)
+			$of(u"衣索比亞比爾"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("eur"_s),
-			$of(u"\u6b50\u5143"_s)
+			$of(u"歐元"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("fim"_s),
-			$of(u"\u82ac\u862d\u99ac\u514b"_s)
+			$of(u"芬蘭馬克"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("fjd"_s),
-			$of(u"\u6590\u6fdf\u5143"_s)
+			$of(u"斐濟元"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("fkp"_s),
-			$of(u"\u798f\u514b\u862d\u7fa4\u5cf6\u938a"_s)
+			$of(u"福克蘭群島鎊"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("frf"_s),
-			$of(u"\u6cd5\u570b\u6cd5\u90ce"_s)
+			$of(u"法國法郎"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gbp"_s),
-			$of(u"\u82f1\u938a"_s)
+			$of(u"英鎊"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gek"_s),
-			$of(u"\u55ac\u6cbb\u4e9e\u5eab\u65c1\u62c9\u91cc"_s)
+			$of(u"喬治亞庫旁拉里"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gel"_s),
-			$of(u"\u55ac\u6cbb\u4e9e\u62c9\u91cc"_s)
+			$of(u"喬治亞拉里"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ghc"_s),
-			$of(u"\u8fe6\u7d0d\u8cfd\u5730 (1979\u20132007)"_s)
+			$of(u"迦納賽地 (1979–2007)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ghs"_s),
-			$of(u"\u8fe6\u7d0d\u585e\u5730"_s)
+			$of(u"迦納塞地"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gip"_s),
-			$of(u"\u76f4\u5e03\u7f85\u9640\u938a"_s)
+			$of(u"直布羅陀鎊"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gmd"_s),
-			$of(u"\u7518\u6bd4\u4e9e\u9054\u62c9\u897f"_s)
+			$of(u"甘比亞達拉西"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gnf"_s),
-			$of(u"\u5e7e\u5167\u4e9e\u6cd5\u90ce"_s)
+			$of(u"幾內亞法郎"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gns"_s),
-			$of(u"\u5e7e\u5167\u4e9e\u897f\u91cc"_s)
+			$of(u"幾內亞西里"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gqe"_s),
-			$of(u"\u8d64\u9053\u5e7e\u5167\u4e9e\u57c3\u594e\u52d2"_s)
+			$of(u"赤道幾內亞埃奎勒"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("grd"_s),
-			$of(u"\u5e0c\u81d8\u5fb7\u62c9\u514b\u99ac"_s)
+			$of(u"希臘德拉克馬"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gtq"_s),
-			$of(u"\u74dc\u5730\u99ac\u62c9\u683c\u67e5\u723e"_s)
+			$of(u"瓜地馬拉格查爾"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gwe"_s),
-			$of(u"\u8461\u5c6c\u5e7e\u5167\u4e9e\u57c3\u65af\u5eab\u591a"_s)
+			$of(u"葡屬幾內亞埃斯庫多"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gwp"_s),
-			$of(u"\u5e7e\u5167\u4e9e\u6bd4\u7d22\u62ab\u7d22"_s)
+			$of(u"幾內亞比索披索"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gyd"_s),
-			$of(u"\u572d\u4e9e\u90a3\u5143"_s)
+			$of(u"圭亞那元"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("hkd"_s),
-			$of(u"\u6e2f\u5e63"_s)
+			$of(u"港幣"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("hnl"_s),
-			$of(u"\u6d2a\u90fd\u62c9\u65af\u502b\u76ae\u62c9"_s)
+			$of(u"洪都拉斯倫皮拉"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("hrd"_s),
-			$of(u"\u514b\u7f85\u57c3\u897f\u4e9e\u7b2c\u7d0d\u723e"_s)
+			$of(u"克羅埃西亞第納爾"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("hrk"_s),
-			$of(u"\u514b\u7f85\u57c3\u897f\u4e9e\u5eab\u7d0d"_s)
+			$of(u"克羅埃西亞庫納"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("htg"_s),
-			$of(u"\u6d77\u5730\u53e4\u5fb7"_s)
+			$of(u"海地古德"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("huf"_s),
-			$of(u"\u5308\u7259\u5229\u798f\u6797"_s)
+			$of(u"匈牙利福林"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("idr"_s),
-			$of(u"\u5370\u5c3c\u76fe"_s)
+			$of(u"印尼盾"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("iep"_s),
-			$of(u"\u611b\u723e\u862d\u938a"_s)
+			$of(u"愛爾蘭鎊"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ilp"_s),
-			$of(u"\u4ee5\u8272\u5217\u938a"_s)
+			$of(u"以色列鎊"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ilr"_s),
-			$of(u"\u4ee5\u8272\u5217\u8b1d\u514b\u723e (1980\u20131985)"_s)
+			$of(u"以色列謝克爾 (1980–1985)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ils"_s),
-			$of(u"\u4ee5\u8272\u5217\u65b0\u8b1d\u514b\u723e"_s)
+			$of(u"以色列新謝克爾"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("inr"_s),
-			$of(u"\u5370\u5ea6\u76e7\u6bd4"_s)
+			$of(u"印度盧比"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("iqd"_s),
-			$of(u"\u4f0a\u62c9\u514b\u7b2c\u7d0d\u723e"_s)
+			$of(u"伊拉克第納爾"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("irr"_s),
-			$of(u"\u4f0a\u6717\u91cc\u4e9e\u723e"_s)
+			$of(u"伊朗里亞爾"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("isj"_s),
-			$of(u"\u51b0\u5cf6\u514b\u6717 (1918\u20131981)"_s)
+			$of(u"冰島克朗 (1918–1981)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("isk"_s),
-			$of(u"\u51b0\u5cf6\u514b\u6717"_s)
+			$of(u"冰島克朗"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("itl"_s),
-			$of(u"\u7fa9\u5927\u5229\u91cc\u62c9"_s)
+			$of(u"義大利里拉"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("jmd"_s),
-			$of(u"\u7259\u8cb7\u52a0\u5143"_s)
+			$of(u"牙買加元"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("jod"_s),
-			$of(u"\u7d04\u65e6\u7b2c\u7d0d\u723e"_s)
+			$of(u"約旦第納爾"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("jpy"_s),
-			$of(u"\u65e5\u5713"_s)
+			$of(u"日圓"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kes"_s),
-			$of(u"\u80af\u5c3c\u4e9e\u5148\u4ee4"_s)
+			$of(u"肯尼亞先令"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kgs"_s),
-			$of(u"\u5409\u723e\u5409\u65af\u7d22\u59c6"_s)
+			$of(u"吉爾吉斯索姆"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("khr"_s),
-			$of(u"\u67ec\u57d4\u5be8\u745e\u723e"_s)
+			$of(u"柬埔寨瑞爾"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kmf"_s),
-			$of(u"\u79d1\u6469\u7f85\u6cd5\u90ce"_s)
+			$of(u"科摩羅法郎"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kpw"_s),
-			$of(u"\u5317\u97d3\u5713"_s)
+			$of(u"北韓圓"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("krh"_s),
-			$of(u"\u5357\u97d3\u571c"_s)
+			$of(u"南韓圜"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kro"_s),
-			$of(u"\u5357\u97d3\u5713"_s)
+			$of(u"南韓圓"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("krw"_s),
-			$of(u"\u97d3\u5713"_s)
+			$of(u"韓圓"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kwd"_s),
-			$of(u"\u79d1\u5a01\u7279\u7b2c\u7d0d\u723e"_s)
+			$of(u"科威特第納爾"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kyd"_s),
-			$of(u"\u958b\u66fc\u7fa4\u5cf6\u5143"_s)
+			$of(u"開曼群島元"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kzt"_s),
-			$of(u"\u5361\u624e\u514b\u65af\u5766\u5766\u5409"_s)
+			$of(u"卡扎克斯坦坦吉"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lak"_s),
-			$of(u"\u5bee\u570b\u57fa\u666e"_s)
+			$of(u"寮國基普"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lbp"_s),
-			$of(u"\u9ece\u5df4\u5ae9\u938a"_s)
+			$of(u"黎巴嫩鎊"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lkr"_s),
-			$of(u"\u65af\u91cc\u862d\u5361\u76e7\u6bd4"_s)
+			$of(u"斯里蘭卡盧比"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lrd"_s),
-			$of(u"\u8cf4\u6bd4\u745e\u4e9e\u5143"_s)
+			$of(u"賴比瑞亞元"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lsl"_s),
-			$of(u"\u8cf4\u7d22\u6258\u6d1b\u8482"_s)
+			$of(u"賴索托洛蒂"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ltl"_s),
-			$of(u"\u7acb\u9676\u5b9b\u7acb\u7279"_s)
+			$of(u"立陶宛立特"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ltt"_s),
-			$of(u"\u7acb\u9676\u5b9b\u7279\u7f85"_s)
+			$of(u"立陶宛特羅"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("luc"_s),
-			$of(u"\u76e7\u68ee\u5821\u53ef\u514c\u63db\u6cd5\u90ce"_s)
+			$of(u"盧森堡可兌換法郎"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("luf"_s),
-			$of(u"\u76e7\u68ee\u5821\u6cd5\u90ce"_s)
+			$of(u"盧森堡法郎"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lul"_s),
-			$of(u"\u76e7\u68ee\u5821\u91d1\u878d\u6cd5\u90ce"_s)
+			$of(u"盧森堡金融法郎"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lvl"_s),
-			$of(u"\u62c9\u812b\u7dad\u4e9e\u62c9\u7279\u9280\u5e63"_s)
+			$of(u"拉脫維亞拉特銀幣"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lvr"_s),
-			$of(u"\u62c9\u812b\u7dad\u4e9e\u76e7\u5e03"_s)
+			$of(u"拉脫維亞盧布"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lyd"_s),
-			$of(u"\u5229\u6bd4\u4e9e\u7b2c\u7d0d\u723e"_s)
+			$of(u"利比亞第納爾"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mad"_s),
-			$of(u"\u6469\u6d1b\u54e5\u8fea\u62c9\u59c6"_s)
+			$of(u"摩洛哥迪拉姆"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("maf"_s),
-			$of(u"\u6469\u6d1b\u54e5\u6cd5\u90ce"_s)
+			$of(u"摩洛哥法郎"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mcf"_s),
-			$of(u"\u6469\u7d0d\u54e5\u6cd5\u90ce"_s)
+			$of(u"摩納哥法郎"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mdc"_s),
-			$of(u"\u6469\u723e\u591a\u74e6\u5238"_s)
+			$of(u"摩爾多瓦券"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mdl"_s),
-			$of(u"\u6469\u675c\u96f2\u5217\u4f0a"_s)
+			$of(u"摩杜雲列伊"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mga"_s),
-			$of(u"\u99ac\u9054\u52a0\u65af\u52a0\u963f\u91cc\u4e9e\u91cc"_s)
+			$of(u"馬達加斯加阿里亞里"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mgf"_s),
-			$of(u"\u99ac\u9054\u52a0\u65af\u52a0\u6cd5\u90ce"_s)
+			$of(u"馬達加斯加法郎"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mkd"_s),
-			$of(u"\u99ac\u5176\u9813\u7b2c\u7d0d\u723e"_s)
+			$of(u"馬其頓第納爾"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mkn"_s),
-			$of(u"\u99ac\u5176\u9813\u7b2c\u7d0d\u723e (1992\u20131993)"_s)
+			$of(u"馬其頓第納爾 (1992–1993)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mlf"_s),
-			$of(u"\u99ac\u91cc\u6cd5\u90ce"_s)
+			$of(u"馬里法郎"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mmk"_s),
-			$of(u"\u7dec\u7538\u5143"_s)
+			$of(u"緬甸元"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mnt"_s),
-			$of(u"\u8499\u53e4\u5716\u683c\u91cc\u514b"_s)
+			$of(u"蒙古圖格里克"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mop"_s),
-			$of(u"\u6fb3\u9580\u5143"_s)
+			$of(u"澳門元"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mro"_s),
-			$of(u"\u8305\u5229\u5854\u5c3c\u4e9e\u70cf\u5409\u4e9e (1973\u20132017)"_s)
+			$of(u"茅利塔尼亞烏吉亞 (1973–2017)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mru"_s),
-			$of(u"\u8305\u5229\u5854\u5c3c\u4e9e\u70cf\u5409\u4e9e"_s)
+			$of(u"茅利塔尼亞烏吉亞"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mtl"_s),
-			$of(u"\u99ac\u723e\u4ed6\u91cc\u62c9"_s)
+			$of(u"馬爾他里拉"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mtp"_s),
-			$of(u"\u99ac\u723e\u4ed6\u938a"_s)
+			$of(u"馬爾他鎊"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mur"_s),
-			$of(u"\u6a21\u91cc\u897f\u65af\u76e7\u6bd4"_s)
+			$of(u"模里西斯盧比"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mvp"_s),
-			$of(u"\u99ac\u723e\u5730\u592b\u76e7\u6bd4"_s)
+			$of(u"馬爾地夫盧比"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mvr"_s),
-			$of(u"\u99ac\u723e\u5730\u592b\u76e7\u975e\u4e9e"_s)
+			$of(u"馬爾地夫盧非亞"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mwk"_s),
-			$of(u"\u99ac\u62c9\u7dad\u514b\u74e6\u67e5"_s)
+			$of(u"馬拉維克瓦查"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mxn"_s),
-			$of(u"\u58a8\u897f\u54e5\u62ab\u7d22"_s)
+			$of(u"墨西哥披索"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mxp"_s),
-			$of(u"\u58a8\u897f\u54e5\u9280\u62ab\u7d22 (1861\u20131992)"_s)
+			$of(u"墨西哥銀披索 (1861–1992)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mxv"_s),
-			$of(u"\u58a8\u897f\u54e5\u8f49\u63db\u55ae\u4f4d (UDI)"_s)
+			$of(u"墨西哥轉換單位 (UDI)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("myr"_s),
-			$of(u"\u99ac\u4f86\u897f\u4e9e\u4ee4\u5409"_s)
+			$of(u"馬來西亞令吉"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mze"_s),
-			$of(u"\u83ab\u4e09\u6bd4\u514b\u57c3\u65af\u5eab\u591a"_s)
+			$of(u"莫三比克埃斯庫多"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mzm"_s),
-			$of(u"\u83ab\u4e09\u6bd4\u514b\u6885\u8482\u5361\u723e (1980\u20132006)"_s)
+			$of(u"莫三比克梅蒂卡爾 (1980–2006)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mzn"_s),
-			$of(u"\u83ab\u4e09\u6bd4\u514b\u6885\u8482\u5361\u723e"_s)
+			$of(u"莫三比克梅蒂卡爾"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("nad"_s),
-			$of(u"\u7d0d\u7c73\u6bd4\u4e9e\u5143"_s)
+			$of(u"納米比亞元"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ngn"_s),
-			$of(u"\u5948\u53ca\u5229\u4e9e\u5948\u62c9"_s)
+			$of(u"奈及利亞奈拉"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("nic"_s),
-			$of(u"\u5c3c\u52a0\u62c9\u74dc\u79d1\u591a\u5df4"_s)
+			$of(u"尼加拉瓜科多巴"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("nio"_s),
-			$of(u"\u5c3c\u52a0\u62c9\u74dc\u91d1\u79d1\u591a\u5df4"_s)
+			$of(u"尼加拉瓜金科多巴"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("nlg"_s),
-			$of(u"\u8377\u862d\u76fe"_s)
+			$of(u"荷蘭盾"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("nok"_s),
-			$of(u"\u632a\u5a01\u514b\u6717"_s)
+			$of(u"挪威克朗"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("npr"_s),
-			$of(u"\u5c3c\u6cca\u723e\u76e7\u6bd4"_s)
+			$of(u"尼泊爾盧比"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("nzd"_s),
-			$of(u"\u7d10\u897f\u862d\u5e63"_s)
+			$of(u"紐西蘭幣"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("omr"_s),
-			$of(u"\u963f\u66fc\u91cc\u4e9e\u723e"_s)
+			$of(u"阿曼里亞爾"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pab"_s),
-			$of(u"\u5df4\u62ff\u99ac\u5df4\u6ce2\u4e9e"_s)
+			$of(u"巴拿馬巴波亞"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pei"_s),
-			$of(u"\u7955\u9b6f\u56e0\u8482"_s)
+			$of(u"祕魯因蒂"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pen"_s),
-			$of(u"\u79d8\u9b6f\u592a\u967d\u5e63"_s)
+			$of(u"秘魯太陽幣"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pes"_s),
-			$of(u"\u79d8\u9b6f\u7d22\u723e (1863\u20131965)"_s)
+			$of(u"秘魯索爾 (1863–1965)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pgk"_s),
-			$of(u"\u5df4\u5e03\u4e9e\u7d10\u5e7e\u5167\u4e9e\u57fa\u90a3"_s)
+			$of(u"巴布亞紐幾內亞基那"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("php"_s),
-			$of(u"\u83f2\u5f8b\u8cd3\u62ab\u7d22"_s)
+			$of(u"菲律賓披索"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pkr"_s),
-			$of(u"\u5df4\u57fa\u65af\u5766\u76e7\u6bd4"_s)
+			$of(u"巴基斯坦盧比"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pln"_s),
-			$of(u"\u6ce2\u862d\u8332\u7f85\u63d0"_s)
+			$of(u"波蘭茲羅提"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("plz"_s),
-			$of(u"\u6ce2\u862d\u8332\u7f85\u63d0 (1950\u20131995)"_s)
+			$of(u"波蘭茲羅提 (1950–1995)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pte"_s),
-			$of(u"\u8461\u8404\u7259\u57c3\u65af\u5eab\u591a"_s)
+			$of(u"葡萄牙埃斯庫多"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pyg"_s),
-			$of(u"\u5df4\u62c9\u572d\u74dc\u62c9\u5c3c"_s)
+			$of(u"巴拉圭瓜拉尼"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("qar"_s),
-			$of(u"\u5361\u9054\u91cc\u4e9e\u723e"_s)
+			$of(u"卡達里亞爾"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("rhd"_s),
-			$of(u"\u7f85\u5fb7\u897f\u4e9e\u5143"_s)
+			$of(u"羅德西亞元"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("rol"_s),
-			$of(u"\u820a\u7f85\u99ac\u5c3c\u4e9e\u5217\u4f0a"_s)
+			$of(u"舊羅馬尼亞列伊"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ron"_s),
-			$of(u"\u7f85\u99ac\u5c3c\u4e9e\u5217\u4f0a"_s)
+			$of(u"羅馬尼亞列伊"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("rsd"_s),
-			$of(u"\u585e\u723e\u7dad\u4e9e\u6234\u7d0d"_s)
+			$of(u"塞爾維亞戴納"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("rub"_s),
-			$of(u"\u4fc4\u7f85\u65af\u76e7\u5e03"_s)
+			$of(u"俄羅斯盧布"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("rur"_s),
-			$of(u"\u4fc4\u7f85\u65af\u76e7\u5e03 (1991\u20131998)"_s)
+			$of(u"俄羅斯盧布 (1991–1998)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("rwf"_s),
-			$of(u"\u76e7\u5b89\u9054\u6cd5\u90ce"_s)
+			$of(u"盧安達法郎"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sar"_s),
-			$of(u"\u6c99\u70cf\u5730\u91cc\u4e9e\u723e"_s)
+			$of(u"沙烏地里亞爾"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sbd"_s),
-			$of(u"\u7d22\u7f85\u9580\u7fa4\u5cf6\u5143"_s)
+			$of(u"索羅門群島元"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("scr"_s),
-			$of(u"\u585e\u5e2d\u723e\u76e7\u6bd4"_s)
+			$of(u"塞席爾盧比"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sdd"_s),
-			$of(u"\u8607\u4e39\u7b2c\u7d0d\u723e"_s)
+			$of(u"蘇丹第納爾"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sdg"_s),
-			$of(u"\u8607\u4e39\u938a"_s)
+			$of(u"蘇丹鎊"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sdp"_s),
-			$of(u"\u820a\u8607\u4e39\u938a"_s)
+			$of(u"舊蘇丹鎊"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sek"_s),
-			$of(u"\u745e\u5178\u514b\u6717"_s)
+			$of(u"瑞典克朗"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sgd"_s),
-			$of(u"\u65b0\u52a0\u5761\u5e63"_s)
+			$of(u"新加坡幣"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("shp"_s),
-			$of(u"\u8056\u8d6b\u52d2\u62ff\u938a"_s)
+			$of(u"聖赫勒拿鎊"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sit"_s),
-			$of(u"\u65af\u6d1b\u7dad\u5c3c\u4e9e\u6258\u52d2"_s)
+			$of(u"斯洛維尼亞托勒"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("skk"_s),
-			$of(u"\u65af\u6d1b\u4f10\u514b\u514b\u6717"_s)
+			$of(u"斯洛伐克克朗"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sll"_s),
-			$of(u"\u7345\u5b50\u5c71\u5229\u6602"_s)
+			$of(u"獅子山利昂"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sos"_s),
-			$of(u"\u7d22\u99ac\u5229\u4e9e\u5148\u4ee4"_s)
+			$of(u"索馬利亞先令"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("srd"_s),
-			$of(u"\u8607\u5229\u5357\u5143"_s)
+			$of(u"蘇利南元"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("srg"_s),
-			$of(u"\u8607\u5229\u5357\u57fa\u723e"_s)
+			$of(u"蘇利南基爾"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ssp"_s),
-			$of(u"\u5357\u8607\u4e39\u938a"_s)
+			$of(u"南蘇丹鎊"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("std"_s),
-			$of(u"\u8056\u591a\u7f8e\u5cf6\u548c\u666e\u6797\u897f\u6bd4\u5cf6\u591a\u5e03\u62c9 (1977\u20132017)"_s)
+			$of(u"聖多美島和普林西比島多布拉 (1977–2017)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("stn"_s),
-			$of(u"\u8056\u591a\u7f8e\u5cf6\u548c\u666e\u6797\u897f\u6bd4\u5cf6\u591a\u5e03\u62c9"_s)
+			$of(u"聖多美島和普林西比島多布拉"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sur"_s),
-			$of(u"\u8607\u806f\u76e7\u5e03"_s)
+			$of(u"蘇聯盧布"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("svc"_s),
-			$of(u"\u85a9\u723e\u74e6\u591a\u79d1\u90ce"_s)
+			$of(u"薩爾瓦多科郎"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("syp"_s),
-			$of(u"\u6558\u5229\u4e9e\u938a"_s)
+			$of(u"敘利亞鎊"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("szl"_s),
-			$of(u"\u53f2\u74e6\u6fdf\u862d\u91cc\u6717\u5409\u5c3c"_s)
+			$of(u"史瓦濟蘭里朗吉尼"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("thb"_s),
-			$of(u"\u6cf0\u9296"_s)
+			$of(u"泰銖"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("tjr"_s),
-			$of(u"\u5854\u5409\u514b\u76e7\u5e03"_s)
+			$of(u"塔吉克盧布"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("tjs"_s),
-			$of(u"\u5854\u5409\u514b\u7d22\u83ab\u5c3c"_s)
+			$of(u"塔吉克索莫尼"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("tmm"_s),
-			$of(u"\u571f\u5eab\u66fc\u99ac\u7d0d\u7279 (1993\u20132009)"_s)
+			$of(u"土庫曼馬納特 (1993–2009)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("tmt"_s),
-			$of(u"\u571f\u5eab\u66fc\u99ac\u7d0d\u7279"_s)
+			$of(u"土庫曼馬納特"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("tnd"_s),
-			$of(u"\u7a81\u5c3c\u897f\u4e9e\u7b2c\u7d0d\u723e"_s)
+			$of(u"突尼西亞第納爾"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("top"_s),
-			$of(u"\u6771\u52a0\u6f58\u52a0"_s)
+			$of(u"東加潘加"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("tpe"_s),
-			$of(u"\u5e1d\u6c76\u57c3\u65af\u5eab\u591a"_s)
+			$of(u"帝汶埃斯庫多"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("trl"_s),
-			$of(u"\u571f\u8033\u5176\u91cc\u62c9"_s)
+			$of(u"土耳其里拉"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("try"_s),
-			$of(u"\u65b0\u571f\u8033\u5176\u91cc\u62c9"_s)
+			$of(u"新土耳其里拉"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ttd"_s),
-			$of(u"\u5343\u91cc\u9054\u53ca\u6258\u5df4\u54e5\u5143"_s)
+			$of(u"千里達及托巴哥元"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("twd"_s),
-			$of(u"\u65b0\u53f0\u5e63"_s)
+			$of(u"新台幣"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("tzs"_s),
-			$of(u"\u5766\u5c1a\u5c3c\u4e9e\u5148\u4ee4"_s)
+			$of(u"坦尚尼亞先令"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("uah"_s),
-			$of(u"\u70cf\u514b\u862d\u683c\u91cc\u592b\u7d0d"_s)
+			$of(u"烏克蘭格里夫納"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("uak"_s),
-			$of(u"\u70cf\u514b\u862d\u5361\u672c\u74e6\u90a3\u8332"_s)
+			$of(u"烏克蘭卡本瓦那茲"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ugs"_s),
-			$of(u"\u70cf\u5e72\u9054\u5148\u4ee4 (1966\u20131987)"_s)
+			$of(u"烏干達先令 (1966–1987)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ugx"_s),
-			$of(u"\u70cf\u5e72\u9054\u5148\u4ee4"_s)
+			$of(u"烏干達先令"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("usd"_s),
-			$of(u"\u7f8e\u5143"_s)
+			$of(u"美元"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("usn"_s),
-			$of(u"\u7f8e\u5143\uff08\u6b21\u65e5\uff09"_s)
+			$of(u"美元（次日）"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("uss"_s),
-			$of(u"\u7f8e\u5143\uff08\u7576\u65e5\uff09"_s)
+			$of(u"美元（當日）"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("uyi"_s),
-			$of(u"\u70cf\u62c9\u572d\u62ab\u7d22\uff08\u6307\u6578\u55ae\u4f4d\uff09"_s)
+			$of(u"烏拉圭披索（指數單位）"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("uyp"_s),
-			$of(u"\u70cf\u62c9\u572d\u62ab\u7d22 (1975\u20131993)"_s)
+			$of(u"烏拉圭披索 (1975–1993)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("uyu"_s),
-			$of(u"\u70cf\u62c9\u572d\u62ab\u7d22"_s)
+			$of(u"烏拉圭披索"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("uzs"_s),
-			$of(u"\u70cf\u8332\u5225\u514b\u7d22\u59c6"_s)
+			$of(u"烏茲別克索姆"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("veb"_s),
-			$of(u"\u59d4\u5167\u745e\u62c9\u73bb\u5229\u74e6 (1871\u20132008)"_s)
+			$of(u"委內瑞拉玻利瓦 (1871–2008)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("vef"_s),
-			$of(u"\u59d4\u5167\u745e\u62c9\u73bb\u5229\u74e6 (VEF)"_s)
+			$of(u"委內瑞拉玻利瓦 (VEF)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ves"_s),
-			$of(u"\u59d4\u5167\u745e\u62c9\u73bb\u5229\u74e6"_s)
+			$of(u"委內瑞拉玻利瓦"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("vnd"_s),
-			$of(u"\u8d8a\u5357\u76fe"_s)
+			$of(u"越南盾"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("vnn"_s),
-			$of(u"\u8d8a\u5357\u76fe (1978\u20131985)"_s)
+			$of(u"越南盾 (1978–1985)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("vuv"_s),
-			$of(u"\u842c\u90a3\u675c\u74e6\u5716"_s)
+			$of(u"萬那杜瓦圖"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("wst"_s),
-			$of(u"\u897f\u85a9\u6469\u4e9e\u5854\u62c9"_s)
+			$of(u"西薩摩亞塔拉"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xaf"_s),
-			$of(u"\u6cd5\u90ce (CFA\u2013BEAC)"_s)
+			$of(u"法郎 (CFA–BEAC)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xag"_s),
-			$of(u"\u767d\u9280"_s)
+			$of(u"白銀"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xau"_s),
-			$of(u"\u9ec3\u91d1"_s)
+			$of(u"黃金"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xba"_s),
-			$of(u"\u6b50\u6d32\u7d9c\u5408\u55ae\u4f4d"_s)
+			$of(u"歐洲綜合單位"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xbb"_s),
-			$of(u"\u6b50\u6d32\u8ca8\u5e63\u55ae\u4f4d (XBB)"_s)
+			$of(u"歐洲貨幣單位 (XBB)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xbc"_s),
-			$of(u"\u6b50\u6d32\u6703\u8a08\u55ae\u4f4d (XBC)"_s)
+			$of(u"歐洲會計單位 (XBC)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xbd"_s),
-			$of(u"\u6b50\u6d32\u6703\u8a08\u55ae\u4f4d (XBD)"_s)
+			$of(u"歐洲會計單位 (XBD)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xcd"_s),
-			$of(u"\u683c\u745e\u90a3\u9054\u5143"_s)
+			$of(u"格瑞那達元"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xdr"_s),
-			$of(u"\u7279\u6b8a\u63d0\u6b3e\u6b0a"_s)
+			$of(u"特殊提款權"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xeu"_s),
-			$of(u"\u6b50\u6d32\u8ca8\u5e63\u55ae\u4f4d (XEU)"_s)
+			$of(u"歐洲貨幣單位 (XEU)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xfo"_s),
-			$of(u"\u6cd5\u570b\u91d1\u6cd5\u90ce"_s)
+			$of(u"法國金法郎"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xfu"_s),
-			$of(u"\u6cd5\u570b\u6cd5\u90ce (UIC)"_s)
+			$of(u"法國法郎 (UIC)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xof"_s),
-			$of(u"\u6cd5\u90ce (CFA\u2013BCEAO)"_s)
+			$of(u"法郎 (CFA–BCEAO)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xpd"_s),
-			$of(u"\u5e15\u62c9\u72c4\u6602"_s)
+			$of(u"帕拉狄昂"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xpf"_s),
-			$of(u"\u6cd5\u90ce (CFP)"_s)
+			$of(u"法郎 (CFP)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xpt"_s),
-			$of(u"\u767d\u91d1"_s)
+			$of(u"白金"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xre"_s),
-			$of(u"RINET \u57fa\u91d1"_s)
+			$of(u"RINET 基金"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xsu"_s),
-			$of(u"\u8607\u514b\u96f7\u8ca8\u5e63"_s)
+			$of(u"蘇克雷貨幣"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xts"_s),
-			$of(u"\u6e2c\u8a66\u7528\u8ca8\u5e63\u4ee3\u78bc"_s)
+			$of(u"測試用貨幣代碼"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xua"_s),
-			$of(u"\u4e9e\u6d32\u958b\u767c\u9280\u884c\u8a08\u50f9\u55ae\u4f4d"_s)
+			$of(u"亞洲開發銀行計價單位"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xxx"_s),
-			$of(u"\u672a\u77e5\u8ca8\u5e63"_s)
+			$of(u"未知貨幣"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ydd"_s),
-			$of(u"\u8449\u9580\u7b2c\u7d0d\u723e"_s)
+			$of(u"葉門第納爾"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("yer"_s),
-			$of(u"\u8449\u9580\u91cc\u4e9e\u723e"_s)
+			$of(u"葉門里亞爾"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("yud"_s),
-			$of(u"\u5357\u65af\u62c9\u592b\u7b2c\u7d0d\u723e\u786c\u5e63"_s)
+			$of(u"南斯拉夫第納爾硬幣"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("yum"_s),
-			$of(u"\u5357\u65af\u62c9\u592b\u632a\u5a01\u4e9e\u7b2c\u7d0d\u723e"_s)
+			$of(u"南斯拉夫挪威亞第納爾"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("yun"_s),
-			$of(u"\u5357\u65af\u62c9\u592b\u53ef\u8f49\u63db\u7b2c\u7d0d\u723e"_s)
+			$of(u"南斯拉夫可轉換第納爾"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("yur"_s),
-			$of(u"\u5357\u65af\u62c9\u592b\u6539\u9769\u7b2c\u7d0d\u723e (1992\u20131993)"_s)
+			$of(u"南斯拉夫改革第納爾 (1992–1993)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("zal"_s),
-			$of(u"\u5357\u975e\u862d\u7279\uff08\u91d1\u878d\uff09"_s)
+			$of(u"南非蘭特（金融）"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("zar"_s),
-			$of(u"\u5357\u975e\u862d\u7279"_s)
+			$of(u"南非蘭特"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("zmk"_s),
-			$of(u"\u5c1a\u6bd4\u4e9e\u514b\u74e6\u67e5 (1968\u20132012)"_s)
+			$of(u"尚比亞克瓦查 (1968–2012)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("zmw"_s),
-			$of(u"\u5c1a\u6bd4\u4e9e\u514b\u74e6\u67e5"_s)
+			$of(u"尚比亞克瓦查"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("zrn"_s),
-			$of(u"\u85a9\u4f0a\u65b0\u624e\u4f0a\u723e"_s)
+			$of(u"薩伊新扎伊爾"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("zrz"_s),
-			$of(u"\u85a9\u4f0a\u624e\u4f0a\u723e"_s)
+			$of(u"薩伊扎伊爾"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("zwd"_s),
-			$of(u"\u8f9b\u5df4\u5a01\u5143 (1980\u20132008)"_s)
+			$of(u"辛巴威元 (1980–2008)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("zwl"_s),
-			$of(u"\u8f9b\u5df4\u5a01\u5143 (2009)"_s)
+			$of(u"辛巴威元 (2009)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("zwr"_s),
-			$of(u"\u8f9b\u5df4\u5a01\u5143 (2008)"_s)
+			$of(u"辛巴威元 (2008)"_s)
 		})
 	}));
 	return data;

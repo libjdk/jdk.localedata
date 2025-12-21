@@ -40,9 +40,9 @@ void FormatData_de_AT::init$() {
 $ObjectArray2* FormatData_de_AT::getContents() {
 	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_MonthNames, $new($StringArray, {
-		u"J\u00e4nner"_s,
+		u"Jänner"_s,
 		"Februar"_s,
-		u"M\u00e4rz"_s,
+		u"März"_s,
 		"April"_s,
 		"Mai"_s,
 		"Juni"_s,
@@ -55,9 +55,9 @@ $ObjectArray2* FormatData_de_AT::getContents() {
 		""_s
 	}));
 	$var($StringArray, metaValue_MonthAbbreviations, $new($StringArray, {
-		u"J\u00e4n."_s,
+		u"Jän."_s,
 		"Feb."_s,
-		u"M\u00e4rz"_s,
+		u"März"_s,
 		"Apr."_s,
 		"Mai"_s,
 		"Juni"_s,
@@ -90,15 +90,15 @@ $ObjectArray2* FormatData_de_AT::getContents() {
 			$of("latn.NumberElements"_s),
 			$of($$new($StringArray, {
 				","_s,
-				u"\u00a0"_s,
+				u" "_s,
 				";"_s,
 				"%"_s,
 				"0"_s,
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
+				u"‰"_s,
+				u"∞"_s,
 				"NaN"_s,
 				""_s,
 				"."_s
@@ -123,9 +123,9 @@ $ObjectArray2* FormatData_de_AT::getContents() {
 		$$new($ObjectArray, {
 			$of("standalone.MonthAbbreviations"_s),
 			$of($$new($StringArray, {
-				u"J\u00e4n"_s,
+				u"Jän"_s,
 				"Feb"_s,
-				u"M\u00e4r"_s,
+				u"Mär"_s,
 				"Apr"_s,
 				"Mai"_s,
 				"Jun"_s,
@@ -142,9 +142,9 @@ $ObjectArray2* FormatData_de_AT::getContents() {
 			$of("latn.NumberPatterns"_s),
 			$of($$new($StringArray, {
 				"#,##0.###"_s,
-				u"\u00a4\u00a0#,##0.00"_s,
-				u"#,##0\u00a0%"_s,
-				u"#,##0.00\u00a0\u00a4"_s
+				u"¤ #,##0.00"_s,
+				u"#,##0 %"_s,
+				u"#,##0.00 ¤"_s
 			}))
 		}),
 		$$new($ObjectArray, {

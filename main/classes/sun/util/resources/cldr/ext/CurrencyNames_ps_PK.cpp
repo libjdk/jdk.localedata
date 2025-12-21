@@ -46,7 +46,7 @@ $ObjectArray2* CurrencyNames_ps_PK::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("xxx"_s),
-			$of(u"\u0646\u0627\u0645\u0639\u0644\u0648\u0645\u0647 \u0645\u0631\u0648\u062c\u0647 \u067e\u06d0\u0633\u06d2"_s)
+			$of(u"نامعلومه مروجه پېسے"_s)
 		})
 	}));
 	return data;

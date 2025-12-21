@@ -42,203 +42,203 @@ $ObjectArray2* LocaleNames_doi::getContents() {
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("BR"_s),
-			$of(u"\u092c\u094d\u0930\u093e\u091c\u0940\u0932"_s)
+			$of(u"ब्राजील"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("CN"_s),
-			$of(u"\u091a\u0940\u0928"_s)
+			$of(u"चीन"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("DE"_s),
-			$of(u"\u091c\u0930\u094d\u092e\u0928\u0940"_s)
+			$of(u"जर्मनी"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("FR"_s),
-			$of(u"\u092b\u094d\u0930\u093e\u0902\u0938"_s)
+			$of(u"फ्रांस"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("GB"_s),
-			$of(u"\u092f\u0942\u0928\u093e\u0907\u091f\u0947\u0921 \u0915\u093f\u0902\u0917\u0921\u092e"_s)
+			$of(u"यूनाइटेड किंगडम"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("IN"_s),
-			$of(u"\u092d\u093e\u0930\u0924"_s)
+			$of(u"भारत"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("IT"_s),
-			$of(u"\u0907\u091f\u0932\u0940"_s)
+			$of(u"इटली"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("JP"_s),
-			$of(u"\u091c\u093e\u092a\u093e\u0928"_s)
+			$of(u"जापान"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("RU"_s),
-			$of(u"\u0930\u0942\u0938"_s)
+			$of(u"रूस"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("US"_s),
-			$of(u"\u092f\u0942\u090f\u0938"_s)
+			$of(u"यूएस"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ZZ"_s),
-			$of(u"\u0905\u0928\u091c\u093e\u0902\u0924\u093e \u0916\u0947\u0924\u094d\u0924\u0930"_s)
+			$of(u"अनजांता खेत्तर"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("de"_s),
-			$of(u"\u091c\u0930\u094d\u092e\u0928"_s)
+			$of(u"जर्मन"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("en"_s),
-			$of(u"\u0905\u0902\u0917\u0930\u0947\u091c\u0940"_s)
+			$of(u"अंगरेजी"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("es"_s),
-			$of(u"\u0938\u094d\u092a\u0948\u0928\u093f\u0936"_s)
+			$of(u"स्पैनिश"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("fr"_s),
-			$of(u"\u092b\u094d\u0930\u0947\u0902\u091a"_s)
+			$of(u"फ्रेंच"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("it"_s),
-			$of(u"\u0907\u091f\u093e\u0932\u093f\u092f\u0928"_s)
+			$of(u"इटालियन"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ja"_s),
-			$of(u"\u091c\u093e\u092a\u093e\u0928\u0940"_s)
+			$of(u"जापानी"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pt"_s),
-			$of(u"\u092a\u0941\u0930\u094d\u0924\u0917\u093e\u0932\u0940"_s)
+			$of(u"पुर्तगाली"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ru"_s),
-			$of(u"\u0930\u0942\u0938\u0940"_s)
+			$of(u"रूसी"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("zh"_s),
-			$of(u"\u091a\u0940\u0928\u0940"_s)
+			$of(u"चीनी"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("doi"_s),
-			$of(u"\u0921\u094b\u0917\u0930\u0940"_s)
+			$of(u"डोगरी"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("und"_s),
-			$of(u"\u0905\u0928\u091c\u093e\u0902\u0924\u0940 \u092d\u093e\u0936\u093e"_s)
+			$of(u"अनजांती भाशा"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Arab"_s),
-			$of(u"\u0905\u0930\u092c\u0940"_s)
+			$of(u"अरबी"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Cyrl"_s),
-			$of(u"\u0938\u093f\u0930\u093f\u0932\u093f\u0915"_s)
+			$of(u"सिरिलिक"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Deva"_s),
-			$of(u"\u0926\u0947\u0935\u0928\u093e\u0917\u0930\u0940"_s)
+			$of(u"देवनागरी"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Hans"_s),
-			$of(u"\u0938\u0930\u0932\u0940\u0915\u0943\u0924"_s)
+			$of(u"सरलीकृत"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Hant"_s),
-			$of(u"\u0930\u0935\u093e\u092f\u0924\u0940"_s)
+			$of(u"रवायती"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Latn"_s),
-			$of(u"\u0932\u0948\u091f\u093f\u0928"_s)
+			$of(u"लैटिन"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Zxxx"_s),
-			$of(u"\u0905\u0928\u0932\u093f\u0916\u0924"_s)
+			$of(u"अनलिखत"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Zzzz"_s),
-			$of(u"\u0905\u0928\u091c\u093e\u0902\u0924\u0940 \u0932\u093f\u092a\u093f"_s)
+			$of(u"अनजांती लिपि"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("de_AT"_s),
-			$of(u"\u0906\u0938\u094d\u091f\u094d\u0930\u093f\u092f\u093e\u0908 \u091c\u0930\u094d\u092e\u0928"_s)
+			$of(u"आस्ट्रियाई जर्मन"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("de_CH"_s),
-			$of(u"\u0938\u094d\u0935\u093f\u0938 \u0939\u093e\u0908 \u091c\u0930\u094d\u092e\u0928"_s)
+			$of(u"स्विस हाई जर्मन"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("en_AU"_s),
-			$of(u"\u0906\u0938\u094d\u091f\u094d\u0930\u0947\u0932\u093f\u092f\u093e\u0908 \u0905\u0902\u0917\u0930\u0947\u091c\u0940"_s)
+			$of(u"आस्ट्रेलियाई अंगरेजी"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("en_CA"_s),
-			$of(u"\u0915\u0948\u0928\u0947\u0921\u093f\u092f\u0928 \u0905\u0902\u0917\u0930\u0947\u091c\u0940"_s)
+			$of(u"कैनेडियन अंगरेजी"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("en_GB"_s),
-			$of(u"\u092c\u094d\u0930\u093f\u091f\u093f\u0936 \u0905\u0902\u0917\u0930\u0947\u091c\u0940"_s)
+			$of(u"ब्रिटिश अंगरेजी"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("en_US"_s),
-			$of(u"\u0905\u092e\u0930\u0940\u0915\u0940 \u0905\u0902\u0917\u0930\u0947\u091c\u0940"_s)
+			$of(u"अमरीकी अंगरेजी"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("es_ES"_s),
-			$of(u"\u092f\u0942\u0930\u094b\u092a\u0940 \u0938\u094d\u092a\u0948\u0928\u093f\u0936"_s)
+			$of(u"यूरोपी स्पैनिश"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("es_MX"_s),
-			$of(u"\u092e\u0948\u0915\u094d\u0938\u093f\u0928 \u0938\u094d\u092a\u0948\u0928\u093f\u0936"_s)
+			$of(u"मैक्सिन स्पैनिश"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("fr_CA"_s),
-			$of(u"\u0915\u0948\u0928\u0947\u0921\u093f\u092f\u0928 \u092b\u094d\u0930\u0947\u0902\u091a"_s)
+			$of(u"कैनेडियन फ्रेंच"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("fr_CH"_s),
-			$of(u"\u0938\u094d\u0935\u093f\u0938 \u092b\u094d\u0930\u0947\u0902\u091a"_s)
+			$of(u"स्विस फ्रेंच"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pt_BR"_s),
-			$of(u"\u092c\u094d\u0930\u093e\u091c\u0940\u0932\u0940 \u092a\u0941\u0930\u094d\u0924\u0917\u093e\u0932\u0940"_s)
+			$of(u"ब्राजीली पुर्तगाली"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pt_PT"_s),
-			$of(u"\u092f\u0942\u0930\u094b\u092a\u0940 \u092a\u0941\u0930\u094d\u0924\u0917\u093e\u0932\u0940"_s)
+			$of(u"यूरोपी पुर्तगाली"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("es_419"_s),
-			$of(u"\u0932\u0948\u091f\u093f\u0928 \u0905\u092e\u0930\u0940\u0915\u0940 \u0938\u094d\u092a\u0948\u0928\u093f\u0936"_s)
+			$of(u"लैटिन अमरीकी स्पैनिश"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("zh_Hans"_s),
-			$of(u"\u0938\u0930\u0932\u0940\u0915\u0943\u0924 \u091a\u0940\u0928\u0940"_s)
+			$of(u"सरलीकृत चीनी"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("zh_Hant"_s),
-			$of(u"\u0930\u0935\u093e\u092f\u0924\u0940 \u091a\u0940\u0928\u0940"_s)
+			$of(u"रवायती चीनी"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.arab"_s),
-			$of(u"\u0905\u0930\u092c\u0940-\u0907\u0902\u0921\u093f\u0915 \u0905\u0902\u0915"_s)
+			$of(u"अरबी-इंडिक अंक"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.deva"_s),
-			$of(u"\u0926\u0947\u0935\u0928\u093e\u0917\u0930\u0940 \u0905\u0902\u0915"_s)
+			$of(u"देवनागरी अंक"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.latn"_s),
-			$of(u"\u092a\u091a\u094d\u091b\u092e\u0940 \u0905\u0902\u0915"_s)
+			$of(u"पच्छमी अंक"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.co.standard"_s),
-			$of(u"\u092e\u093e\u0928\u0915 \u0924\u093e\u0932 \u0924\u0930\u0924\u0940\u092c"_s)
+			$of(u"मानक ताल तरतीब"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.ca.gregorian"_s),
-			$of(u"\u0917\u094d\u0930\u0947\u0917\u094b\u0930\u0940 \u0915\u0948\u0932\u0947\u0928\u094d\u0921\u0930"_s)
+			$of(u"ग्रेगोरी कैलेन्डर"_s)
 		})
 	}));
 	return data;

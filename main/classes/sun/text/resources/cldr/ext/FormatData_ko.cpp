@@ -40,76 +40,76 @@ void FormatData_ko::init$() {
 $ObjectArray2* FormatData_ko::getContents() {
 	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_MonthNames, $new($StringArray, {
-		u"1\uc6d4"_s,
-		u"2\uc6d4"_s,
-		u"3\uc6d4"_s,
-		u"4\uc6d4"_s,
-		u"5\uc6d4"_s,
-		u"6\uc6d4"_s,
-		u"7\uc6d4"_s,
-		u"8\uc6d4"_s,
-		u"9\uc6d4"_s,
-		u"10\uc6d4"_s,
-		u"11\uc6d4"_s,
-		u"12\uc6d4"_s,
+		u"1월"_s,
+		u"2월"_s,
+		u"3월"_s,
+		u"4월"_s,
+		u"5월"_s,
+		u"6월"_s,
+		u"7월"_s,
+		u"8월"_s,
+		u"9월"_s,
+		u"10월"_s,
+		u"11월"_s,
+		u"12월"_s,
 		""_s
 	}));
 	$var($StringArray, metaValue_DayNames, $new($StringArray, {
-		u"\uc77c\uc694\uc77c"_s,
-		u"\uc6d4\uc694\uc77c"_s,
-		u"\ud654\uc694\uc77c"_s,
-		u"\uc218\uc694\uc77c"_s,
-		u"\ubaa9\uc694\uc77c"_s,
-		u"\uae08\uc694\uc77c"_s,
-		u"\ud1a0\uc694\uc77c"_s
+		u"일요일"_s,
+		u"월요일"_s,
+		u"화요일"_s,
+		u"수요일"_s,
+		u"목요일"_s,
+		u"금요일"_s,
+		u"토요일"_s
 	}));
 	$var($StringArray, metaValue_DayAbbreviations, $new($StringArray, {
-		u"\uc77c"_s,
-		u"\uc6d4"_s,
-		u"\ud654"_s,
-		u"\uc218"_s,
-		u"\ubaa9"_s,
-		u"\uae08"_s,
-		u"\ud1a0"_s
+		u"일"_s,
+		u"월"_s,
+		u"화"_s,
+		u"수"_s,
+		u"목"_s,
+		u"금"_s,
+		u"토"_s
 	}));
 	$var($StringArray, metaValue_QuarterNames, $new($StringArray, {
-		u"\uc81c 1/4\ubd84\uae30"_s,
-		u"\uc81c 2/4\ubd84\uae30"_s,
-		u"\uc81c 3/4\ubd84\uae30"_s,
-		u"\uc81c 4/4\ubd84\uae30"_s
+		u"제 1/4분기"_s,
+		u"제 2/4분기"_s,
+		u"제 3/4분기"_s,
+		u"제 4/4분기"_s
 	}));
 	$var($StringArray, metaValue_QuarterAbbreviations, $new($StringArray, {
-		u"1\ubd84\uae30"_s,
-		u"2\ubd84\uae30"_s,
-		u"3\ubd84\uae30"_s,
-		u"4\ubd84\uae30"_s
+		u"1분기"_s,
+		u"2분기"_s,
+		u"3분기"_s,
+		u"4분기"_s
 	}));
 	$var($StringArray, metaValue_AmPmMarkers, $new($StringArray, {
-		u"\uc624\uc804"_s,
-		u"\uc624\ud6c4"_s,
-		u"\uc790\uc815"_s,
-		u"\uc815\uc624"_s,
-		u"\uc0c8\ubcbd"_s,
-		u"\uc624\uc804"_s,
-		u"\uc624\ud6c4"_s,
+		u"오전"_s,
+		u"오후"_s,
+		u"자정"_s,
+		u"정오"_s,
+		u"새벽"_s,
+		u"오전"_s,
+		u"오후"_s,
 		""_s,
-		u"\uc800\ub141"_s,
+		u"저녁"_s,
 		""_s,
-		u"\ubc24"_s,
+		u"밤"_s,
 		""_s
 	}));
 	$var($StringArray, metaValue_narrow_AmPmMarkers, $new($StringArray, {
 		"AM"_s,
 		"PM"_s,
-		u"\uc790\uc815"_s,
-		u"\uc815\uc624"_s,
-		u"\uc0c8\ubcbd"_s,
-		u"\uc624\uc804"_s,
-		u"\uc624\ud6c4"_s,
+		u"자정"_s,
+		u"정오"_s,
+		u"새벽"_s,
+		u"오전"_s,
+		u"오후"_s,
 		""_s,
-		u"\uc800\ub141"_s,
+		u"저녁"_s,
 		""_s,
-		u"\ubc24"_s,
+		u"밤"_s,
 		""_s
 	}));
 	$var($StringArray, metaValue_Eras, $new($StringArray, {
@@ -117,8 +117,8 @@ $ObjectArray2* FormatData_ko::getContents() {
 		"AD"_s
 	}));
 	$var($StringArray, metaValue_TimePatterns, $new($StringArray, {
-		u"a h\uc2dc m\ubd84 s\ucd08 zzzz"_s,
-		u"a h\uc2dc m\ubd84 s\ucd08 z"_s,
+		u"a h시 m분 s초 zzzz"_s,
+		u"a h시 m분 s초 z"_s,
 		"a h:mm:ss"_s,
 		"a h:mm"_s
 	}));
@@ -130,65 +130,65 @@ $ObjectArray2* FormatData_ko::getContents() {
 	}));
 	$var($StringArray, metaValue_java_time_buddhist_long_Eras, $new($StringArray, {
 		"BC"_s,
-		u"\ubd88\uae30"_s
+		u"불기"_s
 	}));
 	$var($StringArray, metaValue_java_time_buddhist_DatePatterns, $new($StringArray, {
-		u"G y\ub144 M\uc6d4 d\uc77c EEEE"_s,
-		u"G y\ub144 M\uc6d4 d\uc77c"_s,
+		u"G y년 M월 d일 EEEE"_s,
+		u"G y년 M월 d일"_s,
 		"G y. M. d."_s,
 		"G y. M. d."_s
 	}));
 	$var($StringArray, metaValue_buddhist_DatePatterns, $new($StringArray, {
-		u"GGGG y\ub144 M\uc6d4 d\uc77c EEEE"_s,
-		u"GGGG y\ub144 M\uc6d4 d\uc77c"_s,
+		u"GGGG y년 M월 d일 EEEE"_s,
+		u"GGGG y년 M월 d일"_s,
 		"GGGG y. M. d."_s,
 		"GGGG y. M. d."_s
 	}));
 	$var($StringArray, metaValue_java_time_japanese_long_Eras, $new($StringArray, {
-		u"\uc11c\uae30"_s,
-		u"\uba54\uc774\uc9c0"_s,
-		u"\ub2e4\uc774\uc1fc"_s,
-		u"\uc1fc\uc640"_s,
-		u"\ud5e4\uc774\uc138\uc774"_s,
-		u"\ub808\uc774\uc640"_s
+		u"서기"_s,
+		u"메이지"_s,
+		u"다이쇼"_s,
+		u"쇼와"_s,
+		u"헤이세이"_s,
+		u"레이와"_s
 	}));
 	$var($StringArray, metaValue_java_time_japanese_Eras, $new($StringArray, {
 		"AD"_s,
-		u"\uba54\uc774\uc9c0"_s,
-		u"\ub2e4\uc774\uc1fc"_s,
-		u"\uc1fc\uc640"_s,
-		u"\ud5e4\uc774\uc138\uc774"_s,
-		u"\ub808\uc774\uc640"_s
+		u"메이지"_s,
+		u"다이쇼"_s,
+		u"쇼와"_s,
+		u"헤이세이"_s,
+		u"레이와"_s
 	}));
 	$var($StringArray, metaValue_java_time_roc_long_Eras, $new($StringArray, {
-		u"\uc911\ud654\ubbfc\uad6d\uc804"_s,
-		u"\uc911\ud654\ubbfc\uad6d"_s
+		u"중화민국전"_s,
+		u"중화민국"_s
 	}));
 	$var($StringArray, metaValue_java_time_islamic_long_Eras, $new($StringArray, {
 		""_s,
-		u"\ud788\uc988\ub77c\ub825"_s
+		u"히즈라력"_s
 	}));
 	$var($StringArray, metaValue_java_time_islamic_Eras, $new($StringArray, {
 		""_s,
 		"AH"_s
 	}));
-	$var($String, metaValue_calendarname_gregorian, u"\uc591\ub825"_s);
+	$var($String, metaValue_calendarname_gregorian, u"양력"_s);
 	$var($StringArray, metaValue_short_CompactNumberPatterns, $new($StringArray, {
 		""_s,
 		""_s,
 		""_s,
-		u"{other:0\ucc9c}"_s,
-		u"{other:0\ub9cc}"_s,
-		u"{other:00\ub9cc}"_s,
-		u"{other:000\ub9cc}"_s,
-		u"{other:0000\ub9cc}"_s,
-		u"{other:0\uc5b5}"_s,
-		u"{other:00\uc5b5}"_s,
-		u"{other:000\uc5b5}"_s,
-		u"{other:0000\uc5b5}"_s,
-		u"{other:0\uc870}"_s,
-		u"{other:00\uc870}"_s,
-		u"{other:000\uc870}"_s
+		u"{other:0천}"_s,
+		u"{other:0만}"_s,
+		u"{other:00만}"_s,
+		u"{other:000만}"_s,
+		u"{other:0000만}"_s,
+		u"{other:0억}"_s,
+		u"{other:00억}"_s,
+		u"{other:000억}"_s,
+		u"{other:0000억}"_s,
+		u"{other:0조}"_s,
+		u"{other:00조}"_s,
+		u"{other:000조}"_s
 	}));
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
@@ -197,11 +197,11 @@ $ObjectArray2* FormatData_ko::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.year"_s),
-			$of(u"\ub144"_s)
+			$of(u"년"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.islamic-umalqura"_s),
-			$of(u"\uc774\uc2ac\ub78c\ub825(\uc6c0 \uc54c \ucfe0\ub77c)"_s)
+			$of(u"이슬람력(움 알 쿠라)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("japanese.AmPmMarkers"_s),
@@ -233,7 +233,7 @@ $ObjectArray2* FormatData_ko::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.islamic-civil"_s),
-			$of(u"\uc774\uc2ac\ub78c \uc0c1\uc6a9\ub825"_s)
+			$of(u"이슬람 상용력"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("islamic.narrow.AmPmMarkers"_s),
@@ -257,7 +257,7 @@ $ObjectArray2* FormatData_ko::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.regionFormat.standard"_s),
-			$of(u"{0} \ud45c\uc900\uc2dc"_s)
+			$of(u"{0} 표준시"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("japanese.abbreviated.AmPmMarkers"_s),
@@ -265,7 +265,7 @@ $ObjectArray2* FormatData_ko::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.japanese"_s),
-			$of(u"\uc77c\ubcf8\ub825"_s)
+			$of(u"일본력"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("japanese.MonthNames"_s),
@@ -286,8 +286,8 @@ $ObjectArray2* FormatData_ko::getContents() {
 		$$new($ObjectArray, {
 			$of("long.Eras"_s),
 			$of($$new($StringArray, {
-				u"\uae30\uc6d0\uc804"_s,
-				u"\uc11c\uae30"_s
+				u"기원전"_s,
+				u"서기"_s
 			}))
 		}),
 		$$new($ObjectArray, {
@@ -330,8 +330,8 @@ $ObjectArray2* FormatData_ko::getContents() {
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
+				u"‰"_s,
+				u"∞"_s,
 				"NaN"_s,
 				""_s,
 				""_s
@@ -351,7 +351,7 @@ $ObjectArray2* FormatData_ko::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.minute"_s),
-			$of(u"\ubd84"_s)
+			$of(u"분"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("japanese.long.Eras"_s),
@@ -359,7 +359,7 @@ $ObjectArray2* FormatData_ko::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.era"_s),
-			$of(u"\uc5f0\ud638"_s)
+			$of(u"연호"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("buddhist.AmPmMarkers"_s),
@@ -367,7 +367,7 @@ $ObjectArray2* FormatData_ko::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.dayperiod"_s),
-			$of(u"\uc624\uc804/\uc624\ud6c4"_s)
+			$of(u"오전/오후"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("standalone.MonthNarrows"_s),
@@ -376,18 +376,18 @@ $ObjectArray2* FormatData_ko::getContents() {
 		$$new($ObjectArray, {
 			$of("islamic.MonthNames"_s),
 			$of($$new($StringArray, {
-				u"\ubb34\ud558\ub78c"_s,
-				u"\uc0ac\ud30c\ub974"_s,
-				u"\ub77c\ube44 \uc54c \uc544\uc648"_s,
-				u"\ub77c\ube44 \uc54c \uc384\ub2c8"_s,
-				u"\uc8fc\ub9c8\ub2e4 \uc54c \uc544\uc648"_s,
-				u"\uc8fc\ub9c8\ub2e4 \uc54c \uc384\ub2c8"_s,
-				u"\ub77c\uc7a1"_s,
-				u"\uc250\uc544\ubc18"_s,
-				u"\ub77c\ub9c8\ub2e8"_s,
-				u"\uc250\uc648"_s,
-				u"\ub4c0 \uc54c \uae4c\ub2e4"_s,
-				u"\ub4c0 \uc54c \ud788\uc790"_s,
+				u"무하람"_s,
+				u"사파르"_s,
+				u"라비 알 아왈"_s,
+				u"라비 알 쎄니"_s,
+				u"주마다 알 아왈"_s,
+				u"주마다 알 쎄니"_s,
+				u"라잡"_s,
+				u"쉐아반"_s,
+				u"라마단"_s,
+				u"쉐왈"_s,
+				u"듀 알 까다"_s,
+				u"듀 알 히자"_s,
 				""_s
 			}))
 		}),
@@ -398,16 +398,16 @@ $ObjectArray2* FormatData_ko::getContents() {
 		$$new($ObjectArray, {
 			$of("arab.NumberElements"_s),
 			$of($$new($StringArray, {
-				u"\u066b"_s,
-				u"\u066c"_s,
-				u"\u061b"_s,
-				u"\u066a\u061c"_s,
-				u"\u0660"_s,
+				u"٫"_s,
+				u"٬"_s,
+				u"؛"_s,
+				u"٪\u061c"_s,
+				u"٠"_s,
 				"#"_s,
 				u"\u200f-"_s,
-				u"\u0627\u0633"_s,
-				u"\u0609"_s,
-				u"\u221e"_s,
+				u"اس"_s,
+				u"؉"_s,
+				u"∞"_s,
 				"NaN"_s,
 				""_s,
 				""_s
@@ -415,7 +415,7 @@ $ObjectArray2* FormatData_ko::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.roc"_s),
-			$of(u"\ub300\ub9cc\ub825"_s)
+			$of(u"대만력"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("islamic.DatePatterns"_s),
@@ -431,7 +431,7 @@ $ObjectArray2* FormatData_ko::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.month"_s),
-			$of(u"\uc6d4"_s)
+			$of(u"월"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("java.time.japanese.long.Eras"_s),
@@ -443,7 +443,7 @@ $ObjectArray2* FormatData_ko::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.second"_s),
-			$of(u"\ucd08"_s)
+			$of(u"초"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("DayAbbreviations"_s),
@@ -459,7 +459,7 @@ $ObjectArray2* FormatData_ko::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.islamic"_s),
-			$of(u"\uc774\uc2ac\ub78c\ub825"_s)
+			$of(u"이슬람력"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("java.time.roc.long.Eras"_s),
@@ -491,7 +491,7 @@ $ObjectArray2* FormatData_ko::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.regionFormat"_s),
-			$of(u"{0} \uc2dc\uac04"_s)
+			$of(u"{0} 시간"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("roc.narrow.AmPmMarkers"_s),
@@ -547,7 +547,7 @@ $ObjectArray2* FormatData_ko::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.zone"_s),
-			$of(u"\uc2dc\uac04\ub300"_s)
+			$of(u"시간대"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("japanese.QuarterAbbreviations"_s),
@@ -561,7 +561,7 @@ $ObjectArray2* FormatData_ko::getContents() {
 			$of("arab.NumberPatterns"_s),
 			$of($$new($StringArray, {
 				"#,##0.###"_s,
-				u"#,##0.00\u00a0\u00a4"_s,
+				u"#,##0.00 ¤"_s,
 				"#,##0%"_s,
 				""_s
 			}))
@@ -596,7 +596,7 @@ $ObjectArray2* FormatData_ko::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.weekday"_s),
-			$of(u"\uc694\uc77c"_s)
+			$of(u"요일"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("japanese.MonthAbbreviations"_s),
@@ -656,7 +656,7 @@ $ObjectArray2* FormatData_ko::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.week"_s),
-			$of(u"\uc8fc"_s)
+			$of(u"주"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("buddhist.MonthNarrows"_s),
@@ -700,13 +700,13 @@ $ObjectArray2* FormatData_ko::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.regionFormat.daylight"_s),
-			$of(u"{0} \ud558\uacc4 \ud45c\uc900\uc2dc"_s)
+			$of(u"{0} 하계 표준시"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("DatePatterns"_s),
 			$of($$new($StringArray, {
-				u"y\ub144 M\uc6d4 d\uc77c EEEE"_s,
-				u"y\ub144 M\uc6d4 d\uc77c"_s,
+				u"y년 M월 d일 EEEE"_s,
+				u"y년 M월 d일"_s,
 				"y. M. d."_s,
 				"yy. M. d."_s
 			}))
@@ -729,7 +729,7 @@ $ObjectArray2* FormatData_ko::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.hour"_s),
-			$of(u"\uc2dc"_s)
+			$of(u"시"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("islamic.narrow.Eras"_s),
@@ -737,7 +737,7 @@ $ObjectArray2* FormatData_ko::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.buddhist"_s),
-			$of(u"\ubd88\uad50\ub825"_s)
+			$of(u"불교력"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("standalone.MonthNames"_s),
@@ -747,9 +747,9 @@ $ObjectArray2* FormatData_ko::getContents() {
 			$of("latn.NumberPatterns"_s),
 			$of($$new($StringArray, {
 				"#,##0.###"_s,
-				u"\u00a4#,##0.00"_s,
+				u"¤#,##0.00"_s,
 				"#,##0%"_s,
-				u"\u00a4#,##0.00;(\u00a4#,##0.00)"_s
+				u"¤#,##0.00;(¤#,##0.00)"_s
 			}))
 		}),
 		$$new($ObjectArray, {

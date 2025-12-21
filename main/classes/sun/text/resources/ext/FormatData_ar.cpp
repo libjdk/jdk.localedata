@@ -40,173 +40,173 @@ $ObjectArray2* FormatData_ar::getContents() {
 	$useLocalCurrentObjectStackCache();
 	$var($StringArray, rocEras, $new($StringArray, {
 		"Before R.O.C."_s,
-		u"\u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0627\u0644\u0635\u064a"_s
+		u"جمهورية الصي"_s
 	}));
 	return $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("MonthNames"_s),
 			$of($$new($StringArray, {
-				u"\u064a\u0646\u0627\u064a\u0631"_s,
-				u"\u0641\u0628\u0631\u0627\u064a\u0631"_s,
-				u"\u0645\u0627\u0631\u0633"_s,
-				u"\u0623\u0628\u0631\u064a\u0644"_s,
-				u"\u0645\u0627\u064a\u0648"_s,
-				u"\u064a\u0648\u0646\u064a\u0648"_s,
-				u"\u064a\u0648\u0644\u064a\u0648"_s,
-				u"\u0623\u063a\u0633\u0637\u0633"_s,
-				u"\u0633\u0628\u062a\u0645\u0628\u0631"_s,
-				u"\u0623\u0643\u062a\u0648\u0628\u0631"_s,
-				u"\u0646\u0648\u0641\u0645\u0628\u0631"_s,
-				u"\u062f\u064a\u0633\u0645\u0628\u0631"_s,
+				u"يناير"_s,
+				u"فبراير"_s,
+				u"مارس"_s,
+				u"أبريل"_s,
+				u"مايو"_s,
+				u"يونيو"_s,
+				u"يوليو"_s,
+				u"أغسطس"_s,
+				u"سبتمبر"_s,
+				u"أكتوبر"_s,
+				u"نوفمبر"_s,
+				u"ديسمبر"_s,
 				""_s
 			}))
 		}),
 		$$new($ObjectArray, {
 			$of("MonthAbbreviations"_s),
 			$of($$new($StringArray, {
-				u"\u064a\u0646\u0627"_s,
-				u"\u0641\u0628\u0631"_s,
-				u"\u0645\u0627\u0631"_s,
-				u"\u0623\u0628\u0631"_s,
-				u"\u0645\u0627\u064a"_s,
-				u"\u064a\u0648\u0646"_s,
-				u"\u064a\u0648\u0644"_s,
-				u"\u0623\u063a\u0633"_s,
-				u"\u0633\u0628\u062a"_s,
-				u"\u0623\u0643\u062a"_s,
-				u"\u0646\u0648\u0641"_s,
-				u"\u062f\u064a\u0633"_s,
+				u"ينا"_s,
+				u"فبر"_s,
+				u"مار"_s,
+				u"أبر"_s,
+				u"ماي"_s,
+				u"يون"_s,
+				u"يول"_s,
+				u"أغس"_s,
+				u"سبت"_s,
+				u"أكت"_s,
+				u"نوف"_s,
+				u"ديس"_s,
 				""_s
 			}))
 		}),
 		$$new($ObjectArray, {
 			$of("MonthNarrows"_s),
 			$of($$new($StringArray, {
-				u"\u064a"_s,
-				u"\u0641"_s,
-				u"\u0645"_s,
-				u"\u0623"_s,
-				u"\u0648"_s,
-				u"\u0646"_s,
-				u"\u0644"_s,
-				u"\u063a"_s,
-				u"\u0633"_s,
-				u"\u0643"_s,
-				u"\u0628"_s,
-				u"\u062f"_s,
+				u"ي"_s,
+				u"ف"_s,
+				u"م"_s,
+				u"أ"_s,
+				u"و"_s,
+				u"ن"_s,
+				u"ل"_s,
+				u"غ"_s,
+				u"س"_s,
+				u"ك"_s,
+				u"ب"_s,
+				u"د"_s,
 				""_s
 			}))
 		}),
 		$$new($ObjectArray, {
 			$of("DayNames"_s),
 			$of($$new($StringArray, {
-				u"\u0627\u0644\u0623\u062d\u062f"_s,
-				u"\u0627\u0644\u0627\u062b\u0646\u064a\u0646"_s,
-				u"\u0627\u0644\u062b\u0644\u0627\u062b\u0627\u0621"_s,
-				u"\u0627\u0644\u0623\u0631\u0628\u0639\u0627\u0621"_s,
-				u"\u0627\u0644\u062e\u0645\u064a\u0633"_s,
-				u"\u0627\u0644\u062c\u0645\u0639\u0629"_s,
-				u"\u0627\u0644\u0633\u0628\u062a"_s
+				u"الأحد"_s,
+				u"الاثنين"_s,
+				u"الثلاثاء"_s,
+				u"الأربعاء"_s,
+				u"الخميس"_s,
+				u"الجمعة"_s,
+				u"السبت"_s
 			}))
 		}),
 		$$new($ObjectArray, {
 			$of("DayAbbreviations"_s),
 			$of($$new($StringArray, {
-				u"\u062d"_s,
-				u"\u0646"_s,
-				u"\u062b"_s,
-				u"\u0631"_s,
-				u"\u062e"_s,
-				u"\u062c"_s,
-				u"\u0633"_s
+				u"ح"_s,
+				u"ن"_s,
+				u"ث"_s,
+				u"ر"_s,
+				u"خ"_s,
+				u"ج"_s,
+				u"س"_s
 			}))
 		}),
 		$$new($ObjectArray, {
 			$of("standalone.DayAbbreviations"_s),
 			$of($$new($StringArray, {
-				u"\u0627\u0644\u0623\u062d\u062f"_s,
-				u"\u0627\u0644\u0627\u062b\u0646\u064a\u0646"_s,
-				u"\u0627\u0644\u062b\u0644\u0627\u062b\u0627\u0621"_s,
-				u"\u0627\u0644\u0623\u0631\u0628\u0639\u0627\u0621"_s,
-				u"\u0627\u0644\u062e\u0645\u064a\u0633"_s,
-				u"\u0627\u0644\u062c\u0645\u0639\u0629"_s,
-				u"\u0627\u0644\u0633\u0628\u062a"_s
+				u"الأحد"_s,
+				u"الاثنين"_s,
+				u"الثلاثاء"_s,
+				u"الأربعاء"_s,
+				u"الخميس"_s,
+				u"الجمعة"_s,
+				u"السبت"_s
 			}))
 		}),
 		$$new($ObjectArray, {
 			$of("DayNarrows"_s),
 			$of($$new($StringArray, {
-				u"\u062d"_s,
-				u"\u0646"_s,
-				u"\u062b"_s,
-				u"\u0631"_s,
-				u"\u062e"_s,
-				u"\u062c"_s,
-				u"\u0633"_s
+				u"ح"_s,
+				u"ن"_s,
+				u"ث"_s,
+				u"ر"_s,
+				u"خ"_s,
+				u"ج"_s,
+				u"س"_s
 			}))
 		}),
 		$$new($ObjectArray, {
 			$of("AmPmMarkers"_s),
 			$of($$new($StringArray, {
-				u"\u0635"_s,
-				u"\u0645"_s
+				u"ص"_s,
+				u"م"_s
 			}))
 		}),
 		$$new($ObjectArray, {
 			$of("Eras"_s),
 			$of($$new($StringArray, {
-				u"\u0642.\u0645"_s,
-				u"\u0645"_s
+				u"ق.م"_s,
+				u"م"_s
 			}))
 		}),
 		$$new($ObjectArray, {
 			$of("short.Eras"_s),
 			$of($$new($StringArray, {
-				u"\u0642.\u0645"_s,
-				u"\u0645"_s
+				u"ق.م"_s,
+				u"م"_s
 			}))
 		}),
 		$$new($ObjectArray, {
 			$of("japanese.Eras"_s),
 			$of($$new($StringArray, {
-				u"\u0645"_s,
-				u"\u0645\u064a\u062c\u064a"_s,
-				u"\u062a\u064a\u0634\u0648"_s,
-				u"\u0634\u0648\u0648\u0627"_s,
-				u"\u0647\u064a\u0633\u064a"_s,
-				u"\u0631\u064a\u0648\u0627"_s
+				u"م"_s,
+				u"ميجي"_s,
+				u"تيشو"_s,
+				u"شووا"_s,
+				u"هيسي"_s,
+				u"ريوا"_s
 			}))
 		}),
 		$$new($ObjectArray, {
 			$of("japanese.short.Eras"_s),
 			$of($$new($StringArray, {
-				u"\u0645"_s,
-				u"\u0645\u064a\u062c\u064a"_s,
-				u"\u062a\u064a\u0634\u0648"_s,
-				u"\u0634\u0648\u0648\u0627"_s,
-				u"\u0647\u064a\u0633\u064a"_s,
-				u"\u0631\u064a\u0648\u0627"_s
+				u"م"_s,
+				u"ميجي"_s,
+				u"تيشو"_s,
+				u"شووا"_s,
+				u"هيسي"_s,
+				u"ريوا"_s
 			}))
 		}),
 		$$new($ObjectArray, {
 			$of("buddhist.Eras"_s),
 			$of($$new($StringArray, {
 				"BC"_s,
-				u"\u0627\u0644\u062a\u0642\u0648\u064a\u0645 \u0627\u0644\u0628\u0648\u0630\u064a"_s
+				u"التقويم البوذي"_s
 			}))
 		}),
 		$$new($ObjectArray, {
 			$of("buddhist.short.Eras"_s),
 			$of($$new($StringArray, {
 				"BC"_s,
-				u"\u0627\u0644\u062a\u0642\u0648\u064a\u0645 \u0627\u0644\u0628\u0648\u0630\u064a"_s
+				u"التقويم البوذي"_s
 			}))
 		}),
 		$$new($ObjectArray, {
 			$of("NumberPatterns"_s),
 			$of($$new($StringArray, {
 				"#,##0.###;#,##0.###-"_s,
-				u"\u00a4 #,##0.###;\u00a4 #,##0.###-"_s,
+				u"¤ #,##0.###;¤ #,##0.###-"_s,
 				"#,##0%"_s
 			}))
 		}),

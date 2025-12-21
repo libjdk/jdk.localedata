@@ -43,7 +43,7 @@ $ObjectArray2* FormatData_saq::getContents() {
 		"Lapa le obo"_s,
 		"Lapa le waare"_s,
 		"Lapa le okuni"_s,
-		u"Lapa le ong\u2019wan"_s,
+		u"Lapa le ong’wan"_s,
 		"Lapa le imet"_s,
 		"Lapa le ile"_s,
 		"Lapa le sapa"_s,
@@ -87,7 +87,7 @@ $ObjectArray2* FormatData_saq::getContents() {
 	$var($StringArray, metaValue_DayNames, $new($StringArray, {
 		"Mderot ee are"_s,
 		"Mderot ee kuni"_s,
-		u"Mderot ee ong\u2019wan"_s,
+		u"Mderot ee ong’wan"_s,
 		"Mderot ee inet"_s,
 		"Mderot ee ile"_s,
 		"Mderot ee sapa"_s,
@@ -306,8 +306,8 @@ $ObjectArray2* FormatData_saq::getContents() {
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
+				u"‰"_s,
+				u"∞"_s,
 				"NaN"_s,
 				""_s,
 				""_s
@@ -482,9 +482,9 @@ $ObjectArray2* FormatData_saq::getContents() {
 			$of("latn.NumberPatterns"_s),
 			$of($$new($StringArray, {
 				"#,##0.###"_s,
-				u"\u00a4#,##0.00"_s,
+				u"¤#,##0.00"_s,
 				"#,##0%"_s,
-				u"\u00a4#,##0.00;(\u00a4#,##0.00)"_s
+				u"¤#,##0.00;(¤#,##0.00)"_s
 			}))
 		}),
 		$$new($ObjectArray, {

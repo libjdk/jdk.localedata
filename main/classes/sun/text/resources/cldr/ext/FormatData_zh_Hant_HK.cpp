@@ -46,22 +46,22 @@ $ObjectArray2* FormatData_zh_Hant_HK::getContents() {
 		"Q4"_s
 	}));
 	$var($StringArray, metaValue_AmPmMarkers, $new($StringArray, {
-		u"\u4e0a\u5348"_s,
-		u"\u4e0b\u5348"_s,
-		u"\u5348\u591c"_s,
+		u"上午"_s,
+		u"下午"_s,
+		u"午夜"_s,
 		""_s,
-		u"\u65e9\u4e0a"_s,
-		u"\u4e0a\u5348"_s,
-		u"\u4e2d\u5348"_s,
-		u"\u4e0b\u5348"_s,
-		u"\u665a\u4e0a"_s,
+		u"早上"_s,
+		u"上午"_s,
+		u"中午"_s,
+		u"下午"_s,
+		u"晚上"_s,
 		""_s,
-		u"\u51cc\u6668"_s,
+		u"凌晨"_s,
 		""_s
 	}));
 	$var($StringArray, metaValue_long_Eras, $new($StringArray, {
-		u"\u516c\u5143\u524d"_s,
-		u"\u516c\u5143"_s
+		u"公元前"_s,
+		u"公元"_s
 	}));
 	$var($StringArray, metaValue_TimePatterns, $new($StringArray, {
 		"ah:mm:ss [zzzz]"_s,
@@ -70,15 +70,15 @@ $ObjectArray2* FormatData_zh_Hant_HK::getContents() {
 		"ah:mm"_s
 	}));
 	$var($StringArray, metaValue_java_time_buddhist_DatePatterns, $new($StringArray, {
-		u"Gy\u5e74M\u6708d\u65e5EEEE"_s,
-		u"Gy\u5e74M\u6708d\u65e5"_s,
-		u"Gy\u5e74M\u6708d\u65e5"_s,
+		u"Gy年M月d日EEEE"_s,
+		u"Gy年M月d日"_s,
+		u"Gy年M月d日"_s,
 		"Gy/M/d"_s
 	}));
 	$var($StringArray, metaValue_buddhist_DatePatterns, $new($StringArray, {
-		u"GGGGy\u5e74M\u6708d\u65e5EEEE"_s,
-		u"GGGGy\u5e74M\u6708d\u65e5"_s,
-		u"GGGGy\u5e74M\u6708d\u65e5"_s,
+		u"GGGGy年M月d日EEEE"_s,
+		u"GGGGy年M月d日"_s,
+		u"GGGGy年M月d日"_s,
 		"GGGGy/M/d"_s
 	}));
 	$var($StringArray, metaValue_short_CompactNumberPatterns, $new($StringArray, {
@@ -161,7 +161,7 @@ $ObjectArray2* FormatData_zh_Hant_HK::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.week"_s),
-			$of(u"\u661f\u671f"_s)
+			$of(u"星期"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("abbreviated.AmPmMarkers"_s),
@@ -169,7 +169,7 @@ $ObjectArray2* FormatData_zh_Hant_HK::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.regionFormat.standard"_s),
-			$of(u"{0}\u6a19\u6e96\u6642\u9593"_s)
+			$of(u"{0}標準時間"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("japanese.abbreviated.AmPmMarkers"_s),
@@ -221,20 +221,20 @@ $ObjectArray2* FormatData_zh_Hant_HK::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.regionFormat.daylight"_s),
-			$of(u"{0}\u590f\u4ee4\u6642\u9593"_s)
+			$of(u"{0}夏令時間"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("DatePatterns"_s),
 			$of($$new($StringArray, {
-				u"y\u5e74M\u6708d\u65e5EEEE"_s,
-				u"y\u5e74M\u6708d\u65e5"_s,
-				u"y\u5e74M\u6708d\u65e5"_s,
+				u"y年M月d日EEEE"_s,
+				u"y年M月d日"_s,
+				u"y年M月d日"_s,
 				"d/M/y"_s
 			}))
 		}),
 		$$new($ObjectArray, {
 			$of("field.weekday"_s),
-			$of(u"\u661f\u671f\u5e7e"_s)
+			$of(u"星期幾"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("islamic.TimePatterns"_s),
@@ -264,9 +264,9 @@ $ObjectArray2* FormatData_zh_Hant_HK::getContents() {
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
-				u"\u975e\u6578\u503c"_s,
+				u"‰"_s,
+				u"∞"_s,
+				u"非數值"_s,
 				""_s,
 				""_s
 			}))
@@ -295,9 +295,9 @@ $ObjectArray2* FormatData_zh_Hant_HK::getContents() {
 			$of("latn.NumberPatterns"_s),
 			$of($$new($StringArray, {
 				"#,##0.###"_s,
-				u"\u00a4#,##0.00"_s,
+				u"¤#,##0.00"_s,
 				"#,##0%"_s,
-				u"\u00a4#,##0.00;(\u00a4#,##0.00)"_s
+				u"¤#,##0.00;(¤#,##0.00)"_s
 			}))
 		}),
 		$$new($ObjectArray, {

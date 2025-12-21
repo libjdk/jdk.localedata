@@ -250,7 +250,7 @@ $ObjectArray2* LocaleNames_ia::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("AX"_s),
-			$of(u"Insulas \u00c5land"_s)
+			$of(u"Insulas Åland"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ay"_s),
@@ -1338,7 +1338,7 @@ $ObjectArray2* LocaleNames_ia::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("gwi"_s),
-			$of(u"gwich\u2019in"_s)
+			$of(u"gwich’in"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.mlym"_s),
@@ -1594,7 +1594,7 @@ $ObjectArray2* LocaleNames_ia::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("nb"_s),
-			$of(u"norvegiano bokm\u00e5l"_s)
+			$of(u"norvegiano bokmål"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.ca.hebrew"_s),
@@ -1862,15 +1862,15 @@ $ObjectArray2* LocaleNames_ia::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("mgo"_s),
-			$of(u"meta\u02bc"_s)
+			$of(u"metaʼ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.hc.h23"_s),
-			$of(u"systema de 24 horas (0\u201323)"_s)
+			$of(u"systema de 24 horas (0–23)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.hc.h24"_s),
-			$of(u"systema de 24 horas (1\u201324)"_s)
+			$of(u"systema de 24 horas (1–24)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ssy"_s),
@@ -1926,7 +1926,7 @@ $ObjectArray2* LocaleNames_ia::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("type.hc.h12"_s),
-			$of(u"systema de 12 horas (1\u201312)"_s)
+			$of(u"systema de 12 horas (1–12)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("005"_s),
@@ -1938,7 +1938,7 @@ $ObjectArray2* LocaleNames_ia::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("type.hc.h11"_s),
-			$of(u"systema de 12 horas (0\u201311)"_s)
+			$of(u"systema de 12 horas (0–11)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("009"_s),
@@ -2562,11 +2562,11 @@ $ObjectArray2* LocaleNames_ia::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("vo"_s),
-			$of(u"volap\u00fck"_s)
+			$of(u"volapük"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("quc"_s),
-			$of(u"k\u02bciche\u02bc"_s)
+			$of(u"kʼicheʼ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("VU"_s),
@@ -2710,7 +2710,7 @@ $ObjectArray2* LocaleNames_ia::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("nqo"_s),
-			$of(u"n\u2019ko"_s)
+			$of(u"n’ko"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.co.standard"_s),
@@ -2822,7 +2822,7 @@ $ObjectArray2* LocaleNames_ia::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("gez"_s),
-			$of(u"ge\u2019ez"_s)
+			$of(u"ge’ez"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ebu"_s),

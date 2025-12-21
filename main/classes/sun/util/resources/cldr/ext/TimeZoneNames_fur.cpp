@@ -67,27 +67,27 @@ $ObjectArray2* TimeZoneNames_fur::getContents() {
 		""_s
 	}));
 	$var($StringArray, Europe_Central, $new($StringArray, {
-		u"Ore standard de Europe centr\u00e2l"_s,
+		u"Ore standard de Europe centrâl"_s,
 		"CET"_s,
-		u"Ore estive de Europe centr\u00e2l"_s,
+		u"Ore estive de Europe centrâl"_s,
 		"CEST"_s,
-		u"Ore de Europe centr\u00e2l"_s,
+		u"Ore de Europe centrâl"_s,
 		"CET"_s
 	}));
 	$var($StringArray, Europe_Eastern, $new($StringArray, {
-		u"Ore standard de Europe orient\u00e2l"_s,
+		u"Ore standard de Europe orientâl"_s,
 		"EET"_s,
-		u"Ore estive de Europe orient\u00e2l"_s,
+		u"Ore estive de Europe orientâl"_s,
 		"EEST"_s,
-		u"Ore de Europe orient\u00e2l"_s,
+		u"Ore de Europe orientâl"_s,
 		"EET"_s
 	}));
 	$var($StringArray, Europe_Western, $new($StringArray, {
-		u"Ore standard de Europe ocident\u00e2l"_s,
+		u"Ore standard de Europe ocidentâl"_s,
 		"WET"_s,
-		u"Ore estive de Europe ocident\u00e2l"_s,
+		u"Ore estive de Europe ocidentâl"_s,
 		"WEST"_s,
-		u"Ore de Europe ocident\u00e2l"_s,
+		u"Ore de Europe ocidentâl"_s,
 		"WET"_s
 	}));
 	$var($ObjectArray2, data, $new($ObjectArray2, {
@@ -465,7 +465,7 @@ $ObjectArray2* TimeZoneNames_fur::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Etc/Unknown"_s),
-			$of(u"Cit\u00e2t no cognossude"_s)
+			$of(u"Citât no cognossude"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Malta"_s),
@@ -497,7 +497,7 @@ $ObjectArray2* TimeZoneNames_fur::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Belgrade"_s),
-			$of(u"Belgr\u00e2t"_s)
+			$of(u"Belgrât"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/New_York"_s),
@@ -509,7 +509,7 @@ $ObjectArray2* TimeZoneNames_fur::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Sao_Paulo"_s),
-			$of(u"San Pauli dal Bras\u00eel"_s)
+			$of(u"San Pauli dal Brasîl"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Luxembourg"_s),

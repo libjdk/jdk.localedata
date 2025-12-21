@@ -40,52 +40,52 @@ void FormatData_az_Cyrl::init$() {
 $ObjectArray2* FormatData_az_Cyrl::getContents() {
 	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_MonthNames, $new($StringArray, {
-		u"\u0458\u0430\u043d\u0432\u0430\u0440"_s,
-		u"\u0444\u0435\u0432\u0440\u0430\u043b"_s,
-		u"\u043c\u0430\u0440\u0442"_s,
-		u"\u0430\u043f\u0440\u0435\u043b"_s,
-		u"\u043c\u0430\u0439"_s,
-		u"\u0438\u0458\u0443\u043d"_s,
-		u"\u0438\u0458\u0443\u043b"_s,
-		u"\u0430\u0432\u0433\u0443\u0441\u0442"_s,
-		u"\u0441\u0435\u043d\u0442\u0458\u0430\u0431\u0440"_s,
-		u"\u043e\u043a\u0442\u0458\u0430\u0431\u0440"_s,
-		u"\u043d\u043e\u0458\u0430\u0431\u0440"_s,
-		u"\u0434\u0435\u043a\u0430\u0431\u0440"_s,
+		u"јанвар"_s,
+		u"феврал"_s,
+		u"март"_s,
+		u"апрел"_s,
+		u"май"_s,
+		u"ијун"_s,
+		u"ијул"_s,
+		u"август"_s,
+		u"сентјабр"_s,
+		u"октјабр"_s,
+		u"нојабр"_s,
+		u"декабр"_s,
 		""_s
 	}));
 	$var($StringArray, metaValue_MonthAbbreviations, $new($StringArray, {
-		u"\u0458\u0430\u043d"_s,
-		u"\u0444\u0435\u0432"_s,
-		u"\u043c\u0430\u0440"_s,
-		u"\u0430\u043f\u0440"_s,
-		u"\u043c\u0430\u0439"_s,
-		u"\u0438\u0458\u043d"_s,
-		u"\u0438\u0458\u043b"_s,
-		u"\u0430\u0432\u0433"_s,
-		u"\u0441\u0435\u043d"_s,
-		u"\u043e\u043a\u0442"_s,
-		u"\u043d\u043e\u0458"_s,
-		u"\u0434\u0435\u043a"_s,
+		u"јан"_s,
+		u"фев"_s,
+		u"мар"_s,
+		u"апр"_s,
+		u"май"_s,
+		u"ијн"_s,
+		u"ијл"_s,
+		u"авг"_s,
+		u"сен"_s,
+		u"окт"_s,
+		u"ној"_s,
+		u"дек"_s,
 		""_s
 	}));
 	$var($StringArray, metaValue_DayNames, $new($StringArray, {
-		u"\u0431\u0430\u0437\u0430\u0440"_s,
-		u"\u0431\u0430\u0437\u0430\u0440 \u0435\u0440\u0442\u04d9\u0441\u0438"_s,
-		u"\u0447\u04d9\u0440\u0448\u04d9\u043d\u0431\u04d9 \u0430\u0445\u0448\u0430\u043c\u044b"_s,
-		u"\u0447\u04d9\u0440\u0448\u04d9\u043d\u0431\u04d9"_s,
-		u"\u04b9\u04af\u043c\u04d9 \u0430\u0445\u0448\u0430\u043c\u044b"_s,
-		u"\u04b9\u04af\u043c\u04d9"_s,
-		u"\u0448\u04d9\u043d\u0431\u04d9"_s
+		u"базар"_s,
+		u"базар ертәси"_s,
+		u"чәршәнбә ахшамы"_s,
+		u"чәршәнбә"_s,
+		u"ҹүмә ахшамы"_s,
+		u"ҹүмә"_s,
+		u"шәнбә"_s
 	}));
 	$var($StringArray, metaValue_DayAbbreviations, $new($StringArray, {
-		u"\u0411."_s,
-		u"\u0411.\u0415."_s,
-		u"\u0427.\u0410."_s,
-		u"\u0427."_s,
-		u"\u04b8.\u0410."_s,
-		u"\u04b8."_s,
-		u"\u0428."_s
+		u"Б."_s,
+		u"Б.Е."_s,
+		u"Ч.А."_s,
+		u"Ч."_s,
+		u"Ҹ.А."_s,
+		u"Ҹ."_s,
+		u"Ш."_s
 	}));
 	$var($StringArray, metaValue_DayNarrows, $new($StringArray, {
 		"7"_s,
@@ -97,48 +97,48 @@ $ObjectArray2* FormatData_az_Cyrl::getContents() {
 		"6"_s
 	}));
 	$var($StringArray, metaValue_QuarterNames, $new($StringArray, {
-		u"1-\u04b9\u0438 \u043a\u0432\u0430\u0440\u0442\u0430\u043b"_s,
-		u"2-\u04b9\u0438 \u043a\u0432\u0430\u0440\u0442\u0430\u043b"_s,
-		u"3-\u04b9\u04af \u043a\u0432\u0430\u0440\u0442\u0430\u043b"_s,
-		u"4-\u04b9\u04af \u043a\u0432\u0430\u0440\u0442\u0430\u043b"_s
+		u"1-ҹи квартал"_s,
+		u"2-ҹи квартал"_s,
+		u"3-ҹү квартал"_s,
+		u"4-ҹү квартал"_s
 	}));
 	$var($StringArray, metaValue_QuarterAbbreviations, $new($StringArray, {
-		u"1-\u04b9\u0438 \u043a\u0432."_s,
-		u"2-\u04b9\u0438 \u043a\u0432."_s,
-		u"3-\u04b9\u04af \u043a\u0432."_s,
-		u"4-\u04b9\u04af \u043a\u0432."_s
+		u"1-ҹи кв."_s,
+		u"2-ҹи кв."_s,
+		u"3-ҹү кв."_s,
+		u"4-ҹү кв."_s
 	}));
 	$var($StringArray, metaValue_AmPmMarkers, $new($StringArray, {
-		u"\u0410\u041c"_s,
-		u"\u041f\u041c"_s,
-		u"\u049d\u0435\u04b9\u04d9\u0458\u0430\u0440\u044b"_s,
-		u"\u049d\u04af\u043d\u043e\u0440\u0442\u0430"_s,
-		u"\u0441\u04af\u0431\u04bb"_s,
-		u"\u0441\u04d9\u04bb\u04d9\u0440"_s,
-		u"\u049d\u04af\u043d\u0434\u04af\u0437"_s,
+		u"АМ"_s,
+		u"ПМ"_s,
+		u"ҝеҹәјары"_s,
+		u"ҝүнорта"_s,
+		u"сүбһ"_s,
+		u"сәһәр"_s,
+		u"ҝүндүз"_s,
 		""_s,
-		u"\u0430\u0445\u0448\u0430\u043c\u04af\u0441\u0442\u04af"_s,
+		u"ахшамүстү"_s,
 		""_s,
-		u"\u0430\u0445\u0448\u0430\u043c"_s,
-		u"\u049d\u0435\u04b9\u04d9"_s
+		u"ахшам"_s,
+		u"ҝеҹә"_s
 	}));
 	$var($StringArray, metaValue_narrow_AmPmMarkers, $new($StringArray, {
-		u"\u0430"_s,
-		u"\u043f"_s,
-		u"\u049d\u0435\u04b9\u04d9\u0458\u0430\u0440\u044b"_s,
-		u"\u049d"_s,
-		u"\u0441\u04af\u0431\u04bb"_s,
-		u"\u0441\u04d9\u04bb\u04d9\u0440"_s,
-		u"\u049d\u04af\u043d\u0434\u04af\u0437"_s,
+		u"а"_s,
+		u"п"_s,
+		u"ҝеҹәјары"_s,
+		u"ҝ"_s,
+		u"сүбһ"_s,
+		u"сәһәр"_s,
+		u"ҝүндүз"_s,
 		""_s,
-		u"\u0430\u0445\u0448\u0430\u043c\u04af\u0441\u0442\u04af"_s,
+		u"ахшамүстү"_s,
 		""_s,
-		u"\u0430\u0445\u0448\u0430\u043c"_s,
-		u"\u049d\u0435\u04b9\u04d9"_s
+		u"ахшам"_s,
+		u"ҝеҹә"_s
 	}));
 	$var($StringArray, metaValue_Eras, $new($StringArray, {
-		u"\u0435.\u04d9."_s,
-		u"\u0458.\u0435."_s
+		u"е.ә."_s,
+		u"ј.е."_s
 	}));
 	$var($StringArray, metaValue_TimePatterns, $new($StringArray, {
 		"HH:mm:ss zzzz"_s,
@@ -270,8 +270,8 @@ $ObjectArray2* FormatData_az_Cyrl::getContents() {
 		$$new($ObjectArray, {
 			$of("long.Eras"_s),
 			$of($$new($StringArray, {
-				u"\u0435\u0440\u0430\u043c\u044b\u0437\u0434\u0430\u043d \u04d9\u0432\u0432\u04d9\u043b"_s,
-				u"\u0458\u0435\u043d\u0438 \u0435\u0440\u0430"_s
+				u"ерамыздан әввәл"_s,
+				u"јени ера"_s
 			}))
 		}),
 		$$new($ObjectArray, {
@@ -305,8 +305,8 @@ $ObjectArray2* FormatData_az_Cyrl::getContents() {
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
+				u"‰"_s,
+				u"∞"_s,
 				"NaN"_s,
 				""_s,
 				""_s
@@ -440,18 +440,18 @@ $ObjectArray2* FormatData_az_Cyrl::getContents() {
 		$$new($ObjectArray, {
 			$of("standalone.MonthNames"_s),
 			$of($$new($StringArray, {
-				u"\u0408\u0430\u043d\u0432\u0430\u0440"_s,
-				u"\u0424\u0435\u0432\u0440\u0430\u043b"_s,
-				u"\u041c\u0430\u0440\u0442"_s,
-				u"\u0410\u043f\u0440\u0435\u043b"_s,
-				u"\u041c\u0430\u0439"_s,
-				u"\u0418\u0458\u0443\u043d"_s,
-				u"\u0418\u0458\u0443\u043b"_s,
-				u"\u0410\u0432\u0433\u0443\u0441\u0442"_s,
-				u"\u0421\u0435\u043d\u0442\u0458\u0430\u0431\u0440"_s,
-				u"\u041e\u043a\u0442\u0458\u0430\u0431\u0440"_s,
-				u"\u041d\u043e\u0458\u0430\u0431\u0440"_s,
-				u"\u0414\u0435\u043a\u0430\u0431\u0440"_s,
+				u"Јанвар"_s,
+				u"Феврал"_s,
+				u"Март"_s,
+				u"Апрел"_s,
+				u"Май"_s,
+				u"Ијун"_s,
+				u"Ијул"_s,
+				u"Август"_s,
+				u"Сентјабр"_s,
+				u"Октјабр"_s,
+				u"Нојабр"_s,
+				u"Декабр"_s,
 				""_s
 			}))
 		}),
@@ -459,9 +459,9 @@ $ObjectArray2* FormatData_az_Cyrl::getContents() {
 			$of("latn.NumberPatterns"_s),
 			$of($$new($StringArray, {
 				"#,##0.###"_s,
-				u"#,##0.00\u00a0\u00a4"_s,
+				u"#,##0.00 ¤"_s,
 				"#,##0%"_s,
-				u"#,##0.00\u00a0\u00a4"_s
+				u"#,##0.00 ¤"_s
 			}))
 		}),
 		$$new($ObjectArray, {

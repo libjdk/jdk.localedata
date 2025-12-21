@@ -42,121 +42,121 @@ $ObjectArray2* FormatData_be::getContents() {
 		$$new($ObjectArray, {
 			$of("MonthNames"_s),
 			$of($$new($StringArray, {
-				u"\u0441\u0442\u0443\u0434\u0437\u0435\u043d\u044f"_s,
-				u"\u043b\u044e\u0442\u0430\u0433\u0430"_s,
-				u"\u0441\u0430\u043a\u0430\u0432\u0456\u043a\u0430"_s,
-				u"\u043a\u0440\u0430\u0441\u0430\u0432\u0456\u043a\u0430"_s,
-				u"\u043c\u0430\u044f"_s,
-				u"\u0447\u0440\u0432\u0435\u043d\u044f"_s,
-				u"\u043b\u0456\u043f\u0435\u043d\u044f"_s,
-				u"\u0436\u043d\u0456\u045e\u043d\u044f"_s,
-				u"\u0432\u0435\u0440\u0430\u0441\u043d\u044f"_s,
-				u"\u043a\u0430\u0441\u0442\u0440\u044b\u0447\u043d\u0456\u043a\u0430"_s,
-				u"\u043b\u0456\u0441\u0442\u0430\u043f\u0430\u0434\u0430"_s,
-				u"\u0441\u043d\u0435\u0436\u043d\u044f"_s,
+				u"студзеня"_s,
+				u"лютага"_s,
+				u"сакавіка"_s,
+				u"красавіка"_s,
+				u"мая"_s,
+				u"чрвеня"_s,
+				u"ліпеня"_s,
+				u"жніўня"_s,
+				u"верасня"_s,
+				u"кастрычніка"_s,
+				u"лістапада"_s,
+				u"снежня"_s,
 				""_s
 			}))
 		}),
 		$$new($ObjectArray, {
 			$of("MonthAbbreviations"_s),
 			$of($$new($StringArray, {
-				u"\u0441\u0442\u0434"_s,
-				u"\u043b\u044e\u0442"_s,
-				u"\u0441\u043a\u0432"_s,
-				u"\u043a\u0440\u0441"_s,
-				u"\u043c\u0430\u0439"_s,
-				u"\u0447\u0440\u0432"_s,
-				u"\u043b\u043f\u043d"_s,
-				u"\u0436\u043d\u0432"_s,
-				u"\u0432\u0440\u0441"_s,
-				u"\u043a\u0441\u0442"_s,
-				u"\u043b\u0456\u0441"_s,
-				u"\u0441\u043d\u0436"_s,
+				u"стд"_s,
+				u"лют"_s,
+				u"скв"_s,
+				u"крс"_s,
+				u"май"_s,
+				u"чрв"_s,
+				u"лпн"_s,
+				u"жнв"_s,
+				u"врс"_s,
+				u"кст"_s,
+				u"ліс"_s,
+				u"снж"_s,
 				""_s
 			}))
 		}),
 		$$new($ObjectArray, {
 			$of("standalone.MonthNarrows"_s),
 			$of($$new($StringArray, {
-				u"\u0441"_s,
-				u"\u043b"_s,
-				u"\u0441"_s,
-				u"\u043a"_s,
-				u"\u043c"_s,
-				u"\u0447"_s,
-				u"\u043b"_s,
-				u"\u0436"_s,
-				u"\u0432"_s,
-				u"\u043a"_s,
-				u"\u043b"_s,
-				u"\u0441"_s,
+				u"с"_s,
+				u"л"_s,
+				u"с"_s,
+				u"к"_s,
+				u"м"_s,
+				u"ч"_s,
+				u"л"_s,
+				u"ж"_s,
+				u"в"_s,
+				u"к"_s,
+				u"л"_s,
+				u"с"_s,
 				""_s
 			}))
 		}),
 		$$new($ObjectArray, {
 			$of("DayNames"_s),
 			$of($$new($StringArray, {
-				u"\u043d\u044f\u0434\u0437\u0435\u043b\u044f"_s,
-				u"\u043f\u0430\u043d\u044f\u0434\u0437\u0435\u043b\u0430\u043a"_s,
-				u"\u0430\u045e\u0442\u043e\u0440\u0430\u043a"_s,
-				u"\u0441\u0435\u0440\u0430\u0434\u0430"_s,
-				u"\u0447\u0430\u0446\u0432\u0435\u0440"_s,
-				u"\u043f\u044f\u0442\u043d\u0456\u0446\u0430"_s,
-				u"\u0441\u0443\u0431\u043e\u0442\u0430"_s
+				u"нядзеля"_s,
+				u"панядзелак"_s,
+				u"аўторак"_s,
+				u"серада"_s,
+				u"чацвер"_s,
+				u"пятніца"_s,
+				u"субота"_s
 			}))
 		}),
 		$$new($ObjectArray, {
 			$of("DayAbbreviations"_s),
 			$of($$new($StringArray, {
-				u"\u043d\u0434"_s,
-				u"\u043f\u043d"_s,
-				u"\u0430\u0442"_s,
-				u"\u0441\u0440"_s,
-				u"\u0447\u0446"_s,
-				u"\u043f\u0442"_s,
-				u"\u0441\u0431"_s
+				u"нд"_s,
+				u"пн"_s,
+				u"ат"_s,
+				u"ср"_s,
+				u"чц"_s,
+				u"пт"_s,
+				u"сб"_s
 			}))
 		}),
 		$$new($ObjectArray, {
 			$of("DayNarrows"_s),
 			$of($$new($StringArray, {
-				u"\u043d"_s,
-				u"\u043f"_s,
-				u"\u0430"_s,
-				u"\u0441"_s,
-				u"\u0447"_s,
-				u"\u043f"_s,
-				u"\u0441"_s
+				u"н"_s,
+				u"п"_s,
+				u"а"_s,
+				u"с"_s,
+				u"ч"_s,
+				u"п"_s,
+				u"с"_s
 			}))
 		}),
 		$$new($ObjectArray, {
 			$of("Eras"_s),
 			$of($$new($StringArray, {
-				u"\u0434\u0430 \u043d.\u0435."_s,
-				u"\u043d.\u0435."_s
+				u"да н.е."_s,
+				u"н.е."_s
 			}))
 		}),
 		$$new($ObjectArray, {
 			$of("short.Eras"_s),
 			$of($$new($StringArray, {
-				u"\u0434\u0430 \u043d.\u044d."_s,
-				u"\u043d.\u044d."_s
+				u"да н.э."_s,
+				u"н.э."_s
 			}))
 		}),
 		$$new($ObjectArray, {
 			$of("NumberElements"_s),
 			$of($$new($StringArray, {
 				","_s,
-				u"\u00a0"_s,
+				u" "_s,
 				";"_s,
 				"%"_s,
 				"0"_s,
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
-				u"\ufffd"_s
+				u"‰"_s,
+				u"∞"_s,
+				u"�"_s
 			}))
 		}),
 		$$new($ObjectArray, {

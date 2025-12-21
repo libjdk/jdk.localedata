@@ -150,25 +150,25 @@ $ObjectArray2* FormatData_ro::getContents() {
 		$$new($ObjectArray, {
 			$of("DayNames"_s),
 			$of($$new($StringArray, {
-				u"duminic\u0103"_s,
+				u"duminică"_s,
 				"luni"_s,
-				u"mar\u0163i"_s,
+				u"marţi"_s,
 				"miercuri"_s,
 				"joi"_s,
 				"vineri"_s,
-				u"s\u00e2mb\u0103t\u0103"_s
+				u"sâmbătă"_s
 			}))
 		}),
 		$$new($ObjectArray, {
 			$of("standalone.DayNames"_s),
 			$of($$new($StringArray, {
-				u"duminic\u0103"_s,
+				u"duminică"_s,
 				"luni"_s,
-				u"mar\u021bi"_s,
+				u"marți"_s,
 				"miercuri"_s,
 				"joi"_s,
 				"vineri"_s,
-				u"s\u00e2mb\u0103t\u0103"_s
+				u"sâmbătă"_s
 			}))
 		}),
 		$$new($ObjectArray, {
@@ -192,7 +192,7 @@ $ObjectArray2* FormatData_ro::getContents() {
 				"Mi"_s,
 				"Jo"_s,
 				"Vi"_s,
-				u"S\u00e2"_s
+				u"Sâ"_s
 			}))
 		}),
 		$$new($ObjectArray, {
@@ -223,7 +223,7 @@ $ObjectArray2* FormatData_ro::getContents() {
 			$of("Eras"_s),
 			$of($$new($StringArray, {
 				"d.C."_s,
-				u"\u00ee.d.C."_s
+				u"î.d.C."_s
 			}))
 		}),
 		$$new($ObjectArray, {
@@ -237,9 +237,9 @@ $ObjectArray2* FormatData_ro::getContents() {
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
-				u"\ufffd"_s
+				u"‰"_s,
+				u"∞"_s,
+				u"�"_s
 			}))
 		}),
 		$$new($ObjectArray, {

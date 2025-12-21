@@ -45,10 +45,10 @@ $ObjectArray2* JavaTimeSupplementary_pl::getContents() {
 		"K4"_s
 	}));
 	$var($StringArray, sharedQuarterNames, $new($StringArray, {
-		u"I kwarta\u0142"_s,
-		u"II kwarta\u0142"_s,
-		u"III kwarta\u0142"_s,
-		u"IV kwarta\u0142"_s
+		u"I kwartał"_s,
+		u"II kwartał"_s,
+		u"III kwartał"_s,
+		u"IV kwartał"_s
 	}));
 	$var($StringArray, sharedDatePatterns, $new($StringArray, {
 		"EEEE, d MMMM y GGGG"_s,
@@ -60,25 +60,25 @@ $ObjectArray2* JavaTimeSupplementary_pl::getContents() {
 		"niedz."_s,
 		"pon."_s,
 		"wt."_s,
-		u"\u015br."_s,
+		u"śr."_s,
 		"czw."_s,
 		"pt."_s,
 		"sob."_s
 	}));
 	$var($StringArray, sharedDayNames, $new($StringArray, {
 		"niedziela"_s,
-		u"poniedzia\u0142ek"_s,
+		u"poniedziałek"_s,
 		"wtorek"_s,
-		u"\u015broda"_s,
+		u"środa"_s,
 		"czwartek"_s,
-		u"pi\u0105tek"_s,
+		u"piątek"_s,
 		"sobota"_s
 	}));
 	$var($StringArray, sharedDayNarrows, $new($StringArray, {
 		"N"_s,
 		"P"_s,
 		"W"_s,
-		u"\u015a"_s,
+		u"Ś"_s,
 		"C"_s,
 		"P"_s,
 		"S"_s
@@ -116,11 +116,11 @@ $ObjectArray2* JavaTimeSupplementary_pl::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.gregorian"_s),
-			$of(u"kalendarz gregoria\u0144ski"_s)
+			$of(u"kalendarz gregoriański"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.gregory"_s),
-			$of(u"kalendarz gregoria\u0144ski"_s)
+			$of(u"kalendarz gregoriański"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.islamic"_s),
@@ -136,15 +136,15 @@ $ObjectArray2* JavaTimeSupplementary_pl::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.japanese"_s),
-			$of(u"kalendarz japo\u0144ski"_s)
+			$of(u"kalendarz japoński"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.roc"_s),
-			$of(u"kalendarz Republiki Chi\u0144skiej"_s)
+			$of(u"kalendarz Republiki Chińskiej"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("field.dayperiod"_s),
-			$of(u"rano / po po\u0142udniu / wieczorem"_s)
+			$of(u"rano / po południu / wieczorem"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("field.era"_s),
@@ -160,7 +160,7 @@ $ObjectArray2* JavaTimeSupplementary_pl::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.month"_s),
-			$of(u"miesi\u0105c"_s)
+			$of(u"miesiąc"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("field.second"_s),
@@ -168,11 +168,11 @@ $ObjectArray2* JavaTimeSupplementary_pl::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.week"_s),
-			$of(u"tydzie\u0144"_s)
+			$of(u"tydzień"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("field.weekday"_s),
-			$of(u"dzie\u0144 tygodnia"_s)
+			$of(u"dzień tygodnia"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("field.year"_s),
@@ -212,8 +212,8 @@ $ObjectArray2* JavaTimeSupplementary_pl::getContents() {
 				"Saf."_s,
 				"Rab. I"_s,
 				"Rab. II"_s,
-				u"D\u017cu. I"_s,
-				u"D\u017cu. II"_s,
+				u"Dżu. I"_s,
+				u"Dżu. II"_s,
 				"Ra."_s,
 				"Sza."_s,
 				"Ram."_s,
@@ -228,16 +228,16 @@ $ObjectArray2* JavaTimeSupplementary_pl::getContents() {
 			$of($$new($StringArray, {
 				"Muharram"_s,
 				"Safar"_s,
-				u"Rabi\u02bb I"_s,
-				u"Rabi\u02bb II"_s,
-				u"D\u017cumada I"_s,
-				u"D\u017cumada II"_s,
-				u"Rad\u017cab"_s,
+				u"Rabiʻ I"_s,
+				u"Rabiʻ II"_s,
+				u"Dżumada I"_s,
+				u"Dżumada II"_s,
+				u"Radżab"_s,
 				"Szaban"_s,
 				"Ramadan"_s,
 				"Szawwal"_s,
 				"Zu al-kada"_s,
-				u"Zu al-hid\u017cd\u017ca"_s,
+				u"Zu al-hidżdża"_s,
 				""_s
 			}))
 		}),
@@ -316,7 +316,7 @@ $ObjectArray2* JavaTimeSupplementary_pl::getContents() {
 				"lip"_s,
 				"sie"_s,
 				"wrz"_s,
-				u"pa\u017a"_s,
+				u"paź"_s,
 				"lis"_s,
 				"gru"_s,
 				""_s
@@ -333,8 +333,8 @@ $ObjectArray2* JavaTimeSupplementary_pl::getContents() {
 				"czerwca"_s,
 				"lipca"_s,
 				"sierpnia"_s,
-				u"wrze\u015bnia"_s,
-				u"pa\u017adziernika"_s,
+				u"września"_s,
+				u"października"_s,
 				"listopada"_s,
 				"grudnia"_s,
 				""_s

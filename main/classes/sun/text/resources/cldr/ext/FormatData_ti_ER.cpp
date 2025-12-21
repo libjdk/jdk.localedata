@@ -40,13 +40,13 @@ void FormatData_ti_ER::init$() {
 $ObjectArray2* FormatData_ti_ER::getContents() {
 	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_java_time_buddhist_DatePatterns, $new($StringArray, {
-		u"EEEE\u1361 dd MMMM \u1218\u12d3\u120d\u1272 y G"_s,
+		u"EEEE፡ dd MMMM መዓልቲ y G"_s,
 		""_s,
 		""_s,
 		""_s
 	}));
 	$var($StringArray, metaValue_buddhist_DatePatterns, $new($StringArray, {
-		u"EEEE\u1361 dd MMMM \u1218\u12d3\u120d\u1272 y GGGG"_s,
+		u"EEEE፡ dd MMMM መዓልቲ y GGGG"_s,
 		""_s,
 		""_s,
 		""_s
@@ -59,13 +59,13 @@ $ObjectArray2* FormatData_ti_ER::getContents() {
 		$$new($ObjectArray, {
 			$of("standalone.DayNarrows"_s),
 			$of($$new($StringArray, {
-				u"\u1230"_s,
-				u"\u1230"_s,
-				u"\u1230"_s,
-				u"\u1228"_s,
-				u"\u1213"_s,
-				u"\u12d3"_s,
-				u"\u1240"_s
+				u"ሰ"_s,
+				u"ሰ"_s,
+				u"ሰ"_s,
+				u"ረ"_s,
+				u"ሓ"_s,
+				u"ዓ"_s,
+				u"ቀ"_s
 			}))
 		}),
 		$$new($ObjectArray, {
@@ -87,8 +87,8 @@ $ObjectArray2* FormatData_ti_ER::getContents() {
 		$$new($ObjectArray, {
 			$of("long.Eras"_s),
 			$of($$new($StringArray, {
-				u"\u12d3\u1218\u1270 \u12d3\u1208\u121d"_s,
-				u"\u12d3\u1218\u1270 \u121d\u1205\u1228\u1275"_s
+				u"ዓመተ ዓለም"_s,
+				u"ዓመተ ምህረት"_s
 			}))
 		}),
 		$$new($ObjectArray, {

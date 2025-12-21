@@ -40,28 +40,28 @@ void FormatData_ku::init$() {
 $ObjectArray2* FormatData_ku::getContents() {
 	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_MonthNames, $new($StringArray, {
-		u"r\u00eabendan\u00ea"_s,
-		u"re\u015femiy\u00ea"_s,
-		u"adar\u00ea"_s,
-		u"avr\u00eal\u00ea"_s,
-		u"gulan\u00ea"_s,
-		u"p\u00fb\u015fper\u00ea"_s,
-		u"t\u00eermeh\u00ea"_s,
-		u"gelaw\u00eaj\u00ea"_s,
-		u"rezber\u00ea"_s,
-		u"kew\u00e7\u00ear\u00ea"_s,
-		u"sermawez\u00ea"_s,
-		u"berfanbar\u00ea"_s,
+		u"rêbendanê"_s,
+		u"reşemiyê"_s,
+		u"adarê"_s,
+		u"avrêlê"_s,
+		u"gulanê"_s,
+		u"pûşperê"_s,
+		u"tîrmehê"_s,
+		u"gelawêjê"_s,
+		u"rezberê"_s,
+		u"kewçêrê"_s,
+		u"sermawezê"_s,
+		u"berfanbarê"_s,
 		""_s
 	}));
 	$var($StringArray, metaValue_MonthAbbreviations, $new($StringArray, {
-		u"r\u00eab"_s,
-		u"re\u015f"_s,
+		u"rêb"_s,
+		u"reş"_s,
 		"ada"_s,
 		"avr"_s,
 		"gul"_s,
-		u"p\u00fb\u015f"_s,
-		u"t\u00eer"_s,
+		u"pûş"_s,
+		u"tîr"_s,
 		"gel"_s,
 		"rez"_s,
 		"kew"_s,
@@ -85,43 +85,43 @@ $ObjectArray2* FormatData_ku::getContents() {
 		""_s
 	}));
 	$var($StringArray, metaValue_DayNames, $new($StringArray, {
-		u"yek\u015fem"_s,
-		u"du\u015fem"_s,
-		u"s\u00ea\u015fem"_s,
-		u"\u00e7ar\u015fem"_s,
-		u"p\u00eanc\u015fem"_s,
-		u"\u00een"_s,
-		u"\u015fem\u00ee"_s
+		u"yekşem"_s,
+		u"duşem"_s,
+		u"sêşem"_s,
+		u"çarşem"_s,
+		u"pêncşem"_s,
+		u"în"_s,
+		u"şemî"_s
 	}));
 	$var($StringArray, metaValue_DayAbbreviations, $new($StringArray, {
-		u"y\u015f"_s,
-		u"d\u015f"_s,
-		u"s\u015f"_s,
-		u"\u00e7\u015f"_s,
-		u"p\u015f"_s,
-		u"\u00een"_s,
-		u"\u015f"_s
+		u"yş"_s,
+		u"dş"_s,
+		u"sş"_s,
+		u"çş"_s,
+		u"pş"_s,
+		u"în"_s,
+		u"ş"_s
 	}));
 	$var($StringArray, metaValue_DayNarrows, $new($StringArray, {
 		"Y"_s,
 		"D"_s,
 		"S"_s,
-		u"\u00c7"_s,
+		u"Ç"_s,
 		"P"_s,
-		u"\u00ce"_s,
-		u"\u015e"_s
+		u"Î"_s,
+		u"Ş"_s
 	}));
 	$var($StringArray, metaValue_QuarterNames, $new($StringArray, {
-		u"\u00c7ar\u00eaka 1em"_s,
-		u"\u00c7ar\u00eaka 2em"_s,
-		u"\u00c7ar\u00eaka 3em"_s,
-		u"\u00c7ar\u00eaka 4em"_s
+		u"Çarêka 1em"_s,
+		u"Çarêka 2em"_s,
+		u"Çarêka 3em"_s,
+		u"Çarêka 4em"_s
 	}));
 	$var($StringArray, metaValue_QuarterAbbreviations, $new($StringArray, {
-		u"\u00c71"_s,
-		u"\u00c72"_s,
-		u"\u00c73"_s,
-		u"\u00c74"_s
+		u"Ç1"_s,
+		u"Ç2"_s,
+		u"Ç3"_s,
+		u"Ç4"_s
 	}));
 	$var($StringArray, metaValue_AmPmMarkers, $new($StringArray, {
 		"BN"_s,
@@ -147,7 +147,7 @@ $ObjectArray2* FormatData_ku::getContents() {
 		"3"_s,
 		"4"_s
 	}));
-	$var($String, metaValue_calendarname_gregorian, u"salnameya gregor\u00ee"_s);
+	$var($String, metaValue_calendarname_gregorian, u"salnameya gregorî"_s);
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("MonthNames"_s),
@@ -195,7 +195,7 @@ $ObjectArray2* FormatData_ku::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.zone"_s),
-			$of(u"qada dem\u00ea"_s)
+			$of(u"qada demê"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("roc.MonthNarrows"_s),
@@ -219,7 +219,7 @@ $ObjectArray2* FormatData_ku::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.japanese"_s),
-			$of(u"salnameya japon\u00ee"_s)
+			$of(u"salnameya japonî"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("buddhist.narrow.AmPmMarkers"_s),
@@ -260,8 +260,8 @@ $ObjectArray2* FormatData_ku::getContents() {
 		$$new($ObjectArray, {
 			$of("long.Eras"_s),
 			$of($$new($StringArray, {
-				u"ber\u00ee zay\u00een\u00ea"_s,
-				u"pi\u015ft\u00ee zay\u00een\u00ea"_s
+				u"berî zayînê"_s,
+				u"piştî zayînê"_s
 			}))
 		}),
 		$$new($ObjectArray, {
@@ -278,7 +278,7 @@ $ObjectArray2* FormatData_ku::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.weekday"_s),
-			$of(u"roja heftey\u00ea"_s)
+			$of(u"roja hefteyê"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("buddhist.MonthNames"_s),
@@ -299,8 +299,8 @@ $ObjectArray2* FormatData_ku::getContents() {
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
+				u"‰"_s,
+				u"∞"_s,
 				"NaN"_s,
 				""_s,
 				""_s
@@ -320,7 +320,7 @@ $ObjectArray2* FormatData_ku::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.minute"_s),
-			$of(u"deq\u00eeqe"_s)
+			$of(u"deqîqe"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("field.era"_s),
@@ -356,7 +356,7 @@ $ObjectArray2* FormatData_ku::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.roc"_s),
-			$of(u"salnameya Komara \u00c7\u00een\u00ea"_s)
+			$of(u"salnameya Komara Çînê"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("roc.QuarterAbbreviations"_s),
@@ -412,7 +412,7 @@ $ObjectArray2* FormatData_ku::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.islamic"_s),
-			$of(u"salnameya ko\u00e7\u00ee"_s)
+			$of(u"salnameya koçî"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("roc.DayNarrows"_s),
@@ -453,16 +453,16 @@ $ObjectArray2* FormatData_ku::getContents() {
 		$$new($ObjectArray, {
 			$of("standalone.MonthNames"_s),
 			$of($$new($StringArray, {
-				u"r\u00eabendan"_s,
-				u"re\u015fem\u00ee"_s,
+				u"rêbendan"_s,
+				u"reşemî"_s,
 				"adar"_s,
-				u"avr\u00eal"_s,
+				u"avrêl"_s,
 				"gulan"_s,
-				u"p\u00fb\u015fper"_s,
-				u"t\u00eermeh"_s,
-				u"gelaw\u00eaj"_s,
+				u"pûşper"_s,
+				u"tîrmeh"_s,
+				u"gelawêj"_s,
 				"rezber"_s,
-				u"kew\u00e7\u00ear"_s,
+				u"kewçêr"_s,
 				"sermawez"_s,
 				"berfanbar"_s,
 				""_s
@@ -472,9 +472,9 @@ $ObjectArray2* FormatData_ku::getContents() {
 			$of("latn.NumberPatterns"_s),
 			$of($$new($StringArray, {
 				"#,##0.###"_s,
-				u"#,##0.00\u00a0\u00a4"_s,
+				u"#,##0.00 ¤"_s,
 				"%#,##0"_s,
-				u"#,##0.00\u00a0\u00a4;(#,##0.00\u00a0\u00a4)"_s
+				u"#,##0.00 ¤;(#,##0.00 ¤)"_s
 			}))
 		}),
 		$$new($ObjectArray, {

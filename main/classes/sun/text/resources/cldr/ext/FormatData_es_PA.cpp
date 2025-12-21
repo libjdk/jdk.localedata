@@ -43,15 +43,15 @@ $ObjectArray2* FormatData_es_PA::getContents() {
 		"1er. trimestre"_s,
 		"2do. trimestre"_s,
 		"3er. trimestre"_s,
-		u"4.\u00ba trimestre"_s
+		u"4.º trimestre"_s
 	}));
 	$var($StringArray, metaValue_AmPmMarkers, $new($StringArray, {
-		u"a.\u00a0m."_s,
-		u"p.\u00a0m."_s,
+		u"a. m."_s,
+		u"p. m."_s,
 		""_s,
-		u"mediod\u00eda"_s,
+		u"mediodía"_s,
 		"de la madrugada"_s,
-		u"de la ma\u00f1ana"_s,
+		u"de la mañana"_s,
 		""_s,
 		""_s,
 		"de la tarde"_s,

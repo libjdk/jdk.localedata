@@ -53,7 +53,7 @@ $ObjectArray2* TimeZoneNames_fi::getContents() {
 	$var($StringArray, Acre, $new($StringArray, {
 		"Acren normaaliaika"_s,
 		""_s,
-		u"Acren kes\u00e4aika"_s,
+		u"Acren kesäaika"_s,
 		""_s,
 		"Acren aika"_s,
 		""_s
@@ -61,7 +61,7 @@ $ObjectArray2* TimeZoneNames_fi::getContents() {
 	$var($StringArray, Apia, $new($StringArray, {
 		"Apian normaaliaika"_s,
 		""_s,
-		u"Apian kes\u00e4aika"_s,
+		u"Apian kesäaika"_s,
 		""_s,
 		"Apian aika"_s,
 		""_s
@@ -69,7 +69,7 @@ $ObjectArray2* TimeZoneNames_fi::getContents() {
 	$var($StringArray, Cook, $new($StringArray, {
 		"Cookinsaarten normaaliaika"_s,
 		""_s,
-		u"Cookinsaarten kes\u00e4aika"_s,
+		u"Cookinsaarten kesäaika"_s,
 		""_s,
 		"Cookinsaarten aika"_s,
 		""_s
@@ -77,17 +77,17 @@ $ObjectArray2* TimeZoneNames_fi::getContents() {
 	$var($StringArray, Cuba, $new($StringArray, {
 		"Kuuban normaaliaika"_s,
 		""_s,
-		u"Kuuban kes\u00e4aika"_s,
+		u"Kuuban kesäaika"_s,
 		""_s,
 		"Kuuban aika"_s,
 		""_s
 	}));
 	$var($StringArray, Fiji, $new($StringArray, {
-		u"Fid\u017ein normaaliaika"_s,
+		u"Fidžin normaaliaika"_s,
 		""_s,
-		u"Fid\u017ein kes\u00e4aika"_s,
+		u"Fidžin kesäaika"_s,
 		""_s,
-		u"Fid\u017ein aika"_s,
+		u"Fidžin aika"_s,
 		""_s
 	}));
 	$var($StringArray, Gulf, $new($StringArray, {
@@ -101,7 +101,7 @@ $ObjectArray2* TimeZoneNames_fi::getContents() {
 	$var($StringArray, Hovd, $new($StringArray, {
 		"Hovdin normaaliaika"_s,
 		""_s,
-		u"Hovdin kes\u00e4aika"_s,
+		u"Hovdin kesäaika"_s,
 		""_s,
 		"Hovdin aika"_s,
 		""_s
@@ -109,7 +109,7 @@ $ObjectArray2* TimeZoneNames_fi::getContents() {
 	$var($StringArray, Iran, $new($StringArray, {
 		"Iranin normaaliaika"_s,
 		""_s,
-		u"Iranin kes\u00e4aika"_s,
+		u"Iranin kesäaika"_s,
 		""_s,
 		"Iranin aika"_s,
 		""_s
@@ -125,7 +125,7 @@ $ObjectArray2* TimeZoneNames_fi::getContents() {
 	$var($StringArray, Omsk, $new($StringArray, {
 		"Omskin normaaliaika"_s,
 		""_s,
-		u"Omskin kes\u00e4aika"_s,
+		u"Omskin kesäaika"_s,
 		""_s,
 		"Omskin aika"_s,
 		""_s
@@ -133,7 +133,7 @@ $ObjectArray2* TimeZoneNames_fi::getContents() {
 	$var($StringArray, Peru, $new($StringArray, {
 		"Perun normaaliaika"_s,
 		""_s,
-		u"Perun kes\u00e4aika"_s,
+		u"Perun kesäaika"_s,
 		""_s,
 		"Perun aika"_s,
 		""_s
@@ -165,7 +165,7 @@ $ObjectArray2* TimeZoneNames_fi::getContents() {
 	$var($StringArray, Chile, $new($StringArray, {
 		"Chilen normaaliaika"_s,
 		""_s,
-		u"Chilen kes\u00e4aika"_s,
+		u"Chilen kesäaika"_s,
 		""_s,
 		"Chilen aika"_s,
 		""_s
@@ -173,7 +173,7 @@ $ObjectArray2* TimeZoneNames_fi::getContents() {
 	$var($StringArray, China, $new($StringArray, {
 		"Kiinan normaaliaika"_s,
 		""_s,
-		u"Kiinan kes\u00e4aika"_s,
+		u"Kiinan kesäaika"_s,
 		""_s,
 		"Kiinan aika"_s,
 		""_s
@@ -205,7 +205,7 @@ $ObjectArray2* TimeZoneNames_fi::getContents() {
 	$var($StringArray, Japan, $new($StringArray, {
 		"Japanin normaaliaika"_s,
 		""_s,
-		u"Japanin kes\u00e4aika"_s,
+		u"Japanin kesäaika"_s,
 		""_s,
 		"Japanin aika"_s,
 		""_s
@@ -213,7 +213,7 @@ $ObjectArray2* TimeZoneNames_fi::getContents() {
 	$var($StringArray, Korea, $new($StringArray, {
 		"Korean normaaliaika"_s,
 		""_s,
-		u"Korean kes\u00e4aika"_s,
+		u"Korean kesäaika"_s,
 		""_s,
 		"Korean aika"_s,
 		""_s
@@ -245,7 +245,7 @@ $ObjectArray2* TimeZoneNames_fi::getContents() {
 	$var($StringArray, Samoa, $new($StringArray, {
 		"Samoan normaaliaika"_s,
 		""_s,
-		u"Samoan kes\u00e4aika"_s,
+		u"Samoan kesäaika"_s,
 		""_s,
 		"Samoan aika"_s,
 		""_s
@@ -261,7 +261,7 @@ $ObjectArray2* TimeZoneNames_fi::getContents() {
 	$var($StringArray, Tonga, $new($StringArray, {
 		"Tongan normaaliaika"_s,
 		""_s,
-		u"Tongan kes\u00e4aika"_s,
+		u"Tongan kesäaika"_s,
 		""_s,
 		"Tongan aika"_s,
 		""_s
@@ -269,7 +269,7 @@ $ObjectArray2* TimeZoneNames_fi::getContents() {
 	$var($StringArray, Alaska, $new($StringArray, {
 		"Alaskan normaaliaika"_s,
 		""_s,
-		u"Alaskan kes\u00e4aika"_s,
+		u"Alaskan kesäaika"_s,
 		""_s,
 		"Alaskan aika"_s,
 		""_s
@@ -277,7 +277,7 @@ $ObjectArray2* TimeZoneNames_fi::getContents() {
 	$var($StringArray, Amazon, $new($StringArray, {
 		"Amazonin normaaliaika"_s,
 		""_s,
-		u"Amazonin kes\u00e4aika"_s,
+		u"Amazonin kesäaika"_s,
 		""_s,
 		"Amazonin aika"_s,
 		""_s
@@ -285,7 +285,7 @@ $ObjectArray2* TimeZoneNames_fi::getContents() {
 	$var($StringArray, Anadyr, $new($StringArray, {
 		"Anadyrin normaaliaika"_s,
 		""_s,
-		u"Anadyrin kes\u00e4aika"_s,
+		u"Anadyrin kesäaika"_s,
 		""_s,
 		"Anadyrin aika"_s,
 		""_s
@@ -293,7 +293,7 @@ $ObjectArray2* TimeZoneNames_fi::getContents() {
 	$var($StringArray, Azores, $new($StringArray, {
 		"Azorien normaaliaika"_s,
 		""_s,
-		u"Azorien kes\u00e4aika"_s,
+		u"Azorien kesäaika"_s,
 		""_s,
 		"Azorien aika"_s,
 		""_s
@@ -315,11 +315,11 @@ $ObjectArray2* TimeZoneNames_fi::getContents() {
 		""_s
 	}));
 	$var($StringArray, Easter, $new($StringArray, {
-		u"P\u00e4\u00e4si\u00e4issaaren normaaliaika"_s,
+		u"Pääsiäissaaren normaaliaika"_s,
 		""_s,
-		u"P\u00e4\u00e4si\u00e4issaaren kes\u00e4aika"_s,
+		u"Pääsiäissaaren kesäaika"_s,
 		""_s,
-		u"P\u00e4\u00e4si\u00e4issaaren aika"_s,
+		u"Pääsiäissaaren aika"_s,
 		""_s
 	}));
 	$var($StringArray, Guyana, $new($StringArray, {
@@ -333,7 +333,7 @@ $ObjectArray2* TimeZoneNames_fi::getContents() {
 	$var($StringArray, Israel, $new($StringArray, {
 		"Israelin normaaliaika"_s,
 		""_s,
-		u"Israelin kes\u00e4aika"_s,
+		u"Israelin kesäaika"_s,
 		""_s,
 		"Israelin aika"_s,
 		""_s
@@ -357,7 +357,7 @@ $ObjectArray2* TimeZoneNames_fi::getContents() {
 	$var($StringArray, Moscow, $new($StringArray, {
 		"Moskovan normaaliaika"_s,
 		""_s,
-		u"Moskovan kes\u00e4aika"_s,
+		u"Moskovan kesäaika"_s,
 		""_s,
 		"Moskovan aika"_s,
 		""_s
@@ -373,7 +373,7 @@ $ObjectArray2* TimeZoneNames_fi::getContents() {
 	$var($StringArray, Samara, $new($StringArray, {
 		"Samaran normaaliaika"_s,
 		""_s,
-		u"Samaran kes\u00e4aika"_s,
+		u"Samaran kesäaika"_s,
 		""_s,
 		"Samaran aika"_s,
 		""_s
@@ -389,7 +389,7 @@ $ObjectArray2* TimeZoneNames_fi::getContents() {
 	$var($StringArray, Taipei, $new($StringArray, {
 		"Taipein normaaliaika"_s,
 		""_s,
-		u"Taipein kes\u00e4aika"_s,
+		u"Taipein kesäaika"_s,
 		""_s,
 		"Taipein aika"_s,
 		""_s
@@ -421,7 +421,7 @@ $ObjectArray2* TimeZoneNames_fi::getContents() {
 	$var($StringArray, Arabian, $new($StringArray, {
 		"Saudi-Arabian normaaliaika"_s,
 		""_s,
-		u"Saudi-Arabian kes\u00e4aika"_s,
+		u"Saudi-Arabian kesäaika"_s,
 		""_s,
 		"Saudi-Arabian aika"_s,
 		""_s
@@ -429,7 +429,7 @@ $ObjectArray2* TimeZoneNames_fi::getContents() {
 	$var($StringArray, Armenia, $new($StringArray, {
 		"Armenian normaaliaika"_s,
 		""_s,
-		u"Armenian kes\u00e4aika"_s,
+		u"Armenian kesäaika"_s,
 		""_s,
 		"Armenian aika"_s,
 		""_s
@@ -445,7 +445,7 @@ $ObjectArray2* TimeZoneNames_fi::getContents() {
 	$var($StringArray, Chatham, $new($StringArray, {
 		"Chathamin normaaliaika"_s,
 		""_s,
-		u"Chathamin kes\u00e4aika"_s,
+		u"Chathamin kesäaika"_s,
 		""_s,
 		"Chathamin aika"_s,
 		""_s
@@ -477,7 +477,7 @@ $ObjectArray2* TimeZoneNames_fi::getContents() {
 	$var($StringArray, Georgia, $new($StringArray, {
 		"Georgian normaaliaika"_s,
 		""_s,
-		u"Georgian kes\u00e4aika"_s,
+		u"Georgian kesäaika"_s,
 		""_s,
 		"Georgian aika"_s,
 		""_s
@@ -485,7 +485,7 @@ $ObjectArray2* TimeZoneNames_fi::getContents() {
 	$var($StringArray, Irkutsk, $new($StringArray, {
 		"Irkutskin normaaliaika"_s,
 		""_s,
-		u"Irkutskin kes\u00e4aika"_s,
+		u"Irkutskin kesäaika"_s,
 		""_s,
 		"Irkutskin aika"_s,
 		""_s
@@ -493,7 +493,7 @@ $ObjectArray2* TimeZoneNames_fi::getContents() {
 	$var($StringArray, Magadan, $new($StringArray, {
 		"Magadanin normaaliaika"_s,
 		""_s,
-		u"Magadanin kes\u00e4aika"_s,
+		u"Magadanin kesäaika"_s,
 		""_s,
 		"Magadanin aika"_s,
 		""_s
@@ -509,7 +509,7 @@ $ObjectArray2* TimeZoneNames_fi::getContents() {
 	$var($StringArray, Norfolk, $new($StringArray, {
 		"Norfolkinsaaren normaaliaika"_s,
 		""_s,
-		u"Norfolkinsaaren kes\u00e4aika"_s,
+		u"Norfolkinsaaren kesäaika"_s,
 		""_s,
 		"Norfolkinsaaren aika"_s,
 		""_s
@@ -517,13 +517,13 @@ $ObjectArray2* TimeZoneNames_fi::getContents() {
 	$var($StringArray, Noronha, $new($StringArray, {
 		"Fernando de Noronhan normaaliaika"_s,
 		""_s,
-		u"Fernando de Noronhan kes\u00e4aika"_s,
+		u"Fernando de Noronhan kesäaika"_s,
 		""_s,
 		"Fernando de Noronhan aika"_s,
 		""_s
 	}));
 	$var($StringArray, Reunion, $new($StringArray, {
-		u"R\u00e9unionin aika"_s,
+		u"Réunionin aika"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -557,7 +557,7 @@ $ObjectArray2* TimeZoneNames_fi::getContents() {
 	$var($StringArray, Uruguay, $new($StringArray, {
 		"Uruguayn normaaliaika"_s,
 		""_s,
-		u"Uruguayn kes\u00e4aika"_s,
+		u"Uruguayn kesäaika"_s,
 		""_s,
 		"Uruguayn aika"_s,
 		""_s
@@ -565,7 +565,7 @@ $ObjectArray2* TimeZoneNames_fi::getContents() {
 	$var($StringArray, Vanuatu, $new($StringArray, {
 		"Vanuatun normaaliaika"_s,
 		""_s,
-		u"Vanuatun kes\u00e4aika"_s,
+		u"Vanuatun kesäaika"_s,
 		""_s,
 		"Vanuatun aika"_s,
 		""_s
@@ -573,7 +573,7 @@ $ObjectArray2* TimeZoneNames_fi::getContents() {
 	$var($StringArray, Yakutsk, $new($StringArray, {
 		"Jakutskin normaaliaika"_s,
 		""_s,
-		u"Jakutskin kes\u00e4aika"_s,
+		u"Jakutskin kesäaika"_s,
 		""_s,
 		"Jakutskin aika"_s,
 		""_s
@@ -581,7 +581,7 @@ $ObjectArray2* TimeZoneNames_fi::getContents() {
 	$var($StringArray, Atlantic, $new($StringArray, {
 		"Kanadan Atlantin normaaliaika"_s,
 		""_s,
-		u"Kanadan Atlantin kes\u00e4aika"_s,
+		u"Kanadan Atlantin kesäaika"_s,
 		""_s,
 		"Kanadan Atlantin aika"_s,
 		""_s
@@ -589,13 +589,13 @@ $ObjectArray2* TimeZoneNames_fi::getContents() {
 	$var($StringArray, Brasilia, $new($StringArray, {
 		"Brasilian normaaliaika"_s,
 		""_s,
-		u"Brasilian kes\u00e4aika"_s,
+		u"Brasilian kesäaika"_s,
 		""_s,
 		"Brasilian aika"_s,
 		""_s
 	}));
 	$var($StringArray, Chamorro, $new($StringArray, {
-		u"T\u0161amorron aika"_s,
+		u"Tšamorron aika"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -605,7 +605,7 @@ $ObjectArray2* TimeZoneNames_fi::getContents() {
 	$var($StringArray, Colombia, $new($StringArray, {
 		"Kolumbian normaaliaika"_s,
 		""_s,
-		u"Kolumbian kes\u00e4aika"_s,
+		u"Kolumbian kesäaika"_s,
 		""_s,
 		"Kolumbian aika"_s,
 		""_s
@@ -613,7 +613,7 @@ $ObjectArray2* TimeZoneNames_fi::getContents() {
 	$var($StringArray, Falkland, $new($StringArray, {
 		"Falklandinsaarten normaaliaika"_s,
 		""_s,
-		u"Falklandinsaarten kes\u00e4aika"_s,
+		u"Falklandinsaarten kesäaika"_s,
 		""_s,
 		"Falklandinsaarten aika"_s,
 		""_s
@@ -637,7 +637,7 @@ $ObjectArray2* TimeZoneNames_fi::getContents() {
 	$var($StringArray, Mongolia, $new($StringArray, {
 		"Ulan Batorin normaaliaika"_s,
 		""_s,
-		u"Ulan Batorin kes\u00e4aika"_s,
+		u"Ulan Batorin kesäaika"_s,
 		""_s,
 		"Ulan Batorin aika"_s,
 		""_s
@@ -645,7 +645,7 @@ $ObjectArray2* TimeZoneNames_fi::getContents() {
 	$var($StringArray, Pakistan, $new($StringArray, {
 		"Pakistanin normaaliaika"_s,
 		""_s,
-		u"Pakistanin kes\u00e4aika"_s,
+		u"Pakistanin kesäaika"_s,
 		""_s,
 		"Pakistanin aika"_s,
 		""_s
@@ -653,7 +653,7 @@ $ObjectArray2* TimeZoneNames_fi::getContents() {
 	$var($StringArray, Paraguay, $new($StringArray, {
 		"Paraguayn normaaliaika"_s,
 		""_s,
-		u"Paraguayn kes\u00e4aika"_s,
+		u"Paraguayn kesäaika"_s,
 		""_s,
 		"Paraguayn aika"_s,
 		""_s
@@ -669,7 +669,7 @@ $ObjectArray2* TimeZoneNames_fi::getContents() {
 	$var($StringArray, Sakhalin, $new($StringArray, {
 		"Sahalinin normaaliaika"_s,
 		""_s,
-		u"Sahalinin kes\u00e4aika"_s,
+		u"Sahalinin kesäaika"_s,
 		""_s,
 		"Sahalinin aika"_s,
 		""_s
@@ -685,7 +685,7 @@ $ObjectArray2* TimeZoneNames_fi::getContents() {
 	$var($StringArray, Argentina, $new($StringArray, {
 		"Argentiinan normaaliaika"_s,
 		""_s,
-		u"Argentiinan kes\u00e4aika"_s,
+		u"Argentiinan kesäaika"_s,
 		""_s,
 		"Argentiinan aika"_s,
 		""_s
@@ -699,7 +699,7 @@ $ObjectArray2* TimeZoneNames_fi::getContents() {
 		""_s
 	}));
 	$var($StringArray, Galapagos, $new($StringArray, {
-		u"Gal\u00e1pagossaarten aika"_s,
+		u"Galápagossaarten aika"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -709,7 +709,7 @@ $ObjectArray2* TimeZoneNames_fi::getContents() {
 	$var($StringArray, Hong_Kong, $new($StringArray, {
 		"Hongkongin normaaliaika"_s,
 		""_s,
-		u"Hongkongin kes\u00e4aika"_s,
+		u"Hongkongin kesäaika"_s,
 		""_s,
 		"Hongkongin aika"_s,
 		""_s
@@ -723,11 +723,11 @@ $ObjectArray2* TimeZoneNames_fi::getContents() {
 		""_s
 	}));
 	$var($StringArray, Kamchatka, $new($StringArray, {
-		u"Kamt\u0161atkan normaaliaika"_s,
+		u"Kamtšatkan normaaliaika"_s,
 		""_s,
-		u"Kamt\u0161atkan kes\u00e4aika"_s,
+		u"Kamtšatkan kesäaika"_s,
 		""_s,
-		u"Kamt\u0161atkan aika"_s,
+		u"Kamtšatkan aika"_s,
 		""_s
 	}));
 	$var($StringArray, Kyrgystan, $new($StringArray, {
@@ -741,7 +741,7 @@ $ObjectArray2* TimeZoneNames_fi::getContents() {
 	$var($StringArray, Lord_Howe, $new($StringArray, {
 		"Lord Howen normaaliaika"_s,
 		""_s,
-		u"Lord Howen kes\u00e4aika"_s,
+		u"Lord Howen kesäaika"_s,
 		""_s,
 		"Lord Howen aika"_s,
 		""_s
@@ -757,7 +757,7 @@ $ObjectArray2* TimeZoneNames_fi::getContents() {
 	$var($StringArray, Mauritius, $new($StringArray, {
 		"Mauritiuksen normaaliaika"_s,
 		""_s,
-		u"Mauritiuksen kes\u00e4aika"_s,
+		u"Mauritiuksen kesäaika"_s,
 		""_s,
 		"Mauritiuksen aika"_s,
 		""_s
@@ -781,23 +781,23 @@ $ObjectArray2* TimeZoneNames_fi::getContents() {
 	$var($StringArray, Volgograd, $new($StringArray, {
 		"Volgogradin normaaliaika"_s,
 		""_s,
-		u"Volgogradin kes\u00e4aika"_s,
+		u"Volgogradin kesäaika"_s,
 		""_s,
 		"Volgogradin aika"_s,
 		""_s
 	}));
 	$var($StringArray, Azerbaijan, $new($StringArray, {
-		u"Azerbaid\u017eanin normaaliaika"_s,
+		u"Azerbaidžanin normaaliaika"_s,
 		""_s,
-		u"Azerbaid\u017eanin kes\u00e4aika"_s,
+		u"Azerbaidžanin kesäaika"_s,
 		""_s,
-		u"Azerbaid\u017eanin aika"_s,
+		u"Azerbaidžanin aika"_s,
 		""_s
 	}));
 	$var($StringArray, Bangladesh, $new($StringArray, {
 		"Bangladeshin normaaliaika"_s,
 		""_s,
-		u"Bangladeshin kes\u00e4aika"_s,
+		u"Bangladeshin kesäaika"_s,
 		""_s,
 		"Bangladeshin aika"_s,
 		""_s
@@ -805,13 +805,13 @@ $ObjectArray2* TimeZoneNames_fi::getContents() {
 	$var($StringArray, Cape_Verde, $new($StringArray, {
 		"Kap Verden normaaliaika"_s,
 		""_s,
-		u"Kap Verden kes\u00e4aika"_s,
+		u"Kap Verden kesäaika"_s,
 		""_s,
 		"Kap Verden aika"_s,
 		""_s
 	}));
 	$var($StringArray, East_Timor, $new($StringArray, {
-		u"It\u00e4-Timorin aika"_s,
+		u"Itä-Timorin aika"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -827,7 +827,7 @@ $ObjectArray2* TimeZoneNames_fi::getContents() {
 		""_s
 	}));
 	$var($StringArray, Tajikistan, $new($StringArray, {
-		u"Tad\u017eikistanin aika"_s,
+		u"Tadžikistanin aika"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -837,7 +837,7 @@ $ObjectArray2* TimeZoneNames_fi::getContents() {
 	$var($StringArray, Uzbekistan, $new($StringArray, {
 		"Uzbekistanin normaaliaika"_s,
 		""_s,
-		u"Uzbekistanin kes\u00e4aika"_s,
+		u"Uzbekistanin kesäaika"_s,
 		""_s,
 		"Uzbekistanin aika"_s,
 		""_s
@@ -853,7 +853,7 @@ $ObjectArray2* TimeZoneNames_fi::getContents() {
 	$var($StringArray, Krasnoyarsk, $new($StringArray, {
 		"Krasnojarskin normaaliaika"_s,
 		""_s,
-		u"Krasnojarskin kes\u00e4aika"_s,
+		u"Krasnojarskin kesäaika"_s,
 		""_s,
 		"Krasnojarskin aika"_s,
 		""_s
@@ -861,7 +861,7 @@ $ObjectArray2* TimeZoneNames_fi::getContents() {
 	$var($StringArray, New_Zealand, $new($StringArray, {
 		"Uuden-Seelannin normaaliaika"_s,
 		""_s,
-		u"Uuden-Seelannin kes\u00e4aika"_s,
+		u"Uuden-Seelannin kesäaika"_s,
 		""_s,
 		"Uuden-Seelannin aika"_s,
 		""_s
@@ -869,7 +869,7 @@ $ObjectArray2* TimeZoneNames_fi::getContents() {
 	$var($StringArray, Novosibirsk, $new($StringArray, {
 		"Novosibirskin normaaliaika"_s,
 		""_s,
-		u"Novosibirskin kes\u00e4aika"_s,
+		u"Novosibirskin kesäaika"_s,
 		""_s,
 		"Novosibirskin aika"_s,
 		""_s
@@ -877,7 +877,7 @@ $ObjectArray2* TimeZoneNames_fi::getContents() {
 	$var($StringArray, Philippines, $new($StringArray, {
 		"Filippiinien normaaliaika"_s,
 		""_s,
-		u"Filippiinien kes\u00e4aika"_s,
+		u"Filippiinien kesäaika"_s,
 		""_s,
 		"Filippiinien aika"_s,
 		""_s
@@ -885,7 +885,7 @@ $ObjectArray2* TimeZoneNames_fi::getContents() {
 	$var($StringArray, Vladivostok, $new($StringArray, {
 		"Vladivostokin normaaliaika"_s,
 		""_s,
-		u"Vladivostokin kes\u00e4aika"_s,
+		u"Vladivostokin kesäaika"_s,
 		""_s,
 		"Vladivostokin aika"_s,
 		""_s
@@ -909,7 +909,7 @@ $ObjectArray2* TimeZoneNames_fi::getContents() {
 	$var($StringArray, Newfoundland, $new($StringArray, {
 		"Newfoundlandin normaaliaika"_s,
 		""_s,
-		u"Newfoundlandin kes\u00e4aika"_s,
+		u"Newfoundlandin kesäaika"_s,
 		""_s,
 		"Newfoundlandin aika"_s,
 		""_s
@@ -917,7 +917,7 @@ $ObjectArray2* TimeZoneNames_fi::getContents() {
 	$var($StringArray, Turkmenistan, $new($StringArray, {
 		"Turkmenistanin normaaliaika"_s,
 		""_s,
-		u"Turkmenistanin kes\u00e4aika"_s,
+		u"Turkmenistanin kesäaika"_s,
 		""_s,
 		"Turkmenistanin aika"_s,
 		""_s
@@ -933,13 +933,13 @@ $ObjectArray2* TimeZoneNames_fi::getContents() {
 	$var($StringArray, New_Caledonia, $new($StringArray, {
 		"Uuden-Kaledonian normaaliaika"_s,
 		""_s,
-		u"Uuden-Kaledonian kes\u00e4aika"_s,
+		u"Uuden-Kaledonian kesäaika"_s,
 		""_s,
 		"Uuden-Kaledonian aika"_s,
 		""_s
 	}));
 	$var($StringArray, South_Georgia, $new($StringArray, {
-		u"Etel\u00e4-Georgian aika"_s,
+		u"Etelä-Georgian aika"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -949,7 +949,7 @@ $ObjectArray2* TimeZoneNames_fi::getContents() {
 	$var($StringArray, Yekaterinburg, $new($StringArray, {
 		"Jekaterinburgin normaaliaika"_s,
 		""_s,
-		u"Jekaterinburgin kes\u00e4aika"_s,
+		u"Jekaterinburgin kesäaika"_s,
 		""_s,
 		"Jekaterinburgin aika"_s,
 		""_s
@@ -963,7 +963,7 @@ $ObjectArray2* TimeZoneNames_fi::getContents() {
 		""_s
 	}));
 	$var($StringArray, Africa_Eastern, $new($StringArray, {
-		u"It\u00e4-Afrikan aika"_s,
+		u"Itä-Afrikan aika"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -971,15 +971,15 @@ $ObjectArray2* TimeZoneNames_fi::getContents() {
 		""_s
 	}));
 	$var($StringArray, Africa_Western, $new($StringArray, {
-		u"L\u00e4nsi-Afrikan normaaliaika"_s,
+		u"Länsi-Afrikan normaaliaika"_s,
 		""_s,
-		u"L\u00e4nsi-Afrikan kes\u00e4aika"_s,
+		u"Länsi-Afrikan kesäaika"_s,
 		""_s,
-		u"L\u00e4nsi-Afrikan aika"_s,
+		u"Länsi-Afrikan aika"_s,
 		""_s
 	}));
 	$var($StringArray, DumontDUrville, $new($StringArray, {
-		u"Dumont d\u2019Urvillen aika"_s,
+		u"Dumont d’Urvillen aika"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -989,37 +989,37 @@ $ObjectArray2* TimeZoneNames_fi::getContents() {
 	$var($StringArray, Europe_Central, $new($StringArray, {
 		"Keski-Euroopan normaaliaika"_s,
 		""_s,
-		u"Keski-Euroopan kes\u00e4aika"_s,
+		u"Keski-Euroopan kesäaika"_s,
 		""_s,
 		"Keski-Euroopan aika"_s,
 		""_s
 	}));
 	$var($StringArray, Europe_Eastern, $new($StringArray, {
-		u"It\u00e4-Euroopan normaaliaika"_s,
+		u"Itä-Euroopan normaaliaika"_s,
 		""_s,
-		u"It\u00e4-Euroopan kes\u00e4aika"_s,
+		u"Itä-Euroopan kesäaika"_s,
 		""_s,
-		u"It\u00e4-Euroopan aika"_s,
+		u"Itä-Euroopan aika"_s,
 		""_s
 	}));
 	$var($StringArray, Europe_Western, $new($StringArray, {
-		u"L\u00e4nsi-Euroopan normaaliaika"_s,
+		u"Länsi-Euroopan normaaliaika"_s,
 		""_s,
-		u"L\u00e4nsi-Euroopan kes\u00e4aika"_s,
+		u"Länsi-Euroopan kesäaika"_s,
 		""_s,
-		u"L\u00e4nsi-Euroopan aika"_s,
+		u"Länsi-Euroopan aika"_s,
 		""_s
 	}));
 	$var($StringArray, Mexico_Pacific, $new($StringArray, {
 		"Meksikon Tyynenmeren normaaliaika"_s,
 		""_s,
-		u"Meksikon Tyynenmeren kes\u00e4aika"_s,
+		u"Meksikon Tyynenmeren kesäaika"_s,
 		""_s,
 		"Meksikon Tyynenmeren aika"_s,
 		""_s
 	}));
 	$var($StringArray, Africa_Southern, $new($StringArray, {
-		u"Etel\u00e4-Afrikan aika"_s,
+		u"Etelä-Afrikan aika"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -1029,29 +1029,29 @@ $ObjectArray2* TimeZoneNames_fi::getContents() {
 	$var($StringArray, America_Central, $new($StringArray, {
 		"Yhdysvaltain keskinen normaaliaika"_s,
 		""_s,
-		u"Yhdysvaltain keskinen kes\u00e4aika"_s,
+		u"Yhdysvaltain keskinen kesäaika"_s,
 		""_s,
 		"Yhdysvaltain keskinen aika"_s,
 		""_s
 	}));
 	$var($StringArray, America_Eastern, $new($StringArray, {
-		u"Yhdysvaltain it\u00e4inen normaaliaika"_s,
+		u"Yhdysvaltain itäinen normaaliaika"_s,
 		""_s,
-		u"Yhdysvaltain it\u00e4inen kes\u00e4aika"_s,
+		u"Yhdysvaltain itäinen kesäaika"_s,
 		""_s,
-		u"Yhdysvaltain it\u00e4inen aika"_s,
+		u"Yhdysvaltain itäinen aika"_s,
 		""_s
 	}));
 	$var($StringArray, America_Pacific, $new($StringArray, {
 		"Yhdysvaltain Tyynenmeren normaaliaika"_s,
 		""_s,
-		u"Yhdysvaltain Tyynenmeren kes\u00e4aika"_s,
+		u"Yhdysvaltain Tyynenmeren kesäaika"_s,
 		""_s,
 		"Yhdysvaltain Tyynenmeren aika"_s,
 		""_s
 	}));
 	$var($StringArray, French_Southern, $new($StringArray, {
-		u"Ranskan etel\u00e4isten ja antarktisten alueiden aika"_s,
+		u"Ranskan eteläisten ja antarktisten alueiden aika"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -1069,7 +1069,7 @@ $ObjectArray2* TimeZoneNames_fi::getContents() {
 	$var($StringArray, Hawaii_Aleutian, $new($StringArray, {
 		"Havaijin-Aleuttien normaaliaika"_s,
 		""_s,
-		u"Havaijin-Aleuttien kes\u00e4aika"_s,
+		u"Havaijin-Aleuttien kesäaika"_s,
 		""_s,
 		"Havaijin-Aleuttien aika"_s,
 		""_s
@@ -1085,7 +1085,7 @@ $ObjectArray2* TimeZoneNames_fi::getContents() {
 	$var($StringArray, Pierre_Miquelon, $new($StringArray, {
 		"Saint-Pierren ja Miquelonin normaaliaika"_s,
 		""_s,
-		u"Saint-Pierren ja Miquelonin kes\u00e4aika"_s,
+		u"Saint-Pierren ja Miquelonin kesäaika"_s,
 		""_s,
 		"Saint-Pierren ja Miquelonin aika"_s,
 		""_s
@@ -1093,7 +1093,7 @@ $ObjectArray2* TimeZoneNames_fi::getContents() {
 	$var($StringArray, America_Mountain, $new($StringArray, {
 		"Kalliovuorten normaaliaika"_s,
 		""_s,
-		u"Kalliovuorten kes\u00e4aika"_s,
+		u"Kalliovuorten kesäaika"_s,
 		""_s,
 		"Kalliovuorten aika"_s,
 		""_s
@@ -1109,7 +1109,7 @@ $ObjectArray2* TimeZoneNames_fi::getContents() {
 	$var($StringArray, Mexico_Northwest, $new($StringArray, {
 		"Luoteis-Meksikon normaaliaika"_s,
 		""_s,
-		u"Luoteis-Meksikon kes\u00e4aika"_s,
+		u"Luoteis-Meksikon kesäaika"_s,
 		""_s,
 		"Luoteis-Meksikon aika"_s,
 		""_s
@@ -1125,41 +1125,41 @@ $ObjectArray2* TimeZoneNames_fi::getContents() {
 	$var($StringArray, Australia_Central, $new($StringArray, {
 		"Keski-Australian normaaliaika"_s,
 		""_s,
-		u"Keski-Australian kes\u00e4aika"_s,
+		u"Keski-Australian kesäaika"_s,
 		""_s,
 		"Keski-Australian aika"_s,
 		""_s
 	}));
 	$var($StringArray, Australia_Eastern, $new($StringArray, {
-		u"It\u00e4-Australian normaaliaika"_s,
+		u"Itä-Australian normaaliaika"_s,
 		""_s,
-		u"It\u00e4-Australian kes\u00e4aika"_s,
+		u"Itä-Australian kesäaika"_s,
 		""_s,
-		u"It\u00e4-Australian aika"_s,
+		u"Itä-Australian aika"_s,
 		""_s
 	}));
 	$var($StringArray, Australia_Western, $new($StringArray, {
-		u"L\u00e4nsi-Australian normaaliaika"_s,
+		u"Länsi-Australian normaaliaika"_s,
 		""_s,
-		u"L\u00e4nsi-Australian kes\u00e4aika"_s,
+		u"Länsi-Australian kesäaika"_s,
 		""_s,
-		u"L\u00e4nsi-Australian aika"_s,
+		u"Länsi-Australian aika"_s,
 		""_s
 	}));
 	$var($StringArray, Greenland_Eastern, $new($StringArray, {
-		u"It\u00e4-Gr\u00f6nlannin normaaliaika"_s,
+		u"Itä-Grönlannin normaaliaika"_s,
 		""_s,
-		u"It\u00e4-Gr\u00f6nlannin kes\u00e4aika"_s,
+		u"Itä-Grönlannin kesäaika"_s,
 		""_s,
-		u"It\u00e4-Gr\u00f6nlannin aika"_s,
+		u"Itä-Grönlannin aika"_s,
 		""_s
 	}));
 	$var($StringArray, Greenland_Western, $new($StringArray, {
-		u"L\u00e4nsi-Gr\u00f6nlannin normaaliaika"_s,
+		u"Länsi-Grönlannin normaaliaika"_s,
 		""_s,
-		u"L\u00e4nsi-Gr\u00f6nlannin kes\u00e4aika"_s,
+		u"Länsi-Grönlannin kesäaika"_s,
 		""_s,
-		u"L\u00e4nsi-Gr\u00f6nlannin aika"_s,
+		u"Länsi-Grönlannin aika"_s,
 		""_s
 	}));
 	$var($StringArray, Indonesia_Central, $new($StringArray, {
@@ -1171,7 +1171,7 @@ $ObjectArray2* TimeZoneNames_fi::getContents() {
 		""_s
 	}));
 	$var($StringArray, Indonesia_Eastern, $new($StringArray, {
-		u"It\u00e4-Indonesian aika"_s,
+		u"Itä-Indonesian aika"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -1179,7 +1179,7 @@ $ObjectArray2* TimeZoneNames_fi::getContents() {
 		""_s
 	}));
 	$var($StringArray, Indonesia_Western, $new($StringArray, {
-		u"L\u00e4nsi-Indonesian aika"_s,
+		u"Länsi-Indonesian aika"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -1187,7 +1187,7 @@ $ObjectArray2* TimeZoneNames_fi::getContents() {
 		""_s
 	}));
 	$var($StringArray, Kazakhstan_Eastern, $new($StringArray, {
-		u"It\u00e4-Kazakstanin aika"_s,
+		u"Itä-Kazakstanin aika"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -1195,7 +1195,7 @@ $ObjectArray2* TimeZoneNames_fi::getContents() {
 		""_s
 	}));
 	$var($StringArray, Kazakhstan_Western, $new($StringArray, {
-		u"L\u00e4nsi-Kazakstanin aika"_s,
+		u"Länsi-Kazakstanin aika"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -1203,11 +1203,11 @@ $ObjectArray2* TimeZoneNames_fi::getContents() {
 		""_s
 	}));
 	$var($StringArray, Australia_CentralWestern, $new($StringArray, {
-		u"L\u00e4ntisen Keski-Australian normaaliaika"_s,
+		u"Läntisen Keski-Australian normaaliaika"_s,
 		""_s,
-		u"L\u00e4ntisen Keski-Australian kes\u00e4aika"_s,
+		u"Läntisen Keski-Australian kesäaika"_s,
 		""_s,
-		u"L\u00e4ntisen Keski-Australian aika"_s,
+		u"Läntisen Keski-Australian aika"_s,
 		""_s
 	}));
 	$var($ObjectArray2, data, $new($ObjectArray2, {
@@ -1856,7 +1856,7 @@ $ObjectArray2* TimeZoneNames_fi::getContents() {
 			$of($$new($StringArray, {
 				"Greenwichin normaaliaika"_s,
 				""_s,
-				u"Irlannin kes\u00e4aika"_s,
+				u"Irlannin kesäaika"_s,
 				""_s,
 				""_s,
 				""_s
@@ -1875,7 +1875,7 @@ $ObjectArray2* TimeZoneNames_fi::getContents() {
 			$of($$new($StringArray, {
 				"Greenwichin normaaliaika"_s,
 				""_s,
-				u"Britannian kes\u00e4aika"_s,
+				u"Britannian kesäaika"_s,
 				""_s,
 				""_s,
 				""_s
@@ -2094,7 +2094,7 @@ $ObjectArray2* TimeZoneNames_fi::getContents() {
 			$of($$new($StringArray, {
 				"Greenwichin normaaliaika"_s,
 				""_s,
-				u"Britannian kes\u00e4aika"_s,
+				u"Britannian kesäaika"_s,
 				""_s,
 				""_s,
 				""_s
@@ -3102,7 +3102,7 @@ $ObjectArray2* TimeZoneNames_fi::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Chita"_s),
-			$of(u"T\u0161ita"_s)
+			$of(u"Tšita"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Dhaka"_s),
@@ -3150,7 +3150,7 @@ $ObjectArray2* TimeZoneNames_fi::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Africa/Lome"_s),
-			$of(u"Lom\u00e9"_s)
+			$of(u"Lomé"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Almaty"_s),
@@ -3162,11 +3162,11 @@ $ObjectArray2* TimeZoneNames_fi::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Aqtobe"_s),
-			$of(u"Aqt\u00f6be"_s)
+			$of(u"Aqtöbe"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Atyrau"_s),
-			$of(u"At\u0131raw"_s)
+			$of(u"Atıraw"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Beirut"_s),
@@ -3198,7 +3198,7 @@ $ObjectArray2* TimeZoneNames_fi::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Saigon"_s),
-			$of(u"H\u1ed3 Ch\u00ed Minhin kaupunki"_s)
+			$of(u"Hồ Chí Minhin kaupunki"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Taipei"_s),
@@ -3210,7 +3210,7 @@ $ObjectArray2* TimeZoneNames_fi::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Urumqi"_s),
-			$of(u"\u00dcr\u00fcmqi"_s)
+			$of(u"Ürümqi"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Etc/Unknown"_s),
@@ -3234,7 +3234,7 @@ $ObjectArray2* TimeZoneNames_fi::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Indian/Mahe"_s),
-			$of(u"Mah\u00e9"_s)
+			$of(u"Mahé"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Africa/Accra"_s),
@@ -3290,7 +3290,7 @@ $ObjectArray2* TimeZoneNames_fi::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Bishkek"_s),
-			$of(u"Bi\u0161kek"_s)
+			$of(u"Biškek"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Colombo"_s),
@@ -3370,7 +3370,7 @@ $ObjectArray2* TimeZoneNames_fi::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Pacific/Fiji"_s),
-			$of(u"Fid\u017ei"_s)
+			$of(u"Fidži"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Pacific/Guam"_s),
@@ -3466,7 +3466,7 @@ $ObjectArray2* TimeZoneNames_fi::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Ashgabat"_s),
-			$of(u"A\u0161gabat"_s)
+			$of(u"Ašgabat"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Calcutta"_s),
@@ -3478,7 +3478,7 @@ $ObjectArray2* TimeZoneNames_fi::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Dushanbe"_s),
-			$of(u"Du\u0161anbe"_s)
+			$of(u"Dušanbe"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Jayapura"_s),
@@ -3506,7 +3506,7 @@ $ObjectArray2* TimeZoneNames_fi::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Tashkent"_s),
-			$of(u"Ta\u0161kent"_s)
+			$of(u"Taškent"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Ust-Nera"_s),
@@ -3578,7 +3578,7 @@ $ObjectArray2* TimeZoneNames_fi::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Zurich"_s),
-			$of(u"Z\u00fcrich"_s)
+			$of(u"Zürich"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Indian/Chagos"_s),
@@ -3642,11 +3642,11 @@ $ObjectArray2* TimeZoneNames_fi::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Bogota"_s),
-			$of(u"Bogot\u00e1"_s)
+			$of(u"Bogotá"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Cancun"_s),
-			$of(u"Canc\u00fan"_s)
+			$of(u"Cancún"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Cayman"_s),
@@ -3654,7 +3654,7 @@ $ObjectArray2* TimeZoneNames_fi::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Cuiaba"_s),
-			$of(u"Cuiab\u00e1"_s)
+			$of(u"Cuiabá"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Dawson"_s),
@@ -3686,7 +3686,7 @@ $ObjectArray2* TimeZoneNames_fi::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Maceio"_s),
-			$of(u"Macei\u00f3"_s)
+			$of(u"Maceió"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Manaus"_s),
@@ -3694,7 +3694,7 @@ $ObjectArray2* TimeZoneNames_fi::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Merida"_s),
-			$of(u"M\u00e9rida"_s)
+			$of(u"Mérida"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Nassau"_s),
@@ -3726,7 +3726,7 @@ $ObjectArray2* TimeZoneNames_fi::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Kamchatka"_s),
-			$of(u"Kamt\u0161atka"_s)
+			$of(u"Kamtšatka"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Pontianak"_s),
@@ -3738,7 +3738,7 @@ $ObjectArray2* TimeZoneNames_fi::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Qyzylorda"_s),
-			$of(u"Q\u0131z\u0131lorda"_s)
+			$of(u"Qızılorda"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Samarkand"_s),
@@ -3778,11 +3778,11 @@ $ObjectArray2* TimeZoneNames_fi::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Indian/Reunion"_s),
-			$of(u"R\u00e9union"_s)
+			$of(u"Réunion"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Pacific/Easter"_s),
-			$of(u"P\u00e4\u00e4si\u00e4issaari"_s)
+			$of(u"Pääsiäissaari"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Pacific/Kosrae"_s),
@@ -3798,7 +3798,7 @@ $ObjectArray2* TimeZoneNames_fi::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Pacific/Noumea"_s),
-			$of(u"Noum\u00e9a"_s)
+			$of(u"Nouméa"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Pacific/Saipan"_s),
@@ -3826,7 +3826,7 @@ $ObjectArray2* TimeZoneNames_fi::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Africa/El_Aaiun"_s),
-			$of(u"El Aai\u00fan"_s)
+			$of(u"El Aaiún"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Africa/Freetown"_s),
@@ -3850,11 +3850,11 @@ $ObjectArray2* TimeZoneNames_fi::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Africa/Ndjamena"_s),
-			$of(u"N\u2019Djamena"_s)
+			$of(u"N’Djamena"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Africa/Sao_Tome"_s),
-			$of(u"S\u00e3o Tom\u00e9"_s)
+			$of(u"São Tomé"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Africa/Windhoek"_s),
@@ -3878,7 +3878,7 @@ $ObjectArray2* TimeZoneNames_fi::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Cordoba"_s),
-			$of(u"C\u00f3rdoba"_s)
+			$of(u"Córdoba"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Creston"_s),
@@ -3886,7 +3886,7 @@ $ObjectArray2* TimeZoneNames_fi::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Curacao"_s),
-			$of(u"Cura\u00e7ao"_s)
+			$of(u"Curaçao"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Detroit"_s),
@@ -3958,7 +3958,7 @@ $ObjectArray2* TimeZoneNames_fi::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Choibalsan"_s),
-			$of(u"T\u0161oibalsa"_s)
+			$of(u"Tšoibalsa"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Phnom_Penh"_s),
@@ -3974,7 +3974,7 @@ $ObjectArray2* TimeZoneNames_fi::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Atlantic/Faeroe"_s),
-			$of(u"F\u00e4rsaaret"_s)
+			$of(u"Färsaaret"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Australia/Eucla"_s),
@@ -3998,11 +3998,11 @@ $ObjectArray2* TimeZoneNames_fi::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Busingen"_s),
-			$of(u"B\u00fcsingen"_s)
+			$of(u"Büsingen"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Chisinau"_s),
-			$of(u"Chi\u015fin\u0103u"_s)
+			$of(u"Chişinău"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Guernsey"_s),
@@ -4022,7 +4022,7 @@ $ObjectArray2* TimeZoneNames_fi::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Uzhgorod"_s),
-			$of(u"U\u017egorod"_s)
+			$of(u"Užgorod"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Indian/Maldives"_s),
@@ -4058,7 +4058,7 @@ $ObjectArray2* TimeZoneNames_fi::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Asuncion"_s),
-			$of(u"Asunci\u00f3n"_s)
+			$of(u"Asunción"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Barbados"_s),
@@ -4074,11 +4074,11 @@ $ObjectArray2* TimeZoneNames_fi::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Eirunepe"_s),
-			$of(u"Eirunep\u00e9"_s)
+			$of(u"Eirunepé"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Mazatlan"_s),
-			$of(u"Mazatl\u00e1n"_s)
+			$of(u"Mazatlán"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Miquelon"_s),
@@ -4094,7 +4094,7 @@ $ObjectArray2* TimeZoneNames_fi::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Santarem"_s),
-			$of(u"Santar\u00e9m"_s)
+			$of(u"Santarém"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Santiago"_s),
@@ -4270,7 +4270,7 @@ $ObjectArray2* TimeZoneNames_fi::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Araguaina"_s),
-			$of(u"Aragua\u00edna"_s)
+			$of(u"Araguaína"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Boa_Vista"_s),
@@ -4318,7 +4318,7 @@ $ObjectArray2* TimeZoneNames_fi::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Sao_Paulo"_s),
-			$of(u"S\u00e3o Paulo"_s)
+			$of(u"São Paulo"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/St_Thomas"_s),
@@ -4354,7 +4354,7 @@ $ObjectArray2* TimeZoneNames_fi::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Copenhagen"_s),
-			$of(u"K\u00f6\u00f6penhamina"_s)
+			$of(u"Kööpenhamina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Luxembourg"_s),
@@ -4370,7 +4370,7 @@ $ObjectArray2* TimeZoneNames_fi::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Zaporozhye"_s),
-			$of(u"Zapori\u017e\u017eja"_s)
+			$of(u"Zaporižžja"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Pacific/Enderbury"_s),
@@ -4486,7 +4486,7 @@ $ObjectArray2* TimeZoneNames_fi::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Atlantic/Reykjavik"_s),
-			$of(u"Reykjav\u00edk"_s)
+			$of(u"Reykjavík"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Atlantic/St_Helena"_s),
@@ -4534,7 +4534,7 @@ $ObjectArray2* TimeZoneNames_fi::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Mexico_City"_s),
-			$of(u"Ciudad de M\u00e9xico"_s)
+			$of(u"Ciudad de México"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Pangnirtung"_s),
@@ -4654,7 +4654,7 @@ $ObjectArray2* TimeZoneNames_fi::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/St_Barthelemy"_s),
-			$of(u"Saint-Barth\u00e9lemy"_s)
+			$of(u"Saint-Barthélemy"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Swift_Current"_s),
@@ -4666,7 +4666,7 @@ $ObjectArray2* TimeZoneNames_fi::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Bahia_Banderas"_s),
-			$of(u"Bah\u00eda de Banderas"_s)
+			$of(u"Bahía de Banderas"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Port-au-Prince"_s),
@@ -4674,7 +4674,7 @@ $ObjectArray2* TimeZoneNames_fi::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Atlantic/South_Georgia"_s),
-			$of(u"Etel\u00e4-Georgia"_s)
+			$of(u"Etelä-Georgia"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Argentina/Salta"_s),
@@ -4682,7 +4682,7 @@ $ObjectArray2* TimeZoneNames_fi::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Argentina/Tucuman"_s),
-			$of(u"Tucum\u00e1n"_s)
+			$of(u"Tucumán"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Argentina/Ushuaia"_s),

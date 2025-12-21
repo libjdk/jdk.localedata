@@ -40,18 +40,18 @@ void FormatData_ln::init$() {
 $ObjectArray2* FormatData_ln::getContents() {
 	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_MonthNames, $new($StringArray, {
-		u"s\u00e1nz\u00e1 ya yambo"_s,
-		u"s\u00e1nz\u00e1 ya m\u00edbal\u00e9"_s,
-		u"s\u00e1nz\u00e1 ya m\u00eds\u00e1to"_s,
-		u"s\u00e1nz\u00e1 ya m\u00ednei"_s,
-		u"s\u00e1nz\u00e1 ya m\u00edt\u00e1no"_s,
-		u"s\u00e1nz\u00e1 ya mot\u00f3b\u00e1"_s,
-		u"s\u00e1nz\u00e1 ya nsambo"_s,
-		u"s\u00e1nz\u00e1 ya mwambe"_s,
-		u"s\u00e1nz\u00e1 ya libwa"_s,
-		u"s\u00e1nz\u00e1 ya z\u00f3mi"_s,
-		u"s\u00e1nz\u00e1 ya z\u00f3mi na m\u0254\u030ck\u0254\u0301"_s,
-		u"s\u00e1nz\u00e1 ya z\u00f3mi na m\u00edbal\u00e9"_s,
+		u"sánzá ya yambo"_s,
+		u"sánzá ya míbalé"_s,
+		u"sánzá ya mísáto"_s,
+		u"sánzá ya mínei"_s,
+		u"sánzá ya mítáno"_s,
+		u"sánzá ya motóbá"_s,
+		u"sánzá ya nsambo"_s,
+		u"sánzá ya mwambe"_s,
+		u"sánzá ya libwa"_s,
+		u"sánzá ya zómi"_s,
+		u"sánzá ya zómi na mɔ̌kɔ́"_s,
+		u"sánzá ya zómi na míbalé"_s,
 		""_s
 	}));
 	$var($StringArray, metaValue_MonthAbbreviations, $new($StringArray, {
@@ -64,7 +64,7 @@ $ObjectArray2* FormatData_ln::getContents() {
 		"yul"_s,
 		"agt"_s,
 		"stb"_s,
-		u"\u0254tb"_s,
+		u"ɔtb"_s,
 		"nvb"_s,
 		"dsb"_s,
 		""_s
@@ -79,19 +79,19 @@ $ObjectArray2* FormatData_ln::getContents() {
 		"y"_s,
 		"a"_s,
 		"s"_s,
-		u"\u0254"_s,
+		u"ɔ"_s,
 		"n"_s,
 		"d"_s,
 		""_s
 	}));
 	$var($StringArray, metaValue_DayNames, $new($StringArray, {
 		"eyenga"_s,
-		u"mok\u0254l\u0254 mwa yambo"_s,
-		u"mok\u0254l\u0254 mwa m\u00edbal\u00e9"_s,
-		u"mok\u0254l\u0254 mwa m\u00eds\u00e1to"_s,
-		u"mok\u0254l\u0254 ya m\u00edn\u00e9i"_s,
-		u"mok\u0254l\u0254 ya m\u00edt\u00e1no"_s,
-		u"mp\u0254\u0301s\u0254"_s
+		u"mokɔlɔ mwa yambo"_s,
+		u"mokɔlɔ mwa míbalé"_s,
+		u"mokɔlɔ mwa mísáto"_s,
+		u"mokɔlɔ ya mínéi"_s,
+		u"mokɔlɔ ya mítáno"_s,
+		u"mpɔ́sɔ"_s
 	}));
 	$var($StringArray, metaValue_DayAbbreviations, $new($StringArray, {
 		"eye"_s,
@@ -112,10 +112,10 @@ $ObjectArray2* FormatData_ln::getContents() {
 		"p"_s
 	}));
 	$var($StringArray, metaValue_QuarterNames, $new($StringArray, {
-		u"s\u00e1nz\u00e1 m\u00eds\u00e1to ya yambo"_s,
-		u"s\u00e1nz\u00e1 m\u00eds\u00e1to ya m\u00edbal\u00e9"_s,
-		u"s\u00e1nz\u00e1 m\u00eds\u00e1to ya m\u00eds\u00e1to"_s,
-		u"s\u00e1nz\u00e1 m\u00eds\u00e1to ya m\u00ednei"_s
+		u"sánzá mísáto ya yambo"_s,
+		u"sánzá mísáto ya míbalé"_s,
+		u"sánzá mísáto ya mísáto"_s,
+		u"sánzá mísáto ya mínei"_s
 	}));
 	$var($StringArray, metaValue_QuarterAbbreviations, $new($StringArray, {
 		"SM1"_s,
@@ -124,8 +124,8 @@ $ObjectArray2* FormatData_ln::getContents() {
 		"SM4"_s
 	}));
 	$var($StringArray, metaValue_AmPmMarkers, $new($StringArray, {
-		u"nt\u0254\u0301ng\u0254\u0301"_s,
-		u"mp\u00f3kwa"_s,
+		u"ntɔ́ngɔ́"_s,
+		u"mpókwa"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -138,7 +138,7 @@ $ObjectArray2* FormatData_ln::getContents() {
 		""_s
 	}));
 	$var($StringArray, metaValue_Eras, $new($StringArray, {
-		u"lib\u00f3so ya"_s,
+		u"libóso ya"_s,
 		"nsima ya Y"_s
 	}));
 	$var($StringArray, metaValue_TimePatterns, $new($StringArray, {
@@ -166,7 +166,7 @@ $ObjectArray2* FormatData_ln::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.year"_s),
-			$of(u"Mob\u00fa"_s)
+			$of(u"Mobú"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("islamic.QuarterAbbreviations"_s),
@@ -210,7 +210,7 @@ $ObjectArray2* FormatData_ln::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.zone"_s),
-			$of(u"Nt\u00e1k\u00e1 ya ngonga"_s)
+			$of(u"Ntáká ya ngonga"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("japanese.QuarterAbbreviations"_s),
@@ -271,8 +271,8 @@ $ObjectArray2* FormatData_ln::getContents() {
 		$$new($ObjectArray, {
 			$of("long.Eras"_s),
 			$of($$new($StringArray, {
-				u"Yambo ya Y\u00e9zu Kr\u00eds"_s,
-				u"Nsima ya Y\u00e9zu Kr\u00eds"_s
+				u"Yambo ya Yézu Krís"_s,
+				u"Nsima ya Yézu Krís"_s
 			}))
 		}),
 		$$new($ObjectArray, {
@@ -289,7 +289,7 @@ $ObjectArray2* FormatData_ln::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.weekday"_s),
-			$of(u"Mok\u0254l\u0254 ya p\u0254\u0301s\u0254"_s)
+			$of(u"Mokɔlɔ ya pɔ́sɔ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("buddhist.MonthNames"_s),
@@ -310,8 +310,8 @@ $ObjectArray2* FormatData_ln::getContents() {
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
+				u"‰"_s,
+				u"∞"_s,
 				"NaN"_s,
 				""_s,
 				""_s
@@ -335,11 +335,11 @@ $ObjectArray2* FormatData_ln::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.minute"_s),
-			$of(u"Mon\u00fati"_s)
+			$of(u"Monúti"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("field.era"_s),
-			$of(u"Nt\u00e1ngo"_s)
+			$of(u"Ntángo"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("islamic.DayAbbreviations"_s),
@@ -351,7 +351,7 @@ $ObjectArray2* FormatData_ln::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.dayperiod"_s),
-			$of(u"Eleko ya mok\u0254l\u0254"_s)
+			$of(u"Eleko ya mokɔlɔ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("standalone.MonthNarrows"_s),
@@ -387,7 +387,7 @@ $ObjectArray2* FormatData_ln::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.month"_s),
-			$of(u"S\u00e1nz\u00e1"_s)
+			$of(u"Sánzá"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("buddhist.DatePatterns"_s),
@@ -395,7 +395,7 @@ $ObjectArray2* FormatData_ln::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.second"_s),
-			$of(u"S\u025bk\u0254\u0301nd\u025b"_s)
+			$of(u"Sɛkɔ́ndɛ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("roc.MonthNames"_s),
@@ -403,7 +403,7 @@ $ObjectArray2* FormatData_ln::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.week"_s),
-			$of(u"P\u0254\u0301s\u0254"_s)
+			$of(u"Pɔ́sɔ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("DayAbbreviations"_s),
@@ -490,7 +490,7 @@ $ObjectArray2* FormatData_ln::getContents() {
 			$of("latn.NumberPatterns"_s),
 			$of($$new($StringArray, {
 				"#,##0.###"_s,
-				u"#,##0.00\u00a0\u00a4"_s,
+				u"#,##0.00 ¤"_s,
 				"#,##0%"_s,
 				""_s
 			}))

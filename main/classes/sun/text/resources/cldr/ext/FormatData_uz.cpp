@@ -182,17 +182,17 @@ $ObjectArray2* FormatData_uz::getContents() {
 		$$new($ObjectArray, {
 			$of("arabext.NumberElements"_s),
 			$of($$new($StringArray, {
-				u"\u066b"_s,
-				u"\u066c"_s,
-				u"\u061b"_s,
-				u"\u066a"_s,
-				u"\u06f0"_s,
+				u"٫"_s,
+				u"٬"_s,
+				u"؛"_s,
+				u"٪"_s,
+				u"۰"_s,
 				"#"_s,
 				"-"_s,
-				u"\u00d7\u06f1\u06f0^"_s,
-				u"\u0609"_s,
-				u"\u221e"_s,
-				u"son\u00a0emas"_s,
+				u"×۱۰^"_s,
+				u"؉"_s,
+				u"∞"_s,
+				u"son emas"_s,
 				""_s,
 				""_s
 			}))
@@ -301,16 +301,16 @@ $ObjectArray2* FormatData_uz::getContents() {
 			$of("latn.NumberElements"_s),
 			$of($$new($StringArray, {
 				","_s,
-				u"\u00a0"_s,
+				u" "_s,
 				";"_s,
 				"%"_s,
 				"0"_s,
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
-				u"son\u00a0emas"_s,
+				u"‰"_s,
+				u"∞"_s,
+				u"son emas"_s,
 				""_s,
 				""_s
 			}))
@@ -352,15 +352,15 @@ $ObjectArray2* FormatData_uz::getContents() {
 			$of($$new($StringArray, {
 				"Muharram"_s,
 				"Safar"_s,
-				u"Robi\u2019 ul-avval"_s,
-				u"Robi\u2019 ul-oxir"_s,
+				u"Robi’ ul-avval"_s,
+				u"Robi’ ul-oxir"_s,
 				"Jumad ul-avval"_s,
 				"Jumad ul-oxir"_s,
 				"Rajab"_s,
-				u"Sha\u2019bon"_s,
+				u"Sha’bon"_s,
 				"Ramazon"_s,
 				"Shavvol"_s,
-				u"Zul-qa\u2019da"_s,
+				u"Zul-qa’da"_s,
 				"Zul-hijja"_s,
 				""_s
 			}))
@@ -393,7 +393,7 @@ $ObjectArray2* FormatData_uz::getContents() {
 			$of("arabext.NumberPatterns"_s),
 			$of($$new($StringArray, {
 				"#,##0.###"_s,
-				u"#,##0.00\u00a0\u00a4"_s,
+				u"#,##0.00 ¤"_s,
 				"#,##0%"_s,
 				""_s
 			}))
@@ -630,18 +630,18 @@ $ObjectArray2* FormatData_uz::getContents() {
 				""_s,
 				""_s,
 				""_s,
-				u"{one:0\u00a0ming other:0\u00a0ming}"_s,
-				u"{one:00\u00a0ming other:00\u00a0ming}"_s,
-				u"{one:000\u00a0ming other:000\u00a0ming}"_s,
-				u"{one:0\u00a0mln other:0\u00a0mln}"_s,
-				u"{one:00\u00a0mln other:00\u00a0mln}"_s,
-				u"{one:000\u00a0mln other:000\u00a0mln}"_s,
-				u"{one:0\u00a0mlrd other:0\u00a0mlrd}"_s,
-				u"{one:00\u00a0mlrd other:00\u00a0mlrd}"_s,
-				u"{one:000\u00a0mlrd other:000\u00a0mlrd}"_s,
-				u"{one:0\u00a0trln other:0\u00a0trln}"_s,
-				u"{one:00\u00a0trln other:00\u00a0trln}"_s,
-				u"{one:000\u00a0trln other:000\u00a0trln}"_s
+				u"{one:0 ming other:0 ming}"_s,
+				u"{one:00 ming other:00 ming}"_s,
+				u"{one:000 ming other:000 ming}"_s,
+				u"{one:0 mln other:0 mln}"_s,
+				u"{one:00 mln other:00 mln}"_s,
+				u"{one:000 mln other:000 mln}"_s,
+				u"{one:0 mlrd other:0 mlrd}"_s,
+				u"{one:00 mlrd other:00 mlrd}"_s,
+				u"{one:000 mlrd other:000 mlrd}"_s,
+				u"{one:0 trln other:0 trln}"_s,
+				u"{one:00 trln other:00 trln}"_s,
+				u"{one:000 trln other:000 trln}"_s
 			}))
 		}),
 		$$new($ObjectArray, {
@@ -729,9 +729,9 @@ $ObjectArray2* FormatData_uz::getContents() {
 			$of("latn.NumberPatterns"_s),
 			$of($$new($StringArray, {
 				"#,##0.###"_s,
-				u"#,##0.00\u00a0\u00a4"_s,
+				u"#,##0.00 ¤"_s,
 				"#,##0%"_s,
-				u"#,##0.00\u00a0\u00a4"_s
+				u"#,##0.00 ¤"_s
 			}))
 		}),
 		$$new($ObjectArray, {

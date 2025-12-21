@@ -43,7 +43,7 @@ void TimeZoneNames_sa::init$() {
 $ObjectArray2* TimeZoneNames_sa::getContents() {
 	$useLocalCurrentObjectStackCache();
 	$var($StringArray, GMT, $new($StringArray, {
-		u"\u0917\u094d\u0930\u0940\u0928\u0935\u093f\u091a \u092e\u0940\u0928 \u0938\u092e\u092f\u0903"_s,
+		u"ग्रीनविच मीन समयः"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -51,7 +51,7 @@ $ObjectArray2* TimeZoneNames_sa::getContents() {
 		""_s
 	}));
 	$var($StringArray, ETC_UTC, $new($StringArray, {
-		u"\u0938\u092e\u0928\u094d\u0935\u093f\u0924\u0903 \u0935\u0948\u0936\u094d\u0935\u093f\u0915 \u0938\u092e\u092f:"_s,
+		u"समन्वितः वैश्विक समय:"_s,
 		"UTC"_s,
 		""_s,
 		""_s,
@@ -59,67 +59,67 @@ $ObjectArray2* TimeZoneNames_sa::getContents() {
 		""_s
 	}));
 	$var($StringArray, Atlantic, $new($StringArray, {
-		u"\u0905\u091f\u0932\u093e\u0923\u094d\u091f\u093f\u0915 \u0906\u0926\u0930\u094d\u0936 \u0938\u092e\u092f\u0903"_s,
+		u"अटलाण्टिक आदर्श समयः"_s,
 		""_s,
-		u"\u0905\u091f\u0932\u093e\u0923\u094d\u091f\u093f\u0915 \u0905\u092f\u093e\u092e \u0938\u092e\u092f\u0903"_s,
+		u"अटलाण्टिक अयाम समयः"_s,
 		""_s,
-		u"\u0905\u091f\u0932\u093e\u0923\u094d\u091f\u093f\u0915 \u0938\u092e\u092f\u0903"_s,
+		u"अटलाण्टिक समयः"_s,
 		""_s
 	}));
 	$var($StringArray, Europe_Central, $new($StringArray, {
-		u"\u092e\u0927\u094d\u092f \u092f\u0942\u0930\u094b\u092a\u0940\u092f \u0906\u0926\u0930\u094d\u0936 \u0938\u092e\u092f\u0903"_s,
+		u"मध्य यूरोपीय आदर्श समयः"_s,
 		""_s,
-		u"\u092e\u0927\u094d\u092f \u092f\u0942\u0930\u094b\u092a\u0940\u092f \u0917\u094d\u0930\u0940\u0937\u094d\u092e \u0938\u092e\u092f\u0903"_s,
+		u"मध्य यूरोपीय ग्रीष्म समयः"_s,
 		""_s,
-		u"\u092e\u0927\u094d\u092f \u092f\u0942\u0930\u094b\u092a\u0940\u092f \u0938\u092e\u092f\u0903"_s,
+		u"मध्य यूरोपीय समयः"_s,
 		""_s
 	}));
 	$var($StringArray, Europe_Eastern, $new($StringArray, {
-		u"\u092a\u094c\u0930\u094d\u0935 \u092f\u0942\u0930\u094b\u092a\u0940\u092f \u0906\u0926\u0930\u094d\u0936 \u0938\u092e\u092f\u0903"_s,
+		u"पौर्व यूरोपीय आदर्श समयः"_s,
 		""_s,
-		u"\u092a\u094c\u0930\u094d\u0935 \u092f\u0942\u0930\u094b\u092a\u0940\u092f \u0917\u094d\u0930\u0940\u0937\u094d\u092e \u0938\u092e\u092f\u0903"_s,
+		u"पौर्व यूरोपीय ग्रीष्म समयः"_s,
 		""_s,
-		u"\u092a\u094c\u0930\u094d\u0935 \u092f\u0942\u0930\u094b\u092a\u0940\u092f \u0938\u092e\u092f\u0903"_s,
+		u"पौर्व यूरोपीय समयः"_s,
 		""_s
 	}));
 	$var($StringArray, Europe_Western, $new($StringArray, {
-		u"\u092a\u093e\u0936\u094d\u091a\u093e\u0924\u094d\u092f \u092f\u0942\u0930\u094b\u092a\u0940\u092f \u0906\u0926\u0930\u094d\u0936 \u0938\u092e\u092f\u0903"_s,
+		u"पाश्चात्य यूरोपीय आदर्श समयः"_s,
 		""_s,
-		u"\u092a\u093e\u0936\u094d\u091a\u093e\u0924\u094d\u092f \u092f\u0942\u0930\u094b\u092a\u0940\u092f \u0917\u094d\u0930\u0940\u0937\u094d\u092e \u0938\u092e\u092f\u0903"_s,
+		u"पाश्चात्य यूरोपीय ग्रीष्म समयः"_s,
 		""_s,
-		u"\u092a\u093e\u0936\u094d\u091a\u093e\u0924\u094d\u092f \u092f\u0942\u0930\u094b\u092a\u0940\u092f \u0938\u092e\u092f\u0903"_s,
+		u"पाश्चात्य यूरोपीय समयः"_s,
 		""_s
 	}));
 	$var($StringArray, America_Central, $new($StringArray, {
-		u"\u0909\u0924\u094d\u0924\u0930 \u0905\u092e\u0947\u0930\u093f\u0915\u093e: \u092e\u0927\u094d\u092f \u0906\u0926\u0930\u094d\u0936 \u0938\u092e\u092f\u0903"_s,
+		u"उत्तर अमेरिका: मध्य आदर्श समयः"_s,
 		""_s,
-		u"\u0909\u0924\u094d\u0924\u0930 \u0905\u092e\u0947\u0930\u093f\u0915\u093e: \u092e\u0927\u094d\u092f \u0905\u092f\u093e\u092e \u0938\u092e\u092f\u0903"_s,
+		u"उत्तर अमेरिका: मध्य अयाम समयः"_s,
 		""_s,
-		u"\u0909\u0924\u094d\u0924\u0930 \u0905\u092e\u0947\u0930\u093f\u0915\u093e: \u092e\u0927\u094d\u092f \u0938\u092e\u092f\u0903"_s,
+		u"उत्तर अमेरिका: मध्य समयः"_s,
 		""_s
 	}));
 	$var($StringArray, America_Eastern, $new($StringArray, {
-		u"\u0909\u0924\u094d\u0924\u0930 \u0905\u092e\u0947\u0930\u093f\u0915\u093e: \u092a\u094c\u0930\u094d\u0935 \u0906\u0926\u0930\u094d\u0936 \u0938\u092e\u092f\u0903"_s,
+		u"उत्तर अमेरिका: पौर्व आदर्श समयः"_s,
 		""_s,
-		u"\u0909\u0924\u094d\u0924\u0930 \u0905\u092e\u0947\u0930\u093f\u0915\u093e: \u092a\u094c\u0930\u094d\u0935 \u0905\u092f\u093e\u092e \u0938\u092e\u092f:"_s,
+		u"उत्तर अमेरिका: पौर्व अयाम समय:"_s,
 		""_s,
-		u"\u0909\u0924\u094d\u0924\u0930 \u0905\u092e\u0947\u0930\u093f\u0915\u093e: \u092a\u094c\u0930\u094d\u0935 \u0938\u092e\u092f\u0903"_s,
+		u"उत्तर अमेरिका: पौर्व समयः"_s,
 		""_s
 	}));
 	$var($StringArray, America_Pacific, $new($StringArray, {
-		u"\u0909\u0924\u094d\u0924\u0930 \u0905\u092e\u0947\u0930\u093f\u0915\u093e: \u0938\u0928\u094d\u0927\u093f\u092a\u094d\u0930\u093f\u092f \u0906\u0926\u0930\u094d\u0936 \u0938\u092e\u092f\u0903"_s,
+		u"उत्तर अमेरिका: सन्धिप्रिय आदर्श समयः"_s,
 		""_s,
-		u"\u0909\u0924\u094d\u0924\u0930 \u0905\u092e\u0947\u0930\u093f\u0915\u093e: \u0938\u0928\u094d\u0927\u093f\u092a\u094d\u0930\u093f\u092f \u0905\u092f\u093e\u092e \u0938\u092e\u092f\u0903"_s,
+		u"उत्तर अमेरिका: सन्धिप्रिय अयाम समयः"_s,
 		""_s,
-		u"\u0909\u0924\u094d\u0924\u0930 \u0905\u092e\u0947\u0930\u093f\u0915\u093e: \u0938\u0928\u094d\u0927\u093f\u092a\u094d\u0930\u093f\u092f \u0938\u092e\u092f\u0903"_s,
+		u"उत्तर अमेरिका: सन्धिप्रिय समयः"_s,
 		""_s
 	}));
 	$var($StringArray, America_Mountain, $new($StringArray, {
-		u"\u0909\u0924\u094d\u0924\u0930 \u0905\u092e\u0947\u0930\u093f\u0915\u093e: \u0936\u0948\u0932 \u0906\u0926\u0930\u094d\u0936 \u0938\u092e\u092f\u0903"_s,
+		u"उत्तर अमेरिका: शैल आदर्श समयः"_s,
 		""_s,
-		u"\u0909\u0924\u094d\u0924\u0930 \u0905\u092e\u0947\u0930\u093f\u0915\u093e: \u0936\u0948\u0932 \u0905\u092f\u093e\u092e \u0938\u092e\u092f\u0903"_s,
+		u"उत्तर अमेरिका: शैल अयाम समयः"_s,
 		""_s,
-		u"\u0909\u0924\u094d\u0924\u0930 \u0905\u092e\u0947\u0930\u093f\u0915\u093e: \u0936\u0948\u0932 \u0938\u092e\u092f\u0903"_s,
+		u"उत्तर अमेरिका: शैल समयः"_s,
 		""_s
 	}));
 	$var($ObjectArray2, data, $new($ObjectArray2, {
@@ -929,7 +929,7 @@ $ObjectArray2* TimeZoneNames_sa::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Etc/Unknown"_s),
-			$of(u"\u0905\u091c\u094d\u091e\u093e\u0924 \u0928\u0917\u0930\u0940"_s)
+			$of(u"अज्ञात नगरी"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("America/North_Dakota/New_Salem"_s),

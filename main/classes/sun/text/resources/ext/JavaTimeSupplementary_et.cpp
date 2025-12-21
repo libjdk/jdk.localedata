@@ -66,13 +66,13 @@ $ObjectArray2* JavaTimeSupplementary_et::getContents() {
 		"L"_s
 	}));
 	$var($StringArray, sharedDayNames, $new($StringArray, {
-		u"p\u00fchap\u00e4ev"_s,
-		u"esmasp\u00e4ev"_s,
-		u"teisip\u00e4ev"_s,
-		u"kolmap\u00e4ev"_s,
-		u"neljap\u00e4ev"_s,
+		u"pühapäev"_s,
+		u"esmaspäev"_s,
+		u"teisipäev"_s,
+		u"kolmapäev"_s,
+		u"neljapäev"_s,
 		"reede"_s,
-		u"laup\u00e4ev"_s
+		u"laupäev"_s
 	}));
 	$var($StringArray, sharedTimePatterns, $new($StringArray, {
 		"H:mm.ss zzzz"_s,
@@ -129,7 +129,7 @@ $ObjectArray2* JavaTimeSupplementary_et::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.dayperiod"_s),
-			$of(u"enne/p\u00e4rast l\u00f5unat"_s)
+			$of(u"enne/pärast lõunat"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("field.era"_s),
@@ -153,11 +153,11 @@ $ObjectArray2* JavaTimeSupplementary_et::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.week"_s),
-			$of(u"n\u00e4dal"_s)
+			$of(u"nädal"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("field.weekday"_s),
-			$of(u"n\u00e4dalap\u00e4ev"_s)
+			$of(u"nädalapäev"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("field.year"_s),
@@ -165,7 +165,7 @@ $ObjectArray2* JavaTimeSupplementary_et::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.zone"_s),
-			$of(u"ajav\u00f6\u00f6nd"_s)
+			$of(u"ajavöönd"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("islamic.AmPmMarkers"_s),
@@ -222,7 +222,7 @@ $ObjectArray2* JavaTimeSupplementary_et::getContents() {
 			$of("java.time.long.Eras"_s),
 			$of($$new($StringArray, {
 				"enne Kristust"_s,
-				u"p\u00e4rast Kristust"_s
+				u"pärast Kristust"_s
 			}))
 		}),
 		$$new($ObjectArray, {
@@ -257,7 +257,7 @@ $ObjectArray2* JavaTimeSupplementary_et::getContents() {
 			$of($$new($StringArray, {
 				"jaan"_s,
 				"veebr"_s,
-				u"m\u00e4rts"_s,
+				u"märts"_s,
 				"apr"_s,
 				"mai"_s,
 				"juuni"_s,
@@ -275,7 +275,7 @@ $ObjectArray2* JavaTimeSupplementary_et::getContents() {
 			$of($$new($StringArray, {
 				"jaanuar"_s,
 				"veebruar"_s,
-				u"m\u00e4rts"_s,
+				u"märts"_s,
 				"aprill"_s,
 				"mai"_s,
 				"juuni"_s,
@@ -324,7 +324,7 @@ $ObjectArray2* JavaTimeSupplementary_et::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.hourFormat"_s),
-			$of(u"+HH:mm;\u2212HH:mm"_s)
+			$of(u"+HH:mm;−HH:mm"_s)
 		})
 	});
 }

@@ -50,11 +50,11 @@ $ObjectArray2* CurrencyNames_de_CH::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("byr"_s),
-			$of(u"Weissrussischer Rubel (2000\u20132016)"_s)
+			$of(u"Weissrussischer Rubel (2000–2016)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("stn"_s),
-			$of(u"S\u00e3o-tom\u00e9ischer Dobra (2018)"_s)
+			$of(u"São-toméischer Dobra (2018)"_s)
 		})
 	}));
 	return data;

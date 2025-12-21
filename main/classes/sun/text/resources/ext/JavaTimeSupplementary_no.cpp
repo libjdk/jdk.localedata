@@ -67,22 +67,22 @@ $ObjectArray2* JavaTimeSupplementary_no::getContents() {
 		"d.M. y GGGG"_s
 	}));
 	$var($StringArray, sharedDayAbbreviations, $new($StringArray, {
-		u"s\u00f8n."_s,
+		u"søn."_s,
 		"man."_s,
 		"tir."_s,
 		"ons."_s,
 		"tor."_s,
 		"fre."_s,
-		u"l\u00f8r."_s
+		u"lør."_s
 	}));
 	$var($StringArray, sharedDayNames, $new($StringArray, {
-		u"s\u00f8ndag"_s,
+		u"søndag"_s,
 		"mandag"_s,
 		"tirsdag"_s,
 		"onsdag"_s,
 		"torsdag"_s,
 		"fredag"_s,
-		u"l\u00f8rdag"_s
+		u"lørdag"_s
 	}));
 	$var($StringArray, sharedDayNarrows, $new($StringArray, {
 		"S"_s,
@@ -176,7 +176,7 @@ $ObjectArray2* JavaTimeSupplementary_no::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.month"_s),
-			$of(u"m\u00e5ned"_s)
+			$of(u"måned"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("field.second"_s),
@@ -192,7 +192,7 @@ $ObjectArray2* JavaTimeSupplementary_no::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.year"_s),
-			$of(u"\u00e5r"_s)
+			$of(u"år"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("field.zone"_s),
@@ -231,8 +231,8 @@ $ObjectArray2* JavaTimeSupplementary_no::getContents() {
 				"sha."_s,
 				"ram."_s,
 				"shaw."_s,
-				u"dhu\u02bbl-q."_s,
-				u"dhu\u02bbl-h."_s,
+				u"dhuʻl-q."_s,
+				u"dhuʻl-h."_s,
 				""_s
 			}))
 		}),
@@ -241,16 +241,16 @@ $ObjectArray2* JavaTimeSupplementary_no::getContents() {
 			$of($$new($StringArray, {
 				"muharram"_s,
 				"safar"_s,
-				u"rabi\u02bb I"_s,
-				u"rabi\u02bb II"_s,
+				u"rabiʻ I"_s,
+				u"rabiʻ II"_s,
 				"jumada I"_s,
 				"jumada II"_s,
 				"rajab"_s,
-				u"sha\u02bbban"_s,
+				u"shaʻban"_s,
 				"ramadan"_s,
 				"shawwal"_s,
-				u"dhu\u02bbl-qi\u02bbdah"_s,
-				u"dhu\u02bbl-hijjah"_s,
+				u"dhuʻl-qiʻdah"_s,
+				u"dhuʻl-hijjah"_s,
 				""_s
 			}))
 		}),
@@ -307,8 +307,8 @@ $ObjectArray2* JavaTimeSupplementary_no::getContents() {
 			$of($$new($StringArray, {
 				"etter Kristus"_s,
 				"Meiji"_s,
-				u"Taish\u014d"_s,
-				u"Sh\u014dwa"_s,
+				u"Taishō"_s,
+				u"Shōwa"_s,
 				"Heisei"_s,
 				"Reiwa"_s
 			}))
@@ -327,7 +327,7 @@ $ObjectArray2* JavaTimeSupplementary_no::getContents() {
 		$$new($ObjectArray, {
 			$of("java.time.long.Eras"_s),
 			$of($$new($StringArray, {
-				u"f\u00f8r Kristus"_s,
+				u"før Kristus"_s,
 				"etter Kristus"_s
 			}))
 		}),

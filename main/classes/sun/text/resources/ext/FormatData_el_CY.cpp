@@ -42,40 +42,40 @@ $ObjectArray2* FormatData_el_CY::getContents() {
 		$$new($ObjectArray, {
 			$of("MonthNames"_s),
 			$of($$new($StringArray, {
-				u"\u0399\u03b1\u03bd\u03bf\u03c5\u03ac\u03c1\u03b9\u03bf\u03c2"_s,
-				u"\u03a6\u03b5\u03b2\u03c1\u03bf\u03c5\u03ac\u03c1\u03b9\u03bf\u03c2"_s,
-				u"\u039c\u03ac\u03c1\u03c4\u03b9\u03bf\u03c2"_s,
-				u"\u0391\u03c0\u03c1\u03af\u03bb\u03b9\u03bf\u03c2"_s,
-				u"\u039c\u03ac\u03b9\u03bf\u03c2"_s,
-				u"\u0399\u03bf\u03cd\u03bd\u03b9\u03bf\u03c2"_s,
-				u"\u0399\u03bf\u03cd\u03bb\u03b9\u03bf\u03c2"_s,
-				u"\u0391\u03cd\u03b3\u03bf\u03c5\u03c3\u03c4\u03bf\u03c2"_s,
-				u"\u03a3\u03b5\u03c0\u03c4\u03ad\u03bc\u03b2\u03c1\u03b9\u03bf\u03c2"_s,
-				u"\u039f\u03ba\u03c4\u03ce\u03b2\u03c1\u03b9\u03bf\u03c2"_s,
-				u"\u039d\u03bf\u03ad\u03bc\u03b2\u03c1\u03b9\u03bf\u03c2"_s,
-				u"\u0394\u03b5\u03ba\u03ad\u03bc\u03b2\u03c1\u03b9\u03bf\u03c2"_s,
+				u"Ιανουάριος"_s,
+				u"Φεβρουάριος"_s,
+				u"Μάρτιος"_s,
+				u"Απρίλιος"_s,
+				u"Μάιος"_s,
+				u"Ιούνιος"_s,
+				u"Ιούλιος"_s,
+				u"Αύγουστος"_s,
+				u"Σεπτέμβριος"_s,
+				u"Οκτώβριος"_s,
+				u"Νοέμβριος"_s,
+				u"Δεκέμβριος"_s,
 				""_s
 			}))
 		}),
 		$$new($ObjectArray, {
 			$of("AmPmMarkers"_s),
 			$of($$new($StringArray, {
-				u"\u03a0\u039c"_s,
-				u"\u039c\u039c"_s
+				u"ΠΜ"_s,
+				u"ΜΜ"_s
 			}))
 		}),
 		$$new($ObjectArray, {
 			$of("Eras"_s),
 			$of($$new($StringArray, {
-				u"\u03c0.\u03a7."_s,
-				u"\u03bc.\u03a7."_s
+				u"π.Χ."_s,
+				u"μ.Χ."_s
 			}))
 		}),
 		$$new($ObjectArray, {
 			$of("NumberPatterns"_s),
 			$of($$new($StringArray, {
 				"#,##0.###"_s,
-				u"\u00a4#,##0.00"_s,
+				u"¤#,##0.00"_s,
 				"#,##0%"_s
 			}))
 		}),
@@ -90,8 +90,8 @@ $ObjectArray2* FormatData_el_CY::getContents() {
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
+				u"‰"_s,
+				u"∞"_s,
 				"NaN"_s
 			}))
 		}),

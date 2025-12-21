@@ -42,41 +42,41 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 	$var($String, metaValue_TK, "Tokelau"_s);
 	$var($String, metaValue_TV, "Tuvalu"_s);
 	$var($String, metaValue_WS, "Samoa"_s);
-	$var($String, metaValue_ar, u"arab\u0173"_s);
-	$var($String, metaValue_bn, u"bengal\u0173"_s);
-	$var($String, metaValue_bo, u"tibetie\u010di\u0173"_s);
-	$var($String, metaValue_el, u"graik\u0173"_s);
-	$var($String, metaValue_gu, u"gud\u017earat\u0173"_s);
-	$var($String, metaValue_he, u"hebraj\u0173"_s);
-	$var($String, metaValue_hy, u"arm\u0117n\u0173"_s);
-	$var($String, metaValue_ja, u"japon\u0173"_s);
-	$var($String, metaValue_jv, u"javie\u010di\u0173"_s);
-	$var($String, metaValue_ka, u"gruzin\u0173"_s);
-	$var($String, metaValue_km, u"khmer\u0173"_s);
-	$var($String, metaValue_kn, u"kanad\u0173"_s);
-	$var($String, metaValue_ko, u"kor\u0117jie\u010di\u0173"_s);
-	$var($String, metaValue_la, u"lotyn\u0173"_s);
-	$var($String, metaValue_lo, u"laosie\u010di\u0173"_s);
-	$var($String, metaValue_ml, u"malajali\u0173"_s);
-	$var($String, metaValue_mn, u"mongol\u0173"_s);
-	$var($String, metaValue_my, u"birmie\u010di\u0173"_s);
-	$var($String, metaValue_si, u"sinhal\u0173"_s);
-	$var($String, metaValue_su, u"sund\u0173"_s);
-	$var($String, metaValue_ta, u"tamil\u0173"_s);
-	$var($String, metaValue_te, u"telug\u0173"_s);
-	$var($String, metaValue_th, u"taj\u0173"_s);
-	$var($String, metaValue_tl, u"tagalog\u0173"_s);
-	$var($String, metaValue_bug, u"buginez\u0173"_s);
-	$var($String, metaValue_chr, u"\u010deroki\u0173"_s);
-	$var($String, metaValue_cop, u"kopt\u0173"_s);
-	$var($String, metaValue_got, u"got\u0173"_s);
+	$var($String, metaValue_ar, u"arabų"_s);
+	$var($String, metaValue_bn, u"bengalų"_s);
+	$var($String, metaValue_bo, u"tibetiečių"_s);
+	$var($String, metaValue_el, u"graikų"_s);
+	$var($String, metaValue_gu, u"gudžaratų"_s);
+	$var($String, metaValue_he, u"hebrajų"_s);
+	$var($String, metaValue_hy, u"armėnų"_s);
+	$var($String, metaValue_ja, u"japonų"_s);
+	$var($String, metaValue_jv, u"javiečių"_s);
+	$var($String, metaValue_ka, u"gruzinų"_s);
+	$var($String, metaValue_km, u"khmerų"_s);
+	$var($String, metaValue_kn, u"kanadų"_s);
+	$var($String, metaValue_ko, u"korėjiečių"_s);
+	$var($String, metaValue_la, u"lotynų"_s);
+	$var($String, metaValue_lo, u"laosiečių"_s);
+	$var($String, metaValue_ml, u"malajalių"_s);
+	$var($String, metaValue_mn, u"mongolų"_s);
+	$var($String, metaValue_my, u"birmiečių"_s);
+	$var($String, metaValue_si, u"sinhalų"_s);
+	$var($String, metaValue_su, u"sundų"_s);
+	$var($String, metaValue_ta, u"tamilų"_s);
+	$var($String, metaValue_te, u"telugų"_s);
+	$var($String, metaValue_th, u"tajų"_s);
+	$var($String, metaValue_tl, u"tagalogų"_s);
+	$var($String, metaValue_bug, u"buginezų"_s);
+	$var($String, metaValue_chr, u"čerokių"_s);
+	$var($String, metaValue_cop, u"koptų"_s);
+	$var($String, metaValue_got, u"gotų"_s);
 	$var($String, metaValue_nqo, "enko"_s);
-	$var($String, metaValue_syr, u"sir\u0173"_s);
+	$var($String, metaValue_syr, u"sirų"_s);
 	$var($String, metaValue_vai, "vai"_s);
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("ksh"_s),
-			$of(u"kologn\u0173"_s)
+			$of(u"kolognų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Ogam"_s),
@@ -84,15 +84,15 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("mwl"_s),
-			$of(u"mirandez\u0173"_s)
+			$of(u"mirandezų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Zsym"_s),
-			$of(u"simboli\u0173"_s)
+			$of(u"simbolių"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cch"_s),
-			$of(u"atsam\u0173"_s)
+			$of(u"atsamų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mwr"_s),
@@ -104,7 +104,7 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("egl"_s),
-			$of(u"ital\u0173 kalbos Emilijos tarm\u0117"_s)
+			$of(u"italų kalbos Emilijos tarmė"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mwv"_s),
@@ -120,23 +120,23 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("%%NJIVA"_s),
-			$of(u"Gniva / Njiva tarm\u0117"_s)
+			$of(u"Gniva / Njiva tarmė"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xmf"_s),
-			$of(u"megrel\u0173"_s)
+			$of(u"megrelų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ccp"_s),
-			$of(u"\u010cakma"_s)
+			$of(u"Čakma"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("egy"_s),
-			$of(u"senov\u0117s egiptie\u010di\u0173"_s)
+			$of(u"senovės egiptiečių"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("raj"_s),
-			$of(u"Rad\u017eastano"_s)
+			$of(u"Radžastano"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Phag"_s),
@@ -160,11 +160,11 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("AC"_s),
-			$of(u"Dangun \u017dengimo sala"_s)
+			$of(u"Dangun Žengimo sala"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("rar"_s),
-			$of(u"rarotongan\u0173"_s)
+			$of(u"rarotonganų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("tet"_s),
@@ -176,11 +176,11 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("AE"_s),
-			$of(u"Jungtiniai Arab\u0173 Emyratai"_s)
+			$of(u"Jungtiniai Arabų Emyratai"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("nl_BE"_s),
-			$of(u"flamand\u0173"_s)
+			$of(u"flamandų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("AF"_s),
@@ -212,7 +212,7 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("AM"_s),
-			$of(u"Arm\u0117nija"_s)
+			$of(u"Armėnija"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Teng"_s),
@@ -232,7 +232,7 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("Prti"_s),
-			$of(u"ra\u0161ytiniai part\u0173"_s)
+			$of(u"rašytiniai partų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("AS"_s),
@@ -252,23 +252,23 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("en_US"_s),
-			$of(u"Jungtini\u0173 Valstij\u0173 angl\u0173"_s)
+			$of(u"Jungtinių Valstijų anglų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("AX"_s),
-			$of(u"Aland\u0173 Salos"_s)
+			$of(u"Alandų Salos"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mye"_s),
-			$of(u"mjen\u0173"_s)
+			$of(u"mjenų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("AZ"_s),
-			$of(u"Azerbaid\u017eanas"_s)
+			$of(u"Azerbaidžanas"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("%%AREVELA"_s),
-			$of(u"Ryt\u0173 arm\u0117nai"_s)
+			$of(u"Rytų armėnai"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("BA"_s),
@@ -280,15 +280,15 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ceb"_s),
-			$of(u"sebuan\u0173"_s)
+			$of(u"sebuanų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("BD"_s),
-			$of(u"Banglade\u0161as"_s)
+			$of(u"Bangladešas"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kum"_s),
-			$of(u"kumik\u0173"_s)
+			$of(u"kumikų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("BE"_s),
@@ -296,7 +296,7 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("gmh"_s),
-			$of(u"Vidurio Auk\u0161tosios Vokietijos"_s)
+			$of(u"Vidurio Aukštosios Vokietijos"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("BF"_s),
@@ -332,11 +332,11 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("myv"_s),
-			$of(u"erzyj\u0173"_s)
+			$of(u"erzyjų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("BN"_s),
-			$of(u"Brun\u0117jus"_s)
+			$of(u"Brunėjus"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("BO"_s),
@@ -344,7 +344,7 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("BQ"_s),
-			$of(u"Karib\u0173 Nyderlandai"_s)
+			$of(u"Karibų Nyderlandai"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("BR"_s),
@@ -356,7 +356,7 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("xog"_s),
-			$of(u"sog\u0173"_s)
+			$of(u"sogų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("BT"_s),
@@ -364,7 +364,7 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("BV"_s),
-			$of(u"Buv\u0117 Sala"_s)
+			$of(u"Buvė Sala"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("BW"_s),
@@ -384,11 +384,11 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("type.ca.persian"_s),
-			$of(u"pers\u0173 kalendorius"_s)
+			$of(u"persų kalendorius"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.hebr"_s),
-			$of(u"hebraj\u0173 skaitmenys"_s)
+			$of(u"hebrajų skaitmenys"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("CA"_s),
@@ -396,19 +396,19 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("CC"_s),
-			$of(u"Kokos\u0173 (Kilingo) Salos"_s)
+			$of(u"Kokosų (Kilingo) Salos"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mzn"_s),
-			$of(u"mazenderani\u0173"_s)
+			$of(u"mazenderanių"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("CD"_s),
-			$of(u"Kongas-Kin\u0161asa"_s)
+			$of(u"Kongas-Kinšasa"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("CF"_s),
-			$of(u"Centrin\u0117s Afrikos Respublika"_s)
+			$of(u"Centrinės Afrikos Respublika"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("CG"_s),
@@ -416,7 +416,7 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("CH"_s),
-			$of(u"\u0160veicarija"_s)
+			$of(u"Šveicarija"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("CI"_s),
@@ -428,7 +428,7 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("CL"_s),
-			$of(u"\u010cil\u0117"_s)
+			$of(u"Čilė"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Kthi"_s),
@@ -436,7 +436,7 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("CM"_s),
-			$of(u"Kamer\u016bnas"_s)
+			$of(u"Kamerūnas"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("CN"_s),
@@ -460,7 +460,7 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("CV"_s),
-			$of(u"\u017daliasis Ky\u0161ulys"_s)
+			$of(u"Žaliasis Kyšulys"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("CW"_s),
@@ -468,7 +468,7 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("CX"_s),
-			$of(u"Kal\u0117d\u0173 Sala"_s)
+			$of(u"Kalėdų Sala"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("CY"_s),
@@ -480,7 +480,7 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("CZ"_s),
-			$of(u"\u010cekija"_s)
+			$of(u"Čekija"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("eka"_s),
@@ -492,7 +492,7 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("vls"_s),
-			$of(u"vakar\u0173 flamand\u0173"_s)
+			$of(u"vakarų flamandų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("DE"_s),
@@ -500,15 +500,15 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("goh"_s),
-			$of(u"senoji Auk\u0161tosios Vokietijos"_s)
+			$of(u"senoji Aukštosios Vokietijos"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ace"_s),
-			$of(u"a\u010dinez\u0173"_s)
+			$of(u"ačinezų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cgg"_s),
-			$of(u"\u010dig\u0173"_s)
+			$of(u"čigų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("DG"_s),
@@ -516,7 +516,7 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("gom"_s),
-			$of(u"Goa konkani\u0173"_s)
+			$of(u"Goa konkanių"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.deva"_s),
@@ -524,7 +524,7 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("DJ"_s),
-			$of(u"D\u017eibutis"_s)
+			$of(u"Džibutis"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("DK"_s),
@@ -532,7 +532,7 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ach"_s),
-			$of(u"akoli\u0173"_s)
+			$of(u"akolių"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gon"_s),
@@ -552,7 +552,7 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.armnlow"_s),
-			$of(u"arm\u0117n\u0173 skaitmenys ma\u017eosiomis raid\u0117mis"_s)
+			$of(u"armėnų skaitmenys mažosiomis raidėmis"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("DO"_s),
@@ -568,7 +568,7 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("vmf"_s),
-			$of(u"pagrindin\u0117 frankon\u0173"_s)
+			$of(u"pagrindinė frankonų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Mtei"_s),
@@ -588,19 +588,19 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("DZ"_s),
-			$of(u"Al\u017eyras"_s)
+			$of(u"Alžyras"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pag"_s),
-			$of(u"pangasinan\u0173"_s)
+			$of(u"pangasinanų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.d0.hwidth"_s),
-			$of(u"vidutinio plo\u010dio"_s)
+			$of(u"vidutinio pločio"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pal"_s),
-			$of(u"vidurin\u0117 pers\u0173 kalba"_s)
+			$of(u"vidurinė persų kalba"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("EA"_s),
@@ -608,11 +608,11 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("chb"_s),
-			$of(u"\u010dib\u010d\u0173"_s)
+			$of(u"čibčų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pam"_s),
-			$of(u"pampang\u0173"_s)
+			$of(u"pampangų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("EC"_s),
@@ -624,7 +624,7 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ada"_s),
-			$of(u"adangm\u0173"_s)
+			$of(u"adangmų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("EE"_s),
@@ -640,35 +640,35 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("EH"_s),
-			$of(u"Vakar\u0173 Sachara"_s)
+			$of(u"Vakarų Sachara"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("chg"_s),
-			$of(u"\u010dagat\u0173"_s)
+			$of(u"čagatų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pau"_s),
-			$of(u"palaulie\u010di\u0173"_s)
+			$of(u"palauliečių"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("chk"_s),
-			$of(u"\u010dukes\u0173"_s)
+			$of(u"čukesų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("chn"_s),
-			$of(u"\u010dinuk \u017eargonas"_s)
+			$of(u"činuk žargonas"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("chm"_s),
-			$of(u"mari\u0173"_s)
+			$of(u"marių"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("chp"_s),
-			$of(u"\u010dipv\u0117j\u0173"_s)
+			$of(u"čipvėjų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cho"_s),
-			$of(u"\u010doktau"_s)
+			$of(u"čoktau"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("chr"_s),
@@ -676,7 +676,7 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ER"_s),
-			$of(u"Eritr\u0117ja"_s)
+			$of(u"Eritrėja"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ES"_s),
@@ -688,11 +688,11 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("EU"_s),
-			$of(u"Europos S\u0105junga"_s)
+			$of(u"Europos Sąjunga"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("elx"_s),
-			$of(u"elamit\u0173"_s)
+			$of(u"elamitų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.ca.gregorian"_s),
@@ -704,11 +704,11 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("chy"_s),
-			$of(u"\u010dajen\u0173"_s)
+			$of(u"čajenų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.gujr"_s),
-			$of(u"gud\u017earat\u0173 skaitmenys"_s)
+			$of(u"gudžaratų skaitmenys"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Inds"_s),
@@ -716,11 +716,11 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ady"_s),
-			$of(u"adyg\u0117j\u0173"_s)
+			$of(u"adygėjų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("aeb"_s),
-			$of(u"Tuniso arab\u0173"_s)
+			$of(u"Tuniso arabų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("FI"_s),
@@ -728,7 +728,7 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("FJ"_s),
-			$of(u"Fid\u017eis"_s)
+			$of(u"Fidžis"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("FK"_s),
@@ -740,11 +740,11 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("key.va"_s),
-			$of(u"Lokal\u0117s variantas"_s)
+			$of(u"Lokalės variantas"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("FO"_s),
-			$of(u"Farer\u0173 Salos"_s)
+			$of(u"Farerų Salos"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Taml"_s),
@@ -752,15 +752,15 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("FR"_s),
-			$of(u"Pranc\u016bzija"_s)
+			$of(u"Prancūzija"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Kpel"_s),
-			$of(u"Kpel\u0173"_s)
+			$of(u"Kpelų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pcd"_s),
-			$of(u"pikard\u0173"_s)
+			$of(u"pikardų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("tkl"_s),
@@ -772,15 +772,15 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("type.ca.indian"_s),
-			$of(u"nacionalinis ind\u0173 kalendorius"_s)
+			$of(u"nacionalinis indų kalendorius"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("rgn"_s),
-			$of(u"ital\u0173 kalbos Romanijos tarm\u0117"_s)
+			$of(u"italų kalbos Romanijos tarmė"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("grc"_s),
-			$of(u"senov\u0117s graik\u0173"_s)
+			$of(u"senovės graikų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("GA"_s),
@@ -788,7 +788,7 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("tkr"_s),
-			$of(u"tsakur\u0173"_s)
+			$of(u"tsakurų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("vot"_s),
@@ -796,11 +796,11 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("GB"_s),
-			$of(u"Jungtin\u0117 Karalyst\u0117"_s)
+			$of(u"Jungtinė Karalystė"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pcm"_s),
-			$of(u"Nigerijos pid\u017ein\u0173"_s)
+			$of(u"Nigerijos pidžinų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("GD"_s),
@@ -812,7 +812,7 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("GF"_s),
-			$of(u"Pranc\u016bzijos Gviana"_s)
+			$of(u"Prancūzijos Gviana"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("GG"_s),
@@ -848,7 +848,7 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("GN"_s),
-			$of(u"Gvin\u0117ja"_s)
+			$of(u"Gvinėja"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("GP"_s),
@@ -856,7 +856,7 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("GQ"_s),
-			$of(u"Pusiaujo Gvin\u0117ja"_s)
+			$of(u"Pusiaujo Gvinėja"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("GR"_s),
@@ -864,7 +864,7 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("GS"_s),
-			$of(u"Piet\u0173 D\u017eord\u017eija ir Piet\u0173 Sandvi\u010do salos"_s)
+			$of(u"Pietų Džordžija ir Pietų Sandvičo salos"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("GT"_s),
@@ -876,19 +876,19 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("pdc"_s),
-			$of(u"Pensilvanijos vokie\u010di\u0173"_s)
+			$of(u"Pensilvanijos vokiečių"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("GW"_s),
-			$of(u"Bisau Gvin\u0117ja"_s)
+			$of(u"Bisau Gvinėja"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("tli"_s),
-			$of(u"tlingit\u0173"_s)
+			$of(u"tlingitų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("tlh"_s),
-			$of(u"klingon\u0173"_s)
+			$of(u"klingonų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Talu"_s),
@@ -900,11 +900,11 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ckb"_s),
-			$of(u"sorani\u0173 kurd\u0173"_s)
+			$of(u"soranių kurdų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("zxx"_s),
-			$of(u"n\u0117ra kalbinio turinio"_s)
+			$of(u"nėra kalbinio turinio"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Jurc"_s),
@@ -912,15 +912,15 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("tly"_s),
-			$of(u"taly\u0161\u0173"_s)
+			$of(u"talyšų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pdt"_s),
-			$of(u"vokie\u010di\u0173 kalbos \u017eemai\u010di\u0173 tarm\u0117"_s)
+			$of(u"vokiečių kalbos žemaičių tarmė"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("de_AT"_s),
-			$of(u"Austrijos vokie\u010di\u0173"_s)
+			$of(u"Austrijos vokiečių"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Vaii"_s),
@@ -936,7 +936,7 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("HN"_s),
-			$of(u"Hond\u016bras"_s)
+			$of(u"Hondūras"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("HR"_s),
@@ -944,11 +944,11 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("agq"_s),
-			$of(u"aghem\u0173"_s)
+			$of(u"aghemų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gsw"_s),
-			$of(u"\u0160veicarijos vokie\u010di\u0173"_s)
+			$of(u"Šveicarijos vokiečių"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.ca.islamic-umalqura"_s),
@@ -964,19 +964,19 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("rif"_s),
-			$of(u"rif\u0173"_s)
+			$of(u"rifų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("tmh"_s),
-			$of(u"tama\u0161ek"_s)
+			$of(u"tamašek"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("IC"_s),
-			$of(u"Kanar\u0173 salos"_s)
+			$of(u"Kanarų salos"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("nan"_s),
-			$of(u"kin\u0173 kalbos piet\u0173 min\u0173 tarm\u0117"_s)
+			$of(u"kinų kalbos pietų minų tarmė"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ID"_s),
@@ -984,7 +984,7 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("peo"_s),
-			$of(u"senoji pers\u0173"_s)
+			$of(u"senoji persų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.kali"_s),
@@ -996,7 +996,7 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("nap"_s),
-			$of(u"neapolie\u010di\u0173"_s)
+			$of(u"neapoliečių"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("naq"_s),
@@ -1020,7 +1020,7 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("Nbat"_s),
-			$of(u"Nabat\u0117j\u0173"_s)
+			$of(u"Nabatėjų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("IM"_s),
@@ -1032,11 +1032,11 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("type.co.eor"_s),
-			$of(u"r\u016b\u0161iavimo tvarka daugiakalb\u0117s Europos dokument\u0173"_s)
+			$of(u"rūšiavimo tvarka daugiakalbės Europos dokumentų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("IO"_s),
-			$of(u"Indijos Vandenyno Brit\u0173 Sritis"_s)
+			$of(u"Indijos Vandenyno Britų Sritis"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("IQ"_s),
@@ -1060,7 +1060,7 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.thai"_s),
-			$of(u"taj\u0173 skaitmenys"_s)
+			$of(u"tajų skaitmenys"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("vro"_s),
@@ -1068,7 +1068,7 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("guc"_s),
-			$of(u"vaj\u0173"_s)
+			$of(u"vajų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("%%POSIX"_s),
@@ -1076,15 +1076,15 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.beng"_s),
-			$of(u"bengal\u0173 skaitmenys"_s)
+			$of(u"bengalų skaitmenys"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pfl"_s),
-			$of(u"vokie\u010di\u0173 kalbos Pfalco tarm\u0117"_s)
+			$of(u"vokiečių kalbos Pfalco tarmė"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("JE"_s),
-			$of(u"D\u017eersis"_s)
+			$of(u"Džersis"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.ca.islamic"_s),
@@ -1112,11 +1112,11 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("%%1606NICT"_s),
-			$of(u"1606 -\u0173j\u0173 met\u0173 pranc\u016bz\u0173 kalba"_s)
+			$of(u"1606 -ųjų metų prancūzų kalba"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ain"_s),
-			$of(u"ain\u0173"_s)
+			$of(u"ainų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Mend"_s),
@@ -1128,11 +1128,11 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("tog"_s),
-			$of(u"niasa tong\u0173"_s)
+			$of(u"niasa tongų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.knda"_s),
-			$of(u"kanad\u0173 skaitmenys"_s)
+			$of(u"kanadų skaitmenys"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Kali"_s),
@@ -1144,19 +1144,19 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("de_CH"_s),
-			$of(u"\u0160veicarijos auk\u0161tutin\u0117 vokie\u010di\u0173"_s)
+			$of(u"Šveicarijos aukštutinė vokiečių"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.co.phonetic"_s),
-			$of(u"Fonetin\u0117 rikiavimo tvarka"_s)
+			$of(u"Fonetinė rikiavimo tvarka"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("izh"_s),
-			$of(u"ingr\u0173"_s)
+			$of(u"ingrų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.ca.buddhist"_s),
-			$of(u"budist\u0173 kalendorius"_s)
+			$of(u"budistų kalendorius"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("KE"_s),
@@ -1164,7 +1164,7 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("419"_s),
-			$of(u"Lotyn\u0173 Amerika"_s)
+			$of(u"Lotynų Amerika"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("KG"_s),
@@ -1172,7 +1172,7 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("KH"_s),
-			$of(u"Kambod\u017ea"_s)
+			$of(u"Kambodža"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("KI"_s),
@@ -1192,27 +1192,27 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("Zinh"_s),
-			$of(u"paveld\u0117tas"_s)
+			$of(u"paveldėtas"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("fr_CA"_s),
-			$of(u"Kanados pranc\u016bz\u0173"_s)
+			$of(u"Kanados prancūzų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("KP"_s),
-			$of(u"\u0160iaur\u0117s Kor\u0117ja"_s)
+			$of(u"Šiaurės Korėja"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("KR"_s),
-			$of(u"Piet\u0173 Kor\u0117ja"_s)
+			$of(u"Pietų Korėja"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Plrd"_s),
-			$of(u"polard fonetin\u0117"_s)
+			$of(u"polard fonetinė"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("fr_CH"_s),
-			$of(u"\u0160veicarijos pranc\u016bz\u0173"_s)
+			$of(u"Šveicarijos prancūzų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("KW"_s),
@@ -1220,11 +1220,11 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("tpi"_s),
-			$of(u"Papua pid\u017ein\u0173"_s)
+			$of(u"Papua pidžinų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("KY"_s),
-			$of(u"Kaiman\u0173 Salos"_s)
+			$of(u"Kaimanų Salos"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("KZ"_s),
@@ -1248,31 +1248,31 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("phn"_s),
-			$of(u"finikie\u010di\u0173"_s)
+			$of(u"finikiečių"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Cyrs"_s),
-			$of(u"senoji ba\u017enytin\u0117 slav\u0173 kirilica"_s)
+			$of(u"senoji bažnytinė slavų kirilica"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gwi"_s),
-			$of(u"gvi\u010dino"_s)
+			$of(u"gvičino"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("nds"_s),
-			$of(u"\u017demutin\u0117s Vokietijos"_s)
+			$of(u"Žemutinės Vokietijos"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("LI"_s),
-			$of(u"Lichten\u0161teinas"_s)
+			$of(u"Lichtenšteinas"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("LK"_s),
-			$of(u"\u0160ri Lanka"_s)
+			$of(u"Šri Lanka"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("akk"_s),
-			$of(u"akadian\u0173"_s)
+			$of(u"akadianų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cop"_s),
@@ -1284,7 +1284,7 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("esu"_s),
-			$of(u"centrin\u0117s Aliaskos jupik\u0173"_s)
+			$of(u"centrinės Aliaskos jupikų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("LS"_s),
@@ -1328,7 +1328,7 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("akz"_s),
-			$of(u"alabamie\u010di\u0173"_s)
+			$of(u"alabamiečių"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lah"_s),
@@ -1336,7 +1336,7 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("Mahj"_s),
-			$of(u"Mahad\u017eani"_s)
+			$of(u"Mahadžani"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lag"_s),
@@ -1360,7 +1360,7 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("Nshu"_s),
-			$of(u"N\u00fcshu"_s)
+			$of(u"Nüshu"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ME"_s),
@@ -1384,15 +1384,15 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("MH"_s),
-			$of(u"Mar\u0161alo Salos"_s)
+			$of(u"Maršalo Salos"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ale"_s),
-			$of(u"aleut\u0173"_s)
+			$of(u"aleutų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("MK"_s),
-			$of(u"\u0160iaur\u0117s Makedonija"_s)
+			$of(u"Šiaurės Makedonija"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ML"_s),
@@ -1416,11 +1416,11 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("aln"_s),
-			$of(u"alban\u0173 kalbos geg\u0173 tarm\u0117"_s)
+			$of(u"albanų kalbos gegų tarmė"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("MP"_s),
-			$of(u"Marianos \u0160iaurin\u0117s Salos"_s)
+			$of(u"Marianos Šiaurinės Salos"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("MQ"_s),
@@ -1452,7 +1452,7 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("alt"_s),
-			$of(u"piet\u0173 Altajaus"_s)
+			$of(u"pietų Altajaus"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("MV"_s),
@@ -1468,7 +1468,7 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("type.ca.japanese"_s),
-			$of(u"japon\u0173 kalendorius"_s)
+			$of(u"japonų kalendorius"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("MY"_s),
@@ -1480,7 +1480,7 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("Phli"_s),
-			$of(u"ra\u0161ytiniai pahlavi"_s)
+			$of(u"rašytiniai pahlavi"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("NA"_s),
@@ -1488,15 +1488,15 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("202"_s),
-			$of(u"U\u017esachario Afrika"_s)
+			$of(u"Užsachario Afrika"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.ca.hebrew"_s),
-			$of(u"hebraj\u0173 kalendorius"_s)
+			$of(u"hebrajų kalendorius"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.co.dictionary"_s),
-			$of(u"\u017eodyno r\u016b\u0161iavimo tvarka"_s)
+			$of(u"žodyno rūšiavimo tvarka"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("NC"_s),
@@ -1512,7 +1512,7 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("%%UCRCOR"_s),
-			$of(u"Suvienodinta i\u0161taisyta ra\u0161yba"_s)
+			$of(u"Suvienodinta ištaisyta rašyba"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("NE"_s),
@@ -1560,15 +1560,15 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("tsd"_s),
-			$of(u"tsakon\u0173"_s)
+			$of(u"tsakonų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("NU"_s),
-			$of(u"Niuj\u0117"_s)
+			$of(u"Niujė"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Phnx"_s),
-			$of(u"foenik\u0173"_s)
+			$of(u"foenikų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("rof"_s),
@@ -1576,7 +1576,7 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("tsi"_s),
-			$of(u"tsim\u0161ian"_s)
+			$of(u"tsimšian"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("NZ"_s),
@@ -1584,11 +1584,11 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("Merc"_s),
-			$of(u"Merojit\u0173 rankra\u0161tinis"_s)
+			$of(u"Merojitų rankraštinis"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("rom"_s),
-			$of(u"rom\u0173"_s)
+			$of(u"romų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Mero"_s),
@@ -1596,11 +1596,11 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("crh"_s),
-			$of(u"Krymo turk\u0173"_s)
+			$of(u"Krymo turkų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ang"_s),
-			$of(u"senoji angl\u0173"_s)
+			$of(u"senoji anglų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("OM"_s),
@@ -1608,15 +1608,15 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("anp"_s),
-			$of(u"angik\u0173"_s)
+			$of(u"angikų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("crs"_s),
-			$of(u"Sei\u0161eli\u0173 kreol\u0173 ir pranc\u016bz\u0173"_s)
+			$of(u"Seišelių kreolų ir prancūzų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Xpeo"_s),
-			$of(u"senieji pers\u0173"_s)
+			$of(u"senieji persų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("PA"_s),
@@ -1624,15 +1624,15 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("type.ca.islamic-civil"_s),
-			$of(u"Islamo kalendorius (lentelinis, pilietin\u0117 era)"_s)
+			$of(u"Islamo kalendorius (lentelinis, pilietinė era)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("csb"_s),
-			$of(u"ka\u0161ub\u0173"_s)
+			$of(u"kašubų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("en_GB"_s),
-			$of(u"Did\u017eiosios Britanijos angl\u0173"_s)
+			$of(u"Didžiosios Britanijos anglų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("PE"_s),
@@ -1640,15 +1640,15 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ttt"_s),
-			$of(u"musulmon\u0173 tat\u0173"_s)
+			$of(u"musulmonų tatų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("PF"_s),
-			$of(u"Pranc\u016bzijos Polinezija"_s)
+			$of(u"Prancūzijos Polinezija"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("PG"_s),
-			$of(u"Papua Naujoji Gvin\u0117ja"_s)
+			$of(u"Papua Naujoji Gvinėja"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("PH"_s),
@@ -1684,7 +1684,7 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("Bali"_s),
-			$of(u"Balie\u010di\u0173"_s)
+			$of(u"Baliečių"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("PT"_s),
@@ -1700,7 +1700,7 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.greklow"_s),
-			$of(u"graik\u0173 skaitmenys ma\u017eosiomis raid\u0117mis"_s)
+			$of(u"graikų skaitmenys mažosiomis raidėmis"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("PY"_s),
@@ -1708,7 +1708,7 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("tum"_s),
-			$of(u"tumbuk\u0173"_s)
+			$of(u"tumbukų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Hebr"_s),
@@ -1720,31 +1720,31 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("%%SCOTLAND"_s),
-			$of(u"Normin\u0117 \u0161koti\u0161ka angl\u0173 kalba"_s)
+			$of(u"Norminė škotiška anglų kalba"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("jam"_s),
-			$of(u"Jamaikos kreol\u0173 angl\u0173"_s)
+			$of(u"Jamaikos kreolų anglų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pms"_s),
-			$of(u"ital\u0173 kalbos Pjemonto tarm\u0117"_s)
+			$of(u"italų kalbos Pjemonto tarmė"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("niu"_s),
-			$of(u"niujie\u010di\u0173"_s)
+			$of(u"niujiečių"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("QO"_s),
-			$of(u"Nuo\u0161ali Okeanija"_s)
+			$of(u"Nuošali Okeanija"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ext"_s),
-			$of(u"ispan\u0173 kalbos Ekstremad\u016bros tarm\u0117"_s)
+			$of(u"ispanų kalbos Ekstremadūros tarmė"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lez"_s),
-			$of(u"lezgin\u0173"_s)
+			$of(u"lezginų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("%%FONUPA"_s),
@@ -1776,7 +1776,7 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("003"_s),
-			$of(u"\u0160iaur\u0117s Amerika"_s)
+			$of(u"Šiaurės Amerika"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("RE"_s),
@@ -1784,11 +1784,11 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("005"_s),
-			$of(u"Piet\u0173 Amerika"_s)
+			$of(u"Pietų Amerika"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lfn"_s),
-			$of(u"naujoji frank\u0173 kalba"_s)
+			$of(u"naujoji frankų kalba"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("jbo"_s),
@@ -1832,7 +1832,7 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("Mani"_s),
-			$of(u"mani\u010d\u0173"_s)
+			$of(u"maničų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Ugar"_s),
@@ -1840,7 +1840,7 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("Khar"_s),
-			$of(u"karo\u0161ti"_s)
+			$of(u"karošti"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("SA"_s),
@@ -1848,11 +1848,11 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("pon"_s),
-			$of(u"Ponap\u0117s"_s)
+			$of(u"Ponapės"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Mand"_s),
-			$of(u"mand\u0117j\u0173"_s)
+			$of(u"mandėjų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("SB"_s),
@@ -1860,15 +1860,15 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("twq"_s),
-			$of(u"tasavak\u0173"_s)
+			$of(u"tasavakų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("011"_s),
-			$of(u"Vakar\u0173 Afrika"_s)
+			$of(u"Vakarų Afrika"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("SC"_s),
-			$of(u"Sei\u0161eliai"_s)
+			$of(u"Seišeliai"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("SD"_s),
@@ -1876,19 +1876,19 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("013"_s),
-			$of(u"Centrin\u0117 Amerika"_s)
+			$of(u"Centrinė Amerika"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("SE"_s),
-			$of(u"\u0160vedija"_s)
+			$of(u"Švedija"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("014"_s),
-			$of(u"Ryt\u0173 Afrika"_s)
+			$of(u"Rytų Afrika"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("arc"_s),
-			$of(u"aramaik\u0173"_s)
+			$of(u"aramaikų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Loma"_s),
@@ -1896,19 +1896,19 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("015"_s),
-			$of(u"\u0160iaur\u0117s Afrika"_s)
+			$of(u"Šiaurės Afrika"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("SG"_s),
-			$of(u"Singap\u016bras"_s)
+			$of(u"Singapūras"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("SH"_s),
-			$of(u"\u0160v. Elenos Sala"_s)
+			$of(u"Šv. Elenos Sala"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.lb.strict"_s),
-			$of(u"grie\u017etas teksto lau\u017eymo stilius"_s)
+			$of(u"griežtas teksto laužymo stilius"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("017"_s),
@@ -1916,11 +1916,11 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("SI"_s),
-			$of(u"Slov\u0117nija"_s)
+			$of(u"Slovėnija"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("018"_s),
-			$of(u"Pietin\u0117 Afrika"_s)
+			$of(u"Pietinė Afrika"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("SJ"_s),
@@ -1944,7 +1944,7 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("SL"_s),
-			$of(u"Siera Leon\u0117"_s)
+			$of(u"Siera Leonė"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("SM"_s),
@@ -1960,15 +1960,15 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("arn"_s),
-			$of(u"mapudungun\u0173"_s)
+			$of(u"mapudungunų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("arp"_s),
-			$of(u"arapah\u0173"_s)
+			$of(u"arapahų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.taml"_s),
-			$of(u"tradicin\u0117s tamil\u0173 skaitmenys"_s)
+			$of(u"tradicinės tamilų skaitmenys"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("SR"_s),
@@ -1976,19 +1976,19 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("aro"_s),
-			$of(u"araon\u0173"_s)
+			$of(u"araonų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("SS"_s),
-			$of(u"Piet\u0173 Sudanas"_s)
+			$of(u"Pietų Sudanas"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ST"_s),
-			$of(u"San Tom\u0117 ir Prinsip\u0117"_s)
+			$of(u"San Tomė ir Prinsipė"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("arq"_s),
-			$of(u"Al\u017eyro arab\u0173"_s)
+			$of(u"Alžyro arabų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("SV"_s),
@@ -2012,23 +2012,23 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("arw"_s),
-			$of(u"aravak\u0173"_s)
+			$of(u"aravakų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("arz"_s),
-			$of(u"Egipto arab\u0173"_s)
+			$of(u"Egipto arabų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ary"_s),
-			$of(u"Maroko arab\u0173"_s)
+			$of(u"Maroko arabų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("yap"_s),
-			$of(u"japez\u0173"_s)
+			$of(u"japezų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("rtm"_s),
-			$of(u"rotuman\u0173"_s)
+			$of(u"rotumanų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("TA"_s),
@@ -2040,11 +2040,11 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("type.ms.ussystem"_s),
-			$of(u"amerikieti\u0161ka mat\u0173 sistema"_s)
+			$of(u"amerikietiška matų sistema"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("021"_s),
-			$of(u"\u0160iaurin\u0117 Amerika"_s)
+			$of(u"Šiaurinė Amerika"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("TC"_s),
@@ -2052,19 +2052,19 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("yav"_s),
-			$of(u"jangben\u0173"_s)
+			$of(u"jangbenų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("TD"_s),
-			$of(u"\u010cadas"_s)
+			$of(u"Čadas"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("TF"_s),
-			$of(u"Pranc\u016bzijos Piet\u0173 sritys"_s)
+			$of(u"Prancūzijos Pietų sritys"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ase"_s),
-			$of(u"Amerikos \u017eenkl\u0173 kalba"_s)
+			$of(u"Amerikos ženklų kalba"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("TG"_s),
@@ -2076,7 +2076,7 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("TJ"_s),
-			$of(u"Tad\u017eikija"_s)
+			$of(u"Tadžikija"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("TK"_s),
@@ -2088,15 +2088,15 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("TL"_s),
-			$of(u"Ryt\u0173 Timoras"_s)
+			$of(u"Rytų Timoras"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ybb"_s),
-			$of(u"jemb\u0173"_s)
+			$of(u"jembų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("TM"_s),
-			$of(u"Turkm\u0117nistanas"_s)
+			$of(u"Turkmėnistanas"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("%%BOONT"_s),
@@ -2128,11 +2128,11 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ast"_s),
-			$of(u"asturian\u0173"_s)
+			$of(u"asturianų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("rue"_s),
-			$of(u"rusin\u0173"_s)
+			$of(u"rusinų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("rug"_s),
@@ -2148,11 +2148,11 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("nmg"_s),
-			$of(u"kvasi\u0173"_s)
+			$of(u"kvasių"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Zzzz"_s),
-			$of(u"ne\u017einomi ra\u0161menys"_s)
+			$of(u"nežinomi rašmenys"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Sind"_s),
@@ -2164,27 +2164,27 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("lij"_s),
-			$of(u"lig\u016br\u0173"_s)
+			$of(u"ligūrų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("rup"_s),
-			$of(u"aromani\u0173"_s)
+			$of(u"aromanių"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("030"_s),
-			$of(u"Ryt\u0173 Azija"_s)
+			$of(u"Rytų Azija"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("tyv"_s),
-			$of(u"tuvi\u0173"_s)
+			$of(u"tuvių"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sw_CD"_s),
-			$of(u"Kongo suahili\u0173"_s)
+			$of(u"Kongo suahilių"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("034"_s),
-			$of(u"Piet\u0173 Azija"_s)
+			$of(u"Pietų Azija"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("hai"_s),
@@ -2192,7 +2192,7 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("035"_s),
-			$of(u"Pietry\u010di\u0173 Azija"_s)
+			$of(u"Pietryčių Azija"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("UG"_s),
@@ -2200,15 +2200,15 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("hak"_s),
-			$of(u"kin\u0173 kalbos hak\u0173 tarm\u0117"_s)
+			$of(u"kinų kalbos hakų tarmė"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.co.pinyin"_s),
-			$of(u"supaprastinta kini\u0161k\u0173 hieroglif\u0173 r\u016b\u0161iavimo tvarka"_s)
+			$of(u"supaprastinta kiniškų hieroglifų rūšiavimo tvarka"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("039"_s),
-			$of(u"Piet\u0173 Europa"_s)
+			$of(u"Pietų Europa"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Sinh"_s),
@@ -2216,23 +2216,23 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("UM"_s),
-			$of(u"Jungtini\u0173 Valstij\u0173 Ma\u017eosios Tolimosios Salos"_s)
+			$of(u"Jungtinių Valstijų Mažosios Tolimosios Salos"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("liv"_s),
-			$of(u"lyvi\u0173"_s)
+			$of(u"lyvių"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("UN"_s),
-			$of(u"Jungtin\u0117s Tautos"_s)
+			$of(u"Jungtinės Tautos"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("US"_s),
-			$of(u"Jungtin\u0117s Valstijos"_s)
+			$of(u"Jungtinės Valstijos"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("haw"_s),
-			$of(u"havajie\u010di\u0173"_s)
+			$of(u"havajiečių"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("%%1959ACAD"_s),
@@ -2240,7 +2240,7 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("type.co.gb2312han"_s),
-			$of(u"supaprastinta kini\u0161ka r\u016b\u0161iavimo tvarka - GB2312"_s)
+			$of(u"supaprastinta kiniška rūšiavimo tvarka - GB2312"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("UY"_s),
@@ -2248,7 +2248,7 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("prg"_s),
-			$of(u"pr\u016bs\u0173"_s)
+			$of(u"prūsų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("UZ"_s),
@@ -2256,27 +2256,27 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("tzm"_s),
-			$of(u"Centrinio Maroko tamazit\u0173"_s)
+			$of(u"Centrinio Maroko tamazitų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.co.stroke"_s),
-			$of(u"\u012eprasta kini\u0161ko po\u017eymio r\u016b\u0161iavimo tvarka"_s)
+			$of(u"Įprasta kiniško požymio rūšiavimo tvarka"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("nnh"_s),
-			$of(u"ngiemb\u016bn\u0173"_s)
+			$of(u"ngiembūnų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("VA"_s),
-			$of(u"Vatikano Miesto Valstyb\u0117"_s)
+			$of(u"Vatikano Miesto Valstybė"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pro"_s),
-			$of(u"senov\u0117s provansal\u0173"_s)
+			$of(u"senovės provansalų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("VC"_s),
-			$of(u"\u0160ventasis Vincentas ir Grenadinai"_s)
+			$of(u"Šventasis Vincentas ir Grenadinai"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("VE"_s),
@@ -2284,11 +2284,11 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("VG"_s),
-			$of(u"Did\u017eiosios Britanijos Mergeli\u0173 Salos"_s)
+			$of(u"Didžiosios Britanijos Mergelių Salos"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("VI"_s),
-			$of(u"Jungtini\u0173 Valstij\u0173 Mergeli\u0173 Salos"_s)
+			$of(u"Jungtinių Valstijų Mergelių Salos"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("VN"_s),
@@ -2300,7 +2300,7 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("nog"_s),
-			$of(u"nog\u0173"_s)
+			$of(u"nogų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("rwk"_s),
@@ -2308,7 +2308,7 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("non"_s),
-			$of(u"senoji nors\u0173"_s)
+			$of(u"senoji norsų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("053"_s),
@@ -2316,7 +2316,7 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("%%AREVMDA"_s),
-			$of(u"Vakar\u0173 arm\u0117nai"_s)
+			$of(u"Vakarų armėnai"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("054"_s),
@@ -2324,11 +2324,11 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("WF"_s),
-			$of(u"Volisas ir Fut\u016bna"_s)
+			$of(u"Volisas ir Futūna"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.co.traditional"_s),
-			$of(u"\u012fprasta r\u016b\u0161iavimo tvarka"_s)
+			$of(u"įprasta rūšiavimo tvarka"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("057"_s),
@@ -2336,11 +2336,11 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("jgo"_s),
-			$of(u"ngomb\u0173"_s)
+			$of(u"ngombų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lkt"_s),
-			$of(u"lakot\u0173"_s)
+			$of(u"lakotų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("nov"_s),
@@ -2348,7 +2348,7 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.finance"_s),
-			$of(u"Finansiniai skai\u010diai"_s)
+			$of(u"Finansiniai skaičiai"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("avk"_s),
@@ -2356,11 +2356,11 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("type.co.compat"_s),
-			$of(u"ankstesn\u0117 r\u016b\u0161iavimo tvarka, skirta suderinamumui"_s)
+			$of(u"ankstesnė rūšiavimo tvarka, skirta suderinamumui"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("wae"_s),
-			$of(u"valser\u0173"_s)
+			$of(u"valserų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("WS"_s),
@@ -2380,7 +2380,7 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("was"_s),
-			$of(u"Va\u0161o"_s)
+			$of(u"Vašo"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("XA"_s),
@@ -2416,11 +2416,11 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("Zxxx"_s),
-			$of(u"nepara\u0161yta"_s)
+			$of(u"neparašyta"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Olck"_s),
-			$of(u"ol \u010diki"_s)
+			$of(u"ol čiki"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("wbp"_s),
@@ -2432,7 +2432,7 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("Blis"_s),
-			$of(u"\u201eBliss\u201c simboliai"_s)
+			$of(u"„Bliss“ simboliai"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("YE"_s),
@@ -2448,11 +2448,11 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("lmo"_s),
-			$of(u"lombard\u0173"_s)
+			$of(u"lombardų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("fan"_s),
-			$of(u"fang\u0173"_s)
+			$of(u"fangų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("%%ROZAJ"_s),
@@ -2464,7 +2464,7 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("Sgnw"_s),
-			$of(u"\u017eenkl\u0173 ra\u0161tas"_s)
+			$of(u"ženklų raštas"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("YT"_s),
@@ -2476,15 +2476,15 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ZA"_s),
-			$of(u"Piet\u0173 Afrika"_s)
+			$of(u"Pietų Afrika"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.sund"_s),
-			$of(u"Sudanie\u010di\u0173 skaitmenys"_s)
+			$of(u"Sudaniečių skaitmenys"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.lb.loose"_s),
-			$of(u"laisvas teksto lau\u017eymo stilius"_s)
+			$of(u"laisvas teksto laužymo stilius"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Deva"_s),
@@ -2492,7 +2492,7 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.geor"_s),
-			$of(u"gruzin\u0173 skaitmenys"_s)
+			$of(u"gruzinų skaitmenys"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.co.zhuyin"_s),
@@ -2508,23 +2508,23 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("%%PINYIN"_s),
-			$of(u"Kin\u0173 hieroglif\u0173 vertimo sistema Romanization"_s)
+			$of(u"Kinų hieroglifų vertimo sistema Romanization"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ZW"_s),
-			$of(u"Zimbabv\u0117"_s)
+			$of(u"Zimbabvė"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ZZ"_s),
-			$of(u"ne\u017einoma sritis"_s)
+			$of(u"nežinoma sritis"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Runr"_s),
-			$of(u"run\u0173"_s)
+			$of(u"runų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.ms.metric"_s),
-			$of(u"metrin\u0117 sistema"_s)
+			$of(u"metrinė sistema"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.ca.iso8601"_s),
@@ -2532,23 +2532,23 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("lol"_s),
-			$of(u"mong\u0173"_s)
+			$of(u"mongų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("nso"_s),
-			$of(u"\u0161iaur\u0117s Soto"_s)
+			$of(u"šiaurės Soto"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.telu"_s),
-			$of(u"telug\u0173 skaitmenys"_s)
+			$of(u"telugų skaitmenys"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lou"_s),
-			$of(u"Luizianos kreol\u0173"_s)
+			$of(u"Luizianos kreolų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("loz"_s),
-			$of(u"lozi\u0173"_s)
+			$of(u"lozių"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Nkgb"_s),
@@ -2556,39 +2556,39 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("jmc"_s),
-			$of(u"ma\u010dam\u0173"_s)
+			$of(u"mačamų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("hif"_s),
-			$of(u"Fid\u017eio hindi"_s)
+			$of(u"Fidžio hindi"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.hansfin"_s),
-			$of(u"supaprastintos kin\u0173 k. finans. skaitmenys"_s)
+			$of(u"supaprastintos kinų k. finans. skaitmenys"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("hil"_s),
-			$of(u"hiligainon\u0173"_s)
+			$of(u"hiligainonų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.arabext"_s),
-			$of(u"i\u0161pl\u0117stiniai arab\u0173-ind\u0173 skaitmenys"_s)
+			$of(u"išplėstiniai arabų-indų skaitmenys"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("nus"_s),
-			$of(u"nuer\u0173"_s)
+			$of(u"nuerų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("dak"_s),
-			$of(u"dakot\u0173"_s)
+			$of(u"dakotų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.fullwide"_s),
-			$of(u"viso plo\u010dio skaitmenys"_s)
+			$of(u"viso pločio skaitmenys"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("hit"_s),
-			$of(u"hitit\u0173"_s)
+			$of(u"hititų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("dar"_s),
@@ -2596,15 +2596,15 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("dav"_s),
-			$of(u"tait\u0173"_s)
+			$of(u"taitų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Maya"_s),
-			$of(u"mal\u0173 hieroglifai"_s)
+			$of(u"malų hieroglifai"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lrc"_s),
-			$of(u"\u0161iaur\u0117s luri"_s)
+			$of(u"šiaurės luri"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Copt"_s),
@@ -2612,11 +2612,11 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("nwc"_s),
-			$of(u"klasikin\u0117 nevari"_s)
+			$of(u"klasikinė nevari"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("udm"_s),
-			$of(u"udmurt\u0173"_s)
+			$of(u"udmurtų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Khmr"_s),
@@ -2632,27 +2632,27 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("sad"_s),
-			$of(u"sandavi\u0173"_s)
+			$of(u"sandavių"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.roman"_s),
-			$of(u"rom\u0117ni\u0161ki skaitmenys"_s)
+			$of(u"romėniški skaitmenys"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sah"_s),
-			$of(u"jakut\u0173"_s)
+			$of(u"jakutų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.shrd"_s),
-			$of(u"\u0160arad\u0173 skaitmenys"_s)
+			$of(u"Šaradų skaitmenys"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ltg"_s),
-			$of(u"latgali\u0173"_s)
+			$of(u"latgalių"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sam"_s),
-			$of(u"samar\u0117j\u0173 arami\u0173"_s)
+			$of(u"samarėjų aramių"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Aghb"_s),
@@ -2664,7 +2664,7 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("saq"_s),
-			$of(u"samb\u016br\u0173"_s)
+			$of(u"sambūrų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sas"_s),
@@ -2672,7 +2672,7 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("sat"_s),
-			$of(u"santali\u0173"_s)
+			$of(u"santalių"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Tfng"_s),
@@ -2680,11 +2680,11 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("jpr"_s),
-			$of(u"jud\u0117j\u0173 pers\u0173"_s)
+			$of(u"judėjų persų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("saz"_s),
-			$of(u"saura\u0161tr\u0173"_s)
+			$of(u"sauraštrų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.d0.npinyin"_s),
@@ -2696,7 +2696,7 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("sba"_s),
-			$of(u"ngambaj\u0173"_s)
+			$of(u"ngambajų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Guru"_s),
@@ -2708,11 +2708,11 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("type.d0.fwidth"_s),
-			$of(u"viso plo\u010dio"_s)
+			$of(u"viso pločio"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sbp"_s),
-			$of(u"sang\u0173"_s)
+			$of(u"sangų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lui"_s),
@@ -2720,7 +2720,7 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("nyn"_s),
-			$of(u"niankol\u0173"_s)
+			$of(u"niankolų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("nym"_s),
@@ -2732,7 +2732,7 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("nyo"_s),
-			$of(u"nior\u0173"_s)
+			$of(u"niorų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("luo"_s),
@@ -2740,7 +2740,7 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("fil"_s),
-			$of(u"filipinie\u010di\u0173"_s)
+			$of(u"filipiniečių"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("hmn"_s),
@@ -2756,7 +2756,7 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("bal"_s),
-			$of(u"balu\u010di"_s)
+			$of(u"baluči"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("den"_s),
@@ -2764,15 +2764,15 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ban"_s),
-			$of(u"balie\u010di\u0173"_s)
+			$of(u"baliečių"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("uga"_s),
-			$of(u"ugarit\u0173"_s)
+			$of(u"ugaritų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("fit"_s),
-			$of(u"suomi\u0173 kalbos Tornedalio tarm\u0117"_s)
+			$of(u"suomių kalbos Tornedalio tarmė"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("luy"_s),
@@ -2780,23 +2780,23 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("bar"_s),
-			$of(u"bavar\u0173"_s)
+			$of(u"bavarų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bas"_s),
-			$of(u"bas\u0173"_s)
+			$of(u"basų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bax"_s),
-			$of(u"bamun\u0173"_s)
+			$of(u"bamunų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("jrb"_s),
-			$of(u"jud\u0117j\u0173 arab\u0173"_s)
+			$of(u"judėjų arabų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("es_ES"_s),
-			$of(u"Europos ispan\u0173"_s)
+			$of(u"Europos ispanų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("nzi"_s),
@@ -2804,19 +2804,19 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("sco"_s),
-			$of(u"\u0161kot\u0173"_s)
+			$of(u"škotų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("scn"_s),
-			$of(u"sicilie\u010di\u0173"_s)
+			$of(u"siciliečių"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("aa"_s),
-			$of(u"afar\u0173"_s)
+			$of(u"afarų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ab"_s),
-			$of(u"abchaz\u0173"_s)
+			$of(u"abchazų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bbc"_s),
@@ -2824,27 +2824,27 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ae"_s),
-			$of(u"avest\u0173"_s)
+			$of(u"avestų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("af"_s),
-			$of(u"afrikan\u0173"_s)
+			$of(u"afrikanų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ak"_s),
-			$of(u"akan\u0173"_s)
+			$of(u"akanų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.cakm"_s),
-			$of(u"\u010cakm\u0173 skaitmenys"_s)
+			$of(u"Čakmų skaitmenys"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bbj"_s),
-			$of(u"ghomal\u0173"_s)
+			$of(u"ghomalų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("am"_s),
-			$of(u"amhar\u0173"_s)
+			$of(u"amharų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Arab"_s),
@@ -2852,11 +2852,11 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("an"_s),
-			$of(u"aragones\u0173"_s)
+			$of(u"aragonesų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("%%SOLBA"_s),
-			$of(u"Stolvizza / Solbica tarm\u0117"_s)
+			$of(u"Stolvizza / Solbica tarmė"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Jpan"_s),
@@ -2872,11 +2872,11 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("as"_s),
-			$of(u"asam\u0173"_s)
+			$of(u"asamų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sdc"_s),
-			$of(u"sasares\u0173 sardin\u0173"_s)
+			$of(u"sasaresų sardinų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Lina"_s),
@@ -2884,7 +2884,7 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("av"_s),
-			$of(u"avarik\u0173"_s)
+			$of(u"avarikų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Linb"_s),
@@ -2892,15 +2892,15 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("sdh"_s),
-			$of(u"piet\u0173 kurd\u0173"_s)
+			$of(u"pietų kurdų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ay"_s),
-			$of(u"aimar\u0173"_s)
+			$of(u"aimarų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("az"_s),
-			$of(u"azerbaid\u017eanie\u010di\u0173"_s)
+			$of(u"azerbaidžaniečių"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Khoj"_s),
@@ -2908,23 +2908,23 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("%%OSOJS"_s),
-			$of(u"Oseacco / Osojane tarm\u0117"_s)
+			$of(u"Oseacco / Osojane tarmė"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ba"_s),
-			$of(u"ba\u0161kir\u0173"_s)
+			$of(u"baškirų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.co.unihan"_s),
-			$of(u"\u0160aknies \u017eenkl\u0173 ir br\u016bk\u0161ni\u0173 r\u016b\u0161iavimo tvarka"_s)
+			$of(u"Šaknies ženklų ir brūkšnių rūšiavimo tvarka"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("be"_s),
-			$of(u"baltarusi\u0173"_s)
+			$of(u"baltarusių"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bg"_s),
-			$of(u"bulgar\u0173"_s)
+			$of(u"bulgarų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bi"_s),
@@ -2932,11 +2932,11 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.java"_s),
-			$of(u"javie\u010di\u0173 skaitmenys"_s)
+			$of(u"javiečių skaitmenys"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bm"_s),
-			$of(u"bambar\u0173"_s)
+			$of(u"bambarų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bn"_s),
@@ -2948,19 +2948,19 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("dgr"_s),
-			$of(u"dogrib\u0173"_s)
+			$of(u"dogribų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("br"_s),
-			$of(u"breton\u0173"_s)
+			$of(u"bretonų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bs"_s),
-			$of(u"bosni\u0173"_s)
+			$of(u"bosnių"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("see"_s),
-			$of(u"senec\u0173"_s)
+			$of(u"senecų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Mymr"_s),
@@ -2972,11 +2972,11 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.laoo"_s),
-			$of(u"laosie\u010di\u0173 skaitmenys"_s)
+			$of(u"laosiečių skaitmenys"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("seh"_s),
-			$of(u"sen\u0173"_s)
+			$of(u"senų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Nkoo"_s),
@@ -2988,7 +2988,7 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ca"_s),
-			$of(u"katalon\u0173"_s)
+			$of(u"katalonų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ses"_s),
@@ -2996,23 +2996,23 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ce"_s),
-			$of(u"\u010de\u010d\u0117n\u0173"_s)
+			$of(u"čečėnų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ch"_s),
-			$of(u"\u010damor\u0173"_s)
+			$of(u"čamorų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("%%REVISED"_s),
-			$of(u"I\u0161taisyta ra\u0161yba"_s)
+			$of(u"Ištaisyta rašyba"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("co"_s),
-			$of(u"korsikie\u010di\u0173"_s)
+			$of(u"korsikiečių"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Orya"_s),
-			$of(u"orij\u0173"_s)
+			$of(u"orijų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cr"_s),
@@ -3020,11 +3020,11 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("cs"_s),
-			$of(u"\u010dek\u0173"_s)
+			$of(u"čekų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cu"_s),
-			$of(u"ba\u017enytin\u0117 slav\u0173"_s)
+			$of(u"bažnytinė slavų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("yrl"_s),
@@ -3032,11 +3032,11 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("cv"_s),
-			$of(u"\u010diuva\u0161\u0173"_s)
+			$of(u"čiuvašų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cy"_s),
-			$of(u"val\u0173"_s)
+			$of(u"valų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.ethi"_s),
@@ -3048,15 +3048,15 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("da"_s),
-			$of(u"dan\u0173"_s)
+			$of(u"danų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pt_PT"_s),
-			$of(u"Europos portugal\u0173"_s)
+			$of(u"Europos portugalų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("de"_s),
-			$of(u"vokie\u010di\u0173"_s)
+			$of(u"vokiečių"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.cf.standard"_s),
@@ -3064,15 +3064,15 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("bej"_s),
-			$of(u"b\u0117j\u0173"_s)
+			$of(u"bėjų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("din"_s),
-			$of(u"dink\u0173"_s)
+			$of(u"dinkų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("jut"_s),
-			$of(u"dan\u0173 kalbos jut\u0173 tarm\u0117"_s)
+			$of(u"danų kalbos jutų tarmė"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Bugi"_s),
@@ -3080,23 +3080,23 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("bem"_s),
-			$of(u"bemb\u0173"_s)
+			$of(u"bembų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sga"_s),
-			$of(u"senoji airi\u0173"_s)
+			$of(u"senoji airių"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.mong"_s),
-			$of(u"mongol\u0173 skaitmenys"_s)
+			$of(u"mongolų skaitmenys"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("dv"_s),
-			$of(u"diveh\u0173"_s)
+			$of(u"divehų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("es_419"_s),
-			$of(u"Lotyn\u0173 Amerikos ispan\u0173"_s)
+			$of(u"Lotynų Amerikos ispanų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bew"_s),
@@ -3104,19 +3104,19 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("dz"_s),
-			$of(u"botij\u0173"_s)
+			$of(u"botijų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bez"_s),
-			$of(u"ben\u0173"_s)
+			$of(u"benų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.ca.chinese"_s),
-			$of(u"kin\u0173 kalendorius"_s)
+			$of(u"kinų kalendorius"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lzh"_s),
-			$of(u"klasikin\u0117 kin\u0173"_s)
+			$of(u"klasikinė kinų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Lisu"_s),
@@ -3124,31 +3124,31 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("dje"_s),
-			$of(u"zarm\u0173"_s)
+			$of(u"zarmų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sgs"_s),
-			$of(u"\u017eemai\u010di\u0173"_s)
+			$of(u"žemaičių"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.grek"_s),
-			$of(u"graik\u0173 skaitmenys"_s)
+			$of(u"graikų skaitmenys"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ee"_s),
-			$of(u"evi\u0173"_s)
+			$of(u"evių"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bfd"_s),
-			$of(u"bafut\u0173"_s)
+			$of(u"bafutų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.lb.normal"_s),
-			$of(u"\u012fprastas teksto lau\u017eymo stilius"_s)
+			$of(u"įprastas teksto laužymo stilius"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ro_MD"_s),
-			$of(u"moldav\u0173"_s)
+			$of(u"moldavų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("el"_s),
@@ -3156,7 +3156,7 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("en"_s),
-			$of(u"angl\u0173"_s)
+			$of(u"anglų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("eo"_s),
@@ -3172,23 +3172,23 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("type.co.big5han"_s),
-			$of(u"\u012fprasta kini\u0161ka r\u016b\u0161iavimo tvarka - Big5"_s)
+			$of(u"įprasta kiniška rūšiavimo tvarka - Big5"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("es"_s),
-			$of(u"ispan\u0173"_s)
+			$of(u"ispanų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("et"_s),
-			$of(u"est\u0173"_s)
+			$of(u"estų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Hanb"_s),
-			$of(u"hanb\u0173"_s)
+			$of(u"hanbų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("eu"_s),
-			$of(u"bask\u0173"_s)
+			$of(u"baskų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Buhd"_s),
@@ -3200,15 +3200,15 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("Samr"_s),
-			$of(u"samarie\u010di\u0173"_s)
+			$of(u"samariečių"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("shi"_s),
-			$of(u"tachelhit\u0173"_s)
+			$of(u"tachelhitų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("hsb"_s),
-			$of(u"auk\u0161tutini\u0173 sorb\u0173"_s)
+			$of(u"aukštutinių sorbų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Hani"_s),
@@ -3216,7 +3216,7 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("shn"_s),
-			$of(u"\u0161an"_s)
+			$of(u"šan"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Hano"_s),
@@ -3224,7 +3224,7 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("fa"_s),
-			$of(u"pers\u0173"_s)
+			$of(u"persų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Hans"_s),
@@ -3232,7 +3232,7 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.latn"_s),
-			$of(u"lotyni\u0161ki skaitmenys"_s)
+			$of(u"lotyniški skaitmenys"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Hant"_s),
@@ -3240,23 +3240,23 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ff"_s),
-			$of(u"fulah\u0173"_s)
+			$of(u"fulahų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("shu"_s),
-			$of(u"chadian arab\u0173"_s)
+			$of(u"chadian arabų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("hsn"_s),
-			$of(u"kin\u0173 kalbos hunano tarm\u0117"_s)
+			$of(u"kinų kalbos hunano tarmė"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("fi"_s),
-			$of(u"suomi\u0173"_s)
+			$of(u"suomių"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("fj"_s),
-			$of(u"fid\u017ei\u0173"_s)
+			$of(u"fidžių"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("fon"_s),
@@ -3264,15 +3264,15 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("bgn"_s),
-			$of(u"vakar\u0173 belud\u017ei\u0173"_s)
+			$of(u"vakarų beludžių"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("yue"_s),
-			$of(u"kin\u0173 kalbos Kantono tarm\u0117"_s)
+			$of(u"kinų kalbos Kantono tarmė"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("fo"_s),
-			$of(u"farer\u0173"_s)
+			$of(u"farerų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.m0.bgn"_s),
@@ -3284,43 +3284,43 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("fr"_s),
-			$of(u"pranc\u016bz\u0173"_s)
+			$of(u"prancūzų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sid"_s),
-			$of(u"sidam\u0173"_s)
+			$of(u"sidamų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("fy"_s),
-			$of(u"vakar\u0173 fryz\u0173"_s)
+			$of(u"vakarų fryzų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ga"_s),
-			$of(u"airi\u0173"_s)
+			$of(u"airių"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gd"_s),
-			$of(u"\u0161kot\u0173 (g\u0117l\u0173)"_s)
+			$of(u"škotų (gėlų)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gl"_s),
-			$of(u"galis\u0173"_s)
+			$of(u"galisų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gn"_s),
-			$of(u"gvarani\u0173"_s)
+			$of(u"gvaranių"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bho"_s),
-			$of(u"bau\u010dpuri"_s)
+			$of(u"baučpuri"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("und"_s),
-			$of(u"ne\u017einoma kalba"_s)
+			$of(u"nežinoma kalba"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.ca.ethiopic-amete-alem"_s),
-			$of(u"Etiopijos \u201eAmete Alem\u201c kalendorius"_s)
+			$of(u"Etiopijos „Amete Alem“ kalendorius"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gu"_s),
@@ -3328,19 +3328,19 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("type.ca.islamic-tbla"_s),
-			$of(u"Islamo kalendorius (lentelinis, astronomin\u0117 era)"_s)
+			$of(u"Islamo kalendorius (lentelinis, astronominė era)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gv"_s),
-			$of(u"menie\u010di\u0173"_s)
+			$of(u"meniečių"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.osma"_s),
-			$of(u"Osman\u0173 skaitmenys"_s)
+			$of(u"Osmanų skaitmenys"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ha"_s),
-			$of(u"haus\u0173"_s)
+			$of(u"hausų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("he"_s),
@@ -3356,7 +3356,7 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("bik"_s),
-			$of(u"bikol\u0173"_s)
+			$of(u"bikolų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bin"_s),
@@ -3368,15 +3368,15 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("hr"_s),
-			$of(u"kroat\u0173"_s)
+			$of(u"kroatų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ht"_s),
-			$of(u"Hai\u010dio"_s)
+			$of(u"Haičio"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("hu"_s),
-			$of(u"vengr\u0173"_s)
+			$of(u"vengrų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("hy"_s),
@@ -3384,19 +3384,19 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("hz"_s),
-			$of(u"herer\u0173"_s)
+			$of(u"hererų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("frc"_s),
-			$of(u"kad\u017eun\u0173 pranc\u016bz\u0173"_s)
+			$of(u"kadžunų prancūzų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("%%FONIPA"_s),
-			$of(u"Tarptautin\u0117s ab\u0117c\u0117l\u0117s fonetika"_s)
+			$of(u"Tarptautinės abėcėlės fonetika"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ia"_s),
-			$of(u"tarpin\u0117"_s)
+			$of(u"tarpinė"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Jamo"_s),
@@ -3404,11 +3404,11 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("id"_s),
-			$of(u"indonezie\u010di\u0173"_s)
+			$of(u"indoneziečių"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.tibt"_s),
-			$of(u"tibetie\u010di\u0173 skaitmenys"_s)
+			$of(u"tibetiečių skaitmenys"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ie"_s),
@@ -3416,23 +3416,23 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ig"_s),
-			$of(u"igb\u0173"_s)
+			$of(u"igbų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ii"_s),
-			$of(u"si\u010duan ji"_s)
+			$of(u"sičuan ji"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("frm"_s),
-			$of(u"Vidurio Pranc\u016bzijos"_s)
+			$of(u"Vidurio Prancūzijos"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ik"_s),
-			$of(u"inupiak\u0173"_s)
+			$of(u"inupiakų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("fro"_s),
-			$of(u"senoji pranc\u016bz\u0173"_s)
+			$of(u"senoji prancūzų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("frp"_s),
@@ -3444,23 +3444,23 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("frs"_s),
-			$of(u"ryt\u0173 fryz\u0173"_s)
+			$of(u"rytų fryzų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bjn"_s),
-			$of(u"band\u017ear\u0173"_s)
+			$of(u"bandžarų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("frr"_s),
-			$of(u"\u0161iaurini\u0173 fryz\u0173"_s)
+			$of(u"šiaurinių fryzų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("is"_s),
-			$of(u"island\u0173"_s)
+			$of(u"islandų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("it"_s),
-			$of(u"ital\u0173"_s)
+			$of(u"italų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("iu"_s),
@@ -3468,7 +3468,7 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("sli"_s),
-			$of(u"silezie\u010di\u0173 \u017eemai\u010di\u0173"_s)
+			$of(u"sileziečių žemaičių"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ja"_s),
@@ -3480,7 +3480,7 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("Sarb"_s),
-			$of(u"senoji piet\u0173 Arabijos"_s)
+			$of(u"senoji pietų Arabijos"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Sara"_s),
@@ -3492,7 +3492,7 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("sly"_s),
-			$of(u"selajar\u0173"_s)
+			$of(u"selajarų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.lepc"_s),
@@ -3500,11 +3500,11 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("bkm"_s),
-			$of(u"kom\u0173"_s)
+			$of(u"komų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sma"_s),
-			$of(u"piet\u0173 sami\u0173"_s)
+			$of(u"pietų samių"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("jv"_s),
@@ -3512,15 +3512,15 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("Shaw"_s),
-			$of(u"\u0161avi\u0173"_s)
+			$of(u"šavių"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mad"_s),
-			$of(u"madurez\u0173"_s)
+			$of(u"madurezų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("smj"_s),
-			$of(u"Liuleo sami\u0173"_s)
+			$of(u"Liuleo samių"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mag"_s),
@@ -3528,7 +3528,7 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("maf"_s),
-			$of(u"maf\u0173"_s)
+			$of(u"mafų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mai"_s),
@@ -3536,7 +3536,7 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("smn"_s),
-			$of(u"Inario sami\u0173"_s)
+			$of(u"Inario samių"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ka"_s),
@@ -3544,7 +3544,7 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("bla"_s),
-			$of(u"siksik\u0173"_s)
+			$of(u"siksikų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mak"_s),
@@ -3552,15 +3552,15 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("wuu"_s),
-			$of(u"kin\u0173 kalbos vu tarm\u0117"_s)
+			$of(u"kinų kalbos vu tarmė"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sms"_s),
-			$of(u"Skolto sami\u0173"_s)
+			$of(u"Skolto samių"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("man"_s),
-			$of(u"manding\u0173"_s)
+			$of(u"mandingų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kg"_s),
@@ -3572,11 +3572,11 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ki"_s),
-			$of(u"kikuj\u0173"_s)
+			$of(u"kikujų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mas"_s),
-			$of(u"masaj\u0173"_s)
+			$of(u"masajų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kj"_s),
@@ -3584,7 +3584,7 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("kk"_s),
-			$of(u"kazach\u0173"_s)
+			$of(u"kazachų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kl"_s),
@@ -3604,11 +3604,11 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("kr"_s),
-			$of(u"kanuri\u0173"_s)
+			$of(u"kanurių"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ks"_s),
-			$of(u"ka\u0161myr\u0173"_s)
+			$of(u"kašmyrų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Cirt"_s),
@@ -3616,7 +3616,7 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("Lepc"_s),
-			$of(u"lep\u010da"_s)
+			$of(u"lepča"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Avst"_s),
@@ -3624,7 +3624,7 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ku"_s),
-			$of(u"kurd\u0173"_s)
+			$of(u"kurdų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kv"_s),
@@ -3632,11 +3632,11 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("kw"_s),
-			$of(u"korn\u0173"_s)
+			$of(u"kornų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ky"_s),
-			$of(u"kirgiz\u0173"_s)
+			$of(u"kirgizų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("snk"_s),
@@ -3648,11 +3648,11 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("lb"_s),
-			$of(u"liuksemburgie\u010di\u0173"_s)
+			$of(u"liuksemburgiečių"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.mlym"_s),
-			$of(u"malajali\u0173 skaitmenys"_s)
+			$of(u"malajalių skaitmenys"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lg"_s),
@@ -3664,7 +3664,7 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("li"_s),
-			$of(u"limburgie\u010di\u0173"_s)
+			$of(u"limburgiečių"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Tibt"_s),
@@ -3672,11 +3672,11 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ln"_s),
-			$of(u"ngal\u0173"_s)
+			$of(u"ngalų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("fur"_s),
-			$of(u"friuli\u0173"_s)
+			$of(u"friulių"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lo"_s),
@@ -3684,7 +3684,7 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("type.ms.uksystem"_s),
-			$of(u"angli\u0161ka mat\u0173 sistema"_s)
+			$of(u"angliška matų sistema"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.lana"_s),
@@ -3692,7 +3692,7 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("lt"_s),
-			$of(u"lietuvi\u0173"_s)
+			$of(u"lietuvių"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lu"_s),
@@ -3700,7 +3700,7 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("lv"_s),
-			$of(u"latvi\u0173"_s)
+			$of(u"latvių"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sog"_s),
@@ -3708,11 +3708,11 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("mg"_s),
-			$of(u"malagas\u0173"_s)
+			$of(u"malagasų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mh"_s),
-			$of(u"Mar\u0161alo Sal\u0173"_s)
+			$of(u"Maršalo Salų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.co.ducet"_s),
@@ -3720,11 +3720,11 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("mi"_s),
-			$of(u"maori\u0173"_s)
+			$of(u"maorių"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mk"_s),
-			$of(u"makedon\u0173"_s)
+			$of(u"makedonų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ml"_s),
@@ -3736,15 +3736,15 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("mr"_s),
-			$of(u"marat\u0173"_s)
+			$of(u"maratų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ms"_s),
-			$of(u"malajie\u010di\u0173"_s)
+			$of(u"malajiečių"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mt"_s),
-			$of(u"maltie\u010di\u0173"_s)
+			$of(u"maltiečių"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("my"_s),
@@ -3752,7 +3752,7 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("Saur"_s),
-			$of(u"saura\u0161tra"_s)
+			$of(u"sauraštra"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Armn"_s),
@@ -3760,83 +3760,83 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("mdf"_s),
-			$of(u"mok\u0161a"_s)
+			$of(u"mokša"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mde"_s),
-			$of(u"mab\u0173"_s)
+			$of(u"mabų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("dsb"_s),
-			$of(u"\u017eemutini\u0173 sorb\u0173"_s)
+			$of(u"žemutinių sorbų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Armi"_s),
-			$of(u"imperin\u0117 aramaik\u0173"_s)
+			$of(u"imperinė aramaikų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("na"_s),
-			$of(u"naur\u0173"_s)
+			$of(u"naurų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.co.search"_s),
-			$of(u"bendroji paie\u0161ka"_s)
+			$of(u"bendroji paieška"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("nb"_s),
-			$of(u"norveg\u0173 bukmolas"_s)
+			$of(u"norvegų bukmolas"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("nd"_s),
-			$of(u"\u0161iaur\u0117s ndebel\u0173"_s)
+			$of(u"šiaurės ndebelų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ne"_s),
-			$of(u"nepalie\u010di\u0173"_s)
+			$of(u"nepaliečių"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ng"_s),
-			$of(u"ndong\u0173"_s)
+			$of(u"ndongų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mdr"_s),
-			$of(u"mandar\u0173"_s)
+			$of(u"mandarų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("nl"_s),
-			$of(u"oland\u0173"_s)
+			$of(u"olandų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("nn"_s),
-			$of(u"naujoji norveg\u0173"_s)
+			$of(u"naujoji norvegų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("no"_s),
-			$of(u"norveg\u0173"_s)
+			$of(u"norvegų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("nr"_s),
-			$of(u"piet\u0173 ndebele"_s)
+			$of(u"pietų ndebele"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("nv"_s),
-			$of(u"navaj\u0173"_s)
+			$of(u"navajų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kaa"_s),
-			$of(u"karakalpak\u0173"_s)
+			$of(u"karakalpakų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ny"_s),
-			$of(u"nianj\u0173"_s)
+			$of(u"nianjų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kac"_s),
-			$of(u"ka\u010din\u0173"_s)
+			$of(u"kačinų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kab"_s),
-			$of(u"kebail\u0173"_s)
+			$of(u"kebailų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("%%POLYTON"_s),
@@ -3844,7 +3844,7 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("oc"_s),
-			$of(u"o\u010ditar\u0173"_s)
+			$of(u"očitarų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kaj"_s),
@@ -3852,7 +3852,7 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("kam"_s),
-			$of(u"kemb\u0173"_s)
+			$of(u"kembų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("men"_s),
@@ -3864,19 +3864,19 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("mer"_s),
-			$of(u"mer\u0173"_s)
+			$of(u"merų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.armn"_s),
-			$of(u"arm\u0117n\u0173 skaitmenys"_s)
+			$of(u"armėnų skaitmenys"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("om"_s),
-			$of(u"orom\u0173"_s)
+			$of(u"oromų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kaw"_s),
-			$of(u"kavi\u0173"_s)
+			$of(u"kavių"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("dtp"_s),
@@ -3884,7 +3884,7 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("or"_s),
-			$of(u"odij\u0173"_s)
+			$of(u"odijų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Modi"_s),
@@ -3892,19 +3892,19 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("os"_s),
-			$of(u"osetin\u0173"_s)
+			$of(u"osetinų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bpy"_s),
-			$of(u"bi\u0161nuprijos"_s)
+			$of(u"bišnuprijos"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kbd"_s),
-			$of(u"kabardin\u0173"_s)
+			$of(u"kabardinų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mfe"_s),
-			$of(u"morisij\u0173"_s)
+			$of(u"morisijų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("srn"_s),
@@ -3912,23 +3912,23 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("pa"_s),
-			$of(u"pend\u017eab\u0173"_s)
+			$of(u"pendžabų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("dua"_s),
-			$of(u"dual\u0173"_s)
+			$of(u"dualų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("srr"_s),
-			$of(u"serer\u0173"_s)
+			$of(u"sererų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("%%LIPAW"_s),
-			$of(u"Resian tarmei priklausanti Lipovaz tarm\u0117"_s)
+			$of(u"Resian tarmei priklausanti Lipovaz tarmė"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kbl"_s),
-			$of(u"kanemb\u0173"_s)
+			$of(u"kanembų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pi"_s),
@@ -3940,7 +3940,7 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("pl"_s),
-			$of(u"lenk\u0173"_s)
+			$of(u"lenkų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("dum"_s),
@@ -3948,7 +3948,7 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.saur"_s),
-			$of(u"Saura\u0161tr\u0173 skaitmenys"_s)
+			$of(u"Sauraštrų skaitmenys"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.ca.dangi"_s),
@@ -3956,11 +3956,11 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ps"_s),
-			$of(u"pu\u0161t\u016bn\u0173"_s)
+			$of(u"puštūnų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pt"_s),
-			$of(u"portugal\u0173"_s)
+			$of(u"portugalų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mga"_s),
@@ -3972,7 +3972,7 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("pt_BR"_s),
-			$of(u"Brazilijos portugal\u0173"_s)
+			$of(u"Brazilijos portugalų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kcg"_s),
@@ -3988,11 +3988,11 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.nkoo"_s),
-			$of(u"N\u2019Ko skaitmenys"_s)
+			$of(u"N’Ko skaitmenys"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bra"_s),
-			$of(u"braj\u0173"_s)
+			$of(u"brajų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("key.ca"_s),
@@ -4008,11 +4008,11 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("type.hc.h23"_s),
-			$of(u"24 valand\u0173 sistema (0\u201323)"_s)
+			$of(u"24 valandų sistema (0–23)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.hc.h24"_s),
-			$of(u"24 valand\u0173 sistema (1\u201324)"_s)
+			$of(u"24 valandų sistema (1–24)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ssy"_s),
@@ -4020,19 +4020,19 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("brh"_s),
-			$of(u"brahuj\u0173"_s)
+			$of(u"brahujų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.mymr"_s),
-			$of(u"mianmarie\u010di\u0173 skaitmenys"_s)
+			$of(u"mianmariečių skaitmenys"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("qu"_s),
-			$of(u"ke\u010duj\u0173"_s)
+			$of(u"kečujų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("zap"_s),
-			$of(u"zapotek\u0173"_s)
+			$of(u"zapotekų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("brx"_s),
@@ -4044,27 +4044,27 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("kde"_s),
-			$of(u"makond\u0173"_s)
+			$of(u"makondų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("stq"_s),
-			$of(u"Saterlendo fryz\u0173"_s)
+			$of(u"Saterlendo fryzų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Ethi"_s),
-			$of(u"etiop\u0173"_s)
+			$of(u"etiopų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.hc.h12"_s),
-			$of(u"12 valand\u0173 sistema (1\u201312)"_s)
+			$of(u"12 valandų sistema (1–12)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.hc.h11"_s),
-			$of(u"12 valand\u0173 sistema (0\u201311)"_s)
+			$of(u"12 valandų sistema (0–11)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("rm"_s),
-			$of(u"retoroman\u0173"_s)
+			$of(u"retoromanų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("rn"_s),
@@ -4076,7 +4076,7 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ro"_s),
-			$of(u"rumun\u0173"_s)
+			$of(u"rumunų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("%%SAAHO"_s),
@@ -4084,35 +4084,35 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.orya"_s),
-			$of(u"orij\u0173 skaitmenys"_s)
+			$of(u"orijų skaitmenys"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.hanidec"_s),
-			$of(u"kin\u0173 de\u0161imtainiai skaitmenys"_s)
+			$of(u"kinų dešimtainiai skaitmenys"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ru"_s),
-			$of(u"rus\u0173"_s)
+			$of(u"rusų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bss"_s),
-			$of(u"ak\u016bs\u0173"_s)
+			$of(u"akūsų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("rw"_s),
-			$of(u"kinjaruand\u0173"_s)
+			$of(u"kinjaruandų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("zbl"_s),
-			$of(u"BLISS simboli\u0173"_s)
+			$of(u"BLISS simbolių"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kea"_s),
-			$of(u"\u017daliojo Ky\u0161ulio kreol\u0173"_s)
+			$of(u"Žaliojo Kyšulio kreolų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mic"_s),
-			$of(u"mikmak\u0173"_s)
+			$of(u"mikmakų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("suk"_s),
@@ -4120,11 +4120,11 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("en_AU"_s),
-			$of(u"Australijos angl\u0173"_s)
+			$of(u"Australijos anglų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Dupl"_s),
-			$of(u"Duploj\u0117 stenografija"_s)
+			$of(u"Duplojė stenografija"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sa"_s),
@@ -4132,11 +4132,11 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("%%UCCOR"_s),
-			$of(u"Suvienodinta ra\u0161yba"_s)
+			$of(u"Suvienodinta rašyba"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sc"_s),
-			$of(u"sardinie\u010di\u0173"_s)
+			$of(u"sardiniečių"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sus"_s),
@@ -4144,11 +4144,11 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("sd"_s),
-			$of(u"sind\u0173"_s)
+			$of(u"sindų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("se"_s),
-			$of(u"\u0161iaur\u0117s sami\u0173"_s)
+			$of(u"šiaurės samių"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("min"_s),
@@ -4160,7 +4160,7 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("sh"_s),
-			$of(u"serb\u0173-kroat\u0173"_s)
+			$of(u"serbų-kroatų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ken"_s),
@@ -4172,15 +4172,15 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("sux"_s),
-			$of(u"\u0161umer\u0173"_s)
+			$of(u"šumerų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sk"_s),
-			$of(u"slovak\u0173"_s)
+			$of(u"slovakų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sl"_s),
-			$of(u"slov\u0117n\u0173"_s)
+			$of(u"slovėnų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Gran"_s),
@@ -4192,27 +4192,27 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("sn"_s),
-			$of(u"\u0161on\u0173"_s)
+			$of(u"šonų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("so"_s),
-			$of(u"somalie\u010di\u0173"_s)
+			$of(u"somaliečių"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.arab"_s),
-			$of(u"arab\u0173-ind\u0173 skaitmenys"_s)
+			$of(u"arabų-indų skaitmenys"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sq"_s),
-			$of(u"alban\u0173"_s)
+			$of(u"albanų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sr"_s),
-			$of(u"serb\u0173"_s)
+			$of(u"serbų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ss"_s),
-			$of(u"svat\u0173"_s)
+			$of(u"svatų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.cf.account"_s),
@@ -4224,7 +4224,7 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("st"_s),
-			$of(u"piet\u0173 Soto"_s)
+			$of(u"pietų Soto"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("su"_s),
@@ -4232,23 +4232,23 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("%%NEDIS"_s),
-			$of(u"Natisone tarm\u0117"_s)
+			$of(u"Natisone tarmė"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sv"_s),
-			$of(u"\u0161ved\u0173"_s)
+			$of(u"švedų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sw"_s),
-			$of(u"suahili\u0173"_s)
+			$of(u"suahilių"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.hantfin"_s),
-			$of(u"tradicin\u0117s kin\u0173 k. finans. skaitmenys"_s)
+			$of(u"tradicinės kinų k. finans. skaitmenys"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ibb"_s),
-			$of(u"ibibij\u0173"_s)
+			$of(u"ibibijų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("iba"_s),
@@ -4264,11 +4264,11 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("bua"_s),
-			$of(u"buriat\u0173"_s)
+			$of(u"buriatų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("143"_s),
-			$of(u"Centrin\u0117 Azija"_s)
+			$of(u"Centrinė Azija"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("te"_s),
@@ -4276,11 +4276,11 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("145"_s),
-			$of(u"Vakar\u0173 Azija"_s)
+			$of(u"Vakarų Azija"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("tg"_s),
-			$of(u"tad\u017eik\u0173"_s)
+			$of(u"tadžikų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("th"_s),
@@ -4292,7 +4292,7 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ti"_s),
-			$of(u"tigraj\u0173"_s)
+			$of(u"tigrajų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kfo"_s),
@@ -4300,11 +4300,11 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("en_CA"_s),
-			$of(u"Kanados angl\u0173"_s)
+			$of(u"Kanados anglų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("tk"_s),
-			$of(u"turkm\u0117n\u0173"_s)
+			$of(u"turkmėnų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("tl"_s),
@@ -4312,11 +4312,11 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("tn"_s),
-			$of(u"tsvan\u0173"_s)
+			$of(u"tsvanų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("to"_s),
-			$of(u"tongan\u0173"_s)
+			$of(u"tonganų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bum"_s),
@@ -4324,35 +4324,35 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("dyo"_s),
-			$of(u"d\u017eiola-foni"_s)
+			$of(u"džiola-foni"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.jpan"_s),
-			$of(u"japon\u0173 skaitmenys"_s)
+			$of(u"japonų skaitmenys"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("tr"_s),
-			$of(u"turk\u0173"_s)
+			$of(u"turkų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ts"_s),
-			$of(u"tsong\u0173"_s)
+			$of(u"tsongų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("swb"_s),
-			$of(u"Komor\u0173"_s)
+			$of(u"Komorų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Cakm"_s),
-			$of(u"\u010dakma"_s)
+			$of(u"čakma"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("tt"_s),
-			$of(u"totori\u0173"_s)
+			$of(u"totorių"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("dyu"_s),
-			$of(u"dyul\u0173"_s)
+			$of(u"dyulų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("tw"_s),
@@ -4360,11 +4360,11 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ty"_s),
-			$of(u"taitie\u010di\u0173"_s)
+			$of(u"taitiečių"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("%%BISKE"_s),
-			$of(u"San Giorgio / Bila tarm\u0117"_s)
+			$of(u"San Giorgio / Bila tarmė"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("150"_s),
@@ -4372,23 +4372,23 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("151"_s),
-			$of(u"Ryt\u0173 Europa"_s)
+			$of(u"Rytų Europa"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("154"_s),
-			$of(u"\u0160iaur\u0117s Europa"_s)
+			$of(u"Šiaurės Europa"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("dzg"_s),
-			$of(u"dazag\u0173"_s)
+			$of(u"dazagų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("155"_s),
-			$of(u"Vakar\u0173 Europa"_s)
+			$of(u"Vakarų Europa"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ug"_s),
-			$of(u"uig\u016br\u0173"_s)
+			$of(u"uigūrų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Kore"_s),
@@ -4396,7 +4396,7 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("Ital"_s),
-			$of(u"senasis ital\u0173"_s)
+			$of(u"senasis italų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kgp"_s),
@@ -4408,27 +4408,27 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("uk"_s),
-			$of(u"ukrainie\u010di\u0173"_s)
+			$of(u"ukrainiečių"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("zea"_s),
-			$of(u"zeland\u0173"_s)
+			$of(u"zelandų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.ca.coptic"_s),
-			$of(u"kopt\u0173 kalendorius"_s)
+			$of(u"koptų kalendorius"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ur"_s),
-			$of(u"urd\u0173"_s)
+			$of(u"urdų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("%%1994"_s),
-			$of(u"Sunorminta Resian ra\u0161yba"_s)
+			$of(u"Sunorminta Resian rašyba"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xal"_s),
-			$of(u"kalmuk\u0173"_s)
+			$of(u"kalmukų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("zen"_s),
@@ -4436,7 +4436,7 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("uz"_s),
-			$of(u"uzbek\u0173"_s)
+			$of(u"uzbekų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kha"_s),
@@ -4444,11 +4444,11 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("%%1996"_s),
-			$of(u"1996 -\u0173j\u0173 met\u0173 vokie\u010di\u0173 ra\u0161yba"_s)
+			$of(u"1996 -ųjų metų vokiečių rašyba"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("nds_NL"_s),
-			$of(u"\u017demutin\u0117s Saksonijos (Nyderlandai)"_s)
+			$of(u"Žemutinės Saksonijos (Nyderlandai)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Sylo"_s),
@@ -4456,7 +4456,7 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ve"_s),
-			$of(u"vend\u0173"_s)
+			$of(u"vendų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Wara"_s),
@@ -4468,23 +4468,23 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("vi"_s),
-			$of(u"vietnamie\u010di\u0173"_s)
+			$of(u"vietnamiečių"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kho"_s),
-			$of(u"kotanez\u0173"_s)
+			$of(u"kotanezų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("khq"_s),
-			$of(u"kojra \u010dini"_s)
+			$of(u"kojra čini"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("key.hc"_s),
-			$of(u"valand\u0173 ciklas (12 ir 24)"_s)
+			$of(u"valandų ciklas (12 ir 24)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("%%TARASK"_s),
-			$of(u"Taraskievica tarm\u0117"_s)
+			$of(u"Taraskievica tarmė"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("vo"_s),
@@ -4492,23 +4492,23 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("khw"_s),
-			$of(u"khovar\u0173"_s)
+			$of(u"khovarų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("syc"_s),
-			$of(u"klasikin\u0117 sir\u0173"_s)
+			$of(u"klasikinė sirų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Osma"_s),
-			$of(u"osman\u0173"_s)
+			$of(u"osmanų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("quc"_s),
-			$of(u"ki\u010di\u0173"_s)
+			$of(u"kičių"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("qug"_s),
-			$of(u"\u010cimboraso auk\u0161tum\u0173 ke\u010duj\u0173"_s)
+			$of(u"Čimboraso aukštumų kečujų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gaa"_s),
@@ -4516,11 +4516,11 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("wa"_s),
-			$of(u"valon\u0173"_s)
+			$of(u"valonų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gag"_s),
-			$of(u"gaga\u016bz\u0173"_s)
+			$of(u"gagaūzų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("syr"_s),
@@ -4532,7 +4532,7 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("gan"_s),
-			$of(u"kin\u0173 kalbos dziangsi tarm\u0117"_s)
+			$of(u"kinų kalbos dziangsi tarmė"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kiu"_s),
@@ -4544,23 +4544,23 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("Xsux"_s),
-			$of(u"\u0160umero Akado dantira\u0161tis"_s)
+			$of(u"Šumero Akado dantiraštis"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("wo"_s),
-			$of(u"volof\u0173"_s)
+			$of(u"volofų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("zgh"_s),
-			$of(u"standartin\u0117 Maroko tamazigt\u0173"_s)
+			$of(u"standartinė Maroko tamazigtų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ar_001"_s),
-			$of(u"\u0161iuolaikin\u0117 standartin\u0117 arab\u0173"_s)
+			$of(u"šiuolaikinė standartinė arabų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Cans"_s),
-			$of(u"suvienodinti Kanados aborigen\u0173 silabiniai"_s)
+			$of(u"suvienodinti Kanados aborigenų silabiniai"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gay"_s),
@@ -4572,15 +4572,15 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("mnc"_s),
-			$of(u"man\u010du"_s)
+			$of(u"manču"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Latf"_s),
-			$of(u"fraktur lotyn\u0173"_s)
+			$of(u"fraktur lotynų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("szl"_s),
-			$of(u"silezie\u010di\u0173"_s)
+			$of(u"sileziečių"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Hluw"_s),
@@ -4592,7 +4592,7 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("mni"_s),
-			$of(u"manipuri\u0173"_s)
+			$of(u"manipurių"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Latn"_s),
@@ -4600,23 +4600,23 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("Latg"_s),
-			$of(u"g\u0117l\u0173 lotyn\u0173"_s)
+			$of(u"gėlų lotynų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.hans"_s),
-			$of(u"supaprastintos kin\u0173 k. skaitmenys"_s)
+			$of(u"supaprastintos kinų k. skaitmenys"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.hant"_s),
-			$of(u"tradicin\u0117s kin\u0173 k. skaitmenys"_s)
+			$of(u"tradicinės kinų k. skaitmenys"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xh"_s),
-			$of(u"kos\u0173"_s)
+			$of(u"kosų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.romanlow"_s),
-			$of(u"rom\u0117ni\u0161ki skaitmenys ma\u017eosiomis raid\u0117mis"_s)
+			$of(u"romėniški skaitmenys mažosiomis raidėmis"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("byn"_s),
@@ -4632,15 +4632,15 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("byv"_s),
-			$of(u"medumb\u0173"_s)
+			$of(u"medumbų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gbz"_s),
-			$of(u"zoroastr\u0173 dari"_s)
+			$of(u"zoroastrų dari"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Moon"_s),
-			$of(u"m\u016bn"_s)
+			$of(u"mūn"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("moh"_s),
@@ -4652,7 +4652,7 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("%%1694ACAD"_s),
-			$of(u"Ankstyvasis Pranc\u016bzijos modernizmas"_s)
+			$of(u"Ankstyvasis Prancūzijos modernizmas"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Syrc"_s),
@@ -4660,7 +4660,7 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("yi"_s),
-			$of(u"jidi\u0161"_s)
+			$of(u"jidiš"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mos"_s),
@@ -4672,27 +4672,27 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("yo"_s),
-			$of(u"jorub\u0173"_s)
+			$of(u"jorubų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.traditional"_s),
-			$of(u"Tradiciniai skai\u010diai"_s)
+			$of(u"Tradiciniai skaičiai"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("es_MX"_s),
-			$of(u"Meksikos ispan\u0173"_s)
+			$of(u"Meksikos ispanų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Syrj"_s),
-			$of(u"vakar\u0173 sir\u0173"_s)
+			$of(u"vakarų sirų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ota"_s),
-			$of(u"osman\u0173 turk\u0173"_s)
+			$of(u"osmanų turkų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Syre"_s),
-			$of(u"estrangelo sirie\u010di\u0173"_s)
+			$of(u"estrangelo siriečių"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("vai"_s),
@@ -4704,15 +4704,15 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("Cari"_s),
-			$of(u"kari\u0173"_s)
+			$of(u"karių"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kln"_s),
-			$of(u"kalenjin\u0173"_s)
+			$of(u"kalenjinų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("zh"_s),
-			$of(u"kin\u0173"_s)
+			$of(u"kinų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Afak"_s),
@@ -4724,19 +4724,19 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("Perm"_s),
-			$of(u"senieji perm\u0117s"_s)
+			$of(u"senieji permės"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("key.lb"_s),
-			$of(u"teksto lau\u017eymo stilius"_s)
+			$of(u"teksto laužymo stilius"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("zu"_s),
-			$of(u"zul\u0173"_s)
+			$of(u"zulų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.co.phonebook"_s),
-			$of(u"telefon\u0173 knygos r\u016b\u0161iavimo tvarka"_s)
+			$of(u"telefonų knygos rūšiavimo tvarka"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("%%MONOTON"_s),
@@ -4748,7 +4748,7 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("Shrd"_s),
-			$of(u"\u0160arados"_s)
+			$of(u"Šarados"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kmb"_s),
@@ -4756,11 +4756,11 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.jpanfin"_s),
-			$of(u"japon\u0173 finans. skaitmenys"_s)
+			$of(u"japonų finans. skaitmenys"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Cham"_s),
-			$of(u"\u010dam"_s)
+			$of(u"čam"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gez"_s),
@@ -4768,11 +4768,11 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("mrj"_s),
-			$of(u"vakar\u0173 mari"_s)
+			$of(u"vakarų mari"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Syrn"_s),
-			$of(u"ryt\u0173 sir\u0173"_s)
+			$of(u"rytų sirų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.mymrshan"_s),
@@ -4784,7 +4784,7 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("Narb"_s),
-			$of(u"Senasis \u0161iaur\u0117s arab\u0173"_s)
+			$of(u"Senasis šiaurės arabų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.olck"_s),
@@ -4792,7 +4792,7 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("type.co.reformed"_s),
-			$of(u"reformuota r\u016b\u0161iavimo tvarka"_s)
+			$of(u"reformuota rūšiavimo tvarka"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Tglg"_s),
@@ -4804,7 +4804,7 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("Egyh"_s),
-			$of(u"Egipto \u017eyni\u0173"_s)
+			$of(u"Egipto žynių"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Palm"_s),
@@ -4820,35 +4820,35 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("Geok"_s),
-			$of(u"gruzin\u0173 kutsuri"_s)
+			$of(u"gruzinų kutsuri"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("zh_Hans"_s),
-			$of(u"supaprastintoji kin\u0173"_s)
+			$of(u"supaprastintoji kinų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("koi"_s),
-			$of(u"komi\u0173-permi\u0173"_s)
+			$of(u"komių-permių"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Hung"_s),
-			$of(u"senasis vengr\u0173"_s)
+			$of(u"senasis vengrų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kok"_s),
-			$of(u"konkani\u0173"_s)
+			$of(u"konkanių"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("%%1901"_s),
-			$of(u"\u012eprasta vokie\u010di\u0173 ra\u0161yba"_s)
+			$of(u"Įprasta vokiečių rašyba"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kos"_s),
-			$of(u"kosrean\u0173"_s)
+			$of(u"kosreanų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("vec"_s),
-			$of(u"venet\u0173"_s)
+			$of(u"venetų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.limb"_s),
@@ -4856,7 +4856,7 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("zh_Hant"_s),
-			$of(u"tradicin\u0117 kin\u0173"_s)
+			$of(u"tradicinė kinų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Sund"_s),
@@ -4864,15 +4864,15 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("vep"_s),
-			$of(u"veps\u0173"_s)
+			$of(u"vepsų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kpe"_s),
-			$of(u"kpeli\u0173"_s)
+			$of(u"kpelių"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.khmr"_s),
-			$of(u"khmer\u0173 skaitmenys"_s)
+			$of(u"khmerų skaitmenys"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Tirh"_s),
@@ -4880,11 +4880,11 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ilo"_s),
-			$of(u"ilok\u0173"_s)
+			$of(u"ilokų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("%%VALENCIA"_s),
-			$of(u"Valencie\u010diai"_s)
+			$of(u"Valenciečiai"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Cprt"_s),
@@ -4892,11 +4892,11 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("%%BAKU1926"_s),
-			$of(u"Suvienodinta turk\u0173 kalbos lotyni\u0161ka ab\u0117c\u0117l\u0117"_s)
+			$of(u"Suvienodinta turkų kalbos lotyniška abėcėlė"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mua"_s),
-			$of(u"mundang\u0173"_s)
+			$of(u"mundangų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.guru"_s),
@@ -4912,11 +4912,11 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("key.ms"_s),
-			$of(u"mat\u0173 sistema"_s)
+			$of(u"matų sistema"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mus"_s),
-			$of(u"kryk\u0173"_s)
+			$of(u"krykų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Glag"_s),
@@ -4928,7 +4928,7 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("%%KKCOR"_s),
-			$of(u"\u012eprasta ra\u0161yba"_s)
+			$of(u"Įprasta rašyba"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Cher"_s),
@@ -4936,23 +4936,23 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("car"_s),
-			$of(u"karib\u0173"_s)
+			$of(u"karibų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cay"_s),
-			$of(u"kaij\u016bg\u0173"_s)
+			$of(u"kaijūgų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.tamldec"_s),
-			$of(u"tamil\u0173 skaitmenys"_s)
+			$of(u"tamilų skaitmenys"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("krc"_s),
-			$of(u"kara\u010diaj\u0173 balkarijos"_s)
+			$of(u"karačiajų balkarijos"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("inh"_s),
-			$of(u"ingu\u0161\u0173"_s)
+			$of(u"ingušų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("krj"_s),
@@ -4964,7 +4964,7 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("krl"_s),
-			$of(u"karel\u0173"_s)
+			$of(u"karelų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("efi"_s),
@@ -4972,11 +4972,11 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("tcy"_s),
-			$of(u"tul\u0173"_s)
+			$of(u"tulų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("key.nu"_s),
-			$of(u"skai\u010diai"_s)
+			$of(u"skaičiai"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kru"_s),
@@ -4984,7 +4984,7 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ksb"_s),
-			$of(u"\u0161ambal\u0173"_s)
+			$of(u"šambalų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Telu"_s),
@@ -4992,7 +4992,7 @@ $ObjectArray2* LocaleNames_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ksf"_s),
-			$of(u"baf\u0173"_s)
+			$of(u"bafų"_s)
 		})
 	}));
 	return data;

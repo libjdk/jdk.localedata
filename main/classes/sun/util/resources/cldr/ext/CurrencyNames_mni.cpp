@@ -46,39 +46,39 @@ $ObjectArray2* CurrencyNames_mni::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("brl"_s),
-			$of(u"\u09ac\u09cd\u09b0\u09be\u099c\u09bf\u09b2\u09bf\u09af\u09bc\u09be\u09a8 \u09b0\u09c7\u09af\u09bc\u09be\u09b2"_s)
+			$of(u"ব্রাজিলিয়ান রেয়াল"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cny"_s),
-			$of(u"\u099a\u09be\u0987\u09a8\u09bf\u099c \u09af\u09bc\u09c1\u0986\u09a8"_s)
+			$of(u"চাইনিজ য়ুআন"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("eur"_s),
-			$of(u"\u09af\u09bc\u09c1\u09b0\u09cb"_s)
+			$of(u"য়ুরো"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gbp"_s),
-			$of(u"\u09ac\u09cd\u09b0\u09bf\u099f\u09bf\u09b6 \u09aa\u09be\u0989\u09a8\u09cd\u09a6"_s)
+			$of(u"ব্রিটিশ পাউন্দ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("inr"_s),
-			$of(u"\u0987\u09a8\u09cd\u09a6\u09bf\u09af\u09bc\u09be\u09a8 \u09b0\u09c1\u09aa\u09bf"_s)
+			$of(u"ইন্দিয়ান রুপি"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("jpy"_s),
-			$of(u"\u099c\u09be\u09aa\u09be\u09a8\u09bf\u099c \u09af\u09bc\u09c7\u09a8"_s)
+			$of(u"জাপানিজ য়েন"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("rub"_s),
-			$of(u"\u09b0\u09c1\u09b8\u09bf\u09af\u09bc\u09be\u09a8 \u09b0\u09c1\u09ac\u09b2"_s)
+			$of(u"রুসিয়ান রুবল"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("usd"_s),
-			$of(u"\u09af\u09bc\u09c1 \u098f\u09b8 \u09a6\u09bf"_s)
+			$of(u"য়ু এস দি"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xxx"_s),
-			$of(u"\u09ae\u09b6\u0995\u0996\u0982\u09a6\u09ac\u09be \u0995\u09b0\u09c7\u09a8\u09cd\u09b8\u09bf"_s)
+			$of(u"মশকখংদবা করেন্সি"_s)
 		})
 	}));
 	return data;

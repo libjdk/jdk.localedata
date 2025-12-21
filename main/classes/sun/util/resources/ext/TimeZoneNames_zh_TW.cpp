@@ -119,643 +119,643 @@ void TimeZoneNames_zh_TW::init$() {
 $ObjectArray2* TimeZoneNames_zh_TW::getContents() {
 	$useLocalCurrentObjectStackCache();
 	$var($StringArray, ACT, $new($StringArray, {
-		u"Acre \u6642\u9593"_s,
+		u"Acre 時間"_s,
 		"ACT"_s,
-		u"Acre \u590f\u4ee4\u6642\u9593"_s,
+		u"Acre 夏令時間"_s,
 		"ACST"_s,
-		u"Acre \u6642\u9593"_s,
+		u"Acre 時間"_s,
 		"ACT"_s
 	}));
 	$var($StringArray, ADELAIDE, $new($StringArray, {
-		u"\u4e2d\u90e8\u6a19\u6e96\u6642\u9593 (\u6fb3\u5927\u5229\u4e9e\u5357\u90e8)"_s,
+		u"中部標準時間 (澳大利亞南部)"_s,
 		"ACST"_s,
-		u"\u4e2d\u90e8\u590f\u4ee4\u6642\u9593 (\u6fb3\u5927\u5229\u4e9e\u5357\u5340)"_s,
+		u"中部夏令時間 (澳大利亞南區)"_s,
 		"ACDT"_s,
-		u"\u4e2d\u90e8\u6642\u9593 (\u6fb3\u5927\u5229\u4e9e\u5357\u90e8)"_s,
+		u"中部時間 (澳大利亞南部)"_s,
 		"ACT"_s
 	}));
 	$var($StringArray, AGT, $new($StringArray, {
-		u"\u963f\u6839\u5ef7\u6642\u9593"_s,
+		u"阿根廷時間"_s,
 		"ART"_s,
-		u"\u963f\u6839\u5ef7\u590f\u4ee4\u6642\u9593"_s,
+		u"阿根廷夏令時間"_s,
 		"ARST"_s,
-		u"\u963f\u6839\u5ef7\u6642\u9593"_s,
+		u"阿根廷時間"_s,
 		"ART"_s
 	}));
 	$var($StringArray, AKST, $new($StringArray, {
-		u"\u963f\u62c9\u65af\u52a0\u6a19\u6e96\u6642\u9593"_s,
+		u"阿拉斯加標準時間"_s,
 		"AKST"_s,
-		u"\u963f\u62c9\u65af\u52a0\u65e5\u5149\u7bc0\u7d04\u6642\u9593"_s,
+		u"阿拉斯加日光節約時間"_s,
 		"AKDT"_s,
-		u"\u963f\u62c9\u65af\u52a0\u6642\u9593"_s,
+		u"阿拉斯加時間"_s,
 		"AKT"_s
 	}));
 	$var($StringArray, AMT, $new($StringArray, {
-		u"\u4e9e\u99ac\u905c\u6642\u9593"_s,
+		u"亞馬遜時間"_s,
 		"AMT"_s,
-		u"\u4e9e\u99ac\u905c\u590f\u4ee4\u6642\u9593"_s,
+		u"亞馬遜夏令時間"_s,
 		"AMST"_s,
-		u"\u4e9e\u99ac\u905c\u6642\u9593"_s,
+		u"亞馬遜時間"_s,
 		"AMT"_s
 	}));
 	$var($StringArray, ARAST, $new($StringArray, {
-		u"\u963f\u62c9\u4f2f\u6a19\u6e96\u6642\u9593"_s,
+		u"阿拉伯標準時間"_s,
 		"AST"_s,
-		u"\u963f\u62c9\u4f2f\u65e5\u5149\u7bc0\u7d04\u6642\u9593"_s,
+		u"阿拉伯日光節約時間"_s,
 		"ADT"_s,
-		u"\u963f\u62c9\u4f2f\u6642\u9593"_s,
+		u"阿拉伯時間"_s,
 		"AT"_s
 	}));
 	$var($StringArray, ARMT, $new($StringArray, {
-		u"\u4e9e\u7f8e\u5c3c\u4e9e\u6642\u9593"_s,
+		u"亞美尼亞時間"_s,
 		"AMT"_s,
-		u"\u4e9e\u7f8e\u5c3c\u4e9e\u590f\u4ee4\u6642\u9593"_s,
+		u"亞美尼亞夏令時間"_s,
 		"AMST"_s,
-		u"\u4e9e\u7f8e\u5c3c\u4e9e\u6642\u9593"_s,
+		u"亞美尼亞時間"_s,
 		"AMT"_s
 	}));
 	$var($StringArray, AST, $new($StringArray, {
-		u"\u5927\u897f\u6d0b\u6a19\u6e96\u6642\u9593"_s,
+		u"大西洋標準時間"_s,
 		"AST"_s,
-		u"\u5927\u897f\u6d0b\u65e5\u5149\u7bc0\u7d04\u6642\u9593"_s,
+		u"大西洋日光節約時間"_s,
 		"ADT"_s,
-		u"\u5927\u897f\u6d0b\u6642\u9593"_s,
+		u"大西洋時間"_s,
 		"AT"_s
 	}));
 	$var($StringArray, BDT, $new($StringArray, {
-		u"\u5b5f\u52a0\u62c9\u6642\u9593"_s,
+		u"孟加拉時間"_s,
 		"BDT"_s,
-		u"\u5b5f\u52a0\u62c9\u590f\u4ee4\u6642\u9593"_s,
+		u"孟加拉夏令時間"_s,
 		"BDST"_s,
-		u"\u5b5f\u52a0\u62c9\u6642\u9593"_s,
+		u"孟加拉時間"_s,
 		"BDT"_s
 	}));
 	$var($StringArray, BRISBANE, $new($StringArray, {
-		u"\u6771\u90e8\u6a19\u6e96\u6642\u9593 (\u6606\u58eb\u862d)"_s,
+		u"東部標準時間 (昆士蘭)"_s,
 		"AEST"_s,
-		u"\u6771\u90e8\u590f\u4ee4\u6642\u9593 (\u6606\u58eb\u862d)"_s,
+		u"東部夏令時間 (昆士蘭)"_s,
 		"AEDT"_s,
-		u"\u6771\u90e8\u6642\u9593 (\u6606\u58eb\u862d)"_s,
+		u"東部時間 (昆士蘭)"_s,
 		"AET"_s
 	}));
 	$var($StringArray, BROKEN_HILL, $new($StringArray, {
-		u"\u4e2d\u90e8\u6a19\u6e96\u6642\u9593 (\u6fb3\u5927\u5229\u4e9e\u5357\u5340/\u65b0\u5357\u5a01\u723e\u65af)"_s,
+		u"中部標準時間 (澳大利亞南區/新南威爾斯)"_s,
 		"ACST"_s,
-		u"\u4e2d\u90e8\u590f\u4ee4\u6642\u9593 (\u6fb3\u5927\u5229\u4e9e\u5357\u5340/\u65b0\u5357\u5a01\u723e\u65af)"_s,
+		u"中部夏令時間 (澳大利亞南區/新南威爾斯)"_s,
 		"ACDT"_s,
-		u"\u4e2d\u90e8\u6642\u9593 (\u6fb3\u5927\u5229\u4e9e\u5357\u90e8/\u65b0\u5357\u5a01\u723e\u65af)"_s,
+		u"中部時間 (澳大利亞南部/新南威爾斯)"_s,
 		"ACT"_s
 	}));
 	$var($StringArray, BRT, $new($StringArray, {
-		u"\u5df4\u897f\u5229\u4e9e\u6642\u9593"_s,
+		u"巴西利亞時間"_s,
 		"BRT"_s,
-		u"\u5df4\u897f\u5229\u4e9e\u590f\u4ee4\u6642\u9593"_s,
+		u"巴西利亞夏令時間"_s,
 		"BRST"_s,
-		u"\u5df4\u897f\u5229\u4e9e\u6642\u9593"_s,
+		u"巴西利亞時間"_s,
 		"BRT"_s
 	}));
 	$var($StringArray, BTT, $new($StringArray, {
-		u"\u4e0d\u4e39\u6642\u9593"_s,
+		u"不丹時間"_s,
 		"BTT"_s,
-		u"\u4e0d\u4e39\u590f\u4ee4\u6642\u9593"_s,
+		u"不丹夏令時間"_s,
 		"BTST"_s,
-		u"\u4e0d\u4e39\u6642\u9593"_s,
+		u"不丹時間"_s,
 		"BTT"_s
 	}));
 	$var($StringArray, CAT, $new($StringArray, {
-		u"\u4e2d\u975e\u6642\u9593"_s,
+		u"中非時間"_s,
 		"CAT"_s,
-		u"\u4e2d\u975e\u590f\u4ee4\u6642\u9593"_s,
+		u"中非夏令時間"_s,
 		"CAST"_s,
-		u"\u4e2d\u975e\u6642\u9593"_s,
+		u"中非時間"_s,
 		"CAT"_s
 	}));
 	$var($StringArray, CET, $new($StringArray, {
-		u"\u4e2d\u6b50\u6642\u9593"_s,
+		u"中歐時間"_s,
 		"CET"_s,
-		u"\u4e2d\u6b50\u590f\u4ee4\u6642\u9593"_s,
+		u"中歐夏令時間"_s,
 		"CEST"_s,
-		u"\u4e2d\u6b50\u6642\u9593"_s,
+		u"中歐時間"_s,
 		"CET"_s
 	}));
 	$var($StringArray, CHAST, $new($StringArray, {
-		u"\u67e5\u5766\u6a19\u6e96\u6642\u9593"_s,
+		u"查坦標準時間"_s,
 		"CHAST"_s,
-		u"\u67e5\u5766\u65e5\u5149\u7bc0\u7d04\u6642\u9593"_s,
+		u"查坦日光節約時間"_s,
 		"CHADT"_s,
-		u"\u67e5\u5766\u6642\u9593"_s,
+		u"查坦時間"_s,
 		"CHAT"_s
 	}));
 	$var($StringArray, CHUT, $new($StringArray, {
-		u"\u695a\u514b\u6642\u9593"_s,
+		u"楚克時間"_s,
 		"CHUT"_s,
-		u"\u695a\u514b\u590f\u4ee4\u6642\u9593"_s,
+		u"楚克夏令時間"_s,
 		"CHUST"_s,
-		u"\u695a\u514b\u6642\u9593"_s,
+		u"楚克時間"_s,
 		"CHUT"_s
 	}));
 	$var($StringArray, CIT, $new($StringArray, {
-		u"\u4e2d\u5370\u5ea6\u5c3c\u897f\u4e9e\u6642\u9593"_s,
+		u"中印度尼西亞時間"_s,
 		"WITA"_s,
-		u"\u4e2d\u5370\u5ea6\u5c3c\u897f\u4e9e\u590f\u4ee4\u6642\u9593"_s,
+		u"中印度尼西亞夏令時間"_s,
 		"CIST"_s,
-		u"\u4e2d\u5370\u5ea6\u5c3c\u897f\u4e9e\u6642\u9593"_s,
+		u"中印度尼西亞時間"_s,
 		"WITA"_s
 	}));
 	$var($StringArray, CLT, $new($StringArray, {
-		u"\u667a\u5229\u6642\u9593"_s,
+		u"智利時間"_s,
 		"CLT"_s,
-		u"\u667a\u5229\u590f\u4ee4\u6642\u9593"_s,
+		u"智利夏令時間"_s,
 		"CLST"_s,
-		u"\u667a\u5229\u6642\u9593"_s,
+		u"智利時間"_s,
 		"CLT"_s
 	}));
 	$var($StringArray, CST, $new($StringArray, {
-		u"\u4e2d\u592e\u6a19\u6e96\u6642\u9593"_s,
+		u"中央標準時間"_s,
 		"CST"_s,
-		u"\u4e2d\u592e\u65e5\u5149\u7bc0\u7d04\u6642\u9593"_s,
+		u"中央日光節約時間"_s,
 		"CDT"_s,
-		u"\u7f8e\u570b\u4e2d\u90e8\u6642\u9593"_s,
+		u"美國中部時間"_s,
 		"CT"_s
 	}));
 	$var($StringArray, CTT, $new($StringArray, {
-		u"\u4e2d\u570b\u6a19\u6e96\u6642\u9593"_s,
+		u"中國標準時間"_s,
 		"CST"_s,
-		u"\u4e2d\u570b\u65e5\u5149\u7bc0\u7d04\u6642\u9593"_s,
+		u"中國日光節約時間"_s,
 		"CDT"_s,
-		u"\u4e2d\u570b\u6642\u9593"_s,
+		u"中國時間"_s,
 		"CT"_s
 	}));
 	$var($StringArray, CUBA, $new($StringArray, {
-		u"\u53e4\u5df4\u6a19\u6e96\u6642\u9593"_s,
+		u"古巴標準時間"_s,
 		"CST"_s,
-		u"\u53e4\u5df4\u65e5\u5149\u7bc0\u7d04\u6642\u9593"_s,
+		u"古巴日光節約時間"_s,
 		"CDT"_s,
-		u"\u53e4\u5df4\u6642\u9593"_s,
+		u"古巴時間"_s,
 		"CT"_s
 	}));
 	$var($StringArray, DARWIN, $new($StringArray, {
-		u"\u4e2d\u90e8\u6a19\u6e96\u6642\u9593 (\u5317\u90e8\u5404\u5730\u5340)"_s,
+		u"中部標準時間 (北部各地區)"_s,
 		"ACST"_s,
-		u"\u4e2d\u90e8\u590f\u4ee4\u6642\u9593 (\u5317\u90e8\u5404\u5730\u5340)"_s,
+		u"中部夏令時間 (北部各地區)"_s,
 		"ACDT"_s,
-		u"\u6fb3\u5927\u5229\u4e9e\u4e2d\u90e8\u6642\u9593 (\u5317\u65b9\u5340\u57df)"_s,
+		u"澳大利亞中部時間 (北方區域)"_s,
 		"ACT"_s
 	}));
 	$var($StringArray, DUBLIN, $new($StringArray, {
-		u"\u683c\u6797\u5a01\u6cbb\u5e73\u5747\u6642\u9593"_s,
+		u"格林威治平均時間"_s,
 		"GMT"_s,
-		u"\u611b\u723e\u862d\u590f\u4ee4\u6642\u9593"_s,
+		u"愛爾蘭夏令時間"_s,
 		"IST"_s,
-		u"\u611b\u723e\u862d\u6587\u6642\u9593"_s,
+		u"愛爾蘭文時間"_s,
 		"IT"_s
 	}));
 	$var($StringArray, EAT, $new($StringArray, {
-		u"\u6771\u975e\u6642\u9593"_s,
+		u"東非時間"_s,
 		"EAT"_s,
-		u"\u6771\u975e\u590f\u4ee4\u6642\u9593"_s,
+		u"東非夏令時間"_s,
 		"EAST"_s,
-		u"\u6771\u975e\u6642\u9593"_s,
+		u"東非時間"_s,
 		"EAT"_s
 	}));
 	$var($StringArray, EASTER, $new($StringArray, {
-		u"\u5fa9\u6d3b\u5cf6\u6642\u9593"_s,
+		u"復活島時間"_s,
 		"EAST"_s,
-		u"\u5fa9\u6d3b\u5cf6\u590f\u4ee4\u6642\u9593"_s,
+		u"復活島夏令時間"_s,
 		"EASST"_s,
-		u"\u5fa9\u6d3b\u5cf6\u6642\u9593"_s,
+		u"復活島時間"_s,
 		"EAST"_s
 	}));
 	$var($StringArray, EET, $new($StringArray, {
-		u"\u6771\u6b50\u6642\u9593"_s,
+		u"東歐時間"_s,
 		"EET"_s,
-		u"\u6771\u6b50\u590f\u4ee4\u6642\u9593"_s,
+		u"東歐夏令時間"_s,
 		"EEST"_s,
-		u"\u6771\u6b50\u6642\u9593"_s,
+		u"東歐時間"_s,
 		"EET"_s
 	}));
 	$var($StringArray, EGT, $new($StringArray, {
-		u"\u6771\u683c\u6797\u5cf6\u6642\u9593"_s,
+		u"東格林島時間"_s,
 		"EGT"_s,
-		u"\u6771\u683c\u6797\u5cf6\u590f\u4ee4\u6642\u9593"_s,
+		u"東格林島夏令時間"_s,
 		"EGST"_s,
-		u"\u6771\u683c\u9675\u862d\u6642\u9593"_s,
+		u"東格陵蘭時間"_s,
 		"EGT"_s
 	}));
 	$var($StringArray, EST, $new($StringArray, {
-		u"\u6771\u65b9\u6a19\u6e96\u6642\u9593"_s,
+		u"東方標準時間"_s,
 		"EST"_s,
-		u"\u6771\u65b9\u65e5\u5149\u7bc0\u7d04\u6642\u9593"_s,
+		u"東方日光節約時間"_s,
 		"EDT"_s,
-		u"\u7f8e\u570b\u6771\u90e8\u6642\u9593"_s,
+		u"美國東部時間"_s,
 		"ET"_s
 	}));
 	$var($StringArray, EST_NSW, $new($StringArray, {
-		u"\u6771\u90e8\u6a19\u6e96\u6642\u9593 (\u65b0\u5357\u5a01\u723e\u65af)"_s,
+		u"東部標準時間 (新南威爾斯)"_s,
 		"AEST"_s,
-		u"\u6771\u90e8\u590f\u4ee4\u6642\u9593 (\u65b0\u5357\u5a01\u723e\u65af)"_s,
+		u"東部夏令時間 (新南威爾斯)"_s,
 		"AEDT"_s,
-		u"\u6771\u90e8\u6642\u9593 (\u65b0\u5357\u5a01\u723e\u65af)"_s,
+		u"東部時間 (新南威爾斯)"_s,
 		"AET"_s
 	}));
 	$var($StringArray, FET, $new($StringArray, {
-		u"\u6771\u6b50\u5167\u9678\u6642\u9593"_s,
+		u"東歐內陸時間"_s,
 		"FET"_s,
-		u"\u6771\u6b50\u5167\u9678\u590f\u4ee4\u6642\u9593"_s,
+		u"東歐內陸夏令時間"_s,
 		"FEST"_s,
-		u"\u6771\u6b50\u5167\u9678\u6642\u9593"_s,
+		u"東歐內陸時間"_s,
 		"FET"_s
 	}));
 	$var($StringArray, GHMT, $new($StringArray, {
-		u"\u8fe6\u7d0d\u5e73\u5747\u6642\u9593"_s,
+		u"迦納平均時間"_s,
 		"GMT"_s,
-		u"\u8fe6\u7d0d\u590f\u4ee4\u6642\u9593"_s,
+		u"迦納夏令時間"_s,
 		"GHST"_s,
-		u"\u8fe6\u7d0d\u6642\u9593"_s,
+		u"迦納時間"_s,
 		"GMT"_s
 	}));
 	$var($StringArray, GAMBIER, $new($StringArray, {
-		u"\u7518\u6bd4\u723e\u6642\u9593"_s,
+		u"甘比爾時間"_s,
 		"GAMT"_s,
-		u"\u7518\u6bd4\u723e\u590f\u4ee4\u6642\u9593"_s,
+		u"甘比爾夏令時間"_s,
 		"GAMST"_s,
-		u"\u7518\u6bd4\u723e\u6642\u9593"_s,
+		u"甘比爾時間"_s,
 		"GAMT"_s
 	}));
 	$var($StringArray, GMT, $new($StringArray, {
-		u"\u683c\u6797\u5a01\u6cbb\u6642\u9593"_s,
+		u"格林威治時間"_s,
 		"GMT"_s,
-		u"\u683c\u6797\u5a01\u6cbb\u6642\u9593"_s,
+		u"格林威治時間"_s,
 		"GMT"_s,
-		u"\u683c\u6797\u5a01\u6cbb\u6642\u9593"_s,
+		u"格林威治時間"_s,
 		"GMT"_s
 	}));
 	$var($StringArray, GMTBST, $new($StringArray, {
-		u"\u683c\u6797\u5a01\u6cbb\u5e73\u5747\u6642\u9593"_s,
+		u"格林威治平均時間"_s,
 		"GMT"_s,
-		u"\u82f1\u570b\u590f\u4ee4\u6642\u9593"_s,
+		u"英國夏令時間"_s,
 		"BST"_s,
-		u"\u82f1\u570b\u6642\u9593"_s,
+		u"英國時間"_s,
 		"BT"_s
 	}));
 	$var($StringArray, GST, $new($StringArray, {
-		u"\u6ce2\u65af\u7063\u6a19\u6e96\u6642\u9593"_s,
+		u"波斯灣標準時間"_s,
 		"GST"_s,
-		u"\u6ce2\u65af\u7063\u65e5\u5149\u7bc0\u7d04\u6642\u9593"_s,
+		u"波斯灣日光節約時間"_s,
 		"GDT"_s,
-		u"\u6ce2\u65af\u7063\u6642\u9593"_s,
+		u"波斯灣時間"_s,
 		"GT"_s
 	}));
 	$var($StringArray, HKT, $new($StringArray, {
-		u"\u9999\u6e2f\u6642\u9593"_s,
+		u"香港時間"_s,
 		"HKT"_s,
-		u"\u9999\u6e2f\u590f\u4ee4\u6642\u9593"_s,
+		u"香港夏令時間"_s,
 		"HKST"_s,
-		u"\u9999\u6e2f\u6642\u9593"_s,
+		u"香港時間"_s,
 		"HKT"_s
 	}));
 	$var($StringArray, HST, $new($StringArray, {
-		u"\u590f\u5a01\u5937\u6a19\u6e96\u6642\u9593"_s,
+		u"夏威夷標準時間"_s,
 		"HST"_s,
-		u"\u590f\u5a01\u5937\u65e5\u5149\u7bc0\u7d04\u6642\u9593"_s,
+		u"夏威夷日光節約時間"_s,
 		"HDT"_s,
-		u"\u590f\u5a01\u5937\u6642\u9593"_s,
+		u"夏威夷時間"_s,
 		"HT"_s
 	}));
 	$var($StringArray, ICT, $new($StringArray, {
-		u"\u5370\u5ea6\u652f\u90a3\u6642\u9593"_s,
+		u"印度支那時間"_s,
 		"ICT"_s,
-		u"\u5370\u5ea6\u652f\u90a3\u590f\u4ee4\u6642\u9593"_s,
+		u"印度支那夏令時間"_s,
 		"ICST"_s,
-		u"\u5370\u5ea6\u652f\u90a3\u6642\u9593"_s,
+		u"印度支那時間"_s,
 		"ICT"_s
 	}));
 	$var($StringArray, IRKT, $new($StringArray, {
-		u"Irkutsk \u6642\u9593"_s,
+		u"Irkutsk 時間"_s,
 		"IRKT"_s,
-		u"Irkutsk \u590f\u4ee4\u6642\u9593"_s,
+		u"Irkutsk 夏令時間"_s,
 		"IRKST"_s,
-		u"\u4f0a\u723e\u5eab\u6b21\u514b\u6642\u9593"_s,
+		u"伊爾庫次克時間"_s,
 		"IRKT"_s
 	}));
 	$var($StringArray, IRT, $new($StringArray, {
-		u"\u4f0a\u6717\u6a19\u6e96\u6642\u9593"_s,
+		u"伊朗標準時間"_s,
 		"IRST"_s,
-		u"\u4f0a\u6717\u65e5\u5149\u7bc0\u7d04\u6642\u9593"_s,
+		u"伊朗日光節約時間"_s,
 		"IRDT"_s,
-		u"\u4f0a\u6717\u6642\u9593"_s,
+		u"伊朗時間"_s,
 		"IRT"_s
 	}));
 	$var($StringArray, ISRAEL, $new($StringArray, {
-		u"\u4ee5\u8272\u5217\u6a19\u6e96\u6642\u9593"_s,
+		u"以色列標準時間"_s,
 		"IST"_s,
-		u"\u4ee5\u8272\u5217\u65e5\u5149\u7bc0\u7d04\u6642\u9593"_s,
+		u"以色列日光節約時間"_s,
 		"IDT"_s,
-		u"\u4ee5\u8272\u5217\u6642\u9593"_s,
+		u"以色列時間"_s,
 		"IT"_s
 	}));
 	$var($StringArray, IST, $new($StringArray, {
-		u"\u5370\u5ea6\u6a19\u6e96\u6642\u9593"_s,
+		u"印度標準時間"_s,
 		"IST"_s,
-		u"\u5370\u5ea6\u65e5\u5149\u7bc0\u7d04\u6642\u9593"_s,
+		u"印度日光節約時間"_s,
 		"IDT"_s,
-		u"\u5370\u5ea6\u6642\u9593"_s,
+		u"印度時間"_s,
 		"IT"_s
 	}));
 	$var($StringArray, JST, $new($StringArray, {
-		u"\u65e5\u672c\u6a19\u6e96\u6642\u9593"_s,
+		u"日本標準時間"_s,
 		"JST"_s,
-		u"\u65e5\u672c\u65e5\u5149\u7bc0\u7d04\u6642\u9593"_s,
+		u"日本日光節約時間"_s,
 		"JDT"_s,
-		u"\u65e5\u672c\u6642\u9593"_s,
+		u"日本時間"_s,
 		"JT"_s
 	}));
 	$var($StringArray, KRAT, $new($StringArray, {
-		u"\u514b\u62c9\u65af\u8afe\u4e9e\u723e\u65af\u514b\u6642\u9593"_s,
+		u"克拉斯諾亞爾斯克時間"_s,
 		"KRAT"_s,
-		u"\u514b\u62c9\u65af\u8afe\u4e9e\u723e\u65af\u514b\u590f\u4ee4\u6642\u9593"_s,
+		u"克拉斯諾亞爾斯克夏令時間"_s,
 		"KRAST"_s,
-		u"\u514b\u62c9\u65af\u8afe\u4e9e\u723e\u65af\u514b\u6642\u9593"_s,
+		u"克拉斯諾亞爾斯克時間"_s,
 		"KRAT"_s
 	}));
 	$var($StringArray, KST, $new($StringArray, {
-		u"\u97d3\u570b\u6a19\u6e96\u6642\u9593"_s,
+		u"韓國標準時間"_s,
 		"KST"_s,
-		u"\u97d3\u570b\u65e5\u5149\u7bc0\u7d04\u6642\u9593"_s,
+		u"韓國日光節約時間"_s,
 		"KDT"_s,
-		u"\u97d3\u570b\u6642\u9593"_s,
+		u"韓國時間"_s,
 		"KT"_s
 	}));
 	$var($StringArray, LORD_HOWE, $new($StringArray, {
-		u"\u8c6a\u52f3\u7235\u5cf6\u6a19\u6e96\u6642\u9593"_s,
+		u"豪勳爵島標準時間"_s,
 		"LHST"_s,
-		u"\u8c6a\u52f3\u7235\u5cf6\u590f\u4ee4\u6642\u9593"_s,
+		u"豪勳爵島夏令時間"_s,
 		"LHDT"_s,
-		u"\u8c6a\u52f3\u7235\u5cf6\u6642\u9593"_s,
+		u"豪勳爵島時間"_s,
 		"LHT"_s
 	}));
 	$var($StringArray, MHT, $new($StringArray, {
-		u"\u99ac\u7d39\u723e\u7fa4\u5cf6\u6642\u9593"_s,
+		u"馬紹爾群島時間"_s,
 		"MHT"_s,
-		u"\u99ac\u7d39\u723e\u7fa4\u5cf6\u590f\u4ee4\u6642\u9593"_s,
+		u"馬紹爾群島夏令時間"_s,
 		"MHST"_s,
-		u"\u99ac\u7d39\u723e\u7fa4\u5cf6\u6642\u9593"_s,
+		u"馬紹爾群島時間"_s,
 		"MHT"_s
 	}));
 	$var($StringArray, MMT, $new($StringArray, {
-		u"\u7dec\u7538\u6642\u9593"_s,
+		u"緬甸時間"_s,
 		"MMT"_s,
-		u"\u7dec\u7538\u590f\u4ee4\u6642\u9593"_s,
+		u"緬甸夏令時間"_s,
 		"MMST"_s,
-		u"\u7dec\u7538\u6642\u9593"_s,
+		u"緬甸時間"_s,
 		"MMT"_s
 	}));
 	$var($StringArray, MSK, $new($StringArray, {
-		u"\u83ab\u65af\u79d1\u6a19\u6e96\u6642\u9593"_s,
+		u"莫斯科標準時間"_s,
 		"MSK"_s,
-		u"\u83ab\u65af\u79d1\u65e5\u5149\u7bc0\u7d04\u6642\u9593"_s,
+		u"莫斯科日光節約時間"_s,
 		"MSD"_s,
-		u"\u83ab\u65af\u79d1\u6642\u9593"_s,
+		u"莫斯科時間"_s,
 		"MT"_s
 	}));
 	$var($StringArray, MST, $new($StringArray, {
-		u"\u5c71\u5340\u6a19\u6e96\u6642\u9593"_s,
+		u"山區標準時間"_s,
 		"MST"_s,
-		u"\u5c71\u5340\u65e5\u5149\u7bc0\u7d04\u6642\u9593"_s,
+		u"山區日光節約時間"_s,
 		"MDT"_s,
-		u"\u7f8e\u570b\u5c71\u5340\u6642\u9593"_s,
+		u"美國山區時間"_s,
 		"MT"_s
 	}));
 	$var($StringArray, MYT, $new($StringArray, {
-		u"\u99ac\u4f86\u897f\u4e9e\u6642\u9593"_s,
+		u"馬來西亞時間"_s,
 		"MYT"_s,
-		u"\u99ac\u4f86\u897f\u4e9e\u590f\u4ee4\u6642\u9593"_s,
+		u"馬來西亞夏令時間"_s,
 		"MYST"_s,
-		u"\u99ac\u4f86\u897f\u4e9e\u6642\u9593"_s,
+		u"馬來西亞時間"_s,
 		"MYT"_s
 	}));
 	$var($StringArray, NORONHA, $new($StringArray, {
-		u"\u8cbb\u723e\u5357\u591a-\u8fea\u8afe\u7f85\u5c3c\u4e9e\u6642\u9593"_s,
+		u"費爾南多-迪諾羅尼亞時間"_s,
 		"FNT"_s,
-		u"\u8cbb\u723e\u5357\u591a-\u8fea\u8afe\u7f85\u5c3c\u4e9e\u590f\u4ee4\u6642\u9593"_s,
+		u"費爾南多-迪諾羅尼亞夏令時間"_s,
 		"FNST"_s,
-		u"\u8cbb\u723e\u5357\u591a-\u8fea\u8afe\u7f85\u5c3c\u4e9e\u6642\u9593"_s,
+		u"費爾南多-迪諾羅尼亞時間"_s,
 		"FNT"_s
 	}));
 	$var($StringArray, NOVT, $new($StringArray, {
-		u"Novosibirsk \u6642\u9593"_s,
+		u"Novosibirsk 時間"_s,
 		"NOVT"_s,
-		u"Novosibirsk \u590f\u4ee4\u6642\u9593"_s,
+		u"Novosibirsk 夏令時間"_s,
 		"NOVST"_s,
-		u"\u65b0\u897f\u4f2f\u5229\u4e9e\u6642\u9593"_s,
+		u"新西伯利亞時間"_s,
 		"NOVT"_s
 	}));
 	$var($StringArray, NPT, $new($StringArray, {
-		u"\u5c3c\u6cca\u723e\u6642\u9593"_s,
+		u"尼泊爾時間"_s,
 		"NPT"_s,
-		u"\u5c3c\u6cca\u723e\u590f\u4ee4\u6642\u9593"_s,
+		u"尼泊爾夏令時間"_s,
 		"NPST"_s,
-		u"\u5c3c\u6cca\u723e\u6642\u9593"_s,
+		u"尼泊爾時間"_s,
 		"NPT"_s
 	}));
 	$var($StringArray, NST, $new($StringArray, {
-		u"\u7d10\u82ac\u862d\u6a19\u6e96\u6642\u9593"_s,
+		u"紐芬蘭標準時間"_s,
 		"NST"_s,
-		u"\u7d10\u82ac\u862d\u65e5\u5149\u7bc0\u7d04\u6642\u9593"_s,
+		u"紐芬蘭日光節約時間"_s,
 		"NDT"_s,
-		u"\u7d10\u82ac\u862d\u6642\u9593"_s,
+		u"紐芬蘭時間"_s,
 		"NT"_s
 	}));
 	$var($StringArray, NZST, $new($StringArray, {
-		u"\u7d10\u897f\u862d\u6a19\u6e96\u6642\u9593"_s,
+		u"紐西蘭標準時間"_s,
 		"NZST"_s,
-		u"\u7d10\u897f\u862d\u65e5\u5149\u7bc0\u7d04\u6642\u9593"_s,
+		u"紐西蘭日光節約時間"_s,
 		"NZDT"_s,
-		u"\u7d10\u897f\u862d\u6642\u9593"_s,
+		u"紐西蘭時間"_s,
 		"NZT"_s
 	}));
 	$var($StringArray, PITCAIRN, $new($StringArray, {
-		u"\u76ae\u7279\u5eb7\u6a19\u6e96\u6642\u9593"_s,
+		u"皮特康標準時間"_s,
 		"PST"_s,
-		u"\u76ae\u7279\u5eb7\u65e5\u5149\u7bc0\u7d04\u6642\u9593"_s,
+		u"皮特康日光節約時間"_s,
 		"PDT"_s,
-		u"\u76ae\u7279\u5eb7\u6642\u9593"_s,
+		u"皮特康時間"_s,
 		"PT"_s
 	}));
 	$var($StringArray, PKT, $new($StringArray, {
-		u"\u5df4\u57fa\u65af\u5766\u6642\u9593"_s,
+		u"巴基斯坦時間"_s,
 		"PKT"_s,
-		u"\u5df4\u57fa\u65af\u5766\u590f\u4ee4\u6642\u9593"_s,
+		u"巴基斯坦夏令時間"_s,
 		"PKST"_s,
-		u"\u5df4\u57fa\u65af\u5766\u6642\u9593"_s,
+		u"巴基斯坦時間"_s,
 		"PKT"_s
 	}));
 	$var($StringArray, PONT, $new($StringArray, {
-		u"\u6ce2\u7d0d\u4f69\u6642\u9593"_s,
+		u"波納佩時間"_s,
 		"PONT"_s,
-		u"\u6ce2\u7d0d\u4f69\u590f\u4ee4\u6642\u9593"_s,
+		u"波納佩夏令時間"_s,
 		"PONST"_s,
-		u"\u6ce2\u7d0d\u4f69\u5cf6\u6642\u9593"_s,
+		u"波納佩島時間"_s,
 		"PONT"_s
 	}));
 	$var($StringArray, PST, $new($StringArray, {
-		u"\u592a\u5e73\u6d0b\u6a19\u6e96\u6642\u9593"_s,
+		u"太平洋標準時間"_s,
 		"PST"_s,
-		u"\u592a\u5e73\u6d0b\u65e5\u5149\u7bc0\u7d04\u6642\u9593"_s,
+		u"太平洋日光節約時間"_s,
 		"PDT"_s,
-		u"\u592a\u5e73\u6d0b\u6642\u9593"_s,
+		u"太平洋時間"_s,
 		"PT"_s
 	}));
 	$var($StringArray, SAST, $new($StringArray, {
-		u"\u5357\u975e\u6a19\u6e96\u6642\u9593"_s,
+		u"南非標準時間"_s,
 		"SAST"_s,
-		u"\u5357\u975e\u590f\u4ee4\u6642\u9593"_s,
+		u"南非夏令時間"_s,
 		"SAST"_s,
-		u"\u5357\u975e\u6642\u9593"_s,
+		u"南非時間"_s,
 		"SAT"_s
 	}));
 	$var($StringArray, SBT, $new($StringArray, {
-		u"\u6240\u7f85\u9580\u7fa4\u5cf6\u6642\u9593"_s,
+		u"所羅門群島時間"_s,
 		"SBT"_s,
-		u"\u6240\u7f85\u9580\u7fa4\u5cf6\u590f\u4ee4\u6642\u9593"_s,
+		u"所羅門群島夏令時間"_s,
 		"SBST"_s,
-		u"\u6240\u7f85\u9580\u7fa4\u5cf6\u6642\u9593"_s,
+		u"所羅門群島時間"_s,
 		"SBT"_s
 	}));
 	$var($StringArray, SGT, $new($StringArray, {
-		u"\u65b0\u52a0\u5761\u6642\u9593"_s,
+		u"新加坡時間"_s,
 		"SGT"_s,
-		u"\u65b0\u52a0\u5761\u590f\u4ee4\u6642\u9593"_s,
+		u"新加坡夏令時間"_s,
 		"SGST"_s,
-		u"\u65b0\u52a0\u5761\u6642\u9593"_s,
+		u"新加坡時間"_s,
 		"SGT"_s
 	}));
 	$var($StringArray, TASMANIA, $new($StringArray, {
-		u"\u6771\u90e8\u6a19\u6e96\u6642\u9593 (\u5854\u65af\u6885\u5c3c\u4e9e\u5cf6)"_s,
+		u"東部標準時間 (塔斯梅尼亞島)"_s,
 		"AEST"_s,
-		u"\u6771\u90e8\u590f\u4ee4\u6642\u9593 (\u5854\u65af\u6885\u5c3c\u4e9e\u5cf6)"_s,
+		u"東部夏令時間 (塔斯梅尼亞島)"_s,
 		"AEDT"_s,
-		u"\u6fb3\u5927\u5229\u4e9e\u6771\u90e8\u6642\u9593 (\u5854\u65af\u99ac\u5c3c\u4e9e\u5cf6)"_s,
+		u"澳大利亞東部時間 (塔斯馬尼亞島)"_s,
 		"AET"_s
 	}));
 	$var($StringArray, TMT, $new($StringArray, {
-		u"\u571f\u5eab\u66fc\u6642\u9593"_s,
+		u"土庫曼時間"_s,
 		"TMT"_s,
-		u"\u571f\u5eab\u66fc\u590f\u4ee4\u6642\u9593"_s,
+		u"土庫曼夏令時間"_s,
 		"TMST"_s,
-		u"\u571f\u5eab\u66fc\u6642\u9593"_s,
+		u"土庫曼時間"_s,
 		"TMT"_s
 	}));
 	$var($StringArray, ULAT, $new($StringArray, {
-		u"\u5eab\u502b\u6642\u9593"_s,
+		u"庫倫時間"_s,
 		"ULAT"_s,
-		u"\u5eab\u502b\u590f\u4ee4\u6642\u9593"_s,
+		u"庫倫夏令時間"_s,
 		"ULAST"_s,
-		u"\u5eab\u502b\u6642\u9593"_s,
+		u"庫倫時間"_s,
 		"ULAT"_s
 	}));
 	$var($StringArray, WAT, $new($StringArray, {
-		u"\u897f\u975e\u6642\u9593"_s,
+		u"西非時間"_s,
 		"WAT"_s,
-		u"\u897f\u975e\u590f\u4ee4\u6642\u9593"_s,
+		u"西非夏令時間"_s,
 		"WAST"_s,
-		u"\u897f\u975e\u6642\u9593"_s,
+		u"西非時間"_s,
 		"WAT"_s
 	}));
 	$var($StringArray, WET, $new($StringArray, {
-		u"\u897f\u6b50\u6642\u9593"_s,
+		u"西歐時間"_s,
 		"WET"_s,
-		u"\u897f\u6b50\u590f\u4ee4\u6642\u9593"_s,
+		u"西歐夏令時間"_s,
 		"WEST"_s,
-		u"\u897f\u6b50\u6642\u9593"_s,
+		u"西歐時間"_s,
 		"WET"_s
 	}));
 	$var($StringArray, WGT, $new($StringArray, {
-		u"\u897f\u683c\u6797\u862d\u5cf6\u6642\u9593"_s,
+		u"西格林蘭島時間"_s,
 		"WGT"_s,
-		u"\u897f\u683c\u6797\u862d\u5cf6\u590f\u4ee4\u6642\u9593"_s,
+		u"西格林蘭島夏令時間"_s,
 		"WGST"_s,
-		u"\u897f\u683c\u9675\u862d\u6642\u9593"_s,
+		u"西格陵蘭時間"_s,
 		"WGT"_s
 	}));
 	$var($StringArray, WIT, $new($StringArray, {
-		u"\u897f\u5370\u5c3c\u6642\u9593"_s,
+		u"西印尼時間"_s,
 		"WIB"_s,
-		u"\u897f\u5370\u5c3c\u590f\u4ee4\u6642\u9593"_s,
+		u"西印尼夏令時間"_s,
 		"WIST"_s,
-		u"\u897f\u5370\u5c3c\u6642\u9593"_s,
+		u"西印尼時間"_s,
 		"WIB"_s
 	}));
 	$var($StringArray, WST_AUS, $new($StringArray, {
-		u"\u897f\u90e8\u6a19\u6e96\u6642\u9593 (\u6fb3\u5927\u5229\u4e9e)"_s,
+		u"西部標準時間 (澳大利亞)"_s,
 		"AWST"_s,
-		u"\u897f\u90e8\u590f\u4ee4\u6642\u9593 (\u6fb3\u5927\u5229\u4e9e)"_s,
+		u"西部夏令時間 (澳大利亞)"_s,
 		"AWDT"_s,
-		u"\u897f\u90e8\u6642\u9593 (\u6fb3\u5927\u5229\u4e9e)"_s,
+		u"西部時間 (澳大利亞)"_s,
 		"AWT"_s
 	}));
 	$var($StringArray, SAMOA, $new($StringArray, {
-		u"\u85a9\u6469\u4e9e\u6a19\u6e96\u6642\u9593"_s,
+		u"薩摩亞標準時間"_s,
 		"SST"_s,
-		u"\u85a9\u6469\u4e9e\u65e5\u5149\u7bc0\u7d04\u6642\u9593"_s,
+		u"薩摩亞日光節約時間"_s,
 		"SDT"_s,
-		u"\u85a9\u6469\u4e9e\u6642\u9593"_s,
+		u"薩摩亞時間"_s,
 		"ST"_s
 	}));
 	$var($StringArray, WST_SAMOA, $new($StringArray, {
-		u"\u897f\u85a9\u6469\u4e9e\u6642\u9593"_s,
+		u"西薩摩亞時間"_s,
 		"WSST"_s,
-		u"\u897f\u85a9\u6469\u4e9e\u590f\u4ee4\u6642\u9593"_s,
+		u"西薩摩亞夏令時間"_s,
 		"WSDT"_s,
-		u"\u897f\u85a9\u6469\u4e9e\u6642\u9593"_s,
+		u"西薩摩亞時間"_s,
 		"WST"_s
 	}));
 	$var($StringArray, ChST, $new($StringArray, {
-		u"\u67e5\u83ab\u6d1b\u6a19\u6e96\u6642\u9593"_s,
+		u"查莫洛標準時間"_s,
 		"ChST"_s,
-		u"\u67e5\u83ab\u6d1b\u65e5\u5149\u7bc0\u7d04\u6642\u9593"_s,
+		u"查莫洛日光節約時間"_s,
 		"ChDT"_s,
-		u"\u67e5\u83ab\u7f85\u6642\u9593"_s,
+		u"查莫羅時間"_s,
 		"ChT"_s
 	}));
 	$var($StringArray, VICTORIA, $new($StringArray, {
-		u"\u6771\u90e8\u6a19\u6e96\u6642\u9593 (\u7dad\u591a\u5229\u4e9e\u90a6)"_s,
+		u"東部標準時間 (維多利亞邦)"_s,
 		"AEST"_s,
-		u"\u6771\u90e8\u590f\u4ee4\u6642\u9593 (\u7dad\u591a\u5229\u4e9e\u90a6)"_s,
+		u"東部夏令時間 (維多利亞邦)"_s,
 		"AEDT"_s,
-		u"\u6771\u90e8\u6642\u9593 (\u7dad\u591a\u5229\u4e9e)"_s,
+		u"東部時間 (維多利亞)"_s,
 		"AET"_s
 	}));
 	$var($StringArray, UTC, $new($StringArray, {
-		u"\u5354\u8abf\u4e16\u754c\u6642\u9593"_s,
+		u"協調世界時間"_s,
 		"UTC"_s,
-		u"\u5354\u8abf\u4e16\u754c\u6642\u9593"_s,
+		u"協調世界時間"_s,
 		"UTC"_s,
-		u"\u5354\u8abf\u4e16\u754c\u6642\u9593"_s,
+		u"協調世界時間"_s,
 		"UTC"_s
 	}));
 	$var($StringArray, UZT, $new($StringArray, {
-		u"\u70cf\u8332\u5225\u514b\u65af\u5766\u6642\u9593"_s,
+		u"烏茲別克斯坦時間"_s,
 		"UZT"_s,
-		u"\u70cf\u8332\u5225\u514b\u65af\u5766\u590f\u4ee4\u6642\u9593"_s,
+		u"烏茲別克斯坦夏令時間"_s,
 		"UZST"_s,
-		u"\u70cf\u8332\u5225\u514b\u65af\u5766\u6642\u9593"_s,
+		u"烏茲別克斯坦時間"_s,
 		"UZT"_s
 	}));
 	$var($StringArray, XJT, $new($StringArray, {
-		u"\u4e2d\u570b\u6a19\u6e96\u6642\u9593"_s,
+		u"中國標準時間"_s,
 		"XJT"_s,
-		u"\u4e2d\u570b\u65e5\u5149\u7bc0\u7d04\u6642\u9593"_s,
+		u"中國日光節約時間"_s,
 		"XJDT"_s,
-		u"\u4e2d\u570b\u6642\u9593"_s,
+		u"中國時間"_s,
 		"XJT"_s
 	}));
 	$var($StringArray, YAKT, $new($StringArray, {
-		u"\u4e9e\u5eab\u6b21\u514b\u6642\u9593"_s,
+		u"亞庫次克時間"_s,
 		"YAKT"_s,
-		u"\u4e9e\u5eab\u6b21\u514b\u590f\u4ee4\u6642\u9593"_s,
+		u"亞庫次克夏令時間"_s,
 		"YAKST"_s,
-		u"\u4e9e\u5eab\u6b21\u514b\u6642\u9593"_s,
+		u"亞庫次克時間"_s,
 		"YAKT"_s
 	}));
 	return $new($ObjectArray2, {
@@ -1186,11 +1186,11 @@ $ObjectArray2* TimeZoneNames_zh_TW::getContents() {
 		$$new($ObjectArray, {
 			$of("America/Asuncion"_s),
 			$of($$new($StringArray, {
-				u"\u5df4\u62c9\u572d\u6642\u9593"_s,
+				u"巴拉圭時間"_s,
 				"PYT"_s,
-				u"\u5df4\u62c9\u572d\u590f\u4ee4\u6642\u9593"_s,
+				u"巴拉圭夏令時間"_s,
 				"PYST"_s,
-				u"\u5df4\u62c9\u572d\u6642\u9593"_s,
+				u"巴拉圭時間"_s,
 				"PYT"_s
 			}))
 		}),
@@ -1233,11 +1233,11 @@ $ObjectArray2* TimeZoneNames_zh_TW::getContents() {
 		$$new($ObjectArray, {
 			$of("America/Bogota"_s),
 			$of($$new($StringArray, {
-				u"\u54e5\u502b\u6bd4\u4e9e\u6642\u9593"_s,
+				u"哥倫比亞時間"_s,
 				"COT"_s,
-				u"\u54e5\u502b\u6bd4\u4e9e\u590f\u4ee4\u6642\u9593"_s,
+				u"哥倫比亞夏令時間"_s,
 				"COST"_s,
-				u"\u54e5\u502b\u6bd4\u4e9e\u6642\u9593"_s,
+				u"哥倫比亞時間"_s,
 				"COT"_s
 			}))
 		}),
@@ -1264,11 +1264,11 @@ $ObjectArray2* TimeZoneNames_zh_TW::getContents() {
 		$$new($ObjectArray, {
 			$of("America/Caracas"_s),
 			$of($$new($StringArray, {
-				u"\u59d4\u5167\u745e\u62c9\u6642\u9593"_s,
+				u"委內瑞拉時間"_s,
 				"VET"_s,
-				u"\u59d4\u5167\u745e\u62c9\u590f\u4ee4\u6642\u9593"_s,
+				u"委內瑞拉夏令時間"_s,
 				"VEST"_s,
-				u"\u59d4\u5167\u745e\u62c9\u6642\u9593"_s,
+				u"委內瑞拉時間"_s,
 				"VET"_s
 			}))
 		}),
@@ -1279,11 +1279,11 @@ $ObjectArray2* TimeZoneNames_zh_TW::getContents() {
 		$$new($ObjectArray, {
 			$of("America/Cayenne"_s),
 			$of($$new($StringArray, {
-				u"\u6cd5\u5c6c\u572d\u4e9e\u90a3\u6642\u9593"_s,
+				u"法屬圭亞那時間"_s,
 				"GFT"_s,
-				u"\u6cd5\u5c6c\u572d\u4e9e\u90a3\u590f\u4ee4\u6642\u9593"_s,
+				u"法屬圭亞那夏令時間"_s,
 				"GFST"_s,
-				u"\u6cd5\u5c6c\u572d\u4e9e\u90a3\u6642\u9593"_s,
+				u"法屬圭亞那時間"_s,
 				"GFT"_s
 			}))
 		}),
@@ -1398,22 +1398,22 @@ $ObjectArray2* TimeZoneNames_zh_TW::getContents() {
 		$$new($ObjectArray, {
 			$of("America/Guayaquil"_s),
 			$of($$new($StringArray, {
-				u"\u5384\u74dc\u591a\u723e\u6642\u9593"_s,
+				u"厄瓜多爾時間"_s,
 				"ECT"_s,
-				u"\u5384\u74dc\u591a\u723e\u590f\u4ee4\u6642\u9593"_s,
+				u"厄瓜多爾夏令時間"_s,
 				"ECST"_s,
-				u"\u5384\u74dc\u591a\u723e\u6642\u9593"_s,
+				u"厄瓜多爾時間"_s,
 				"ECT"_s
 			}))
 		}),
 		$$new($ObjectArray, {
 			$of("America/Guyana"_s),
 			$of($$new($StringArray, {
-				u"\u84cb\u4e9e\u90a3\u6642\u9593"_s,
+				u"蓋亞那時間"_s,
 				"GYT"_s,
-				u"\u84cb\u4e9e\u90a3\u590f\u4ee4\u6642\u9593"_s,
+				u"蓋亞那夏令時間"_s,
 				"GYST"_s,
-				u"\u84cb\u4e9e\u90a3\u6642\u9593"_s,
+				u"蓋亞那時間"_s,
 				"GYT"_s
 			}))
 		}),
@@ -1496,22 +1496,22 @@ $ObjectArray2* TimeZoneNames_zh_TW::getContents() {
 		$$new($ObjectArray, {
 			$of("America/La_Paz"_s),
 			$of($$new($StringArray, {
-				u"\u73bb\u5229\u7dad\u4e9e\u6642\u9593"_s,
+				u"玻利維亞時間"_s,
 				"BOT"_s,
-				u"\u73bb\u5229\u7dad\u4e9e\u590f\u4ee4\u6642\u9593"_s,
+				u"玻利維亞夏令時間"_s,
 				"BOST"_s,
-				u"\u73bb\u5229\u7dad\u4e9e\u6642\u9593"_s,
+				u"玻利維亞時間"_s,
 				"BOT"_s
 			}))
 		}),
 		$$new($ObjectArray, {
 			$of("America/Lima"_s),
 			$of($$new($StringArray, {
-				u"\u7955\u9b6f\u6642\u9593"_s,
+				u"祕魯時間"_s,
 				"PET"_s,
-				u"\u7955\u9b6f\u590f\u4ee4\u6642\u9593"_s,
+				u"祕魯夏令時間"_s,
 				"PEST"_s,
-				u"\u7955\u9b6f\u6642\u9593"_s,
+				u"祕魯時間"_s,
 				"PET"_s
 			}))
 		}),
@@ -1574,11 +1574,11 @@ $ObjectArray2* TimeZoneNames_zh_TW::getContents() {
 		$$new($ObjectArray, {
 			$of("America/Miquelon"_s),
 			$of($$new($StringArray, {
-				u"\u76ae\u57c3\u723e\u5cf6\u53ca\u5bc6\u514b\u9686\u5cf6\u6a19\u6e96\u6642\u9593"_s,
+				u"皮埃爾島及密克隆島標準時間"_s,
 				"PMST"_s,
-				u"\u76ae\u57c3\u723e\u5cf6\u53ca\u5bc6\u514b\u9686\u5cf6\u65e5\u5149\u7bc0\u7d04\u6642\u9593"_s,
+				u"皮埃爾島及密克隆島日光節約時間"_s,
 				"PMDT"_s,
-				u"\u8056\u5f7c\u5fb7\u8207\u5bc6\u555f\u5d19\u6642\u9593"_s,
+				u"聖彼德與密啟崙時間"_s,
 				"PMT"_s
 			}))
 		}),
@@ -1589,11 +1589,11 @@ $ObjectArray2* TimeZoneNames_zh_TW::getContents() {
 		$$new($ObjectArray, {
 			$of("America/Montevideo"_s),
 			$of($$new($StringArray, {
-				u"\u70cf\u62c9\u572d\u6642\u9593"_s,
+				u"烏拉圭時間"_s,
 				"UYT"_s,
-				u"\u70cf\u62c9\u572d\u590f\u4ee4\u6642\u9593"_s,
+				u"烏拉圭夏令時間"_s,
 				"UYST"_s,
-				u"\u70cf\u62c9\u572d\u6642\u9593"_s,
+				u"烏拉圭時間"_s,
 				"UYT"_s
 			}))
 		}),
@@ -1656,11 +1656,11 @@ $ObjectArray2* TimeZoneNames_zh_TW::getContents() {
 		$$new($ObjectArray, {
 			$of("America/Paramaribo"_s),
 			$of($$new($StringArray, {
-				u"\u8607\u5229\u5357\u6642\u9593"_s,
+				u"蘇利南時間"_s,
 				"SRT"_s,
-				u"\u8607\u5229\u5357\u590f\u4ee4\u6642\u9593"_s,
+				u"蘇利南夏令時間"_s,
 				"SRST"_s,
-				u"\u8607\u5229\u5357\u6642\u9593"_s,
+				u"蘇利南時間"_s,
 				"SRT"_s
 			}))
 		}),
@@ -1819,44 +1819,44 @@ $ObjectArray2* TimeZoneNames_zh_TW::getContents() {
 		$$new($ObjectArray, {
 			$of("Antarctica/Davis"_s),
 			$of($$new($StringArray, {
-				u"\u81fa\u7dad\u65af\u6642\u9593"_s,
+				u"臺維斯時間"_s,
 				"DAVT"_s,
-				u"\u81fa\u7dad\u65af\u590f\u4ee4\u6642\u9593"_s,
+				u"臺維斯夏令時間"_s,
 				"DAVST"_s,
-				u"\u81fa\u7dad\u65af\u6642\u9593"_s,
+				u"臺維斯時間"_s,
 				"DAVT"_s
 			}))
 		}),
 		$$new($ObjectArray, {
 			$of("Antarctica/DumontDUrville"_s),
 			$of($$new($StringArray, {
-				u"Dumont-d\'Urville \u6642\u9593"_s,
+				u"Dumont-d\'Urville 時間"_s,
 				"DDUT"_s,
-				u"Dumont-d\'Urville \u590f\u4ee4\u6642\u9593"_s,
+				u"Dumont-d\'Urville 夏令時間"_s,
 				"DDUST"_s,
-				u"Dumont-d\'Urville \u6642\u9593"_s,
+				u"Dumont-d\'Urville 時間"_s,
 				"DDUT"_s
 			}))
 		}),
 		$$new($ObjectArray, {
 			$of("Antarctica/Macquarie"_s),
 			$of($$new($StringArray, {
-				u"\u9ea5\u5938\u5229\u5cf6\u6642\u9593"_s,
+				u"麥夸利島時間"_s,
 				"MIST"_s,
-				u"\u9ea5\u5938\u5229\u5cf6\u590f\u4ee4\u6642\u9593"_s,
+				u"麥夸利島夏令時間"_s,
 				"MIST"_s,
-				u"\u9ea5\u5938\u5229\u5cf6\u6642\u9593"_s,
+				u"麥夸利島時間"_s,
 				"MIST"_s
 			}))
 		}),
 		$$new($ObjectArray, {
 			$of("Antarctica/Mawson"_s),
 			$of($$new($StringArray, {
-				u"\u83ab\u68ee\u6642\u9593"_s,
+				u"莫森時間"_s,
 				"MAWT"_s,
-				u"\u83ab\u68ee\u590f\u4ee4\u6642\u9593"_s,
+				u"莫森夏令時間"_s,
 				"MAWST"_s,
-				u"\u83ab\u68ee\u6642\u9593"_s,
+				u"莫森時間"_s,
 				"MAWT"_s
 			}))
 		}),
@@ -1871,11 +1871,11 @@ $ObjectArray2* TimeZoneNames_zh_TW::getContents() {
 		$$new($ObjectArray, {
 			$of("Antarctica/Rothera"_s),
 			$of($$new($StringArray, {
-				u"\u7f85\u897f\u62c9\u6642\u9593"_s,
+				u"羅西拉時間"_s,
 				"ROTT"_s,
-				u"\u7f85\u897f\u62c9\u590f\u4ee4\u6642\u9593"_s,
+				u"羅西拉夏令時間"_s,
 				"ROTST"_s,
-				u"\u7f85\u897f\u62c9\u6642\u9593"_s,
+				u"羅西拉時間"_s,
 				"ROTT"_s
 			}))
 		}),
@@ -1886,20 +1886,20 @@ $ObjectArray2* TimeZoneNames_zh_TW::getContents() {
 		$$new($ObjectArray, {
 			$of("Antarctica/Syowa"_s),
 			$of($$new($StringArray, {
-				u"\u5915\u6b50\u74e6 (Syowa) \u6642\u9593"_s,
+				u"夕歐瓦 (Syowa) 時間"_s,
 				"SYOT"_s,
-				u"\u5915\u6b50\u74e6 (Syowa) \u590f\u4ee4\u6642\u9593"_s,
+				u"夕歐瓦 (Syowa) 夏令時間"_s,
 				"SYOST"_s,
-				u"\u5915\u6b50\u74e6 (Syowa) \u6642\u9593"_s,
+				u"夕歐瓦 (Syowa) 時間"_s,
 				"SYOT"_s
 			}))
 		}),
 		$$new($ObjectArray, {
 			$of("Antarctica/Troll"_s),
 			$of($$new($StringArray, {
-				u"\u5354\u8abf\u4e16\u754c\u6642\u9593"_s,
+				u"協調世界時間"_s,
 				"UTC"_s,
-				u"\u4e2d\u6b50\u590f\u4ee4\u6642\u9593"_s,
+				u"中歐夏令時間"_s,
 				"CEST"_s,
 				"Troll Time"_s,
 				"ATT"_s
@@ -1908,11 +1908,11 @@ $ObjectArray2* TimeZoneNames_zh_TW::getContents() {
 		$$new($ObjectArray, {
 			$of("Antarctica/Vostok"_s),
 			$of($$new($StringArray, {
-				u"\u4f5b\u65af\u6258 (Vostok) \u6642\u9593"_s,
+				u"佛斯托 (Vostok) 時間"_s,
 				"VOST"_s,
-				u"\u4f5b\u65af\u6258 (Vostok) \u590f\u4ee4\u6642\u9593"_s,
+				u"佛斯托 (Vostok) 夏令時間"_s,
 				"VOSST"_s,
-				u"\u4f5b\u65af\u6258 (Vostok) \u6642\u9593"_s,
+				u"佛斯托 (Vostok) 時間"_s,
 				"VOST"_s
 			}))
 		}),
@@ -1927,11 +1927,11 @@ $ObjectArray2* TimeZoneNames_zh_TW::getContents() {
 		$$new($ObjectArray, {
 			$of("Asia/Almaty"_s),
 			$of($$new($StringArray, {
-				u"Alma-Ata \u6642\u9593"_s,
+				u"Alma-Ata 時間"_s,
 				"ALMT"_s,
-				u"Alma-Ata \u590f\u4ee4\u6642\u9593"_s,
+				u"Alma-Ata 夏令時間"_s,
 				"ALMST"_s,
-				u"\u963f\u62c9\u6728\u5716\u6642\u9593"_s,
+				u"阿拉木圖時間"_s,
 				"ALMT"_s
 			}))
 		}),
@@ -1942,33 +1942,33 @@ $ObjectArray2* TimeZoneNames_zh_TW::getContents() {
 		$$new($ObjectArray, {
 			$of("Asia/Anadyr"_s),
 			$of($$new($StringArray, {
-				u"\u963f\u90a3\u5e95\u6cb3\u6642\u9593"_s,
+				u"阿那底河時間"_s,
 				"ANAT"_s,
-				u"\u963f\u90a3\u5e95\u6cb3\u590f\u4ee4\u6642\u9593"_s,
+				u"阿那底河夏令時間"_s,
 				"ANAST"_s,
-				u"\u963f\u90a3\u5e95\u6cb3\u6642\u9593"_s,
+				u"阿那底河時間"_s,
 				"ANAT"_s
 			}))
 		}),
 		$$new($ObjectArray, {
 			$of("Asia/Aqtau"_s),
 			$of($$new($StringArray, {
-				u"Aqtau \u6642\u9593"_s,
+				u"Aqtau 時間"_s,
 				"AQTT"_s,
-				u"Aqtau \u590f\u4ee4\u6642\u9593"_s,
+				u"Aqtau 夏令時間"_s,
 				"AQTST"_s,
-				u"\u963f\u514b\u5957\u6642\u9593"_s,
+				u"阿克套時間"_s,
 				"AQTT"_s
 			}))
 		}),
 		$$new($ObjectArray, {
 			$of("Asia/Aqtobe"_s),
 			$of($$new($StringArray, {
-				u"Aqtobe \u6642\u9593"_s,
+				u"Aqtobe 時間"_s,
 				"AQTT"_s,
-				u"Aqtobe \u590f\u4ee4\u6642\u9593"_s,
+				u"Aqtobe 夏令時間"_s,
 				"AQTST"_s,
-				u"\u963f\u514b\u6258\u5225\u6642\u9593"_s,
+				u"阿克托別時間"_s,
 				"AQTT"_s
 			}))
 		}),
@@ -1991,11 +1991,11 @@ $ObjectArray2* TimeZoneNames_zh_TW::getContents() {
 		$$new($ObjectArray, {
 			$of("Asia/Baku"_s),
 			$of($$new($StringArray, {
-				u"\u4e9e\u585e\u62dc\u7136\u6642\u9593"_s,
+				u"亞塞拜然時間"_s,
 				"AZT"_s,
-				u"\u4e9e\u585e\u62dc\u7136\u590f\u4ee4\u6642\u9593"_s,
+				u"亞塞拜然夏令時間"_s,
 				"AZST"_s,
-				u"\u4e9e\u585e\u62dc\u7136\u6642\u9593"_s,
+				u"亞塞拜然時間"_s,
 				"AZT"_s
 			}))
 		}),
@@ -2010,22 +2010,22 @@ $ObjectArray2* TimeZoneNames_zh_TW::getContents() {
 		$$new($ObjectArray, {
 			$of("Asia/Bishkek"_s),
 			$of($$new($StringArray, {
-				u"Kirgizstan \u6642\u9593"_s,
+				u"Kirgizstan 時間"_s,
 				"KGT"_s,
-				u"Kirgizstan \u590f\u4ee4\u6642\u9593"_s,
+				u"Kirgizstan 夏令時間"_s,
 				"KGST"_s,
-				u"\u5409\u723e\u5409\u65af\u6642\u9593"_s,
+				u"吉爾吉斯時間"_s,
 				"KGT"_s
 			}))
 		}),
 		$$new($ObjectArray, {
 			$of("Asia/Brunei"_s),
 			$of($$new($StringArray, {
-				u"\u6c76\u840a\u6642\u9593"_s,
+				u"汶萊時間"_s,
 				"BNT"_s,
-				u"\u6c76\u840a\u590f\u4ee4\u6642\u9593"_s,
+				u"汶萊夏令時間"_s,
 				"BNST"_s,
-				u"\u6c76\u840a\u6642\u9593"_s,
+				u"汶萊時間"_s,
 				"BNT"_s
 			}))
 		}),
@@ -2040,11 +2040,11 @@ $ObjectArray2* TimeZoneNames_zh_TW::getContents() {
 		$$new($ObjectArray, {
 			$of("Asia/Choibalsan"_s),
 			$of($$new($StringArray, {
-				u"\u5de7\u5df4\u5c71 (Choibalsan) \u6642\u9593"_s,
+				u"巧巴山 (Choibalsan) 時間"_s,
 				"CHOT"_s,
-				u"\u5de7\u5df4\u5c71 (Choibalsan) \u590f\u4ee4\u6642\u9593"_s,
+				u"巧巴山 (Choibalsan) 夏令時間"_s,
 				"CHOST"_s,
-				u"\u5de7\u5df4\u5c71 (Choibalsan) \u6642\u9593"_s,
+				u"巧巴山 (Choibalsan) 時間"_s,
 				"CHOT"_s
 			}))
 		}),
@@ -2071,11 +2071,11 @@ $ObjectArray2* TimeZoneNames_zh_TW::getContents() {
 		$$new($ObjectArray, {
 			$of("Asia/Dili"_s),
 			$of($$new($StringArray, {
-				u"\u6771\u5e1d\u6c76\u6642\u9593"_s,
+				u"東帝汶時間"_s,
 				"TLT"_s,
-				u"\u6771\u5e1d\u6c76\u590f\u4ee4\u6642\u9593"_s,
+				u"東帝汶夏令時間"_s,
 				"TLST"_s,
-				u"\u6771\u5e1d\u6c76\u6642\u9593"_s,
+				u"東帝汶時間"_s,
 				"TLT"_s
 			}))
 		}),
@@ -2090,11 +2090,11 @@ $ObjectArray2* TimeZoneNames_zh_TW::getContents() {
 		$$new($ObjectArray, {
 			$of("Asia/Dushanbe"_s),
 			$of($$new($StringArray, {
-				u"\u5854\u5409\u514b\u6642\u9593"_s,
+				u"塔吉克時間"_s,
 				"TJT"_s,
-				u"\u5854\u5409\u514b\u590f\u4ee4\u6642\u9593"_s,
+				u"塔吉克夏令時間"_s,
 				"TJST"_s,
-				u"\u5854\u5409\u514b\u6642\u9593"_s,
+				u"塔吉克時間"_s,
 				"TJT"_s
 			}))
 		}),
@@ -2121,11 +2121,11 @@ $ObjectArray2* TimeZoneNames_zh_TW::getContents() {
 		$$new($ObjectArray, {
 			$of("Asia/Hovd"_s),
 			$of($$new($StringArray, {
-				u"\u4faf\u5fb7 (Hovd) \u6642\u9593"_s,
+				u"侯德 (Hovd) 時間"_s,
 				"HOVT"_s,
-				u"\u4faf\u5fb7 (Hovd) \u590f\u4ee4\u6642\u9593"_s,
+				u"侯德 (Hovd) 夏令時間"_s,
 				"HOVST"_s,
-				u"\u4faf\u5fb7 (Hovd) \u6642\u9593"_s,
+				u"侯德 (Hovd) 時間"_s,
 				"HOVT"_s
 			}))
 		}),
@@ -2144,33 +2144,33 @@ $ObjectArray2* TimeZoneNames_zh_TW::getContents() {
 		$$new($ObjectArray, {
 			$of("Asia/Jayapura"_s),
 			$of($$new($StringArray, {
-				u"\u6771\u5370\u5ea6\u5c3c\u897f\u4e9e\u6642\u9593"_s,
+				u"東印度尼西亞時間"_s,
 				"WIT"_s,
-				u"\u6771\u5370\u5ea6\u5c3c\u897f\u4e9e\u590f\u65e5\u6642\u9593"_s,
+				u"東印度尼西亞夏日時間"_s,
 				"EIST"_s,
-				u"\u6771\u5370\u5ea6\u5c3c\u897f\u4e9e\u6642\u9593"_s,
+				u"東印度尼西亞時間"_s,
 				"WIT"_s
 			}))
 		}),
 		$$new($ObjectArray, {
 			$of("Asia/Kabul"_s),
 			$of($$new($StringArray, {
-				u"\u963f\u5bcc\u6c57\u6642\u9593"_s,
+				u"阿富汗時間"_s,
 				"AFT"_s,
-				u"\u963f\u5bcc\u6c57\u590f\u4ee4\u6642\u9593"_s,
+				u"阿富汗夏令時間"_s,
 				"AFST"_s,
-				u"\u963f\u5bcc\u6c57\u6642\u9593"_s,
+				u"阿富汗時間"_s,
 				"AFT"_s
 			}))
 		}),
 		$$new($ObjectArray, {
 			$of("Asia/Kamchatka"_s),
 			$of($$new($StringArray, {
-				u"Petropavlovsk-Kamchatski \u6642\u9593"_s,
+				u"Petropavlovsk-Kamchatski 時間"_s,
 				"PETT"_s,
-				u"Petropavlovsk-Kamchatski \u590f\u4ee4\u6642\u9593"_s,
+				u"Petropavlovsk-Kamchatski 夏令時間"_s,
 				"PETST"_s,
-				u"Petropavlovsk-Kamchatski \u6642\u9593"_s,
+				u"Petropavlovsk-Kamchatski 時間"_s,
 				"PETT"_s
 			}))
 		}),
@@ -2225,11 +2225,11 @@ $ObjectArray2* TimeZoneNames_zh_TW::getContents() {
 		$$new($ObjectArray, {
 			$of("Asia/Magadan"_s),
 			$of($$new($StringArray, {
-				u"Magadan \u6642\u9593"_s,
+				u"Magadan 時間"_s,
 				"MAGT"_s,
-				u"Magadan \u590f\u4ee4\u6642\u9593"_s,
+				u"Magadan 夏令時間"_s,
 				"MAGST"_s,
-				u"\u99ac\u52a0\u4e39\u6642\u9593"_s,
+				u"馬加丹時間"_s,
 				"MAGT"_s
 			}))
 		}),
@@ -2267,22 +2267,22 @@ $ObjectArray2* TimeZoneNames_zh_TW::getContents() {
 		$$new($ObjectArray, {
 			$of("Asia/Oral"_s),
 			$of($$new($StringArray, {
-				u"\u6b50\u4f5b\u6642\u9593"_s,
+				u"歐佛時間"_s,
 				"ORAT"_s,
-				u"\u6b50\u4f5b\u590f\u4ee4\u6642\u9593"_s,
+				u"歐佛夏令時間"_s,
 				"ORAST"_s,
-				u"\u6b50\u4f5b\u6642\u9593"_s,
+				u"歐佛時間"_s,
 				"ORAT"_s
 			}))
 		}),
 		$$new($ObjectArray, {
 			$of("Asia/Omsk"_s),
 			$of($$new($StringArray, {
-				u"\u6b50\u59c6\u65af\u514b (Omsk) \u6642\u9593"_s,
+				u"歐姆斯克 (Omsk) 時間"_s,
 				"OMST"_s,
-				u"\u6b50\u59c6\u65af\u514b (Omsk) \u590f\u4ee4\u6642\u9593"_s,
+				u"歐姆斯克 (Omsk) 夏令時間"_s,
 				"OMSST"_s,
-				u"\u6b50\u59c6\u65af\u514b (Omsk) \u6642\u9593"_s,
+				u"歐姆斯克 (Omsk) 時間"_s,
 				"OMST"_s
 			}))
 		}),
@@ -2305,11 +2305,11 @@ $ObjectArray2* TimeZoneNames_zh_TW::getContents() {
 		$$new($ObjectArray, {
 			$of("Asia/Qyzylorda"_s),
 			$of($$new($StringArray, {
-				u"Qyzylorda \u6642\u9593"_s,
+				u"Qyzylorda 時間"_s,
 				"QYZT"_s,
-				u"Qyzylorda \u590f\u4ee4\u6642\u9593"_s,
+				u"Qyzylorda 夏令時間"_s,
 				"QYZST"_s,
-				u"\u514b\u5b5c\u6d1b\u723e\u9054\u6642\u9593"_s,
+				u"克孜洛爾達時間"_s,
 				"QYZT"_s
 			}))
 		}),
@@ -2328,11 +2328,11 @@ $ObjectArray2* TimeZoneNames_zh_TW::getContents() {
 		$$new($ObjectArray, {
 			$of("Asia/Sakhalin"_s),
 			$of($$new($StringArray, {
-				u"\u5eab\u9801\u5cf6\u6642\u9593"_s,
+				u"庫頁島時間"_s,
 				"SAKT"_s,
-				u"\u5eab\u9801\u5cf6\u590f\u4ee4\u6642\u9593"_s,
+				u"庫頁島夏令時間"_s,
 				"SAKST"_s,
-				u"\u5eab\u9801\u5cf6\u6642\u9593"_s,
+				u"庫頁島時間"_s,
 				"SAKT"_s
 			}))
 		}),
@@ -2362,11 +2362,11 @@ $ObjectArray2* TimeZoneNames_zh_TW::getContents() {
 		$$new($ObjectArray, {
 			$of("Asia/Taipei"_s),
 			$of($$new($StringArray, {
-				u"\u53f0\u7063\u6a19\u6e96\u6642\u9593"_s,
+				u"台灣標準時間"_s,
 				"TST"_s,
-				u"\u53f0\u7063\u590f\u4ee4\u6642\u9593"_s,
+				u"台灣夏令時間"_s,
 				"TDT"_s,
-				u"\u53f0\u7063\u6642\u9593"_s,
+				u"台灣時間"_s,
 				"TT"_s
 			}))
 		}),
@@ -2381,11 +2381,11 @@ $ObjectArray2* TimeZoneNames_zh_TW::getContents() {
 		$$new($ObjectArray, {
 			$of("Asia/Tbilisi"_s),
 			$of($$new($StringArray, {
-				u"\u55ac\u6cbb\u4e9e\u6642\u9593"_s,
+				u"喬治亞時間"_s,
 				"GET"_s,
-				u"\u55ac\u6cbb\u4e9e\u590f\u4ee4\u6642\u9593"_s,
+				u"喬治亞夏令時間"_s,
 				"GEST"_s,
-				u"\u55ac\u6cbb\u4e9e\u6642\u9593"_s,
+				u"喬治亞時間"_s,
 				"GET"_s
 			}))
 		}),
@@ -2420,11 +2420,11 @@ $ObjectArray2* TimeZoneNames_zh_TW::getContents() {
 		$$new($ObjectArray, {
 			$of("Asia/Ust-Nera"_s),
 			$of($$new($StringArray, {
-				u"\u70cf\u65af\u5167\u62c9 (Ust-Nera) \u6642\u9593"_s,
+				u"烏斯內拉 (Ust-Nera) 時間"_s,
 				"VLAT"_s,
-				u"\u70cf\u65af\u5167\u62c9 (Ust-Nera) \u590f\u4ee4\u6642\u9593"_s,
+				u"烏斯內拉 (Ust-Nera) 夏令時間"_s,
 				"VLAST"_s,
-				u"\u70cf\u65af\u5167\u62c9 (Ust-Nera) \u6642\u9593"_s,
+				u"烏斯內拉 (Ust-Nera) 時間"_s,
 				"VLAT"_s
 			}))
 		}),
@@ -2435,11 +2435,11 @@ $ObjectArray2* TimeZoneNames_zh_TW::getContents() {
 		$$new($ObjectArray, {
 			$of("Asia/Vladivostok"_s),
 			$of($$new($StringArray, {
-				u"\u6d77\u53c3\u5d34\u6642\u9593"_s,
+				u"海參崴時間"_s,
 				"VLAT"_s,
-				u"\u6d77\u53c3\u5d34\u590f\u4ee4\u6642\u9593"_s,
+				u"海參崴夏令時間"_s,
 				"VLAST"_s,
-				u"\u6d77\u53c3\u5d34\u6642\u9593"_s,
+				u"海參崴時間"_s,
 				"VLAT"_s
 			}))
 		}),
@@ -2454,11 +2454,11 @@ $ObjectArray2* TimeZoneNames_zh_TW::getContents() {
 		$$new($ObjectArray, {
 			$of("Asia/Yekaterinburg"_s),
 			$of($$new($StringArray, {
-				u"Yekaterinburg \u6642\u9593"_s,
+				u"Yekaterinburg 時間"_s,
 				"YEKT"_s,
-				u"Yekaterinburg \u590f\u4ee4\u6642\u9593"_s,
+				u"Yekaterinburg 夏令時間"_s,
 				"YEKST"_s,
-				u"\u8449\u5361\u6377\u7433\u5821\u6642\u9593"_s,
+				u"葉卡捷琳堡時間"_s,
 				"YEKT"_s
 			}))
 		}),
@@ -2469,11 +2469,11 @@ $ObjectArray2* TimeZoneNames_zh_TW::getContents() {
 		$$new($ObjectArray, {
 			$of("Atlantic/Azores"_s),
 			$of($$new($StringArray, {
-				u"\u4e9e\u901f\u723e\u7fa4\u5cf6\u6642\u9593"_s,
+				u"亞速爾群島時間"_s,
 				"AZOT"_s,
-				u"\u4e9e\u901f\u723e\u7fa4\u5cf6\u590f\u4ee4\u6642\u9593"_s,
+				u"亞速爾群島夏令時間"_s,
 				"AZOST"_s,
-				u"\u4e9e\u901f\u723e\u7fa4\u5cf6\u6642\u9593"_s,
+				u"亞速爾群島時間"_s,
 				"AZOT"_s
 			}))
 		}),
@@ -2488,11 +2488,11 @@ $ObjectArray2* TimeZoneNames_zh_TW::getContents() {
 		$$new($ObjectArray, {
 			$of("Atlantic/Cape_Verde"_s),
 			$of($$new($StringArray, {
-				u"\u4f5b\u5fb7\u89d2\u6642\u9593"_s,
+				u"佛德角時間"_s,
 				"CVT"_s,
-				u"\u4f5b\u5fb7\u89d2\u590f\u4ee4\u6642\u9593"_s,
+				u"佛德角夏令時間"_s,
 				"CVST"_s,
-				u"\u4f5b\u5fb7\u89d2\u6642\u9593"_s,
+				u"佛德角時間"_s,
 				"CVT"_s
 			}))
 		}),
@@ -2519,11 +2519,11 @@ $ObjectArray2* TimeZoneNames_zh_TW::getContents() {
 		$$new($ObjectArray, {
 			$of("Atlantic/South_Georgia"_s),
 			$of($$new($StringArray, {
-				u"\u5357\u55ac\u6cbb\u4e9e\u6a19\u6e96\u6642\u9593"_s,
+				u"南喬治亞標準時間"_s,
 				"GST"_s,
-				u"\u5357\u55ac\u6cbb\u4e9e\u65e5\u5149\u7bc0\u7d04\u6642\u9593"_s,
+				u"南喬治亞日光節約時間"_s,
 				"GDT"_s,
-				u"\u5357\u55ac\u6cbb\u4e9e\u6642\u9593"_s,
+				u"南喬治亞時間"_s,
 				"GT"_s
 			}))
 		}),
@@ -2534,11 +2534,11 @@ $ObjectArray2* TimeZoneNames_zh_TW::getContents() {
 		$$new($ObjectArray, {
 			$of("Atlantic/Stanley"_s),
 			$of($$new($StringArray, {
-				u"\u798f\u514b\u862d\u7fa4\u5cf6\u6642\u9593"_s,
+				u"福克蘭群島時間"_s,
 				"FKT"_s,
-				u"\u798f\u514b\u862d\u7fa4\u5cf6\u590f\u4ee4\u6642\u9593"_s,
+				u"福克蘭群島夏令時間"_s,
 				"FKST"_s,
-				u"\u798f\u514b\u862d\u7fa4\u5cf6\u6642\u9593"_s,
+				u"福克蘭群島時間"_s,
 				"FKT"_s
 			}))
 		}),
@@ -2573,11 +2573,11 @@ $ObjectArray2* TimeZoneNames_zh_TW::getContents() {
 		$$new($ObjectArray, {
 			$of("Australia/Eucla"_s),
 			$of($$new($StringArray, {
-				u"\u4e2d\u897f\u90e8\u6a19\u6e96\u6642\u9593 (\u6fb3\u5927\u5229\u4e9e)"_s,
+				u"中西部標準時間 (澳大利亞)"_s,
 				"ACWST"_s,
-				u"\u4e2d\u897f\u90e8\u590f\u4ee4\u6642\u9593 (\u6fb3\u5927\u5229\u4e9e)"_s,
+				u"中西部夏令時間 (澳大利亞)"_s,
 				"ACWDT"_s,
-				u"\u4e2d\u897f\u90e8\u6642\u9593 (\u6fb3\u5927\u5229\u4e9e)"_s,
+				u"中西部時間 (澳大利亞)"_s,
 				"ACWT"_s
 			}))
 		}),
@@ -2912,11 +2912,11 @@ $ObjectArray2* TimeZoneNames_zh_TW::getContents() {
 		$$new($ObjectArray, {
 			$of("Europe/Samara"_s),
 			$of($$new($StringArray, {
-				u"\u6c99\u99ac\u62c9\u6642\u9593"_s,
+				u"沙馬拉時間"_s,
 				"SAMT"_s,
-				u"\u6c99\u99ac\u62c9\u590f\u4ee4\u6642\u9593"_s,
+				u"沙馬拉夏令時間"_s,
 				"SAMST"_s,
-				u"\u6c99\u99ac\u62c9\u6642\u9593"_s,
+				u"沙馬拉時間"_s,
 				"SAMT"_s
 			}))
 		}),
@@ -3031,33 +3031,33 @@ $ObjectArray2* TimeZoneNames_zh_TW::getContents() {
 		$$new($ObjectArray, {
 			$of("Indian/Chagos"_s),
 			$of($$new($StringArray, {
-				u"\u5370\u5ea6\u6d0b\u5730\u5340\u6642\u9593"_s,
+				u"印度洋地區時間"_s,
 				"IOT"_s,
-				u"\u5370\u5ea6\u6d0b\u5730\u5340\u590f\u4ee4\u6642\u9593"_s,
+				u"印度洋地區夏令時間"_s,
 				"IOST"_s,
-				u"\u82f1\u5c6c\u5370\u5ea6\u6d0b\u5730\u5340"_s,
+				u"英屬印度洋地區"_s,
 				"IOT"_s
 			}))
 		}),
 		$$new($ObjectArray, {
 			$of("Indian/Christmas"_s),
 			$of($$new($StringArray, {
-				u"\u8056\u8a95\u5cf6\u6642\u9593"_s,
+				u"聖誕島時間"_s,
 				"CXT"_s,
-				u"\u8056\u8a95\u5cf6\u590f\u4ee4\u6642\u9593"_s,
+				u"聖誕島夏令時間"_s,
 				"CXST"_s,
-				u"\u8056\u8a95\u5cf6\u6642\u9593"_s,
+				u"聖誕島時間"_s,
 				"CIT"_s
 			}))
 		}),
 		$$new($ObjectArray, {
 			$of("Indian/Cocos"_s),
 			$of($$new($StringArray, {
-				u"\u53ef\u53ef\u65af\u7fa4\u5cf6\u6642\u9593"_s,
+				u"可可斯群島時間"_s,
 				"CCT"_s,
-				u"\u53ef\u53ef\u65af\u7fa4\u5cf6\u590f\u4ee4\u6642\u9593"_s,
+				u"可可斯群島夏令時間"_s,
 				"CCST"_s,
-				u"\u53ef\u53ef\u65af\u7fa4\u5cf6\u6642\u9593"_s,
+				u"可可斯群島時間"_s,
 				"CCT"_s
 			}))
 		}),
@@ -3068,44 +3068,44 @@ $ObjectArray2* TimeZoneNames_zh_TW::getContents() {
 		$$new($ObjectArray, {
 			$of("Indian/Kerguelen"_s),
 			$of($$new($StringArray, {
-				u"\u6cd5\u570b\u5357\u534a\u7403\u53ca\u5357\u6975\u5c6c\u5730\u6642\u9593"_s,
+				u"法國南半球及南極屬地時間"_s,
 				"TFT"_s,
-				u"\u6cd5\u570b\u5357\u534a\u7403\u53ca\u5357\u6975\u5c6c\u5730\u590f\u4ee4\u6642\u9593"_s,
+				u"法國南半球及南極屬地夏令時間"_s,
 				"TFST"_s,
-				u"\u6cd5\u570b\u5357\u534a\u7403\u53ca\u5357\u6975\u5c6c\u5730\u6642\u9593"_s,
+				u"法國南半球及南極屬地時間"_s,
 				"TFT"_s
 			}))
 		}),
 		$$new($ObjectArray, {
 			$of("Indian/Mahe"_s),
 			$of($$new($StringArray, {
-				u"\u585e\u5e2d\u723e\u7fa4\u5cf6\u6642\u9593"_s,
+				u"塞席爾群島時間"_s,
 				"SCT"_s,
-				u"\u585e\u5e2d\u723e\u7fa4\u5cf6\u590f\u4ee4\u6642\u9593"_s,
+				u"塞席爾群島夏令時間"_s,
 				"SCST"_s,
-				u"\u585e\u5e2d\u723e\u7fa4\u5cf6\u6642\u9593"_s,
+				u"塞席爾群島時間"_s,
 				"SCT"_s
 			}))
 		}),
 		$$new($ObjectArray, {
 			$of("Indian/Maldives"_s),
 			$of($$new($StringArray, {
-				u"\u99ac\u723e\u5730\u592b\u6642\u9593"_s,
+				u"馬爾地夫時間"_s,
 				"MVT"_s,
-				u"\u99ac\u723e\u5730\u592b\u590f\u4ee4\u6642\u9593"_s,
+				u"馬爾地夫夏令時間"_s,
 				"MVST"_s,
-				u"\u99ac\u723e\u5730\u592b\u6642\u9593"_s,
+				u"馬爾地夫時間"_s,
 				"MVT"_s
 			}))
 		}),
 		$$new($ObjectArray, {
 			$of("Indian/Mauritius"_s),
 			$of($$new($StringArray, {
-				u"\u6469\u91cc\u897f\u65af\u6642\u9593"_s,
+				u"摩里西斯時間"_s,
 				"MUT"_s,
-				u"\u6469\u91cc\u897f\u65af\u590f\u4ee4\u6642\u9593"_s,
+				u"摩里西斯夏令時間"_s,
 				"MUST"_s,
-				u"\u6469\u91cc\u897f\u65af\u6642\u9593"_s,
+				u"摩里西斯時間"_s,
 				"MUT"_s
 			}))
 		}),
@@ -3116,11 +3116,11 @@ $ObjectArray2* TimeZoneNames_zh_TW::getContents() {
 		$$new($ObjectArray, {
 			$of("Indian/Reunion"_s),
 			$of($$new($StringArray, {
-				u"\u7559\u5c3c\u65fa\u5cf6\u6642\u9593"_s,
+				u"留尼旺島時間"_s,
 				"RET"_s,
-				u"\u7559\u5c3c\u65fa\u5cf6\u590f\u4ee4\u6642\u9593"_s,
+				u"留尼旺島夏令時間"_s,
 				"REST"_s,
-				u"\u7559\u5c3c\u65fa\u5cf6\u6642\u9593"_s,
+				u"留尼旺島時間"_s,
 				"RET"_s
 			}))
 		}),
@@ -3147,9 +3147,9 @@ $ObjectArray2* TimeZoneNames_zh_TW::getContents() {
 		$$new($ObjectArray, {
 			$of("MET"_s),
 			$of($$new($StringArray, {
-				u"\u4e2d\u6b50\u6642\u9593"_s,
+				u"中歐時間"_s,
 				"MET"_s,
-				u"\u4e2d\u6b50\u590f\u4ee4\u6642\u9593"_s,
+				u"中歐夏令時間"_s,
 				"MEST"_s,
 				"MET"_s,
 				"MET"_s
@@ -3241,66 +3241,66 @@ $ObjectArray2* TimeZoneNames_zh_TW::getContents() {
 		$$new($ObjectArray, {
 			$of("Pacific/Efate"_s),
 			$of($$new($StringArray, {
-				u"\u74e6\u5974\u963f\u5716\u6642\u9593"_s,
+				u"瓦奴阿圖時間"_s,
 				"VUT"_s,
-				u"\u74e6\u5974\u963f\u5716\u590f\u4ee4\u6642\u9593"_s,
+				u"瓦奴阿圖夏令時間"_s,
 				"VUST"_s,
-				u"\u74e6\u5974\u963f\u5716\u6642\u9593"_s,
+				u"瓦奴阿圖時間"_s,
 				"VUT"_s
 			}))
 		}),
 		$$new($ObjectArray, {
 			$of("Pacific/Enderbury"_s),
 			$of($$new($StringArray, {
-				u"\u83f2\u5c3c\u514b\u65af\u7fa4\u5cf6\u6642\u9593"_s,
+				u"菲尼克斯群島時間"_s,
 				"PHOT"_s,
-				u"\u83f2\u5c3c\u514b\u65af\u7fa4\u5cf6\u590f\u4ee4\u6642\u9593"_s,
+				u"菲尼克斯群島夏令時間"_s,
 				"PHOST"_s,
-				u"\u83f2\u5c3c\u514b\u65af\u7fa4\u5cf6\u6642\u9593"_s,
+				u"菲尼克斯群島時間"_s,
 				"PHOT"_s
 			}))
 		}),
 		$$new($ObjectArray, {
 			$of("Pacific/Fakaofo"_s),
 			$of($$new($StringArray, {
-				u"\u6258\u514b\u52de\u7fa4\u5cf6\u6642\u9593"_s,
+				u"托克勞群島時間"_s,
 				"TKT"_s,
-				u"\u6258\u514b\u52de\u7fa4\u5cf6\u590f\u4ee4\u6642\u9593"_s,
+				u"托克勞群島夏令時間"_s,
 				"TKST"_s,
-				u"\u6258\u514b\u52de\u7fa4\u5cf6\u6642\u9593"_s,
+				u"托克勞群島時間"_s,
 				"TKT"_s
 			}))
 		}),
 		$$new($ObjectArray, {
 			$of("Pacific/Fiji"_s),
 			$of($$new($StringArray, {
-				u"\u6590\u6fdf\u6642\u9593"_s,
+				u"斐濟時間"_s,
 				"FJT"_s,
-				u"\u6590\u6fdf\u590f\u4ee4\u6642\u9593"_s,
+				u"斐濟夏令時間"_s,
 				"FJST"_s,
-				u"\u6590\u6fdf\u6642\u9593"_s,
+				u"斐濟時間"_s,
 				"FJT"_s
 			}))
 		}),
 		$$new($ObjectArray, {
 			$of("Pacific/Funafuti"_s),
 			$of($$new($StringArray, {
-				u"\u5410\u9b6f\u74e6\u6642\u9593"_s,
+				u"吐魯瓦時間"_s,
 				"TVT"_s,
-				u"\u5410\u9b6f\u74e6\u590f\u4ee4\u6642\u9593"_s,
+				u"吐魯瓦夏令時間"_s,
 				"TVST"_s,
-				u"\u5410\u74e6\u9b6f\u6642\u9593"_s,
+				u"吐瓦魯時間"_s,
 				"TVT"_s
 			}))
 		}),
 		$$new($ObjectArray, {
 			$of("Pacific/Galapagos"_s),
 			$of($$new($StringArray, {
-				u"\u52a0\u62c9\u5df4\u54e5\u6642\u9593"_s,
+				u"加拉巴哥時間"_s,
 				"GALT"_s,
-				u"\u52a0\u62c9\u5df4\u54e5\u590f\u4ee4\u6642\u9593"_s,
+				u"加拉巴哥夏令時間"_s,
 				"GALST"_s,
-				u"\u52a0\u62c9\u5df4\u54e5\u6642\u9593"_s,
+				u"加拉巴哥時間"_s,
 				"GALT"_s
 			}))
 		}),
@@ -3323,22 +3323,22 @@ $ObjectArray2* TimeZoneNames_zh_TW::getContents() {
 		$$new($ObjectArray, {
 			$of("Pacific/Kiritimati"_s),
 			$of($$new($StringArray, {
-				u"Line Is. \u6642\u9593"_s,
+				u"Line Is. 時間"_s,
 				"LINT"_s,
-				u"Line Is. \u590f\u4ee4\u6642\u9593"_s,
+				u"Line Is. 夏令時間"_s,
 				"LINST"_s,
-				u"\u5217\u5dbc\u7fa4\u5cf6\u6642\u9593"_s,
+				u"列嶼群島時間"_s,
 				"LINT"_s
 			}))
 		}),
 		$$new($ObjectArray, {
 			$of("Pacific/Kosrae"_s),
 			$of($$new($StringArray, {
-				u"Kosrae \u6642\u9593"_s,
+				u"Kosrae 時間"_s,
 				"KOST"_s,
-				u"Kosrae \u590f\u4ee4\u6642\u9593"_s,
+				u"Kosrae 夏令時間"_s,
 				"KOSST"_s,
-				u"Kosrae \u6642\u9593"_s,
+				u"Kosrae 時間"_s,
 				"KOST"_s
 			}))
 		}),
@@ -3353,11 +3353,11 @@ $ObjectArray2* TimeZoneNames_zh_TW::getContents() {
 		$$new($ObjectArray, {
 			$of("Pacific/Marquesas"_s),
 			$of($$new($StringArray, {
-				u"\u99ac\u514b\u85a9\u65af\u6642\u9593"_s,
+				u"馬克薩斯時間"_s,
 				"MART"_s,
-				u"\u99ac\u514b\u85a9\u65af\u590f\u4ee4\u6642\u9593"_s,
+				u"馬克薩斯夏令時間"_s,
 				"MARST"_s,
-				u"\u99ac\u514b\u85a9\u65af\u6642\u9593"_s,
+				u"馬克薩斯時間"_s,
 				"MART"_s
 			}))
 		}),
@@ -3368,44 +3368,44 @@ $ObjectArray2* TimeZoneNames_zh_TW::getContents() {
 		$$new($ObjectArray, {
 			$of("Pacific/Nauru"_s),
 			$of($$new($StringArray, {
-				u"\u8afe\u9b6f\u6642\u9593"_s,
+				u"諾魯時間"_s,
 				"NRT"_s,
-				u"\u8afe\u9b6f\u590f\u4ee4\u6642\u9593"_s,
+				u"諾魯夏令時間"_s,
 				"NRST"_s,
-				u"\u8afe\u9b6f\u6642\u9593"_s,
+				u"諾魯時間"_s,
 				"NRT"_s
 			}))
 		}),
 		$$new($ObjectArray, {
 			$of("Pacific/Niue"_s),
 			$of($$new($StringArray, {
-				u"\u7d10\u5a01\u5cf6\u6642\u9593"_s,
+				u"紐威島時間"_s,
 				"NUT"_s,
-				u"\u7d10\u5a01\u5cf6\u590f\u4ee4\u6642\u9593"_s,
+				u"紐威島夏令時間"_s,
 				"NUST"_s,
-				u"\u7d10\u5a01\u5cf6\u6642\u9593"_s,
+				u"紐威島時間"_s,
 				"NUT"_s
 			}))
 		}),
 		$$new($ObjectArray, {
 			$of("Pacific/Norfolk"_s),
 			$of($$new($StringArray, {
-				u"\u8afe\u798f\u514b\u6642\u9593"_s,
+				u"諾福克時間"_s,
 				"NFT"_s,
-				u"\u8afe\u798f\u514b\u590f\u4ee4\u6642\u9593"_s,
+				u"諾福克夏令時間"_s,
 				"NFST"_s,
-				u"\u8afe\u798f\u514b\u6642\u9593"_s,
+				u"諾福克時間"_s,
 				"NFT"_s
 			}))
 		}),
 		$$new($ObjectArray, {
 			$of("Pacific/Noumea"_s),
 			$of($$new($StringArray, {
-				u"\u65b0\u52a0\u52d2\u591a\u5c3c\u4e9e\u6642\u9593"_s,
+				u"新加勒多尼亞時間"_s,
 				"NCT"_s,
-				u"\u65b0\u52a0\u52d2\u591a\u5c3c\u4e9e\u590f\u4ee4\u6642\u9593"_s,
+				u"新加勒多尼亞夏令時間"_s,
 				"NCST"_s,
-				u"\u65b0\u52a0\u52d2\u591a\u5c3c\u4e9e\u6642\u9593"_s,
+				u"新加勒多尼亞時間"_s,
 				"NCT"_s
 			}))
 		}),
@@ -3416,11 +3416,11 @@ $ObjectArray2* TimeZoneNames_zh_TW::getContents() {
 		$$new($ObjectArray, {
 			$of("Pacific/Palau"_s),
 			$of($$new($StringArray, {
-				u"\u5e1b\u7409\u6642\u9593"_s,
+				u"帛琉時間"_s,
 				"PWT"_s,
-				u"\u5e1b\u7409\u590f\u4ee4\u6642\u9593"_s,
+				u"帛琉夏令時間"_s,
 				"PWST"_s,
-				u"\u5e1b\u7409\u6642\u9593"_s,
+				u"帛琉時間"_s,
 				"PWT"_s
 			}))
 		}),
@@ -3439,22 +3439,22 @@ $ObjectArray2* TimeZoneNames_zh_TW::getContents() {
 		$$new($ObjectArray, {
 			$of("Pacific/Port_Moresby"_s),
 			$of($$new($StringArray, {
-				u"\u5df4\u5e03\u4e9e\u65b0\u5e7e\u5167\u4e9e\u6642\u9593"_s,
+				u"巴布亞新幾內亞時間"_s,
 				"PGT"_s,
-				u"\u5df4\u5e03\u4e9e\u65b0\u5e7e\u5167\u4e9e\u590f\u4ee4\u6642\u9593"_s,
+				u"巴布亞新幾內亞夏令時間"_s,
 				"PGST"_s,
-				u"\u5df4\u5e03\u4e9e\u65b0\u5e7e\u5167\u4e9e\u6642\u9593"_s,
+				u"巴布亞新幾內亞時間"_s,
 				"PGT"_s
 			}))
 		}),
 		$$new($ObjectArray, {
 			$of("Pacific/Rarotonga"_s),
 			$of($$new($StringArray, {
-				u"\u5eab\u514b\u7fa4\u5cf6\u6642\u9593"_s,
+				u"庫克群島時間"_s,
 				"CKT"_s,
-				u"\u5eab\u514b\u7fa4\u5cf6\u590f\u4ee4\u6642\u9593"_s,
+				u"庫克群島夏令時間"_s,
 				"CKHST"_s,
-				u"\u5eab\u514b\u7fa4\u5cf6\u6642\u9593"_s,
+				u"庫克群島時間"_s,
 				"CKT"_s
 			}))
 		}),
@@ -3469,33 +3469,33 @@ $ObjectArray2* TimeZoneNames_zh_TW::getContents() {
 		$$new($ObjectArray, {
 			$of("Pacific/Tahiti"_s),
 			$of($$new($StringArray, {
-				u"\u5927\u6eaa\u5730\u5cf6\u6642\u9593"_s,
+				u"大溪地島時間"_s,
 				"TAHT"_s,
-				u"\u5927\u6eaa\u5730\u5cf6\u590f\u4ee4\u6642\u9593"_s,
+				u"大溪地島夏令時間"_s,
 				"TAHST"_s,
-				u"\u5927\u6eaa\u5730\u6642\u9593"_s,
+				u"大溪地時間"_s,
 				"TAHT"_s
 			}))
 		}),
 		$$new($ObjectArray, {
 			$of("Pacific/Tarawa"_s),
 			$of($$new($StringArray, {
-				u"\u5409\u4f2f\u7279\u7fa4\u5cf6\u6642\u9593"_s,
+				u"吉伯特群島時間"_s,
 				"GILT"_s,
-				u"\u5409\u4f2f\u7279\u7fa4\u5cf6\u590f\u4ee4\u6642\u9593"_s,
+				u"吉伯特群島夏令時間"_s,
 				"GILST"_s,
-				u"\u5409\u4f2f\u7279\u7fa4\u5cf6\u6642\u9593"_s,
+				u"吉伯特群島時間"_s,
 				"GILT"_s
 			}))
 		}),
 		$$new($ObjectArray, {
 			$of("Pacific/Tongatapu"_s),
 			$of($$new($StringArray, {
-				u"\u6771\u52a0\u6642\u9593"_s,
+				u"東加時間"_s,
 				"TOT"_s,
-				u"\u6771\u52a0\u590f\u4ee4\u6642\u9593"_s,
+				u"東加夏令時間"_s,
 				"TOST"_s,
-				u"\u6771\u52a0\u6642\u9593"_s,
+				u"東加時間"_s,
 				"TOT"_s
 			}))
 		}),
@@ -3506,22 +3506,22 @@ $ObjectArray2* TimeZoneNames_zh_TW::getContents() {
 		$$new($ObjectArray, {
 			$of("Pacific/Wake"_s),
 			$of($$new($StringArray, {
-				u"\u5a01\u514b\u6642\u9593"_s,
+				u"威克時間"_s,
 				"WAKT"_s,
-				u"\u5a01\u514b\u590f\u4ee4\u6642\u9593"_s,
+				u"威克夏令時間"_s,
 				"WAKST"_s,
-				u"\u5a01\u514b\u6642\u9593"_s,
+				u"威克時間"_s,
 				"WAKT"_s
 			}))
 		}),
 		$$new($ObjectArray, {
 			$of("Pacific/Wallis"_s),
 			$of($$new($StringArray, {
-				u"\u74e6\u5229\u65af\u53ca\u798f\u675c\u7d0d\u7fa4\u5cf6\u6642\u9593"_s,
+				u"瓦利斯及福杜納群島時間"_s,
 				"WFT"_s,
-				u"\u74e6\u5229\u65af\u53ca\u798f\u675c\u7d0d\u7fa4\u5cf6\u590f\u4ee4\u6642\u9593"_s,
+				u"瓦利斯及福杜納群島夏令時間"_s,
 				"WFST"_s,
-				u"\u74e6\u5229\u65af\u53ca\u798f\u675c\u7d0d\u7fa4\u5cf6\u6642\u9593"_s,
+				u"瓦利斯及福杜納群島時間"_s,
 				"WFT"_s
 			}))
 		}),

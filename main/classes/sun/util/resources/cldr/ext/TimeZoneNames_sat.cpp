@@ -43,7 +43,7 @@ void TimeZoneNames_sat::init$() {
 $ObjectArray2* TimeZoneNames_sat::getContents() {
 	$useLocalCurrentObjectStackCache();
 	$var($StringArray, GMT, $new($StringArray, {
-		u"\u1c5c\u1c68\u1c64\u1c71\u1c63\u1c64\u1c6a \u1c62\u1c64\u1c71 \u1c5a\u1c60\u1c5b\u1c5a"_s,
+		u"ᱜᱨᱤᱱᱣᱤᱪ ᱢᱤᱱ ᱚᱠᱛᱚ"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -51,7 +51,7 @@ $ObjectArray2* TimeZoneNames_sat::getContents() {
 		""_s
 	}));
 	$var($StringArray, ETC_UTC, $new($StringArray, {
-		u"\u1c60\u1c5a\u1c68\u1c70\u1c64\u1c71\u1c6e\u1c74\u1c6e\u1c70 \u1c6d\u1c69\u1c71\u1c64\u1c63\u1c5f\u1c68\u1c65\u1c5f\u1c5e \u1c5a\u1c60\u1c5b\u1c5a"_s,
+		u"ᱠᱚᱨᱰᱤᱱᱮᱴᱮᱰ ᱭᱩᱱᱤᱣᱟᱨᱥᱟᱞ ᱚᱠᱛᱚ"_s,
 		"UTC"_s,
 		""_s,
 		""_s,
@@ -59,67 +59,67 @@ $ObjectArray2* TimeZoneNames_sat::getContents() {
 		""_s
 	}));
 	$var($StringArray, Atlantic, $new($StringArray, {
-		u"\u1c6e\u1c74\u1c5e\u1c5f\u1c71\u1c74\u1c64\u1c60 \u1c6e\u1c65\u1c74\u1c6e\u1c71\u1c70\u1c5f\u1c68\u1c70 \u1c5a\u1c60\u1c5b\u1c5a"_s,
+		u"ᱮᱴᱞᱟᱱᱴᱤᱠ ᱮᱥᱴᱮᱱᱰᱟᱨᱰ ᱚᱠᱛᱚ"_s,
 		""_s,
-		u"\u1c6e\u1c74\u1c5e\u1c5f\u1c71\u1c74\u1c64\u1c60 \u1c65\u1c64\u1c67\u1c5f\u1c5c \u1c5a\u1c60\u1c5b\u1c5a"_s,
+		u"ᱮᱴᱞᱟᱱᱴᱤᱠ ᱥᱤᱧᱟᱜ ᱚᱠᱛᱚ"_s,
 		""_s,
-		u"\u1c6e\u1c74\u1c5e\u1c5f\u1c71\u1c74\u1c64\u1c60 \u1c5a\u1c60\u1c5b\u1c5a"_s,
+		u"ᱮᱴᱞᱟᱱᱴᱤᱠ ᱚᱠᱛᱚ"_s,
 		""_s
 	}));
 	$var($StringArray, Europe_Central, $new($StringArray, {
-		u"\u1c65\u1c6e\u1c71\u1c74\u1c68\u1c5f\u1c5e \u1c69\u1c68\u1c5a\u1c6f\u1c64\u1c6d\u1c5f\u1c71 \u1c6e\u1c65\u1c74\u1c6e\u1c71\u1c70\u1c5f\u1c68\u1c70 \u1c5a\u1c60\u1c5b\u1c5a"_s,
+		u"ᱥᱮᱱᱴᱨᱟᱞ ᱩᱨᱚᱯᱤᱭᱟᱱ ᱮᱥᱴᱮᱱᱰᱟᱨᱰ ᱚᱠᱛᱚ"_s,
 		""_s,
-		u"\u1c65\u1c6e\u1c71\u1c74\u1c68\u1c5f\u1c5e \u1c69\u1c68\u1c5a\u1c6f\u1c64\u1c6d\u1c5f\u1c71 \u1c65\u1c5f\u1c62\u1c5f\u1c68 \u1c5a\u1c60\u1c5b\u1c5a"_s,
+		u"ᱥᱮᱱᱴᱨᱟᱞ ᱩᱨᱚᱯᱤᱭᱟᱱ ᱥᱟᱢᱟᱨ ᱚᱠᱛᱚ"_s,
 		""_s,
-		u"\u1c65\u1c6e\u1c71\u1c74\u1c68\u1c5f\u1c5e \u1c69\u1c68\u1c5a\u1c6f\u1c64\u1c6d\u1c5f\u1c71 \u1c5a\u1c60\u1c5b\u1c5a"_s,
+		u"ᱥᱮᱱᱴᱨᱟᱞ ᱩᱨᱚᱯᱤᱭᱟᱱ ᱚᱠᱛᱚ"_s,
 		""_s
 	}));
 	$var($StringArray, Europe_Eastern, $new($StringArray, {
-		u"\u1c64\u1c65\u1c74\u1c5f\u1c68\u1c71 \u1c69\u1c68\u1c5a\u1c6f\u1c64\u1c6d\u1c5f\u1c71 \u1c6e\u1c65\u1c74\u1c6e\u1c71\u1c70\u1c5f\u1c68\u1c70 \u1c5a\u1c60\u1c5b\u1c5a"_s,
+		u"ᱤᱥᱴᱟᱨᱱ ᱩᱨᱚᱯᱤᱭᱟᱱ ᱮᱥᱴᱮᱱᱰᱟᱨᱰ ᱚᱠᱛᱚ"_s,
 		""_s,
-		u"\u1c64\u1c65\u1c74\u1c5f\u1c68\u1c71 \u1c69\u1c68\u1c5a\u1c6f\u1c64\u1c6d\u1c5f\u1c71 \u1c65\u1c5f\u1c62\u1c5f\u1c68 \u1c5a\u1c60\u1c5b\u1c5a"_s,
+		u"ᱤᱥᱴᱟᱨᱱ ᱩᱨᱚᱯᱤᱭᱟᱱ ᱥᱟᱢᱟᱨ ᱚᱠᱛᱚ"_s,
 		""_s,
-		u"\u1c64\u1c65\u1c74\u1c5f\u1c68\u1c71 \u1c69\u1c68\u1c5a\u1c6f\u1c64\u1c6d\u1c5f\u1c71 \u1c5a\u1c60\u1c5b\u1c5a"_s,
+		u"ᱤᱥᱴᱟᱨᱱ ᱩᱨᱚᱯᱤᱭᱟᱱ ᱚᱠᱛᱚ"_s,
 		""_s
 	}));
 	$var($StringArray, Europe_Western, $new($StringArray, {
-		u"\u1c63\u1c6e\u1c65\u1c74\u1c5f\u1c68\u1c71 \u1c69\u1c68\u1c5a\u1c6f\u1c64\u1c6d\u1c5f\u1c71 \u1c6e\u1c65\u1c74\u1c6e\u1c71\u1c70\u1c5f\u1c68\u1c70 \u1c5a\u1c60\u1c5b\u1c5a"_s,
+		u"ᱣᱮᱥᱴᱟᱨᱱ ᱩᱨᱚᱯᱤᱭᱟᱱ ᱮᱥᱴᱮᱱᱰᱟᱨᱰ ᱚᱠᱛᱚ"_s,
 		""_s,
-		u"\u1c63\u1c6e\u1c65\u1c74\u1c5f\u1c68\u1c71 \u1c69\u1c68\u1c5a\u1c6f\u1c64\u1c6d\u1c5f\u1c71 \u1c65\u1c5f\u1c62\u1c5f\u1c68 \u1c5a\u1c60\u1c5b\u1c5a"_s,
+		u"ᱣᱮᱥᱴᱟᱨᱱ ᱩᱨᱚᱯᱤᱭᱟᱱ ᱥᱟᱢᱟᱨ ᱚᱠᱛᱚ"_s,
 		""_s,
-		u"\u1c63\u1c6e\u1c65\u1c74\u1c5f\u1c68\u1c71 \u1c69\u1c68\u1c5a\u1c6f\u1c64\u1c6d\u1c5f\u1c71 \u1c5a\u1c60\u1c5b\u1c5a"_s,
+		u"ᱣᱮᱥᱴᱟᱨᱱ ᱩᱨᱚᱯᱤᱭᱟᱱ ᱚᱠᱛᱚ"_s,
 		""_s
 	}));
 	$var($StringArray, America_Central, $new($StringArray, {
-		u"\u1c5b\u1c5f\u1c71\u1c5f\u1c5e\u1c5f \u1c6e\u1c65\u1c74\u1c6e\u1c71\u1c70\u1c5f\u1c68\u1c70 \u1c5a\u1c60\u1c5b\u1c5a"_s,
+		u"ᱛᱟᱱᱟᱞᱟ ᱮᱥᱴᱮᱱᱰᱟᱨᱰ ᱚᱠᱛᱚ"_s,
 		""_s,
-		u"\u1c5b\u1c5f\u1c71\u1c5f\u1c5e\u1c5f \u1c65\u1c64\u1c67\u1c5f\u1c5c \u1c5a\u1c60\u1c5b\u1c5a"_s,
+		u"ᱛᱟᱱᱟᱞᱟ ᱥᱤᱧᱟᱜ ᱚᱠᱛᱚ"_s,
 		""_s,
-		u"\u1c5b\u1c5f\u1c71\u1c5f\u1c5e\u1c5f \u1c5a\u1c60\u1c5b\u1c5a"_s,
+		u"ᱛᱟᱱᱟᱞᱟ ᱚᱠᱛᱚ"_s,
 		""_s
 	}));
 	$var($StringArray, America_Eastern, $new($StringArray, {
-		u"\u1c64\u1c65\u1c74\u1c5f\u1c68\u1c71 \u1c6e\u1c65\u1c74\u1c6e\u1c71\u1c70\u1c5f\u1c68\u1c70 \u1c5a\u1c60\u1c5b\u1c5a"_s,
+		u"ᱤᱥᱴᱟᱨᱱ ᱮᱥᱴᱮᱱᱰᱟᱨᱰ ᱚᱠᱛᱚ"_s,
 		""_s,
-		u"\u1c64\u1c65\u1c74\u1c5f\u1c68\u1c71 \u1c65\u1c64\u1c67\u1c5f\u1c5c \u1c75\u1c5a\u1c60\u1c5b\u1c5a"_s,
+		u"ᱤᱥᱴᱟᱨᱱ ᱥᱤᱧᱟᱜ ᱵᱚᱠᱛᱚ"_s,
 		""_s,
-		u"\u1c64\u1c65\u1c74\u1c5f\u1c68\u1c71 \u1c5a\u1c60\u1c5b\u1c5a"_s,
+		u"ᱤᱥᱴᱟᱨᱱ ᱚᱠᱛᱚ"_s,
 		""_s
 	}));
 	$var($StringArray, America_Pacific, $new($StringArray, {
-		u"\u1c6f\u1c6e\u1c65\u1c64\u1c6f\u1c77\u1c64\u1c60 \u1c6e\u1c65\u1c74\u1c6e\u1c71\u1c70\u1c5f\u1c68\u1c70 \u1c5a\u1c60\u1c5b\u1c5a"_s,
+		u"ᱯᱮᱥᱤᱯᱷᱤᱠ ᱮᱥᱴᱮᱱᱰᱟᱨᱰ ᱚᱠᱛᱚ"_s,
 		""_s,
-		u"\u1c6f\u1c6e\u1c65\u1c64\u1c6f\u1c77\u1c64\u1c60 \u1c65\u1c64\u1c67\u1c5f\u1c5c \u1c5a\u1c60\u1c5b\u1c5a"_s,
+		u"ᱯᱮᱥᱤᱯᱷᱤᱠ ᱥᱤᱧᱟᱜ ᱚᱠᱛᱚ"_s,
 		""_s,
-		u"\u1c6f\u1c6e\u1c65\u1c64\u1c6f\u1c77\u1c64\u1c60 \u1c5a\u1c60\u1c5b\u1c5a"_s,
+		u"ᱯᱮᱥᱤᱯᱷᱤᱠ ᱚᱠᱛᱚ"_s,
 		""_s
 	}));
 	$var($StringArray, America_Mountain, $new($StringArray, {
-		u"\u1c62\u1c5f\u1c69\u1c71\u1c74\u1c6e\u1c71 \u1c6e\u1c65\u1c74\u1c6e\u1c71\u1c70\u1c5f\u1c68\u1c70 \u1c5a\u1c60\u1c5b\u1c5a"_s,
+		u"ᱢᱟᱩᱱᱴᱮᱱ ᱮᱥᱴᱮᱱᱰᱟᱨᱰ ᱚᱠᱛᱚ"_s,
 		""_s,
-		u"\u1c62\u1c5f\u1c69\u1c71\u1c74\u1c6e\u1c71 \u1c65\u1c64\u1c67\u1c5f\u1c5c \u1c5a\u1c60\u1c5b\u1c5a"_s,
+		u"ᱢᱟᱩᱱᱴᱮᱱ ᱥᱤᱧᱟᱜ ᱚᱠᱛᱚ"_s,
 		""_s,
-		u"\u1c62\u1c5f\u1c69\u1c71\u1c74\u1c6e\u1c71 \u1c5a\u1c60\u1c5b\u1c5a"_s,
+		u"ᱢᱟᱩᱱᱴᱮᱱ ᱚᱠᱛᱚ"_s,
 		""_s
 	}));
 	$var($ObjectArray2, data, $new($ObjectArray2, {
@@ -929,7 +929,7 @@ $ObjectArray2* TimeZoneNames_sat::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Etc/Unknown"_s),
-			$of(u"\u1c75\u1c5f\u1c5d \u1c6a\u1c64\u1c71\u1c66\u1c5f\u1c79\u1c63 \u1c75\u1c5f\u1c61\u1c5f\u1c68"_s)
+			$of(u"ᱵᱟᱝ ᱪᱤᱱᱦᱟᱹᱣ ᱵᱟᱡᱟᱨ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("America/North_Dakota/New_Salem"_s),

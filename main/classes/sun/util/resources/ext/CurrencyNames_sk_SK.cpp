@@ -41,7 +41,7 @@ $ObjectArray2* CurrencyNames_sk_SK::getContents() {
 	return $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("EUR"_s),
-			$of(u"\u20ac"_s)
+			$of(u"€"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("SKK"_s),
@@ -49,7 +49,7 @@ $ObjectArray2* CurrencyNames_sk_SK::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("skk"_s),
-			$of(u"Slovensk\u00e1 koruna"_s)
+			$of(u"Slovenská koruna"_s)
 		})
 	});
 }

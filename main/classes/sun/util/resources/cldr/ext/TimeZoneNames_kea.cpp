@@ -43,7 +43,7 @@ void TimeZoneNames_kea::init$() {
 $ObjectArray2* TimeZoneNames_kea::getContents() {
 	$useLocalCurrentObjectStackCache();
 	$var($StringArray, GMT, $new($StringArray, {
-		u"Ora M\u00e9diu di Greenwich"_s,
+		u"Ora Médiu di Greenwich"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -75,11 +75,11 @@ $ObjectArray2* TimeZoneNames_kea::getContents() {
 		""_s
 	}));
 	$var($StringArray, Atlantic, $new($StringArray, {
-		u"Ora Padron di Atl\u00e1ntiku"_s,
+		u"Ora Padron di Atlántiku"_s,
 		""_s,
-		u"Ora di Veron di Atl\u00e1ntiku"_s,
+		u"Ora di Veron di Atlántiku"_s,
 		""_s,
-		u"Ora di Atl\u00e1ntiku"_s,
+		u"Ora di Atlántiku"_s,
 		""_s
 	}));
 	$var($StringArray, Cape_Verde, $new($StringArray, {
@@ -99,7 +99,7 @@ $ObjectArray2* TimeZoneNames_kea::getContents() {
 		""_s
 	}));
 	$var($StringArray, Africa_Central, $new($StringArray, {
-		u"Ora di \u00c1frika Sentral"_s,
+		u"Ora di Áfrika Sentral"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -107,7 +107,7 @@ $ObjectArray2* TimeZoneNames_kea::getContents() {
 		""_s
 	}));
 	$var($StringArray, Africa_Eastern, $new($StringArray, {
-		u"Ora di \u00c1frika Oriental"_s,
+		u"Ora di Áfrika Oriental"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -115,11 +115,11 @@ $ObjectArray2* TimeZoneNames_kea::getContents() {
 		""_s
 	}));
 	$var($StringArray, Africa_Western, $new($StringArray, {
-		u"Ora Padron di \u00c1frika Osidental"_s,
+		u"Ora Padron di Áfrika Osidental"_s,
 		""_s,
-		u"Ora di Veron di \u00c1frika Osidental"_s,
+		u"Ora di Veron di Áfrika Osidental"_s,
 		""_s,
-		u"Ora di \u00c1frika Osidental"_s,
+		u"Ora di Áfrika Osidental"_s,
 		""_s
 	}));
 	$var($StringArray, Europe_Central, $new($StringArray, {
@@ -147,15 +147,15 @@ $ObjectArray2* TimeZoneNames_kea::getContents() {
 		""_s
 	}));
 	$var($StringArray, Mexico_Pacific, $new($StringArray, {
-		u"Ora Padron di Pas\u00edfiku Mexikanu"_s,
+		u"Ora Padron di Pasífiku Mexikanu"_s,
 		""_s,
-		u"Ora di Veron di Pas\u00edfiku Mexikanu"_s,
+		u"Ora di Veron di Pasífiku Mexikanu"_s,
 		""_s,
-		u"Ora di Pas\u00edfiku Mexikanu"_s,
+		u"Ora di Pasífiku Mexikanu"_s,
 		""_s
 	}));
 	$var($StringArray, Africa_Southern, $new($StringArray, {
-		u"Ora di Sul di \u00c1frika"_s,
+		u"Ora di Sul di Áfrika"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -179,19 +179,19 @@ $ObjectArray2* TimeZoneNames_kea::getContents() {
 		""_s
 	}));
 	$var($StringArray, America_Pacific, $new($StringArray, {
-		u"Ora Padron di Pas\u00edfiku"_s,
+		u"Ora Padron di Pasífiku"_s,
 		""_s,
-		u"Ora di Veron di Pas\u00edfiku"_s,
+		u"Ora di Veron di Pasífiku"_s,
 		""_s,
-		u"Ora di Pas\u00edfiku"_s,
+		u"Ora di Pasífiku"_s,
 		""_s
 	}));
 	$var($StringArray, Hawaii_Aleutian, $new($StringArray, {
-		u"Ora Padron di Ava\u00ed i Aleutas"_s,
+		u"Ora Padron di Avaí i Aleutas"_s,
 		""_s,
-		u"Ora di Veron di Ava\u00ed i Aleutas"_s,
+		u"Ora di Veron di Avaí i Aleutas"_s,
 		""_s,
-		u"Ora di Ava\u00ed i Aleutas"_s,
+		u"Ora di Avaí i Aleutas"_s,
 		""_s
 	}));
 	$var($StringArray, Pierre_Miquelon, $new($StringArray, {
@@ -211,59 +211,59 @@ $ObjectArray2* TimeZoneNames_kea::getContents() {
 		""_s
 	}));
 	$var($StringArray, Mexico_Northwest, $new($StringArray, {
-		u"Ora Padron di Noroesti di M\u00e9xiku"_s,
+		u"Ora Padron di Noroesti di Méxiku"_s,
 		""_s,
-		u"Ora di Veron di Noroesti di M\u00e9xiku"_s,
+		u"Ora di Veron di Noroesti di Méxiku"_s,
 		""_s,
-		u"Ora di Noroesti di M\u00e9xiku"_s,
+		u"Ora di Noroesti di Méxiku"_s,
 		""_s
 	}));
 	$var($StringArray, Australia_Central, $new($StringArray, {
-		u"Ora Padron di Austr\u00e1lia Sentral"_s,
+		u"Ora Padron di Austrália Sentral"_s,
 		""_s,
-		u"Ora di Veron di Austr\u00e1lia Sentral"_s,
+		u"Ora di Veron di Austrália Sentral"_s,
 		""_s,
-		u"Ora di Austr\u00e1lia Sentral"_s,
+		u"Ora di Austrália Sentral"_s,
 		""_s
 	}));
 	$var($StringArray, Australia_Eastern, $new($StringArray, {
-		u"Ora Padron di Austr\u00e1lia Oriental"_s,
+		u"Ora Padron di Austrália Oriental"_s,
 		""_s,
-		u"Ora di Veron di Austr\u00e1lia Oriental"_s,
+		u"Ora di Veron di Austrália Oriental"_s,
 		""_s,
-		u"Ora di Austr\u00e1lia Oriental"_s,
+		u"Ora di Austrália Oriental"_s,
 		""_s
 	}));
 	$var($StringArray, Australia_Western, $new($StringArray, {
-		u"Ora Padron di Austr\u00e1lia Osidental"_s,
+		u"Ora Padron di Austrália Osidental"_s,
 		""_s,
-		u"Ora di Veron di Austr\u00e1lia Osidental"_s,
+		u"Ora di Veron di Austrália Osidental"_s,
 		""_s,
-		u"Ora di Austr\u00e1lia Osidental"_s,
+		u"Ora di Austrália Osidental"_s,
 		""_s
 	}));
 	$var($StringArray, Greenland_Eastern, $new($StringArray, {
-		u"Ora Padron di Gronel\u00e1ndia Oriental"_s,
+		u"Ora Padron di Gronelándia Oriental"_s,
 		""_s,
-		u"Ora di Veron di Gronel\u00e1ndia Oriental"_s,
+		u"Ora di Veron di Gronelándia Oriental"_s,
 		""_s,
-		u"Ora di Gronel\u00e1ndia Oriental"_s,
+		u"Ora di Gronelándia Oriental"_s,
 		""_s
 	}));
 	$var($StringArray, Greenland_Western, $new($StringArray, {
-		u"Ora Padron di Gronel\u00e1ndia Osidental"_s,
+		u"Ora Padron di Gronelándia Osidental"_s,
 		""_s,
-		u"Ora di Veron di Gronel\u00e1ndia Osidental"_s,
+		u"Ora di Veron di Gronelándia Osidental"_s,
 		""_s,
-		u"Ora di Gronel\u00e1ndia Osidental"_s,
+		u"Ora di Gronelándia Osidental"_s,
 		""_s
 	}));
 	$var($StringArray, Australia_CentralWestern, $new($StringArray, {
-		u"Ora Padron di Austr\u00e1lia Sentru-Osidental"_s,
+		u"Ora Padron di Austrália Sentru-Osidental"_s,
 		""_s,
-		u"Ora di Veron di Austr\u00e1lia Sentru-Osidental"_s,
+		u"Ora di Veron di Austrália Sentru-Osidental"_s,
 		""_s,
-		u"Ora di Austr\u00e1lia Sentru-Osidental"_s,
+		u"Ora di Austrália Sentru-Osidental"_s,
 		""_s
 	}));
 	$var($ObjectArray2, data, $new($ObjectArray2, {
@@ -586,7 +586,7 @@ $ObjectArray2* TimeZoneNames_kea::getContents() {
 		$$new($ObjectArray, {
 			$of("Europe/Dublin"_s),
 			$of($$new($StringArray, {
-				u"Ora M\u00e9diu di Greenwich"_s,
+				u"Ora Médiu di Greenwich"_s,
 				""_s,
 				"Ora Padron di Irlanda"_s,
 				""_s,
@@ -605,9 +605,9 @@ $ObjectArray2* TimeZoneNames_kea::getContents() {
 		$$new($ObjectArray, {
 			$of("Europe/London"_s),
 			$of($$new($StringArray, {
-				u"Ora M\u00e9diu di Greenwich"_s,
+				u"Ora Médiu di Greenwich"_s,
 				""_s,
-				u"Ora di Veron Brit\u00e1niku"_s,
+				u"Ora di Veron Britániku"_s,
 				""_s,
 				""_s,
 				""_s
@@ -736,9 +736,9 @@ $ObjectArray2* TimeZoneNames_kea::getContents() {
 		$$new($ObjectArray, {
 			$of("Europe/Belfast"_s),
 			$of($$new($StringArray, {
-				u"Ora M\u00e9diu di Greenwich"_s,
+				u"Ora Médiu di Greenwich"_s,
 				""_s,
-				u"Ora di Veron Brit\u00e1niku"_s,
+				u"Ora di Veron Britániku"_s,
 				""_s,
 				""_s,
 				""_s
@@ -1422,11 +1422,11 @@ $ObjectArray2* TimeZoneNames_kea::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Merida"_s),
-			$of(u"M\u00e9rida"_s)
+			$of(u"Mérida"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Panama"_s),
-			$of(u"Panam\u00e1"_s)
+			$of(u"Panamá"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Chicago"_s),
@@ -1434,7 +1434,7 @@ $ObjectArray2* TimeZoneNames_kea::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Creston"_s),
-			$of(u"Kr\u00e9ston"_s)
+			$of(u"Kréston"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Curacao"_s),
@@ -1450,7 +1450,7 @@ $ObjectArray2* TimeZoneNames_kea::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Managua"_s),
-			$of(u"Man\u00e1gua"_s)
+			$of(u"Manágua"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Toronto"_s),
@@ -1482,11 +1482,11 @@ $ObjectArray2* TimeZoneNames_kea::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/St_Lucia"_s),
-			$of(u"Santa L\u00fasia"_s)
+			$of(u"Santa Lúsia"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Winnipeg"_s),
-			$of(u"U\u00ednipeg"_s)
+			$of(u"Uínipeg"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Atlantic/Bermuda"_s),
@@ -1498,7 +1498,7 @@ $ObjectArray2* TimeZoneNames_kea::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Chihuahua"_s),
-			$of(u"Xiu\u00e1ua"_s)
+			$of(u"Xiuáua"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Guatemala"_s),
@@ -1526,7 +1526,7 @@ $ObjectArray2* TimeZoneNames_kea::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Mexico_City"_s),
-			$of(u"Sidadi di M\u00e9xiku"_s)
+			$of(u"Sidadi di Méxiku"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Puerto_Rico"_s),
@@ -1538,7 +1538,7 @@ $ObjectArray2* TimeZoneNames_kea::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Indianapolis"_s),
-			$of(u"Indian\u00e1polis"_s)
+			$of(u"Indianápolis"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Port_of_Spain"_s),
@@ -1554,7 +1554,7 @@ $ObjectArray2* TimeZoneNames_kea::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Bahia_Banderas"_s),
-			$of(u"Ba\u00eda di Banderas"_s)
+			$of(u"Baía di Banderas"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/North_Dakota/Beulah"_s),

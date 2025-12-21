@@ -60,7 +60,7 @@ $ObjectArray2* LocaleNames_hsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("fil"_s),
-			$of(u"filipin\u0161\u0107ina"_s)
+			$of(u"filipinšćina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("luy"_s),
@@ -68,11 +68,11 @@ $ObjectArray2* LocaleNames_hsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("es_ES"_s),
-			$of(u"europska \u0161pani\u0161\u0107ina"_s)
+			$of(u"europska španišćina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("scn"_s),
-			$of(u"sicil\u0161\u0107ina"_s)
+			$of(u"sicilšćina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("teo"_s),
@@ -80,11 +80,11 @@ $ObjectArray2* LocaleNames_hsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("aa"_s),
-			$of(u"afar\u0161\u0107ina"_s)
+			$of(u"afaršćina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ab"_s),
-			$of(u"abchazi\u0161\u0107ina"_s)
+			$of(u"abchazišćina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("AC"_s),
@@ -96,11 +96,11 @@ $ObjectArray2* LocaleNames_hsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("AE"_s),
-			$of(u"Zjedno\u0107ene arabske emiraty"_s)
+			$of(u"Zjednoćene arabske emiraty"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("nl_BE"_s),
-			$of(u"flam\u0161\u0107ina"_s)
+			$of(u"flamšćina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("AF"_s),
@@ -108,7 +108,7 @@ $ObjectArray2* LocaleNames_hsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("af"_s),
-			$of(u"afrikaan\u0161\u0107ina"_s)
+			$of(u"afrikaanšćina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("AG"_s),
@@ -124,7 +124,7 @@ $ObjectArray2* LocaleNames_hsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ak"_s),
-			$of(u"akan\u0161\u0107ina"_s)
+			$of(u"akanšćina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("AL"_s),
@@ -136,11 +136,11 @@ $ObjectArray2* LocaleNames_hsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("am"_s),
-			$of(u"amhar\u0161\u0107ina"_s)
+			$of(u"amharšćina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("an"_s),
-			$of(u"aragon\u0161\u0107ina"_s)
+			$of(u"aragonšćina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Arab"_s),
@@ -164,7 +164,7 @@ $ObjectArray2* LocaleNames_hsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ar"_s),
-			$of(u"arab\u0161\u0107ina"_s)
+			$of(u"arabšćina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("AS"_s),
@@ -172,7 +172,7 @@ $ObjectArray2* LocaleNames_hsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("as"_s),
-			$of(u"asam\u0161\u0107ina"_s)
+			$of(u"asamšćina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("AT"_s),
@@ -184,7 +184,7 @@ $ObjectArray2* LocaleNames_hsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("av"_s),
-			$of(u"awar\u0161\u0107ina"_s)
+			$of(u"awaršćina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("AW"_s),
@@ -192,23 +192,23 @@ $ObjectArray2* LocaleNames_hsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("en_US"_s),
-			$of(u"ameriska jend\u017ael\u0161\u0107ina"_s)
+			$of(u"ameriska jendźelšćina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("AX"_s),
-			$of(u"\u00c5land"_s)
+			$of(u"Åland"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ay"_s),
-			$of(u"aymar\u0161\u0107ina"_s)
+			$of(u"aymaršćina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("AZ"_s),
-			$of(u"Azerbajd\u017aan"_s)
+			$of(u"Azerbajdźan"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("az"_s),
-			$of(u"azerbajd\u017aan\u0161\u0107ina"_s)
+			$of(u"azerbajdźanšćina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("BA"_s),
@@ -216,7 +216,7 @@ $ObjectArray2* LocaleNames_hsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ba"_s),
-			$of(u"ba\u0161kir\u0161\u0107ina"_s)
+			$of(u"baškiršćina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("BB"_s),
@@ -224,7 +224,7 @@ $ObjectArray2* LocaleNames_hsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("BD"_s),
-			$of(u"Banglade\u0161"_s)
+			$of(u"Bangladeš"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("BE"_s),
@@ -232,7 +232,7 @@ $ObjectArray2* LocaleNames_hsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("be"_s),
-			$of(u"b\u011b\u0142oru\u0161\u0107ina"_s)
+			$of(u"běłorušćina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("BF"_s),
@@ -240,11 +240,11 @@ $ObjectArray2* LocaleNames_hsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("BG"_s),
-			$of(u"Bo\u0142harska"_s)
+			$of(u"Bołharska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bg"_s),
-			$of(u"bo\u0142har\u0161\u0107ina"_s)
+			$of(u"bołharšćina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("BH"_s),
@@ -256,7 +256,7 @@ $ObjectArray2* LocaleNames_hsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("bi"_s),
-			$of(u"bislam\u0161\u0107ina"_s)
+			$of(u"bislamšćina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("BJ"_s),
@@ -264,7 +264,7 @@ $ObjectArray2* LocaleNames_hsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("BL"_s),
-			$of(u"St. Barth\u00e9lemy"_s)
+			$of(u"St. Barthélemy"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("BM"_s),
@@ -280,7 +280,7 @@ $ObjectArray2* LocaleNames_hsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("bn"_s),
-			$of(u"bengal\u0161\u0107ina"_s)
+			$of(u"bengalšćina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("BO"_s),
@@ -288,11 +288,11 @@ $ObjectArray2* LocaleNames_hsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("bo"_s),
-			$of(u"tibet\u0161\u0107ina"_s)
+			$of(u"tibetšćina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("BQ"_s),
-			$of(u"Karibiska Ni\u017eozemska"_s)
+			$of(u"Karibiska Nižozemska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("BR"_s),
@@ -300,7 +300,7 @@ $ObjectArray2* LocaleNames_hsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("br"_s),
-			$of(u"breton\u0161\u0107ina"_s)
+			$of(u"bretonšćina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("BS"_s),
@@ -308,7 +308,7 @@ $ObjectArray2* LocaleNames_hsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("bs"_s),
-			$of(u"bosni\u0161\u0107ina"_s)
+			$of(u"bosnišćina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xog"_s),
@@ -336,7 +336,7 @@ $ObjectArray2* LocaleNames_hsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("BY"_s),
-			$of(u"B\u011b\u0142oruska"_s)
+			$of(u"Běłoruska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("seh"_s),
@@ -360,7 +360,7 @@ $ObjectArray2* LocaleNames_hsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ca"_s),
-			$of(u"katalan\u0161\u0107ina"_s)
+			$of(u"katalanšćina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("CC"_s),
@@ -384,15 +384,15 @@ $ObjectArray2* LocaleNames_hsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("CH"_s),
-			$of(u"\u0160wicarska"_s)
+			$of(u"Šwicarska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ch"_s),
-			$of(u"\u010damor\u0161\u0107ina"_s)
+			$of(u"čamoršćina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("CI"_s),
-			$of(u"C\u00f4te d\u2019Ivoire"_s)
+			$of(u"Côte d’Ivoire"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("CK"_s),
@@ -416,7 +416,7 @@ $ObjectArray2* LocaleNames_hsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("co"_s),
-			$of(u"korsi\u0161\u0107ina"_s)
+			$of(u"korsišćina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("CP"_s),
@@ -436,7 +436,7 @@ $ObjectArray2* LocaleNames_hsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("cs"_s),
-			$of(u"\u010d\u011b\u0161\u0107ina"_s)
+			$of(u"čěšćina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("CU"_s),
@@ -448,7 +448,7 @@ $ObjectArray2* LocaleNames_hsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("CW"_s),
-			$of(u"Cura\u00e7ao"_s)
+			$of(u"Curaçao"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("CX"_s),
@@ -460,11 +460,11 @@ $ObjectArray2* LocaleNames_hsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("cy"_s),
-			$of(u"walizi\u0161\u0107ina"_s)
+			$of(u"walizišćina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("CZ"_s),
-			$of(u"\u010c\u011bska republika"_s)
+			$of(u"Čěska republika"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.ethi"_s),
@@ -472,19 +472,19 @@ $ObjectArray2* LocaleNames_hsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("da"_s),
-			$of(u"dan\u0161\u0107ina"_s)
+			$of(u"danšćina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pt_PT"_s),
-			$of(u"europska portugal\u0161\u0107ina"_s)
+			$of(u"europska portugalšćina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("DE"_s),
-			$of(u"N\u011bmska"_s)
+			$of(u"Němska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("de"_s),
-			$of(u"n\u011bm\u010dina"_s)
+			$of(u"němčina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cgg"_s),
@@ -500,7 +500,7 @@ $ObjectArray2* LocaleNames_hsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("DJ"_s),
-			$of(u"D\u017aibuti"_s)
+			$of(u"Dźibuti"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("DK"_s),
@@ -516,7 +516,7 @@ $ObjectArray2* LocaleNames_hsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.armnlow"_s),
-			$of(u"armenske cyfry, ma\u0142e pisane"_s)
+			$of(u"armenske cyfry, małe pisane"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("DO"_s),
@@ -528,7 +528,7 @@ $ObjectArray2* LocaleNames_hsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("got"_s),
-			$of(u"got\u0161\u0107ina"_s)
+			$of(u"gotšćina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("dv"_s),
@@ -536,7 +536,7 @@ $ObjectArray2* LocaleNames_hsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("es_419"_s),
-			$of(u"\u0142a\u0107onskoameriska \u0161pani\u0161\u0107ina"_s)
+			$of(u"łaćonskoameriska španišćina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("DZ"_s),
@@ -588,15 +588,15 @@ $ObjectArray2* LocaleNames_hsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ro_MD"_s),
-			$of(u"moldaw\u0161\u0107ina"_s)
+			$of(u"moldawšćina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("el"_s),
-			$of(u"grjek\u0161\u0107ina"_s)
+			$of(u"grjekšćina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("en"_s),
-			$of(u"jend\u017ael\u0161\u0107ina"_s)
+			$of(u"jendźelšćina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("eo"_s),
@@ -604,7 +604,7 @@ $ObjectArray2* LocaleNames_hsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("cho"_s),
-			$of(u"choctaw\u0161\u0107ina"_s)
+			$of(u"choctawšćina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("chr"_s),
@@ -616,11 +616,11 @@ $ObjectArray2* LocaleNames_hsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ES"_s),
-			$of(u"\u0160paniska"_s)
+			$of(u"Španiska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("es"_s),
-			$of(u"\u0161pani\u0161\u0107ina"_s)
+			$of(u"španišćina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ET"_s),
@@ -628,7 +628,7 @@ $ObjectArray2* LocaleNames_hsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("et"_s),
-			$of(u"esti\u0161\u0107ina"_s)
+			$of(u"estišćina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("EU"_s),
@@ -636,7 +636,7 @@ $ObjectArray2* LocaleNames_hsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("eu"_s),
-			$of(u"baski\u0161\u0107ina"_s)
+			$of(u"baskišćina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Hang"_s),
@@ -648,7 +648,7 @@ $ObjectArray2* LocaleNames_hsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("shi"_s),
-			$of(u"ta\u0161elhit"_s)
+			$of(u"tašelhit"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.gujr"_s),
@@ -656,7 +656,7 @@ $ObjectArray2* LocaleNames_hsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("hsb"_s),
-			$of(u"hornjoserb\u0161\u0107ina"_s)
+			$of(u"hornjoserbšćina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Hani"_s),
@@ -664,7 +664,7 @@ $ObjectArray2* LocaleNames_hsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("fa"_s),
-			$of(u"persi\u0161\u0107ina"_s)
+			$of(u"persišćina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Hans"_s),
@@ -684,15 +684,15 @@ $ObjectArray2* LocaleNames_hsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("fi"_s),
-			$of(u"fin\u0161\u0107ina"_s)
+			$of(u"finšćina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("FJ"_s),
-			$of(u"Fid\u017ai"_s)
+			$of(u"Fidźi"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("fj"_s),
-			$of(u"fid\u017ai\u0161\u0107ina"_s)
+			$of(u"fidźišćina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("FK"_s),
@@ -704,11 +704,11 @@ $ObjectArray2* LocaleNames_hsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("FO"_s),
-			$of(u"F\u00e4r\u00f6ske kupy"_s)
+			$of(u"Färöske kupy"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("fo"_s),
-			$of(u"f\u00e4r\u00f6\u0161\u0107ina"_s)
+			$of(u"färöšćina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Taml"_s),
@@ -720,11 +720,11 @@ $ObjectArray2* LocaleNames_hsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("fr"_s),
-			$of(u"franco\u0161\u0107ina"_s)
+			$of(u"francošćina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("fy"_s),
-			$of(u"frizi\u0161\u0107ina"_s)
+			$of(u"frizišćina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("GA"_s),
@@ -732,11 +732,11 @@ $ObjectArray2* LocaleNames_hsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ga"_s),
-			$of(u"ir\u0161\u0107ina"_s)
+			$of(u"iršćina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("GB"_s),
-			$of(u"Zjedno\u0107ene kralestwo"_s)
+			$of(u"Zjednoćene kralestwo"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("GD"_s),
@@ -744,7 +744,7 @@ $ObjectArray2* LocaleNames_hsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("gd"_s),
-			$of(u"\u0161otiska gel\u0161\u0107ina"_s)
+			$of(u"šotiska gelšćina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("GE"_s),
@@ -768,11 +768,11 @@ $ObjectArray2* LocaleNames_hsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("GL"_s),
-			$of(u"Gr\u00f6nlandska"_s)
+			$of(u"Grönlandska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gl"_s),
-			$of(u"galici\u0161\u0107ina"_s)
+			$of(u"galicišćina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("GM"_s),
@@ -796,7 +796,7 @@ $ObjectArray2* LocaleNames_hsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("und"_s),
-			$of(u"njeznata r\u011b\u010d"_s)
+			$of(u"njeznata rěč"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("GR"_s),
@@ -804,7 +804,7 @@ $ObjectArray2* LocaleNames_hsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("GS"_s),
-			$of(u"Ju\u017ena Georgiska a Ju\u017ene Sandwichowe kupy"_s)
+			$of(u"Južna Georgiska a Južne Sandwichowe kupy"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("GT"_s),
@@ -820,7 +820,7 @@ $ObjectArray2* LocaleNames_hsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("gv"_s),
-			$of(u"man\u0161\u0107ina"_s)
+			$of(u"manšćina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("GW"_s),
@@ -840,19 +840,19 @@ $ObjectArray2* LocaleNames_hsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("zxx"_s),
-			$of(u"\u017eadyn r\u011b\u010dny wobsah"_s)
+			$of(u"žadyn rěčny wobsah"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("he"_s),
-			$of(u"hebrej\u0161\u0107ina"_s)
+			$of(u"hebrejšćina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("hi"_s),
-			$of(u"hindi\u0161\u0107ina"_s)
+			$of(u"hindišćina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("de_AT"_s),
-			$of(u"awstriska n\u011bm\u010dina"_s)
+			$of(u"awstriska němčina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("HK"_s),
@@ -872,15 +872,15 @@ $ObjectArray2* LocaleNames_hsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("hr"_s),
-			$of(u"chorwat\u0161\u0107ina"_s)
+			$of(u"chorwatšćina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("agq"_s),
-			$of(u"aghem\u0161\u0107ina"_s)
+			$of(u"aghemšćina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gsw"_s),
-			$of(u"\u0161wicarska n\u011bm\u010dina"_s)
+			$of(u"šwicarska němčina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("HT"_s),
@@ -888,19 +888,19 @@ $ObjectArray2* LocaleNames_hsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ht"_s),
-			$of(u"haiti\u0161\u0107ina"_s)
+			$of(u"haitišćina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("HU"_s),
-			$of(u"Mad\u017aarska"_s)
+			$of(u"Madźarska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("hu"_s),
-			$of(u"mad\u017aar\u0161\u0107ina"_s)
+			$of(u"madźaršćina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("hy"_s),
-			$of(u"armen\u0161\u0107ina"_s)
+			$of(u"armenšćina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ia"_s),
@@ -916,7 +916,7 @@ $ObjectArray2* LocaleNames_hsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("id"_s),
-			$of(u"indone\u0161\u0107ina"_s)
+			$of(u"indonešćina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.tibt"_s),
@@ -976,7 +976,7 @@ $ObjectArray2* LocaleNames_hsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("is"_s),
-			$of(u"island\u0161\u0107ina"_s)
+			$of(u"islandšćina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("IT"_s),
@@ -984,11 +984,11 @@ $ObjectArray2* LocaleNames_hsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("it"_s),
-			$of(u"ital\u0161\u0107ina"_s)
+			$of(u"italšćina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("iu"_s),
-			$of(u"inuit\u0161\u0107ina"_s)
+			$of(u"inuitšćina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.thai"_s),
@@ -1000,7 +1000,7 @@ $ObjectArray2* LocaleNames_hsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ja"_s),
-			$of(u"japan\u0161\u0107ina"_s)
+			$of(u"japanšćina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Mlym"_s),
@@ -1032,11 +1032,11 @@ $ObjectArray2* LocaleNames_hsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("sma"_s),
-			$of(u"ju\u017enosami\u0161\u0107ina"_s)
+			$of(u"južnosamišćina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("jv"_s),
-			$of(u"java\u0161\u0107ina"_s)
+			$of(u"javašćina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("guz"_s),
@@ -1048,19 +1048,19 @@ $ObjectArray2* LocaleNames_hsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("smj"_s),
-			$of(u"lule-sami\u0161\u0107ina"_s)
+			$of(u"lule-samišćina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("de_CH"_s),
-			$of(u"\u0161wicarska wysokon\u011bm\u010dina"_s)
+			$of(u"šwicarska wysokoněmčina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("smn"_s),
-			$of(u"inari-sami\u0161\u0107ina"_s)
+			$of(u"inari-samišćina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ka"_s),
-			$of(u"georgi\u0161\u0107ina"_s)
+			$of(u"georgišćina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.ca.buddhist"_s),
@@ -1068,7 +1068,7 @@ $ObjectArray2* LocaleNames_hsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("sms"_s),
-			$of(u"skolt-sami\u0161\u0107ina"_s)
+			$of(u"skolt-samišćina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("KE"_s),
@@ -1076,7 +1076,7 @@ $ObjectArray2* LocaleNames_hsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("419"_s),
-			$of(u"\u0141a\u0107onska Amerika"_s)
+			$of(u"Łaćonska Amerika"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("KG"_s),
@@ -1084,7 +1084,7 @@ $ObjectArray2* LocaleNames_hsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("KH"_s),
-			$of(u"Kambod\u017aa"_s)
+			$of(u"Kambodźa"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("KI"_s),
@@ -1096,15 +1096,15 @@ $ObjectArray2* LocaleNames_hsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("mas"_s),
-			$of(u"masai\u0161\u0107ina"_s)
+			$of(u"masaišćina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kk"_s),
-			$of(u"kazach\u0161\u0107ina"_s)
+			$of(u"kazachšćina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kl"_s),
-			$of(u"gr\u00f6ndland\u0161\u0107ina"_s)
+			$of(u"gröndlandšćina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("KM"_s),
@@ -1112,7 +1112,7 @@ $ObjectArray2* LocaleNames_hsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("km"_s),
-			$of(u"khmer\u0161\u0107ina"_s)
+			$of(u"khmeršćina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("KN"_s),
@@ -1120,7 +1120,7 @@ $ObjectArray2* LocaleNames_hsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("kn"_s),
-			$of(u"kannad\u0161\u0107ina"_s)
+			$of(u"kannadšćina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Knda"_s),
@@ -1128,11 +1128,11 @@ $ObjectArray2* LocaleNames_hsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("fr_CA"_s),
-			$of(u"kanadiska franco\u0161\u0107ina"_s)
+			$of(u"kanadiska francošćina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ko"_s),
-			$of(u"korej\u0161\u0107ina"_s)
+			$of(u"korejšćina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("KP"_s),
@@ -1140,19 +1140,19 @@ $ObjectArray2* LocaleNames_hsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("KR"_s),
-			$of(u"Ju\u017ena Koreja"_s)
+			$of(u"Južna Koreja"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ks"_s),
-			$of(u"ka\u0161mir\u0161\u0107ina"_s)
+			$of(u"kašmiršćina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ku"_s),
-			$of(u"kurdi\u0161\u0107ina"_s)
+			$of(u"kurdišćina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("fr_CH"_s),
-			$of(u"\u0161wicarska franco\u0161\u0107ina"_s)
+			$of(u"šwicarska francošćina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("KW"_s),
@@ -1160,7 +1160,7 @@ $ObjectArray2* LocaleNames_hsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("kw"_s),
-			$of(u"korni\u0161\u0107ina"_s)
+			$of(u"kornišćina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("KY"_s),
@@ -1168,7 +1168,7 @@ $ObjectArray2* LocaleNames_hsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ky"_s),
-			$of(u"kirgi\u0161\u0107ina"_s)
+			$of(u"kirgišćina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("KZ"_s),
@@ -1184,7 +1184,7 @@ $ObjectArray2* LocaleNames_hsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("la"_s),
-			$of(u"\u0142a\u0107on\u0161\u0107ina"_s)
+			$of(u"łaćonšćina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("LB"_s),
@@ -1192,7 +1192,7 @@ $ObjectArray2* LocaleNames_hsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("lb"_s),
-			$of(u"luxemburg\u0161\u0107ina"_s)
+			$of(u"luxemburgšćina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("LC"_s),
@@ -1204,11 +1204,11 @@ $ObjectArray2* LocaleNames_hsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("lg"_s),
-			$of(u"gand\u0161\u0107ina"_s)
+			$of(u"gandšćina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("nds"_s),
-			$of(u"delnjon\u011bm\u010dina"_s)
+			$of(u"delnjoněmčina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("LI"_s),
@@ -1216,7 +1216,7 @@ $ObjectArray2* LocaleNames_hsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("li"_s),
-			$of(u"limbur\u0161\u0107ina"_s)
+			$of(u"limburšćina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("LK"_s),
@@ -1232,7 +1232,7 @@ $ObjectArray2* LocaleNames_hsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("lo"_s),
-			$of(u"lao\u0161\u0107ina"_s)
+			$of(u"laošćina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("LR"_s),
@@ -1248,7 +1248,7 @@ $ObjectArray2* LocaleNames_hsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("lt"_s),
-			$of(u"litaw\u0161\u0107ina"_s)
+			$of(u"litawšćina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("LU"_s),
@@ -1264,7 +1264,7 @@ $ObjectArray2* LocaleNames_hsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("lv"_s),
-			$of(u"leti\u0161\u0107ina"_s)
+			$of(u"letišćina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Kana"_s),
@@ -1312,7 +1312,7 @@ $ObjectArray2* LocaleNames_hsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("mg"_s),
-			$of(u"malagassi\u0161\u0107ina"_s)
+			$of(u"malagassišćina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("MH"_s),
@@ -1324,15 +1324,15 @@ $ObjectArray2* LocaleNames_hsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("type.co.ducet"_s),
-			$of(u"rjadowanski sl\u011bd po Unicode"_s)
+			$of(u"rjadowanski slěd po Unicode"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mi"_s),
-			$of(u"maor\u0161\u0107ina"_s)
+			$of(u"maoršćina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mk"_s),
-			$of(u"makedon\u0161\u0107ina"_s)
+			$of(u"makedonšćina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ML"_s),
@@ -1340,7 +1340,7 @@ $ObjectArray2* LocaleNames_hsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ml"_s),
-			$of(u"malajam\u0161\u0107ina"_s)
+			$of(u"malajamšćina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("MM"_s),
@@ -1352,7 +1352,7 @@ $ObjectArray2* LocaleNames_hsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("mn"_s),
-			$of(u"mongol\u0161\u0107ina"_s)
+			$of(u"mongolšćina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("MO"_s),
@@ -1372,7 +1372,7 @@ $ObjectArray2* LocaleNames_hsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("mr"_s),
-			$of(u"marati\u0161\u0107ina"_s)
+			$of(u"maratišćina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("MS"_s),
@@ -1380,7 +1380,7 @@ $ObjectArray2* LocaleNames_hsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ms"_s),
-			$of(u"malaj\u0161\u0107ina"_s)
+			$of(u"malajšćina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("MT"_s),
@@ -1388,7 +1388,7 @@ $ObjectArray2* LocaleNames_hsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("mt"_s),
-			$of(u"malta\u0161\u0107ina"_s)
+			$of(u"maltašćina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("MU"_s),
@@ -1416,7 +1416,7 @@ $ObjectArray2* LocaleNames_hsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("my"_s),
-			$of(u"burma\u0161\u0107ina"_s)
+			$of(u"burmašćina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("MZ"_s),
@@ -1428,7 +1428,7 @@ $ObjectArray2* LocaleNames_hsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("dsb"_s),
-			$of(u"delnjoserb\u0161\u0107ina"_s)
+			$of(u"delnjoserbšćina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("NA"_s),
@@ -1436,19 +1436,19 @@ $ObjectArray2* LocaleNames_hsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("na"_s),
-			$of(u"nauru\u0161\u0107ina"_s)
+			$of(u"naurušćina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.co.search"_s),
-			$of(u"pow\u0161itkowne pytanje"_s)
+			$of(u"powšitkowne pytanje"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("nb"_s),
-			$of(u"norweg\u0161\u0107ina (bokm\u00e5l)"_s)
+			$of(u"norwegšćina (bokmål)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.ca.hebrew"_s),
-			$of(u"\u017eidowska protyka"_s)
+			$of(u"židowska protyka"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("NC"_s),
@@ -1464,7 +1464,7 @@ $ObjectArray2* LocaleNames_hsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ne"_s),
-			$of(u"nepal\u0161\u0107ina"_s)
+			$of(u"nepalšćina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("NF"_s),
@@ -1480,15 +1480,15 @@ $ObjectArray2* LocaleNames_hsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("NL"_s),
-			$of(u"Ni\u017eozemska"_s)
+			$of(u"Nižozemska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("nl"_s),
-			$of(u"ni\u017eozem\u0161\u0107ina"_s)
+			$of(u"nižozemšćina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("nn"_s),
-			$of(u"norweg\u0161\u0107ina (nynorsk)"_s)
+			$of(u"norwegšćina (nynorsk)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("NO"_s),
@@ -1496,7 +1496,7 @@ $ObjectArray2* LocaleNames_hsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("no"_s),
-			$of(u"norweg\u0161\u0107ina"_s)
+			$of(u"norwegšćina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("NP"_s),
@@ -1524,11 +1524,11 @@ $ObjectArray2* LocaleNames_hsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("kab"_s),
-			$of(u"kabyl\u0161\u0107ina"_s)
+			$of(u"kabylšćina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("oc"_s),
-			$of(u"okcitan\u0161\u0107ina"_s)
+			$of(u"okcitanšćina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kam"_s),
@@ -1536,7 +1536,7 @@ $ObjectArray2* LocaleNames_hsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ang"_s),
-			$of(u"anglosak\u0161\u0107ina"_s)
+			$of(u"anglosakšćina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mer"_s),
@@ -1556,11 +1556,11 @@ $ObjectArray2* LocaleNames_hsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("or"_s),
-			$of(u"orij\u0161\u0107ina"_s)
+			$of(u"orijšćina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mfe"_s),
-			$of(u"mauriciska kreol\u0161\u0107ina"_s)
+			$of(u"mauriciska kreolšćina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("PA"_s),
@@ -1568,7 +1568,7 @@ $ObjectArray2* LocaleNames_hsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("pa"_s),
-			$of(u"pand\u017aab\u0161\u0107ina"_s)
+			$of(u"pandźabšćina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("dua"_s),
@@ -1576,7 +1576,7 @@ $ObjectArray2* LocaleNames_hsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("en_GB"_s),
-			$of(u"britiska jend\u017ael\u0161\u0107ina"_s)
+			$of(u"britiska jendźelšćina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("PE"_s),
@@ -1600,11 +1600,11 @@ $ObjectArray2* LocaleNames_hsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("PL"_s),
-			$of(u"P\u00f3lska"_s)
+			$of(u"Pólska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pl"_s),
-			$of(u"p\u00f3l\u0161\u0107ina"_s)
+			$of(u"pólšćina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("PM"_s),
@@ -1628,7 +1628,7 @@ $ObjectArray2* LocaleNames_hsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ps"_s),
-			$of(u"pa\u0161tun\u0161\u0107ina"_s)
+			$of(u"paštunšćina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("PT"_s),
@@ -1636,11 +1636,11 @@ $ObjectArray2* LocaleNames_hsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("pt"_s),
-			$of(u"portugal\u0161\u0107ina"_s)
+			$of(u"portugalšćina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("key.co"_s),
-			$of(u"rjadowanski sl\u011bd"_s)
+			$of(u"rjadowanski slěd"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("PW"_s),
@@ -1648,7 +1648,7 @@ $ObjectArray2* LocaleNames_hsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.greklow"_s),
-			$of(u"grjekske cyfry, ma\u0142e pisane"_s)
+			$of(u"grjekske cyfry, małe pisane"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("PY"_s),
@@ -1656,7 +1656,7 @@ $ObjectArray2* LocaleNames_hsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("pt_BR"_s),
-			$of(u"brazilska portugal\u0161\u0107ina"_s)
+			$of(u"brazilska portugalšćina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mgh"_s),
@@ -1680,7 +1680,7 @@ $ObjectArray2* LocaleNames_hsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("mgo"_s),
-			$of(u"meta\u2019"_s)
+			$of(u"meta’"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.mymr"_s),
@@ -1692,7 +1692,7 @@ $ObjectArray2* LocaleNames_hsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("qu"_s),
-			$of(u"ke\u010dua"_s)
+			$of(u"kečua"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("brx"_s),
@@ -1704,11 +1704,11 @@ $ObjectArray2* LocaleNames_hsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("001"_s),
-			$of(u"sw\u011bt"_s)
+			$of(u"swět"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("stq"_s),
-			$of(u"saterfrizi\u0161\u0107ina"_s)
+			$of(u"saterfrizišćina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Ethi"_s),
@@ -1724,11 +1724,11 @@ $ObjectArray2* LocaleNames_hsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("RE"_s),
-			$of(u"R\u00e9union"_s)
+			$of(u"Réunion"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("005"_s),
-			$of(u"Ju\u017ena Amerika"_s)
+			$of(u"Južna Amerika"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("009"_s),
@@ -1736,15 +1736,15 @@ $ObjectArray2* LocaleNames_hsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("rm"_s),
-			$of(u"retoroman\u0161\u0107ina"_s)
+			$of(u"retoromanšćina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("rn"_s),
-			$of(u"kirundi\u0161\u0107ina"_s)
+			$of(u"kirundišćina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("key.cu"_s),
-			$of(u"m\u011bna"_s)
+			$of(u"měna"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("RO"_s),
@@ -1752,7 +1752,7 @@ $ObjectArray2* LocaleNames_hsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ro"_s),
-			$of(u"rumun\u0161\u0107ina"_s)
+			$of(u"rumunšćina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("RS"_s),
@@ -1764,7 +1764,7 @@ $ObjectArray2* LocaleNames_hsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.hanidec"_s),
-			$of(u"chinske decimalne li\u010dby"_s)
+			$of(u"chinske decimalne ličby"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("RU"_s),
@@ -1772,7 +1772,7 @@ $ObjectArray2* LocaleNames_hsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ru"_s),
-			$of(u"ru\u0161\u0107ina"_s)
+			$of(u"rušćina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("RW"_s),
@@ -1784,11 +1784,11 @@ $ObjectArray2* LocaleNames_hsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("kea"_s),
-			$of(u"kapverd\u0161\u0107ina"_s)
+			$of(u"kapverdšćina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("en_AU"_s),
-			$of(u"awstralska jend\u017ael\u0161\u0107ina"_s)
+			$of(u"awstralska jendźelšćina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("SA"_s),
@@ -1816,7 +1816,7 @@ $ObjectArray2* LocaleNames_hsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("sc"_s),
-			$of(u"sardin\u0161\u0107ina"_s)
+			$of(u"sardinšćina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("SD"_s),
@@ -1824,19 +1824,19 @@ $ObjectArray2* LocaleNames_hsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("sd"_s),
-			$of(u"sindhi\u0161\u0107ina"_s)
+			$of(u"sindhišćina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("013"_s),
-			$of(u"Srjed\u017ana Amerika"_s)
+			$of(u"Srjedźna Amerika"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("SE"_s),
-			$of(u"\u0160wedska"_s)
+			$of(u"Šwedska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("se"_s),
-			$of(u"sewjerosami\u0161\u0107ina"_s)
+			$of(u"sewjerosamišćina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("014"_s),
@@ -1860,23 +1860,23 @@ $ObjectArray2* LocaleNames_hsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("sh"_s),
-			$of(u"serbochorwat\u0161\u0107ina"_s)
+			$of(u"serbochorwatšćina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("017"_s),
-			$of(u"srjed\u017ana Afrika"_s)
+			$of(u"srjedźna Afrika"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("SI"_s),
-			$of(u"S\u0142owjenska"_s)
+			$of(u"Słowjenska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("si"_s),
-			$of(u"singhal\u0161\u0107ina"_s)
+			$of(u"singhalšćina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("018"_s),
-			$of(u"ju\u017ena Afrika"_s)
+			$of(u"južna Afrika"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("SJ"_s),
@@ -1888,11 +1888,11 @@ $ObjectArray2* LocaleNames_hsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("SK"_s),
-			$of(u"S\u0142owakska"_s)
+			$of(u"Słowakska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sk"_s),
-			$of(u"s\u0142owak\u0161\u0107ina"_s)
+			$of(u"słowakšćina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("SL"_s),
@@ -1900,7 +1900,7 @@ $ObjectArray2* LocaleNames_hsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("sl"_s),
-			$of(u"s\u0142owjen\u0161\u0107ina"_s)
+			$of(u"słowjenšćina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("SM"_s),
@@ -1908,7 +1908,7 @@ $ObjectArray2* LocaleNames_hsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("sm"_s),
-			$of(u"samoa\u0161\u0107ina"_s)
+			$of(u"samoašćina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("SN"_s),
@@ -1916,7 +1916,7 @@ $ObjectArray2* LocaleNames_hsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("sn"_s),
-			$of(u"\u0161ona\u0161\u0107ina"_s)
+			$of(u"šonašćina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("SO"_s),
@@ -1924,11 +1924,11 @@ $ObjectArray2* LocaleNames_hsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("so"_s),
-			$of(u"somali\u0161\u0107ina"_s)
+			$of(u"somališćina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("arn"_s),
-			$of(u"arawkan\u0161\u0107ina"_s)
+			$of(u"arawkanšćina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.arab"_s),
@@ -1936,7 +1936,7 @@ $ObjectArray2* LocaleNames_hsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("sq"_s),
-			$of(u"alban\u0161\u0107ina"_s)
+			$of(u"albanšćina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.taml"_s),
@@ -1948,11 +1948,11 @@ $ObjectArray2* LocaleNames_hsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("sr"_s),
-			$of(u"serbi\u0161\u0107ina"_s)
+			$of(u"serbišćina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("SS"_s),
-			$of(u"Ju\u017eny Sudan"_s)
+			$of(u"Južny Sudan"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ss"_s),
@@ -1960,15 +1960,15 @@ $ObjectArray2* LocaleNames_hsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ST"_s),
-			$of(u"S\u00e3o Tom\u00e9 a Pr\u00edncipe"_s)
+			$of(u"São Tomé a Príncipe"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("st"_s),
-			$of(u"ju\u017enosot\u0161\u0107ina (Sesotho)"_s)
+			$of(u"južnosotšćina (Sesotho)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("su"_s),
-			$of(u"sundanezi\u0161\u0107ina"_s)
+			$of(u"sundanezišćina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("SV"_s),
@@ -1976,11 +1976,11 @@ $ObjectArray2* LocaleNames_hsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("sv"_s),
-			$of(u"\u0161wed\u0161\u0107ina"_s)
+			$of(u"šwedšćina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sw"_s),
-			$of(u"suahel\u0161\u0107ina"_s)
+			$of(u"suahelšćina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("SX"_s),
@@ -2004,7 +2004,7 @@ $ObjectArray2* LocaleNames_hsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ta"_s),
-			$of(u"tamil\u0161\u0107ina"_s)
+			$of(u"tamilšćina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("asa"_s),
@@ -2028,7 +2028,7 @@ $ObjectArray2* LocaleNames_hsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("TD"_s),
-			$of(u"\u010cad"_s)
+			$of(u"Čad"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("te"_s),
@@ -2040,7 +2040,7 @@ $ObjectArray2* LocaleNames_hsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("TF"_s),
-			$of(u"Francoski ju\u017eny a antarktiski teritorij"_s)
+			$of(u"Francoski južny a antarktiski teritorij"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("TG"_s),
@@ -2048,7 +2048,7 @@ $ObjectArray2* LocaleNames_hsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("tg"_s),
-			$of(u"tad\u017aik\u0161\u0107ina"_s)
+			$of(u"tadźikšćina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("TH"_s),
@@ -2056,23 +2056,23 @@ $ObjectArray2* LocaleNames_hsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("th"_s),
-			$of(u"thailand\u0161\u0107ina"_s)
+			$of(u"thailandšćina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ti"_s),
-			$of(u"tigrin\u0161\u0107ina"_s)
+			$of(u"tigrinšćina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bug"_s),
-			$of(u"buginezi\u0161\u0107ina"_s)
+			$of(u"buginezišćina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("TJ"_s),
-			$of(u"Tad\u017aikistan"_s)
+			$of(u"Tadźikistan"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("en_CA"_s),
-			$of(u"kanadiska jend\u017ael\u0161\u0107ina"_s)
+			$of(u"kanadiska jendźelšćina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("029"_s),
@@ -2084,7 +2084,7 @@ $ObjectArray2* LocaleNames_hsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("tk"_s),
-			$of(u"turkmen\u0161\u0107ina"_s)
+			$of(u"turkmenšćina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("TL"_s),
@@ -2112,7 +2112,7 @@ $ObjectArray2* LocaleNames_hsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("to"_s),
-			$of(u"tonga\u0161\u0107ina"_s)
+			$of(u"tongašćina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("dyo"_s),
@@ -2128,7 +2128,7 @@ $ObjectArray2* LocaleNames_hsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("tr"_s),
-			$of(u"turkow\u0161\u0107ina"_s)
+			$of(u"turkowšćina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ts"_s),
@@ -2140,7 +2140,7 @@ $ObjectArray2* LocaleNames_hsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("tt"_s),
-			$of(u"tatar\u0161\u0107ina"_s)
+			$of(u"tataršćina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("TV"_s),
@@ -2156,11 +2156,11 @@ $ObjectArray2* LocaleNames_hsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ast"_s),
-			$of(u"astur\u0161\u0107ina"_s)
+			$of(u"asturšćina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ty"_s),
-			$of(u"tahiti\u0161\u0107ina"_s)
+			$of(u"tahitišćina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("TZ"_s),
@@ -2196,11 +2196,11 @@ $ObjectArray2* LocaleNames_hsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("sw_CD"_s),
-			$of(u"kongoska suahel\u0161\u0107ina"_s)
+			$of(u"kongoska suahelšćina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("034"_s),
-			$of(u"ju\u017ena Azija"_s)
+			$of(u"južna Azija"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("155"_s),
@@ -2216,7 +2216,7 @@ $ObjectArray2* LocaleNames_hsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ug"_s),
-			$of(u"ujgur\u0161\u0107ina"_s)
+			$of(u"ujguršćina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Kore"_s),
@@ -2224,15 +2224,15 @@ $ObjectArray2* LocaleNames_hsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("Zyyy"_s),
-			$of(u"pow\u0161itkowne"_s)
+			$of(u"powšitkowne"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("039"_s),
-			$of(u"ju\u017ena Europa"_s)
+			$of(u"južna Europa"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("uk"_s),
-			$of(u"ukrain\u0161\u0107ina"_s)
+			$of(u"ukrainšćina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Sinh"_s),
@@ -2244,19 +2244,19 @@ $ObjectArray2* LocaleNames_hsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("UN"_s),
-			$of(u"Zjedno\u0107ene narody"_s)
+			$of(u"Zjednoćene narody"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ur"_s),
-			$of(u"urdu\u0161\u0107ina"_s)
+			$of(u"urdušćina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("US"_s),
-			$of(u"Zjedno\u0107ene staty Ameriki"_s)
+			$of(u"Zjednoćene staty Ameriki"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("haw"_s),
-			$of(u"hawaii\u0161\u0107ina"_s)
+			$of(u"hawaiišćina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("UY"_s),
@@ -2264,7 +2264,7 @@ $ObjectArray2* LocaleNames_hsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("prg"_s),
-			$of(u"pru\u0161\u0107ina"_s)
+			$of(u"prušćina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("UZ"_s),
@@ -2272,15 +2272,15 @@ $ObjectArray2* LocaleNames_hsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("uz"_s),
-			$of(u"uzbek\u0161\u0107ina"_s)
+			$of(u"uzbekšćina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("tzm"_s),
-			$of(u"tamazight (srjed\u017any Marokko)"_s)
+			$of(u"tamazight (srjedźny Marokko)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("VA"_s),
-			$of(u"Vatikanske m\u011bsto"_s)
+			$of(u"Vatikanske město"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("VC"_s),
@@ -2296,15 +2296,15 @@ $ObjectArray2* LocaleNames_hsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("VG"_s),
-			$of(u"Britiske knje\u017eniske kupy"_s)
+			$of(u"Britiske knježniske kupy"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("VI"_s),
-			$of(u"Ameriske knje\u017eniske kupy"_s)
+			$of(u"Ameriske knježniske kupy"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("vi"_s),
-			$of(u"vietnam\u0161\u0107ina"_s)
+			$of(u"vietnamšćina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("khq"_s),
@@ -2316,11 +2316,11 @@ $ObjectArray2* LocaleNames_hsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("vo"_s),
-			$of(u"volap\u00fck"_s)
+			$of(u"volapük"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("quc"_s),
-			$of(u"k\u02bciche\u02bc"_s)
+			$of(u"kʼicheʼ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("VU"_s),
@@ -2332,11 +2332,11 @@ $ObjectArray2* LocaleNames_hsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("wa"_s),
-			$of(u"walon\u0161\u0107ina"_s)
+			$of(u"walonšćina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gag"_s),
-			$of(u"gagauzi\u0161\u0107ina"_s)
+			$of(u"gagauzišćina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("053"_s),
@@ -2376,7 +2376,7 @@ $ObjectArray2* LocaleNames_hsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ar_001"_s),
-			$of(u"moderna wysokoarab\u0161\u0107ina"_s)
+			$of(u"moderna wysokoarabšćina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("WS"_s),
@@ -2392,7 +2392,7 @@ $ObjectArray2* LocaleNames_hsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("Latn"_s),
-			$of(u"\u0142a\u0107onsce"_s)
+			$of(u"łaćonsce"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.hans"_s),
@@ -2412,7 +2412,7 @@ $ObjectArray2* LocaleNames_hsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.romanlow"_s),
-			$of(u"romske cyfry, ma\u0142e pisane"_s)
+			$of(u"romske cyfry, małe pisane"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Gujr"_s),
@@ -2424,7 +2424,7 @@ $ObjectArray2* LocaleNames_hsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("moh"_s),
-			$of(u"mohawk\u0161\u0107ina"_s)
+			$of(u"mohawkšćina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("YE"_s),
@@ -2432,23 +2432,23 @@ $ObjectArray2* LocaleNames_hsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("nqo"_s),
-			$of(u"n\u2019ko"_s)
+			$of(u"n’ko"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.co.standard"_s),
-			$of(u"standardowy rjadowanski sl\u011bd"_s)
+			$of(u"standardowy rjadowanski slěd"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("yi"_s),
-			$of(u"jidi\u0161\u0107ina"_s)
+			$of(u"jidišćina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("yo"_s),
-			$of(u"joruba\u0161\u0107ina"_s)
+			$of(u"jorubašćina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("es_MX"_s),
-			$of(u"mexiska \u0161pani\u0161\u0107ina"_s)
+			$of(u"mexiska španišćina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("YT"_s),
@@ -2460,7 +2460,7 @@ $ObjectArray2* LocaleNames_hsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ZA"_s),
-			$of(u"Ju\u017ena Afrika (Republika)"_s)
+			$of(u"Južna Afrika (Republika)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("za"_s),
@@ -2476,7 +2476,7 @@ $ObjectArray2* LocaleNames_hsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("zh"_s),
-			$of(u"chin\u0161\u0107ina"_s)
+			$of(u"chinšćina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.geor"_s),
@@ -2496,7 +2496,7 @@ $ObjectArray2* LocaleNames_hsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("zu"_s),
-			$of(u"zulu\u0161\u0107ina"_s)
+			$of(u"zulušćina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ZW"_s),
@@ -2532,11 +2532,11 @@ $ObjectArray2* LocaleNames_hsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("zh_Hans"_s),
-			$of(u"chin\u0161\u0107ina (zjednorjena)"_s)
+			$of(u"chinšćina (zjednorjena)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("koi"_s),
-			$of(u"permska komi\u0161\u0107ina"_s)
+			$of(u"permska komišćina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.hansfin"_s),
@@ -2548,7 +2548,7 @@ $ObjectArray2* LocaleNames_hsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.arabext"_s),
-			$of(u"roz\u0161\u011brjene arabsko-indiske cyfry"_s)
+			$of(u"rozšěrjene arabsko-indiske cyfry"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("nus"_s),
@@ -2556,7 +2556,7 @@ $ObjectArray2* LocaleNames_hsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.fullwide"_s),
-			$of(u"po\u0142no\u0161\u011broke cyfry"_s)
+			$of(u"połnošěroke cyfry"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("dav"_s),
@@ -2564,7 +2564,7 @@ $ObjectArray2* LocaleNames_hsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("zh_Hant"_s),
-			$of(u"chin\u0161\u0107ina (tradicionalna)"_s)
+			$of(u"chinšćina (tradicionalna)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.khmr"_s),
@@ -2600,7 +2600,7 @@ $ObjectArray2* LocaleNames_hsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("key.nu"_s),
-			$of(u"li\u010dby"_s)
+			$of(u"ličby"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Guru"_s),
@@ -2608,7 +2608,7 @@ $ObjectArray2* LocaleNames_hsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ksb"_s),
-			$of(u"\u0161ambala"_s)
+			$of(u"šambala"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Telu"_s),

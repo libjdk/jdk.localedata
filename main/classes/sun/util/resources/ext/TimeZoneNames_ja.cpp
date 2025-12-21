@@ -119,643 +119,643 @@ void TimeZoneNames_ja::init$() {
 $ObjectArray2* TimeZoneNames_ja::getContents() {
 	$useLocalCurrentObjectStackCache();
 	$var($StringArray, ACT, $new($StringArray, {
-		u"\u30a2\u30af\u30ec\u6642\u9593"_s,
+		u"アクレ時間"_s,
 		"ACT"_s,
-		u"\u30a2\u30af\u30ec\u590f\u6642\u9593"_s,
+		u"アクレ夏時間"_s,
 		"ACST"_s,
-		u"\u30a2\u30af\u30ec\u6642\u9593"_s,
+		u"アクレ時間"_s,
 		"ACT"_s
 	}));
 	$var($StringArray, ADELAIDE, $new($StringArray, {
-		u"\u4e2d\u90e8\u6a19\u6e96\u6642(\u5357\u30aa\u30fc\u30b9\u30c8\u30e9\u30ea\u30a2)"_s,
+		u"中部標準時(南オーストラリア)"_s,
 		"ACST"_s,
-		u"\u4e2d\u90e8\u590f\u6642\u9593(\u5357\u30aa\u30fc\u30b9\u30c8\u30e9\u30ea\u30a2)"_s,
+		u"中部夏時間(南オーストラリア)"_s,
 		"ACDT"_s,
-		u"\u4e2d\u90e8\u6a19\u6e96\u6642(\u5357\u30aa\u30fc\u30b9\u30c8\u30e9\u30ea\u30a2)"_s,
+		u"中部標準時(南オーストラリア)"_s,
 		"ACT"_s
 	}));
 	$var($StringArray, AGT, $new($StringArray, {
-		u"\u30a2\u30eb\u30bc\u30f3\u30c1\u30f3\u6642\u9593"_s,
+		u"アルゼンチン時間"_s,
 		"ART"_s,
-		u"\u30a2\u30eb\u30bc\u30f3\u30c1\u30f3\u590f\u6642\u9593"_s,
+		u"アルゼンチン夏時間"_s,
 		"ARST"_s,
-		u"\u30a2\u30eb\u30bc\u30f3\u30c1\u30f3\u6642\u9593"_s,
+		u"アルゼンチン時間"_s,
 		"ART"_s
 	}));
 	$var($StringArray, AKST, $new($StringArray, {
-		u"\u30a2\u30e9\u30b9\u30ab\u6a19\u6e96\u6642"_s,
+		u"アラスカ標準時"_s,
 		"AKST"_s,
-		u"\u30a2\u30e9\u30b9\u30ab\u590f\u6642\u9593"_s,
+		u"アラスカ夏時間"_s,
 		"AKDT"_s,
-		u"\u30a2\u30e9\u30b9\u30ab\u6642\u9593"_s,
+		u"アラスカ時間"_s,
 		"AKT"_s
 	}));
 	$var($StringArray, AMT, $new($StringArray, {
-		u"\u30a2\u30de\u30be\u30f3\u6642\u9593"_s,
+		u"アマゾン時間"_s,
 		"AMT"_s,
-		u"\u30a2\u30de\u30be\u30f3\u590f\u6642\u9593"_s,
+		u"アマゾン夏時間"_s,
 		"AMST"_s,
-		u"\u30a2\u30de\u30be\u30f3\u6642\u9593"_s,
+		u"アマゾン時間"_s,
 		"AMT"_s
 	}));
 	$var($StringArray, ARAST, $new($StringArray, {
-		u"\u30a2\u30e9\u30d3\u30a2\u6a19\u6e96\u6642"_s,
+		u"アラビア標準時"_s,
 		"AST"_s,
-		u"\u30a2\u30e9\u30d3\u30a2\u590f\u6642\u9593"_s,
+		u"アラビア夏時間"_s,
 		"ADT"_s,
-		u"\u30a2\u30e9\u30d3\u30a2\u6642\u9593"_s,
+		u"アラビア時間"_s,
 		"AT"_s
 	}));
 	$var($StringArray, ARMT, $new($StringArray, {
-		u"\u30a2\u30eb\u30e1\u30cb\u30a2\u6642\u9593"_s,
+		u"アルメニア時間"_s,
 		"AMT"_s,
-		u"\u30a2\u30eb\u30e1\u30cb\u30a2\u590f\u6642\u9593"_s,
+		u"アルメニア夏時間"_s,
 		"AMST"_s,
-		u"\u30a2\u30eb\u30e1\u30cb\u30a2\u6642\u9593"_s,
+		u"アルメニア時間"_s,
 		"AMT"_s
 	}));
 	$var($StringArray, AST, $new($StringArray, {
-		u"\u5927\u897f\u6d0b\u6a19\u6e96\u6642"_s,
+		u"大西洋標準時"_s,
 		"AST"_s,
-		u"\u5927\u897f\u6d0b\u590f\u6642\u9593"_s,
+		u"大西洋夏時間"_s,
 		"ADT"_s,
-		u"\u5927\u897f\u6d0b\u6a19\u6e96\u6642"_s,
+		u"大西洋標準時"_s,
 		"AT"_s
 	}));
 	$var($StringArray, BDT, $new($StringArray, {
-		u"\u30d0\u30f3\u30b0\u30e9\u30c7\u30b7\u30e5\u6642\u9593"_s,
+		u"バングラデシュ時間"_s,
 		"BDT"_s,
-		u"\u30d0\u30f3\u30b0\u30e9\u30c7\u30b7\u30e5\u590f\u6642\u9593"_s,
+		u"バングラデシュ夏時間"_s,
 		"BDST"_s,
-		u"\u30d0\u30f3\u30b0\u30e9\u30c7\u30b7\u30e5\u6642\u9593"_s,
+		u"バングラデシュ時間"_s,
 		"BDT"_s
 	}));
 	$var($StringArray, BRISBANE, $new($StringArray, {
-		u"\u6771\u90e8\u6a19\u6e96\u6642(\u30af\u30a4\u30fc\u30f3\u30ba\u30e9\u30f3\u30c9)"_s,
+		u"東部標準時(クイーンズランド)"_s,
 		"AEST"_s,
-		u"\u6771\u90e8\u590f\u6642\u9593(\u30af\u30a4\u30fc\u30f3\u30ba\u30e9\u30f3\u30c9)"_s,
+		u"東部夏時間(クイーンズランド)"_s,
 		"AEDT"_s,
-		u"\u6771\u90e8\u6a19\u6e96\u6642(\u30af\u30a4\u30fc\u30f3\u30ba\u30e9\u30f3\u30c9)"_s,
+		u"東部標準時(クイーンズランド)"_s,
 		"AET"_s
 	}));
 	$var($StringArray, BROKEN_HILL, $new($StringArray, {
-		u"\u4e2d\u90e8\u6a19\u6e96\u6642(\u5357\u30aa\u30fc\u30b9\u30c8\u30e9\u30ea\u30a2/\u30cb\u30e5\u30fc\u30b5\u30a6\u30b9\u30a6\u30a7\u30fc\u30eb\u30ba)"_s,
+		u"中部標準時(南オーストラリア/ニューサウスウェールズ)"_s,
 		"ACST"_s,
-		u"\u4e2d\u90e8\u590f\u6642\u9593(\u5357\u30aa\u30fc\u30b9\u30c8\u30e9\u30ea\u30a2/\u30cb\u30e5\u30fc\u30b5\u30a6\u30b9\u30a6\u30a7\u30fc\u30eb\u30ba)"_s,
+		u"中部夏時間(南オーストラリア/ニューサウスウェールズ)"_s,
 		"ACDT"_s,
-		u"\u4e2d\u90e8\u6a19\u6e96\u6642(\u5357\u30aa\u30fc\u30b9\u30c8\u30e9\u30ea\u30a2/\u30cb\u30e5\u30fc\u30b5\u30a6\u30b9\u30a6\u30a7\u30fc\u30eb\u30ba)"_s,
+		u"中部標準時(南オーストラリア/ニューサウスウェールズ)"_s,
 		"ACT"_s
 	}));
 	$var($StringArray, BRT, $new($StringArray, {
-		u"\u30d6\u30e9\u30b8\u30eb\u6642\u9593"_s,
+		u"ブラジル時間"_s,
 		"BRT"_s,
-		u"\u30d6\u30e9\u30b8\u30eb\u590f\u6642\u9593"_s,
+		u"ブラジル夏時間"_s,
 		"BRST"_s,
-		u"\u30d6\u30e9\u30b8\u30ea\u30a2\u6642\u9593"_s,
+		u"ブラジリア時間"_s,
 		"BRT"_s
 	}));
 	$var($StringArray, BTT, $new($StringArray, {
-		u"\u30d6\u30fc\u30bf\u30f3\u6642\u9593"_s,
+		u"ブータン時間"_s,
 		"BTT"_s,
-		u"\u30d6\u30fc\u30bf\u30f3\u590f\u6642\u9593"_s,
+		u"ブータン夏時間"_s,
 		"BTST"_s,
-		u"\u30d6\u30fc\u30bf\u30f3\u6642\u9593"_s,
+		u"ブータン時間"_s,
 		"BTT"_s
 	}));
 	$var($StringArray, CAT, $new($StringArray, {
-		u"\u4e2d\u90e8\u30a2\u30d5\u30ea\u30ab\u6642\u9593"_s,
+		u"中部アフリカ時間"_s,
 		"CAT"_s,
-		u"\u4e2d\u90e8\u30a2\u30d5\u30ea\u30ab\u590f\u6642\u9593"_s,
+		u"中部アフリカ夏時間"_s,
 		"CAST"_s,
-		u"\u4e2d\u90e8\u30a2\u30d5\u30ea\u30ab\u6642\u9593"_s,
+		u"中部アフリカ時間"_s,
 		"CAT"_s
 	}));
 	$var($StringArray, CET, $new($StringArray, {
-		u"\u4e2d\u90e8\u30e8\u30fc\u30ed\u30c3\u30d1\u6642\u9593"_s,
+		u"中部ヨーロッパ時間"_s,
 		"CET"_s,
-		u"\u4e2d\u90e8\u30e8\u30fc\u30ed\u30c3\u30d1\u590f\u6642\u9593"_s,
+		u"中部ヨーロッパ夏時間"_s,
 		"CEST"_s,
-		u"\u4e2d\u90e8\u30e8\u30fc\u30ed\u30c3\u30d1\u6642\u9593"_s,
+		u"中部ヨーロッパ時間"_s,
 		"CET"_s
 	}));
 	$var($StringArray, CHAST, $new($StringArray, {
-		u"\u30c1\u30e3\u30bf\u30e0\u6a19\u6e96\u6642"_s,
+		u"チャタム標準時"_s,
 		"CHAST"_s,
-		u"\u30c1\u30e3\u30bf\u30e0\u590f\u6642\u9593"_s,
+		u"チャタム夏時間"_s,
 		"CHADT"_s,
-		u"\u30c1\u30e3\u30bf\u30e0\u6642\u9593"_s,
+		u"チャタム時間"_s,
 		"CHAT"_s
 	}));
 	$var($StringArray, CHUT, $new($StringArray, {
-		u"\u30c1\u30e5\u30fc\u30af\u6642\u9593"_s,
+		u"チューク時間"_s,
 		"CHUT"_s,
 		"Chuuk Time"_s,
 		"CHUST"_s,
-		u"\u30c1\u30e5\u30fc\u30af\u6642\u9593"_s,
+		u"チューク時間"_s,
 		"CHUT"_s
 	}));
 	$var($StringArray, CIT, $new($StringArray, {
-		u"\u4e2d\u592e\u30a4\u30f3\u30c9\u30cd\u30b7\u30a2\u6642\u9593"_s,
+		u"中央インドネシア時間"_s,
 		"WITA"_s,
-		u"\u4e2d\u592e\u30a4\u30f3\u30c9\u30cd\u30b7\u30a2\u590f\u6642\u9593"_s,
+		u"中央インドネシア夏時間"_s,
 		"CIST"_s,
-		u"\u4e2d\u90e8\u30a4\u30f3\u30c9\u30cd\u30b7\u30a2\u6642\u9593"_s,
+		u"中部インドネシア時間"_s,
 		"WITA"_s
 	}));
 	$var($StringArray, CLT, $new($StringArray, {
-		u"\u30c1\u30ea\u6642\u9593"_s,
+		u"チリ時間"_s,
 		"CLT"_s,
-		u"\u30c1\u30ea\u590f\u6642\u9593"_s,
+		u"チリ夏時間"_s,
 		"CLST"_s,
-		u"\u30c1\u30ea\u6642\u9593"_s,
+		u"チリ時間"_s,
 		"CLT"_s
 	}));
 	$var($StringArray, CST, $new($StringArray, {
-		u"\u4e2d\u90e8\u6a19\u6e96\u6642"_s,
+		u"中部標準時"_s,
 		"CST"_s,
-		u"\u4e2d\u90e8\u590f\u6642\u9593"_s,
+		u"中部夏時間"_s,
 		"CDT"_s,
-		u"\u4e2d\u90e8\u6a19\u6e96\u6642"_s,
+		u"中部標準時"_s,
 		"CT"_s
 	}));
 	$var($StringArray, CTT, $new($StringArray, {
-		u"\u4e2d\u56fd\u6a19\u6e96\u6642"_s,
+		u"中国標準時"_s,
 		"CST"_s,
-		u"\u4e2d\u56fd\u590f\u6642\u9593"_s,
+		u"中国夏時間"_s,
 		"CDT"_s,
-		u"\u4e2d\u56fd\u6642\u9593"_s,
+		u"中国時間"_s,
 		"CT"_s
 	}));
 	$var($StringArray, CUBA, $new($StringArray, {
-		u"\u30ad\u30e5\u30fc\u30d0\u6a19\u6e96\u6642"_s,
+		u"キューバ標準時"_s,
 		"CST"_s,
-		u"\u30ad\u30e5\u30fc\u30d0\u590f\u6642\u9593"_s,
+		u"キューバ夏時間"_s,
 		"CDT"_s,
-		u"\u30ad\u30e5\u30fc\u30d0\u6642\u9593"_s,
+		u"キューバ時間"_s,
 		"CT"_s
 	}));
 	$var($StringArray, DARWIN, $new($StringArray, {
-		u"\u4e2d\u90e8\u6a19\u6e96\u6642(\u30ce\u30fc\u30b6\u30f3\u30c6\u30ea\u30c8\u30ea\u30fc)"_s,
+		u"中部標準時(ノーザンテリトリー)"_s,
 		"ACST"_s,
-		u"\u4e2d\u90e8\u590f\u6642\u9593(\u30ce\u30fc\u30b6\u30f3\u30c6\u30ea\u30c8\u30ea\u30fc)"_s,
+		u"中部夏時間(ノーザンテリトリー)"_s,
 		"ACDT"_s,
-		u"\u4e2d\u90e8\u6a19\u6e96\u6642(\u30ce\u30fc\u30b6\u30f3\u30c6\u30ea\u30c8\u30ea\u30fc)"_s,
+		u"中部標準時(ノーザンテリトリー)"_s,
 		"ACT"_s
 	}));
 	$var($StringArray, DUBLIN, $new($StringArray, {
-		u"\u30b0\u30ea\u30cb\u30c3\u30b8\u6a19\u6e96\u6642"_s,
+		u"グリニッジ標準時"_s,
 		"GMT"_s,
-		u"\u30a2\u30a4\u30eb\u30e9\u30f3\u30c9\u590f\u6642\u9593"_s,
+		u"アイルランド夏時間"_s,
 		"IST"_s,
-		u"\u30a2\u30a4\u30eb\u30e9\u30f3\u30c9\u6642\u9593"_s,
+		u"アイルランド時間"_s,
 		"IT"_s
 	}));
 	$var($StringArray, EAT, $new($StringArray, {
-		u"\u6771\u30a2\u30d5\u30ea\u30ab\u6642\u9593"_s,
+		u"東アフリカ時間"_s,
 		"EAT"_s,
-		u"\u6771\u30a2\u30d5\u30ea\u30ab\u590f\u6642\u9593"_s,
+		u"東アフリカ夏時間"_s,
 		"EAST"_s,
-		u"\u6771\u90e8\u30a2\u30d5\u30ea\u30ab\u6642\u9593"_s,
+		u"東部アフリカ時間"_s,
 		"EAT"_s
 	}));
 	$var($StringArray, EASTER, $new($StringArray, {
-		u"\u30a4\u30fc\u30b9\u30bf\u30fc\u5cf6\u6642\u9593"_s,
+		u"イースター島時間"_s,
 		"EAST"_s,
-		u"\u30a4\u30fc\u30b9\u30bf\u30fc\u5cf6\u590f\u6642\u9593"_s,
+		u"イースター島夏時間"_s,
 		"EASST"_s,
-		u"\u30a4\u30fc\u30b9\u30bf\u30fc\u5cf6\u6642\u9593"_s,
+		u"イースター島時間"_s,
 		"EAST"_s
 	}));
 	$var($StringArray, EET, $new($StringArray, {
-		u"\u6771\u30e8\u30fc\u30ed\u30c3\u30d1\u6642\u9593"_s,
+		u"東ヨーロッパ時間"_s,
 		"EET"_s,
-		u"\u6771\u30e8\u30fc\u30ed\u30c3\u30d1\u590f\u6642\u9593"_s,
+		u"東ヨーロッパ夏時間"_s,
 		"EEST"_s,
-		u"\u6771\u90e8\u30e8\u30fc\u30ed\u30c3\u30d1\u6642\u9593"_s,
+		u"東部ヨーロッパ時間"_s,
 		"EET"_s
 	}));
 	$var($StringArray, EGT, $new($StringArray, {
-		u"\u6771\u30b0\u30ea\u30fc\u30f3\u30e9\u30f3\u30c9\u6642\u9593"_s,
+		u"東グリーンランド時間"_s,
 		"EGT"_s,
-		u"\u6771\u30b0\u30ea\u30fc\u30f3\u30e9\u30f3\u30c9\u590f\u6642\u9593"_s,
+		u"東グリーンランド夏時間"_s,
 		"EGST"_s,
-		u"\u6771\u90e8\u30b0\u30ea\u30fc\u30f3\u30e9\u30f3\u30c9\u6642\u9593"_s,
+		u"東部グリーンランド時間"_s,
 		"EGT"_s
 	}));
 	$var($StringArray, EST, $new($StringArray, {
-		u"\u6771\u90e8\u6a19\u6e96\u6642"_s,
+		u"東部標準時"_s,
 		"EST"_s,
-		u"\u6771\u90e8\u590f\u6642\u9593"_s,
+		u"東部夏時間"_s,
 		"EDT"_s,
-		u"\u6771\u90e8\u6a19\u6e96\u6642"_s,
+		u"東部標準時"_s,
 		"ET"_s
 	}));
 	$var($StringArray, EST_NSW, $new($StringArray, {
-		u"\u6771\u90e8\u6a19\u6e96\u6642(\u30cb\u30e5\u30fc\u30b5\u30a6\u30b9\u30a6\u30a7\u30fc\u30eb\u30ba)"_s,
+		u"東部標準時(ニューサウスウェールズ)"_s,
 		"AEST"_s,
-		u"\u6771\u90e8\u590f\u6642\u9593(\u30cb\u30e5\u30fc\u30b5\u30a6\u30b9\u30a6\u30a7\u30fc\u30eb\u30ba)"_s,
+		u"東部夏時間(ニューサウスウェールズ)"_s,
 		"AEDT"_s,
-		u"\u6771\u90e8\u6a19\u6e96\u6642(\u30cb\u30e5\u30fc\u30b5\u30a6\u30b9\u30a6\u30a7\u30fc\u30eb\u30ba)"_s,
+		u"東部標準時(ニューサウスウェールズ)"_s,
 		"AET"_s
 	}));
 	$var($StringArray, FET, $new($StringArray, {
-		u"\u6975\u6771\u30e8\u30fc\u30ed\u30c3\u30d1\u6642\u9593"_s,
+		u"極東ヨーロッパ時間"_s,
 		"FET"_s,
-		u"\u6975\u6771\u30e8\u30fc\u30ed\u30c3\u30d1\u590f\u6642\u9593"_s,
+		u"極東ヨーロッパ夏時間"_s,
 		"FEST"_s,
-		u"\u6975\u6771\u30e8\u30fc\u30ed\u30c3\u30d1\u6642\u9593"_s,
+		u"極東ヨーロッパ時間"_s,
 		"FET"_s
 	}));
 	$var($StringArray, GHMT, $new($StringArray, {
-		u"\u30ac\u30fc\u30ca\u6a19\u6e96\u6642"_s,
+		u"ガーナ標準時"_s,
 		"GMT"_s,
-		u"\u30ac\u30fc\u30ca\u590f\u6642\u9593"_s,
+		u"ガーナ夏時間"_s,
 		"GHST"_s,
-		u"\u30ac\u30fc\u30ca\u6a19\u6e96\u6642"_s,
+		u"ガーナ標準時"_s,
 		"GMT"_s
 	}));
 	$var($StringArray, GAMBIER, $new($StringArray, {
-		u"\u30ac\u30f3\u30d3\u30a2\u6642\u9593"_s,
+		u"ガンビア時間"_s,
 		"GAMT"_s,
-		u"\u30ac\u30f3\u30d3\u30a2\u590f\u6642\u9593"_s,
+		u"ガンビア夏時間"_s,
 		"GAMST"_s,
-		u"\u30ac\u30f3\u30d3\u30a8\u6642\u9593"_s,
+		u"ガンビエ時間"_s,
 		"GAMT"_s
 	}));
 	$var($StringArray, GMT, $new($StringArray, {
-		u"\u30b0\u30ea\u30cb\u30c3\u30b8\u6a19\u6e96\u6642"_s,
+		u"グリニッジ標準時"_s,
 		"GMT"_s,
-		u"\u30b0\u30ea\u30cb\u30c3\u30b8\u6a19\u6e96\u6642"_s,
+		u"グリニッジ標準時"_s,
 		"GMT"_s,
-		u"\u30b0\u30ea\u30cb\u30c3\u30b8\u6a19\u6e96\u6642"_s,
+		u"グリニッジ標準時"_s,
 		"GMT"_s
 	}));
 	$var($StringArray, GMTBST, $new($StringArray, {
-		u"\u30b0\u30ea\u30cb\u30c3\u30b8\u6a19\u6e96\u6642"_s,
+		u"グリニッジ標準時"_s,
 		"GMT"_s,
-		u"\u82f1\u56fd\u590f\u6642\u9593"_s,
+		u"英国夏時間"_s,
 		"BST"_s,
-		u"\u30a4\u30ae\u30ea\u30b9\u6642\u9593"_s,
+		u"イギリス時間"_s,
 		"BT"_s
 	}));
 	$var($StringArray, GST, $new($StringArray, {
-		u"\u6e7e\u5cb8\u6a19\u6e96\u6642"_s,
+		u"湾岸標準時"_s,
 		"GST"_s,
-		u"\u6e7e\u5cb8\u590f\u6642\u9593"_s,
+		u"湾岸夏時間"_s,
 		"GDT"_s,
-		u"\u6e7e\u5cb8\u6642\u9593"_s,
+		u"湾岸時間"_s,
 		"GT"_s
 	}));
 	$var($StringArray, HKT, $new($StringArray, {
-		u"\u9999\u6e2f\u6642\u9593"_s,
+		u"香港時間"_s,
 		"HKT"_s,
-		u"\u9999\u6e2f\u590f\u6642\u9593"_s,
+		u"香港夏時間"_s,
 		"HKST"_s,
-		u"\u9999\u6e2f\u6642\u9593"_s,
+		u"香港時間"_s,
 		"HKT"_s
 	}));
 	$var($StringArray, HST, $new($StringArray, {
-		u"\u30cf\u30ef\u30a4\u6a19\u6e96\u6642"_s,
+		u"ハワイ標準時"_s,
 		"HST"_s,
-		u"\u30cf\u30ef\u30a4\u590f\u6642\u9593"_s,
+		u"ハワイ夏時間"_s,
 		"HDT"_s,
-		u"\u30cf\u30ef\u30a4\u6642\u9593"_s,
+		u"ハワイ時間"_s,
 		"HT"_s
 	}));
 	$var($StringArray, ICT, $new($StringArray, {
-		u"\u30a4\u30f3\u30c9\u30b7\u30ca\u6642\u9593"_s,
+		u"インドシナ時間"_s,
 		"ICT"_s,
-		u"\u30a4\u30f3\u30c9\u30b7\u30ca\u590f\u6642\u9593"_s,
+		u"インドシナ夏時間"_s,
 		"ICST"_s,
-		u"\u30a4\u30f3\u30c9\u30b7\u30ca\u6642\u9593"_s,
+		u"インドシナ時間"_s,
 		"ICT"_s
 	}));
 	$var($StringArray, IRKT, $new($StringArray, {
-		u"\u30a4\u30eb\u30af\u30fc\u30c4\u30af\u6642\u9593"_s,
+		u"イルクーツク時間"_s,
 		"IRKT"_s,
-		u"\u30a4\u30eb\u30af\u30fc\u30c4\u30af\u590f\u6642\u9593"_s,
+		u"イルクーツク夏時間"_s,
 		"IRKST"_s,
-		u"\u30a4\u30eb\u30af\u30fc\u30c4\u30af\u6642\u9593"_s,
+		u"イルクーツク時間"_s,
 		"IRKT"_s
 	}));
 	$var($StringArray, IRT, $new($StringArray, {
-		u"\u30a4\u30e9\u30f3\u6a19\u6e96\u6642"_s,
+		u"イラン標準時"_s,
 		"IRST"_s,
-		u"\u30a4\u30e9\u30f3\u590f\u6642\u9593"_s,
+		u"イラン夏時間"_s,
 		"IRDT"_s,
-		u"\u30a4\u30e9\u30f3\u6642\u9593"_s,
+		u"イラン時間"_s,
 		"IRT"_s
 	}));
 	$var($StringArray, ISRAEL, $new($StringArray, {
-		u"\u30a4\u30b9\u30e9\u30a8\u30eb\u6a19\u6e96\u6642"_s,
+		u"イスラエル標準時"_s,
 		"IST"_s,
-		u"\u30a4\u30b9\u30e9\u30a8\u30eb\u590f\u6642\u9593"_s,
+		u"イスラエル夏時間"_s,
 		"IDT"_s,
-		u"\u30a4\u30b9\u30e9\u30a8\u30eb\u6642\u9593"_s,
+		u"イスラエル時間"_s,
 		"IT"_s
 	}));
 	$var($StringArray, IST, $new($StringArray, {
-		u"\u30a4\u30f3\u30c9\u6a19\u6e96\u6642"_s,
+		u"インド標準時"_s,
 		"IST"_s,
-		u"\u30a4\u30f3\u30c9\u590f\u6642\u9593"_s,
+		u"インド夏時間"_s,
 		"IDT"_s,
-		u"\u30a4\u30f3\u30c9\u6642\u9593"_s,
+		u"インド時間"_s,
 		"IT"_s
 	}));
 	$var($StringArray, JST, $new($StringArray, {
-		u"\u65e5\u672c\u6a19\u6e96\u6642"_s,
+		u"日本標準時"_s,
 		"JST"_s,
-		u"\u65e5\u672c\u590f\u6642\u9593"_s,
+		u"日本夏時間"_s,
 		"JDT"_s,
-		u"\u65e5\u672c\u6642\u9593"_s,
+		u"日本時間"_s,
 		"JT"_s
 	}));
 	$var($StringArray, KRAT, $new($StringArray, {
-		u"\u30af\u30e9\u30b9\u30ce\u30e4\u30eb\u30b9\u30af\u6642\u9593"_s,
+		u"クラスノヤルスク時間"_s,
 		"KRAT"_s,
-		u"\u30af\u30e9\u30b9\u30ce\u30e4\u30eb\u30b9\u30af\u590f\u6642\u9593"_s,
+		u"クラスノヤルスク夏時間"_s,
 		"KRAST"_s,
-		u"\u30af\u30e9\u30b9\u30ce\u30e4\u30eb\u30b9\u30af\u6642\u9593"_s,
+		u"クラスノヤルスク時間"_s,
 		"KRAT"_s
 	}));
 	$var($StringArray, KST, $new($StringArray, {
-		u"\u97d3\u56fd\u6a19\u6e96\u6642"_s,
+		u"韓国標準時"_s,
 		"KST"_s,
-		u"\u97d3\u56fd\u590f\u6642\u9593"_s,
+		u"韓国夏時間"_s,
 		"KDT"_s,
-		u"\u97d3\u56fd\u6642\u9593"_s,
+		u"韓国時間"_s,
 		"KT"_s
 	}));
 	$var($StringArray, LORD_HOWE, $new($StringArray, {
-		u"\u30ed\u30fc\u30c9\u30cf\u30a6\u5cf6\u6a19\u6e96\u6642"_s,
+		u"ロードハウ島標準時"_s,
 		"LHST"_s,
-		u"\u30ed\u30fc\u30c9\u30cf\u30a6\u5cf6\u590f\u6642\u9593"_s,
+		u"ロードハウ島夏時間"_s,
 		"LHDT"_s,
-		u"\u30ed\u30fc\u30c9\u30cf\u30a6\u6642\u9593"_s,
+		u"ロードハウ時間"_s,
 		"LHT"_s
 	}));
 	$var($StringArray, MHT, $new($StringArray, {
-		u"\u30de\u30fc\u30b7\u30e3\u30eb\u5cf6\u6642\u9593"_s,
+		u"マーシャル島時間"_s,
 		"MHT"_s,
-		u"\u30de\u30fc\u30b7\u30e3\u30eb\u5cf6\u590f\u6642\u9593"_s,
+		u"マーシャル島夏時間"_s,
 		"MHST"_s,
-		u"\u30de\u30fc\u30b7\u30e3\u30eb\u8af8\u5cf6\u6642\u9593"_s,
+		u"マーシャル諸島時間"_s,
 		"MHT"_s
 	}));
 	$var($StringArray, MMT, $new($StringArray, {
-		u"\u30df\u30e3\u30f3\u30de\u30fc\u6642\u9593"_s,
+		u"ミャンマー時間"_s,
 		"MMT"_s,
-		u"\u30df\u30e3\u30f3\u30de\u30fc\u590f\u6642\u9593"_s,
+		u"ミャンマー夏時間"_s,
 		"MMST"_s,
-		u"\u30df\u30e3\u30f3\u30de\u30fc\u6642\u9593"_s,
+		u"ミャンマー時間"_s,
 		"MMT"_s
 	}));
 	$var($StringArray, MSK, $new($StringArray, {
-		u"\u30e2\u30b9\u30af\u30ef\u6a19\u6e96\u6642"_s,
+		u"モスクワ標準時"_s,
 		"MSK"_s,
-		u"\u30e2\u30b9\u30af\u30ef\u590f\u6642\u9593"_s,
+		u"モスクワ夏時間"_s,
 		"MSD"_s,
-		u"\u30e2\u30b9\u30af\u30ef\u6642\u9593"_s,
+		u"モスクワ時間"_s,
 		"MT"_s
 	}));
 	$var($StringArray, MST, $new($StringArray, {
-		u"\u5c71\u5730\u6a19\u6e96\u6642"_s,
+		u"山地標準時"_s,
 		"MST"_s,
-		u"\u5c71\u5730\u590f\u6642\u9593"_s,
+		u"山地夏時間"_s,
 		"MDT"_s,
-		u"\u5c71\u5730\u6a19\u6e96\u6642"_s,
+		u"山地標準時"_s,
 		"MT"_s
 	}));
 	$var($StringArray, MYT, $new($StringArray, {
-		u"\u30de\u30ec\u30fc\u30b7\u30a2\u6642\u9593"_s,
+		u"マレーシア時間"_s,
 		"MYT"_s,
-		u"\u30de\u30ec\u30fc\u30b7\u30a2\u590f\u6642\u9593"_s,
+		u"マレーシア夏時間"_s,
 		"MYST"_s,
-		u"\u30de\u30ec\u30fc\u30b7\u30a2\u6642\u9593"_s,
+		u"マレーシア時間"_s,
 		"MYT"_s
 	}));
 	$var($StringArray, NORONHA, $new($StringArray, {
-		u"\u30d5\u30a7\u30eb\u30ca\u30f3\u30c9\u30fb\u30c7\u30fb\u30ce\u30ed\u30fc\u30cb\u30e3\u6642\u9593"_s,
+		u"フェルナンド・デ・ノローニャ時間"_s,
 		"FNT"_s,
-		u"\u30d5\u30a7\u30eb\u30ca\u30f3\u30c9\u30fb\u30c7\u30fb\u30ce\u30ed\u30fc\u30cb\u30e3\u590f\u6642\u9593"_s,
+		u"フェルナンド・デ・ノローニャ夏時間"_s,
 		"FNST"_s,
-		u"\u30d5\u30a7\u30eb\u30ca\u30f3\u30c9\u30fb\u30c7\u30fb\u30ce\u30ed\u30fc\u30cb\u30e3\u6642\u9593"_s,
+		u"フェルナンド・デ・ノローニャ時間"_s,
 		"FNT"_s
 	}));
 	$var($StringArray, NOVT, $new($StringArray, {
-		u"\u30ce\u30dc\u30b7\u30d3\u30eb\u30b9\u30af\u6642\u9593"_s,
+		u"ノボシビルスク時間"_s,
 		"NOVT"_s,
-		u"\u30ce\u30dc\u30b7\u30d3\u30eb\u30b9\u30af\u590f\u6642\u9593"_s,
+		u"ノボシビルスク夏時間"_s,
 		"NOVST"_s,
-		u"\u30ce\u30f4\u30a9\u30b7\u30d3\u30eb\u30b9\u30af\u6642\u9593"_s,
+		u"ノヴォシビルスク時間"_s,
 		"NOVT"_s
 	}));
 	$var($StringArray, NPT, $new($StringArray, {
-		u"\u30cd\u30d1\u30fc\u30eb\u6642\u9593"_s,
+		u"ネパール時間"_s,
 		"NPT"_s,
-		u"\u30cd\u30d1\u30fc\u30eb\u590f\u6642\u9593"_s,
+		u"ネパール夏時間"_s,
 		"NPST"_s,
-		u"\u30cd\u30d1\u30fc\u30eb\u6642\u9593"_s,
+		u"ネパール時間"_s,
 		"NPT"_s
 	}));
 	$var($StringArray, NST, $new($StringArray, {
-		u"\u30cb\u30e5\u30fc\u30d5\u30a1\u30f3\u30c9\u30e9\u30f3\u30c9\u6a19\u6e96\u6642"_s,
+		u"ニューファンドランド標準時"_s,
 		"NST"_s,
-		u"\u30cb\u30e5\u30fc\u30d5\u30a1\u30f3\u30c9\u30e9\u30f3\u30c9\u590f\u6642\u9593"_s,
+		u"ニューファンドランド夏時間"_s,
 		"NDT"_s,
-		u"\u30cb\u30e5\u30fc\u30d5\u30a1\u30f3\u30c9\u30e9\u30f3\u30c9\u6642\u9593"_s,
+		u"ニューファンドランド時間"_s,
 		"NT"_s
 	}));
 	$var($StringArray, NZST, $new($StringArray, {
-		u"\u30cb\u30e5\u30fc\u30b8\u30fc\u30e9\u30f3\u30c9\u6a19\u6e96\u6642"_s,
+		u"ニュージーランド標準時"_s,
 		"NZST"_s,
-		u"\u30cb\u30e5\u30fc\u30b8\u30fc\u30e9\u30f3\u30c9\u590f\u6642\u9593"_s,
+		u"ニュージーランド夏時間"_s,
 		"NZDT"_s,
-		u"\u30cb\u30e5\u30fc\u30b8\u30fc\u30e9\u30f3\u30c9\u6642\u9593"_s,
+		u"ニュージーランド時間"_s,
 		"NZT"_s
 	}));
 	$var($StringArray, PITCAIRN, $new($StringArray, {
-		u"\u30d4\u30c8\u30b1\u30eb\u30f3\u5cf6\u6a19\u6e96\u6642"_s,
+		u"ピトケルン島標準時"_s,
 		"PST"_s,
-		u"\u30d4\u30c8\u30b1\u30eb\u30f3\u5cf6\u590f\u6642\u9593"_s,
+		u"ピトケルン島夏時間"_s,
 		"PDT"_s,
-		u"\u30d4\u30c8\u30b1\u30a2\u30f3\u6642\u9593"_s,
+		u"ピトケアン時間"_s,
 		"PT"_s
 	}));
 	$var($StringArray, PKT, $new($StringArray, {
-		u"\u30d1\u30ad\u30b9\u30bf\u30f3\u6642\u9593"_s,
+		u"パキスタン時間"_s,
 		"PKT"_s,
-		u"\u30d1\u30ad\u30b9\u30bf\u30f3\u590f\u6642\u9593"_s,
+		u"パキスタン夏時間"_s,
 		"PKST"_s,
-		u"\u30d1\u30ad\u30b9\u30bf\u30f3\u6642\u9593"_s,
+		u"パキスタン時間"_s,
 		"PKT"_s
 	}));
 	$var($StringArray, PONT, $new($StringArray, {
-		u"\u30dd\u30f3\u30da\u30a4\u6642\u9593"_s,
+		u"ポンペイ時間"_s,
 		"PONT"_s,
-		u"\u30dd\u30f3\u30da\u30a4\u590f\u6642\u9593"_s,
+		u"ポンペイ夏時間"_s,
 		"PONST"_s,
-		u"\u30dd\u30ca\u30da\u6642\u9593"_s,
+		u"ポナペ時間"_s,
 		"PONT"_s
 	}));
 	$var($StringArray, PST, $new($StringArray, {
-		u"\u592a\u5e73\u6d0b\u6a19\u6e96\u6642"_s,
+		u"太平洋標準時"_s,
 		"PST"_s,
-		u"\u592a\u5e73\u6d0b\u590f\u6642\u9593"_s,
+		u"太平洋夏時間"_s,
 		"PDT"_s,
-		u"\u592a\u5e73\u6d0b\u6a19\u6e96\u6642"_s,
+		u"太平洋標準時"_s,
 		"PT"_s
 	}));
 	$var($StringArray, SAST, $new($StringArray, {
-		u"\u5357\u30a2\u30d5\u30ea\u30ab\u6a19\u6e96\u6642"_s,
+		u"南アフリカ標準時"_s,
 		"SAST"_s,
-		u"\u5357\u30a2\u30d5\u30ea\u30ab\u590f\u6642\u9593"_s,
+		u"南アフリカ夏時間"_s,
 		"SAST"_s,
-		u"\u5357\u30a2\u30d5\u30ea\u30ab\u6642\u9593"_s,
+		u"南アフリカ時間"_s,
 		"SAT"_s
 	}));
 	$var($StringArray, SBT, $new($StringArray, {
-		u"\u30bd\u30ed\u30e2\u30f3\u8af8\u5cf6\u6642\u9593"_s,
+		u"ソロモン諸島時間"_s,
 		"SBT"_s,
-		u"\u30bd\u30ed\u30e2\u30f3\u8af8\u5cf6\u590f\u6642\u9593"_s,
+		u"ソロモン諸島夏時間"_s,
 		"SBST"_s,
-		u"\u30bd\u30ed\u30e2\u30f3\u8af8\u5cf6\u6642\u9593"_s,
+		u"ソロモン諸島時間"_s,
 		"SBT"_s
 	}));
 	$var($StringArray, SGT, $new($StringArray, {
-		u"\u30b7\u30f3\u30ac\u30dd\u30fc\u30eb\u6642\u9593"_s,
+		u"シンガポール時間"_s,
 		"SGT"_s,
-		u"\u30b7\u30f3\u30ac\u30dd\u30fc\u30eb\u590f\u6642\u9593"_s,
+		u"シンガポール夏時間"_s,
 		"SGST"_s,
-		u"\u30b7\u30f3\u30ac\u30dd\u30fc\u30eb\u6642\u9593"_s,
+		u"シンガポール時間"_s,
 		"SGT"_s
 	}));
 	$var($StringArray, TASMANIA, $new($StringArray, {
-		u"\u6771\u90e8\u6a19\u6e96\u6642(\u30bf\u30b9\u30de\u30cb\u30a2)"_s,
+		u"東部標準時(タスマニア)"_s,
 		"AEST"_s,
-		u"\u6771\u90e8\u590f\u6642\u9593(\u30bf\u30b9\u30de\u30cb\u30a2)"_s,
+		u"東部夏時間(タスマニア)"_s,
 		"AEDT"_s,
-		u"\u6771\u90e8\u6a19\u6e96\u6642(\u30bf\u30b9\u30de\u30cb\u30a2)"_s,
+		u"東部標準時(タスマニア)"_s,
 		"AET"_s
 	}));
 	$var($StringArray, TMT, $new($StringArray, {
-		u"\u30c8\u30eb\u30af\u30e1\u30cb\u30b9\u30bf\u30f3\u6642\u9593"_s,
+		u"トルクメニスタン時間"_s,
 		"TMT"_s,
-		u"\u30c8\u30eb\u30af\u30e1\u30cb\u30b9\u30bf\u30f3\u590f\u6642\u9593"_s,
+		u"トルクメニスタン夏時間"_s,
 		"TMST"_s,
-		u"\u30c8\u30eb\u30af\u30e1\u30cb\u30b9\u30bf\u30f3\u6642\u9593"_s,
+		u"トルクメニスタン時間"_s,
 		"TMT"_s
 	}));
 	$var($StringArray, ULAT, $new($StringArray, {
-		u"\u30a6\u30e9\u30fc\u30f3\u30d0\u30fc\u30c8\u30eb\u6642\u9593"_s,
+		u"ウラーンバートル時間"_s,
 		"ULAT"_s,
-		u"\u30a6\u30e9\u30fc\u30f3\u30d0\u30fc\u30c8\u30eb\u590f\u6642\u9593"_s,
+		u"ウラーンバートル夏時間"_s,
 		"ULAST"_s,
-		u"\u30a6\u30e9\u30f3\u30d0\u30fc\u30c8\u30eb\u6642\u9593"_s,
+		u"ウランバートル時間"_s,
 		"ULAT"_s
 	}));
 	$var($StringArray, WAT, $new($StringArray, {
-		u"\u897f\u30a2\u30d5\u30ea\u30ab\u6642\u9593"_s,
+		u"西アフリカ時間"_s,
 		"WAT"_s,
-		u"\u897f\u30a2\u30d5\u30ea\u30ab\u590f\u6642\u9593"_s,
+		u"西アフリカ夏時間"_s,
 		"WAST"_s,
-		u"\u897f\u90e8\u30a2\u30d5\u30ea\u30ab\u6642\u9593"_s,
+		u"西部アフリカ時間"_s,
 		"WAT"_s
 	}));
 	$var($StringArray, WET, $new($StringArray, {
-		u"\u897f\u30e8\u30fc\u30ed\u30c3\u30d1\u6642\u9593"_s,
+		u"西ヨーロッパ時間"_s,
 		"WET"_s,
-		u"\u897f\u30e8\u30fc\u30ed\u30c3\u30d1\u590f\u6642\u9593"_s,
+		u"西ヨーロッパ夏時間"_s,
 		"WEST"_s,
-		u"\u897f\u90e8\u30e8\u30fc\u30ed\u30c3\u30d1\u6642\u9593"_s,
+		u"西部ヨーロッパ時間"_s,
 		"WET"_s
 	}));
 	$var($StringArray, WGT, $new($StringArray, {
-		u"\u897f\u30b0\u30ea\u30fc\u30f3\u30e9\u30f3\u30c9\u6642\u9593"_s,
+		u"西グリーンランド時間"_s,
 		"WGT"_s,
-		u"\u897f\u30b0\u30ea\u30fc\u30f3\u30e9\u30f3\u30c9\u590f\u6642\u9593"_s,
+		u"西グリーンランド夏時間"_s,
 		"WGST"_s,
-		u"\u897f\u90e8\u30b0\u30ea\u30fc\u30f3\u30e9\u30f3\u30c9\u6642\u9593"_s,
+		u"西部グリーンランド時間"_s,
 		"WGT"_s
 	}));
 	$var($StringArray, WIT, $new($StringArray, {
-		u"\u897f\u30a4\u30f3\u30c9\u30cd\u30b7\u30a2\u6642\u9593"_s,
+		u"西インドネシア時間"_s,
 		"WIB"_s,
-		u"\u897f\u30a4\u30f3\u30c9\u30cd\u30b7\u30a2\u590f\u6642\u9593"_s,
+		u"西インドネシア夏時間"_s,
 		"WIST"_s,
-		u"\u897f\u90e8\u30a4\u30f3\u30c9\u30cd\u30b7\u30a2\u6642\u9593"_s,
+		u"西部インドネシア時間"_s,
 		"WIB"_s
 	}));
 	$var($StringArray, WST_AUS, $new($StringArray, {
-		u"\u897f\u90e8\u6a19\u6e96\u6642(\u30aa\u30fc\u30b9\u30c8\u30e9\u30ea\u30a2)"_s,
+		u"西部標準時(オーストラリア)"_s,
 		"AWST"_s,
-		u"\u897f\u90e8\u590f\u6642\u9593(\u30aa\u30fc\u30b9\u30c8\u30e9\u30ea\u30a2)"_s,
+		u"西部夏時間(オーストラリア)"_s,
 		"AWDT"_s,
-		u"\u897f\u90e8\u6642\u9593(\u30aa\u30fc\u30b9\u30c8\u30e9\u30ea\u30a2)"_s,
+		u"西部時間(オーストラリア)"_s,
 		"AWT"_s
 	}));
 	$var($StringArray, SAMOA, $new($StringArray, {
-		u"\u30b5\u30e2\u30a2\u6a19\u6e96\u6642"_s,
+		u"サモア標準時"_s,
 		"SST"_s,
-		u"\u30b5\u30e2\u30a2\u590f\u6642\u9593"_s,
+		u"サモア夏時間"_s,
 		"SDT"_s,
-		u"\u30b5\u30e2\u30a2\u6642\u9593"_s,
+		u"サモア時間"_s,
 		"ST"_s
 	}));
 	$var($StringArray, WST_SAMOA, $new($StringArray, {
-		u"\u897f\u30b5\u30e2\u30a2\u6642\u9593"_s,
+		u"西サモア時間"_s,
 		"WSST"_s,
-		u"\u897f\u30b5\u30e2\u30a2\u590f\u6642\u9593"_s,
+		u"西サモア夏時間"_s,
 		"WSDT"_s,
-		u"\u897f\u30b5\u30e2\u30a2\u6642\u9593"_s,
+		u"西サモア時間"_s,
 		"WST"_s
 	}));
 	$var($StringArray, ChST, $new($StringArray, {
-		u"\u30b0\u30a2\u30e0\u6a19\u6e96\u6642"_s,
+		u"グアム標準時"_s,
 		"ChST"_s,
-		u"\u30b0\u30a2\u30e0\u590f\u6642\u9593"_s,
+		u"グアム夏時間"_s,
 		"ChDT"_s,
-		u"\u30c1\u30e3\u30e2\u30ed\u6642\u9593"_s,
+		u"チャモロ時間"_s,
 		"ChT"_s
 	}));
 	$var($StringArray, VICTORIA, $new($StringArray, {
-		u"\u6771\u90e8\u6a19\u6e96\u6642(\u30d3\u30af\u30c8\u30ea\u30a2)"_s,
+		u"東部標準時(ビクトリア)"_s,
 		"AEST"_s,
-		u"\u6771\u90e8\u590f\u6642\u9593(\u30d3\u30af\u30c8\u30ea\u30a2)"_s,
+		u"東部夏時間(ビクトリア)"_s,
 		"AEDT"_s,
-		u"\u6771\u90e8\u6a19\u6e96\u6642(\u30d3\u30af\u30c8\u30ea\u30a2)"_s,
+		u"東部標準時(ビクトリア)"_s,
 		"AET"_s
 	}));
 	$var($StringArray, UTC, $new($StringArray, {
-		u"\u5354\u5b9a\u4e16\u754c\u6642"_s,
+		u"協定世界時"_s,
 		"UTC"_s,
-		u"\u5354\u5b9a\u4e16\u754c\u6642"_s,
+		u"協定世界時"_s,
 		"UTC"_s,
-		u"\u5354\u5b9a\u4e16\u754c\u6642"_s,
+		u"協定世界時"_s,
 		"UTC"_s
 	}));
 	$var($StringArray, UZT, $new($StringArray, {
-		u"\u30a6\u30ba\u30d9\u30ad\u30b9\u30bf\u30f3\u6642\u9593"_s,
+		u"ウズベキスタン時間"_s,
 		"UZT"_s,
-		u"\u30a6\u30ba\u30d9\u30ad\u30b9\u30bf\u30f3\u590f\u6642\u9593"_s,
+		u"ウズベキスタン夏時間"_s,
 		"UZST"_s,
-		u"\u30a6\u30ba\u30d9\u30ad\u30b9\u30bf\u30f3\u6642\u9593"_s,
+		u"ウズベキスタン時間"_s,
 		"UZT"_s
 	}));
 	$var($StringArray, XJT, $new($StringArray, {
-		u"\u4e2d\u56fd\u6a19\u6e96\u6642"_s,
+		u"中国標準時"_s,
 		"XJT"_s,
-		u"\u4e2d\u56fd\u590f\u6642\u9593"_s,
+		u"中国夏時間"_s,
 		"XJDT"_s,
-		u"\u4e2d\u56fd\u6642\u9593"_s,
+		u"中国時間"_s,
 		"XJT"_s
 	}));
 	$var($StringArray, YAKT, $new($StringArray, {
-		u"\u30e4\u30af\u30fc\u30c4\u30af\u6642\u9593"_s,
+		u"ヤクーツク時間"_s,
 		"YAKT"_s,
-		u"\u30e4\u30af\u30fc\u30c4\u30af\u590f\u6642\u9593"_s,
+		u"ヤクーツク夏時間"_s,
 		"YAKST"_s,
-		u"\u30e4\u30af\u30fc\u30c4\u30af\u6642\u9593"_s,
+		u"ヤクーツク時間"_s,
 		"YAKT"_s
 	}));
 	return $new($ObjectArray2, {
@@ -1186,11 +1186,11 @@ $ObjectArray2* TimeZoneNames_ja::getContents() {
 		$$new($ObjectArray, {
 			$of("America/Asuncion"_s),
 			$of($$new($StringArray, {
-				u"\u30d1\u30e9\u30b0\u30a2\u30a4\u6642\u9593"_s,
+				u"パラグアイ時間"_s,
 				"PYT"_s,
-				u"\u30d1\u30e9\u30b0\u30a2\u30a4\u590f\u6642\u9593"_s,
+				u"パラグアイ夏時間"_s,
 				"PYST"_s,
-				u"\u30d1\u30e9\u30b0\u30a2\u30a4\u6642\u9593"_s,
+				u"パラグアイ時間"_s,
 				"PYT"_s
 			}))
 		}),
@@ -1233,11 +1233,11 @@ $ObjectArray2* TimeZoneNames_ja::getContents() {
 		$$new($ObjectArray, {
 			$of("America/Bogota"_s),
 			$of($$new($StringArray, {
-				u"\u30b3\u30ed\u30f3\u30d3\u30a2\u6642\u9593"_s,
+				u"コロンビア時間"_s,
 				"COT"_s,
-				u"\u30b3\u30ed\u30f3\u30d3\u30a2\u590f\u6642\u9593"_s,
+				u"コロンビア夏時間"_s,
 				"COST"_s,
-				u"\u30b3\u30ed\u30f3\u30d3\u30a2\u6642\u9593"_s,
+				u"コロンビア時間"_s,
 				"COT"_s
 			}))
 		}),
@@ -1264,11 +1264,11 @@ $ObjectArray2* TimeZoneNames_ja::getContents() {
 		$$new($ObjectArray, {
 			$of("America/Caracas"_s),
 			$of($$new($StringArray, {
-				u"\u30d9\u30cd\u30ba\u30a8\u30e9\u6642\u9593"_s,
+				u"ベネズエラ時間"_s,
 				"VET"_s,
-				u"\u30d9\u30cd\u30ba\u30a8\u30e9\u590f\u6642\u9593"_s,
+				u"ベネズエラ夏時間"_s,
 				"VEST"_s,
-				u"\u30d9\u30cd\u30ba\u30a8\u30e9\u6642\u9593"_s,
+				u"ベネズエラ時間"_s,
 				"VET"_s
 			}))
 		}),
@@ -1279,11 +1279,11 @@ $ObjectArray2* TimeZoneNames_ja::getContents() {
 		$$new($ObjectArray, {
 			$of("America/Cayenne"_s),
 			$of($$new($StringArray, {
-				u"\u4ecf\u9818\u30ae\u30a2\u30ca\u6642\u9593"_s,
+				u"仏領ギアナ時間"_s,
 				"GFT"_s,
-				u"\u4ecf\u9818\u30ae\u30a2\u30ca\u590f\u6642\u9593"_s,
+				u"仏領ギアナ夏時間"_s,
 				"GFST"_s,
-				u"\u30d5\u30e9\u30f3\u30b9\u9818\u30ae\u30a2\u30ca\u6642\u9593"_s,
+				u"フランス領ギアナ時間"_s,
 				"GFT"_s
 			}))
 		}),
@@ -1398,22 +1398,22 @@ $ObjectArray2* TimeZoneNames_ja::getContents() {
 		$$new($ObjectArray, {
 			$of("America/Guayaquil"_s),
 			$of($$new($StringArray, {
-				u"\u30a8\u30af\u30a2\u30c9\u30eb\u6642\u9593"_s,
+				u"エクアドル時間"_s,
 				"ECT"_s,
-				u"\u30a8\u30af\u30a2\u30c9\u30eb\u590f\u6642\u9593"_s,
+				u"エクアドル夏時間"_s,
 				"ECST"_s,
-				u"\u30a8\u30af\u30a2\u30c9\u30eb\u6642\u9593"_s,
+				u"エクアドル時間"_s,
 				"ECT"_s
 			}))
 		}),
 		$$new($ObjectArray, {
 			$of("America/Guyana"_s),
 			$of($$new($StringArray, {
-				u"\u30ac\u30a4\u30a2\u30ca\u6642\u9593"_s,
+				u"ガイアナ時間"_s,
 				"GYT"_s,
-				u"\u30ac\u30a4\u30a2\u30ca\u590f\u6642\u9593"_s,
+				u"ガイアナ夏時間"_s,
 				"GYST"_s,
-				u"\u30ac\u30a4\u30a2\u30ca\u6642\u9593"_s,
+				u"ガイアナ時間"_s,
 				"GYT"_s
 			}))
 		}),
@@ -1496,22 +1496,22 @@ $ObjectArray2* TimeZoneNames_ja::getContents() {
 		$$new($ObjectArray, {
 			$of("America/La_Paz"_s),
 			$of($$new($StringArray, {
-				u"\u30dc\u30ea\u30d3\u30a2\u6642\u9593"_s,
+				u"ボリビア時間"_s,
 				"BOT"_s,
-				u"\u30dc\u30ea\u30d3\u30a2\u590f\u6642\u9593"_s,
+				u"ボリビア夏時間"_s,
 				"BOST"_s,
-				u"\u30dc\u30ea\u30d3\u30a2\u6642\u9593"_s,
+				u"ボリビア時間"_s,
 				"BOT"_s
 			}))
 		}),
 		$$new($ObjectArray, {
 			$of("America/Lima"_s),
 			$of($$new($StringArray, {
-				u"\u30da\u30eb\u30fc\u6642\u9593"_s,
+				u"ペルー時間"_s,
 				"PET"_s,
-				u"\u30da\u30eb\u30fc\u590f\u6642\u9593"_s,
+				u"ペルー夏時間"_s,
 				"PEST"_s,
-				u"\u30da\u30eb\u30fc\u6642\u9593"_s,
+				u"ペルー時間"_s,
 				"PET"_s
 			}))
 		}),
@@ -1574,11 +1574,11 @@ $ObjectArray2* TimeZoneNames_ja::getContents() {
 		$$new($ObjectArray, {
 			$of("America/Miquelon"_s),
 			$of($$new($StringArray, {
-				u"\u30b5\u30f3\u30d4\u30a8\u30fc\u30eb\u30fb\u30df\u30af\u30ed\u30f3\u8af8\u5cf6\u6a19\u6e96\u6642"_s,
+				u"サンピエール・ミクロン諸島標準時"_s,
 				"PMST"_s,
-				u"\u30b5\u30f3\u30d4\u30a8\u30fc\u30eb\u30fb\u30df\u30af\u30ed\u30f3\u8af8\u5cf6\u590f\u6642\u9593"_s,
+				u"サンピエール・ミクロン諸島夏時間"_s,
 				"PMDT"_s,
-				u"\u30d4\u30a8\u30fc\u30eb\u30fb\u30df\u30af\u30ed\u30f3\u6642\u9593"_s,
+				u"ピエール・ミクロン時間"_s,
 				"PMT"_s
 			}))
 		}),
@@ -1589,11 +1589,11 @@ $ObjectArray2* TimeZoneNames_ja::getContents() {
 		$$new($ObjectArray, {
 			$of("America/Montevideo"_s),
 			$of($$new($StringArray, {
-				u"\u30a6\u30eb\u30b0\u30a2\u30a4\u6642\u9593"_s,
+				u"ウルグアイ時間"_s,
 				"UYT"_s,
-				u"\u30a6\u30eb\u30b0\u30a2\u30a4\u590f\u6642\u9593"_s,
+				u"ウルグアイ夏時間"_s,
 				"UYST"_s,
-				u"\u30a6\u30eb\u30b0\u30a2\u30a4\u6642\u9593"_s,
+				u"ウルグアイ時間"_s,
 				"UYT"_s
 			}))
 		}),
@@ -1656,11 +1656,11 @@ $ObjectArray2* TimeZoneNames_ja::getContents() {
 		$$new($ObjectArray, {
 			$of("America/Paramaribo"_s),
 			$of($$new($StringArray, {
-				u"\u30b9\u30ea\u30ca\u30e0\u6642\u9593"_s,
+				u"スリナム時間"_s,
 				"SRT"_s,
-				u"\u30b9\u30ea\u30ca\u30e0\u590f\u6642\u9593"_s,
+				u"スリナム夏時間"_s,
 				"SRST"_s,
-				u"\u30b9\u30ea\u30ca\u30e0\u6642\u9593"_s,
+				u"スリナム時間"_s,
 				"SRT"_s
 			}))
 		}),
@@ -1819,44 +1819,44 @@ $ObjectArray2* TimeZoneNames_ja::getContents() {
 		$$new($ObjectArray, {
 			$of("Antarctica/Davis"_s),
 			$of($$new($StringArray, {
-				u"\u30c7\u30a4\u30d3\u30b9\u6642\u9593"_s,
+				u"デイビス時間"_s,
 				"DAVT"_s,
-				u"\u30c7\u30a4\u30d3\u30b9\u590f\u6642\u9593"_s,
+				u"デイビス夏時間"_s,
 				"DAVST"_s,
-				u"\u30c7\u30fc\u30d3\u30b9\u6642\u9593"_s,
+				u"デービス時間"_s,
 				"DAVT"_s
 			}))
 		}),
 		$$new($ObjectArray, {
 			$of("Antarctica/DumontDUrville"_s),
 			$of($$new($StringArray, {
-				u"\u30c7\u30e5\u30e2\u30f3\u30c7\u30e5\u30eb\u30f4\u30a3\u30eb\u6642\u9593"_s,
+				u"デュモンデュルヴィル時間"_s,
 				"DDUT"_s,
-				u"\u30c7\u30e5\u30e2\u30f3\u30c7\u30e5\u30eb\u30f4\u30a3\u30eb\u590f\u6642\u9593"_s,
+				u"デュモンデュルヴィル夏時間"_s,
 				"DDUST"_s,
-				u"\u30c7\u30e5\u30e2\u30f3\u30fb\u30c7\u30e5\u30eb\u30d3\u30eb\u6642\u9593"_s,
+				u"デュモン・デュルビル時間"_s,
 				"DDUT"_s
 			}))
 		}),
 		$$new($ObjectArray, {
 			$of("Antarctica/Macquarie"_s),
 			$of($$new($StringArray, {
-				u"\u30de\u30c3\u30b3\u30fc\u30ea\u30fc\u5cf6\u6642\u9593"_s,
+				u"マッコーリー島時間"_s,
 				"MIST"_s,
-				u"\u30de\u30c3\u30b3\u30fc\u30ea\u30fc\u5cf6\u590f\u6642\u9593"_s,
+				u"マッコーリー島夏時間"_s,
 				"MIST"_s,
-				u"\u30de\u30c3\u30b3\u30fc\u30ea\u30fc\u5cf6\u6642\u9593"_s,
+				u"マッコーリー島時間"_s,
 				"MIST"_s
 			}))
 		}),
 		$$new($ObjectArray, {
 			$of("Antarctica/Mawson"_s),
 			$of($$new($StringArray, {
-				u"\u30e2\u30fc\u30bd\u30f3\u6642\u9593"_s,
+				u"モーソン時間"_s,
 				"MAWT"_s,
-				u"\u30e2\u30fc\u30bd\u30f3\u590f\u6642\u9593"_s,
+				u"モーソン夏時間"_s,
 				"MAWST"_s,
-				u"\u30e2\u30fc\u30bd\u30f3\u6642\u9593"_s,
+				u"モーソン時間"_s,
 				"MAWT"_s
 			}))
 		}),
@@ -1871,11 +1871,11 @@ $ObjectArray2* TimeZoneNames_ja::getContents() {
 		$$new($ObjectArray, {
 			$of("Antarctica/Rothera"_s),
 			$of($$new($StringArray, {
-				u"\u30ed\u30bc\u30e9\u6642\u9593"_s,
+				u"ロゼラ時間"_s,
 				"ROTT"_s,
-				u"\u30ed\u30bc\u30e9\u590f\u6642\u9593"_s,
+				u"ロゼラ夏時間"_s,
 				"ROTST"_s,
-				u"\u30ed\u30bc\u30e9\u6642\u9593"_s,
+				u"ロゼラ時間"_s,
 				"ROTT"_s
 			}))
 		}),
@@ -1886,20 +1886,20 @@ $ObjectArray2* TimeZoneNames_ja::getContents() {
 		$$new($ObjectArray, {
 			$of("Antarctica/Syowa"_s),
 			$of($$new($StringArray, {
-				u"\u662d\u548c\u57fa\u5730\u6642\u9593"_s,
+				u"昭和基地時間"_s,
 				"SYOT"_s,
-				u"\u662d\u548c\u57fa\u5730\u590f\u6642\u9593"_s,
+				u"昭和基地夏時間"_s,
 				"SYOST"_s,
-				u"\u662d\u548c\u57fa\u5730\u6642\u9593"_s,
+				u"昭和基地時間"_s,
 				"SYOT"_s
 			}))
 		}),
 		$$new($ObjectArray, {
 			$of("Antarctica/Troll"_s),
 			$of($$new($StringArray, {
-				u"\u5354\u5b9a\u4e16\u754c\u6642"_s,
+				u"協定世界時"_s,
 				"UTC"_s,
-				u"\u4e2d\u90e8\u30e8\u30fc\u30ed\u30c3\u30d1\u590f\u6642\u9593"_s,
+				u"中部ヨーロッパ夏時間"_s,
 				"CEST"_s,
 				"Troll Time"_s,
 				"ATT"_s
@@ -1908,11 +1908,11 @@ $ObjectArray2* TimeZoneNames_ja::getContents() {
 		$$new($ObjectArray, {
 			$of("Antarctica/Vostok"_s),
 			$of($$new($StringArray, {
-				u"\u30dc\u30b9\u30c8\u30fc\u30af\u57fa\u5730\u6642\u9593"_s,
+				u"ボストーク基地時間"_s,
 				"VOST"_s,
-				u"\u30dc\u30b9\u30c8\u30fc\u30af\u57fa\u5730\u590f\u6642\u9593"_s,
+				u"ボストーク基地夏時間"_s,
 				"VOSST"_s,
-				u"\u30dc\u30b9\u30c8\u30fc\u30af\u6642\u9593"_s,
+				u"ボストーク時間"_s,
 				"VOST"_s
 			}))
 		}),
@@ -1927,11 +1927,11 @@ $ObjectArray2* TimeZoneNames_ja::getContents() {
 		$$new($ObjectArray, {
 			$of("Asia/Almaty"_s),
 			$of($$new($StringArray, {
-				u"\u30a2\u30eb\u30de\u30a2\u30bf\u6642\u9593"_s,
+				u"アルマアタ時間"_s,
 				"ALMT"_s,
-				u"\u30a2\u30eb\u30de\u30a2\u30bf\u590f\u6642\u9593"_s,
+				u"アルマアタ夏時間"_s,
 				"ALMST"_s,
-				u"\u30a2\u30eb\u30de\u30a2\u30bf\u6642\u9593"_s,
+				u"アルマアタ時間"_s,
 				"ALMT"_s
 			}))
 		}),
@@ -1942,33 +1942,33 @@ $ObjectArray2* TimeZoneNames_ja::getContents() {
 		$$new($ObjectArray, {
 			$of("Asia/Anadyr"_s),
 			$of($$new($StringArray, {
-				u"\u30a2\u30ca\u30c9\u30a5\u30a4\u30ea\u6642\u9593"_s,
+				u"アナドゥイリ時間"_s,
 				"ANAT"_s,
-				u"\u30a2\u30ca\u30c9\u30a5\u30a4\u30ea\u590f\u6642\u9593"_s,
+				u"アナドゥイリ夏時間"_s,
 				"ANAST"_s,
-				u"\u30a2\u30ca\u30c7\u30a3\u30ea\u6642\u9593"_s,
+				u"アナディリ時間"_s,
 				"ANAT"_s
 			}))
 		}),
 		$$new($ObjectArray, {
 			$of("Asia/Aqtau"_s),
 			$of($$new($StringArray, {
-				u"\u30a2\u30af\u30bf\u30a6\u6642\u9593"_s,
+				u"アクタウ時間"_s,
 				"AQTT"_s,
-				u"\u30a2\u30af\u30bf\u30a6\u590f\u6642\u9593"_s,
+				u"アクタウ夏時間"_s,
 				"AQTST"_s,
-				u"\u30a2\u30af\u30bf\u30a6\u6642\u9593"_s,
+				u"アクタウ時間"_s,
 				"AQTT"_s
 			}))
 		}),
 		$$new($ObjectArray, {
 			$of("Asia/Aqtobe"_s),
 			$of($$new($StringArray, {
-				u"\u30a2\u30af\u30c8\u30d9\u6642\u9593"_s,
+				u"アクトベ時間"_s,
 				"AQTT"_s,
-				u"\u30a2\u30af\u30c8\u30d9\u590f\u6642\u9593"_s,
+				u"アクトベ夏時間"_s,
 				"AQTST"_s,
-				u"\u30a2\u30af\u30c8\u30d9\u6642\u9593"_s,
+				u"アクトベ時間"_s,
 				"AQTT"_s
 			}))
 		}),
@@ -1991,11 +1991,11 @@ $ObjectArray2* TimeZoneNames_ja::getContents() {
 		$$new($ObjectArray, {
 			$of("Asia/Baku"_s),
 			$of($$new($StringArray, {
-				u"\u30a2\u30bc\u30eb\u30d0\u30a4\u30b8\u30e3\u30f3\u6642\u9593"_s,
+				u"アゼルバイジャン時間"_s,
 				"AZT"_s,
-				u"\u30a2\u30bc\u30eb\u30d0\u30a4\u30b8\u30e3\u30f3\u590f\u6642\u9593"_s,
+				u"アゼルバイジャン夏時間"_s,
 				"AZST"_s,
-				u"\u30a2\u30bc\u30eb\u30d0\u30a4\u30b8\u30e3\u30f3\u6642\u9593"_s,
+				u"アゼルバイジャン時間"_s,
 				"AZT"_s
 			}))
 		}),
@@ -2010,22 +2010,22 @@ $ObjectArray2* TimeZoneNames_ja::getContents() {
 		$$new($ObjectArray, {
 			$of("Asia/Bishkek"_s),
 			$of($$new($StringArray, {
-				u"\u30ad\u30eb\u30ae\u30b9\u30bf\u30f3\u6642\u9593"_s,
+				u"キルギスタン時間"_s,
 				"KGT"_s,
-				u"\u30ad\u30eb\u30ae\u30b9\u30bf\u30f3\u590f\u6642\u9593"_s,
+				u"キルギスタン夏時間"_s,
 				"KGST"_s,
-				u"\u30ad\u30eb\u30ae\u30b9\u6642\u9593"_s,
+				u"キルギス時間"_s,
 				"KGT"_s
 			}))
 		}),
 		$$new($ObjectArray, {
 			$of("Asia/Brunei"_s),
 			$of($$new($StringArray, {
-				u"\u30d6\u30eb\u30cd\u30a4\u6642\u9593"_s,
+				u"ブルネイ時間"_s,
 				"BNT"_s,
-				u"\u30d6\u30eb\u30cd\u30a4\u590f\u6642\u9593"_s,
+				u"ブルネイ夏時間"_s,
 				"BNST"_s,
-				u"\u30d6\u30eb\u30cd\u30a4\u6642\u9593"_s,
+				u"ブルネイ時間"_s,
 				"BNT"_s
 			}))
 		}),
@@ -2040,11 +2040,11 @@ $ObjectArray2* TimeZoneNames_ja::getContents() {
 		$$new($ObjectArray, {
 			$of("Asia/Choibalsan"_s),
 			$of($$new($StringArray, {
-				u"\u30c1\u30e7\u30a4\u30d0\u30eb\u30b5\u30f3\u6642\u9593"_s,
+				u"チョイバルサン時間"_s,
 				"CHOT"_s,
-				u"\u30c1\u30e7\u30a4\u30d0\u30eb\u30b5\u30f3\u590f\u6642\u9593"_s,
+				u"チョイバルサン夏時間"_s,
 				"CHOST"_s,
-				u"\u30c1\u30e7\u30a4\u30d0\u30eb\u30b5\u30f3\u6642\u9593"_s,
+				u"チョイバルサン時間"_s,
 				"CHOT"_s
 			}))
 		}),
@@ -2071,11 +2071,11 @@ $ObjectArray2* TimeZoneNames_ja::getContents() {
 		$$new($ObjectArray, {
 			$of("Asia/Dili"_s),
 			$of($$new($StringArray, {
-				u"\u6771\u30c6\u30a3\u30e2\u30fc\u30eb\u6642\u9593"_s,
+				u"東ティモール時間"_s,
 				"TLT"_s,
-				u"\u6771\u30c6\u30a3\u30e2\u30fc\u30eb\u590f\u6642\u9593"_s,
+				u"東ティモール夏時間"_s,
 				"TLST"_s,
-				u"\u6771\u30c6\u30a3\u30e2\u30fc\u30eb\u6642\u9593"_s,
+				u"東ティモール時間"_s,
 				"TLT"_s
 			}))
 		}),
@@ -2090,11 +2090,11 @@ $ObjectArray2* TimeZoneNames_ja::getContents() {
 		$$new($ObjectArray, {
 			$of("Asia/Dushanbe"_s),
 			$of($$new($StringArray, {
-				u"\u30bf\u30b8\u30ad\u30b9\u30bf\u30f3\u6642\u9593"_s,
+				u"タジキスタン時間"_s,
 				"TJT"_s,
-				u"\u30bf\u30b8\u30ad\u30b9\u30bf\u30f3\u590f\u6642\u9593"_s,
+				u"タジキスタン夏時間"_s,
 				"TJST"_s,
-				u"\u30bf\u30b8\u30ad\u30b9\u30bf\u30f3\u6642\u9593"_s,
+				u"タジキスタン時間"_s,
 				"TJT"_s
 			}))
 		}),
@@ -2121,11 +2121,11 @@ $ObjectArray2* TimeZoneNames_ja::getContents() {
 		$$new($ObjectArray, {
 			$of("Asia/Hovd"_s),
 			$of($$new($StringArray, {
-				u"\u30db\u30d6\u30c9\u6642\u9593"_s,
+				u"ホブド時間"_s,
 				"HOVT"_s,
-				u"\u30db\u30d6\u30c9\u590f\u6642\u9593"_s,
+				u"ホブド夏時間"_s,
 				"HOVST"_s,
-				u"\u30db\u30d6\u30c9\u6642\u9593"_s,
+				u"ホブド時間"_s,
 				"HOVT"_s
 			}))
 		}),
@@ -2144,33 +2144,33 @@ $ObjectArray2* TimeZoneNames_ja::getContents() {
 		$$new($ObjectArray, {
 			$of("Asia/Jayapura"_s),
 			$of($$new($StringArray, {
-				u"\u6771\u30a4\u30f3\u30c9\u30cd\u30b7\u30a2\u6642\u9593"_s,
+				u"東インドネシア時間"_s,
 				"WIT"_s,
-				u"\u6771\u30a4\u30f3\u30c9\u30cd\u30b7\u30a2\u590f\u6642\u9593"_s,
+				u"東インドネシア夏時間"_s,
 				"EIST"_s,
-				u"\u6771\u90e8\u30a4\u30f3\u30c9\u30cd\u30b7\u30a2\u6642\u9593"_s,
+				u"東部インドネシア時間"_s,
 				"WIT"_s
 			}))
 		}),
 		$$new($ObjectArray, {
 			$of("Asia/Kabul"_s),
 			$of($$new($StringArray, {
-				u"\u30a2\u30d5\u30ac\u30cb\u30b9\u30bf\u30f3\u6642\u9593"_s,
+				u"アフガニスタン時間"_s,
 				"AFT"_s,
-				u"\u30a2\u30d5\u30ac\u30cb\u30b9\u30bf\u30f3\u590f\u6642\u9593"_s,
+				u"アフガニスタン夏時間"_s,
 				"AFST"_s,
-				u"\u30a2\u30d5\u30ac\u30cb\u30b9\u30bf\u30f3\u6642\u9593"_s,
+				u"アフガニスタン時間"_s,
 				"AFT"_s
 			}))
 		}),
 		$$new($ObjectArray, {
 			$of("Asia/Kamchatka"_s),
 			$of($$new($StringArray, {
-				u"\u30da\u30c8\u30ed\u30d1\u30d6\u30ed\u30d5\u30b9\u30af\u30ab\u30e0\u30c1\u30e3\u30c4\u30ad\u30fc\u6642\u9593"_s,
+				u"ペトロパブロフスクカムチャツキー時間"_s,
 				"PETT"_s,
-				u"\u30da\u30c8\u30ed\u30d1\u30d6\u30ed\u30d5\u30b9\u30af\u30ab\u30e0\u30c1\u30e3\u30c4\u30ad\u30fc\u590f\u6642\u9593"_s,
+				u"ペトロパブロフスクカムチャツキー夏時間"_s,
 				"PETST"_s,
-				u"\u30da\u30c8\u30ed\u30d1\u30d6\u30ed\u30d5\u30b9\u30af\u30fb\u30ab\u30e0\u30c1\u30e3\u30c4\u30ad\u30fc\u6642\u9593"_s,
+				u"ペトロパブロフスク・カムチャツキー時間"_s,
 				"PETT"_s
 			}))
 		}),
@@ -2225,11 +2225,11 @@ $ObjectArray2* TimeZoneNames_ja::getContents() {
 		$$new($ObjectArray, {
 			$of("Asia/Magadan"_s),
 			$of($$new($StringArray, {
-				u"\u30de\u30ac\u30c0\u30f3\u6642\u9593"_s,
+				u"マガダン時間"_s,
 				"MAGT"_s,
-				u"\u30de\u30ac\u30c0\u30f3\u590f\u6642\u9593"_s,
+				u"マガダン夏時間"_s,
 				"MAGST"_s,
-				u"\u30de\u30ac\u30c0\u30f3\u6642\u9593"_s,
+				u"マガダン時間"_s,
 				"MAGT"_s
 			}))
 		}),
@@ -2267,22 +2267,22 @@ $ObjectArray2* TimeZoneNames_ja::getContents() {
 		$$new($ObjectArray, {
 			$of("Asia/Oral"_s),
 			$of($$new($StringArray, {
-				u"\u30aa\u30e9\u30eb\u6642\u9593"_s,
+				u"オラル時間"_s,
 				"ORAT"_s,
-				u"\u30aa\u30e9\u30eb\u590f\u6642\u9593"_s,
+				u"オラル夏時間"_s,
 				"ORAST"_s,
-				u"\u30aa\u30e9\u30eb\u6642\u9593"_s,
+				u"オラル時間"_s,
 				"ORAT"_s
 			}))
 		}),
 		$$new($ObjectArray, {
 			$of("Asia/Omsk"_s),
 			$of($$new($StringArray, {
-				u"\u30aa\u30e0\u30b9\u30af\u6642\u9593"_s,
+				u"オムスク時間"_s,
 				"OMST"_s,
-				u"\u30aa\u30e0\u30b9\u30af\u590f\u6642\u9593"_s,
+				u"オムスク夏時間"_s,
 				"OMSST"_s,
-				u"\u30aa\u30e0\u30b9\u30af\u6642\u9593"_s,
+				u"オムスク時間"_s,
 				"OMST"_s
 			}))
 		}),
@@ -2305,11 +2305,11 @@ $ObjectArray2* TimeZoneNames_ja::getContents() {
 		$$new($ObjectArray, {
 			$of("Asia/Qyzylorda"_s),
 			$of($$new($StringArray, {
-				u"\u30ad\u30b8\u30eb\u30aa\u30eb\u30c0\u6642\u9593"_s,
+				u"キジルオルダ時間"_s,
 				"QYZT"_s,
-				u"\u30ad\u30b8\u30eb\u30aa\u30eb\u30c0\u590f\u6642\u9593"_s,
+				u"キジルオルダ夏時間"_s,
 				"QYZST"_s,
-				u"\u30af\u30ba\u30ed\u30eb\u30c0\u6642\u9593"_s,
+				u"クズロルダ時間"_s,
 				"QYZT"_s
 			}))
 		}),
@@ -2328,11 +2328,11 @@ $ObjectArray2* TimeZoneNames_ja::getContents() {
 		$$new($ObjectArray, {
 			$of("Asia/Sakhalin"_s),
 			$of($$new($StringArray, {
-				u"\u6a3a\u592a\u6642\u9593"_s,
+				u"樺太時間"_s,
 				"SAKT"_s,
-				u"\u6a3a\u592a\u590f\u6642\u9593"_s,
+				u"樺太夏時間"_s,
 				"SAKST"_s,
-				u"\u30b5\u30cf\u30ea\u30f3\u6642\u9593"_s,
+				u"サハリン時間"_s,
 				"SAKT"_s
 			}))
 		}),
@@ -2374,11 +2374,11 @@ $ObjectArray2* TimeZoneNames_ja::getContents() {
 		$$new($ObjectArray, {
 			$of("Asia/Tbilisi"_s),
 			$of($$new($StringArray, {
-				u"\u30b0\u30eb\u30b8\u30a2\u6642\u9593"_s,
+				u"グルジア時間"_s,
 				"GET"_s,
-				u"\u30b0\u30eb\u30b8\u30a2\u590f\u6642\u9593"_s,
+				u"グルジア夏時間"_s,
 				"GEST"_s,
-				u"\u30b0\u30eb\u30b8\u30a2\u6642\u9593"_s,
+				u"グルジア時間"_s,
 				"GET"_s
 			}))
 		}),
@@ -2413,11 +2413,11 @@ $ObjectArray2* TimeZoneNames_ja::getContents() {
 		$$new($ObjectArray, {
 			$of("Asia/Ust-Nera"_s),
 			$of($$new($StringArray, {
-				u"\u30a6\u30b9\u30c1\u30cd\u30e9\u6642\u9593"_s,
+				u"ウスチネラ時間"_s,
 				"VLAT"_s,
-				u"\u30a6\u30b9\u30c1\u30cd\u30e9\u590f\u6642\u9593"_s,
+				u"ウスチネラ夏時間"_s,
 				"VLAST"_s,
-				u"\u30a6\u30b9\u30c1\u30cd\u30e9\u6642\u9593"_s,
+				u"ウスチネラ時間"_s,
 				"VLAT"_s
 			}))
 		}),
@@ -2428,11 +2428,11 @@ $ObjectArray2* TimeZoneNames_ja::getContents() {
 		$$new($ObjectArray, {
 			$of("Asia/Vladivostok"_s),
 			$of($$new($StringArray, {
-				u"\u30a6\u30e9\u30b8\u30aa\u30b9\u30c8\u30af\u6642\u9593"_s,
+				u"ウラジオストク時間"_s,
 				"VLAT"_s,
-				u"\u30a6\u30e9\u30b8\u30aa\u30b9\u30c8\u30af\u590f\u6642\u9593"_s,
+				u"ウラジオストク夏時間"_s,
 				"VLAST"_s,
-				u"\u30a6\u30e9\u30b8\u30aa\u30b9\u30c8\u30af\u6642\u9593"_s,
+				u"ウラジオストク時間"_s,
 				"VLAT"_s
 			}))
 		}),
@@ -2447,11 +2447,11 @@ $ObjectArray2* TimeZoneNames_ja::getContents() {
 		$$new($ObjectArray, {
 			$of("Asia/Yekaterinburg"_s),
 			$of($$new($StringArray, {
-				u"\u30a8\u30ab\u30c6\u30ea\u30f3\u30d6\u30eb\u30b0\u6642\u9593"_s,
+				u"エカテリンブルグ時間"_s,
 				"YEKT"_s,
-				u"\u30a8\u30ab\u30c6\u30ea\u30f3\u30d6\u30eb\u30b0\u590f\u6642\u9593"_s,
+				u"エカテリンブルグ夏時間"_s,
 				"YEKST"_s,
-				u"\u30a8\u30ab\u30c6\u30ea\u30f3\u30d6\u30eb\u30af\u6642\u9593"_s,
+				u"エカテリンブルク時間"_s,
 				"YEKT"_s
 			}))
 		}),
@@ -2462,11 +2462,11 @@ $ObjectArray2* TimeZoneNames_ja::getContents() {
 		$$new($ObjectArray, {
 			$of("Atlantic/Azores"_s),
 			$of($$new($StringArray, {
-				u"\u30a2\u30be\u30ec\u30b9\u6642\u9593"_s,
+				u"アゾレス時間"_s,
 				"AZOT"_s,
-				u"\u30a2\u30be\u30ec\u30b9\u590f\u6642\u9593"_s,
+				u"アゾレス夏時間"_s,
 				"AZOST"_s,
-				u"\u30a2\u30be\u30ec\u30b9\u6642\u9593"_s,
+				u"アゾレス時間"_s,
 				"AZOT"_s
 			}))
 		}),
@@ -2481,11 +2481,11 @@ $ObjectArray2* TimeZoneNames_ja::getContents() {
 		$$new($ObjectArray, {
 			$of("Atlantic/Cape_Verde"_s),
 			$of($$new($StringArray, {
-				u"\u30ab\u30fc\u30dc\u30d9\u30eb\u30c7\u6642\u9593"_s,
+				u"カーボベルデ時間"_s,
 				"CVT"_s,
-				u"\u30ab\u30fc\u30dc\u30d9\u30eb\u30c7\u590f\u6642\u9593"_s,
+				u"カーボベルデ夏時間"_s,
 				"CVST"_s,
-				u"\u30ab\u30fc\u30dc\u30d9\u30eb\u30c7\u6642\u9593"_s,
+				u"カーボベルデ時間"_s,
 				"CVT"_s
 			}))
 		}),
@@ -2512,11 +2512,11 @@ $ObjectArray2* TimeZoneNames_ja::getContents() {
 		$$new($ObjectArray, {
 			$of("Atlantic/South_Georgia"_s),
 			$of($$new($StringArray, {
-				u"\u5357\u30b8\u30e7\u30fc\u30b8\u30a2\u5cf6\u6a19\u6e96\u6642"_s,
+				u"南ジョージア島標準時"_s,
 				"GST"_s,
-				u"\u5357\u30b8\u30e7\u30fc\u30b8\u30a2\u5cf6\u590f\u6642\u9593"_s,
+				u"南ジョージア島夏時間"_s,
 				"GDT"_s,
-				u"\u5357\u30b8\u30e7\u30fc\u30b8\u30a2\u6642\u9593"_s,
+				u"南ジョージア時間"_s,
 				"GT"_s
 			}))
 		}),
@@ -2527,11 +2527,11 @@ $ObjectArray2* TimeZoneNames_ja::getContents() {
 		$$new($ObjectArray, {
 			$of("Atlantic/Stanley"_s),
 			$of($$new($StringArray, {
-				u"\u30d5\u30a9\u30fc\u30af\u30e9\u30f3\u30c9\u8af8\u5cf6\u6642\u9593"_s,
+				u"フォークランド諸島時間"_s,
 				"FKT"_s,
-				u"\u30d5\u30a9\u30fc\u30af\u30e9\u30f3\u30c9\u8af8\u5cf6\u590f\u6642\u9593"_s,
+				u"フォークランド諸島夏時間"_s,
 				"FKST"_s,
-				u"\u30d5\u30a9\u30fc\u30af\u30e9\u30f3\u30c9\u8af8\u5cf6\u6642\u9593"_s,
+				u"フォークランド諸島時間"_s,
 				"FKT"_s
 			}))
 		}),
@@ -2566,11 +2566,11 @@ $ObjectArray2* TimeZoneNames_ja::getContents() {
 		$$new($ObjectArray, {
 			$of("Australia/Eucla"_s),
 			$of($$new($StringArray, {
-				u"\u4e2d\u897f\u90e8\u6a19\u6e96\u6642(\u30aa\u30fc\u30b9\u30c8\u30e9\u30ea\u30a2)"_s,
+				u"中西部標準時(オーストラリア)"_s,
 				"ACWST"_s,
-				u"\u4e2d\u897f\u90e8\u590f\u6642\u9593(\u30aa\u30fc\u30b9\u30c8\u30e9\u30ea\u30a2)"_s,
+				u"中西部夏時間(オーストラリア)"_s,
 				"ACWDT"_s,
-				u"\u4e2d\u897f\u90e8\u6642\u9593(\u30aa\u30fc\u30b9\u30c8\u30e9\u30ea\u30a2)"_s,
+				u"中西部時間(オーストラリア)"_s,
 				"ACWT"_s
 			}))
 		}),
@@ -2905,11 +2905,11 @@ $ObjectArray2* TimeZoneNames_ja::getContents() {
 		$$new($ObjectArray, {
 			$of("Europe/Samara"_s),
 			$of($$new($StringArray, {
-				u"\u30b5\u30de\u30e9\u6642\u9593"_s,
+				u"サマラ時間"_s,
 				"SAMT"_s,
-				u"\u30b5\u30de\u30e9\u590f\u6642\u9593"_s,
+				u"サマラ夏時間"_s,
 				"SAMST"_s,
-				u"\u30b5\u30de\u30e9\u6642\u9593"_s,
+				u"サマラ時間"_s,
 				"SAMT"_s
 			}))
 		}),
@@ -3024,33 +3024,33 @@ $ObjectArray2* TimeZoneNames_ja::getContents() {
 		$$new($ObjectArray, {
 			$of("Indian/Chagos"_s),
 			$of($$new($StringArray, {
-				u"\u30a4\u30f3\u30c9\u6d0b\u5730\u57df\u6642\u9593"_s,
+				u"インド洋地域時間"_s,
 				"IOT"_s,
-				u"\u30a4\u30f3\u30c9\u6d0b\u5730\u57df\u590f\u6642\u9593"_s,
+				u"インド洋地域夏時間"_s,
 				"IOST"_s,
-				u"\u30a4\u30f3\u30c9\u6d0b\u5730\u57df\u6642\u9593"_s,
+				u"インド洋地域時間"_s,
 				"IOT"_s
 			}))
 		}),
 		$$new($ObjectArray, {
 			$of("Indian/Christmas"_s),
 			$of($$new($StringArray, {
-				u"\u30af\u30ea\u30b9\u30de\u30b9\u8af8\u5cf6\u6642\u9593"_s,
+				u"クリスマス諸島時間"_s,
 				"CXT"_s,
-				u"\u30af\u30ea\u30b9\u30de\u30b9\u8af8\u5cf6\u590f\u6642\u9593"_s,
+				u"クリスマス諸島夏時間"_s,
 				"CXST"_s,
-				u"\u30af\u30ea\u30b9\u30de\u30b9\u5cf6\u6642\u9593"_s,
+				u"クリスマス島時間"_s,
 				"CIT"_s
 			}))
 		}),
 		$$new($ObjectArray, {
 			$of("Indian/Cocos"_s),
 			$of($$new($StringArray, {
-				u"\u30b3\u30b3\u30b9\u8af8\u5cf6\u6642\u9593"_s,
+				u"ココス諸島時間"_s,
 				"CCT"_s,
-				u"\u30b3\u30b3\u30b9\u8af8\u5cf6\u590f\u6642\u9593"_s,
+				u"ココス諸島夏時間"_s,
 				"CCST"_s,
-				u"\u30b3\u30b3\u30b9\u8af8\u5cf6\u6642\u9593"_s,
+				u"ココス諸島時間"_s,
 				"CCT"_s
 			}))
 		}),
@@ -3061,44 +3061,44 @@ $ObjectArray2* TimeZoneNames_ja::getContents() {
 		$$new($ObjectArray, {
 			$of("Indian/Kerguelen"_s),
 			$of($$new($StringArray, {
-				u"\u4ecf\u5357\u65b9\u9818\u304a\u3088\u3073\u5357\u6975\u6642\u9593"_s,
+				u"仏南方領および南極時間"_s,
 				"TFT"_s,
-				u"\u4ecf\u5357\u65b9\u9818\u304a\u3088\u3073\u5357\u6975\u590f\u6642\u9593"_s,
+				u"仏南方領および南極夏時間"_s,
 				"TFST"_s,
-				u"\u30d5\u30e9\u30f3\u30b9\u9818\u5357\u65b9\u304a\u3088\u3073\u5357\u6975\u5927\u9678\u6642\u9593"_s,
+				u"フランス領南方および南極大陸時間"_s,
 				"TFT"_s
 			}))
 		}),
 		$$new($ObjectArray, {
 			$of("Indian/Mahe"_s),
 			$of($$new($StringArray, {
-				u"\u30bb\u30a4\u30b7\u30a7\u30eb\u6642\u9593"_s,
+				u"セイシェル時間"_s,
 				"SCT"_s,
-				u"\u30bb\u30a4\u30b7\u30a7\u30eb\u590f\u6642\u9593"_s,
+				u"セイシェル夏時間"_s,
 				"SCST"_s,
-				u"\u30bb\u30fc\u30b7\u30a7\u30eb\u6642\u9593"_s,
+				u"セーシェル時間"_s,
 				"SCT"_s
 			}))
 		}),
 		$$new($ObjectArray, {
 			$of("Indian/Maldives"_s),
 			$of($$new($StringArray, {
-				u"\u30e2\u30eb\u30b8\u30d6\u6642\u9593"_s,
+				u"モルジブ時間"_s,
 				"MVT"_s,
-				u"\u30e2\u30eb\u30b8\u30d6\u590f\u6642\u9593"_s,
+				u"モルジブ夏時間"_s,
 				"MVST"_s,
-				u"\u30e2\u30eb\u30b8\u30d6\u6642\u9593"_s,
+				u"モルジブ時間"_s,
 				"MVT"_s
 			}))
 		}),
 		$$new($ObjectArray, {
 			$of("Indian/Mauritius"_s),
 			$of($$new($StringArray, {
-				u"\u30e2\u30fc\u30ea\u30b7\u30e3\u30b9\u6642\u9593"_s,
+				u"モーリシャス時間"_s,
 				"MUT"_s,
-				u"\u30e2\u30fc\u30ea\u30b7\u30e3\u30b9\u590f\u6642\u9593"_s,
+				u"モーリシャス夏時間"_s,
 				"MUST"_s,
-				u"\u30e2\u30fc\u30ea\u30b7\u30e3\u30b9\u6642\u9593"_s,
+				u"モーリシャス時間"_s,
 				"MUT"_s
 			}))
 		}),
@@ -3109,11 +3109,11 @@ $ObjectArray2* TimeZoneNames_ja::getContents() {
 		$$new($ObjectArray, {
 			$of("Indian/Reunion"_s),
 			$of($$new($StringArray, {
-				u"\u30ec\u30e6\u30cb\u30aa\u30f3\u6642\u9593"_s,
+				u"レユニオン時間"_s,
 				"RET"_s,
-				u"\u30ec\u30e6\u30cb\u30aa\u30f3\u590f\u6642\u9593"_s,
+				u"レユニオン夏時間"_s,
 				"REST"_s,
-				u"\u30ec\u30e6\u30cb\u30aa\u30f3\u6642\u9593"_s,
+				u"レユニオン時間"_s,
 				"RET"_s
 			}))
 		}),
@@ -3140,9 +3140,9 @@ $ObjectArray2* TimeZoneNames_ja::getContents() {
 		$$new($ObjectArray, {
 			$of("MET"_s),
 			$of($$new($StringArray, {
-				u"\u4e2d\u90e8\u30e8\u30fc\u30ed\u30c3\u30d1\u6642\u9593"_s,
+				u"中部ヨーロッパ時間"_s,
 				"MET"_s,
-				u"\u4e2d\u90e8\u30e8\u30fc\u30ed\u30c3\u30d1\u590f\u6642\u9593"_s,
+				u"中部ヨーロッパ夏時間"_s,
 				"MEST"_s,
 				"MET"_s,
 				"MET"_s
@@ -3234,66 +3234,66 @@ $ObjectArray2* TimeZoneNames_ja::getContents() {
 		$$new($ObjectArray, {
 			$of("Pacific/Efate"_s),
 			$of($$new($StringArray, {
-				u"\u30d0\u30cc\u30a2\u30c4\u6642\u9593"_s,
+				u"バヌアツ時間"_s,
 				"VUT"_s,
-				u"\u30d0\u30cc\u30a2\u30c4\u590f\u6642\u9593"_s,
+				u"バヌアツ夏時間"_s,
 				"VUST"_s,
-				u"\u30d0\u30cc\u30a2\u30c4\u6642\u9593"_s,
+				u"バヌアツ時間"_s,
 				"VUT"_s
 			}))
 		}),
 		$$new($ObjectArray, {
 			$of("Pacific/Enderbury"_s),
 			$of($$new($StringArray, {
-				u"\u30d5\u30a7\u30cb\u30c3\u30af\u30b9\u8af8\u5cf6\u6642\u9593"_s,
+				u"フェニックス諸島時間"_s,
 				"PHOT"_s,
-				u"\u30d5\u30a7\u30cb\u30c3\u30af\u30b9\u8af8\u5cf6\u590f\u6642\u9593"_s,
+				u"フェニックス諸島夏時間"_s,
 				"PHOST"_s,
-				u"\u30d5\u30a7\u30cb\u30c3\u30af\u30b9\u8af8\u5cf6\u6642\u9593"_s,
+				u"フェニックス諸島時間"_s,
 				"PHOT"_s
 			}))
 		}),
 		$$new($ObjectArray, {
 			$of("Pacific/Fakaofo"_s),
 			$of($$new($StringArray, {
-				u"\u30c8\u30b1\u30e9\u30a6\u8af8\u5cf6\u6642\u9593"_s,
+				u"トケラウ諸島時間"_s,
 				"TKT"_s,
-				u"\u30c8\u30b1\u30e9\u30a6\u8af8\u5cf6\u590f\u6642\u9593"_s,
+				u"トケラウ諸島夏時間"_s,
 				"TKST"_s,
-				u"\u30c8\u30b1\u30e9\u30a6\u6642\u9593"_s,
+				u"トケラウ時間"_s,
 				"TKT"_s
 			}))
 		}),
 		$$new($ObjectArray, {
 			$of("Pacific/Fiji"_s),
 			$of($$new($StringArray, {
-				u"\u30d5\u30a3\u30b8\u30fc\u6642\u9593"_s,
+				u"フィジー時間"_s,
 				"FJT"_s,
-				u"\u30d5\u30a3\u30b8\u30fc\u590f\u6642\u9593"_s,
+				u"フィジー夏時間"_s,
 				"FJST"_s,
-				u"\u30d5\u30a3\u30b8\u30fc\u6642\u9593"_s,
+				u"フィジー時間"_s,
 				"FJT"_s
 			}))
 		}),
 		$$new($ObjectArray, {
 			$of("Pacific/Funafuti"_s),
 			$of($$new($StringArray, {
-				u"\u30c4\u30d0\u30eb\u6642\u9593"_s,
+				u"ツバル時間"_s,
 				"TVT"_s,
-				u"\u30c4\u30d0\u30eb\u590f\u6642\u9593"_s,
+				u"ツバル夏時間"_s,
 				"TVST"_s,
-				u"\u30c4\u30d0\u30eb\u6642\u9593"_s,
+				u"ツバル時間"_s,
 				"TVT"_s
 			}))
 		}),
 		$$new($ObjectArray, {
 			$of("Pacific/Galapagos"_s),
 			$of($$new($StringArray, {
-				u"\u30ac\u30e9\u30d1\u30b4\u30b9\u6642\u9593"_s,
+				u"ガラパゴス時間"_s,
 				"GALT"_s,
-				u"\u30ac\u30e9\u30d1\u30b4\u30b9\u590f\u6642\u9593"_s,
+				u"ガラパゴス夏時間"_s,
 				"GALST"_s,
-				u"\u30ac\u30e9\u30d1\u30b4\u30b9\u6642\u9593"_s,
+				u"ガラパゴス時間"_s,
 				"GALT"_s
 			}))
 		}),
@@ -3316,22 +3316,22 @@ $ObjectArray2* TimeZoneNames_ja::getContents() {
 		$$new($ObjectArray, {
 			$of("Pacific/Kiritimati"_s),
 			$of($$new($StringArray, {
-				u"\u30e9\u30a4\u30f3\u8af8\u5cf6\u6642\u9593"_s,
+				u"ライン諸島時間"_s,
 				"LINT"_s,
-				u"\u30e9\u30a4\u30f3\u8af8\u5cf6\u590f\u6642\u9593"_s,
+				u"ライン諸島夏時間"_s,
 				"LINST"_s,
-				u"\u30e9\u30a4\u30f3\u8af8\u5cf6\u6642\u9593"_s,
+				u"ライン諸島時間"_s,
 				"LINT"_s
 			}))
 		}),
 		$$new($ObjectArray, {
 			$of("Pacific/Kosrae"_s),
 			$of($$new($StringArray, {
-				u"\u30b3\u30b9\u30e9\u30a8\u6642\u9593"_s,
+				u"コスラエ時間"_s,
 				"KOST"_s,
-				u"\u30b3\u30b9\u30e9\u30a8\u590f\u6642\u9593"_s,
+				u"コスラエ夏時間"_s,
 				"KOSST"_s,
-				u"\u30b3\u30b9\u30e9\u30a8\u6642\u9593"_s,
+				u"コスラエ時間"_s,
 				"KOST"_s
 			}))
 		}),
@@ -3346,11 +3346,11 @@ $ObjectArray2* TimeZoneNames_ja::getContents() {
 		$$new($ObjectArray, {
 			$of("Pacific/Marquesas"_s),
 			$of($$new($StringArray, {
-				u"\u30de\u30eb\u30b1\u30b5\u30b9\u6642\u9593"_s,
+				u"マルケサス時間"_s,
 				"MART"_s,
-				u"\u30de\u30eb\u30b1\u30b5\u30b9\u590f\u6642\u9593"_s,
+				u"マルケサス夏時間"_s,
 				"MARST"_s,
-				u"\u30de\u30eb\u30ad\u30fc\u30ba\u6642\u9593"_s,
+				u"マルキーズ時間"_s,
 				"MART"_s
 			}))
 		}),
@@ -3361,44 +3361,44 @@ $ObjectArray2* TimeZoneNames_ja::getContents() {
 		$$new($ObjectArray, {
 			$of("Pacific/Nauru"_s),
 			$of($$new($StringArray, {
-				u"\u30ca\u30a6\u30eb\u6642\u9593"_s,
+				u"ナウル時間"_s,
 				"NRT"_s,
-				u"\u30ca\u30a6\u30eb\u590f\u6642\u9593"_s,
+				u"ナウル夏時間"_s,
 				"NRST"_s,
-				u"\u30ca\u30a6\u30eb\u6642\u9593"_s,
+				u"ナウル時間"_s,
 				"NRT"_s
 			}))
 		}),
 		$$new($ObjectArray, {
 			$of("Pacific/Niue"_s),
 			$of($$new($StringArray, {
-				u"\u30cb\u30a6\u30a8\u5cf6\u6642\u9593"_s,
+				u"ニウエ島時間"_s,
 				"NUT"_s,
-				u"\u30cb\u30a6\u30a8\u5cf6\u590f\u6642\u9593"_s,
+				u"ニウエ島夏時間"_s,
 				"NUST"_s,
-				u"\u30cb\u30a6\u30a8\u6642\u9593"_s,
+				u"ニウエ時間"_s,
 				"NUT"_s
 			}))
 		}),
 		$$new($ObjectArray, {
 			$of("Pacific/Norfolk"_s),
 			$of($$new($StringArray, {
-				u"\u30ce\u30fc\u30d5\u30a9\u30fc\u30af\u6642\u9593"_s,
+				u"ノーフォーク時間"_s,
 				"NFT"_s,
-				u"\u30ce\u30fc\u30d5\u30a9\u30fc\u30af\u590f\u6642\u9593"_s,
+				u"ノーフォーク夏時間"_s,
 				"NFST"_s,
-				u"\u30ce\u30fc\u30d5\u30a9\u30fc\u30af\u6642\u9593"_s,
+				u"ノーフォーク時間"_s,
 				"NFT"_s
 			}))
 		}),
 		$$new($ObjectArray, {
 			$of("Pacific/Noumea"_s),
 			$of($$new($StringArray, {
-				u"\u30cb\u30e5\u30fc\u30ab\u30ec\u30c9\u30cb\u30a2\u6642\u9593"_s,
+				u"ニューカレドニア時間"_s,
 				"NCT"_s,
-				u"\u30cb\u30e5\u30fc\u30ab\u30ec\u30c9\u30cb\u30a2\u590f\u6642\u9593"_s,
+				u"ニューカレドニア夏時間"_s,
 				"NCST"_s,
-				u"\u30cb\u30e5\u30fc\u30ab\u30ec\u30c9\u30cb\u30a2\u6642\u9593"_s,
+				u"ニューカレドニア時間"_s,
 				"NCT"_s
 			}))
 		}),
@@ -3409,11 +3409,11 @@ $ObjectArray2* TimeZoneNames_ja::getContents() {
 		$$new($ObjectArray, {
 			$of("Pacific/Palau"_s),
 			$of($$new($StringArray, {
-				u"\u30d1\u30e9\u30aa\u6642\u9593"_s,
+				u"パラオ時間"_s,
 				"PWT"_s,
-				u"\u30d1\u30e9\u30aa\u590f\u6642\u9593"_s,
+				u"パラオ夏時間"_s,
 				"PWST"_s,
-				u"\u30d1\u30e9\u30aa\u6642\u9593"_s,
+				u"パラオ時間"_s,
 				"PWT"_s
 			}))
 		}),
@@ -3432,22 +3432,22 @@ $ObjectArray2* TimeZoneNames_ja::getContents() {
 		$$new($ObjectArray, {
 			$of("Pacific/Port_Moresby"_s),
 			$of($$new($StringArray, {
-				u"\u30d1\u30d7\u30a2\u30cb\u30e5\u30fc\u30ae\u30cb\u30a2\u6642\u9593"_s,
+				u"パプアニューギニア時間"_s,
 				"PGT"_s,
-				u"\u30d1\u30d7\u30a2\u30cb\u30e5\u30fc\u30ae\u30cb\u30a2\u590f\u6642\u9593"_s,
+				u"パプアニューギニア夏時間"_s,
 				"PGST"_s,
-				u"\u30d1\u30d7\u30a2\u30cb\u30e5\u30fc\u30ae\u30cb\u30a2\u6642\u9593"_s,
+				u"パプアニューギニア時間"_s,
 				"PGT"_s
 			}))
 		}),
 		$$new($ObjectArray, {
 			$of("Pacific/Rarotonga"_s),
 			$of($$new($StringArray, {
-				u"\u30af\u30c3\u30af\u8af8\u5cf6\u6642\u9593"_s,
+				u"クック諸島時間"_s,
 				"CKT"_s,
-				u"\u30af\u30c3\u30af\u8af8\u5cf6\u590f\u6642\u9593"_s,
+				u"クック諸島夏時間"_s,
 				"CKHST"_s,
-				u"\u30af\u30c3\u30af\u8af8\u5cf6\u6642\u9593"_s,
+				u"クック諸島時間"_s,
 				"CKT"_s
 			}))
 		}),
@@ -3462,33 +3462,33 @@ $ObjectArray2* TimeZoneNames_ja::getContents() {
 		$$new($ObjectArray, {
 			$of("Pacific/Tahiti"_s),
 			$of($$new($StringArray, {
-				u"\u30bf\u30d2\u30c1\u6642\u9593"_s,
+				u"タヒチ時間"_s,
 				"TAHT"_s,
-				u"\u30bf\u30d2\u30c1\u590f\u6642\u9593"_s,
+				u"タヒチ夏時間"_s,
 				"TAHST"_s,
-				u"\u30bf\u30d2\u30c1\u6642\u9593"_s,
+				u"タヒチ時間"_s,
 				"TAHT"_s
 			}))
 		}),
 		$$new($ObjectArray, {
 			$of("Pacific/Tarawa"_s),
 			$of($$new($StringArray, {
-				u"\u30ae\u30eb\u30d0\u30fc\u30c8\u8af8\u5cf6\u6642\u9593"_s,
+				u"ギルバート諸島時間"_s,
 				"GILT"_s,
-				u"\u30ae\u30eb\u30d0\u30fc\u30c8\u8af8\u5cf6\u590f\u6642\u9593"_s,
+				u"ギルバート諸島夏時間"_s,
 				"GILST"_s,
-				u"\u30ae\u30eb\u30d0\u30fc\u30c8\u8af8\u5cf6\u6642\u9593"_s,
+				u"ギルバート諸島時間"_s,
 				"GILT"_s
 			}))
 		}),
 		$$new($ObjectArray, {
 			$of("Pacific/Tongatapu"_s),
 			$of($$new($StringArray, {
-				u"\u30c8\u30f3\u30ac\u6642\u9593"_s,
+				u"トンガ時間"_s,
 				"TOT"_s,
-				u"\u30c8\u30f3\u30ac\u590f\u6642\u9593"_s,
+				u"トンガ夏時間"_s,
 				"TOST"_s,
-				u"\u30c8\u30f3\u30ac\u6642\u9593"_s,
+				u"トンガ時間"_s,
 				"TOT"_s
 			}))
 		}),
@@ -3499,22 +3499,22 @@ $ObjectArray2* TimeZoneNames_ja::getContents() {
 		$$new($ObjectArray, {
 			$of("Pacific/Wake"_s),
 			$of($$new($StringArray, {
-				u"\u30a6\u30a7\u30fc\u30af\u6642\u9593"_s,
+				u"ウェーク時間"_s,
 				"WAKT"_s,
-				u"\u30a6\u30a7\u30fc\u30af\u590f\u6642\u9593"_s,
+				u"ウェーク夏時間"_s,
 				"WAKST"_s,
-				u"\u30a6\u30a7\u30fc\u30af\u6642\u9593"_s,
+				u"ウェーク時間"_s,
 				"WAKT"_s
 			}))
 		}),
 		$$new($ObjectArray, {
 			$of("Pacific/Wallis"_s),
 			$of($$new($StringArray, {
-				u"\u30ef\u30ea\u30b9\u53ca\u3073\u30d5\u30c4\u30ca\u6642\u9593"_s,
+				u"ワリス及びフツナ時間"_s,
 				"WFT"_s,
-				u"\u30ef\u30ea\u30b9\u53ca\u3073\u30d5\u30c4\u30ca\u590f\u6642\u9593"_s,
+				u"ワリス及びフツナ夏時間"_s,
 				"WFST"_s,
-				u"\u30a6\u30a9\u30ea\u30b9\u30fb\u30d5\u30c4\u30ca\u6642\u9593"_s,
+				u"ウォリス・フツナ時間"_s,
 				"WFT"_s
 			}))
 		}),

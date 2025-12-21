@@ -50,11 +50,11 @@ $ObjectArray2* TimeZoneNames_lrc::getContents() {
 		""_s
 	}));
 	$var($StringArray, America_Central, $new($StringArray, {
-		u"\u06af\u0627\u065b\u062a \u0645\u06cc\u0646\u062c\u0627\u065b\u06cc\u06cc \u0626\u0633\u062a\u0627\u065b\u0646\u062f\u0627\u065b\u0631\u062f"_s,
+		u"گاٛت مینجاٛیی ئستاٛنداٛرد"_s,
 		""_s,
-		u"\u0631\u0648\u0659\u0634\u0646\u0627\u06cc\u06cc \u0646\u0626\u0647\u0627\u062f\u0627\u0631 \u0631\u0648\u0659\u0632"_s,
+		u"روٙشنایی نئهادار روٙز"_s,
 		""_s,
-		u"\u06af\u0627\u065b\u062a \u0645\u06cc\u0646\u062c\u0627\u065b\u06cc\u06cc"_s,
+		u"گاٛت مینجاٛیی"_s,
 		""_s
 	}));
 	$var($ObjectArray2, data, $new($ObjectArray2, {
@@ -172,7 +172,7 @@ $ObjectArray2* TimeZoneNames_lrc::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Etc/Unknown"_s),
-			$of(u"\u0646\u0627\u062f\u06cc\u0627\u0631"_s)
+			$of(u"نادیار"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("America/North_Dakota/New_Salem"_s),

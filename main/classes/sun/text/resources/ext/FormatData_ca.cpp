@@ -44,14 +44,14 @@ $ObjectArray2* FormatData_ca::getContents() {
 			$of($$new($StringArray, {
 				"de gener"_s,
 				"de febrer"_s,
-				u"de mar\u00e7"_s,
-				u"d\u2019abril"_s,
+				u"de març"_s,
+				u"d’abril"_s,
 				"de maig"_s,
 				"de juny"_s,
 				"de juliol"_s,
-				u"d\u2019agost"_s,
+				u"d’agost"_s,
 				"de setembre"_s,
-				u"d\u2019octubre"_s,
+				u"d’octubre"_s,
 				"de novembre"_s,
 				"de desembre"_s,
 				""_s
@@ -80,7 +80,7 @@ $ObjectArray2* FormatData_ca::getContents() {
 			$of($$new($StringArray, {
 				"gener"_s,
 				"febrer"_s,
-				u"mar\u00e7"_s,
+				u"març"_s,
 				"abril"_s,
 				"maig"_s,
 				"juny"_s,
@@ -98,14 +98,14 @@ $ObjectArray2* FormatData_ca::getContents() {
 			$of($$new($StringArray, {
 				"de gen."_s,
 				"de febr."_s,
-				u"de mar\u00e7"_s,
-				u"d\u2019abr."_s,
+				u"de març"_s,
+				u"d’abr."_s,
 				"de maig"_s,
 				"de juny"_s,
 				"de jul."_s,
-				u"d\u2019ag."_s,
+				u"d’ag."_s,
 				"de set."_s,
-				u"d\u2019oct."_s,
+				u"d’oct."_s,
 				"de nov."_s,
 				"de des."_s,
 				""_s
@@ -116,7 +116,7 @@ $ObjectArray2* FormatData_ca::getContents() {
 			$of($$new($StringArray, {
 				"gen."_s,
 				"feb."_s,
-				u"mar\u00e7"_s,
+				u"març"_s,
 				"abr."_s,
 				"maig"_s,
 				"juny"_s,
@@ -237,9 +237,9 @@ $ObjectArray2* FormatData_ca::getContents() {
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
-				u"\ufffd"_s
+				u"‰"_s,
+				u"∞"_s,
+				u"�"_s
 			}))
 		}),
 		$$new($ObjectArray, {

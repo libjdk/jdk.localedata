@@ -50,17 +50,17 @@ $ObjectArray2* FormatData_es_AR::getContents() {
 	}));
 	$var($StringArray, metaValue_QuarterNames, $new($StringArray, {
 		"1.er trimestre"_s,
-		u"2.\u00ba trimestre"_s,
+		u"2.º trimestre"_s,
 		"3.er trimestre"_s,
-		u"4.\u00ba trimestre"_s
+		u"4.º trimestre"_s
 	}));
 	$var($StringArray, metaValue_AmPmMarkers, $new($StringArray, {
-		u"a.\u00a0m."_s,
-		u"p.\u00a0m."_s,
+		u"a. m."_s,
+		u"p. m."_s,
 		""_s,
-		u"mediod\u00eda"_s,
+		u"mediodía"_s,
 		"madrugada"_s,
-		u"ma\u00f1ana"_s,
+		u"mañana"_s,
 		""_s,
 		""_s,
 		"tarde"_s,
@@ -144,8 +144,8 @@ $ObjectArray2* FormatData_es_AR::getContents() {
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
+				u"‰"_s,
+				u"∞"_s,
 				"NaN"_s,
 				""_s,
 				""_s
@@ -159,9 +159,9 @@ $ObjectArray2* FormatData_es_AR::getContents() {
 			$of("latn.NumberPatterns"_s),
 			$of($$new($StringArray, {
 				"#,##0.###"_s,
-				u"\u00a4\u00a0#,##0.00"_s,
-				u"#,##0\u00a0%"_s,
-				u"\u00a4\u00a0#,##0.00;(\u00a4\u00a0#,##0.00)"_s
+				u"¤ #,##0.00"_s,
+				u"#,##0 %"_s,
+				u"¤ #,##0.00;(¤ #,##0.00)"_s
 			}))
 		}),
 		$$new($ObjectArray, {

@@ -46,7 +46,7 @@ $ObjectArray2* FormatData_ro_MD::getContents() {
 		"Mie"_s,
 		"Joi"_s,
 		"Vin"_s,
-		u"S\u00e2m"_s
+		u"Sâm"_s
 	}));
 	$var($StringArray, metaValue_DayNarrows, $new($StringArray, {
 		"D"_s,
@@ -72,11 +72,11 @@ $ObjectArray2* FormatData_ro_MD::getContents() {
 	$var($StringArray, metaValue_AmPmMarkers, $new($StringArray, {
 		"a.m."_s,
 		"p.m."_s,
-		u"miezul nop\u021bii"_s,
-		u"amiaz\u0103"_s,
-		u"diminea\u021ba"_s,
+		u"miezul nopții"_s,
+		u"amiază"_s,
+		u"dimineața"_s,
 		""_s,
-		u"dup\u0103-amiaza"_s,
+		u"după-amiaza"_s,
 		""_s,
 		"seara"_s,
 		""_s,
@@ -86,13 +86,13 @@ $ObjectArray2* FormatData_ro_MD::getContents() {
 	$var($StringArray, metaValue_narrow_AmPmMarkers, $new($StringArray, {
 		"a.m."_s,
 		"p.m."_s,
-		u"miezul nop\u021bii"_s,
-		u"amiaz\u0103"_s,
-		u"diminea\u021b\u0103"_s,
+		u"miezul nopții"_s,
+		u"amiază"_s,
+		u"dimineață"_s,
 		""_s,
-		u"dup\u0103-amiaz\u0103"_s,
+		u"după-amiază"_s,
 		""_s,
-		u"sear\u0103"_s,
+		u"seară"_s,
 		""_s,
 		"noapte"_s,
 		""_s

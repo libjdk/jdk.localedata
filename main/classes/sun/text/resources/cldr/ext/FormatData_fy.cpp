@@ -171,7 +171,7 @@ $ObjectArray2* FormatData_fy::getContents() {
 	}));
 	$var($StringArray, metaValue_java_time_islamic_long_Eras, $new($StringArray, {
 		""_s,
-		u"Sa\u02bbna Hizjria"_s
+		u"Saʻna Hizjria"_s
 	}));
 	$var($String, metaValue_calendarname_gregorian, "Gregoriaanske kalinder"_s);
 	$var($ObjectArray2, data, $new($ObjectArray2, {
@@ -297,8 +297,8 @@ $ObjectArray2* FormatData_fy::getContents() {
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
+				u"‰"_s,
+				u"∞"_s,
 				"NaN"_s,
 				""_s,
 				""_s
@@ -318,7 +318,7 @@ $ObjectArray2* FormatData_fy::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.minute"_s),
-			$of(u"Min\u00fat"_s)
+			$of(u"Minút"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("field.era"_s),
@@ -341,15 +341,15 @@ $ObjectArray2* FormatData_fy::getContents() {
 			$of($$new($StringArray, {
 				"Moeharram"_s,
 				"Safar"_s,
-				u"Rabi\u02bba al awal"_s,
-				u"Rabi\u02bba al thani"_s,
-				u"Joemad\u02bbal awal"_s,
-				u"Joemad\u02bbal thani"_s,
+				u"Rabiʻa al awal"_s,
+				u"Rabiʻa al thani"_s,
+				u"Joemadʻal awal"_s,
+				u"Joemadʻal thani"_s,
 				"Rajab"_s,
-				u"Sja\u02bbaban"_s,
+				u"Sjaʻaban"_s,
 				"Ramadan"_s,
 				"Sjawal"_s,
-				u"Doe al ka\u02bbaba"_s,
+				u"Doe al kaʻaba"_s,
 				"Doe al hizja"_s,
 				""_s
 			}))
@@ -428,9 +428,9 @@ $ObjectArray2* FormatData_fy::getContents() {
 				""_s,
 				""_s,
 				""_s,
-				u"{one:0\' \'t\u00fbzen other:0\' \'t\u00fbzen}"_s,
-				u"{one:00\' \'t\u00fbzen other:00\' \'t\u00fbzen}"_s,
-				u"{one:000\' \'t\u00fbzen other:000\' \'t\u00fbzen}"_s,
+				u"{one:0\' \'tûzen other:0\' \'tûzen}"_s,
+				u"{one:00\' \'tûzen other:00\' \'tûzen}"_s,
+				u"{one:000\' \'tûzen other:000\' \'tûzen}"_s,
 				"{one:0\' \'miljoen other:0\' \'miljoen}"_s,
 				"{one:00\' \'miljoen other:00\' \'miljoen}"_s,
 				"{one:000\' \'miljoen other:000\' \'miljoen}"_s,
@@ -618,15 +618,15 @@ $ObjectArray2* FormatData_fy::getContents() {
 				"{one:0K other:0K}"_s,
 				"{one:00K other:00K}"_s,
 				"{one:000K other:000K}"_s,
-				u"{one:0\u00a0mln\'.\' other:0\u00a0mln\'.\'}"_s,
-				u"{one:00\u00a0mln\'.\' other:00\u00a0mln\'.\'}"_s,
-				u"{one:000\u00a0mln\'.\' other:000\u00a0mln\'.\'}"_s,
-				u"{one:0\u00a0mld\'.\' other:0\u00a0mld\'.\'}"_s,
-				u"{one:00\u00a0mld\'.\' other:00\u00a0mld\'.\'}"_s,
-				u"{one:000\u00a0mld\'.\' other:000\u00a0mld\'.\'}"_s,
-				u"{one:0\u00a0bln\'.\' other:0\u00a0bln\'.\'}"_s,
-				u"{one:00\u00a0bln\'.\' other:00\u00a0bln\'.\'}"_s,
-				u"{one:000\u00a0bln\'.\' other:000\u00a0bln\'.\'}"_s
+				u"{one:0 mln\'.\' other:0 mln\'.\'}"_s,
+				u"{one:00 mln\'.\' other:00 mln\'.\'}"_s,
+				u"{one:000 mln\'.\' other:000 mln\'.\'}"_s,
+				u"{one:0 mld\'.\' other:0 mld\'.\'}"_s,
+				u"{one:00 mld\'.\' other:00 mld\'.\'}"_s,
+				u"{one:000 mld\'.\' other:000 mld\'.\'}"_s,
+				u"{one:0 bln\'.\' other:0 bln\'.\'}"_s,
+				u"{one:00 bln\'.\' other:00 bln\'.\'}"_s,
+				u"{one:000 bln\'.\' other:000 bln\'.\'}"_s
 			}))
 		}),
 		$$new($ObjectArray, {
@@ -717,9 +717,9 @@ $ObjectArray2* FormatData_fy::getContents() {
 			$of("latn.NumberPatterns"_s),
 			$of($$new($StringArray, {
 				"#,##0.###"_s,
-				u"\u00a4\u00a0#,##0.00;\u00a4\u00a0#,##0.00-"_s,
+				u"¤ #,##0.00;¤ #,##0.00-"_s,
 				"#,##0%"_s,
-				u"\u00a4\u00a0#,##0.00;(\u00a4\u00a0#,##0.00)"_s
+				u"¤ #,##0.00;(¤ #,##0.00)"_s
 			}))
 		}),
 		$$new($ObjectArray, {

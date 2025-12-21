@@ -55,7 +55,7 @@ $ObjectArray2* LocaleNames_lu::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("pt"_s),
-			$of(u"Mputulug\u025bsi"_s)
+			$of(u"Mputulugɛsi"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("PW"_s),
@@ -319,7 +319,7 @@ $ObjectArray2* LocaleNames_lu::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ST"_s),
-			$of(u"Sao Tome ne Presip\u025b"_s)
+			$of(u"Sao Tome ne Presipɛ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("CF"_s),
@@ -355,7 +355,7 @@ $ObjectArray2* LocaleNames_lu::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("CK"_s),
-			$of(u"Lutanda lua Kook\u025b"_s)
+			$of(u"Lutanda lua Kookɛ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("CL"_s),
@@ -619,7 +619,7 @@ $ObjectArray2* LocaleNames_lu::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("fr"_s),
-			$of(u"Mfw\u00e0l\u00e0nsa"_s)
+			$of(u"Mfwàlànsa"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("WF"_s),
@@ -767,7 +767,7 @@ $ObjectArray2* LocaleNames_lu::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ZA"_s),
-			$of(u"Afrika ya S\u00fadi"_s)
+			$of(u"Afrika ya Súdi"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("IQ"_s),
@@ -791,7 +791,7 @@ $ObjectArray2* LocaleNames_lu::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("zh"_s),
-			$of(u"shin\u025b"_s)
+			$of(u"shinɛ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ZM"_s),
@@ -847,7 +847,7 @@ $ObjectArray2* LocaleNames_lu::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("KN"_s),
-			$of(u"Santu kr\u00edstofe ne Neves"_s)
+			$of(u"Santu krístofe ne Neves"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ko"_s),
@@ -1031,7 +1031,7 @@ $ObjectArray2* LocaleNames_lu::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("NL"_s),
-			$of(u"Oland\u025b"_s)
+			$of(u"Olandɛ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("nl"_s),
@@ -1043,7 +1043,7 @@ $ObjectArray2* LocaleNames_lu::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("NP"_s),
-			$of(u"Nep\u00e1l\u025b"_s)
+			$of(u"Nepálɛ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("NR"_s),
@@ -1079,7 +1079,7 @@ $ObjectArray2* LocaleNames_lu::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("PG"_s),
-			$of(u"Papwazi wa Ngin\u025b wa mumu"_s)
+			$of(u"Papwazi wa Nginɛ wa mumu"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("PH"_s),
@@ -1099,7 +1099,7 @@ $ObjectArray2* LocaleNames_lu::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("PM"_s),
-			$of(u"Santu p\u00e9t\u00e9to ne Mikelu"_s)
+			$of(u"Santu pététo ne Mikelu"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("PN"_s),

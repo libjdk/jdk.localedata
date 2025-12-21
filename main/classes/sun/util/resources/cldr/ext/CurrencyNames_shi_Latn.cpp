@@ -54,7 +54,7 @@ $ObjectArray2* CurrencyNames_shi_Latn::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("bhd"_s),
-			$of(u"adinar n b\u1e25rayn"_s)
+			$of(u"adinar n bḥrayn"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bif"_s),
@@ -94,7 +94,7 @@ $ObjectArray2* CurrencyNames_shi_Latn::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("egp"_s),
-			$of(u"ajnih n mi\u1e63\u1e5b"_s)
+			$of(u"ajnih n miṣṛ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ern"_s),
@@ -114,7 +114,7 @@ $ObjectArray2* CurrencyNames_shi_Latn::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ghc"_s),
-			$of(u"sidi n \u0263ana"_s)
+			$of(u"sidi n ɣana"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gmd"_s),
@@ -122,7 +122,7 @@ $ObjectArray2* CurrencyNames_shi_Latn::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("gns"_s),
-			$of(u"frank n \u0263inya"_s)
+			$of(u"frank n ɣinya"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("inr"_s),
@@ -138,7 +138,7 @@ $ObjectArray2* CurrencyNames_shi_Latn::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("kmf"_s),
-			$of(u"frank n qumu\u1e5b"_s)
+			$of(u"frank n qumuṛ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lrd"_s),
@@ -146,7 +146,7 @@ $ObjectArray2* CurrencyNames_shi_Latn::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("lsl"_s),
-			$of(u"luti n li\u1e63u\u1e6du"_s)
+			$of(u"luti n liṣuṭu"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lyd"_s),
@@ -154,19 +154,19 @@ $ObjectArray2* CurrencyNames_shi_Latn::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("mad"_s),
-			$of(u"adrim n lm\u0263rib"_s)
+			$of(u"adrim n lmɣrib"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mga"_s),
-			$of(u"frank n mada\u0263acqar"_s)
+			$of(u"frank n madaɣacqar"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mro"_s),
-			$of(u"uqiyya n mu\u1e5bi\u1e6danya (1973\u20132017)"_s)
+			$of(u"uqiyya n muṛiṭanya (1973–2017)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mru"_s),
-			$of(u"uqiyya n mu\u1e5bi\u1e6danya"_s)
+			$of(u"uqiyya n muṛiṭanya"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mur"_s),
@@ -194,7 +194,7 @@ $ObjectArray2* CurrencyNames_shi_Latn::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("sar"_s),
-			$of(u"aryal n ssa\u025budiya"_s)
+			$of(u"aryal n ssaɛudiya"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("scr"_s),
@@ -218,15 +218,15 @@ $ObjectArray2* CurrencyNames_shi_Latn::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("sos"_s),
-			$of(u"acilin n \u1e63\u1e63umal"_s)
+			$of(u"acilin n ṣṣumal"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("std"_s),
-			$of(u"adubra n san\u1e6dumi (1977\u20132017)"_s)
+			$of(u"adubra n sanṭumi (1977–2017)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("stn"_s),
-			$of(u"adubra n san\u1e6dumi"_s)
+			$of(u"adubra n sanṭumi"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("szl"_s),
@@ -238,11 +238,11 @@ $ObjectArray2* CurrencyNames_shi_Latn::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("tzs"_s),
-			$of(u"acilin n \u1e6dan\u1e93anya"_s)
+			$of(u"acilin n ṭanẓanya"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ugx"_s),
-			$of(u"acilin n u\u0263anda"_s)
+			$of(u"acilin n uɣanda"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("usd"_s),
@@ -250,11 +250,11 @@ $ObjectArray2* CurrencyNames_shi_Latn::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("xaf"_s),
-			$of(u"frank \u1e63ifa"_s)
+			$of(u"frank ṣifa"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xof"_s),
-			$of(u"frank \u1e63ifa bisaw"_s)
+			$of(u"frank ṣifa bisaw"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("zar"_s),
@@ -262,7 +262,7 @@ $ObjectArray2* CurrencyNames_shi_Latn::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("zmk"_s),
-			$of(u"akwaca n zambya (1968\u20132012)"_s)
+			$of(u"akwaca n zambya (1968–2012)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("zmw"_s),

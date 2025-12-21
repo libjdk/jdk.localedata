@@ -39,7 +39,7 @@ void CurrencyNames_ar_BH::init$() {
 $ObjectArray2* CurrencyNames_ar_BH::getContents() {
 	return $new($ObjectArray2, {$$new($ObjectArray, {
 		$of("BHD"_s),
-		$of(u"\u062f.\u0628.\u200f"_s)
+		$of(u"د.ب.\u200f"_s)
 	})});
 }
 

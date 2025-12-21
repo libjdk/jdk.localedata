@@ -79,7 +79,7 @@ $ObjectArray2* FormatData_no_NO_NY::getContents() {
 			$of("DayNames"_s),
 			$of($$new($StringArray, {
 				"sundag"_s,
-				u"m\u00e5ndag"_s,
+				u"måndag"_s,
 				"tysdag"_s,
 				"onsdag"_s,
 				"torsdag"_s,
@@ -91,7 +91,7 @@ $ObjectArray2* FormatData_no_NO_NY::getContents() {
 			$of("DayAbbreviations"_s),
 			$of($$new($StringArray, {
 				"su"_s,
-				u"m\u00e5"_s,
+				u"må"_s,
 				"ty"_s,
 				"on"_s,
 				"to"_s,
@@ -103,16 +103,16 @@ $ObjectArray2* FormatData_no_NO_NY::getContents() {
 			$of("NumberElements"_s),
 			$of($$new($StringArray, {
 				","_s,
-				u"\u00a0"_s,
+				u" "_s,
 				";"_s,
 				"%"_s,
 				"0"_s,
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
-				u"\ufffd"_s
+				u"‰"_s,
+				u"∞"_s,
+				u"�"_s
 			}))
 		}),
 		$$new($ObjectArray, {

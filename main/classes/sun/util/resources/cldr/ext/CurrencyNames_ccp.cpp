@@ -86,7 +86,7 @@ $ObjectArray2* CurrencyNames_ccp::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("BDT"_s),
-			$of(u"\u09f3"_s)
+			$of(u"৳"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("BGN"_s),
@@ -518,7 +518,7 @@ $ObjectArray2* CurrencyNames_ccp::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("THB"_s),
-			$of(u"\u0e3f"_s)
+			$of(u"฿"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("TJS"_s),

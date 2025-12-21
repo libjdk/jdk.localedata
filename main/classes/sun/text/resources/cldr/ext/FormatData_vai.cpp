@@ -40,43 +40,43 @@ void FormatData_vai::init$() {
 $ObjectArray2* FormatData_vai::getContents() {
 	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_MonthNames, $new($StringArray, {
-		u"\ua5a8\ua595 \ua56a\ua574 \ua51e\ua500\ua56e\ua54a"_s,
-		u"\ua552\ua561\ua59d\ua595"_s,
-		u"\ua57e\ua5ba"_s,
-		u"\ua5a2\ua595"_s,
-		u"\ua591\ua571"_s,
-		u"\ua5b1\ua60b"_s,
-		u"\ua5b1\ua55e\ua524"_s,
-		u"\ua5db\ua515"_s,
-		u"\ua562\ua54c"_s,
-		u"\ua56d\ua583"_s,
-		u"\ua51e\ua60b\ua554\ua57f \ua578\ua583\ua5cf"_s,
-		u"\ua5a8\ua595 \ua56a\ua574 \ua5cf\ua5ba\ua56e\ua54a"_s,
+		u"ꖨꖕ ꕪꕴ ꔞꔀꕮꕊ"_s,
+		u"ꕒꕡꖝꖕ"_s,
+		u"ꕾꖺ"_s,
+		u"ꖢꖕ"_s,
+		u"ꖑꕱ"_s,
+		u"ꖱꘋ"_s,
+		u"ꖱꕞꔤ"_s,
+		u"ꗛꔕ"_s,
+		u"ꕢꕌ"_s,
+		u"ꕭꖃ"_s,
+		u"ꔞꘋꕔꕿ ꕸꖃꗏ"_s,
+		u"ꖨꖕ ꕪꕴ ꗏꖺꕮꕊ"_s,
 		""_s
 	}));
 	$var($StringArray, metaValue_MonthAbbreviations, $new($StringArray, {
-		u"\ua5a8\ua595\ua51e"_s,
-		u"\ua552\ua561"_s,
-		u"\ua57e\ua5ba"_s,
-		u"\ua5a2\ua595"_s,
-		u"\ua591\ua571"_s,
-		u"\ua5b1\ua60b"_s,
-		u"\ua5b1\ua55e"_s,
-		u"\ua5db\ua515"_s,
-		u"\ua562\ua54c"_s,
-		u"\ua56d\ua583"_s,
-		u"\ua51e\ua60b"_s,
-		u"\ua5a8\ua595\ua5cf"_s,
+		u"ꖨꖕꔞ"_s,
+		u"ꕒꕡ"_s,
+		u"ꕾꖺ"_s,
+		u"ꖢꖕ"_s,
+		u"ꖑꕱ"_s,
+		u"ꖱꘋ"_s,
+		u"ꖱꕞ"_s,
+		u"ꗛꔕ"_s,
+		u"ꕢꕌ"_s,
+		u"ꕭꖃ"_s,
+		u"ꔞꘋ"_s,
+		u"ꖨꖕꗏ"_s,
 		""_s
 	}));
 	$var($StringArray, metaValue_DayNames, $new($StringArray, {
-		u"\ua55e\ua54c\ua535"_s,
-		u"\ua5f3\ua5e1\ua609"_s,
-		u"\ua55a\ua55e\ua55a"_s,
-		u"\ua549\ua55e\ua552"_s,
-		u"\ua549\ua524\ua546\ua562"_s,
-		u"\ua549\ua524\ua540\ua56e"_s,
-		u"\ua53b\ua52c\ua533"_s
+		u"ꕞꕌꔵ"_s,
+		u"ꗳꗡꘉ"_s,
+		u"ꕚꕞꕚ"_s,
+		u"ꕉꕞꕒ"_s,
+		u"ꕉꔤꕆꕢ"_s,
+		u"ꕉꔤꕀꕮ"_s,
+		u"ꔻꔬꔳ"_s
 	}));
 	$var($StringArray, metaValue_TimePatterns, $new($StringArray, {
 		"h:mm:ss a zzzz"_s,
@@ -103,7 +103,7 @@ $ObjectArray2* FormatData_vai::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.year"_s),
-			$of(u"\ua562\ua60b"_s)
+			$of(u"ꕢꘋ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("java.time.japanese.DatePatterns"_s),
@@ -131,7 +131,7 @@ $ObjectArray2* FormatData_vai::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.month"_s),
-			$of(u"\ua56a\ua583"_s)
+			$of(u"ꕪꖃ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("buddhist.DatePatterns"_s),
@@ -139,7 +139,7 @@ $ObjectArray2* FormatData_vai::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.second"_s),
-			$of(u"\ua567\ua543\ua567\ua56a"_s)
+			$of(u"ꕧꕃꕧꕪ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("roc.MonthNames"_s),
@@ -151,7 +151,7 @@ $ObjectArray2* FormatData_vai::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.week"_s),
-			$of(u"\ua528\ua524\ua543"_s)
+			$of(u"ꔨꔤꕃ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("DayAbbreviations"_s),
@@ -212,7 +212,7 @@ $ObjectArray2* FormatData_vai::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.weekday"_s),
-			$of(u"\ua528\ua543\ua56e \ua50e\ua512"_s)
+			$of(u"ꔨꕃꕮ ꔎꔒ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("islamic.TimePatterns"_s),
@@ -241,8 +241,8 @@ $ObjectArray2* FormatData_vai::getContents() {
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
+				u"‰"_s,
+				u"∞"_s,
 				"NaN"_s,
 				""_s,
 				""_s
@@ -250,7 +250,7 @@ $ObjectArray2* FormatData_vai::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.hour"_s),
-			$of(u"\ua54c\ua54e"_s)
+			$of(u"ꕌꕎ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("japanese.DatePatterns"_s),
@@ -270,7 +270,7 @@ $ObjectArray2* FormatData_vai::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.minute"_s),
-			$of(u"\ua546\ua547"_s)
+			$of(u"ꕆꕇ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("standalone.MonthNames"_s),
@@ -288,9 +288,9 @@ $ObjectArray2* FormatData_vai::getContents() {
 			$of("latn.NumberPatterns"_s),
 			$of($$new($StringArray, {
 				"#,##0.###"_s,
-				u"\u00a4#,##0.00"_s,
+				u"¤#,##0.00"_s,
 				"#,##0%"_s,
-				u"\u00a4#,##0.00;(\u00a4#,##0.00)"_s
+				u"¤#,##0.00;(¤#,##0.00)"_s
 			}))
 		}),
 		$$new($ObjectArray, {

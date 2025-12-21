@@ -41,7 +41,7 @@ $ObjectArray2* LocaleNames_mt::getContents() {
 	return $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("AE"_s),
-			$of(u"Emirati G\u0127arab Maqg\u0127uda"_s)
+			$of(u"Emirati Għarab Maqgħuda"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("AF"_s),
@@ -61,7 +61,7 @@ $ObjectArray2* LocaleNames_mt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("AN"_s),
-			$of(u"Antilles Olandi\u017ci"_s)
+			$of(u"Antilles Olandiżi"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("AQ"_s),
@@ -69,7 +69,7 @@ $ObjectArray2* LocaleNames_mt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("AR"_s),
-			$of(u"Ar\u0121entina"_s)
+			$of(u"Arġentina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("AS"_s),
@@ -85,11 +85,11 @@ $ObjectArray2* LocaleNames_mt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("AZ"_s),
-			$of(u"A\u017cerbaj\u0121an"_s)
+			$of(u"Ażerbajġan"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("BA"_s),
-			$of(u"Bo\u017cnija \u0126er\u017cegovina"_s)
+			$of(u"Bożnija Ħerżegovina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("BD"_s),
@@ -97,7 +97,7 @@ $ObjectArray2* LocaleNames_mt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("BE"_s),
-			$of(u"Bel\u0121ju"_s)
+			$of(u"Belġju"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("BG"_s),
@@ -105,7 +105,7 @@ $ObjectArray2* LocaleNames_mt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("BH"_s),
-			$of(u"Ba\u0127rajn"_s)
+			$of(u"Baħrajn"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("BN"_s),
@@ -117,11 +117,11 @@ $ObjectArray2* LocaleNames_mt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("BR"_s),
-			$of(u"Bra\u017cil"_s)
+			$of(u"Brażil"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("BS"_s),
-			$of(u"Ba\u0127amas"_s)
+			$of(u"Baħamas"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("BT"_s),
@@ -133,7 +133,7 @@ $ObjectArray2* LocaleNames_mt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("BZ"_s),
-			$of(u"Beli\u017ce"_s)
+			$of(u"Beliże"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("CA"_s),
@@ -149,7 +149,7 @@ $ObjectArray2* LocaleNames_mt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("CF"_s),
-			$of(u"Repubblika Afrikana \u010aentrali"_s)
+			$of(u"Repubblika Afrikana Ċentrali"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("CG"_s),
@@ -161,11 +161,11 @@ $ObjectArray2* LocaleNames_mt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("CI"_s),
-			$of(u"Kosta ta\u2019 l-Avorju"_s)
+			$of(u"Kosta ta’ l-Avorju"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("CL"_s),
-			$of(u"\u010aili"_s)
+			$of(u"Ċili"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("CM"_s),
@@ -173,7 +173,7 @@ $ObjectArray2* LocaleNames_mt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("CN"_s),
-			$of(u"\u010aina"_s)
+			$of(u"Ċina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("CO"_s),
@@ -197,19 +197,19 @@ $ObjectArray2* LocaleNames_mt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("CY"_s),
-			$of(u"\u010aipru"_s)
+			$of(u"Ċipru"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("CZ"_s),
-			$of(u"Repubblika \u010aeka"_s)
+			$of(u"Repubblika Ċeka"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("DE"_s),
-			$of(u"\u0120ermanja"_s)
+			$of(u"Ġermanja"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("DJ"_s),
-			$of(u"\u0120ibuti"_s)
+			$of(u"Ġibuti"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("DK"_s),
@@ -225,7 +225,7 @@ $ObjectArray2* LocaleNames_mt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("DZ"_s),
-			$of(u"Al\u0121erija"_s)
+			$of(u"Alġerija"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("EC"_s),
@@ -237,7 +237,7 @@ $ObjectArray2* LocaleNames_mt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("EG"_s),
-			$of(u"E\u0121ittu"_s)
+			$of(u"Eġittu"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("EH"_s),
@@ -261,7 +261,7 @@ $ObjectArray2* LocaleNames_mt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("FJ"_s),
-			$of(u"Fi\u0121i"_s)
+			$of(u"Fiġi"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("FM"_s),
@@ -269,7 +269,7 @@ $ObjectArray2* LocaleNames_mt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("FO"_s),
-			$of(u"G\u017cejjer Faroe"_s)
+			$of(u"Gżejjer Faroe"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("FR"_s),
@@ -281,11 +281,11 @@ $ObjectArray2* LocaleNames_mt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("GE"_s),
-			$of(u"\u0120or\u0121ja"_s)
+			$of(u"Ġorġja"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("GF"_s),
-			$of(u"Gujana Fran\u010bi\u017ca"_s)
+			$of(u"Gujana Franċiża"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("GH"_s),
@@ -313,7 +313,7 @@ $ObjectArray2* LocaleNames_mt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("GR"_s),
-			$of(u"Gre\u010bja"_s)
+			$of(u"Greċja"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("GS"_s),
@@ -337,7 +337,7 @@ $ObjectArray2* LocaleNames_mt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("HK"_s),
-			$of(u"\u0126ong Kong S.A.R., \u010aina"_s)
+			$of(u"Ħong Kong S.A.R., Ċina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("HM"_s),
@@ -345,7 +345,7 @@ $ObjectArray2* LocaleNames_mt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("HN"_s),
-			$of(u"\u0126onduras"_s)
+			$of(u"Ħonduras"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("HR"_s),
@@ -353,7 +353,7 @@ $ObjectArray2* LocaleNames_mt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("HT"_s),
-			$of(u"\u0126aiti"_s)
+			$of(u"Ħaiti"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("HU"_s),
@@ -361,7 +361,7 @@ $ObjectArray2* LocaleNames_mt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ID"_s),
-			$of(u"Indone\u017cja"_s)
+			$of(u"Indoneżja"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("IE"_s),
@@ -369,7 +369,7 @@ $ObjectArray2* LocaleNames_mt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("IL"_s),
-			$of(u"I\u017crael"_s)
+			$of(u"Iżrael"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("IN"_s),
@@ -385,15 +385,15 @@ $ObjectArray2* LocaleNames_mt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("JM"_s),
-			$of(u"\u0120amajka"_s)
+			$of(u"Ġamajka"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("JO"_s),
-			$of(u"\u0120ordan"_s)
+			$of(u"Ġordan"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("JP"_s),
-			$of(u"\u0120appun"_s)
+			$of(u"Ġappun"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("KE"_s),
@@ -417,11 +417,11 @@ $ObjectArray2* LocaleNames_mt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("KP"_s),
-			$of(u"Koreja ta\u2019 Fuq"_s)
+			$of(u"Koreja ta’ Fuq"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("KR"_s),
-			$of(u"Koreja t\u2019Isfel"_s)
+			$of(u"Koreja t’Isfel"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("KW"_s),
@@ -429,7 +429,7 @@ $ObjectArray2* LocaleNames_mt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("KZ"_s),
-			$of(u"Ka\u017cakstan"_s)
+			$of(u"Każakstan"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("LB"_s),
@@ -437,7 +437,7 @@ $ObjectArray2* LocaleNames_mt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("LC"_s),
-			$of(u"Santa Lu\u010bija"_s)
+			$of(u"Santa Luċija"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("LR"_s),
@@ -481,11 +481,11 @@ $ObjectArray2* LocaleNames_mt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("MH"_s),
-			$of(u"G\u017cejjer ta\u2019 Marshall"_s)
+			$of(u"Gżejjer ta’ Marshall"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("MK"_s),
-			$of(u"Ma\u010bedonja"_s)
+			$of(u"Maċedonja"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("MM"_s),
@@ -501,7 +501,7 @@ $ObjectArray2* LocaleNames_mt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("MP"_s),
-			$of(u"G\u017cejjer Marjana ta\u2019 Fuq"_s)
+			$of(u"Gżejjer Marjana ta’ Fuq"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("MQ"_s),
@@ -525,7 +525,7 @@ $ObjectArray2* LocaleNames_mt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("MZ"_s),
-			$of(u"Mo\u017cambik"_s)
+			$of(u"Możambik"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("NA"_s),
@@ -533,11 +533,11 @@ $ObjectArray2* LocaleNames_mt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("NE"_s),
-			$of(u"Ni\u0121er"_s)
+			$of(u"Niġer"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("NG"_s),
-			$of(u"Ni\u0121erja"_s)
+			$of(u"Niġerja"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("NI"_s),
@@ -549,15 +549,15 @@ $ObjectArray2* LocaleNames_mt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("NO"_s),
-			$of(u"Norve\u0121ja"_s)
+			$of(u"Norveġja"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("PF"_s),
-			$of(u"Polinesja Fran\u010bi\u017ca"_s)
+			$of(u"Polinesja Franċiża"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("PG"_s),
-			$of(u"Papwa-Ginea \u0120dida"_s)
+			$of(u"Papwa-Ginea Ġdida"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("PH"_s),
@@ -585,7 +585,7 @@ $ObjectArray2* LocaleNames_mt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("RE"_s),
-			$of(u"R\u00e9union"_s)
+			$of(u"Réunion"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("RO"_s),
@@ -597,11 +597,11 @@ $ObjectArray2* LocaleNames_mt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("SA"_s),
-			$of(u"G\u0127arabja Sawdita"_s)
+			$of(u"Għarabja Sawdita"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("SE"_s),
-			$of(u"\u017bvezja"_s)
+			$of(u"Żvezja"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("SG"_s),
@@ -637,7 +637,7 @@ $ObjectArray2* LocaleNames_mt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("SZ"_s),
-			$of(u"Swa\u017ciland"_s)
+			$of(u"Sważiland"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("TC"_s),
@@ -645,11 +645,11 @@ $ObjectArray2* LocaleNames_mt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("TD"_s),
-			$of(u"\u010aad"_s)
+			$of(u"Ċad"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("TF"_s),
-			$of(u"Territorji Fran\u010bi\u017ci ta\u2019 Nofsinhar"_s)
+			$of(u"Territorji Franċiżi ta’ Nofsinhar"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("TH"_s),
@@ -657,7 +657,7 @@ $ObjectArray2* LocaleNames_mt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("TJ"_s),
-			$of(u"Ta\u0121ikistan"_s)
+			$of(u"Taġikistan"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("TK"_s),
@@ -669,7 +669,7 @@ $ObjectArray2* LocaleNames_mt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("TN"_s),
-			$of(u"Tune\u017c"_s)
+			$of(u"Tuneż"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("TR"_s),
@@ -685,7 +685,7 @@ $ObjectArray2* LocaleNames_mt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("TZ"_s),
-			$of(u"Tan\u017canija"_s)
+			$of(u"Tanżanija"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("UA"_s),
@@ -701,7 +701,7 @@ $ObjectArray2* LocaleNames_mt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("UZ"_s),
-			$of(u"U\u017cbekistan"_s)
+			$of(u"Użbekistan"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("VA"_s),
@@ -737,19 +737,19 @@ $ObjectArray2* LocaleNames_mt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ZA"_s),
-			$of(u"Afrika t\u2019Isfel"_s)
+			$of(u"Afrika t’Isfel"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ZM"_s),
-			$of(u"\u017bambja"_s)
+			$of(u"Żambja"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ZW"_s),
-			$of(u"\u017bimbabwe"_s)
+			$of(u"Żimbabwe"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ab"_s),
-			$of(u"Abka\u017cjan"_s)
+			$of(u"Abkażjan"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("af"_s),
@@ -757,11 +757,11 @@ $ObjectArray2* LocaleNames_mt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("am"_s),
-			$of(u"Am\u0127ariku"_s)
+			$of(u"Amħariku"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ar"_s),
-			$of(u"G\u0127arbi"_s)
+			$of(u"Għarbi"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("av"_s),
@@ -773,7 +773,7 @@ $ObjectArray2* LocaleNames_mt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("az"_s),
-			$of(u"A\u017cerbaj\u0121ani"_s)
+			$of(u"Ażerbajġani"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ba"_s),
@@ -789,7 +789,7 @@ $ObjectArray2* LocaleNames_mt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("bh"_s),
-			$of(u"Bi\u0127ari"_s)
+			$of(u"Biħari"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bo"_s),
@@ -809,11 +809,11 @@ $ObjectArray2* LocaleNames_mt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ce"_s),
-			$of(u"\u010ae\u010ben"_s)
+			$of(u"Ċeċen"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ch"_s),
-			$of(u"\u010aamorro"_s)
+			$of(u"Ċamorro"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("co"_s),
@@ -825,7 +825,7 @@ $ObjectArray2* LocaleNames_mt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("cs"_s),
-			$of(u"\u010aek"_s)
+			$of(u"Ċek"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cu"_s),
@@ -833,7 +833,7 @@ $ObjectArray2* LocaleNames_mt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("cv"_s),
-			$of(u"\u010auvax"_s)
+			$of(u"Ċuvax"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cy"_s),
@@ -841,19 +841,19 @@ $ObjectArray2* LocaleNames_mt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("da"_s),
-			$of(u"Dani\u017c"_s)
+			$of(u"Daniż"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("de"_s),
-			$of(u"\u0120ermani\u017c"_s)
+			$of(u"Ġermaniż"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("dv"_s),
-			$of(u"Dive\u0127i"_s)
+			$of(u"Diveħi"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("dz"_s),
-			$of(u"D\u017congka"_s)
+			$of(u"Dżongka"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("el"_s),
@@ -861,7 +861,7 @@ $ObjectArray2* LocaleNames_mt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("en"_s),
-			$of(u"Ingli\u017c"_s)
+			$of(u"Ingliż"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("es"_s),
@@ -881,35 +881,35 @@ $ObjectArray2* LocaleNames_mt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ff"_s),
-			$of(u"Fula\u0127"_s)
+			$of(u"Fulaħ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("fi"_s),
-			$of(u"Finlandi\u017c"_s)
+			$of(u"Finlandiż"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("fj"_s),
-			$of(u"Fi\u0121i"_s)
+			$of(u"Fiġi"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("fo"_s),
-			$of(u"Fawri\u017c"_s)
+			$of(u"Fawriż"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("fr"_s),
-			$of(u"Fran\u010bi\u017c"_s)
+			$of(u"Franċiż"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("fy"_s),
-			$of(u"Fri\u017cjan"_s)
+			$of(u"Friżjan"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ga"_s),
-			$of(u"Irlandi\u017c"_s)
+			$of(u"Irlandiż"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gd"_s),
-			$of(u"Galliku Sko\u010b\u010bi\u017c"_s)
+			$of(u"Galliku Skoċċiż"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gl"_s),
@@ -921,7 +921,7 @@ $ObjectArray2* LocaleNames_mt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("gu"_s),
-			$of(u"Gu\u0121arati"_s)
+			$of(u"Guġarati"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gv"_s),
@@ -929,7 +929,7 @@ $ObjectArray2* LocaleNames_mt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ha"_s),
-			$of(u"\u0126awsa"_s)
+			$of(u"Ħawsa"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("he"_s),
@@ -937,11 +937,11 @@ $ObjectArray2* LocaleNames_mt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("hi"_s),
-			$of(u"\u0126indi"_s)
+			$of(u"Ħindi"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ho"_s),
-			$of(u"\u0126iri Motu"_s)
+			$of(u"Ħiri Motu"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("hr"_s),
@@ -949,7 +949,7 @@ $ObjectArray2* LocaleNames_mt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("hu"_s),
-			$of(u"Ungeri\u017c"_s)
+			$of(u"Ungeriż"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("hy"_s),
@@ -957,11 +957,11 @@ $ObjectArray2* LocaleNames_mt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("hz"_s),
-			$of(u"\u0126erero"_s)
+			$of(u"Ħerero"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("id"_s),
-			$of(u"Indone\u017cjan"_s)
+			$of(u"Indoneżjan"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ik"_s),
@@ -969,11 +969,11 @@ $ObjectArray2* LocaleNames_mt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("in"_s),
-			$of(u"Indone\u017cjan"_s)
+			$of(u"Indoneżjan"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("is"_s),
-			$of(u"I\u017clandi\u017c"_s)
+			$of(u"Iżlandiż"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("it"_s),
@@ -989,7 +989,7 @@ $ObjectArray2* LocaleNames_mt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ja"_s),
-			$of(u"\u0120appuni\u017c"_s)
+			$of(u"Ġappuniż"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ji"_s),
@@ -997,11 +997,11 @@ $ObjectArray2* LocaleNames_mt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("jv"_s),
-			$of(u"\u0120avani\u017c"_s)
+			$of(u"Ġavaniż"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ka"_s),
-			$of(u"\u0120or\u0121jan"_s)
+			$of(u"Ġorġjan"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ki"_s),
@@ -1013,7 +1013,7 @@ $ObjectArray2* LocaleNames_mt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("kk"_s),
-			$of(u"Ka\u017cak"_s)
+			$of(u"Każak"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kl"_s),
@@ -1033,7 +1033,7 @@ $ObjectArray2* LocaleNames_mt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ku"_s),
-			$of(u"Kurdi\u017c"_s)
+			$of(u"Kurdiż"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kw"_s),
@@ -1041,11 +1041,11 @@ $ObjectArray2* LocaleNames_mt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ky"_s),
-			$of(u"Kirgi\u017c"_s)
+			$of(u"Kirgiż"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lb"_s),
-			$of(u"Let\u017cburgi\u017c"_s)
+			$of(u"Letżburgiż"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ln"_s),
@@ -1061,7 +1061,7 @@ $ObjectArray2* LocaleNames_mt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("mg"_s),
-			$of(u"Malaga\u017ci"_s)
+			$of(u"Malagażi"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mh"_s),
@@ -1069,7 +1069,7 @@ $ObjectArray2* LocaleNames_mt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("mk"_s),
-			$of(u"Ma\u010bedonjan"_s)
+			$of(u"Maċedonjan"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ml"_s),
@@ -1097,7 +1097,7 @@ $ObjectArray2* LocaleNames_mt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("my"_s),
-			$of(u"Burmi\u017c"_s)
+			$of(u"Burmiż"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("na"_s),
@@ -1105,39 +1105,39 @@ $ObjectArray2* LocaleNames_mt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("nb"_s),
-			$of(u"Bokmahal Norve\u0121i\u017c"_s)
+			$of(u"Bokmahal Norveġiż"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("nd"_s),
-			$of(u"Ndebele, ta\u2019 Fuq"_s)
+			$of(u"Ndebele, ta’ Fuq"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ne"_s),
-			$of(u"Nepali\u017c"_s)
+			$of(u"Nepaliż"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("nl"_s),
-			$of(u"Olandi\u017c"_s)
+			$of(u"Olandiż"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("nn"_s),
-			$of(u"Ninorsk Norve\u0121i\u017c"_s)
+			$of(u"Ninorsk Norveġiż"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("no"_s),
-			$of(u"Norve\u0121i\u017c"_s)
+			$of(u"Norveġiż"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("nr"_s),
-			$of(u"Ndebele, t\u2019Isfel"_s)
+			$of(u"Ndebele, t’Isfel"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("nv"_s),
-			$of(u"Nava\u0127o"_s)
+			$of(u"Navaħo"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ny"_s),
-			$of(u"\u010ai\u010bewa; Njan\u0121a"_s)
+			$of(u"Ċiċewa; Njanġa"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("oc"_s),
@@ -1145,7 +1145,7 @@ $ObjectArray2* LocaleNames_mt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("oj"_s),
-			$of(u"O\u0121ibwa"_s)
+			$of(u"Oġibwa"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("om"_s),
@@ -1161,7 +1161,7 @@ $ObjectArray2* LocaleNames_mt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("pa"_s),
-			$of(u"Pun\u0121abi"_s)
+			$of(u"Punġabi"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pl"_s),
@@ -1173,11 +1173,11 @@ $ObjectArray2* LocaleNames_mt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("pt"_s),
-			$of(u"Portugi\u017c"_s)
+			$of(u"Portugiż"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("qu"_s),
-			$of(u"Ke\u010bwa"_s)
+			$of(u"Keċwa"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("rm"_s),
@@ -1205,11 +1205,11 @@ $ObjectArray2* LocaleNames_mt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("se"_s),
-			$of(u"Sami ta\u2019 Fuq"_s)
+			$of(u"Sami ta’ Fuq"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("si"_s),
-			$of(u"Sin\u0127ali\u017c"_s)
+			$of(u"Sinħaliż"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sk"_s),
@@ -1229,7 +1229,7 @@ $ObjectArray2* LocaleNames_mt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("sq"_s),
-			$of(u"Albani\u017c"_s)
+			$of(u"Albaniż"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sr"_s),
@@ -1237,27 +1237,27 @@ $ObjectArray2* LocaleNames_mt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("st"_s),
-			$of(u"Soto, t\u2019Isfel"_s)
+			$of(u"Soto, t’Isfel"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("su"_s),
-			$of(u"Sundani\u017c"_s)
+			$of(u"Sundaniż"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sv"_s),
-			$of(u"Svedi\u017c"_s)
+			$of(u"Svediż"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sw"_s),
-			$of(u"Swa\u0127ili"_s)
+			$of(u"Swaħili"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("tg"_s),
-			$of(u"Ta\u0121ik"_s)
+			$of(u"Taġik"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("th"_s),
-			$of(u"Tajlandi\u017c"_s)
+			$of(u"Tajlandiż"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ti"_s),
@@ -1273,7 +1273,7 @@ $ObjectArray2* LocaleNames_mt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("to"_s),
-			$of(u"Tongan (G\u017cejjer ta\u2019 Tonga)"_s)
+			$of(u"Tongan (Gżejjer ta’ Tonga)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("tr"_s),
@@ -1281,7 +1281,7 @@ $ObjectArray2* LocaleNames_mt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ty"_s),
-			$of(u"Ta\u0127itjan"_s)
+			$of(u"Taħitjan"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ug"_s),
@@ -1293,11 +1293,11 @@ $ObjectArray2* LocaleNames_mt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("uz"_s),
-			$of(u"U\u017cbek"_s)
+			$of(u"Użbek"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("vi"_s),
-			$of(u"Vjetnami\u017c"_s)
+			$of(u"Vjetnamiż"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("vo"_s),
@@ -1305,7 +1305,7 @@ $ObjectArray2* LocaleNames_mt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("xh"_s),
-			$of(u"\u0126o\u017ca"_s)
+			$of(u"Ħoża"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("yi"_s),
@@ -1317,15 +1317,15 @@ $ObjectArray2* LocaleNames_mt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("za"_s),
-			$of(u"\u017bwang"_s)
+			$of(u"Żwang"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("zh"_s),
-			$of(u"\u010aini\u017c"_s)
+			$of(u"Ċiniż"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("zu"_s),
-			$of(u"\u017bulu"_s)
+			$of(u"Żulu"_s)
 		})
 	});
 }

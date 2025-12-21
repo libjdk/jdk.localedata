@@ -41,7 +41,7 @@ $ObjectArray2* LocaleNames_sq::getContents() {
 	return $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("AL"_s),
-			$of(u"Shqip\u00ebria"_s)
+			$of(u"Shqipëria"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sq"_s),

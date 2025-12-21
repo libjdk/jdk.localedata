@@ -42,7 +42,7 @@ $ObjectArray2* CurrencyNames_lrc::getContents() {
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("IQD"_s),
-			$of(u"\u062f.\u0639.\u200f"_s)
+			$of(u"د.ع.\u200f"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("RUB"_s),
@@ -50,35 +50,35 @@ $ObjectArray2* CurrencyNames_lrc::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("brl"_s),
-			$of(u"\u0631\u0626\u0627\u0644 \u0628\u0626\u0631\u0626\u0632\u06cc\u0644"_s)
+			$of(u"رئال بئرئزیل"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cny"_s),
-			$of(u"\u06cc\u0648\u0627\u0646 \u0686\u06cc\u0646"_s)
+			$of(u"یوان چین"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("eur"_s),
-			$of(u"\u06cc\u0648\u0631\u0648"_s)
+			$of(u"یورو"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gbp"_s),
-			$of(u"\u067e\u0648\u0646\u062f \u0628\u0626\u0631\u06cc\u062a\u0627\u0646\u06cc\u0627"_s)
+			$of(u"پوند بئریتانیا"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("inr"_s),
-			$of(u"\u0631\u0648\u0659\u067e\u06cc\u0647 \u0647\u0626\u0646"_s)
+			$of(u"روٙپیه هئن"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("jpy"_s),
-			$of(u"\u06cc\u0626\u0646 \u062c\u0627\u067e\u0648\u0659\u0646"_s)
+			$of(u"یئن جاپوٙن"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("rub"_s),
-			$of(u"\u0631\u0648\u0659\u0628\u0644 \u0631\u0648\u0659\u0633\u06cc\u0647"_s)
+			$of(u"روٙبل روٙسیه"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xxx"_s),
-			$of(u"\u067e\u06cc\u0644 \u0646\u0627\u062f\u06cc\u0627\u0631"_s)
+			$of(u"پیل نادیار"_s)
 		})
 	}));
 	return data;

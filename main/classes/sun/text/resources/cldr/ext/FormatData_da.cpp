@@ -85,22 +85,22 @@ $ObjectArray2* FormatData_da::getContents() {
 		""_s
 	}));
 	$var($StringArray, metaValue_DayNames, $new($StringArray, {
-		u"s\u00f8ndag"_s,
+		u"søndag"_s,
 		"mandag"_s,
 		"tirsdag"_s,
 		"onsdag"_s,
 		"torsdag"_s,
 		"fredag"_s,
-		u"l\u00f8rdag"_s
+		u"lørdag"_s
 	}));
 	$var($StringArray, metaValue_DayAbbreviations, $new($StringArray, {
-		u"s\u00f8n."_s,
+		u"søn."_s,
 		"man."_s,
 		"tir."_s,
 		"ons."_s,
 		"tor."_s,
 		"fre."_s,
-		u"l\u00f8r."_s
+		u"lør."_s
 	}));
 	$var($StringArray, metaValue_DayNarrows, $new($StringArray, {
 		"S"_s,
@@ -184,7 +184,7 @@ $ObjectArray2* FormatData_da::getContents() {
 		"d/M/y"_s
 	}));
 	$var($StringArray, metaValue_java_time_roc_long_Eras, $new($StringArray, {
-		u"f\u00f8r R.O.C."_s,
+		u"før R.O.C."_s,
 		"Minguo"_s
 	}));
 	$var($StringArray, metaValue_java_time_islamic_long_Eras, $new($StringArray, {
@@ -199,7 +199,7 @@ $ObjectArray2* FormatData_da::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.year"_s),
-			$of(u"\u00e5r"_s)
+			$of(u"år"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.islamic-umalqura"_s),
@@ -275,13 +275,13 @@ $ObjectArray2* FormatData_da::getContents() {
 		$$new($ObjectArray, {
 			$of("standalone.DayAbbreviations"_s),
 			$of($$new($StringArray, {
-				u"s\u00f8n"_s,
+				u"søn"_s,
 				"man"_s,
 				"tir"_s,
 				"ons"_s,
 				"tor"_s,
 				"fre"_s,
-				u"l\u00f8r"_s
+				u"lør"_s
 			}))
 		}),
 		$$new($ObjectArray, {
@@ -336,8 +336,8 @@ $ObjectArray2* FormatData_da::getContents() {
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
+				u"‰"_s,
+				u"∞"_s,
 				"NaN"_s,
 				""_s,
 				""_s
@@ -361,7 +361,7 @@ $ObjectArray2* FormatData_da::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.era"_s),
-			$of(u"\u00e6ra"_s)
+			$of(u"æra"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("buddhist.AmPmMarkers"_s),
@@ -380,16 +380,16 @@ $ObjectArray2* FormatData_da::getContents() {
 			$of($$new($StringArray, {
 				"muharram"_s,
 				"safar"_s,
-				u"rabi\u02bb I"_s,
-				u"rabi\u02bb II"_s,
+				u"rabiʻ I"_s,
+				u"rabiʻ II"_s,
 				"jumada I"_s,
 				"jumada II"_s,
 				"rajab"_s,
-				u"sha\u02bbban"_s,
+				u"shaʻban"_s,
 				"ramadan"_s,
 				"shawwal"_s,
-				u"dhu\u02bbl-Qi\u02bbdah"_s,
-				u"dhu\u02bbl-Hijjah"_s,
+				u"dhuʻl-Qiʻdah"_s,
+				u"dhuʻl-Hijjah"_s,
 				""_s
 			}))
 		}),
@@ -415,7 +415,7 @@ $ObjectArray2* FormatData_da::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.month"_s),
-			$of(u"m\u00e5ned"_s)
+			$of(u"måned"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("roc.Eras"_s),
@@ -675,18 +675,18 @@ $ObjectArray2* FormatData_da::getContents() {
 				""_s,
 				""_s,
 				""_s,
-				u"{one:0\u00a0t other:0\u00a0t}"_s,
-				u"{one:00\u00a0t other:00\u00a0t}"_s,
-				u"{one:000\u00a0t other:000\u00a0t}"_s,
-				u"{one:0\u00a0mio\'.\' other:0\u00a0mio\'.\'}"_s,
-				u"{one:00\u00a0mio\'.\' other:00\u00a0mio\'.\'}"_s,
-				u"{one:000\u00a0mio\'.\' other:000\u00a0mio\'.\'}"_s,
-				u"{one:0\u00a0mia\'.\' other:0\u00a0mia\'.\'}"_s,
-				u"{one:00\u00a0mia\'.\' other:00\u00a0mia\'.\'}"_s,
-				u"{one:000\u00a0mia\'.\' other:000\u00a0mia\'.\'}"_s,
-				u"{one:0\u00a0bio\'.\' other:0\u00a0bio\'.\'}"_s,
-				u"{one:00\u00a0bio\'.\' other:00\u00a0bio\'.\'}"_s,
-				u"{one:000\u00a0bio\'.\' other:000\u00a0bio\'.\'}"_s
+				u"{one:0 t other:0 t}"_s,
+				u"{one:00 t other:00 t}"_s,
+				u"{one:000 t other:000 t}"_s,
+				u"{one:0 mio\'.\' other:0 mio\'.\'}"_s,
+				u"{one:00 mio\'.\' other:00 mio\'.\'}"_s,
+				u"{one:000 mio\'.\' other:000 mio\'.\'}"_s,
+				u"{one:0 mia\'.\' other:0 mia\'.\'}"_s,
+				u"{one:00 mia\'.\' other:00 mia\'.\'}"_s,
+				u"{one:000 mia\'.\' other:000 mia\'.\'}"_s,
+				u"{one:0 bio\'.\' other:0 bio\'.\'}"_s,
+				u"{one:00 bio\'.\' other:00 bio\'.\'}"_s,
+				u"{one:000 bio\'.\' other:000 bio\'.\'}"_s
 			}))
 		}),
 		$$new($ObjectArray, {
@@ -746,9 +746,9 @@ $ObjectArray2* FormatData_da::getContents() {
 			$of("latn.NumberPatterns"_s),
 			$of($$new($StringArray, {
 				"#,##0.###"_s,
-				u"#,##0.00\u00a0\u00a4"_s,
-				u"#,##0\u00a0%"_s,
-				u"#,##0.00\u00a0\u00a4"_s
+				u"#,##0.00 ¤"_s,
+				u"#,##0 %"_s,
+				u"#,##0.00 ¤"_s
 			}))
 		}),
 		$$new($ObjectArray, {

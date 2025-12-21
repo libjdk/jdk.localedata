@@ -54,7 +54,7 @@ $ObjectArray2* CurrencyNames_dyo::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("bif"_s),
-			$of(u"fraa\u014b yati Burundi"_s)
+			$of(u"fraaŋ yati Burundi"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bwp"_s),
@@ -66,7 +66,7 @@ $ObjectArray2* CurrencyNames_dyo::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("cdf"_s),
-			$of(u"fraa\u014b yati Kongo"_s)
+			$of(u"fraaŋ yati Kongo"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cny"_s),
@@ -78,7 +78,7 @@ $ObjectArray2* CurrencyNames_dyo::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("djf"_s),
-			$of(u"fraa\u014b yati Jibuti"_s)
+			$of(u"fraaŋ yati Jibuti"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("dzd"_s),
@@ -86,7 +86,7 @@ $ObjectArray2* CurrencyNames_dyo::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("egp"_s),
-			$of(u"liiverey yati Es\u00edpt"_s)
+			$of(u"liiverey yati Esípt"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ern"_s),
@@ -110,7 +110,7 @@ $ObjectArray2* CurrencyNames_dyo::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("gns"_s),
-			$of(u"sili yati Gin\u00e9"_s)
+			$of(u"sili yati Giné"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("inr"_s),
@@ -118,15 +118,15 @@ $ObjectArray2* CurrencyNames_dyo::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("jpy"_s),
-			$of(u"yen yati Sapo\u014b"_s)
+			$of(u"yen yati Sapoŋ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kes"_s),
-			$of(u"silli\u014b yati Keniya"_s)
+			$of(u"silliŋ yati Keniya"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kmf"_s),
-			$of(u"fraa\u014b yati Komor"_s)
+			$of(u"fraaŋ yati Komor"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lrd"_s),
@@ -142,7 +142,7 @@ $ObjectArray2* CurrencyNames_dyo::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("mro"_s),
-			$of(u"ugiiya yati Mooritanii (1973\u20132017)"_s)
+			$of(u"ugiiya yati Mooritanii (1973–2017)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mru"_s),

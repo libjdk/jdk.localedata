@@ -42,11 +42,11 @@ void TimeZoneNames_es_PE::init$() {
 $ObjectArray2* TimeZoneNames_es_PE::getContents() {
 	$useLocalCurrentObjectStackCache();
 	$var($StringArray, Peru, $new($StringArray, {
-		u"hora est\u00e1ndar de Per\u00fa"_s,
+		u"hora estándar de Perú"_s,
 		"PET"_s,
-		u"hora de verano de Per\u00fa"_s,
+		u"hora de verano de Perú"_s,
 		"PEST"_s,
-		u"hora de Per\u00fa"_s,
+		u"hora de Perú"_s,
 		"PET"_s
 	}));
 	$var($StringArray, EMPTY_ZONE, $new($StringArray, {

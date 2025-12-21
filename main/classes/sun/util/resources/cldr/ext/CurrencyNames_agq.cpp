@@ -42,231 +42,231 @@ $ObjectArray2* CurrencyNames_agq::getContents() {
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("aed"_s),
-			$of(u"Dil\u00e0m \u00e8 Y\u00f9naet\u025b Alab Emel\u025b\u0300"_s)
+			$of(u"Dilàm è Yùnaetɛ Alab Emelɛ̀"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("aoa"_s),
-			$of(u"Kwanz\u00e0 \u00e8 \u00c0\u014bgol\u00e0"_s)
+			$of(u"Kwanzà è Àŋgolà"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("aud"_s),
-			$of(u"D\u0254l\u00e0 e \u00d9s\u0268\u0300t\u025b\u0300l\u025bl\u00eca"_s)
+			$of(u"Dɔlà e Ùsɨ̀tɛ̀lɛlìa"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bhd"_s),
-			$of(u"Din\u00e0 \u00e8 Balae"_s)
+			$of(u"Dinà è Balae"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bif"_s),
-			$of(u"F\u00e0l\u00e2\u014b \u00e8 B\u00f9lund\u00ec"_s)
+			$of(u"Fàlâŋ è Bùlundì"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bwp"_s),
-			$of(u"Kpuwl\u00e0 \u00e8 Bot\u0268sh\u01d4an\u00e0"_s)
+			$of(u"Kpuwlà è Botɨshǔanà"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cad"_s),
-			$of(u"D\u0254l\u00e0 \u00e8 Kanad\u00e0"_s)
+			$of(u"Dɔlà è Kanadà"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cdf"_s),
-			$of(u"F\u00e0l\u00e2\u014b \u00e8 Ku\u014bg\u00f9l\u00ea"_s)
+			$of(u"Fàlâŋ è Kuŋgùlê"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("chf"_s),
-			$of(u"F\u00e0l\u00e2\u014b \u00e8 Sues"_s)
+			$of(u"Fàlâŋ è Sues"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cny"_s),
-			$of(u"Y\u00f9w\u00e2n L\u00e8membi \u00e8 Chaen\u00ee"_s)
+			$of(u"Yùwân Lèmembi è Chaenî"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cve"_s),
-			$of(u"K\u00e0b\u00f2v\u00e0dian\u00f9 \u00e8 \u00c8s\u00f9kud\u00f2"_s)
+			$of(u"Kàbòvàdianù è Èsùkudò"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("djf"_s),
-			$of(u"F\u00e0l\u00e2\u014b \u00e8 Dz\u00ecbut\u00ec"_s)
+			$of(u"Fàlâŋ è Dzìbutì"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("dzd"_s),
-			$of(u"Din\u00e0 \u00e8 \u00c0dz\u025bl\u00eca"_s)
+			$of(u"Dinà è Àdzɛlìa"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("egp"_s),
-			$of(u"B\u0254\u0300\u014b \u00e8 Edz\u00ec"_s)
+			$of(u"Bɔ̀ŋ è Edzì"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ern"_s),
-			$of(u"Nakafa \u00e8 \u00c8let\u0268\u0300l\u00e0e"_s)
+			$of(u"Nakafa è Èletɨ̀làe"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("etb"_s),
-			$of(u"B\u00eei \u00e8 Ety\u01d2kp\u00eca"_s)
+			$of(u"Bîi è Etyǒkpìa"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("eur"_s),
-			$of(u"Yul\u00f9"_s)
+			$of(u"Yulù"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gbp"_s),
-			$of(u"B\u0254\u0300\u014b \u00e8 B\u00e8let\u00ec"_s)
+			$of(u"Bɔ̀ŋ è Bèletì"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ghc"_s),
-			$of(u"S\u025b\u0300di \u00e8 Gaan\u00e0"_s)
+			$of(u"Sɛ̀di è Gaanà"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gmd"_s),
-			$of(u"D\u00e0las\u00ec \u00e8 Gamb\u00eca"_s)
+			$of(u"Dàlasì è Gambìa"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gns"_s),
-			$of(u"F\u00e0l\u00e2\u014b \u00e8 Gin\u00e8"_s)
+			$of(u"Fàlâŋ è Ginè"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("inr"_s),
-			$of(u"Lukp\u00ec \u00e8 End\u00eca"_s)
+			$of(u"Lukpì è Endìa"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("jpy"_s),
-			$of(u"Gh\u0268\u0302n Dz\u00e0kp\u00e0n\u00ea"_s)
+			$of(u"Ghɨ̂n Dzàkpànê"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kes"_s),
-			$of(u"Shw\u0268l\u00e0 t\u0268 Keny\u00e0"_s)
+			$of(u"Shwɨlà tɨ Kenyà"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kmf"_s),
-			$of(u"F\u00e0l\u00e2\u014b \u00e8 Komol\u00eca"_s)
+			$of(u"Fàlâŋ è Komolìa"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lrd"_s),
-			$of(u"D\u0254l\u00e0 L\u00e0eb\u025bl\u00eca"_s)
+			$of(u"Dɔlà Làebɛlìa"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lsl"_s),
-			$of(u"L\u0254t\u00ec L\u00e8sut\u00f9"_s)
+			$of(u"Lɔtì Lèsutù"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lyd"_s),
-			$of(u"Din\u00e0 \u00e8 Leb\u00eca"_s)
+			$of(u"Dinà è Lebìa"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mad"_s),
-			$of(u"Dil\u00e0m \u00e8 M\u00f2lok\u00f2"_s)
+			$of(u"Dilàm è Mòlokò"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mga"_s),
-			$of(u"\u00c0l\u01d0al\u00e8 \u00e8 M\u00e0l\u00e0gas\u00ec"_s)
+			$of(u"Àlǐalè è Màlàgasì"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mro"_s),
-			$of(u"\u00d9gueya \u00e8 M\u00f9l\u00e8teny\u00eca (1973\u20132017)"_s)
+			$of(u"Ùgueya è Mùlètenyìa (1973–2017)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mru"_s),
-			$of(u"\u00d9gueya \u00e8 M\u00f9l\u00e8teny\u00eca"_s)
+			$of(u"Ùgueya è Mùlètenyìa"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mur"_s),
-			$of(u"Lukp\u00eci \u00e8 M\u00f9lesh\u00f2s"_s)
+			$of(u"Lukpìi è Mùleshòs"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mwk"_s),
-			$of(u"Kwach\u00e0 \u00e8 M\u00e0law\u00e8"_s)
+			$of(u"Kwachà è Màlawè"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mzm"_s),
-			$of(u"M\u00e8tik\u00e0 \u00e8 M\u00f9z\u00e0mb\u00ee"_s)
+			$of(u"Mètikà è Mùzàmbî"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("nad"_s),
-			$of(u"D\u0254l\u00e0 \u00e8 N\u00e0mib\u00eca"_s)
+			$of(u"Dɔlà è Nàmibìa"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ngn"_s),
-			$of(u"Nael\u00e0 \u00e8 G\u0268\u0300any\u0268"_s)
+			$of(u"Naelà è Gɨ̀anyɨ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("rwf"_s),
-			$of(u"F\u00e0l\u00e2\u014b \u00e8 L\u00f9wand\u00e0"_s)
+			$of(u"Fàlâŋ è Lùwandà"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sar"_s),
-			$of(u"Ley\u00e0 \u00e8 S\u00e0wud\u00ec"_s)
+			$of(u"Leyà è Sàwudì"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("scr"_s),
-			$of(u"Lukp\u00eci \u00e8 S\u025bch\u025b\u0300l\u025b\u0300"_s)
+			$of(u"Lukpìi è Sɛchɛ̀lɛ̀"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sdg"_s),
-			$of(u"B\u0254\u0300\u014b \u00e8 S\u00f9d\u00e0n\u00ea"_s)
+			$of(u"Bɔ̀ŋ è Sùdànê"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("shp"_s),
-			$of(u"B\u0254\u0300\u014b \u00e8 S\u025b\u0300n \u00c8len\u00e0"_s)
+			$of(u"Bɔ̀ŋ è Sɛ̀n Èlenà"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sll"_s),
-			$of(u"Ly\u0254\u0302\u014b"_s)
+			$of(u"Lyɔ̂ŋ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sos"_s),
-			$of(u"Shw\u0268l\u00e0 \u00e8 S\u00f9mal\u00eca"_s)
+			$of(u"Shwɨlà è Sùmalìa"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("std"_s),
-			$of(u"D\u0254b\u00e0l\u00e0 \u00e8 S\u00e0wu T\u0254\u0300me \u00e0 P\u00e8l\u00e8nsip\u00e8 (1977\u20132017)"_s)
+			$of(u"Dɔbàlà è Sàwu Tɔ̀me à Pèlènsipè (1977–2017)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("stn"_s),
-			$of(u"D\u0254b\u00e0l\u00e0 \u00e8 S\u00e0wu T\u0254\u0300me \u00e0 P\u00e8l\u00e8nsip\u00e8"_s)
+			$of(u"Dɔbàlà è Sàwu Tɔ̀me à Pèlènsipè"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("szl"_s),
-			$of(u"L\u00e8l\u00e0\u014bgen\u00e8"_s)
+			$of(u"Lèlàŋgenè"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("tnd"_s),
-			$of(u"Din\u00e0 \u00e8 T\u00f9wnesh\u00eca"_s)
+			$of(u"Dinà è Tùwneshìa"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("tzs"_s),
-			$of(u"Shw\u0268l\u00e0 \u00e8 T\u00e0anzany\u00eca"_s)
+			$of(u"Shwɨlà è Tàanzanyìa"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ugx"_s),
-			$of(u"Shw\u0268l\u00e0 \u00e8 Y\u00f9gand\u00e0"_s)
+			$of(u"Shwɨlà è Yùgandà"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("usd"_s),
-			$of(u"D\u0254l\u00e0 \u00e8 US"_s)
+			$of(u"Dɔlà è US"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xaf"_s),
-			$of(u"CFA F\u00e0l\u00e2\u014b BEAC"_s)
+			$of(u"CFA Fàlâŋ BEAC"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xof"_s),
-			$of(u"CFA F\u00e0l\u00e2\u014b BCEAO"_s)
+			$of(u"CFA Fàlâŋ BCEAO"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("zar"_s),
-			$of(u"L\u00e2n \u00e8 Af\u0268lek\u00e0 gh\u0268 Em\u00e0m gh\u00f2"_s)
+			$of(u"Lân è Afɨlekà ghɨ Emàm ghò"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("zmk"_s),
-			$of(u"Kwach\u00e0 \u00e8 Zamb\u00eca (1968\u20132012)"_s)
+			$of(u"Kwachà è Zambìa (1968–2012)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("zmw"_s),
-			$of(u"Kwach\u00e0 \u00e8 Zamb\u00eca"_s)
+			$of(u"Kwachà è Zambìa"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("zwd"_s),
-			$of(u"D\u0254l\u00e0 \u00e8 Z\u00ecmbagb\u025b\u0300"_s)
+			$of(u"Dɔlà è Zìmbagbɛ̀"_s)
 		})
 	}));
 	return data;

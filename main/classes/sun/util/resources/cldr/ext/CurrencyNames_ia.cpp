@@ -42,11 +42,11 @@ $ObjectArray2* CurrencyNames_ia::getContents() {
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("NLG"_s),
-			$of(u"\u0192"_s)
+			$of(u"ƒ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("RUB"_s),
-			$of(u"\u20bd"_s)
+			$of(u"₽"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("all"_s),
@@ -318,7 +318,7 @@ $ObjectArray2* CurrencyNames_ia::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("mro"_s),
-			$of(u"ouguiya mauritan (1973\u20132017)"_s)
+			$of(u"ouguiya mauritan (1973–2017)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mru"_s),
@@ -438,7 +438,7 @@ $ObjectArray2* CurrencyNames_ia::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("stn"_s),
-			$of(u"dobra de S\u00e3o Tom\u00e9 e Pr\u00edncipe"_s)
+			$of(u"dobra de São Tomé e Príncipe"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("szl"_s),
@@ -450,7 +450,7 @@ $ObjectArray2* CurrencyNames_ia::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("top"_s),
-			$of(u"pa\u02bbanga tongan"_s)
+			$of(u"paʻanga tongan"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ttd"_s),
@@ -478,7 +478,7 @@ $ObjectArray2* CurrencyNames_ia::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("vef"_s),
-			$of(u"bolivar venezuelan (2008\u20132018)"_s)
+			$of(u"bolivar venezuelan (2008–2018)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ves"_s),

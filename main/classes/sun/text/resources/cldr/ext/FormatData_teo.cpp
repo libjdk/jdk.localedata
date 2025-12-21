@@ -42,10 +42,10 @@ $ObjectArray2* FormatData_teo::getContents() {
 	$var($StringArray, metaValue_MonthNames, $new($StringArray, {
 		"Orara"_s,
 		"Omuk"_s,
-		u"Okwamg\u2019"_s,
-		u"Odung\u2019el"_s,
+		u"Okwamg’"_s,
+		u"Odung’el"_s,
 		"Omaruk"_s,
-		u"Omodok\u2019king\u2019ol"_s,
+		u"Omodok’king’ol"_s,
 		"Ojola"_s,
 		"Opedel"_s,
 		"Osokosokoma"_s,
@@ -89,7 +89,7 @@ $ObjectArray2* FormatData_teo::getContents() {
 		"Nakaebarasa"_s,
 		"Nakaare"_s,
 		"Nakauni"_s,
-		u"Nakaung\u2019on"_s,
+		u"Nakaung’on"_s,
 		"Nakakany"_s,
 		"Nakasabiti"_s
 	}));
@@ -115,7 +115,7 @@ $ObjectArray2* FormatData_teo::getContents() {
 		"Akwota abe"_s,
 		"Akwota Aane"_s,
 		"Akwota auni"_s,
-		u"Akwota Aung\u2019on"_s
+		u"Akwota Aung’on"_s
 	}));
 	$var($StringArray, metaValue_QuarterAbbreviations, $new($StringArray, {
 		"K1"_s,
@@ -306,8 +306,8 @@ $ObjectArray2* FormatData_teo::getContents() {
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
+				u"‰"_s,
+				u"∞"_s,
 				"NaN"_s,
 				""_s,
 				""_s
@@ -482,9 +482,9 @@ $ObjectArray2* FormatData_teo::getContents() {
 			$of("latn.NumberPatterns"_s),
 			$of($$new($StringArray, {
 				"#,##0.###"_s,
-				u"\u00a4#,##0.00"_s,
+				u"¤#,##0.00"_s,
 				"#,##0%"_s,
-				u"\u00a4#,##0.00;(\u00a4#,##0.00)"_s
+				u"¤#,##0.00;(¤#,##0.00)"_s
 			}))
 		}),
 		$$new($ObjectArray, {

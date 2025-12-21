@@ -43,13 +43,13 @@ $ObjectArray2* FormatData_haw::getContents() {
 		"Ianuali"_s,
 		"Pepeluali"_s,
 		"Malaki"_s,
-		u"\u02bbApelila"_s,
+		u"ʻApelila"_s,
 		"Mei"_s,
 		"Iune"_s,
 		"Iulai"_s,
-		u"\u02bbAukake"_s,
+		u"ʻAukake"_s,
 		"Kepakemapa"_s,
-		u"\u02bbOkakopa"_s,
+		u"ʻOkakopa"_s,
 		"Nowemapa"_s,
 		"Kekemapa"_s,
 		""_s
@@ -58,25 +58,25 @@ $ObjectArray2* FormatData_haw::getContents() {
 		"Ian."_s,
 		"Pep."_s,
 		"Mal."_s,
-		u"\u02bbAp."_s,
+		u"ʻAp."_s,
 		"Mei"_s,
 		"Iun."_s,
 		"Iul."_s,
-		u"\u02bbAu."_s,
+		u"ʻAu."_s,
 		"Kep."_s,
-		u"\u02bbOk."_s,
+		u"ʻOk."_s,
 		"Now."_s,
 		"Kek."_s,
 		""_s
 	}));
 	$var($StringArray, metaValue_DayNames, $new($StringArray, {
-		u"L\u0101pule"_s,
-		u"Po\u02bbakahi"_s,
-		u"Po\u02bbalua"_s,
-		u"Po\u02bbakolu"_s,
-		u"Po\u02bbah\u0101"_s,
-		u"Po\u02bbalima"_s,
-		u"Po\u02bbaono"_s
+		u"Lāpule"_s,
+		u"Poʻakahi"_s,
+		u"Poʻalua"_s,
+		u"Poʻakolu"_s,
+		u"Poʻahā"_s,
+		u"Poʻalima"_s,
+		u"Poʻaono"_s
 	}));
 	$var($StringArray, metaValue_DayAbbreviations, $new($StringArray, {
 		"LP"_s,
@@ -280,8 +280,8 @@ $ObjectArray2* FormatData_haw::getContents() {
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
+				u"‰"_s,
+				u"∞"_s,
 				"NaN"_s,
 				""_s,
 				""_s
@@ -424,9 +424,9 @@ $ObjectArray2* FormatData_haw::getContents() {
 			$of("latn.NumberPatterns"_s),
 			$of($$new($StringArray, {
 				"#,##0.###"_s,
-				u"\u00a4#,##0.00"_s,
+				u"¤#,##0.00"_s,
 				"#,##0%"_s,
-				u"\u00a4#,##0.00;(\u00a4#,##0.00)"_s
+				u"¤#,##0.00;(¤#,##0.00)"_s
 			}))
 		}),
 		$$new($ObjectArray, {

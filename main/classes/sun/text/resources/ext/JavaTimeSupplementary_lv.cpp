@@ -39,10 +39,10 @@ void JavaTimeSupplementary_lv::init$() {
 $ObjectArray2* JavaTimeSupplementary_lv::getContents() {
 	$useLocalCurrentObjectStackCache();
 	$var($StringArray, sharedQuarterAbbreviations, $new($StringArray, {
-		u"1.\u00a0cet."_s,
-		u"2.\u00a0cet."_s,
-		u"3.\u00a0cet."_s,
-		u"4.\u00a0cet."_s
+		u"1. cet."_s,
+		u"2. cet."_s,
+		u"3. cet."_s,
+		u"4. cet."_s
 	}));
 	$var($StringArray, sharedQuarterNames, $new($StringArray, {
 		"1. ceturksnis"_s,
@@ -57,8 +57,8 @@ $ObjectArray2* JavaTimeSupplementary_lv::getContents() {
 		"4."_s
 	}));
 	$var($StringArray, sharedAmPmMarkers, $new($StringArray, {
-		u"priek\u0161pusdien\u0101"_s,
-		u"p\u0113cpusdien\u0101"_s
+		u"priekšpusdienā"_s,
+		u"pēcpusdienā"_s
 	}));
 	$var($StringArray, sharedDatePatterns, $new($StringArray, {
 		"EEEE, y. \'gada\' d. MMMM GGGG"_s,
@@ -76,10 +76,10 @@ $ObjectArray2* JavaTimeSupplementary_lv::getContents() {
 		"Se"_s
 	}));
 	$var($StringArray, sharedDayNames, $new($StringArray, {
-		u"sv\u0113tdiena"_s,
+		u"svētdiena"_s,
 		"pirmdiena"_s,
 		"otrdiena"_s,
-		u"tre\u0161diena"_s,
+		u"trešdiena"_s,
 		"ceturtdiena"_s,
 		"piektdiena"_s,
 		"sestdiena"_s
@@ -94,8 +94,8 @@ $ObjectArray2* JavaTimeSupplementary_lv::getContents() {
 		"S"_s
 	}));
 	$var($StringArray, sharedNarrowAmPmMarkers, $new($StringArray, {
-		u"priek\u0161p."_s,
-		u"p\u0113cp."_s
+		u"priekšp."_s,
+		u"pēcp."_s
 	}));
 	$var($StringArray, sharedJavaTimeDatePatterns, $new($StringArray, {
 		"EEEE, y. \'gada\' d. MMMM G"_s,
@@ -118,39 +118,39 @@ $ObjectArray2* JavaTimeSupplementary_lv::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.buddhist"_s),
-			$of(u"budistu kalend\u0101rs"_s)
+			$of(u"budistu kalendārs"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.gregorian"_s),
-			$of(u"Gregora kalend\u0101rs"_s)
+			$of(u"Gregora kalendārs"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.gregory"_s),
-			$of(u"Gregora kalend\u0101rs"_s)
+			$of(u"Gregora kalendārs"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.islamic"_s),
-			$of(u"isl\u0101ma kalend\u0101rs"_s)
+			$of(u"islāma kalendārs"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.islamic-civil"_s),
-			$of(u"isl\u0101ma pilso\u0146u kalend\u0101rs"_s)
+			$of(u"islāma pilsoņu kalendārs"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.japanese"_s),
-			$of(u"jap\u0101\u0146u kalend\u0101rs"_s)
+			$of(u"japāņu kalendārs"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.roc"_s),
-			$of(u"\u0136\u012bnas Republikas kalend\u0101rs"_s)
+			$of(u"Ķīnas Republikas kalendārs"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("field.dayperiod"_s),
-			$of(u"priek\u0161pusdien\u0101/p\u0113cpusdien\u0101"_s)
+			$of(u"priekšpusdienā/pēcpusdienā"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("field.era"_s),
-			$of(u"\u0113ra"_s)
+			$of(u"ēra"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("field.hour"_s),
@@ -158,11 +158,11 @@ $ObjectArray2* JavaTimeSupplementary_lv::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.minute"_s),
-			$of(u"min\u016btes"_s)
+			$of(u"minūtes"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("field.month"_s),
-			$of(u"m\u0113nesis"_s)
+			$of(u"mēnesis"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("field.second"_s),
@@ -170,11 +170,11 @@ $ObjectArray2* JavaTimeSupplementary_lv::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.week"_s),
-			$of(u"ned\u0113\u013ca"_s)
+			$of(u"nedēļa"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("field.weekday"_s),
-			$of(u"ned\u0113\u013cas diena"_s)
+			$of(u"nedēļas diena"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("field.year"_s),
@@ -209,16 +209,16 @@ $ObjectArray2* JavaTimeSupplementary_lv::getContents() {
 			$of($$new($StringArray, {
 				"muharams"_s,
 				"safars"_s,
-				u"1. rab\u012b"_s,
-				u"2. rab\u012b"_s,
-				u"1. d\u017eum\u0101d\u0101"_s,
-				u"2. d\u017eum\u0101d\u0101"_s,
-				u"rad\u017eabs"_s,
-				u"\u0161abans"_s,
-				u"ramad\u0101ns"_s,
-				u"\u0161auvals"_s,
-				u"du al-kid\u0101"_s,
-				u"du al-hid\u017e\u0101"_s,
+				u"1. rabī"_s,
+				u"2. rabī"_s,
+				u"1. džumādā"_s,
+				u"2. džumādā"_s,
+				u"radžabs"_s,
+				u"šabans"_s,
+				u"ramadāns"_s,
+				u"šauvals"_s,
+				u"du al-kidā"_s,
+				u"du al-hidžā"_s,
 				""_s
 			}))
 		}),
@@ -257,8 +257,8 @@ $ObjectArray2* JavaTimeSupplementary_lv::getContents() {
 		$$new($ObjectArray, {
 			$of("java.time.long.Eras"_s),
 			$of($$new($StringArray, {
-				u"pirms m\u016bsu \u0113ras"_s,
-				u"m\u016bsu \u0113r\u0101"_s
+				u"pirms mūsu ēras"_s,
+				u"mūsu ērā"_s
 			}))
 		}),
 		$$new($ObjectArray, {
@@ -268,8 +268,8 @@ $ObjectArray2* JavaTimeSupplementary_lv::getContents() {
 		$$new($ObjectArray, {
 			$of("java.time.short.Eras"_s),
 			$of($$new($StringArray, {
-				u"pm\u0113"_s,
-				u"m\u0113"_s
+				u"pmē"_s,
+				u"mē"_s
 			}))
 		}),
 		$$new($ObjectArray, {
@@ -300,8 +300,8 @@ $ObjectArray2* JavaTimeSupplementary_lv::getContents() {
 				"marts"_s,
 				"apr."_s,
 				"maijs"_s,
-				u"j\u016bn."_s,
-				u"j\u016bl."_s,
+				u"jūn."_s,
+				u"jūl."_s,
 				"aug."_s,
 				"sept."_s,
 				"okt."_s,
@@ -313,13 +313,13 @@ $ObjectArray2* JavaTimeSupplementary_lv::getContents() {
 		$$new($ObjectArray, {
 			$of("roc.MonthNames"_s),
 			$of($$new($StringArray, {
-				u"janv\u0101ris"_s,
-				u"febru\u0101ris"_s,
+				u"janvāris"_s,
+				u"februāris"_s,
 				"marts"_s,
-				u"apr\u012blis"_s,
+				u"aprīlis"_s,
 				"maijs"_s,
-				u"j\u016bnijs"_s,
-				u"j\u016blijs"_s,
+				u"jūnijs"_s,
+				u"jūlijs"_s,
 				"augusts"_s,
 				"septembris"_s,
 				"oktobris"_s,

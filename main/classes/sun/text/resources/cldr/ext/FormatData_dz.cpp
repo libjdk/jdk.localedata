@@ -40,98 +40,98 @@ void FormatData_dz::init$() {
 $ObjectArray2* FormatData_dz::getContents() {
 	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_MonthNames, $new($StringArray, {
-		u"\u0f5f\u0fb3\u0f0b\u0f51\u0f44\u0f54\u0f0b"_s,
-		u"\u0f5f\u0fb3\u0f0b\u0f42\u0f49\u0f72\u0f66\u0f0b\u0f54\u0f0b"_s,
-		u"\u0f5f\u0fb3\u0f0b\u0f42\u0f66\u0f74\u0f58\u0f0b\u0f54\u0f0b"_s,
-		u"\u0f5f\u0fb3\u0f0b\u0f56\u0f5e\u0f72\u0f0b\u0f54\u0f0b"_s,
-		u"\u0f5f\u0fb3\u0f0b\u0f63\u0f94\u0f0b\u0f54\u0f0b"_s,
-		u"\u0f5f\u0fb3\u0f0b\u0f51\u0fb2\u0f74\u0f42\u0f0b\u0f54"_s,
-		u"\u0f5f\u0fb3\u0f0b\u0f56\u0f51\u0f74\u0f53\u0f0b\u0f54\u0f0b"_s,
-		u"\u0f5f\u0fb3\u0f0b\u0f56\u0f62\u0f92\u0fb1\u0f51\u0f0b\u0f54\u0f0b"_s,
-		u"\u0f5f\u0fb3\u0f0b\u0f51\u0f42\u0f74\u0f0b\u0f54\u0f0b"_s,
-		u"\u0f5f\u0fb3\u0f0b\u0f56\u0f45\u0f74\u0f0b\u0f54\u0f0b"_s,
-		u"\u0f5f\u0fb3\u0f0b\u0f56\u0f45\u0f74\u0f0b\u0f42\u0f45\u0f72\u0f42\u0f0b\u0f54\u0f0b"_s,
-		u"\u0f5f\u0fb3\u0f0b\u0f56\u0f45\u0f74\u0f0b\u0f42\u0f49\u0f72\u0f66\u0f0b\u0f54\u0f0b"_s,
+		u"ཟླ་དངཔ་"_s,
+		u"ཟླ་གཉིས་པ་"_s,
+		u"ཟླ་གསུམ་པ་"_s,
+		u"ཟླ་བཞི་པ་"_s,
+		u"ཟླ་ལྔ་པ་"_s,
+		u"ཟླ་དྲུག་པ"_s,
+		u"ཟླ་བདུན་པ་"_s,
+		u"ཟླ་བརྒྱད་པ་"_s,
+		u"ཟླ་དགུ་པ་"_s,
+		u"ཟླ་བཅུ་པ་"_s,
+		u"ཟླ་བཅུ་གཅིག་པ་"_s,
+		u"ཟླ་བཅུ་གཉིས་པ་"_s,
 		""_s
 	}));
 	$var($StringArray, metaValue_MonthAbbreviations, $new($StringArray, {
-		u"\u0f21"_s,
-		u"\u0f22"_s,
-		u"\u0f23"_s,
-		u"\u0f24"_s,
-		u"\u0f25"_s,
-		u"\u0f26"_s,
-		u"\u0f27"_s,
-		u"\u0f28"_s,
-		u"\u0f29"_s,
-		u"\u0f21\u0f20"_s,
-		u"\u0f21\u0f21"_s,
+		u"༡"_s,
+		u"༢"_s,
+		u"༣"_s,
+		u"༤"_s,
+		u"༥"_s,
+		u"༦"_s,
+		u"༧"_s,
+		u"༨"_s,
+		u"༩"_s,
+		u"༡༠"_s,
+		u"༡༡"_s,
 		"12"_s,
 		""_s
 	}));
 	$var($StringArray, metaValue_MonthNarrows, $new($StringArray, {
-		u"\u0f21"_s,
-		u"\u0f22"_s,
-		u"\u0f23"_s,
+		u"༡"_s,
+		u"༢"_s,
+		u"༣"_s,
 		"4"_s,
-		u"\u0f25"_s,
-		u"\u0f26"_s,
-		u"\u0f27"_s,
-		u"\u0f28"_s,
+		u"༥"_s,
+		u"༦"_s,
+		u"༧"_s,
+		u"༨"_s,
 		"9"_s,
-		u"\u0f21\u0f20"_s,
-		u"\u0f21\u0f21"_s,
-		u"\u0f21\u0f22"_s,
+		u"༡༠"_s,
+		u"༡༡"_s,
+		u"༡༢"_s,
 		""_s
 	}));
 	$var($StringArray, metaValue_DayNames, $new($StringArray, {
-		u"\u0f42\u0f5f\u0f60\u0f0b\u0f5f\u0fb3\u0f0b\u0f56\u0f0b"_s,
-		u"\u0f42\u0f5f\u0f60\u0f0b\u0f58\u0f72\u0f42\u0f0b\u0f51\u0f58\u0f62\u0f0b"_s,
-		u"\u0f42\u0f5f\u0f60\u0f0b\u0f63\u0fb7\u0f42\u0f0b\u0f54\u0f0b"_s,
-		u"\u0f42\u0f5f\u0f60\u0f0b\u0f55\u0f74\u0f62\u0f0b\u0f56\u0f74\u0f0b"_s,
-		u"\u0f42\u0f5f\u0f60\u0f0b\u0f54\u0f0b\u0f66\u0f44\u0f66\u0f0b"_s,
-		u"\u0f42\u0f5f\u0f60\u0f0b\u0f66\u0fa4\u0f7a\u0f53\u0f0b\u0f54\u0f0b"_s,
-		u"\u0f42\u0f5f\u0f60\u0f0b\u0f49\u0f72\u0f0b\u0f58\u0f0b"_s
+		u"གཟའ་ཟླ་བ་"_s,
+		u"གཟའ་མིག་དམར་"_s,
+		u"གཟའ་ལྷག་པ་"_s,
+		u"གཟའ་ཕུར་བུ་"_s,
+		u"གཟའ་པ་སངས་"_s,
+		u"གཟའ་སྤེན་པ་"_s,
+		u"གཟའ་ཉི་མ་"_s
 	}));
 	$var($StringArray, metaValue_DayAbbreviations, $new($StringArray, {
-		u"\u0f5f\u0fb3\u0f0b"_s,
-		u"\u0f58\u0f72\u0f62\u0f0b"_s,
-		u"\u0f63\u0fb7\u0f42\u0f0b"_s,
-		u"\u0f55\u0f74\u0f62\u0f0b"_s,
-		u"\u0f66\u0f44\u0f66\u0f0b"_s,
-		u"\u0f66\u0fa4\u0f7a\u0f53\u0f0b"_s,
-		u"\u0f49\u0f72\u0f0b"_s
+		u"ཟླ་"_s,
+		u"མིར་"_s,
+		u"ལྷག་"_s,
+		u"ཕུར་"_s,
+		u"སངས་"_s,
+		u"སྤེན་"_s,
+		u"ཉི་"_s
 	}));
 	$var($StringArray, metaValue_DayNarrows, $new($StringArray, {
-		u"\u0f5f\u0fb3"_s,
-		u"\u0f58\u0f72\u0f62"_s,
-		u"\u0f63\u0fb7\u0f42"_s,
-		u"\u0f55\u0f74\u0f62"_s,
-		u"\u0f66\u0f44\u0fb6"_s,
-		u"\u0f66\u0fa4\u0f7a\u0f53"_s,
-		u"\u0f49\u0f72"_s
+		u"ཟླ"_s,
+		u"མིར"_s,
+		u"ལྷག"_s,
+		u"ཕུར"_s,
+		u"སངྶ"_s,
+		u"སྤེན"_s,
+		u"ཉི"_s
 	}));
 	$var($StringArray, metaValue_QuarterNames, $new($StringArray, {
-		u"\u0f56\u0f5e\u0f72\u0f0b\u0f51\u0f54\u0fb1\u0f0b\u0f51\u0f44\u0f0b\u0f54\u0f0b"_s,
-		u"\u0f56\u0f5e\u0f72\u0f0b\u0f51\u0f54\u0fb1\u0f0b\u0f42\u0f49\u0f72\u0f66\u0f0b\u0f54\u0f0b"_s,
-		u"\u0f56\u0f5e\u0f72\u0f0b\u0f51\u0f54\u0fb1\u0f0b\u0f42\u0f66\u0f74\u0f58\u0f0b\u0f54\u0f0b"_s,
-		u"\u0f56\u0f5e\u0f72\u0f0b\u0f51\u0f54\u0fb1\u0f0b\u0f56\u0f5e\u0f72\u0f0b\u0f54\u0f0b"_s
+		u"བཞི་དཔྱ་དང་པ་"_s,
+		u"བཞི་དཔྱ་གཉིས་པ་"_s,
+		u"བཞི་དཔྱ་གསུམ་པ་"_s,
+		u"བཞི་དཔྱ་བཞི་པ་"_s
 	}));
 	$var($StringArray, metaValue_QuarterAbbreviations, $new($StringArray, {
-		u"\u0f56\u0f5e\u0f72\u0f0b\u0f51\u0f54\u0fb1\u0f0b\u0f21"_s,
-		u"\u0f56\u0f5e\u0f72\u0f0b\u0f51\u0f54\u0fb1\u0f0b\u0f22"_s,
-		u"\u0f56\u0f5e\u0f72\u0f0b\u0f51\u0f54\u0fb1\u0f0b\u0f23"_s,
-		u"\u0f56\u0f5e\u0f72\u0f0b\u0f51\u0f54\u0fb1\u0f0b\u0f24"_s
+		u"བཞི་དཔྱ་༡"_s,
+		u"བཞི་དཔྱ་༢"_s,
+		u"བཞི་དཔྱ་༣"_s,
+		u"བཞི་དཔྱ་༤"_s
 	}));
 	$var($StringArray, metaValue_QuarterNarrows, $new($StringArray, {
-		u"\u0f21"_s,
-		u"\u0f22"_s,
-		u"\u0f23"_s,
-		u"\u0f24"_s
+		u"༡"_s,
+		u"༢"_s,
+		u"༣"_s,
+		u"༤"_s
 	}));
 	$var($StringArray, metaValue_AmPmMarkers, $new($StringArray, {
-		u"\u0f66\u0f94\u0f0b\u0f46\u0f0b"_s,
-		u"\u0f55\u0fb1\u0f72\u0f0b\u0f46\u0f0b"_s,
+		u"སྔ་ཆ་"_s,
+		u"ཕྱི་ཆ་"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -148,24 +148,24 @@ $ObjectArray2* FormatData_dz::getContents() {
 		"CE"_s
 	}));
 	$var($StringArray, metaValue_TimePatterns, $new($StringArray, {
-		u"\u0f46\u0f74\u0f0b\u0f5a\u0f7c\u0f51\u0f0b h \u0f66\u0f90\u0f62\u0f0b\u0f58\u0f0b mm:ss a zzzz"_s,
-		u"\u0f46\u0f74\u0f0b\u0f5a\u0f7c\u0f51\u0f0b h \u0f66\u0f90\u0f62\u0f0b\u0f58\u0f0b mm:ss a z"_s,
-		u"\u0f46\u0f74\u0f0b\u0f5a\u0f7c\u0f51\u0f0bh:mm:ss a"_s,
-		u"\u0f46\u0f74\u0f0b\u0f5a\u0f7c\u0f51\u0f0b h \u0f66\u0f90\u0f62\u0f0b\u0f58\u0f0b mm a"_s
+		u"ཆུ་ཚོད་ h སྐར་མ་ mm:ss a zzzz"_s,
+		u"ཆུ་ཚོད་ h སྐར་མ་ mm:ss a z"_s,
+		u"ཆུ་ཚོད་h:mm:ss a"_s,
+		u"ཆུ་ཚོད་ h སྐར་མ་ mm a"_s
 	}));
 	$var($StringArray, metaValue_java_time_buddhist_DatePatterns, $new($StringArray, {
-		u"EEEE, G \u0f66\u0fa4\u0fb1\u0f72\u0f0b\u0f63\u0f7c\u0f0by MMMM \u0f5a\u0f7a\u0f66\u0f0bdd"_s,
-		u"G \u0f66\u0fa4\u0fb1\u0f72\u0f0b\u0f63\u0f7c\u0f0by MMMM \u0f5a\u0f7a\u0f66\u0f0b dd"_s,
-		u"G \u0f66\u0fa4\u0fb1\u0f72\u0f0b\u0f63\u0f7c\u0f0by \u0f5f\u0fb3\u0f0bMMM \u0f5a\u0f7a\u0f66\u0f0bdd"_s,
+		u"EEEE, G སྤྱི་ལོ་y MMMM ཚེས་dd"_s,
+		u"G སྤྱི་ལོ་y MMMM ཚེས་ dd"_s,
+		u"G སྤྱི་ལོ་y ཟླ་MMM ཚེས་dd"_s,
 		"GGGGG y-MM-dd"_s
 	}));
 	$var($StringArray, metaValue_buddhist_DatePatterns, $new($StringArray, {
-		u"EEEE, GGGG \u0f66\u0fa4\u0fb1\u0f72\u0f0b\u0f63\u0f7c\u0f0by MMMM \u0f5a\u0f7a\u0f66\u0f0bdd"_s,
-		u"GGGG \u0f66\u0fa4\u0fb1\u0f72\u0f0b\u0f63\u0f7c\u0f0by MMMM \u0f5a\u0f7a\u0f66\u0f0b dd"_s,
-		u"GGGG \u0f66\u0fa4\u0fb1\u0f72\u0f0b\u0f63\u0f7c\u0f0by \u0f5f\u0fb3\u0f0bMMM \u0f5a\u0f7a\u0f66\u0f0bdd"_s,
+		u"EEEE, GGGG སྤྱི་ལོ་y MMMM ཚེས་dd"_s,
+		u"GGGG སྤྱི་ལོ་y MMMM ཚེས་ dd"_s,
+		u"GGGG སྤྱི་ལོ་y ཟླ་MMM ཚེས་dd"_s,
 		"G y-MM-dd"_s
 	}));
-	$var($String, metaValue_calendarname_gregorian, u"\u0f42\u0fb2\u0f7a\u0f42\u0f0b\u0f42\u0f7c\u0f0b\u0f62\u0f72\u0f0b\u0f61\u0f71\u0f53\u0f0b\u0f5f\u0fb3\u0f0b\u0f50\u0f7c"_s);
+	$var($String, metaValue_calendarname_gregorian, u"གྲེག་གོ་རི་ཡཱན་ཟླ་ཐོ"_s);
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("MonthNames"_s),
@@ -173,7 +173,7 @@ $ObjectArray2* FormatData_dz::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.year"_s),
-			$of(u"\u0f63\u0f7c"_s)
+			$of(u"ལོ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("japanese.AmPmMarkers"_s),
@@ -185,7 +185,7 @@ $ObjectArray2* FormatData_dz::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.gmtFormat"_s),
-			$of(u"\u0f47\u0f72\u0f0b\u0f68\u0f7a\u0f58\u0f0b\u0f4f\u0f72\u0f0b{0}"_s)
+			$of(u"ཇི་ཨེམ་ཏི་{0}"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("java.time.japanese.DatePatterns"_s),
@@ -229,7 +229,7 @@ $ObjectArray2* FormatData_dz::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.gmtZeroFormat"_s),
-			$of(u"\u0f47\u0f72\u0f0b\u0f68\u0f7a\u0f58\u0f0b\u0f4a\u0f72\u0f0b"_s)
+			$of(u"ཇི་ཨེམ་ཊི་"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("japanese.MonthNames"_s),
@@ -287,8 +287,8 @@ $ObjectArray2* FormatData_dz::getContents() {
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
+				u"‰"_s,
+				u"∞"_s,
 				"NaN"_s,
 				""_s,
 				""_s
@@ -308,11 +308,11 @@ $ObjectArray2* FormatData_dz::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.minute"_s),
-			$of(u"\u0f66\u0f90\u0f62\u0f0b\u0f58"_s)
+			$of(u"སྐར་མ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("field.era"_s),
-			$of(u"\u0f51\u0f74\u0f66\u0f0b\u0f56\u0f66\u0f90\u0f63"_s)
+			$of(u"དུས་བསྐལ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("buddhist.AmPmMarkers"_s),
@@ -320,23 +320,23 @@ $ObjectArray2* FormatData_dz::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.dayperiod"_s),
-			$of(u"\u0f66\u0f94\u0f0b\u0f46/\u0f55\u0fb1\u0f72\u0f0b\u0f46\u0f0b"_s)
+			$of(u"སྔ་ཆ/ཕྱི་ཆ་"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("standalone.MonthNarrows"_s),
 			$of($$new($StringArray, {
-				u"\u0f21"_s,
-				u"\u0f22"_s,
-				u"\u0f23"_s,
-				u"\u0f24"_s,
-				u"\u0f25"_s,
-				u"\u0f26"_s,
-				u"\u0f27"_s,
-				u"\u0f28"_s,
-				u"\u0f29"_s,
-				u"\u0f21\u0f20"_s,
-				u"\u0f21\u0f21"_s,
-				u"\u0f21\u0f22"_s,
+				u"༡"_s,
+				u"༢"_s,
+				u"༣"_s,
+				u"༤"_s,
+				u"༥"_s,
+				u"༦"_s,
+				u"༧"_s,
+				u"༨"_s,
+				u"༩"_s,
+				u"༡༠"_s,
+				u"༡༡"_s,
+				u"༡༢"_s,
 				""_s
 			}))
 		}),
@@ -354,11 +354,11 @@ $ObjectArray2* FormatData_dz::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.month"_s),
-			$of(u"\u0f5f\u0fb3\u0f0b\u0f5d\u0f0b"_s)
+			$of(u"ཟླ་ཝ་"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("field.second"_s),
-			$of(u"\u0f66\u0f90\u0f62\u0f0b\u0f46\u0f71\u0f0b"_s)
+			$of(u"སྐར་ཆཱ་"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("DayAbbreviations"_s),
@@ -383,24 +383,24 @@ $ObjectArray2* FormatData_dz::getContents() {
 		$$new($ObjectArray, {
 			$of("standalone.MonthAbbreviations"_s),
 			$of($$new($StringArray, {
-				u"\u0f5f\u0fb3\u0f0b\u0f21"_s,
-				u"\u0f5f\u0fb3\u0f0b\u0f22"_s,
-				u"\u0f5f\u0fb3\u0f0b\u0f23"_s,
-				u"\u0f5f\u0fb3\u0f0b\u0f24"_s,
-				u"\u0f5f\u0fb3\u0f0b\u0f25"_s,
-				u"\u0f5f\u0fb3\u0f0b\u0f26"_s,
-				u"\u0f5f\u0fb3\u0f0b\u0f27"_s,
-				u"\u0f5f\u0fb3\u0f0b\u0f28"_s,
-				u"\u0f5f\u0fb3\u0f0b\u0f29"_s,
-				u"\u0f5f\u0fb3\u0f0b\u0f21\u0f20"_s,
-				u"\u0f5f\u0fb3\u0f0b\u0f21\u0f21"_s,
-				u"\u0f5f\u0fb3\u0f0b\u0f21\u0f22"_s,
+				u"ཟླ་༡"_s,
+				u"ཟླ་༢"_s,
+				u"ཟླ་༣"_s,
+				u"ཟླ་༤"_s,
+				u"ཟླ་༥"_s,
+				u"ཟླ་༦"_s,
+				u"ཟླ་༧"_s,
+				u"ཟླ་༨"_s,
+				u"ཟླ་༩"_s,
+				u"ཟླ་༡༠"_s,
+				u"ཟླ་༡༡"_s,
+				u"ཟླ་༡༢"_s,
 				""_s
 			}))
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.regionFormat"_s),
-			$of(u"{0}\u0f0b\u0f46\u0f74\u0f0b\u0f5a\u0f7c\u0f51\u0f0d"_s)
+			$of(u"{0}་ཆུ་ཚོད།"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("long.CompactNumberPatterns"_s),
@@ -408,18 +408,18 @@ $ObjectArray2* FormatData_dz::getContents() {
 				""_s,
 				""_s,
 				""_s,
-				u"{other:\u0f66\u0f9f\u0f7c\u0f44\u0f0b\u0f55\u0fb2\u0f42\' \'0}"_s,
-				u"{other:\u0f41\u0fb2\u0f72\u0f0b\u0f55\u0fb2\u0f42\' \'0}"_s,
-				u"{other:\u0f60\u0f56\u0f74\u0f58\u0f0b\u0f55\u0fb2\u0f42\' \'0}"_s,
-				u"{other:\u0f66\u0f0b\u0f61\u0f0b\' \'0}"_s,
-				u"{other:\u0f56\u0fb1\u0f7a\u0f0b\u0f56\u0f0b\' \'0}"_s,
-				u"{other:\u0f51\u0f74\u0f44\u0f0b\u0f55\u0fb1\u0f74\u0f62\u0f0b\' \'0}"_s,
-				u"{other:\u0f51\u0f74\u0f44\u0f0b\u0f55\u0fb1\u0f74\u0f62\u0f0b\' \'00}"_s,
-				u"{other:\u0f51\u0f74\u0f44\u0f0b\u0f55\u0fb1\u0f74\u0f62\u0f0b\u0f56\u0f62\u0f92\u0fb1\u0f0b\' \'0}"_s,
-				u"{other:\u0f51\u0f74\u0f44\u0f0b\u0f55\u0fb1\u0f74\u0f62\u0f0b\u0f66\u0f9f\u0f7c\u0f44\' \'0}"_s,
-				u"{other:\u0f51\u0f74\u0f44\u0f0b\u0f55\u0fb1\u0f74\u0f62\u0f0b\u0f41\u0fb2\u0f72\u0f0b\' \'0}"_s,
-				u"{other:\u0f51\u0f74\u0f44\u0f0b\u0f55\u0fb1\u0f74\u0f62\u0f0b\u0f60\u0f56\u0f74\u0f58\u0f0b\' \'0}"_s,
-				u"{other:\u0f51\u0f74\u0f44\u0f0b\u0f55\u0fb1\u0f74\u0f62\u0f0b\u0f66\u0f0b\u0f61\u0f0b\' \'0}"_s
+				u"{other:སྟོང་ཕྲག\' \'0}"_s,
+				u"{other:ཁྲི་ཕྲག\' \'0}"_s,
+				u"{other:འབུམ་ཕྲག\' \'0}"_s,
+				u"{other:ས་ཡ་\' \'0}"_s,
+				u"{other:བྱེ་བ་\' \'0}"_s,
+				u"{other:དུང་ཕྱུར་\' \'0}"_s,
+				u"{other:དུང་ཕྱུར་\' \'00}"_s,
+				u"{other:དུང་ཕྱུར་བརྒྱ་\' \'0}"_s,
+				u"{other:དུང་ཕྱུར་སྟོང\' \'0}"_s,
+				u"{other:དུང་ཕྱུར་ཁྲི་\' \'0}"_s,
+				u"{other:དུང་ཕྱུར་འབུམ་\' \'0}"_s,
+				u"{other:དུང་ཕྱུར་ས་ཡ་\' \'0}"_s
 			}))
 		}),
 		$$new($ObjectArray, {
@@ -442,7 +442,7 @@ $ObjectArray2* FormatData_dz::getContents() {
 			$of("tibt.NumberPatterns"_s),
 			$of($$new($StringArray, {
 				"#,##0.###"_s,
-				u"\u00a4\u00a0#,##0.00"_s,
+				u"¤ #,##0.00"_s,
 				"#,##0%"_s,
 				""_s
 			}))
@@ -473,7 +473,7 @@ $ObjectArray2* FormatData_dz::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.zone"_s),
-			$of(u"\u0f51\u0f74\u0f66\u0f0b\u0f40\u0f74\u0f63"_s)
+			$of(u"དུས་ཀུལ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("japanese.QuarterAbbreviations"_s),
@@ -513,7 +513,7 @@ $ObjectArray2* FormatData_dz::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.weekday"_s),
-			$of(u"\u0f56\u0f51\u0f74\u0f53\u0f0b\u0f55\u0fb2\u0f42\u0f0b\u0f42\u0f72\u0f0b\u0f49\u0f72\u0f58"_s)
+			$of(u"བདུན་ཕྲག་གི་ཉིམ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("japanese.MonthAbbreviations"_s),
@@ -538,13 +538,13 @@ $ObjectArray2* FormatData_dz::getContents() {
 				","_s,
 				";"_s,
 				"%"_s,
-				u"\u0f20"_s,
+				u"༠"_s,
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u0f42\u0fb2\u0f44\u0f66\u0f0b\u0f58\u0f7a\u0f51"_s,
-				u"\u0f68\u0f44\u0f0b\u0f58\u0f51"_s,
+				u"‰"_s,
+				u"གྲངས་མེད"_s,
+				u"ཨང་མད"_s,
 				""_s,
 				""_s
 			}))
@@ -571,7 +571,7 @@ $ObjectArray2* FormatData_dz::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.week"_s),
-			$of(u"\u0f56\u0f51\u0f74\u0f53\u0f0b\u0f55\u0fb2\u0f42"_s)
+			$of(u"བདུན་ཕྲག"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("buddhist.MonthNarrows"_s),
@@ -608,9 +608,9 @@ $ObjectArray2* FormatData_dz::getContents() {
 		$$new($ObjectArray, {
 			$of("DatePatterns"_s),
 			$of($$new($StringArray, {
-				u"EEEE, \u0f66\u0fa4\u0fb1\u0f72\u0f0b\u0f63\u0f7c\u0f0by MMMM \u0f5a\u0f7a\u0f66\u0f0bdd"_s,
-				u"\u0f66\u0fa4\u0fb1\u0f72\u0f0b\u0f63\u0f7c\u0f0by MMMM \u0f5a\u0f7a\u0f66\u0f0b dd"_s,
-				u"\u0f66\u0fa4\u0fb1\u0f72\u0f0b\u0f63\u0f7c\u0f0by \u0f5f\u0fb3\u0f0bMMM \u0f5a\u0f7a\u0f66\u0f0bdd"_s,
+				u"EEEE, སྤྱི་ལོ་y MMMM ཚེས་dd"_s,
+				u"སྤྱི་ལོ་y MMMM ཚེས་ dd"_s,
+				u"སྤྱི་ལོ་y ཟླ་MMM ཚེས་dd"_s,
 				"y-MM-dd"_s
 			}))
 		}),
@@ -632,23 +632,23 @@ $ObjectArray2* FormatData_dz::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.hour"_s),
-			$of(u"\u0f46\u0f74\u0f0b\u0f5a\u0f7c\u0f51"_s)
+			$of(u"ཆུ་ཚོད"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("standalone.MonthNames"_s),
 			$of($$new($StringArray, {
-				u"\u0f66\u0fa4\u0fb1\u0f72\u0f0b\u0f5f\u0fb3\u0f0b\u0f51\u0f44\u0f54\u0f0b"_s,
-				u"\u0f66\u0fa4\u0fb1\u0f72\u0f0b\u0f5f\u0fb3\u0f0b\u0f42\u0f49\u0f72\u0f66\u0f0b\u0f54\u0f0b"_s,
-				u"\u0f66\u0fa4\u0fb1\u0f72\u0f0b\u0f5f\u0fb3\u0f0b\u0f42\u0f66\u0f74\u0f58\u0f0b\u0f54\u0f0b"_s,
-				u"\u0f66\u0fa4\u0fb1\u0f72\u0f0b\u0f5f\u0fb3\u0f0b\u0f56\u0f5e\u0f72\u0f0b\u0f54"_s,
-				u"\u0f66\u0fa4\u0fb1\u0f72\u0f0b\u0f5f\u0fb3\u0f0b\u0f63\u0f94\u0f0b\u0f54\u0f0b"_s,
-				u"\u0f66\u0fa4\u0fb1\u0f72\u0f0b\u0f5f\u0fb3\u0f0b\u0f51\u0fb2\u0f74\u0f42\u0f0b\u0f54"_s,
-				u"\u0f66\u0fa4\u0fb1\u0f72\u0f0b\u0f5f\u0fb3\u0f0b\u0f56\u0f51\u0f74\u0f53\u0f0b\u0f54\u0f0b"_s,
-				u"\u0f66\u0fa4\u0fb1\u0f72\u0f0b\u0f5f\u0fb3\u0f0b\u0f56\u0f62\u0f92\u0fb1\u0f51\u0f0b\u0f54\u0f0b"_s,
-				u"\u0f66\u0fa4\u0fb1\u0f72\u0f0b\u0f5f\u0fb3\u0f0b\u0f51\u0f42\u0f74\u0f0b\u0f54\u0f0b"_s,
-				u"\u0f66\u0fa4\u0fb1\u0f72\u0f0b\u0f5f\u0fb3\u0f0b\u0f56\u0f45\u0f74\u0f0b\u0f54\u0f0b"_s,
-				u"\u0f66\u0fa4\u0fb1\u0f72\u0f0b\u0f5f\u0fb3\u0f0b\u0f56\u0f45\u0f74\u0f0b\u0f42\u0f45\u0f72\u0f42\u0f0b\u0f54\u0f0b"_s,
-				u"\u0f66\u0fa4\u0fb1\u0f72\u0f0b\u0f5f\u0fb3\u0f0b\u0f56\u0f45\u0f74\u0f0b\u0f42\u0f49\u0f72\u0f66\u0f0b\u0f54\u0f0b"_s,
+				u"སྤྱི་ཟླ་དངཔ་"_s,
+				u"སྤྱི་ཟླ་གཉིས་པ་"_s,
+				u"སྤྱི་ཟླ་གསུམ་པ་"_s,
+				u"སྤྱི་ཟླ་བཞི་པ"_s,
+				u"སྤྱི་ཟླ་ལྔ་པ་"_s,
+				u"སྤྱི་ཟླ་དྲུག་པ"_s,
+				u"སྤྱི་ཟླ་བདུན་པ་"_s,
+				u"སྤྱི་ཟླ་བརྒྱད་པ་"_s,
+				u"སྤྱི་ཟླ་དགུ་པ་"_s,
+				u"སྤྱི་ཟླ་བཅུ་པ་"_s,
+				u"སྤྱི་ཟླ་བཅུ་གཅིག་པ་"_s,
+				u"སྤྱི་ཟླ་བཅུ་གཉིས་པ་"_s,
 				""_s
 			}))
 		}),
@@ -656,8 +656,8 @@ $ObjectArray2* FormatData_dz::getContents() {
 			$of("latn.NumberPatterns"_s),
 			$of($$new($StringArray, {
 				"#,##,##0.###"_s,
-				u"\u00a4#,##,##0.00"_s,
-				u"#,##,##0\u00a0%"_s,
+				u"¤#,##,##0.00"_s,
+				u"#,##,##0 %"_s,
 				""_s
 			}))
 		}),

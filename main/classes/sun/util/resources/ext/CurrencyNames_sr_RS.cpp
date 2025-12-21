@@ -39,7 +39,7 @@ void CurrencyNames_sr_RS::init$() {
 $ObjectArray2* CurrencyNames_sr_RS::getContents() {
 	return $new($ObjectArray2, {$$new($ObjectArray, {
 		$of("RSD"_s),
-		$of(u"\u0434\u0438\u043d."_s)
+		$of(u"дин."_s)
 	})});
 }
 

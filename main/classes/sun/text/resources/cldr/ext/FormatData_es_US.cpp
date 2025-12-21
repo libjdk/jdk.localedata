@@ -50,9 +50,9 @@ $ObjectArray2* FormatData_es_US::getContents() {
 	}));
 	$var($StringArray, metaValue_QuarterNames, $new($StringArray, {
 		"1.er trimestre"_s,
-		u"2.\u00ba trimestre"_s,
+		u"2.º trimestre"_s,
 		"3.er trimestre"_s,
-		u"4.\u00ba trimestre"_s
+		u"4.º trimestre"_s
 	}));
 	$var($StringArray, metaValue_TimePatterns, $new($StringArray, {
 		"h:mm:ss a zzzz"_s,
@@ -75,18 +75,18 @@ $ObjectArray2* FormatData_es_US::getContents() {
 				""_s,
 				""_s,
 				""_s,
-				u"{one:0\u00a0K other:0\u00a0K}"_s,
-				u"{one:00\u00a0K other:00\u00a0K}"_s,
-				u"{one:000\u00a0K other:000\u00a0K}"_s,
+				u"{one:0 K other:0 K}"_s,
+				u"{one:00 K other:00 K}"_s,
+				u"{one:000 K other:000 K}"_s,
 				""_s,
 				""_s,
 				""_s,
-				u"{one:0\u00a0B other:0\u00a0B}"_s,
-				u"{one:00\u00a0B other:00\u00a0B}"_s,
-				u"{one:000\u00a0B other:000\u00a0B}"_s,
-				u"{one:0\u00a0T other:0\u00a0T}"_s,
-				u"{one:00\u00a0T other:00\u00a0T}"_s,
-				u"{one:000\u00a0T other:000\u00a0T}"_s
+				u"{one:0 B other:0 B}"_s,
+				u"{one:00 B other:00 B}"_s,
+				u"{one:000 B other:000 B}"_s,
+				u"{one:0 T other:0 T}"_s,
+				u"{one:00 T other:00 T}"_s,
+				u"{one:000 T other:000 T}"_s
 			}))
 		}),
 		$$new($ObjectArray, {
@@ -134,8 +134,8 @@ $ObjectArray2* FormatData_es_US::getContents() {
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
+				u"‰"_s,
+				u"∞"_s,
 				"NaN"_s,
 				""_s,
 				""_s
@@ -153,9 +153,9 @@ $ObjectArray2* FormatData_es_US::getContents() {
 			$of("latn.NumberPatterns"_s),
 			$of($$new($StringArray, {
 				"#,##0.###"_s,
-				u"\u00a4#,##0.00"_s,
-				u"#,##0\u00a0%"_s,
-				u"\u00a4#,##0.00"_s
+				u"¤#,##0.00"_s,
+				u"#,##0 %"_s,
+				u"¤#,##0.00"_s
 			}))
 		}),
 		$$new($ObjectArray, {
@@ -170,10 +170,10 @@ $ObjectArray2* FormatData_es_US::getContents() {
 				""_s,
 				""_s,
 				""_s,
-				u"{one:0\' \'bill\u00f3n other:0\' \'billones}"_s,
+				u"{one:0\' \'billón other:0\' \'billones}"_s,
 				"{one:00\' \'billones other:00\' \'billones}"_s,
 				"{one:000\' \'billones other:000\' \'billones}"_s,
-				u"{one:0\' \'trill\u00f3n other:0\' \'trillones}"_s,
+				u"{one:0\' \'trillón other:0\' \'trillones}"_s,
 				"{one:00\' \'trillones other:00\' \'trillones}"_s,
 				"{one:000\' \'trillones other:000\' \'trillones}"_s
 			}))
@@ -210,9 +210,9 @@ $ObjectArray2* FormatData_es_US::getContents() {
 			$of("standalone.QuarterNames"_s),
 			$of($$new($StringArray, {
 				"1.er trimestre"_s,
-				u"2\u00ba. trimestre"_s,
+				u"2º. trimestre"_s,
 				"3.er trimestre"_s,
-				u"4.\u00ba trimestre"_s
+				u"4.º trimestre"_s
 			}))
 		}),
 		$$new($ObjectArray, {

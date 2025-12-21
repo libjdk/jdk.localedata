@@ -42,112 +42,112 @@ $ObjectArray2* FormatData_hi_IN::getContents() {
 		$$new($ObjectArray, {
 			$of("MonthNames"_s),
 			$of($$new($StringArray, {
-				u"\u091c\u0928\u0935\u0930\u0940"_s,
-				u"\u092b\u093c\u0930\u0935\u0930\u0940"_s,
-				u"\u092e\u093e\u0930\u094d\u091a"_s,
-				u"\u0905\u092a\u094d\u0930\u0948\u0932"_s,
-				u"\u092e\u0908"_s,
-				u"\u091c\u0942\u0928"_s,
-				u"\u091c\u0941\u0932\u093e\u0908"_s,
-				u"\u0905\u0917\u0938\u094d\u0924"_s,
-				u"\u0938\u093f\u0924\u0902\u092c\u0930"_s,
-				u"\u0905\u0915\u094d\u200d\u0924\u0942\u092c\u0930"_s,
-				u"\u0928\u0935\u0902\u092c\u0930"_s,
-				u"\u0926\u093f\u0938\u0902\u092c\u0930"_s,
+				u"जनवरी"_s,
+				u"फ़रवरी"_s,
+				u"मार्च"_s,
+				u"अप्रैल"_s,
+				u"मई"_s,
+				u"जून"_s,
+				u"जुलाई"_s,
+				u"अगस्त"_s,
+				u"सितंबर"_s,
+				u"अक्\u200dतूबर"_s,
+				u"नवंबर"_s,
+				u"दिसंबर"_s,
 				""_s
 			}))
 		}),
 		$$new($ObjectArray, {
 			$of("MonthAbbreviations"_s),
 			$of($$new($StringArray, {
-				u"\u091c\u0928\u0935\u0930\u0940"_s,
-				u"\u092b\u093c\u0930\u0935\u0930\u0940"_s,
-				u"\u092e\u093e\u0930\u094d\u091a"_s,
-				u"\u0905\u092a\u094d\u0930\u0948\u0932"_s,
-				u"\u092e\u0908"_s,
-				u"\u091c\u0942\u0928"_s,
-				u"\u091c\u0941\u0932\u093e\u0908"_s,
-				u"\u0905\u0917\u0938\u094d\u0924"_s,
-				u"\u0938\u093f\u0924\u0902\u092c\u0930"_s,
-				u"\u0905\u0915\u094d\u200d\u0924\u0942\u092c\u0930"_s,
-				u"\u0928\u0935\u0902\u092c\u0930"_s,
-				u"\u0926\u093f\u0938\u0902\u092c\u0930"_s,
+				u"जनवरी"_s,
+				u"फ़रवरी"_s,
+				u"मार्च"_s,
+				u"अप्रैल"_s,
+				u"मई"_s,
+				u"जून"_s,
+				u"जुलाई"_s,
+				u"अगस्त"_s,
+				u"सितंबर"_s,
+				u"अक्\u200dतूबर"_s,
+				u"नवंबर"_s,
+				u"दिसंबर"_s,
 				""_s
 			}))
 		}),
 		$$new($ObjectArray, {
 			$of("MonthNarrows"_s),
 			$of($$new($StringArray, {
-				u"\u091c"_s,
-				u"\u092b\u093c"_s,
-				u"\u092e\u093e"_s,
-				u"\u0905"_s,
-				u"\u092e"_s,
-				u"\u091c\u0942"_s,
-				u"\u091c\u0941"_s,
-				u"\u0905"_s,
-				u"\u0938\u093f"_s,
-				u"\u0905"_s,
-				u"\u0928"_s,
-				u"\u0926\u093f"_s,
+				u"ज"_s,
+				u"फ़"_s,
+				u"मा"_s,
+				u"अ"_s,
+				u"म"_s,
+				u"जू"_s,
+				u"जु"_s,
+				u"अ"_s,
+				u"सि"_s,
+				u"अ"_s,
+				u"न"_s,
+				u"दि"_s,
 				""_s
 			}))
 		}),
 		$$new($ObjectArray, {
 			$of("DayNames"_s),
 			$of($$new($StringArray, {
-				u"\u0930\u0935\u093f\u0935\u093e\u0930"_s,
-				u"\u0938\u094b\u092e\u0935\u093e\u0930"_s,
-				u"\u092e\u0902\u0917\u0932\u0935\u093e\u0930"_s,
-				u"\u092c\u0941\u0927\u0935\u093e\u0930"_s,
-				u"\u0917\u0941\u0930\u0941\u0935\u093e\u0930"_s,
-				u"\u0936\u0941\u0915\u094d\u0930\u0935\u093e\u0930"_s,
-				u"\u0936\u0928\u093f\u0935\u093e\u0930"_s
+				u"रविवार"_s,
+				u"सोमवार"_s,
+				u"मंगलवार"_s,
+				u"बुधवार"_s,
+				u"गुरुवार"_s,
+				u"शुक्रवार"_s,
+				u"शनिवार"_s
 			}))
 		}),
 		$$new($ObjectArray, {
 			$of("DayAbbreviations"_s),
 			$of($$new($StringArray, {
-				u"\u0930\u0935\u093f"_s,
-				u"\u0938\u094b\u092e"_s,
-				u"\u092e\u0902\u0917\u0932"_s,
-				u"\u092c\u0941\u0927"_s,
-				u"\u0917\u0941\u0930\u0941"_s,
-				u"\u0936\u0941\u0915\u094d\u0930"_s,
-				u"\u0936\u0928\u093f"_s
+				u"रवि"_s,
+				u"सोम"_s,
+				u"मंगल"_s,
+				u"बुध"_s,
+				u"गुरु"_s,
+				u"शुक्र"_s,
+				u"शनि"_s
 			}))
 		}),
 		$$new($ObjectArray, {
 			$of("DayNarrows"_s),
 			$of($$new($StringArray, {
-				u"\u0930"_s,
-				u"\u0938\u094b"_s,
-				u"\u092e\u0902"_s,
-				u"\u092c\u0941"_s,
-				u"\u0917\u0941"_s,
-				u"\u0936\u0941"_s,
-				u"\u0936"_s
+				u"र"_s,
+				u"सो"_s,
+				u"मं"_s,
+				u"बु"_s,
+				u"गु"_s,
+				u"शु"_s,
+				u"श"_s
 			}))
 		}),
 		$$new($ObjectArray, {
 			$of("AmPmMarkers"_s),
 			$of($$new($StringArray, {
-				u"\u092a\u0942\u0930\u094d\u0935\u093e\u0939\u094d\u0928"_s,
-				u"\u0905\u092a\u0930\u093e\u0939\u094d\u0928"_s
+				u"पूर्वाह्न"_s,
+				u"अपराह्न"_s
 			}))
 		}),
 		$$new($ObjectArray, {
 			$of("Eras"_s),
 			$of($$new($StringArray, {
-				u"\u0908\u0938\u093e\u092a\u0942\u0930\u094d\u0935"_s,
-				u"\u0938\u0928"_s
+				u"ईसापूर्व"_s,
+				u"सन"_s
 			}))
 		}),
 		$$new($ObjectArray, {
 			$of("short.Eras"_s),
 			$of($$new($StringArray, {
-				u"\u0908\u0938\u093e\u092a\u0942\u0930\u094d\u0935"_s,
-				u"\u0938\u0928"_s
+				u"ईसापूर्व"_s,
+				u"सन"_s
 			}))
 		}),
 		$$new($ObjectArray, {
@@ -157,13 +157,13 @@ $ObjectArray2* FormatData_hi_IN::getContents() {
 				","_s,
 				";"_s,
 				"%"_s,
-				u"\u0966"_s,
+				u"०"_s,
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
-				u"\ufffd"_s
+				u"‰"_s,
+				u"∞"_s,
+				u"�"_s
 			}))
 		}),
 		$$new($ObjectArray, {

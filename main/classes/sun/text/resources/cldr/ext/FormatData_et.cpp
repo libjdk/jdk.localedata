@@ -42,7 +42,7 @@ $ObjectArray2* FormatData_et::getContents() {
 	$var($StringArray, metaValue_MonthNames, $new($StringArray, {
 		"jaanuar"_s,
 		"veebruar"_s,
-		u"m\u00e4rts"_s,
+		u"märts"_s,
 		"aprill"_s,
 		"mai"_s,
 		"juuni"_s,
@@ -57,7 +57,7 @@ $ObjectArray2* FormatData_et::getContents() {
 	$var($StringArray, metaValue_MonthAbbreviations, $new($StringArray, {
 		"jaan"_s,
 		"veebr"_s,
-		u"m\u00e4rts"_s,
+		u"märts"_s,
 		"apr"_s,
 		"mai"_s,
 		"juuni"_s,
@@ -85,13 +85,13 @@ $ObjectArray2* FormatData_et::getContents() {
 		""_s
 	}));
 	$var($StringArray, metaValue_DayNames, $new($StringArray, {
-		u"p\u00fchap\u00e4ev"_s,
-		u"esmasp\u00e4ev"_s,
-		u"teisip\u00e4ev"_s,
-		u"kolmap\u00e4ev"_s,
-		u"neljap\u00e4ev"_s,
+		u"pühapäev"_s,
+		u"esmaspäev"_s,
+		u"teisipäev"_s,
+		u"kolmapäev"_s,
+		u"neljapäev"_s,
 		"reede"_s,
-		u"laup\u00e4ev"_s
+		u"laupäev"_s
 	}));
 	$var($StringArray, metaValue_DayAbbreviations, $new($StringArray, {
 		"P"_s,
@@ -117,15 +117,15 @@ $ObjectArray2* FormatData_et::getContents() {
 	$var($StringArray, metaValue_AmPmMarkers, $new($StringArray, {
 		"AM"_s,
 		"PM"_s,
-		u"kesk\u00f6\u00f6l"_s,
-		u"keskp\u00e4eval"_s,
+		u"keskööl"_s,
+		u"keskpäeval"_s,
 		"hommikul"_s,
 		""_s,
-		u"p\u00e4rastl\u00f5unal"_s,
+		u"pärastlõunal"_s,
 		""_s,
-		u"\u00f5htul"_s,
+		u"õhtul"_s,
 		""_s,
-		u"\u00f6\u00f6sel"_s,
+		u"öösel"_s,
 		""_s
 	}));
 	$var($StringArray, metaValue_Eras, $new($StringArray, {
@@ -250,7 +250,7 @@ $ObjectArray2* FormatData_et::getContents() {
 			$of("long.Eras"_s),
 			$of($$new($StringArray, {
 				"enne Kristust"_s,
-				u"p\u00e4rast Kristust"_s
+				u"pärast Kristust"_s
 			}))
 		}),
 		$$new($ObjectArray, {
@@ -286,15 +286,15 @@ $ObjectArray2* FormatData_et::getContents() {
 			$of("latn.NumberElements"_s),
 			$of($$new($StringArray, {
 				","_s,
-				u"\u00a0"_s,
+				u" "_s,
 				";"_s,
 				"%"_s,
 				"0"_s,
 				"#"_s,
-				u"\u2212"_s,
-				u"\u00d710^"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
+				u"−"_s,
+				u"×10^"_s,
+				u"‰"_s,
+				u"∞"_s,
 				"NaN"_s,
 				""_s,
 				""_s
@@ -326,7 +326,7 @@ $ObjectArray2* FormatData_et::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.dayperiod"_s),
-			$of(u"enne/p\u00e4rast l\u00f5unat"_s)
+			$of(u"enne/pärast lõunat"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("standalone.MonthNarrows"_s),
@@ -462,7 +462,7 @@ $ObjectArray2* FormatData_et::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.zone"_s),
-			$of(u"ajav\u00f6\u00f6nd"_s)
+			$of(u"ajavöönd"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("japanese.QuarterAbbreviations"_s),
@@ -507,7 +507,7 @@ $ObjectArray2* FormatData_et::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.weekday"_s),
-			$of(u"n\u00e4dalap\u00e4ev"_s)
+			$of(u"nädalapäev"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("japanese.MonthAbbreviations"_s),
@@ -531,7 +531,7 @@ $ObjectArray2* FormatData_et::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.hourFormat"_s),
-			$of(u"+HH:mm;\u2212HH:mm"_s)
+			$of(u"+HH:mm;−HH:mm"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("japanese.DayNames"_s),
@@ -559,7 +559,7 @@ $ObjectArray2* FormatData_et::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.week"_s),
-			$of(u"n\u00e4dal"_s)
+			$of(u"nädal"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("buddhist.MonthNarrows"_s),
@@ -595,18 +595,18 @@ $ObjectArray2* FormatData_et::getContents() {
 				""_s,
 				""_s,
 				""_s,
-				u"{one:0\u00a0tuh other:0\u00a0tuh}"_s,
-				u"{one:00\u00a0tuh other:00\u00a0tuh}"_s,
-				u"{one:000\u00a0tuh other:000\u00a0tuh}"_s,
-				u"{one:0\u00a0mln other:0\u00a0mln}"_s,
-				u"{one:00\u00a0mln other:00\u00a0mln}"_s,
-				u"{one:000\u00a0mln other:000\u00a0mln}"_s,
-				u"{one:0\u00a0mld other:0\u00a0mld}"_s,
-				u"{one:00\u00a0mld other:00\u00a0mld}"_s,
-				u"{one:000\u00a0mld other:000\u00a0mld}"_s,
-				u"{one:0\u00a0trl other:0\u00a0trl}"_s,
-				u"{one:00\u00a0trl other:00\u00a0trl}"_s,
-				u"{one:000\u00a0trl other:000\u00a0trl}"_s
+				u"{one:0 tuh other:0 tuh}"_s,
+				u"{one:00 tuh other:00 tuh}"_s,
+				u"{one:000 tuh other:000 tuh}"_s,
+				u"{one:0 mln other:0 mln}"_s,
+				u"{one:00 mln other:00 mln}"_s,
+				u"{one:000 mln other:000 mln}"_s,
+				u"{one:0 mld other:0 mld}"_s,
+				u"{one:00 mld other:00 mld}"_s,
+				u"{one:000 mld other:000 mld}"_s,
+				u"{one:0 trl other:0 trl}"_s,
+				u"{one:00 trl other:00 trl}"_s,
+				u"{one:000 trl other:000 trl}"_s
 			}))
 		}),
 		$$new($ObjectArray, {
@@ -662,9 +662,9 @@ $ObjectArray2* FormatData_et::getContents() {
 			$of("latn.NumberPatterns"_s),
 			$of($$new($StringArray, {
 				"#,##0.###"_s,
-				u"#,##0.00\u00a0\u00a4"_s,
+				u"#,##0.00 ¤"_s,
 				"#,##0%"_s,
-				u"#,##0.00\u00a0\u00a4;(#,##0.00\u00a0\u00a4)"_s
+				u"#,##0.00 ¤;(#,##0.00 ¤)"_s
 			}))
 		}),
 		$$new($ObjectArray, {

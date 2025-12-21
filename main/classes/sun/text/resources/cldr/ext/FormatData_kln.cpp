@@ -41,17 +41,17 @@ $ObjectArray2* FormatData_kln::getContents() {
 	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_MonthNames, $new($StringArray, {
 		"Mulgul"_s,
-		u"Ng\u2019atyaato"_s,
+		u"Ng’atyaato"_s,
 		"Kiptaamo"_s,
 		"Iwootkuut"_s,
 		"Mamuut"_s,
 		"Paagi"_s,
-		u"Ng\u2019eiyeet"_s,
+		u"Ng’eiyeet"_s,
 		"Rooptui"_s,
 		"Bureet"_s,
 		"Epeeso"_s,
 		"Kipsuunde ne taai"_s,
-		u"Kipsuunde nebo aeng\u2019"_s,
+		u"Kipsuunde nebo aeng’"_s,
 		""_s
 	}));
 	$var($StringArray, metaValue_MonthAbbreviations, $new($StringArray, {
@@ -87,9 +87,9 @@ $ObjectArray2* FormatData_kln::getContents() {
 	$var($StringArray, metaValue_DayNames, $new($StringArray, {
 		"Kotisap"_s,
 		"Kotaai"_s,
-		u"Koaeng\u2019"_s,
+		u"Koaeng’"_s,
 		"Kosomok"_s,
-		u"Koang\u2019wan"_s,
+		u"Koang’wan"_s,
 		"Komuut"_s,
 		"Kolo"_s
 	}));
@@ -113,9 +113,9 @@ $ObjectArray2* FormatData_kln::getContents() {
 	}));
 	$var($StringArray, metaValue_QuarterNames, $new($StringArray, {
 		"Robo netai"_s,
-		u"Robo nebo aeng\u2019"_s,
+		u"Robo nebo aeng’"_s,
 		"Robo nebo somok"_s,
-		u"Robo nebo ang\u2019wan"_s
+		u"Robo nebo ang’wan"_s
 	}));
 	$var($StringArray, metaValue_QuarterAbbreviations, $new($StringArray, {
 		"R1"_s,
@@ -324,8 +324,8 @@ $ObjectArray2* FormatData_kln::getContents() {
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
+				u"‰"_s,
+				u"∞"_s,
 				"NaN"_s,
 				""_s,
 				""_s
@@ -496,9 +496,9 @@ $ObjectArray2* FormatData_kln::getContents() {
 			$of("latn.NumberPatterns"_s),
 			$of($$new($StringArray, {
 				"#,##0.###"_s,
-				u"\u00a4#,##0.00"_s,
+				u"¤#,##0.00"_s,
 				"#,##0%"_s,
-				u"\u00a4#,##0.00;(\u00a4#,##0.00)"_s
+				u"¤#,##0.00;(¤#,##0.00)"_s
 			}))
 		}),
 		$$new($ObjectArray, {

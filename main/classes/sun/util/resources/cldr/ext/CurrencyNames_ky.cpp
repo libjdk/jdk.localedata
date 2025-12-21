@@ -310,7 +310,7 @@ $ObjectArray2* CurrencyNames_ky::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("KGS"_s),
-			$of(u"\u0441\u043e\u043c"_s)
+			$of(u"сом"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("KHR"_s),
@@ -558,7 +558,7 @@ $ObjectArray2* CurrencyNames_ky::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("THB"_s),
-			$of(u"\u0e3f"_s)
+			$of(u"฿"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("TJS"_s),
@@ -642,651 +642,651 @@ $ObjectArray2* CurrencyNames_ky::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("aed"_s),
-			$of(u"\u0411\u0438\u0440\u0438\u043a\u043a\u0435\u043d \u0410\u0440\u0430\u0431 \u042d\u043c\u0438\u0440\u0430\u0442\u0442\u0430\u0440\u044b\u043d\u044b\u043d \u0434\u0438\u0440\u0445\u0430\u043c\u044b"_s)
+			$of(u"Бириккен Араб Эмираттарынын дирхамы"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("afn"_s),
-			$of(u"\u0410\u0444\u0433\u0430\u043d\u0441\u0442\u0430\u043d \u0430\u0444\u0433\u0430\u043d\u0438\u0441\u0438"_s)
+			$of(u"Афганстан афганиси"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("all"_s),
-			$of(u"\u0430\u043b\u0431\u0430\u043d \u043b\u0435\u0433\u0438"_s)
+			$of(u"албан леги"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("amd"_s),
-			$of(u"\u0410\u0440\u043c\u0435\u043d\u0438\u044f \u0434\u0440\u0430\u043c\u044b"_s)
+			$of(u"Армения драмы"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ang"_s),
-			$of(u"\u043d\u0438\u0434\u0435\u0440\u043b\u0430\u043d\u0434-\u0430\u043d\u0442\u0438\u043b \u0433\u0443\u043b\u0434\u0435\u043d\u0438"_s)
+			$of(u"нидерланд-антил гулдени"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("aoa"_s),
-			$of(u"\u0410\u043d\u0433\u043e\u043b\u0430 \u043a\u0432\u0430\u043d\u0437\u0430\u0441\u044b"_s)
+			$of(u"Ангола кванзасы"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ars"_s),
-			$of(u"\u0430\u0440\u0433\u0435\u043d\u0442\u0438\u043d\u0430 \u043f\u0435\u0441\u043e\u0441\u0443"_s)
+			$of(u"аргентина песосу"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("aud"_s),
-			$of(u"\u0410\u0432\u0441\u0442\u0440\u0430\u043b\u0438\u044f \u0434\u043e\u043b\u043b\u0430\u0440\u044b"_s)
+			$of(u"Австралия доллары"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("awg"_s),
-			$of(u"\u0430\u0440\u0443\u0431\u0430 \u0444\u043b\u043e\u0440\u0438\u043d\u0438"_s)
+			$of(u"аруба флорини"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("azn"_s),
-			$of(u"\u0410\u0437\u0435\u0440\u0431\u0430\u0439\u0436\u0430\u043d \u043c\u0430\u043d\u0430\u0442\u044b"_s)
+			$of(u"Азербайжан манаты"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bam"_s),
-			$of(u"\u0431\u043e\u0441\u043d\u0438\u044f-\u0433\u0435\u0440\u0446\u043e\u0433\u043e\u0432\u0438\u043d\u0430 \u043a\u043e\u043d\u0432\u0435\u0440\u0442\u0430\u0446\u0438\u044f\u043b\u0430\u043d\u0443\u0443\u0447\u0443 \u043c\u0430\u0440\u043a\u0430\u0441\u044b"_s)
+			$of(u"босния-герцоговина конвертациялануучу маркасы"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bbd"_s),
-			$of(u"\u0431\u0430\u0440\u0431\u0430\u0434\u043e\u0441 \u0434\u043e\u043b\u043b\u0430\u0440\u044b"_s)
+			$of(u"барбадос доллары"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bdt"_s),
-			$of(u"\u0411\u0430\u043d\u0433\u043b\u0430\u0434\u0435\u0448 \u0442\u0430\u043a\u0430\u0441\u044b"_s)
+			$of(u"Бангладеш такасы"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bgn"_s),
-			$of(u"\u0431\u043e\u043b\u0433\u0430\u0440 \u043b\u0435\u0432\u0438\u0441\u0438"_s)
+			$of(u"болгар левиси"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bhd"_s),
-			$of(u"\u0411\u0430\u0445\u0440\u0435\u0439\u043d \u0434\u0438\u043d\u0430\u0440\u044b"_s)
+			$of(u"Бахрейн динары"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bif"_s),
-			$of(u"\u0411\u0443\u0440\u0443\u043d\u0434\u0438 \u0444\u0440\u0430\u043d\u043a\u044b"_s)
+			$of(u"Бурунди франкы"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bmd"_s),
-			$of(u"\u0431\u0435\u0440\u043c\u0443\u0434 \u0434\u043e\u043b\u043b\u0430\u0440\u044b"_s)
+			$of(u"бермуд доллары"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bnd"_s),
-			$of(u"\u0411\u0440\u0443\u043d\u0435\u0439 \u0434\u043e\u043b\u043b\u0430\u0440\u044b"_s)
+			$of(u"Бруней доллары"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bob"_s),
-			$of(u"\u0431\u043e\u043b\u0438\u0432\u0438\u044f \u0431\u043e\u043b\u0438\u0432\u0438\u0430\u043d\u043e\u0441\u0443"_s)
+			$of(u"боливия боливианосу"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("brl"_s),
-			$of(u"\u0431\u0440\u0430\u0437\u0438\u043b\u0438\u044f \u0440\u0435\u0430\u043b\u044b"_s)
+			$of(u"бразилия реалы"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bsd"_s),
-			$of(u"\u0431\u0430\u0433\u0430\u043c\u0430 \u0434\u043e\u043b\u043b\u0430\u0440\u044b"_s)
+			$of(u"багама доллары"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("btn"_s),
-			$of(u"\u0411\u0443\u0442\u0430\u043d \u043d\u0433\u0443\u043b\u0442\u0440\u0443\u043c\u0443"_s)
+			$of(u"Бутан нгултруму"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bwp"_s),
-			$of(u"\u0411\u043e\u0442\u0441\u0432\u0430\u043d\u0430 \u043f\u0443\u043b\u0430\u0441\u044b"_s)
+			$of(u"Ботсвана пуласы"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("byn"_s),
-			$of(u"\u0431\u0435\u043b\u0430\u0440\u0443\u0441\u044c \u0440\u0443\u0431\u043b\u0443"_s)
+			$of(u"беларусь рублу"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("byr"_s),
-			$of(u"\u0431\u0435\u043b\u0430\u0440\u0443\u0441\u044c \u0440\u0443\u0431\u043b\u0443 (2000\u20132016)"_s)
+			$of(u"беларусь рублу (2000–2016)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bzd"_s),
-			$of(u"\u0431\u0435\u043b\u0438\u0437 \u0434\u043e\u043b\u043b\u0430\u0440\u044b"_s)
+			$of(u"белиз доллары"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cad"_s),
-			$of(u"\u043a\u0430\u043d\u0430\u0434\u0430 \u0434\u043e\u043b\u043b\u0430\u0440\u044b"_s)
+			$of(u"канада доллары"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cdf"_s),
-			$of(u"\u041a\u043e\u043d\u0433\u043e \u0444\u0440\u0430\u043d\u043a\u044b"_s)
+			$of(u"Конго франкы"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("chf"_s),
-			$of(u"\u0448\u0432\u0435\u0439\u0446\u0430\u0440\u0438\u044f \u0444\u0440\u0430\u043d\u043a\u044b"_s)
+			$of(u"швейцария франкы"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("clp"_s),
-			$of(u"\u0447\u0438\u043b\u0438 \u043f\u0435\u0441\u043e\u0441\u0443"_s)
+			$of(u"чили песосу"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cnh"_s),
-			$of(u"\u041a\u044b\u0442\u0430\u0439 \u044e\u0430\u043d\u044b (\u043e\u0444\u0444\u0448\u043e\u0440)"_s)
+			$of(u"Кытай юаны (оффшор)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cny"_s),
-			$of(u"\u041a\u044b\u0442\u0430\u0439 \u044e\u0430\u043d\u044b"_s)
+			$of(u"Кытай юаны"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cop"_s),
-			$of(u"\u043a\u043e\u043b\u0443\u043c\u0431\u0438\u044f \u043f\u0435\u0441\u043e\u0441\u0443"_s)
+			$of(u"колумбия песосу"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("crc"_s),
-			$of(u"\u043a\u043e\u0441\u0442\u0430-\u0440\u0438\u043a\u0430 \u043a\u043e\u043b\u043e\u043d\u0443"_s)
+			$of(u"коста-рика колону"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cuc"_s),
-			$of(u"\u043a\u0443\u0431\u0430\u043d\u044b\u043d \u043a\u043e\u043d\u0432\u0435\u0440\u0442\u0430\u0446\u0438\u044f\u043b\u0430\u043d\u0443\u0443\u0447\u0443 \u043f\u0435\u0441\u043e\u0441\u0443"_s)
+			$of(u"кубанын конвертациялануучу песосу"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cup"_s),
-			$of(u"\u043a\u0443\u0431\u0430 \u043f\u0435\u0441\u043e\u0441\u0443"_s)
+			$of(u"куба песосу"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cve"_s),
-			$of(u"\u041a\u0430\u0431\u043e-\u0412\u0435\u0440\u0434\u0435 \u044d\u0441\u043a\u0443\u0434\u043e\u0441\u0443"_s)
+			$of(u"Кабо-Верде эскудосу"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("czk"_s),
-			$of(u"\u0447\u0435\u0445 \u043a\u0440\u043e\u043d\u0430\u0441\u044b"_s)
+			$of(u"чех кронасы"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("djf"_s),
-			$of(u"\u0416\u0438\u0431\u0443\u0442\u0438 \u0444\u0440\u0430\u043d\u043a\u044b"_s)
+			$of(u"Жибути франкы"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("dkk"_s),
-			$of(u"\u0434\u0430\u043d\u0438\u044f \u043a\u0440\u043e\u043d\u0443"_s)
+			$of(u"дания крону"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("dop"_s),
-			$of(u"\u0434\u043e\u043c\u0438\u043d\u0438\u043a\u0430\u043d \u043f\u0435\u0441\u043e\u0441\u0443"_s)
+			$of(u"доминикан песосу"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("dzd"_s),
-			$of(u"\u0430\u043b\u0436\u0438\u0440 \u0434\u0438\u043d\u0430\u0440\u044b"_s)
+			$of(u"алжир динары"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("egp"_s),
-			$of(u"\u0435\u0433\u0438\u043f\u0435\u0442 \u0444\u0443\u043d\u0442\u0443"_s)
+			$of(u"египет фунту"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ern"_s),
-			$of(u"\u042d\u0440\u0438\u0442\u0440\u0435\u0430 \u043d\u0430\u043a\u0444\u0430\u0441\u044b"_s)
+			$of(u"Эритреа накфасы"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("etb"_s),
-			$of(u"\u042d\u0444\u0438\u043e\u043f\u0438\u044f \u0431\u0438\u0440\u0440\u0438"_s)
+			$of(u"Эфиопия бирри"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("eur"_s),
-			$of(u"\u0415\u0432\u0440\u043e"_s)
+			$of(u"Евро"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("fjd"_s),
-			$of(u"\u0424\u0438\u0436\u0438 \u0434\u043e\u043b\u043b\u0430\u0440\u044b"_s)
+			$of(u"Фижи доллары"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("fkp"_s),
-			$of(u"\u0444\u043e\u043b\u043a\u043b\u0435\u043d\u0434 \u0430\u0440\u0430\u043b\u0434\u0430\u0440\u044b\u043d\u044b\u043d \u0444\u0443\u043d\u0442\u0443"_s)
+			$of(u"фолкленд аралдарынын фунту"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gbp"_s),
-			$of(u"\u0431\u0440\u0438\u0442\u0430\u043d\u0438\u044f \u0444\u0443\u043d\u0442 \u0441\u0442\u0435\u0440\u043b\u0438\u043d\u0433\u0438"_s)
+			$of(u"британия фунт стерлинги"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gel"_s),
-			$of(u"\u0413\u0440\u0443\u0437\u0438\u044f \u043b\u0430\u0440\u0438\u0441\u0438"_s)
+			$of(u"Грузия лариси"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ghs"_s),
-			$of(u"\u0413\u0430\u043d\u0430 \u0441\u0435\u0434\u0438\u0441\u0438"_s)
+			$of(u"Гана седиси"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gip"_s),
-			$of(u"\u0433\u0438\u0431\u0440\u0430\u043b\u0442\u0430\u0440 \u0444\u0443\u043d\u0442\u0443"_s)
+			$of(u"гибралтар фунту"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gmd"_s),
-			$of(u"\u0413\u0430\u043c\u0431\u0438\u044f \u0434\u0430\u043b\u0430\u0441\u0438\u0441\u0438"_s)
+			$of(u"Гамбия даласиси"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gnf"_s),
-			$of(u"\u0413\u0438\u043d\u0435 \u0444\u0440\u0430\u043d\u043a\u044b"_s)
+			$of(u"Гине франкы"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gtq"_s),
-			$of(u"\u0433\u0432\u0430\u0442\u0435\u043c\u0430\u043b\u0430 \u043a\u0435\u0442\u0441\u0430\u043b\u044b"_s)
+			$of(u"гватемала кетсалы"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gyd"_s),
-			$of(u"\u0433\u0443\u0439\u0430\u043d\u0430 \u0434\u043e\u043b\u043b\u0430\u0440\u044b"_s)
+			$of(u"гуйана доллары"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("hkd"_s),
-			$of(u"\u0413\u043e\u043d\u043a\u043e\u043d\u0433 \u0434\u043e\u043b\u043b\u0430\u0440\u044b"_s)
+			$of(u"Гонконг доллары"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("hnl"_s),
-			$of(u"\u0433\u043e\u043d\u0434\u0443\u0440\u0430\u0441 \u043b\u0435\u043c\u043f\u0438\u0440\u0430\u0441\u044b"_s)
+			$of(u"гондурас лемпирасы"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("hrk"_s),
-			$of(u"\u0445\u043e\u0440\u0432\u0430\u0442 \u043a\u0443\u043d\u0430\u0441\u044b"_s)
+			$of(u"хорват кунасы"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("htg"_s),
-			$of(u"\u0433\u0430\u0438\u0442\u0438 \u0433\u0443\u0440\u0434\u0443\u0441\u0443"_s)
+			$of(u"гаити гурдусу"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("huf"_s),
-			$of(u"\u0432\u0435\u043d\u0433\u0440 \u0444\u043e\u0440\u0438\u043d\u0442\u0438"_s)
+			$of(u"венгр форинти"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("idr"_s),
-			$of(u"\u0418\u043d\u0434\u043e\u043d\u0435\u0437\u0438\u044f \u0440\u0443\u043f\u0438\u0439\u0430\u0441\u044b"_s)
+			$of(u"Индонезия рупийасы"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ils"_s),
-			$of(u"\u0418\u0437\u0440\u0430\u0438\u043b\u0434\u0438\u043d \u0436\u0430\u04a3\u044b \u0448\u0435\u043a\u0435\u043b\u0438"_s)
+			$of(u"Израилдин жаңы шекели"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("inr"_s),
-			$of(u"\u0418\u043d\u0434\u0438\u044f \u0440\u0443\u043f\u0438\u0441\u0438"_s)
+			$of(u"Индия руписи"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("iqd"_s),
-			$of(u"\u0418\u0440\u0430\u043a \u0434\u0438\u043d\u0430\u0440\u044b"_s)
+			$of(u"Ирак динары"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("irr"_s),
-			$of(u"\u0418\u0440\u0430\u043d \u0440\u0438\u0430\u043b\u044b"_s)
+			$of(u"Иран риалы"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("isk"_s),
-			$of(u"\u0438\u0441\u043b\u0430\u043d\u0434\u0438\u044f \u043a\u0440\u043e\u043d\u0443"_s)
+			$of(u"исландия крону"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("jmd"_s),
-			$of(u"\u044f\u043c\u0430\u0439\u043a\u0430 \u0434\u043e\u043b\u043b\u0430\u0440\u044b"_s)
+			$of(u"ямайка доллары"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("jod"_s),
-			$of(u"\u0419\u043e\u0440\u0434\u0430\u043d\u0438\u044f \u0434\u0438\u043d\u0430\u0440\u044b"_s)
+			$of(u"Йордания динары"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("jpy"_s),
-			$of(u"\u0416\u0430\u043f\u0430\u043d \u0439\u0435\u043d\u0438"_s)
+			$of(u"Жапан йени"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kes"_s),
-			$of(u"\u041a\u0435\u043d\u0438\u044f \u0448\u0438\u043b\u043b\u0438\u043d\u0433\u0438"_s)
+			$of(u"Кения шиллинги"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kgs"_s),
-			$of(u"\u041a\u044b\u0440\u0433\u044b\u0437\u0441\u0442\u0430\u043d \u0441\u043e\u043c\u0443"_s)
+			$of(u"Кыргызстан сому"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("khr"_s),
-			$of(u"\u041a\u0430\u043c\u0431\u043e\u0436\u0430 \u0440\u0438\u0435\u043b\u0438"_s)
+			$of(u"Камбожа риели"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kmf"_s),
-			$of(u"\u041a\u043e\u043c\u043e\u0440\u043e\u0441 \u0444\u0440\u0430\u043d\u043a\u044b"_s)
+			$of(u"Коморос франкы"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kpw"_s),
-			$of(u"\u0422\u04af\u043d\u0434\u04af\u043a \u041a\u043e\u0440\u0435\u044f \u0432\u043e\u043d\u0443"_s)
+			$of(u"Түндүк Корея вону"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("krw"_s),
-			$of(u"\u0422\u04af\u0448\u0442\u04af\u043a \u041a\u043e\u0440\u0435\u044f \u0432\u043e\u043d\u0443"_s)
+			$of(u"Түштүк Корея вону"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kwd"_s),
-			$of(u"\u041a\u0443\u0432\u0435\u0439\u0442 \u0434\u0438\u043d\u0430\u0440\u044b"_s)
+			$of(u"Кувейт динары"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kyd"_s),
-			$of(u"\u043a\u0430\u0439\u043c\u0430\u043d \u0434\u043e\u043b\u043b\u0430\u0440\u044b"_s)
+			$of(u"кайман доллары"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kzt"_s),
-			$of(u"\u041a\u0430\u0437\u0430\u043a\u0441\u0442\u0430\u043d \u0442\u0435\u04a3\u0433\u0435\u0441\u0438"_s)
+			$of(u"Казакстан теңгеси"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lak"_s),
-			$of(u"\u041b\u0430\u043e\u0441 \u043a\u0438\u0431\u0438"_s)
+			$of(u"Лаос киби"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lbp"_s),
-			$of(u"\u041b\u0438\u0432\u0430\u043d \u0444\u0443\u043d\u0442\u0443"_s)
+			$of(u"Ливан фунту"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lkr"_s),
-			$of(u"\u0428\u0440\u0438 \u041b\u0430\u043d\u043a\u0430 \u0440\u0443\u043f\u0438\u0441\u0438"_s)
+			$of(u"Шри Ланка руписи"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lrd"_s),
-			$of(u"\u041b\u0438\u0431\u0435\u0440\u0438\u044f \u0434\u043e\u043b\u043b\u0430\u0440\u044b"_s)
+			$of(u"Либерия доллары"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ltl"_s),
-			$of(u"\u043b\u0438\u0442\u0432\u0430 \u043b\u0438\u0442\u0430\u0441\u044b"_s)
+			$of(u"литва литасы"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lvl"_s),
-			$of(u"\u043b\u0430\u0442\u0432\u0438\u044f \u043b\u0430\u0442\u044b"_s)
+			$of(u"латвия латы"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lyd"_s),
-			$of(u"\u043b\u0438\u0432\u0438\u044f \u0434\u0438\u043d\u0430\u0440\u044b"_s)
+			$of(u"ливия динары"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mad"_s),
-			$of(u"\u043c\u0430\u0440\u043e\u043a\u043a\u043e \u0434\u0438\u0440\u0445\u0430\u043c\u044b"_s)
+			$of(u"марокко дирхамы"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mdl"_s),
-			$of(u"\u043c\u043e\u043b\u0434\u043e\u0432\u0430\u043d \u043b\u0435\u0439\u0438"_s)
+			$of(u"молдован лейи"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mga"_s),
-			$of(u"\u041c\u0430\u0434\u0430\u0433\u0430\u0441\u043a\u0430\u0440 \u0430\u0440\u0438\u0430\u0440\u0438\u0441\u0438"_s)
+			$of(u"Мадагаскар ариариси"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mkd"_s),
-			$of(u"\u043c\u0430\u043a\u0435\u0434\u043e\u043d \u0434\u0435\u043d\u0430\u0440\u044b"_s)
+			$of(u"македон денары"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mmk"_s),
-			$of(u"\u041c\u0439\u0430\u043d\u043c\u0430\u0440 \u043a\u0439\u0430\u0442\u044b"_s)
+			$of(u"Мйанмар кйаты"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mnt"_s),
-			$of(u"\u041c\u043e\u043d\u0433\u043e\u043b \u0442\u0443\u0433\u0440\u0438\u0433\u0438"_s)
+			$of(u"Монгол тугриги"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mop"_s),
-			$of(u"\u041c\u0430\u043a\u0430\u0443 \u043f\u0430\u0442\u0430\u043a\u0430\u0441\u044b"_s)
+			$of(u"Макау патакасы"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mro"_s),
-			$of(u"\u041c\u0430\u0432\u0440\u0438\u0442\u0430\u043d\u0438\u044f \u0443\u0433\u0438\u044f\u0441\u044b (1973\u20132017)"_s)
+			$of(u"Мавритания угиясы (1973–2017)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mru"_s),
-			$of(u"\u041c\u0430\u0432\u0440\u0438\u0442\u0430\u043d\u0438\u044f \u0443\u0433\u0438\u044f\u0441\u044b"_s)
+			$of(u"Мавритания угиясы"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mur"_s),
-			$of(u"\u041c\u0430\u0432\u0440\u0438\u0442\u0430\u043d\u0438\u0439 \u0440\u0443\u043f\u0438\u0441\u0438"_s)
+			$of(u"Мавританий руписи"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mvr"_s),
-			$of(u"\u041c\u0430\u043b\u0434\u0438\u0432 \u0440\u0443\u0444\u0438\u0439\u0430\u0441\u044b"_s)
+			$of(u"Малдив руфийасы"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mwk"_s),
-			$of(u"\u041c\u0430\u043b\u0430\u0432\u0438 \u043a\u0432\u0430\u0447\u0430\u0441\u044b"_s)
+			$of(u"Малави квачасы"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mxn"_s),
-			$of(u"\u043c\u0435\u043a\u0441\u0438\u043a\u0430 \u043f\u0435\u0441\u043e\u0441\u0443"_s)
+			$of(u"мексика песосу"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("myr"_s),
-			$of(u"\u041c\u0430\u043b\u0430\u0439\u0437\u0438\u044f \u0440\u0438\u043d\u0433\u0433\u0438\u0442\u0438"_s)
+			$of(u"Малайзия ринггити"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mzn"_s),
-			$of(u"\u041c\u043e\u0437\u0430\u043c\u0431\u0438\u043a \u043c\u0435\u0442\u0438\u043a\u0430\u043b\u044b"_s)
+			$of(u"Мозамбик метикалы"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("nad"_s),
-			$of(u"\u041d\u0430\u043c\u0438\u0431\u0438\u044f \u0434\u043e\u043b\u043b\u0430\u0440\u044b"_s)
+			$of(u"Намибия доллары"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ngn"_s),
-			$of(u"\u041d\u0438\u0433\u0435\u0440\u0438\u044f \u043d\u0430\u0439\u0440\u0430\u0441\u044b"_s)
+			$of(u"Нигерия найрасы"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("nio"_s),
-			$of(u"\u043d\u0438\u043a\u0430\u0440\u0430\u0433\u0443\u0430 \u043a\u043e\u0440\u0434\u043e\u0431\u0430\u0441\u044b"_s)
+			$of(u"никарагуа кордобасы"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("nok"_s),
-			$of(u"\u043d\u043e\u0440\u0432\u0435\u0433\u0438\u044f \u043a\u0440\u043e\u043d\u0443"_s)
+			$of(u"норвегия крону"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("npr"_s),
-			$of(u"\u041d\u0435\u043f\u0430\u043b \u0440\u0443\u043f\u0438\u0441\u0438"_s)
+			$of(u"Непал руписи"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("nzd"_s),
-			$of(u"\u0416\u0430\u04a3\u044b \u0417\u0435\u043b\u0430\u043d\u0434\u0438\u044f \u0434\u043e\u043b\u043b\u0430\u0440\u044b"_s)
+			$of(u"Жаңы Зеландия доллары"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("omr"_s),
-			$of(u"\u041e\u043c\u0430\u043d \u0440\u0438\u0430\u043b\u044b"_s)
+			$of(u"Оман риалы"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pab"_s),
-			$of(u"\u043f\u0430\u043d\u0430\u043c\u0430 \u0431\u0430\u043b\u0431\u043e\u0430\u0441\u044b"_s)
+			$of(u"панама балбоасы"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pen"_s),
-			$of(u"\u043f\u0435\u0440\u0443 \u0441\u043e\u043b\u0443"_s)
+			$of(u"перу солу"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pgk"_s),
-			$of(u"\u041f\u0430\u043f\u0443\u0430 \u0416\u0430\u04a3\u044b \u0413\u0432\u0438\u043d\u0435\u044f \u043a\u0438\u043d\u0430\u0441\u044b"_s)
+			$of(u"Папуа Жаңы Гвинея кинасы"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("php"_s),
-			$of(u"\u0424\u0438\u043b\u0438\u043f\u043f\u0438\u043d \u043f\u0435\u0441\u043e\u0441\u0443"_s)
+			$of(u"Филиппин песосу"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pkr"_s),
-			$of(u"\u041f\u0430\u043a\u0438\u0441\u0442\u0430\u043d \u0440\u0443\u043f\u0438\u0441\u0438"_s)
+			$of(u"Пакистан руписи"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pln"_s),
-			$of(u"\u043f\u043e\u043b\u044c\u0448\u0430 \u0437\u043b\u043e\u0442\u044b\u0439\u044b"_s)
+			$of(u"польша злотыйы"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pyg"_s),
-			$of(u"\u043f\u0430\u0440\u0430\u0433\u0432\u0430\u0439 \u0433\u0443\u0430\u0440\u0430\u043d\u0438\u0441\u0438"_s)
+			$of(u"парагвай гуараниси"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("qar"_s),
-			$of(u"\u041a\u0430\u0442\u0430\u0440 \u0440\u0438\u0430\u043b\u044b"_s)
+			$of(u"Катар риалы"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ron"_s),
-			$of(u"\u0440\u0443\u043c\u044b\u043d \u043b\u0435\u0439\u0438"_s)
+			$of(u"румын лейи"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("rsd"_s),
-			$of(u"\u0441\u0435\u0440\u0431 \u0434\u0438\u043d\u0430\u0440\u044b"_s)
+			$of(u"серб динары"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("rub"_s),
-			$of(u"\u043e\u0440\u0443\u0441 \u0440\u0443\u0431\u043b\u0443"_s)
+			$of(u"орус рублу"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("rwf"_s),
-			$of(u"\u0420\u0443\u0430\u043d\u0434\u0430 \u0444\u0440\u0430\u043d\u043a\u044b"_s)
+			$of(u"Руанда франкы"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sar"_s),
-			$of(u"\u0421\u0430\u0443\u0434 \u0440\u0438\u0430\u043b\u044b"_s)
+			$of(u"Сауд риалы"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sbd"_s),
-			$of(u"\u0421\u043e\u043b\u043e\u043c\u043e\u043d \u0430\u0440\u0430\u043b\u0434\u0430\u0440\u044b\u043d\u044b\u043d \u0434\u043e\u043b\u043b\u0430\u0440\u044b"_s)
+			$of(u"Соломон аралдарынын доллары"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("scr"_s),
-			$of(u"\u0421\u0435\u0439\u0448\u0435\u043b \u0440\u0443\u043f\u0438\u0441\u0438"_s)
+			$of(u"Сейшел руписи"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sdg"_s),
-			$of(u"\u0441\u0443\u0434\u0430\u043d \u0444\u0443\u043d\u0442\u0443"_s)
+			$of(u"судан фунту"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sek"_s),
-			$of(u"\u0448\u0432\u0435\u0446\u0438\u044f \u043a\u0440\u043e\u043d\u0443"_s)
+			$of(u"швеция крону"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sgd"_s),
-			$of(u"\u0421\u0438\u043d\u0433\u0430\u043f\u0443\u0440 \u0434\u043e\u043b\u043b\u0430\u0440\u044b"_s)
+			$of(u"Сингапур доллары"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("shp"_s),
-			$of(u"\u042b\u0439\u044b\u043a \u0415\u043b\u0435\u043d\u0430 \u0430\u0440\u0430\u043b\u044b\u043d\u044b\u043d \u0444\u0443\u043d\u0442\u0443"_s)
+			$of(u"Ыйык Елена аралынын фунту"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sll"_s),
-			$of(u"\u0421\u0438\u0435\u0440\u0440\u0430-\u041b\u0435\u043e\u043d\u0435 \u043b\u0435\u043e\u043d\u0435\u0441\u0438"_s)
+			$of(u"Сиерра-Леоне леонеси"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sos"_s),
-			$of(u"\u0421\u043e\u043c\u0430\u043b\u0438 \u0448\u0438\u043b\u043b\u0438\u043d\u0433\u0438"_s)
+			$of(u"Сомали шиллинги"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("srd"_s),
-			$of(u"\u0441\u0443\u0440\u0438\u043d\u0430\u043c \u0434\u043e\u043b\u043b\u0430\u0440\u044b"_s)
+			$of(u"суринам доллары"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ssp"_s),
-			$of(u"\u0422\u04af\u0448\u0442\u04af\u043a \u0421\u0443\u0434\u0430\u043d \u0444\u0443\u043d\u0442\u0443"_s)
+			$of(u"Түштүк Судан фунту"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("std"_s),
-			$of(u"\u0421\u0430\u043e \u0422\u043e\u043c\u0435 \u0436\u0430\u043d\u0430 \u041f\u0440\u0438\u043d\u0441\u0438\u043f\u0435 \u0434\u043e\u0431\u0440\u0430\u0441\u044b (1977\u20132017)"_s)
+			$of(u"Сао Томе жана Принсипе добрасы (1977–2017)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("stn"_s),
-			$of(u"\u0421\u0430\u043e \u0422\u043e\u043c\u0435 \u0436\u0430\u043d\u0430 \u041f\u0440\u0438\u043d\u0441\u0438\u043f\u0435 \u0434\u043e\u0431\u0440\u0430\u0441\u044b"_s)
+			$of(u"Сао Томе жана Принсипе добрасы"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("syp"_s),
-			$of(u"\u0421\u0438\u0440\u0438\u044f \u0444\u0443\u043d\u0442\u0443"_s)
+			$of(u"Сирия фунту"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("szl"_s),
-			$of(u"\u0421\u0432\u0430\u0437\u0438 \u043b\u0438\u043b\u0430\u043d\u0433\u0435\u043d\u0438"_s)
+			$of(u"Свази лилангени"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("thb"_s),
-			$of(u"\u0422\u0430\u0439 \u0431\u0430\u0442\u044b"_s)
+			$of(u"Тай баты"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("tjs"_s),
-			$of(u"\u0422\u0430\u0436\u0438\u043a\u0441\u0442\u0430\u043d \u0441\u043e\u043c\u043e\u043d\u0438\u0441\u0438"_s)
+			$of(u"Тажикстан сомониси"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("tmt"_s),
-			$of(u"\u0422\u04af\u0440\u043a\u043c\u04e9\u043d\u0441\u0442\u0430\u043d \u043c\u0430\u043d\u0430\u0442\u044b"_s)
+			$of(u"Түркмөнстан манаты"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("tnd"_s),
-			$of(u"\u0442\u0443\u043d\u0438\u0441 \u0434\u0438\u043d\u0430\u0440\u044b"_s)
+			$of(u"тунис динары"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("top"_s),
-			$of(u"\u0422\u043e\u043d\u0433\u0430 \u043f\u0430\u0430\u043d\u0433\u0430\u0441\u044b"_s)
+			$of(u"Тонга паангасы"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("try"_s),
-			$of(u"\u0422\u04af\u0440\u043a\u0438\u044f \u043b\u0438\u0440\u0430\u0441\u044b"_s)
+			$of(u"Түркия лирасы"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ttd"_s),
-			$of(u"\u0442\u0440\u0438\u043d\u0438\u0434\u0430\u0434 \u0436\u0430\u043d\u0430 \u0442\u043e\u0431\u0430\u0433\u043e \u0434\u043e\u043b\u043b\u0430\u0440\u044b"_s)
+			$of(u"тринидад жана тобаго доллары"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("twd"_s),
-			$of(u"\u0422\u0430\u0439\u0432\u0430\u043d\u044c \u0436\u0430\u04a3\u044b \u0434\u043e\u043b\u043b\u0430\u0440\u044b"_s)
+			$of(u"Тайвань жаңы доллары"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("tzs"_s),
-			$of(u"\u0422\u0430\u043d\u0437\u0430\u043d\u0438\u044f \u0448\u0438\u043b\u043b\u0438\u043d\u0433\u0438"_s)
+			$of(u"Танзания шиллинги"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("uah"_s),
-			$of(u"\u0443\u043a\u0440\u0430\u0438\u043d \u0433\u0440\u0438\u0432\u0435\u043d\u0438"_s)
+			$of(u"украин гривени"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ugx"_s),
-			$of(u"\u0423\u0433\u0430\u043d\u0434\u0430 \u0448\u0438\u043b\u043b\u0438\u043d\u0433\u0438"_s)
+			$of(u"Уганда шиллинги"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("usd"_s),
-			$of(u"\u0410\u041a\u0428 \u0434\u043e\u043b\u043b\u0430\u0440\u044b"_s)
+			$of(u"АКШ доллары"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("uyu"_s),
-			$of(u"\u0443\u0440\u0443\u0433\u0432\u0430\u0439 \u043f\u0435\u0441\u043e\u0441\u0443"_s)
+			$of(u"уругвай песосу"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("uzs"_s),
-			$of(u"\u04e8\u0437\u0431\u0435\u043a\u0441\u0442\u0430\u043d \u0441\u0443\u043c\u0443"_s)
+			$of(u"Өзбекстан суму"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("vef"_s),
-			$of(u"\u0432\u0435\u043d\u0435\u0441\u0443\u044d\u043b\u0430 \u0431\u043e\u043b\u0438\u0432\u0430\u0440\u044b (2008\u20132018)"_s)
+			$of(u"венесуэла боливары (2008–2018)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ves"_s),
-			$of(u"\u0412\u0435\u043d\u0435\u0441\u0443\u044d\u043b\u0430 \u0431\u043e\u043b\u0438\u0432\u0430\u0440\u044b"_s)
+			$of(u"Венесуэла боливары"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("vnd"_s),
-			$of(u"\u0412\u044c\u0435\u0442\u043d\u0430\u043c \u0434\u043e\u04a3\u0443"_s)
+			$of(u"Вьетнам доңу"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("vuv"_s),
-			$of(u"\u0412\u0430\u043d\u0443\u0430\u0442\u0443 \u0432\u0430\u0442\u0443\u0441\u0443"_s)
+			$of(u"Вануату ватусу"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("wst"_s),
-			$of(u"\u0421\u0430\u043c\u043e\u0430 \u0442\u0430\u043b\u0430\u0441\u044b"_s)
+			$of(u"Самоа таласы"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xaf"_s),
-			$of(u"\u0411\u043e\u0440\u0431\u043e\u0440\u0434\u0443\u043a \u0410\u0444\u0440\u0438\u043a\u0430 \u041a\u0424\u0410 \u0444\u0440\u0430\u043d\u043a\u044b"_s)
+			$of(u"Борбордук Африка КФА франкы"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xcd"_s),
-			$of(u"\u0447\u044b\u0433\u044b\u0448 \u043a\u0430\u0440\u0438\u0431 \u0434\u043e\u043b\u043b\u0430\u0440\u044b"_s)
+			$of(u"чыгыш кариб доллары"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xof"_s),
-			$of(u"\u041a\u0424\u0410 \u0444\u0440\u0430\u043d\u043a\u044b"_s)
+			$of(u"КФА франкы"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xpf"_s),
-			$of(u"\u041a\u0424\u041f \u0444\u0440\u0430\u043d\u043a\u044b"_s)
+			$of(u"КФП франкы"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xxx"_s),
-			$of(u"\u0411\u0435\u043b\u0433\u0438\u0441\u0438\u0437 \u0430\u043a\u0447\u0430"_s)
+			$of(u"Белгисиз акча"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("yer"_s),
-			$of(u"\u0419\u0435\u043c\u0435\u043d \u0440\u0438\u0430\u043b\u044b"_s)
+			$of(u"Йемен риалы"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("zar"_s),
-			$of(u"\u0422\u04af\u0448\u0442\u04af\u043a \u0410\u0444\u0440\u0438\u043a\u0430 \u0440\u0430\u043d\u0434\u044b"_s)
+			$of(u"Түштүк Африка ранды"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("zmw"_s),
-			$of(u"\u0417\u0430\u043c\u0431\u0438\u044f \u043a\u0432\u0430\u0447\u0430\u0441\u044b"_s)
+			$of(u"Замбия квачасы"_s)
 		})
 	}));
 	return data;

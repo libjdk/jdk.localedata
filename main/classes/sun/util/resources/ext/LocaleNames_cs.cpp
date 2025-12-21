@@ -41,11 +41,11 @@ $ObjectArray2* LocaleNames_cs::getContents() {
 	return $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("CZ"_s),
-			$of(u"\u010cesk\u00e1 republika"_s)
+			$of(u"Česká republika"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cs"_s),
-			$of(u"\u010de\u0161tina"_s)
+			$of(u"čeština"_s)
 		})
 	});
 }

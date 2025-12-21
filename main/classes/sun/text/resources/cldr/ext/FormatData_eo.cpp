@@ -47,7 +47,7 @@ $ObjectArray2* FormatData_eo::getContents() {
 		"majo"_s,
 		"junio"_s,
 		"julio"_s,
-		u"a\u016dgusto"_s,
+		u"aŭgusto"_s,
 		"septembro"_s,
 		"oktobro"_s,
 		"novembro"_s,
@@ -62,7 +62,7 @@ $ObjectArray2* FormatData_eo::getContents() {
 		"maj"_s,
 		"jun"_s,
 		"jul"_s,
-		u"a\u016dg"_s,
+		u"aŭg"_s,
 		"sep"_s,
 		"okt"_s,
 		"nov"_s,
@@ -70,11 +70,11 @@ $ObjectArray2* FormatData_eo::getContents() {
 		""_s
 	}));
 	$var($StringArray, metaValue_DayNames, $new($StringArray, {
-		u"diman\u0109o"_s,
+		u"dimanĉo"_s,
 		"lundo"_s,
 		"mardo"_s,
 		"merkredo"_s,
-		u"\u0135a\u016ddo"_s,
+		u"ĵaŭdo"_s,
 		"vendredo"_s,
 		"sabato"_s
 	}));
@@ -83,7 +83,7 @@ $ObjectArray2* FormatData_eo::getContents() {
 		"lu"_s,
 		"ma"_s,
 		"me"_s,
-		u"\u0135a"_s,
+		u"ĵa"_s,
 		"ve"_s,
 		"sa"_s
 	}));
@@ -233,15 +233,15 @@ $ObjectArray2* FormatData_eo::getContents() {
 			$of("latn.NumberElements"_s),
 			$of($$new($StringArray, {
 				","_s,
-				u"\u00a0"_s,
+				u" "_s,
 				";"_s,
 				"%"_s,
 				"0"_s,
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
+				u"‰"_s,
+				u"∞"_s,
 				"NaN"_s,
 				""_s,
 				""_s
@@ -356,7 +356,7 @@ $ObjectArray2* FormatData_eo::getContents() {
 			$of("latn.NumberPatterns"_s),
 			$of($$new($StringArray, {
 				"#,##0.###"_s,
-				u"\u00a4\u00a0#,##0.00"_s,
+				u"¤ #,##0.00"_s,
 				"#,##0%"_s,
 				""_s
 			}))

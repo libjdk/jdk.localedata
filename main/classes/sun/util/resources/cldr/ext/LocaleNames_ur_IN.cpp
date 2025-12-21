@@ -42,159 +42,159 @@ $ObjectArray2* LocaleNames_ur_IN::getContents() {
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("AC"_s),
-			$of(u"\u062c\u0632\u06cc\u0631\u06c1 \u0627\u0633\u06cc\u0646\u0634\u0646"_s)
+			$of(u"جزیرہ اسینشن"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("AX"_s),
-			$of(u"\u062c\u0632\u0627\u0626\u0631 \u0622\u0644\u06cc\u0646\u0688"_s)
+			$of(u"جزائر آلینڈ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("BV"_s),
-			$of(u"\u062c\u0632\u06cc\u0631\u06c1 \u0628\u0648\u0648\u06cc\u062a"_s)
+			$of(u"جزیرہ بوویت"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("CC"_s),
-			$of(u"\u062c\u0632\u0627\u0626\u0631 (\u06a9\u06cc\u0644\u0646\u06af) \u06a9\u0648\u06a9\u0648\u0633"_s)
+			$of(u"جزائر (کیلنگ) کوکوس"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("CK"_s),
-			$of(u"\u062c\u0632\u0627\u0626\u0631 \u06a9\u06a9"_s)
+			$of(u"جزائر کک"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("CP"_s),
-			$of(u"\u062c\u0632\u06cc\u0631\u06c1 \u06a9\u0644\u067e\u0631\u0679\u0646"_s)
+			$of(u"جزیرہ کلپرٹن"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("DG"_s),
-			$of(u"\u0688\u06cc\u06af\u0648 \u06af\u0627\u0631\u0634\u06cc\u0627"_s)
+			$of(u"ڈیگو گارشیا"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("FK"_s),
-			$of(u"\u062c\u0632\u0627\u0626\u0631 \u0641\u0627\u06a9\u0644\u06cc\u0646\u0688"_s)
+			$of(u"جزائر فاکلینڈ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("FO"_s),
-			$of(u"\u062c\u0632\u0627\u0626\u0631 \u0641\u06cc\u0631\u0648"_s)
+			$of(u"جزائر فیرو"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("GF"_s),
-			$of(u"\u0641\u0631\u0627\u0646\u0633\u06cc\u0633\u06cc \u06af\u06cc\u0627\u0646\u0627"_s)
+			$of(u"فرانسیسی گیانا"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("HM"_s),
-			$of(u"\u062c\u0632\u0627\u0626\u0631 \u06c1\u0631\u0688 \u0648 \u0645\u06a9\u0688\u0648\u0646\u0644\u0688"_s)
+			$of(u"جزائر ہرڈ و مکڈونلڈ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("IC"_s),
-			$of(u"\u062c\u0632\u0627\u0626\u0631 \u06a9\u0646\u0627\u0631\u06cc"_s)
+			$of(u"جزائر کناری"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("IO"_s),
-			$of(u"\u0628\u0631\u0637\u0627\u0646\u0648\u06cc \u0628\u062d\u0631\u06c1\u0646\u062f \u062e\u0637\u06c1"_s)
+			$of(u"برطانوی بحرہند خطہ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("MH"_s),
-			$of(u"\u062c\u0632\u0627\u0626\u0631 \u0645\u0627\u0631\u0634\u0644"_s)
+			$of(u"جزائر مارشل"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("MP"_s),
-			$of(u"\u062c\u0632\u0627\u0626\u0631 \u0634\u0645\u0627\u0644\u06cc \u0645\u0627\u0631\u06cc\u0627\u0646\u0627"_s)
+			$of(u"جزائر شمالی ماریانا"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("NF"_s),
-			$of(u"\u062c\u0632\u06cc\u0631\u06c1 \u0646\u0627\u0631\u0641\u0648\u06a9"_s)
+			$of(u"جزیرہ نارفوک"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("PN"_s),
-			$of(u"\u062c\u0632\u0627\u0626\u0631 \u067e\u0679\u06a9\u06cc\u0631\u0646"_s)
+			$of(u"جزائر پٹکیرن"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("SB"_s),
-			$of(u"\u062c\u0632\u0627\u0626\u0631 \u0633\u0644\u06cc\u0645\u0627\u0646"_s)
+			$of(u"جزائر سلیمان"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("TA"_s),
-			$of(u"\u062a\u0631\u0633\u0679\u0627\u0646 \u062f\u0627 \u06a9\u0648\u0646\u06cc\u0627"_s)
+			$of(u"ترسٹان دا کونیا"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("TC"_s),
-			$of(u"\u062c\u0632\u0627\u0626\u0631 \u06a9\u06cc\u06a9\u0633 \u0648 \u062a\u0631\u06a9\u06cc\u06c1"_s)
+			$of(u"جزائر کیکس و ترکیہ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("UM"_s),
-			$of(u"\u0627\u0645\u0631\u06cc\u06a9\u06cc \u0628\u06cc\u0631\u0648\u0646\u06cc \u062c\u0632\u0627\u0626\u0631"_s)
+			$of(u"امریکی بیرونی جزائر"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("VG"_s),
-			$of(u"\u0628\u0631\u0637\u0627\u0646\u0648\u06cc \u062c\u0632\u0627\u0626\u0631 \u0648\u0631\u062c\u0646"_s)
+			$of(u"برطانوی جزائر ورجن"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("VI"_s),
-			$of(u"\u0627\u0645\u0631\u06cc\u06a9\u06cc \u062c\u0632\u0627\u0626\u0631 \u0648\u0631\u062c\u0646"_s)
+			$of(u"امریکی جزائر ورجن"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("hr"_s),
-			$of(u"\u06a9\u0631\u0648\u0634\u06cc\u0646"_s)
+			$of(u"کروشین"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("jv"_s),
-			$of(u"\u062c\u0627\u0648\u0627\u0646\u06cc\u0632"_s)
+			$of(u"جاوانیز"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ka"_s),
-			$of(u"\u062c\u0627\u0631\u062c\u064a\u0627\u0626\u0649"_s)
+			$of(u"جارجيائى"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kl"_s),
-			$of(u"\u06a9\u0644\u0627\u0644\u06cc\u0633\u0679"_s)
+			$of(u"کلالیسٹ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kn"_s),
-			$of(u"\u06a9\u0646\u0691"_s)
+			$of(u"کنڑ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ku"_s),
-			$of(u"\u06a9\u0631\u062f"_s)
+			$of(u"کرد"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("awa"_s),
-			$of(u"\u0627\u0648\u062f\u06be\u06cc"_s)
+			$of(u"اودھی"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ckb"_s),
-			$of(u"\u0633\u0648\u0631\u0627\u0646\u06cc \u06a9\u0631\u062f\u06cc"_s)
+			$of(u"سورانی کردی"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("dje"_s),
-			$of(u"\u0632\u0631\u0645\u06c1"_s)
+			$of(u"زرمہ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mag"_s),
-			$of(u"\u0645\u06af\u06c1\u06cc"_s)
+			$of(u"مگہی"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("zgh"_s),
-			$of(u"\u0645\u0639\u06cc\u0627\u0631\u06cc \u0645\u0631\u0627\u0642\u0634\u06cc \u062a\u0645\u0627\u0632\u06cc\u0642\u06cc"_s)
+			$of(u"معیاری مراقشی تمازیقی"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ar_001"_s),
-			$of(u"\u062c\u062f\u06cc\u062f \u0645\u0639\u06cc\u0627\u0631\u06cc \u0639\u0631\u0628\u06cc"_s)
+			$of(u"جدید معیاری عربی"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("zh_Hans"_s),
-			$of(u"\u0622\u0633\u0627\u0646 \u0686\u06cc\u0646\u06cc"_s)
+			$of(u"آسان چینی"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.tibt"_s),
-			$of(u"\u062a\u0628\u062a\u06cc \u06c1\u0646\u062f\u0633\u06d2"_s)
+			$of(u"تبتی ہندسے"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.armnlow"_s),
-			$of(u"\u0622\u0631\u0645\u06cc\u0646\u06cc\u0627\u0626\u06cc \u0644\u0648\u0626\u0631 \u06a9\u06cc\u0633 \u0627\u0639\u062f\u0627\u062f"_s)
+			$of(u"آرمینیائی لوئر کیس اعداد"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.greklow"_s),
-			$of(u"\u06cc\u0648\u0646\u0627\u0646\u06cc \u0644\u0648\u0626\u0631 \u06a9\u06cc\u0633 \u0627\u0639\u062f\u0627\u062f"_s)
+			$of(u"یونانی لوئر کیس اعداد"_s)
 		})
 	}));
 	return data;

@@ -50,11 +50,11 @@ $ObjectArray2* TimeZoneNames_nn::getContents() {
 		""_s
 	}));
 	$var($StringArray, Cook, $new($StringArray, {
-		u"normaltid for Cook\u00f8yane"_s,
+		u"normaltid for Cookøyane"_s,
 		""_s,
-		u"sommartid for Cook\u00f8yane"_s,
+		u"sommartid for Cookøyane"_s,
 		""_s,
-		u"tidssone for Cook\u00f8yane"_s,
+		u"tidssone for Cookøyane"_s,
 		""_s
 	}));
 	$var($StringArray, Cuba, $new($StringArray, {
@@ -106,7 +106,7 @@ $ObjectArray2* TimeZoneNames_nn::getContents() {
 		""_s
 	}));
 	$var($StringArray, Truk, $new($StringArray, {
-		u"tidssone for Chuuk\u00f8yane"_s,
+		u"tidssone for Chuukøyane"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -130,7 +130,7 @@ $ObjectArray2* TimeZoneNames_nn::getContents() {
 		""_s
 	}));
 	$var($StringArray, Cocos, $new($StringArray, {
-		u"tidssone for Kokos\u00f8yane"_s,
+		u"tidssone for Kokosøyane"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -194,11 +194,11 @@ $ObjectArray2* TimeZoneNames_nn::getContents() {
 		""_s
 	}));
 	$var($StringArray, Easter, $new($StringArray, {
-		u"normaltid for P\u00e5ske\u00f8ya"_s,
+		u"normaltid for Påskeøya"_s,
 		""_s,
-		u"sommartid for P\u00e5ske\u00f8ya"_s,
+		u"sommartid for Påskeøya"_s,
 		""_s,
-		u"tidssone for P\u00e5ske\u00f8ya"_s,
+		u"tidssone for Påskeøya"_s,
 		""_s
 	}));
 	$var($StringArray, Israel, $new($StringArray, {
@@ -226,7 +226,7 @@ $ObjectArray2* TimeZoneNames_nn::getContents() {
 		""_s
 	}));
 	$var($StringArray, Wallis, $new($StringArray, {
-		u"tidssone for Wallis- og Futuna\u00f8yane"_s,
+		u"tidssone for Wallis- og Futunaøyane"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -282,11 +282,11 @@ $ObjectArray2* TimeZoneNames_nn::getContents() {
 		""_s
 	}));
 	$var($StringArray, Norfolk, $new($StringArray, {
-		u"normaltid for Norfolk\u00f8ya"_s,
+		u"normaltid for Norfolkøya"_s,
 		""_s,
-		u"sommartid for Norfolk\u00f8ya"_s,
+		u"sommartid for Norfolkøya"_s,
 		""_s,
-		u"tidssone for Norfolk\u00f8ya"_s,
+		u"tidssone for Norfolkøya"_s,
 		""_s
 	}));
 	$var($StringArray, Noronha, $new($StringArray, {
@@ -346,11 +346,11 @@ $ObjectArray2* TimeZoneNames_nn::getContents() {
 		""_s
 	}));
 	$var($StringArray, Falkland, $new($StringArray, {
-		u"normaltid for Falklands\u00f8yane"_s,
+		u"normaltid for Falklandsøyane"_s,
 		""_s,
-		u"sommartid for Falklands\u00f8yane"_s,
+		u"sommartid for Falklandsøyane"_s,
 		""_s,
-		u"tidssone for Falklands\u00f8yane"_s,
+		u"tidssone for Falklandsøyane"_s,
 		""_s
 	}));
 	$var($StringArray, Mongolia, $new($StringArray, {
@@ -394,7 +394,7 @@ $ObjectArray2* TimeZoneNames_nn::getContents() {
 		""_s
 	}));
 	$var($StringArray, Galapagos, $new($StringArray, {
-		u"tidssone for Gal\u00e1pagos\u00f8yane"_s,
+		u"tidssone for Galápagosøyane"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -410,15 +410,15 @@ $ObjectArray2* TimeZoneNames_nn::getContents() {
 		""_s
 	}));
 	$var($StringArray, Lord_Howe, $new($StringArray, {
-		u"normaltid for Lord Howe-\u00f8ya"_s,
+		u"normaltid for Lord Howe-øya"_s,
 		""_s,
-		u"sommartid for Lord Howe-\u00f8ya"_s,
+		u"sommartid for Lord Howe-øya"_s,
 		""_s,
-		u"tidssone for Lord Howe-\u00f8ya"_s,
+		u"tidssone for Lord Howe-øya"_s,
 		""_s
 	}));
 	$var($StringArray, Marquesas, $new($StringArray, {
-		u"tidssone for Marquesas\u00f8yane"_s,
+		u"tidssone for Marquesasøyane"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -530,7 +530,7 @@ $ObjectArray2* TimeZoneNames_nn::getContents() {
 		""_s
 	}));
 	$var($StringArray, Line_Islands, $new($StringArray, {
-		u"tidssone for Line\u00f8yane"_s,
+		u"tidssone for Lineøyane"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -586,7 +586,7 @@ $ObjectArray2* TimeZoneNames_nn::getContents() {
 		""_s
 	}));
 	$var($StringArray, DumontDUrville, $new($StringArray, {
-		u"tidssone for Dumont-d\u2019Urville"_s,
+		u"tidssone for Dumont-d’Urville"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -650,7 +650,7 @@ $ObjectArray2* TimeZoneNames_nn::getContents() {
 		""_s
 	}));
 	$var($StringArray, French_Southern, $new($StringArray, {
-		u"tidssone for Dei franske s\u00f8rterritoria"_s,
+		u"tidssone for Dei franske sørterritoria"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -658,7 +658,7 @@ $ObjectArray2* TimeZoneNames_nn::getContents() {
 		""_s
 	}));
 	$var($StringArray, Gilbert_Islands, $new($StringArray, {
-		u"tidssone for Gilbert\u00f8yane"_s,
+		u"tidssone for Gilbertøyane"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -674,7 +674,7 @@ $ObjectArray2* TimeZoneNames_nn::getContents() {
 		""_s
 	}));
 	$var($StringArray, Phoenix_Islands, $new($StringArray, {
-		u"tidssone for Phoenix\u00f8yane"_s,
+		u"tidssone for Phoenixøyane"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -730,19 +730,19 @@ $ObjectArray2* TimeZoneNames_nn::getContents() {
 		""_s
 	}));
 	$var($StringArray, Greenland_Eastern, $new($StringArray, {
-		u"austgr\u00f8nlandsk normaltid"_s,
+		u"austgrønlandsk normaltid"_s,
 		""_s,
-		u"austgr\u00f8nlandsk sommartid"_s,
+		u"austgrønlandsk sommartid"_s,
 		""_s,
-		u"austgr\u00f8nlandsk tid"_s,
+		u"austgrønlandsk tid"_s,
 		""_s
 	}));
 	$var($StringArray, Greenland_Western, $new($StringArray, {
-		u"vestgr\u00f8nlandsk normaltid"_s,
+		u"vestgrønlandsk normaltid"_s,
 		""_s,
-		u"vestgr\u00f8nlandsk sommartid"_s,
+		u"vestgrønlandsk sommartid"_s,
 		""_s,
-		u"vestgr\u00f8nlandsk tid"_s,
+		u"vestgrønlandsk tid"_s,
 		""_s
 	}));
 	$var($StringArray, Indonesia_Eastern, $new($StringArray, {
@@ -2217,11 +2217,11 @@ $ObjectArray2* TimeZoneNames_nn::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Rangoon"_s),
-			$of(u"Yang\u00f4n"_s)
+			$of(u"Yangôn"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Indian/Cocos"_s),
-			$of(u"Kokos\u00f8yane"_s)
+			$of(u"Kokosøyane"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Ashgabat"_s),
@@ -2241,7 +2241,7 @@ $ObjectArray2* TimeZoneNames_nn::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Cayman"_s),
-			$of(u"Cayman\u00f8yane"_s)
+			$of(u"Caymanøyane"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Cuiaba"_s),
@@ -2261,11 +2261,11 @@ $ObjectArray2* TimeZoneNames_nn::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Atlantic/Canary"_s),
-			$of(u"Kanari\u00f8yane"_s)
+			$of(u"Kanariøyane"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Atlantic/Faeroe"_s),
-			$of(u"F\u00e6r\u00f8yane"_s)
+			$of(u"Færøyane"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Indian/Maldives"_s),
@@ -2273,7 +2273,7 @@ $ObjectArray2* TimeZoneNames_nn::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Pacific/Galapagos"_s),
-			$of(u"Gal\u00e1pagos\u00f8yane"_s)
+			$of(u"Galápagosøyane"_s)
 		})
 	}));
 	return data;

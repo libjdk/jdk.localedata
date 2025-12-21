@@ -46,31 +46,31 @@ $ObjectArray2* CurrencyNames_ur_IN::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("crc"_s),
-			$of(u"\u06a9\u0648\u0633\u0679\u0627 \u0631\u06cc\u06a9\u0627 \u06a9\u0648\u0644\u0648\u0646"_s)
+			$of(u"کوسٹا ریکا کولون"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cuc"_s),
-			$of(u"\u0642\u0627\u0628\u0644 \u0645\u0646\u062a\u0642\u0644\u06cc \u06a9\u06cc\u0648\u0628\u0627\u0626\u06cc \u067e\u06cc\u0633\u0648"_s)
+			$of(u"قابل منتقلی کیوبائی پیسو"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cup"_s),
-			$of(u"\u06a9\u06cc\u0648\u0628\u0627\u0626\u06cc \u067e\u06cc\u0633\u0648"_s)
+			$of(u"کیوبائی پیسو"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cve"_s),
-			$of(u"\u06a9\u06cc\u067e \u0648\u0631\u0688\u06cc \u0627\u0633\u06a9\u06cc\u0648\u0688\u0648"_s)
+			$of(u"کیپ ورڈی اسکیوڈو"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gbp"_s),
-			$of(u"\u0628\u0631\u0637\u0627\u0646\u0648\u06cc \u067e\u0627\u0648\u0646\u0688 \u0633\u0679\u0631\u0644\u0646\u06af"_s)
+			$of(u"برطانوی پاونڈ سٹرلنگ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ghs"_s),
-			$of(u"\u06af\u06be\u0627\u0646\u06cc \u0633\u06cc\u0688\u06cc"_s)
+			$of(u"گھانی سیڈی"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("wst"_s),
-			$of(u"\u0633\u0627\u0645\u0648\u0622\u0626\u06cc \u0679\u0627\u0644\u0627"_s)
+			$of(u"ساموآئی ٹالا"_s)
 		})
 	}));
 	return data;

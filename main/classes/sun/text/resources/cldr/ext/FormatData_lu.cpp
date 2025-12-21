@@ -41,17 +41,17 @@ $ObjectArray2* FormatData_lu::getContents() {
 	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_MonthNames, $new($StringArray, {
 		"Ciongo"_s,
-		u"L\u00f9ishi"_s,
-		u"Lus\u00f2lo"_s,
-		u"M\u00f9uy\u00e0"_s,
-		u"Lum\u00f9ng\u00f9l\u00f9"_s,
+		u"Lùishi"_s,
+		u"Lusòlo"_s,
+		u"Mùuyà"_s,
+		u"Lumùngùlù"_s,
 		"Lufuimi"_s,
-		u"Kab\u00e0l\u00e0sh\u00ecp\u00f9"_s,
-		u"L\u00f9sh\u00eck\u00e0"_s,
+		u"Kabàlàshìpù"_s,
+		u"Lùshìkà"_s,
 		"Lutongolo"_s,
-		u"Lung\u00f9di"_s,
-		u"Kasw\u00e8k\u00e8s\u00e8"_s,
-		u"Cisw\u00e0"_s,
+		u"Lungùdi"_s,
+		u"Kaswèkèsè"_s,
+		u"Ciswà"_s,
 		""_s
 	}));
 	$var($StringArray, metaValue_MonthAbbreviations, $new($StringArray, {
@@ -87,10 +87,10 @@ $ObjectArray2* FormatData_lu::getContents() {
 	$var($StringArray, metaValue_DayNames, $new($StringArray, {
 		"Lumingu"_s,
 		"Nkodya"_s,
-		u"Nd\u00e0ay\u00e0"_s,
-		u"Ndang\u00f9"_s,
-		u"Nj\u00f2wa"_s,
-		u"Ng\u00f2vya"_s,
+		u"Ndàayà"_s,
+		u"Ndangù"_s,
+		u"Njòwa"_s,
+		u"Ngòvya"_s,
 		"Lubingu"_s
 	}));
 	$var($StringArray, metaValue_DayAbbreviations, $new($StringArray, {
@@ -310,8 +310,8 @@ $ObjectArray2* FormatData_lu::getContents() {
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
+				u"‰"_s,
+				u"∞"_s,
 				"NaN"_s,
 				""_s,
 				""_s
@@ -482,7 +482,7 @@ $ObjectArray2* FormatData_lu::getContents() {
 			$of("latn.NumberPatterns"_s),
 			$of($$new($StringArray, {
 				"#,##0.###"_s,
-				u"#,##0.00\u00a4"_s,
+				u"#,##0.00¤"_s,
 				"#,##0%"_s,
 				""_s
 			}))

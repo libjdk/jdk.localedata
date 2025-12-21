@@ -150,49 +150,49 @@ $ObjectArray2* FormatData_no::getContents() {
 		$$new($ObjectArray, {
 			$of("DayNames"_s),
 			$of($$new($StringArray, {
-				u"s\u00f8ndag"_s,
+				u"søndag"_s,
 				"mandag"_s,
 				"tirsdag"_s,
 				"onsdag"_s,
 				"torsdag"_s,
 				"fredag"_s,
-				u"l\u00f8rdag"_s
+				u"lørdag"_s
 			}))
 		}),
 		$$new($ObjectArray, {
 			$of("standalone.DayNames"_s),
 			$of($$new($StringArray, {
-				u"s\u00f8ndag"_s,
+				u"søndag"_s,
 				"mandag"_s,
 				"tirsdag"_s,
 				"onsdag"_s,
 				"torsdag"_s,
 				"fredag"_s,
-				u"l\u00f8rdag"_s
+				u"lørdag"_s
 			}))
 		}),
 		$$new($ObjectArray, {
 			$of("DayAbbreviations"_s),
 			$of($$new($StringArray, {
-				u"s\u00f8"_s,
+				u"sø"_s,
 				"ma"_s,
 				"ti"_s,
 				"on"_s,
 				"to"_s,
 				"fr"_s,
-				u"l\u00f8"_s
+				u"lø"_s
 			}))
 		}),
 		$$new($ObjectArray, {
 			$of("standalone.DayAbbreviations"_s),
 			$of($$new($StringArray, {
-				u"s\u00f8."_s,
+				u"sø."_s,
 				"ma."_s,
 				"ti."_s,
 				"on."_s,
 				"to."_s,
 				"fr."_s,
-				u"l\u00f8."_s
+				u"lø."_s
 			}))
 		}),
 		$$new($ObjectArray, {
@@ -223,16 +223,16 @@ $ObjectArray2* FormatData_no::getContents() {
 			$of("NumberElements"_s),
 			$of($$new($StringArray, {
 				","_s,
-				u"\u00a0"_s,
+				u" "_s,
 				";"_s,
 				"%"_s,
 				"0"_s,
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
-				u"\ufffd"_s
+				u"‰"_s,
+				u"∞"_s,
+				u"�"_s
 			}))
 		}),
 		$$new($ObjectArray, {

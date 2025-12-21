@@ -43,7 +43,7 @@ void TimeZoneNames_ug::init$() {
 $ObjectArray2* TimeZoneNames_ug::getContents() {
 	$useLocalCurrentObjectStackCache();
 	$var($StringArray, GMT, $new($StringArray, {
-		u"\u06af\u0649\u0631\u0649\u0646\u06cb\u0649\u0686 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"گىرىنۋىچ ۋاقتى"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -51,39 +51,39 @@ $ObjectArray2* TimeZoneNames_ug::getContents() {
 		""_s
 	}));
 	$var($StringArray, Acre, $new($StringArray, {
-		u"\u0626\u0627\u0643\u0631\u06d0 \u0626\u06c6\u0644\u0686\u06d5\u0645\u0644\u0649\u0643 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"ئاكرې ئۆلچەملىك ۋاقتى"_s,
 		""_s,
-		u"\u0626\u0627\u0643\u0631\u0649 \u064a\u0627\u0632\u0644\u0649\u0642 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"ئاكرى يازلىق ۋاقتى"_s,
 		""_s,
-		u"\u0626\u0627\u0643\u0631\u06d0 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"ئاكرې ۋاقتى"_s,
 		""_s
 	}));
 	$var($StringArray, Cook, $new($StringArray, {
-		u"\u0643\u06c7\u0643 \u0626\u0627\u0631\u0627\u0644\u0644\u0649\u0631\u0649 \u0626\u06c6\u0644\u0686\u06d5\u0645\u0644\u0649\u0643 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"كۇك ئاراللىرى ئۆلچەملىك ۋاقتى"_s,
 		""_s,
-		u"\u0643\u06c7\u0643 \u0626\u0627\u0631\u0627\u0644\u0644\u0649\u0631\u0649 \u064a\u06d0\u0631\u0649\u0645 \u064a\u0627\u0632\u0644\u0649\u0642 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"كۇك ئاراللىرى يېرىم يازلىق ۋاقتى"_s,
 		""_s,
-		u"\u0643\u06c7\u0643 \u0626\u0627\u0631\u0627\u0644\u0644\u0649\u0631\u0649 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"كۇك ئاراللىرى ۋاقتى"_s,
 		""_s
 	}));
 	$var($StringArray, Cuba, $new($StringArray, {
-		u"\u0643\u06c7\u0628\u0627 \u0626\u06c6\u0644\u0686\u06d5\u0645\u0644\u0649\u0643 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"كۇبا ئۆلچەملىك ۋاقتى"_s,
 		""_s,
-		u"\u0643\u06c7\u0628\u0627 \u064a\u0627\u0632\u0644\u0649\u0642 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"كۇبا يازلىق ۋاقتى"_s,
 		""_s,
-		u"\u0643\u06c7\u0628\u0627 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"كۇبا ۋاقتى"_s,
 		""_s
 	}));
 	$var($StringArray, Fiji, $new($StringArray, {
-		u"\u0641\u0649\u062c\u0649 \u0626\u06c6\u0644\u0686\u06d5\u0645\u0644\u0649\u0643 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"فىجى ئۆلچەملىك ۋاقتى"_s,
 		""_s,
-		u"\u0641\u0649\u062c\u0649 \u064a\u0627\u0632\u0644\u0649\u0642 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"فىجى يازلىق ۋاقتى"_s,
 		""_s,
-		u"\u0641\u0649\u062c\u0649 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"فىجى ۋاقتى"_s,
 		""_s
 	}));
 	$var($StringArray, Gulf, $new($StringArray, {
-		u"\u06af\u06c7\u0644\u0641 \u0626\u06c6\u0644\u0686\u06d5\u0645\u0644\u0649\u0643 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"گۇلف ئۆلچەملىك ۋاقتى"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -91,23 +91,23 @@ $ObjectArray2* TimeZoneNames_ug::getContents() {
 		""_s
 	}));
 	$var($StringArray, Hovd, $new($StringArray, {
-		u"\u062e\u0648\u06cb\u062f \u0626\u06c6\u0644\u0686\u06d5\u0645\u0644\u0649\u0643 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"خوۋد ئۆلچەملىك ۋاقتى"_s,
 		""_s,
-		u"\u062e\u0648\u06cb\u062f \u064a\u0627\u0632\u0644\u0649\u0642 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"خوۋد يازلىق ۋاقتى"_s,
 		""_s,
-		u"\u062e\u0648\u06cb\u062f \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"خوۋد ۋاقتى"_s,
 		""_s
 	}));
 	$var($StringArray, Iran, $new($StringArray, {
-		u"\u0626\u0649\u0631\u0627\u0646 \u0626\u06c6\u0644\u0686\u06d5\u0645\u0644\u0649\u0643 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"ئىران ئۆلچەملىك ۋاقتى"_s,
 		""_s,
-		u"\u0626\u0649\u0631\u0627\u0646 \u064a\u0627\u0632\u0644\u0649\u0642 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"ئىران يازلىق ۋاقتى"_s,
 		""_s,
-		u"\u0626\u0649\u0631\u0627\u0646 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"ئىران ۋاقتى"_s,
 		""_s
 	}));
 	$var($StringArray, Niue, $new($StringArray, {
-		u"\u0646\u0649\u064a\u06c7\u0626\u06d0 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"نىيۇئې ۋاقتى"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -115,23 +115,23 @@ $ObjectArray2* TimeZoneNames_ug::getContents() {
 		""_s
 	}));
 	$var($StringArray, Omsk, $new($StringArray, {
-		u"\u0626\u0648\u0645\u0633\u0643 \u0626\u06c6\u0644\u0686\u06d5\u0645\u0644\u0649\u0643 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"ئومسك ئۆلچەملىك ۋاقتى"_s,
 		""_s,
-		u"\u0626\u0648\u0645\u0633\u0643 \u064a\u0627\u0632\u0644\u0649\u0642 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"ئومسك يازلىق ۋاقتى"_s,
 		""_s,
-		u"\u0626\u0648\u0645\u0633\u0643 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"ئومسك ۋاقتى"_s,
 		""_s
 	}));
 	$var($StringArray, Peru, $new($StringArray, {
-		u"\u067e\u06d0\u0631\u06c7 \u0626\u06c6\u0644\u0686\u06d5\u0645\u0644\u0649\u0643 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"پېرۇ ئۆلچەملىك ۋاقتى"_s,
 		""_s,
-		u"\u067e\u06d0\u0631\u06c7 \u064a\u0627\u0632\u0644\u0649\u0642 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"پېرۇ يازلىق ۋاقتى"_s,
 		""_s,
-		u"\u067e\u06d0\u0631\u06c7 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"پېرۇ ۋاقتى"_s,
 		""_s
 	}));
 	$var($StringArray, Truk, $new($StringArray, {
-		u"\u0686\u06c7\u0643 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"چۇك ۋاقتى"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -139,7 +139,7 @@ $ObjectArray2* TimeZoneNames_ug::getContents() {
 		""_s
 	}));
 	$var($StringArray, Wake, $new($StringArray, {
-		u"\u06cb\u06d0\u064a\u0643 \u0626\u0627\u0631\u0649\u0644\u0649 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"ۋېيك ئارىلى ۋاقتى"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -147,7 +147,7 @@ $ObjectArray2* TimeZoneNames_ug::getContents() {
 		""_s
 	}));
 	$var($StringArray, Casey, $new($StringArray, {
-		u"\u0643\u0627\u0633\u06d0\u064a \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"كاسېي ۋاقتى"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -155,23 +155,23 @@ $ObjectArray2* TimeZoneNames_ug::getContents() {
 		""_s
 	}));
 	$var($StringArray, Chile, $new($StringArray, {
-		u"\u0686\u0649\u0644\u0649 \u0626\u06c6\u0644\u0686\u06d5\u0645\u0644\u0649\u0643 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"چىلى ئۆلچەملىك ۋاقتى"_s,
 		""_s,
-		u"\u0686\u0649\u0644\u0649 \u064a\u0627\u0632\u0644\u0649\u0642 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"چىلى يازلىق ۋاقتى"_s,
 		""_s,
-		u"\u0686\u0649\u0644\u0649 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"چىلى ۋاقتى"_s,
 		""_s
 	}));
 	$var($StringArray, China, $new($StringArray, {
-		u"\u062c\u06c7\u06ad\u06af\u0648 \u0626\u06c6\u0644\u0686\u06d5\u0645\u0644\u0649\u0643 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"جۇڭگو ئۆلچەملىك ۋاقتى"_s,
 		""_s,
-		u"\u062c\u06c7\u06ad\u06af\u0648 \u064a\u0627\u0632\u0644\u0649\u0642 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"جۇڭگو يازلىق ۋاقتى"_s,
 		""_s,
-		u"\u062c\u06c7\u06ad\u06af\u0648 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"جۇڭگو ۋاقتى"_s,
 		""_s
 	}));
 	$var($StringArray, Cocos, $new($StringArray, {
-		u"\u0643\u0648\u0643\u06c7\u0633 \u0626\u0627\u0631\u0649\u0644\u0649 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"كوكۇس ئارىلى ۋاقتى"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -179,7 +179,7 @@ $ObjectArray2* TimeZoneNames_ug::getContents() {
 		""_s
 	}));
 	$var($StringArray, Davis, $new($StringArray, {
-		u"\u062f\u0627\u06cb\u0649\u0633 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"داۋىس ۋاقتى"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -187,7 +187,7 @@ $ObjectArray2* TimeZoneNames_ug::getContents() {
 		""_s
 	}));
 	$var($StringArray, India, $new($StringArray, {
-		u"\u06be\u0649\u0646\u062f\u0649\u0633\u062a\u0627\u0646 \u0626\u06c6\u0644\u0686\u06d5\u0645\u0644\u0649\u0643 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"ھىندىستان ئۆلچەملىك ۋاقتى"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -195,23 +195,23 @@ $ObjectArray2* TimeZoneNames_ug::getContents() {
 		""_s
 	}));
 	$var($StringArray, Japan, $new($StringArray, {
-		u"\u064a\u0627\u067e\u0648\u0646\u0649\u064a\u06d5 \u0626\u06c6\u0644\u0686\u06d5\u0645\u0644\u0649\u0643 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"ياپونىيە ئۆلچەملىك ۋاقتى"_s,
 		""_s,
-		u"\u064a\u0627\u067e\u0648\u0646\u0649\u064a\u06d5 \u064a\u0627\u0632\u0644\u0649\u0642 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"ياپونىيە يازلىق ۋاقتى"_s,
 		""_s,
-		u"\u064a\u0627\u067e\u0648\u0646\u0649\u064a\u06d5 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"ياپونىيە ۋاقتى"_s,
 		""_s
 	}));
 	$var($StringArray, Korea, $new($StringArray, {
-		u"\u0643\u0648\u0631\u0649\u064a\u06d5 \u0626\u06c6\u0644\u0686\u06d5\u0645\u0644\u0649\u0643 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"كورىيە ئۆلچەملىك ۋاقتى"_s,
 		""_s,
-		u"\u0643\u0648\u0631\u0649\u064a\u06d5 \u064a\u0627\u0632\u0644\u0649\u0642 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"كورىيە يازلىق ۋاقتى"_s,
 		""_s,
-		u"\u0643\u0648\u0631\u0649\u064a\u06d5 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"كورىيە ۋاقتى"_s,
 		""_s
 	}));
 	$var($StringArray, Nauru, $new($StringArray, {
-		u"\u0646\u0627\u06cb\u0631\u06c7 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"ناۋرۇ ۋاقتى"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -219,7 +219,7 @@ $ObjectArray2* TimeZoneNames_ug::getContents() {
 		""_s
 	}));
 	$var($StringArray, Nepal, $new($StringArray, {
-		u"\u0646\u06d0\u067e\u0627\u0644 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"نېپال ۋاقتى"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -227,7 +227,7 @@ $ObjectArray2* TimeZoneNames_ug::getContents() {
 		""_s
 	}));
 	$var($StringArray, Palau, $new($StringArray, {
-		u"\u067e\u0627\u0644\u0627\u06cb \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"پالاۋ ۋاقتى"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -235,15 +235,15 @@ $ObjectArray2* TimeZoneNames_ug::getContents() {
 		""_s
 	}));
 	$var($StringArray, Samoa, $new($StringArray, {
-		u"\u0633\u0627\u0645\u0648\u0626\u0627 \u0626\u06c6\u0644\u0686\u06d5\u0645\u0644\u0649\u0643 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"ساموئا ئۆلچەملىك ۋاقتى"_s,
 		""_s,
-		u"\u0633\u06d5\u0645\u06d5\u0631\u0642\u06d5\u0646\u062a \u064a\u0627\u0632\u0644\u0649\u0642 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"سەمەرقەنت يازلىق ۋاقتى"_s,
 		""_s,
-		u"\u0633\u0627\u0645\u0648\u0626\u0627 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"ساموئا ۋاقتى"_s,
 		""_s
 	}));
 	$var($StringArray, Syowa, $new($StringArray, {
-		u"\u0634\u0648\u06cb\u0627 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"شوۋا ۋاقتى"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -251,47 +251,47 @@ $ObjectArray2* TimeZoneNames_ug::getContents() {
 		""_s
 	}));
 	$var($StringArray, Tonga, $new($StringArray, {
-		u"\u062a\u0648\u0646\u06af\u0627 \u0626\u06c6\u0644\u0686\u06d5\u0645\u0644\u0649\u0643 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"تونگا ئۆلچەملىك ۋاقتى"_s,
 		""_s,
-		u"\u062a\u0648\u0646\u06af\u0627 \u064a\u0627\u0632\u0644\u0649\u0642 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"تونگا يازلىق ۋاقتى"_s,
 		""_s,
-		u"\u062a\u0648\u0646\u06af\u0627 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"تونگا ۋاقتى"_s,
 		""_s
 	}));
 	$var($StringArray, Alaska, $new($StringArray, {
-		u"\u0626\u0627\u0644\u064a\u0627\u0633\u0643\u0627 \u0626\u06c6\u0644\u0686\u06d5\u0645\u0644\u0649\u0643 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"ئالياسكا ئۆلچەملىك ۋاقتى"_s,
 		""_s,
-		u"\u0626\u0627\u0644\u064a\u0627\u0633\u0643\u0627 \u064a\u0627\u0632\u0644\u0649\u0642 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"ئالياسكا يازلىق ۋاقتى"_s,
 		""_s,
-		u"\u0626\u0627\u0644\u064a\u0627\u0633\u0643\u0627 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"ئالياسكا ۋاقتى"_s,
 		""_s
 	}));
 	$var($StringArray, Amazon, $new($StringArray, {
-		u"\u0626\u0627\u0645\u0627\u0632\u0648\u0646 \u0626\u06c6\u0644\u0686\u06d5\u0645\u0644\u0649\u0643 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"ئامازون ئۆلچەملىك ۋاقتى"_s,
 		""_s,
-		u"\u0626\u0627\u0645\u0627\u0632\u0648\u0646 \u064a\u0627\u0632\u0644\u0649\u0642 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"ئامازون يازلىق ۋاقتى"_s,
 		""_s,
-		u"\u0626\u0627\u0645\u0627\u0632\u0648\u0646 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"ئامازون ۋاقتى"_s,
 		""_s
 	}));
 	$var($StringArray, Anadyr, $new($StringArray, {
-		u"\u0626\u0627\u0646\u0627\u062f\u0649\u0631 \u0626\u06c6\u0644\u0686\u06d5\u0645\u0644\u0649\u0643 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"ئانادىر ئۆلچەملىك ۋاقتى"_s,
 		""_s,
-		u"\u0626\u0627\u0646\u0627\u062f\u0649\u0631 \u064a\u0627\u0632\u0644\u0649\u0642 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"ئانادىر يازلىق ۋاقتى"_s,
 		""_s,
-		u"\u0626\u0627\u0646\u0627\u062f\u0649\u0631 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"ئانادىر ۋاقتى"_s,
 		""_s
 	}));
 	$var($StringArray, Azores, $new($StringArray, {
-		u"\u0626\u0627\u0632\u0648\u0631 \u0626\u06c6\u0644\u0686\u06d5\u0645\u0644\u0649\u0643 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"ئازور ئۆلچەملىك ۋاقتى"_s,
 		""_s,
-		u"\u0626\u0627\u0632\u0648\u0631 \u064a\u0627\u0632\u0644\u0649\u0642 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"ئازور يازلىق ۋاقتى"_s,
 		""_s,
-		u"\u0626\u0627\u0632\u0648\u0631 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"ئازور ۋاقتى"_s,
 		""_s
 	}));
 	$var($StringArray, Bhutan, $new($StringArray, {
-		u"\u0628\u06c7\u062a\u0627\u0646 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"بۇتان ۋاقتى"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -299,7 +299,7 @@ $ObjectArray2* TimeZoneNames_ug::getContents() {
 		""_s
 	}));
 	$var($StringArray, Brunei, $new($StringArray, {
-		u"\u0628\u0649\u0631\u06c7\u0646\u0649\u064a \u062f\u0627\u0631\u06c7\u0633\u0633\u0627\u0644\u0627\u0645 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"بىرۇنىي دارۇسسالام ۋاقتى"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -307,15 +307,15 @@ $ObjectArray2* TimeZoneNames_ug::getContents() {
 		""_s
 	}));
 	$var($StringArray, Easter, $new($StringArray, {
-		u"\u067e\u0627\u0633\u0643\u0627\u0644\u064a\u0627 \u0626\u0627\u0631\u0649\u0644\u0649 \u0626\u06c6\u0644\u0686\u06d5\u0645\u0644\u0649\u0643 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"پاسكاليا ئارىلى ئۆلچەملىك ۋاقتى"_s,
 		""_s,
-		u"\u0626\u06d0\u0633\u062a\u06d0\u0631 \u0626\u0627\u0631\u0649\u0644\u0649 \u064a\u0627\u0632\u0644\u0649\u0642 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"ئېستېر ئارىلى يازلىق ۋاقتى"_s,
 		""_s,
-		u"\u0626\u06d0\u0633\u062a\u06d0\u0631 \u0626\u0627\u0631\u0649\u0644\u0649 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"ئېستېر ئارىلى ۋاقتى"_s,
 		""_s
 	}));
 	$var($StringArray, Guyana, $new($StringArray, {
-		u"\u06af\u0649\u06cb\u0649\u064a\u0627\u0646\u0627 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"گىۋىيانا ۋاقتى"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -323,15 +323,15 @@ $ObjectArray2* TimeZoneNames_ug::getContents() {
 		""_s
 	}));
 	$var($StringArray, Israel, $new($StringArray, {
-		u"\u0626\u0649\u0633\u0631\u0627\u0626\u0649\u0644\u0649\u064a\u06d5 \u0626\u06c6\u0644\u0686\u06d5\u0645\u0644\u0649\u0643 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"ئىسرائىلىيە ئۆلچەملىك ۋاقتى"_s,
 		""_s,
-		u"\u0626\u0649\u0633\u0631\u0627\u0626\u0649\u0644\u0649\u064a\u06d5 \u064a\u0627\u0632\u0644\u0649\u0642 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"ئىسرائىلىيە يازلىق ۋاقتى"_s,
 		""_s,
-		u"\u0626\u0649\u0633\u0631\u0627\u0626\u0649\u0644\u0649\u064a\u06d5 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"ئىسرائىلىيە ۋاقتى"_s,
 		""_s
 	}));
 	$var($StringArray, Kosrae, $new($StringArray, {
-		u"\u0643\u0648\u0633\u0631\u0627\u0626\u06d0 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"كوسرائې ۋاقتى"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -339,7 +339,7 @@ $ObjectArray2* TimeZoneNames_ug::getContents() {
 		""_s
 	}));
 	$var($StringArray, Mawson, $new($StringArray, {
-		u"\u0645\u0627\u06cb\u0633\u0648\u0646 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"ماۋسون ۋاقتى"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -347,15 +347,15 @@ $ObjectArray2* TimeZoneNames_ug::getContents() {
 		""_s
 	}));
 	$var($StringArray, Moscow, $new($StringArray, {
-		u"\u0645\u0648\u0633\u0643\u06cb\u0627 \u0626\u06c6\u0644\u0686\u06d5\u0645\u0644\u0649\u0643 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"موسكۋا ئۆلچەملىك ۋاقتى"_s,
 		""_s,
-		u"\u0645\u0648\u0633\u0643\u06cb\u0627 \u064a\u0627\u0632\u0644\u0649\u0642 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"موسكۋا يازلىق ۋاقتى"_s,
 		""_s,
-		u"\u0645\u0648\u0633\u0643\u06cb\u0627 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"موسكۋا ۋاقتى"_s,
 		""_s
 	}));
 	$var($StringArray, Ponape, $new($StringArray, {
-		u"\u067e\u0648\u0646\u067e\u06d0\u064a \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"پونپېي ۋاقتى"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -363,15 +363,15 @@ $ObjectArray2* TimeZoneNames_ug::getContents() {
 		""_s
 	}));
 	$var($StringArray, Samara, $new($StringArray, {
-		u"\u0633\u0627\u0645\u0627\u0631\u0627 \u0626\u06c6\u0644\u0686\u06d5\u0645\u0644\u0649\u0643 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"سامارا ئۆلچەملىك ۋاقتى"_s,
 		""_s,
-		u"\u0633\u0627\u0645\u0627\u0631\u0627 \u064a\u0627\u0632\u0644\u0649\u0642 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"سامارا يازلىق ۋاقتى"_s,
 		""_s,
-		u"\u0633\u0627\u0645\u0627\u0631\u0627 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"سامارا ۋاقتى"_s,
 		""_s
 	}));
 	$var($StringArray, Tahiti, $new($StringArray, {
-		u"\u062a\u0627\u064a\u062a\u0649 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"تايتى ۋاقتى"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -379,15 +379,15 @@ $ObjectArray2* TimeZoneNames_ug::getContents() {
 		""_s
 	}));
 	$var($StringArray, Taipei, $new($StringArray, {
-		u"\u062a\u06d5\u064a\u0628\u06d0\u064a \u0626\u06c6\u0644\u0686\u06d5\u0645\u0644\u0649\u0643 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"تەيبېي ئۆلچەملىك ۋاقتى"_s,
 		""_s,
-		u"\u062a\u06d5\u064a\u0628\u06d0\u064a \u064a\u0627\u0632\u0644\u0649\u0642 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"تەيبېي يازلىق ۋاقتى"_s,
 		""_s,
-		u"\u062a\u06d5\u064a\u0628\u06d0\u064a \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"تەيبېي ۋاقتى"_s,
 		""_s
 	}));
 	$var($StringArray, Tuvalu, $new($StringArray, {
-		u"\u062a\u06c7\u06cb\u0627\u0644\u06c7 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"تۇۋالۇ ۋاقتى"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -395,7 +395,7 @@ $ObjectArray2* TimeZoneNames_ug::getContents() {
 		""_s
 	}));
 	$var($StringArray, Vostok, $new($StringArray, {
-		u"\u06cb\u0648\u0633\u062a\u0648\u0643 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"ۋوستوك ۋاقتى"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -403,7 +403,7 @@ $ObjectArray2* TimeZoneNames_ug::getContents() {
 		""_s
 	}));
 	$var($StringArray, Wallis, $new($StringArray, {
-		u"\u06cb\u0627\u0644\u0644\u0649\u0633 \u06cb\u06d5 \u0641\u06c7\u062a\u06c7\u0646\u0627 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"ۋاللىس ۋە فۇتۇنا ۋاقتى"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -411,23 +411,23 @@ $ObjectArray2* TimeZoneNames_ug::getContents() {
 		""_s
 	}));
 	$var($StringArray, Arabian, $new($StringArray, {
-		u"\u0626\u06d5\u0631\u06d5\u0628 \u0626\u06c6\u0644\u0686\u06d5\u0645\u0644\u0649\u0643 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"ئەرەب ئۆلچەملىك ۋاقتى"_s,
 		""_s,
-		u"\u0626\u06d5\u0631\u06d5\u0628 \u064a\u0627\u0632\u0644\u0649\u0642 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"ئەرەب يازلىق ۋاقتى"_s,
 		""_s,
-		u"\u0626\u06d5\u0631\u06d5\u0628 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"ئەرەب ۋاقتى"_s,
 		""_s
 	}));
 	$var($StringArray, Armenia, $new($StringArray, {
-		u"\u0626\u06d5\u0631\u0645\u06d0\u0646\u0649\u064a\u06d5 \u0626\u06c6\u0644\u0686\u06d5\u0645\u0644\u0649\u0643 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"ئەرمېنىيە ئۆلچەملىك ۋاقتى"_s,
 		""_s,
-		u"\u0626\u06d5\u0631\u0645\u06d0\u0646\u0649\u064a\u06d5 \u064a\u0627\u0632\u0644\u0649\u0642 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"ئەرمېنىيە يازلىق ۋاقتى"_s,
 		""_s,
-		u"\u0626\u06d5\u0631\u0645\u06d0\u0646\u0649\u064a\u06d5 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"ئەرمېنىيە ۋاقتى"_s,
 		""_s
 	}));
 	$var($StringArray, Bolivia, $new($StringArray, {
-		u"\u0628\u0648\u0644\u0649\u06cb\u0649\u064a\u06d5 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"بولىۋىيە ۋاقتى"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -435,15 +435,15 @@ $ObjectArray2* TimeZoneNames_ug::getContents() {
 		""_s
 	}));
 	$var($StringArray, Chatham, $new($StringArray, {
-		u"\u0686\u0627\u062a\u0627\u0645 \u0626\u06c6\u0644\u0686\u06d5\u0645\u0644\u0649\u0643 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"چاتام ئۆلچەملىك ۋاقتى"_s,
 		""_s,
-		u"\u0686\u0627\u062a\u0627\u0645 \u064a\u0627\u0632\u0644\u0649\u0642 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"چاتام يازلىق ۋاقتى"_s,
 		""_s,
-		u"\u0686\u0627\u062a\u0627\u0645 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"چاتام ۋاقتى"_s,
 		""_s
 	}));
 	$var($StringArray, Ecuador, $new($StringArray, {
-		u"\u0626\u06d0\u0643\u06cb\u0627\u062f\u0648\u0631 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"ئېكۋادور ۋاقتى"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -451,7 +451,7 @@ $ObjectArray2* TimeZoneNames_ug::getContents() {
 		""_s
 	}));
 	$var($StringArray, Gambier, $new($StringArray, {
-		u"\u06af\u0627\u0645\u0628\u0649\u064a\u06d0\u0631 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"گامبىيېر ۋاقتى"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -459,31 +459,31 @@ $ObjectArray2* TimeZoneNames_ug::getContents() {
 		""_s
 	}));
 	$var($StringArray, Georgia, $new($StringArray, {
-		u"\u06af\u0649\u0631\u06c7\u0632\u0649\u064a\u06d5 \u0626\u06c6\u0644\u0686\u06d5\u0645\u0644\u0649\u0643 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"گىرۇزىيە ئۆلچەملىك ۋاقتى"_s,
 		""_s,
-		u"\u06af\u0649\u0631\u06c7\u0632\u0649\u064a\u06d5 \u064a\u0627\u0632\u0644\u0649\u0642 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"گىرۇزىيە يازلىق ۋاقتى"_s,
 		""_s,
-		u"\u06af\u0649\u0631\u06c7\u0632\u0649\u064a\u06d5 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"گىرۇزىيە ۋاقتى"_s,
 		""_s
 	}));
 	$var($StringArray, Irkutsk, $new($StringArray, {
-		u"\u0626\u0649\u0631\u0643\u06c7\u062a\u0633\u0643 \u0626\u06c6\u0644\u0686\u06d5\u0645\u0644\u0649\u0643 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"ئىركۇتسك ئۆلچەملىك ۋاقتى"_s,
 		""_s,
-		u"\u0626\u0649\u0631\u0643\u06c7\u062a\u0633\u0643 \u064a\u0627\u0632\u0644\u0649\u0642 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"ئىركۇتسك يازلىق ۋاقتى"_s,
 		""_s,
-		u"\u0626\u0649\u0631\u0643\u06c7\u062a\u0633\u0643 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"ئىركۇتسك ۋاقتى"_s,
 		""_s
 	}));
 	$var($StringArray, Magadan, $new($StringArray, {
-		u"\u0645\u0627\u06af\u0627\u062f\u0627\u0646 \u0626\u06c6\u0644\u0686\u06d5\u0645\u0644\u0649\u0643 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"ماگادان ئۆلچەملىك ۋاقتى"_s,
 		""_s,
-		u"\u0645\u0627\u06af\u0627\u062f\u0627\u0646 \u064a\u0627\u0632\u0644\u0649\u0642 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"ماگادان يازلىق ۋاقتى"_s,
 		""_s,
-		u"\u0645\u0627\u06af\u0627\u062f\u0627\u0646 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"ماگادان ۋاقتى"_s,
 		""_s
 	}));
 	$var($StringArray, Myanmar, $new($StringArray, {
-		u"\u0628\u0649\u0631\u0645\u0627 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"بىرما ۋاقتى"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -491,23 +491,23 @@ $ObjectArray2* TimeZoneNames_ug::getContents() {
 		""_s
 	}));
 	$var($StringArray, Norfolk, $new($StringArray, {
-		u"\u0646\u0648\u0631\u0641\u0648\u0644\u0643 \u0626\u0627\u0631\u0627\u0644\u0644\u0649\u0631\u0649 \u0626\u06c6\u0644\u0686\u06d5\u0645\u0644\u0649\u0643 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"نورفولك ئاراللىرى ئۆلچەملىك ۋاقتى"_s,
 		""_s,
-		u"\u0646\u0648\u0631\u0641\u0648\u0644\u0643 \u0626\u0627\u0631\u0627\u0644\u0644\u0649\u0631\u0649 \u064a\u0627\u0632\u0644\u0649\u0642 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"نورفولك ئاراللىرى يازلىق ۋاقتى"_s,
 		""_s,
-		u"\u0646\u0648\u0631\u0641\u0648\u0644\u0643 \u0626\u0627\u0631\u0627\u0644\u0644\u0649\u0631\u0649 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"نورفولك ئاراللىرى ۋاقتى"_s,
 		""_s
 	}));
 	$var($StringArray, Noronha, $new($StringArray, {
-		u"\u0641\u06d0\u0631\u0646\u0627\u0646\u062f\u0648-\u0646\u0648\u0631\u0648\u0646\u062e\u0627 \u0626\u06c6\u0644\u0686\u06d5\u0645\u0644\u0649\u0643 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"فېرناندو-نورونخا ئۆلچەملىك ۋاقتى"_s,
 		""_s,
-		u"\u0641\u06d0\u0631\u0646\u0627\u0646\u062f\u0648-\u0646\u0648\u0631\u0648\u0646\u062e\u0627 \u064a\u0627\u0632\u0644\u0649\u0642 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"فېرناندو-نورونخا يازلىق ۋاقتى"_s,
 		""_s,
-		u"\u0641\u06d0\u0631\u0646\u0627\u0646\u062f\u0648-\u0646\u0648\u0631\u0648\u0646\u062e\u0627 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"فېرناندو-نورونخا ۋاقتى"_s,
 		""_s
 	}));
 	$var($StringArray, Reunion, $new($StringArray, {
-		u"\u0631\u06d0\u0626\u0648\u0646\u0649\u064a\u0648\u0646 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"رېئونىيون ۋاقتى"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -515,7 +515,7 @@ $ObjectArray2* TimeZoneNames_ug::getContents() {
 		""_s
 	}));
 	$var($StringArray, Rothera, $new($StringArray, {
-		u"\u0631\u0648\u062a\u06d0\u0631\u0627 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"روتېرا ۋاقتى"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -523,7 +523,7 @@ $ObjectArray2* TimeZoneNames_ug::getContents() {
 		""_s
 	}));
 	$var($StringArray, Solomon, $new($StringArray, {
-		u"\u0633\u0648\u0644\u0648\u0645\u0648\u0646 \u0626\u0627\u0631\u0627\u0644\u0644\u0649\u0631\u0649 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"سولومون ئاراللىرى ۋاقتى"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -531,7 +531,7 @@ $ObjectArray2* TimeZoneNames_ug::getContents() {
 		""_s
 	}));
 	$var($StringArray, Tokelau, $new($StringArray, {
-		u"\u062a\u0648\u0643\u06d0\u0644\u0627\u06cb \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"توكېلاۋ ۋاقتى"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -539,47 +539,47 @@ $ObjectArray2* TimeZoneNames_ug::getContents() {
 		""_s
 	}));
 	$var($StringArray, Uruguay, $new($StringArray, {
-		u"\u0626\u06c7\u0631\u06c7\u06af\u06cb\u0627\u064a \u0626\u06c6\u0644\u0686\u06d5\u0645\u0644\u0649\u0643 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"ئۇرۇگۋاي ئۆلچەملىك ۋاقتى"_s,
 		""_s,
-		u"\u0626\u06c7\u0631\u06c7\u06af\u06cb\u0627\u064a \u064a\u0627\u0632\u0644\u0649\u0642 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"ئۇرۇگۋاي يازلىق ۋاقتى"_s,
 		""_s,
-		u"\u0626\u06c7\u0631\u06c7\u06af\u06cb\u0627\u064a \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"ئۇرۇگۋاي ۋاقتى"_s,
 		""_s
 	}));
 	$var($StringArray, Vanuatu, $new($StringArray, {
-		u"\u06cb\u0627\u0646\u06c7\u0626\u0627\u062a\u06c7 \u0626\u06c6\u0644\u0686\u06d5\u0645\u0644\u0649\u0643 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"ۋانۇئاتۇ ئۆلچەملىك ۋاقتى"_s,
 		""_s,
-		u"\u06cb\u0627\u0646\u06c7\u0626\u0627\u062a\u06c7 \u064a\u0627\u0632\u0644\u0649\u0642 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"ۋانۇئاتۇ يازلىق ۋاقتى"_s,
 		""_s,
-		u"\u06cb\u0627\u0646\u06c7\u0626\u0627\u062a\u06c7 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"ۋانۇئاتۇ ۋاقتى"_s,
 		""_s
 	}));
 	$var($StringArray, Yakutsk, $new($StringArray, {
-		u"\u064a\u0627\u0643\u06c7\u062a\u0633\u0643 \u0626\u06c6\u0644\u0686\u06d5\u0645\u0644\u0649\u0643 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"ياكۇتسك ئۆلچەملىك ۋاقتى"_s,
 		""_s,
-		u"\u064a\u0627\u0643\u06c7\u062a\u0633\u0643 \u064a\u0627\u0632\u0644\u0649\u0642 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"ياكۇتسك يازلىق ۋاقتى"_s,
 		""_s,
-		u"\u064a\u0627\u0643\u06c7\u062a\u0633\u0643 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"ياكۇتسك ۋاقتى"_s,
 		""_s
 	}));
 	$var($StringArray, Atlantic, $new($StringArray, {
-		u"\u0626\u0627\u062a\u0644\u0627\u0646\u062a\u0649\u0643 \u0626\u0648\u0643\u064a\u0627\u0646 \u0626\u06c6\u0644\u0686\u06d5\u0645\u0644\u0649\u0643 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"ئاتلانتىك ئوكيان ئۆلچەملىك ۋاقتى"_s,
 		""_s,
-		u"\u0626\u0627\u062a\u0644\u0627\u0646\u062a\u0649\u0643 \u0626\u0648\u0643\u064a\u0627\u0646 \u064a\u0627\u0632\u0644\u0649\u0642 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"ئاتلانتىك ئوكيان يازلىق ۋاقتى"_s,
 		""_s,
-		u"\u0626\u0627\u062a\u0644\u0627\u0646\u062a\u0649\u0643 \u0626\u0648\u0643\u064a\u0627\u0646 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"ئاتلانتىك ئوكيان ۋاقتى"_s,
 		""_s
 	}));
 	$var($StringArray, Brasilia, $new($StringArray, {
-		u"\u0628\u0649\u0631\u0627\u0632\u0649\u0644\u0649\u064a\u06d5 \u0626\u06c6\u0644\u0686\u06d5\u0645\u0644\u0649\u0643 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"بىرازىلىيە ئۆلچەملىك ۋاقتى"_s,
 		""_s,
-		u"\u0628\u0649\u0631\u0627\u0632\u0649\u0644\u0649\u064a\u06d5 \u064a\u0627\u0632\u0644\u0649\u0642 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"بىرازىلىيە يازلىق ۋاقتى"_s,
 		""_s,
-		u"\u0628\u0649\u0631\u0627\u0632\u0649\u0644\u0649\u064a\u06d5 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"بىرازىلىيە ۋاقتى"_s,
 		""_s
 	}));
 	$var($StringArray, Chamorro, $new($StringArray, {
-		u"\u0686\u0627\u0645\u0648\u0631\u0631\u0648 \u0626\u06c6\u0644\u0686\u06d5\u0645\u0644\u0649\u0643 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"چاموررو ئۆلچەملىك ۋاقتى"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -587,23 +587,23 @@ $ObjectArray2* TimeZoneNames_ug::getContents() {
 		""_s
 	}));
 	$var($StringArray, Colombia, $new($StringArray, {
-		u"\u0643\u0648\u0644\u0648\u0645\u0628\u0649\u064a\u06d5 \u0626\u06c6\u0644\u0686\u06d5\u0645\u0644\u0649\u0643 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"كولومبىيە ئۆلچەملىك ۋاقتى"_s,
 		""_s,
-		u"\u0643\u0648\u0644\u0648\u0645\u0628\u0649\u064a\u06d5 \u064a\u0627\u0632\u0644\u0649\u0642 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"كولومبىيە يازلىق ۋاقتى"_s,
 		""_s,
-		u"\u0643\u0648\u0644\u0648\u0645\u0628\u0649\u064a\u06d5 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"كولومبىيە ۋاقتى"_s,
 		""_s
 	}));
 	$var($StringArray, Falkland, $new($StringArray, {
-		u"\u0641\u0627\u0644\u0643\u0644\u0627\u0646\u062f \u0626\u0627\u0631\u0627\u0644\u0644\u0649\u0631\u0649 \u0626\u06c6\u0644\u0686\u06d5\u0645\u0644\u0649\u0643 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"فالكلاند ئاراللىرى ئۆلچەملىك ۋاقتى"_s,
 		""_s,
-		u"\u0641\u0627\u0644\u0643\u0644\u0627\u0646\u062f \u0626\u0627\u0631\u0627\u0644\u0644\u0649\u0631\u0649 \u064a\u0627\u0632\u0644\u0649\u0642 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"فالكلاند ئاراللىرى يازلىق ۋاقتى"_s,
 		""_s,
-		u"\u0641\u0627\u0644\u0643\u0644\u0627\u0646\u062f \u0626\u0627\u0631\u0627\u0644\u0644\u0649\u0631\u0649 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"فالكلاند ئاراللىرى ۋاقتى"_s,
 		""_s
 	}));
 	$var($StringArray, Malaysia, $new($StringArray, {
-		u"\u0645\u0627\u0644\u0627\u064a\u0634\u0649\u064a\u0627 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"مالايشىيا ۋاقتى"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -611,7 +611,7 @@ $ObjectArray2* TimeZoneNames_ug::getContents() {
 		""_s
 	}));
 	$var($StringArray, Maldives, $new($StringArray, {
-		u"\u0645\u0627\u0644\u062f\u0649\u06cb\u06d0 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"مالدىۋې ۋاقتى"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -619,31 +619,31 @@ $ObjectArray2* TimeZoneNames_ug::getContents() {
 		""_s
 	}));
 	$var($StringArray, Mongolia, $new($StringArray, {
-		u"\u0626\u06c7\u0644\u0627\u0646\u0628\u0627\u062a\u0648\u0631 \u0626\u06c6\u0644\u0686\u06d5\u0645\u0644\u0649\u0643 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"ئۇلانباتور ئۆلچەملىك ۋاقتى"_s,
 		""_s,
-		u"\u0626\u06c7\u0644\u0627\u0646\u0628\u0627\u062a\u0648\u0631 \u064a\u0627\u0632\u0644\u0649\u0642 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"ئۇلانباتور يازلىق ۋاقتى"_s,
 		""_s,
-		u"\u0626\u06c7\u0644\u0627\u0646\u0628\u0627\u062a\u0648\u0631 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"ئۇلانباتور ۋاقتى"_s,
 		""_s
 	}));
 	$var($StringArray, Pakistan, $new($StringArray, {
-		u"\u067e\u0627\u0643\u0649\u0633\u062a\u0627\u0646 \u0626\u06c6\u0644\u0686\u06d5\u0645\u0644\u0649\u0643 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"پاكىستان ئۆلچەملىك ۋاقتى"_s,
 		""_s,
-		u"\u067e\u0627\u0643\u0649\u0633\u062a\u0627\u0646 \u064a\u0627\u0632\u0644\u0649\u0642 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"پاكىستان يازلىق ۋاقتى"_s,
 		""_s,
-		u"\u067e\u0627\u0643\u0649\u0633\u062a\u0627\u0646 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"پاكىستان ۋاقتى"_s,
 		""_s
 	}));
 	$var($StringArray, Paraguay, $new($StringArray, {
-		u"\u067e\u0627\u0631\u0627\u06af\u06cb\u0627\u064a \u0626\u06c6\u0644\u0686\u06d5\u0645\u0644\u0649\u0643 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"پاراگۋاي ئۆلچەملىك ۋاقتى"_s,
 		""_s,
-		u"\u067e\u0627\u0631\u0627\u06af\u06cb\u0627\u064a \u064a\u0627\u0632\u0644\u0649\u0642 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"پاراگۋاي يازلىق ۋاقتى"_s,
 		""_s,
-		u"\u067e\u0627\u0631\u0627\u06af\u06cb\u0627\u064a \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"پاراگۋاي ۋاقتى"_s,
 		""_s
 	}));
 	$var($StringArray, Pitcairn, $new($StringArray, {
-		u"\u067e\u0649\u062a\u0643\u0627\u064a\u0631 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"پىتكاير ۋاقتى"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -651,15 +651,15 @@ $ObjectArray2* TimeZoneNames_ug::getContents() {
 		""_s
 	}));
 	$var($StringArray, Sakhalin, $new($StringArray, {
-		u"\u0633\u0627\u062e\u0627\u0631\u0649\u0646 \u0626\u06c6\u0644\u0686\u06d5\u0645\u0644\u0649\u0643 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"ساخارىن ئۆلچەملىك ۋاقتى"_s,
 		""_s,
-		u"\u0633\u0627\u062e\u0627\u0631\u0649\u0646 \u064a\u0627\u0632\u0644\u0649\u0642 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"ساخارىن يازلىق ۋاقتى"_s,
 		""_s,
-		u"\u0633\u0627\u062e\u0627\u0631\u0649\u0646 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"ساخارىن ۋاقتى"_s,
 		""_s
 	}));
 	$var($StringArray, Suriname, $new($StringArray, {
-		u"\u0633\u06c7\u0631\u0649\u0646\u0627\u0645 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"سۇرىنام ۋاقتى"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -667,15 +667,15 @@ $ObjectArray2* TimeZoneNames_ug::getContents() {
 		""_s
 	}));
 	$var($StringArray, Argentina, $new($StringArray, {
-		u"\u0626\u0627\u0631\u06af\u06d0\u0646\u062a\u0649\u0646\u0627 \u0626\u06c6\u0644\u0686\u06d5\u0645\u0644\u0649\u0643 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"ئارگېنتىنا ئۆلچەملىك ۋاقتى"_s,
 		""_s,
-		u"\u0626\u0627\u0631\u06af\u06d0\u0646\u062a\u0649\u0646\u0627 \u064a\u0627\u0632\u0644\u0649\u0642 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"ئارگېنتىنا يازلىق ۋاقتى"_s,
 		""_s,
-		u"\u0626\u0627\u0631\u06af\u06d0\u0646\u062a\u0649\u0646\u0627 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"ئارگېنتىنا ۋاقتى"_s,
 		""_s
 	}));
 	$var($StringArray, Christmas, $new($StringArray, {
-		u"\u0631\u0648\u0698\u062f\u06d0\u0633\u062a\u06cb\u0648 \u0626\u0627\u0631\u0649\u0644\u0649 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"روژدېستۋو ئارىلى ۋاقتى"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -683,7 +683,7 @@ $ObjectArray2* TimeZoneNames_ug::getContents() {
 		""_s
 	}));
 	$var($StringArray, Galapagos, $new($StringArray, {
-		u"\u06af\u0627\u0644\u0627\u067e\u0627\u06af\u0648\u0633 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"گالاپاگوس ۋاقتى"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -691,15 +691,15 @@ $ObjectArray2* TimeZoneNames_ug::getContents() {
 		""_s
 	}));
 	$var($StringArray, Hong_Kong, $new($StringArray, {
-		u"\u0634\u064a\u0627\u06ad\u06af\u0627\u06ad \u0626\u06c6\u0644\u0686\u06d5\u0645\u0644\u0649\u0643 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"شياڭگاڭ ئۆلچەملىك ۋاقتى"_s,
 		""_s,
-		u"\u0634\u064a\u0627\u06ad\u06af\u0627\u06ad \u064a\u0627\u0632\u0644\u0649\u0642 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"شياڭگاڭ يازلىق ۋاقتى"_s,
 		""_s,
-		u"\u0634\u064a\u0627\u06ad\u06af\u0627\u06ad \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"شياڭگاڭ ۋاقتى"_s,
 		""_s
 	}));
 	$var($StringArray, Indochina, $new($StringArray, {
-		u"\u06be\u0649\u0646\u062f\u0649 \u0686\u0649\u0646\u0649 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"ھىندى چىنى ۋاقتى"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -707,15 +707,15 @@ $ObjectArray2* TimeZoneNames_ug::getContents() {
 		""_s
 	}));
 	$var($StringArray, Kamchatka, $new($StringArray, {
-		u"\u067e\u06d0\u062a\u0631\u0648\u067e\u0627\u06cb\u0644\u0648\u06cb\u0633\u0643-\u0643\u0627\u0645\u0686\u0627\u062a\u0643\u0633\u0643\u0649 \u0626\u06c6\u0644\u0686\u06d5\u0645\u0644\u0649\u0643 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"پېتروپاۋلوۋسك-كامچاتكسكى ئۆلچەملىك ۋاقتى"_s,
 		""_s,
-		u"\u067e\u06d0\u062a\u0631\u0648\u067e\u0627\u06cb\u0644\u0648\u06cb\u0633\u0643-\u0643\u0627\u0645\u0686\u0627\u062a\u0643\u0633\u0643\u0649 \u064a\u0627\u0632\u0644\u0649\u0642 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"پېتروپاۋلوۋسك-كامچاتكسكى يازلىق ۋاقتى"_s,
 		""_s,
-		u"\u067e\u06d0\u062a\u0631\u0648\u067e\u0627\u06cb\u0644\u0648\u06cb\u0633\u0643-\u0643\u0627\u0645\u0686\u0627\u062a\u0643\u0633\u0643\u0649 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"پېتروپاۋلوۋسك-كامچاتكسكى ۋاقتى"_s,
 		""_s
 	}));
 	$var($StringArray, Kyrgystan, $new($StringArray, {
-		u"\u0642\u0649\u0631\u063a\u0649\u0632\u0649\u0633\u062a\u0627\u0646 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"قىرغىزىستان ۋاقتى"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -723,15 +723,15 @@ $ObjectArray2* TimeZoneNames_ug::getContents() {
 		""_s
 	}));
 	$var($StringArray, Lord_Howe, $new($StringArray, {
-		u"\u0644\u0648\u0631\u062f-\u062e\u0627\u064a \u0626\u06c6\u0644\u0686\u06d5\u0645\u0644\u0649\u0643 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"لورد-خاي ئۆلچەملىك ۋاقتى"_s,
 		""_s,
-		u"\u0644\u0648\u0631\u062f-\u062e\u0627\u064a \u064a\u0627\u0632\u0644\u0649\u0642 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"لورد-خاي يازلىق ۋاقتى"_s,
 		""_s,
-		u"\u0644\u0648\u0631\u062f-\u062e\u0627\u064a \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"لورد-خاي ۋاقتى"_s,
 		""_s
 	}));
 	$var($StringArray, Marquesas, $new($StringArray, {
-		u"\u0645\u0627\u0631\u0643\u0649\u0632 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"ماركىز ۋاقتى"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -739,15 +739,15 @@ $ObjectArray2* TimeZoneNames_ug::getContents() {
 		""_s
 	}));
 	$var($StringArray, Mauritius, $new($StringArray, {
-		u"\u0645\u0627\u06cb\u0631\u0649\u062a\u0649\u0626\u06c7\u0633 \u0626\u06c6\u0644\u0686\u06d5\u0645\u0644\u0649\u0643 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"ماۋرىتىئۇس ئۆلچەملىك ۋاقتى"_s,
 		""_s,
-		u"\u0645\u0627\u06cb\u0631\u0649\u062a\u0649\u0626\u06c7\u0633 \u064a\u0627\u0632\u0644\u0649\u0642 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"ماۋرىتىئۇس يازلىق ۋاقتى"_s,
 		""_s,
-		u"\u0645\u0627\u06cb\u0631\u0649\u062a\u0649\u0626\u06c7\u0633 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"ماۋرىتىئۇس ۋاقتى"_s,
 		""_s
 	}));
 	$var($StringArray, Singapore, $new($StringArray, {
-		u"\u0633\u0649\u0646\u06af\u0627\u067e\u0648\u0631 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"سىنگاپور ۋاقتى"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -755,7 +755,7 @@ $ObjectArray2* TimeZoneNames_ug::getContents() {
 		""_s
 	}));
 	$var($StringArray, Venezuela, $new($StringArray, {
-		u"\u06cb\u06d0\u0646\u06d0\u0632\u06c7\u0626\u06d0\u0644\u0627 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"ۋېنېزۇئېلا ۋاقتى"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -763,35 +763,35 @@ $ObjectArray2* TimeZoneNames_ug::getContents() {
 		""_s
 	}));
 	$var($StringArray, Volgograd, $new($StringArray, {
-		u"\u06cb\u0648\u0644\u06af\u0627\u06af\u0631\u0627\u062f \u0626\u06c6\u0644\u0686\u06d5\u0645\u0644\u0649\u0643 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"ۋولگاگراد ئۆلچەملىك ۋاقتى"_s,
 		""_s,
-		u"\u06cb\u0648\u0644\u06af\u0627\u06af\u0631\u0627\u062f \u064a\u0627\u0632\u0644\u0649\u0642 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"ۋولگاگراد يازلىق ۋاقتى"_s,
 		""_s,
-		u"\u06cb\u0648\u0644\u06af\u0627\u06af\u0631\u0627\u062f \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"ۋولگاگراد ۋاقتى"_s,
 		""_s
 	}));
 	$var($StringArray, Azerbaijan, $new($StringArray, {
-		u"\u0626\u06d5\u0632\u06d5\u0631\u0628\u06d5\u064a\u062c\u0627\u0646 \u0626\u06c6\u0644\u0686\u06d5\u0645\u0644\u0649\u0643 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"ئەزەربەيجان ئۆلچەملىك ۋاقتى"_s,
 		""_s,
-		u"\u0626\u06d5\u0632\u06d5\u0631\u0628\u06d5\u064a\u062c\u0627\u0646 \u064a\u0627\u0632\u0644\u0649\u0642 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"ئەزەربەيجان يازلىق ۋاقتى"_s,
 		""_s,
-		u"\u0626\u06d5\u0632\u06d5\u0631\u0628\u06d5\u064a\u062c\u0627\u0646 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"ئەزەربەيجان ۋاقتى"_s,
 		""_s
 	}));
 	$var($StringArray, Bangladesh, $new($StringArray, {
-		u"\u0628\u0627\u06ad\u0644\u0627\u062f\u0649\u0634 \u0626\u06c6\u0644\u0686\u06d5\u0645\u0644\u0649\u0643 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"باڭلادىش ئۆلچەملىك ۋاقتى"_s,
 		""_s,
-		u"\u0628\u0627\u06ad\u0644\u0627\u062f\u0649\u0634 \u064a\u0627\u0632\u0644\u0649\u0642 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"باڭلادىش يازلىق ۋاقتى"_s,
 		""_s,
-		u"\u0628\u0627\u06ad\u0644\u0627\u062f\u0649\u0634 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"باڭلادىش ۋاقتى"_s,
 		""_s
 	}));
 	$var($StringArray, Cape_Verde, $new($StringArray, {
-		u"\u064a\u06d0\u0634\u0649\u0644 \u062a\u06c7\u0645\u0634\u06c7\u0642 \u0626\u06c6\u0644\u0686\u06d5\u0645\u0644\u0649\u0643 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"يېشىل تۇمشۇق ئۆلچەملىك ۋاقتى"_s,
 		""_s,
-		u"\u064a\u06d0\u0634\u0649\u0644 \u062a\u06c7\u0645\u0634\u06c7\u0642 \u064a\u0627\u0632\u0644\u0649\u0642 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"يېشىل تۇمشۇق يازلىق ۋاقتى"_s,
 		""_s,
-		u"\u064a\u06d0\u0634\u0649\u0644 \u062a\u06c7\u0645\u0634\u06c7\u0642 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"يېشىل تۇمشۇق ۋاقتى"_s,
 		""_s
 	}));
 	$var($StringArray, EMPTY_ZONE, $new($StringArray, {
@@ -803,7 +803,7 @@ $ObjectArray2* TimeZoneNames_ug::getContents() {
 		""_s
 	}));
 	$var($StringArray, East_Timor, $new($StringArray, {
-		u"\u0634\u06d5\u0631\u0642\u0649\u064a \u062a\u0649\u0645\u0648\u0631 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"شەرقىي تىمور ۋاقتى"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -811,7 +811,7 @@ $ObjectArray2* TimeZoneNames_ug::getContents() {
 		""_s
 	}));
 	$var($StringArray, Seychelles, $new($StringArray, {
-		u"\u0633\u06d0\u064a\u0634\u06d0\u0644 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"سېيشېل ۋاقتى"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -819,7 +819,7 @@ $ObjectArray2* TimeZoneNames_ug::getContents() {
 		""_s
 	}));
 	$var($StringArray, Tajikistan, $new($StringArray, {
-		u"\u062a\u0627\u062c\u0649\u0643\u0649\u0633\u062a\u0627\u0646 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"تاجىكىستان ۋاقتى"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -827,15 +827,15 @@ $ObjectArray2* TimeZoneNames_ug::getContents() {
 		""_s
 	}));
 	$var($StringArray, Uzbekistan, $new($StringArray, {
-		u"\u0626\u06c6\u0632\u0628\u06d0\u0643\u0649\u0633\u062a\u0627\u0646 \u0626\u06c6\u0644\u0686\u06d5\u0645\u0644\u0649\u0643 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"ئۆزبېكىستان ئۆلچەملىك ۋاقتى"_s,
 		""_s,
-		u"\u0626\u06c6\u0632\u0628\u06d0\u0643\u0649\u0633\u062a\u0627\u0646 \u064a\u0627\u0632\u0644\u0649\u0642 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"ئۆزبېكىستان يازلىق ۋاقتى"_s,
 		""_s,
-		u"\u0626\u06c6\u0632\u0628\u06d0\u0643\u0649\u0633\u062a\u0627\u0646 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"ئۆزبېكىستان ۋاقتى"_s,
 		""_s
 	}));
 	$var($StringArray, Afghanistan, $new($StringArray, {
-		u"\u0626\u0627\u0641\u063a\u0627\u0646\u0649\u0633\u062a\u0627\u0646 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"ئافغانىستان ۋاقتى"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -843,47 +843,47 @@ $ObjectArray2* TimeZoneNames_ug::getContents() {
 		""_s
 	}));
 	$var($StringArray, Krasnoyarsk, $new($StringArray, {
-		u"\u0643\u0649\u0631\u0627\u0633\u0646\u0648\u064a\u0627\u0631\u0633\u0643 \u0626\u06c6\u0644\u0686\u06d5\u0645\u0644\u0649\u0643 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"كىراسنويارسك ئۆلچەملىك ۋاقتى"_s,
 		""_s,
-		u"\u0643\u0649\u0631\u0627\u0633\u0646\u0648\u064a\u0627\u0631\u0633\u0643 \u064a\u0627\u0632\u0644\u0649\u0642 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"كىراسنويارسك يازلىق ۋاقتى"_s,
 		""_s,
-		u"\u0643\u0649\u0631\u0627\u0633\u0646\u0648\u064a\u0627\u0631\u0633\u0643 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"كىراسنويارسك ۋاقتى"_s,
 		""_s
 	}));
 	$var($StringArray, New_Zealand, $new($StringArray, {
-		u"\u064a\u06d0\u06ad\u0649 \u0632\u06d0\u0644\u0627\u0646\u062f\u0649\u064a\u06d5 \u0626\u06c6\u0644\u0686\u06d5\u0645\u0644\u0649\u0643 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"يېڭى زېلاندىيە ئۆلچەملىك ۋاقتى"_s,
 		""_s,
-		u"\u064a\u06d0\u06ad\u0649 \u0632\u06d0\u0644\u0627\u0646\u062f\u0649\u064a\u06d5 \u064a\u0627\u0632\u0644\u0649\u0642 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"يېڭى زېلاندىيە يازلىق ۋاقتى"_s,
 		""_s,
-		u"\u064a\u06d0\u06ad\u0649 \u0632\u06d0\u0644\u0627\u0646\u062f\u0649\u064a\u06d5 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"يېڭى زېلاندىيە ۋاقتى"_s,
 		""_s
 	}));
 	$var($StringArray, Novosibirsk, $new($StringArray, {
-		u"\u0646\u0648\u06cb\u0648\u0633\u0649\u0628\u0649\u0631\u0633\u0643 \u0626\u06c6\u0644\u0686\u06d5\u0645\u0644\u0649\u0643 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"نوۋوسىبىرسك ئۆلچەملىك ۋاقتى"_s,
 		""_s,
-		u"\u0646\u0648\u06cb\u0648\u0633\u0649\u0628\u0649\u0631\u0633\u0643 \u064a\u0627\u0632\u0644\u0649\u0642 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"نوۋوسىبىرسك يازلىق ۋاقتى"_s,
 		""_s,
-		u"\u0646\u0648\u06cb\u0648\u0633\u0649\u0628\u0649\u0631\u0633\u0643 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"نوۋوسىبىرسك ۋاقتى"_s,
 		""_s
 	}));
 	$var($StringArray, Philippines, $new($StringArray, {
-		u"\u0641\u0649\u0644\u0649\u067e\u067e\u0649\u0646 \u0626\u06c6\u0644\u0686\u06d5\u0645\u0644\u0649\u0643 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"فىلىپپىن ئۆلچەملىك ۋاقتى"_s,
 		""_s,
-		u"\u0641\u0649\u0644\u0649\u067e\u067e\u0649\u0646 \u064a\u0627\u0632\u0644\u0649\u0642 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"فىلىپپىن يازلىق ۋاقتى"_s,
 		""_s,
-		u"\u0641\u0649\u0644\u0649\u067e\u067e\u0649\u0646 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"فىلىپپىن ۋاقتى"_s,
 		""_s
 	}));
 	$var($StringArray, Vladivostok, $new($StringArray, {
-		u"\u06cb\u0649\u0644\u0627\u062f\u0649\u06cb\u0648\u0633\u062a\u0648\u0643 \u0626\u06c6\u0644\u0686\u06d5\u0645\u0644\u0649\u0643 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"ۋىلادىۋوستوك ئۆلچەملىك ۋاقتى"_s,
 		""_s,
-		u"\u06cb\u0649\u0644\u0627\u062f\u0649\u06cb\u0648\u0633\u062a\u0648\u0643 \u064a\u0627\u0632\u0644\u0649\u0642 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"ۋىلادىۋوستوك يازلىق ۋاقتى"_s,
 		""_s,
-		u"\u06cb\u0649\u0644\u0627\u062f\u0649\u06cb\u0648\u0633\u062a\u0648\u0643 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"ۋىلادىۋوستوك ۋاقتى"_s,
 		""_s
 	}));
 	$var($StringArray, Indian_Ocean, $new($StringArray, {
-		u"\u06be\u0649\u0646\u062f\u0649 \u0626\u0648\u0643\u064a\u0627\u0646 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"ھىندى ئوكيان ۋاقتى"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -891,7 +891,7 @@ $ObjectArray2* TimeZoneNames_ug::getContents() {
 		""_s
 	}));
 	$var($StringArray, Line_Islands, $new($StringArray, {
-		u"\u0644\u0627\u064a\u0646 \u0626\u0627\u0631\u0627\u0644\u0644\u0649\u0631\u0649 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"لاين ئاراللىرى ۋاقتى"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -899,23 +899,23 @@ $ObjectArray2* TimeZoneNames_ug::getContents() {
 		""_s
 	}));
 	$var($StringArray, Newfoundland, $new($StringArray, {
-		u"\u0646\u0649\u06cb\u0641\u0648\u0626\u06c7\u0646\u0644\u0627\u0646\u062f \u0626\u06c6\u0644\u0686\u06d5\u0645\u0644\u0649\u0643 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"نىۋفوئۇنلاند ئۆلچەملىك ۋاقتى"_s,
 		""_s,
-		u"\u0646\u0649\u06cb\u0641\u0648\u0626\u06c7\u0646\u0644\u0627\u0646\u062f \u064a\u0627\u0632\u0644\u0649\u0642 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"نىۋفوئۇنلاند يازلىق ۋاقتى"_s,
 		""_s,
-		u"\u0646\u0649\u06cb\u0641\u0648\u0626\u06c7\u0646\u0644\u0627\u0646\u062f \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"نىۋفوئۇنلاند ۋاقتى"_s,
 		""_s
 	}));
 	$var($StringArray, Turkmenistan, $new($StringArray, {
-		u"\u062a\u06c8\u0631\u0643\u0645\u06d5\u0646\u0649\u0633\u062a\u0627\u0646 \u0626\u06c6\u0644\u0686\u06d5\u0645\u0644\u0649\u0643 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"تۈركمەنىستان ئۆلچەملىك ۋاقتى"_s,
 		""_s,
-		u"\u062a\u06c8\u0631\u0643\u0645\u06d5\u0646\u0649\u0633\u062a\u0627\u0646 \u064a\u0627\u0632\u0644\u0649\u0642 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"تۈركمەنىستان يازلىق ۋاقتى"_s,
 		""_s,
-		u"\u062a\u06c8\u0631\u0643\u0645\u06d5\u0646\u0649\u0633\u062a\u0627\u0646 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"تۈركمەنىستان ۋاقتى"_s,
 		""_s
 	}));
 	$var($StringArray, French_Guiana, $new($StringArray, {
-		u"\u0641\u0649\u0631\u0627\u0646\u0633\u0649\u064a\u06d5\u06af\u06d5 \u0642\u0627\u0631\u0627\u0634\u0644\u0649\u0642 \u06af\u0649\u06cb\u0649\u064a\u0627\u0646\u0627 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"فىرانسىيەگە قاراشلىق گىۋىيانا ۋاقتى"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -923,15 +923,15 @@ $ObjectArray2* TimeZoneNames_ug::getContents() {
 		""_s
 	}));
 	$var($StringArray, New_Caledonia, $new($StringArray, {
-		u"\u064a\u06d0\u06ad\u0649 \u0643\u0627\u0644\u06d0\u062f\u0648\u0646\u0649\u064a\u06d5 \u0626\u06c6\u0644\u0686\u06d5\u0645\u0644\u0649\u0643 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"يېڭى كالېدونىيە ئۆلچەملىك ۋاقتى"_s,
 		""_s,
-		u"\u064a\u06d0\u06ad\u0649 \u0643\u0627\u0644\u06d0\u062f\u0648\u0646\u0649\u064a\u06d5 \u064a\u0627\u0632\u0644\u0649\u0642 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"يېڭى كالېدونىيە يازلىق ۋاقتى"_s,
 		""_s,
-		u"\u064a\u06d0\u06ad\u0649 \u0643\u0627\u0644\u06d0\u062f\u0648\u0646\u0649\u064a\u06d5 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"يېڭى كالېدونىيە ۋاقتى"_s,
 		""_s
 	}));
 	$var($StringArray, South_Georgia, $new($StringArray, {
-		u"\u062c\u06d5\u0646\u06c7\u0628\u0649\u064a \u062c\u0648\u0631\u062c\u0649\u064a\u06d5 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"جەنۇبىي جورجىيە ۋاقتى"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -939,15 +939,15 @@ $ObjectArray2* TimeZoneNames_ug::getContents() {
 		""_s
 	}));
 	$var($StringArray, Yekaterinburg, $new($StringArray, {
-		u"\u064a\u06d0\u0643\u0627\u062a\u06d0\u0631\u0649\u0646\u0628\u06c7\u0631\u06af \u0626\u06c6\u0644\u0686\u06d5\u0645\u0644\u0649\u0643 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"يېكاتېرىنبۇرگ ئۆلچەملىك ۋاقتى"_s,
 		""_s,
-		u"\u064a\u06d0\u0643\u0627\u062a\u06d0\u0631\u0649\u0646\u0628\u06c7\u0631\u06af \u064a\u0627\u0632\u0644\u0649\u0642 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"يېكاتېرىنبۇرگ يازلىق ۋاقتى"_s,
 		""_s,
-		u"\u064a\u06d0\u0643\u0627\u062a\u06d0\u0631\u0649\u0646\u0628\u06c7\u0631\u06af \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"يېكاتېرىنبۇرگ ۋاقتى"_s,
 		""_s
 	}));
 	$var($StringArray, Africa_Central, $new($StringArray, {
-		u"\u0626\u0648\u062a\u062a\u06c7\u0631\u0627 \u0626\u0627\u0641\u0631\u0649\u0642\u0627 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"ئوتتۇرا ئافرىقا ۋاقتى"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -955,7 +955,7 @@ $ObjectArray2* TimeZoneNames_ug::getContents() {
 		""_s
 	}));
 	$var($StringArray, Africa_Eastern, $new($StringArray, {
-		u"\u0634\u06d5\u0631\u0642\u0649\u064a \u0626\u0627\u0641\u0631\u0649\u0642\u0627 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"شەرقىي ئافرىقا ۋاقتى"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -963,15 +963,15 @@ $ObjectArray2* TimeZoneNames_ug::getContents() {
 		""_s
 	}));
 	$var($StringArray, Africa_Western, $new($StringArray, {
-		u"\u063a\u06d5\u0631\u0628\u0649\u064a \u0626\u0627\u0641\u0631\u0649\u0642\u0627 \u0626\u06c6\u0644\u0686\u06d5\u0645\u0644\u0649\u0643 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"غەربىي ئافرىقا ئۆلچەملىك ۋاقتى"_s,
 		""_s,
-		u"\u063a\u06d5\u0631\u0628\u0649\u064a \u0626\u0627\u0641\u0631\u0649\u0642\u0627 \u064a\u0627\u0632\u0644\u0649\u0642 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"غەربىي ئافرىقا يازلىق ۋاقتى"_s,
 		""_s,
-		u"\u063a\u06d5\u0631\u0628\u0649\u064a \u0626\u0627\u0641\u0631\u0649\u0642\u0627 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"غەربىي ئافرىقا ۋاقتى"_s,
 		""_s
 	}));
 	$var($StringArray, DumontDUrville, $new($StringArray, {
-		u"\u062f\u06c7\u0645\u0648\u0646\u062a-\u062f\u06c7\u0631\u06cb\u0649\u0644 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"دۇمونت-دۇرۋىل ۋاقتى"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -979,39 +979,39 @@ $ObjectArray2* TimeZoneNames_ug::getContents() {
 		""_s
 	}));
 	$var($StringArray, Europe_Central, $new($StringArray, {
-		u"\u0626\u0648\u062a\u062a\u06c7\u0631\u0627 \u064a\u0627\u06cb\u0631\u0648\u067e\u0627 \u0626\u06c6\u0644\u0686\u06d5\u0645\u0644\u0649\u0643 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"ئوتتۇرا ياۋروپا ئۆلچەملىك ۋاقتى"_s,
 		""_s,
-		u"\u0626\u0648\u062a\u062a\u06c7\u0631\u0627 \u064a\u0627\u06cb\u0631\u0648\u067e\u0627 \u064a\u0627\u0632\u0644\u0649\u0642 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"ئوتتۇرا ياۋروپا يازلىق ۋاقتى"_s,
 		""_s,
-		u"\u0626\u0648\u062a\u062a\u06c7\u0631\u0627 \u064a\u0627\u06cb\u0631\u0648\u067e\u0627 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"ئوتتۇرا ياۋروپا ۋاقتى"_s,
 		""_s
 	}));
 	$var($StringArray, Europe_Eastern, $new($StringArray, {
-		u"\u0634\u06d5\u0631\u0642\u0649\u064a \u064a\u0627\u06cb\u0631\u0648\u067e\u0627 \u0626\u06c6\u0644\u0686\u06d5\u0645\u0644\u0649\u0643 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"شەرقىي ياۋروپا ئۆلچەملىك ۋاقتى"_s,
 		""_s,
-		u"\u0634\u06d5\u0631\u0642\u0649\u064a \u064a\u0627\u06cb\u0631\u0648\u067e\u0627 \u064a\u0627\u0632\u0644\u0649\u0642 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"شەرقىي ياۋروپا يازلىق ۋاقتى"_s,
 		""_s,
-		u"\u0634\u06d5\u0631\u0642\u0649\u064a \u064a\u0627\u06cb\u0631\u0648\u067e\u0627 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"شەرقىي ياۋروپا ۋاقتى"_s,
 		""_s
 	}));
 	$var($StringArray, Europe_Western, $new($StringArray, {
-		u"\u063a\u06d5\u0631\u0628\u0649\u064a \u064a\u0627\u06cb\u0631\u0648\u067e\u0627 \u0626\u06c6\u0644\u0686\u06d5\u0645\u0644\u0649\u0643 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"غەربىي ياۋروپا ئۆلچەملىك ۋاقتى"_s,
 		""_s,
-		u"\u063a\u06d5\u0631\u0628\u0649\u064a \u064a\u0627\u06cb\u0631\u0648\u067e\u0627 \u064a\u0627\u0632\u0644\u0649\u0642 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"غەربىي ياۋروپا يازلىق ۋاقتى"_s,
 		""_s,
-		u"\u063a\u06d5\u0631\u0628\u0649\u064a \u064a\u0627\u06cb\u0631\u0648\u067e\u0627 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"غەربىي ياۋروپا ۋاقتى"_s,
 		""_s
 	}));
 	$var($StringArray, Mexico_Pacific, $new($StringArray, {
-		u"\u0645\u06d0\u0643\u0633\u0649\u0643\u0627 \u062a\u0649\u0646\u0686 \u0626\u0648\u0643\u064a\u0627\u0646 \u0626\u06c6\u0644\u0686\u06d5\u0645\u0644\u0649\u0643 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"مېكسىكا تىنچ ئوكيان ئۆلچەملىك ۋاقتى"_s,
 		""_s,
-		u"\u0645\u06d0\u0643\u0633\u0649\u0643\u0627 \u062a\u0649\u0646\u0686 \u0626\u0648\u0643\u064a\u0627\u0646 \u064a\u0627\u0632\u0644\u0649\u0642 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"مېكسىكا تىنچ ئوكيان يازلىق ۋاقتى"_s,
 		""_s,
-		u"\u0645\u06d0\u0643\u0633\u0649\u0643\u0627 \u062a\u0649\u0646\u0686 \u0626\u0648\u0643\u064a\u0627\u0646 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"مېكسىكا تىنچ ئوكيان ۋاقتى"_s,
 		""_s
 	}));
 	$var($StringArray, Africa_Southern, $new($StringArray, {
-		u"\u062c\u06d5\u0646\u06c7\u0628\u0649\u064a \u0626\u0627\u0641\u0631\u0649\u0642\u0627 \u0626\u06c6\u0644\u0686\u06d5\u0645\u0644\u0649\u0643 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"جەنۇبىي ئافرىقا ئۆلچەملىك ۋاقتى"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -1019,31 +1019,31 @@ $ObjectArray2* TimeZoneNames_ug::getContents() {
 		""_s
 	}));
 	$var($StringArray, America_Central, $new($StringArray, {
-		u"\u0626\u0648\u062a\u062a\u06c7\u0631\u0627 \u0642\u0649\u0633\u0649\u0645 \u0626\u06c6\u0644\u0686\u06d5\u0645\u0644\u0649\u0643 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"ئوتتۇرا قىسىم ئۆلچەملىك ۋاقتى"_s,
 		""_s,
-		u"\u0626\u0648\u062a\u062a\u06c7\u0631\u0627 \u0642\u0649\u0633\u0649\u0645 \u064a\u0627\u0632\u0644\u0649\u0642 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"ئوتتۇرا قىسىم يازلىق ۋاقتى"_s,
 		""_s,
-		u"\u0626\u0648\u062a\u062a\u06c7\u0631\u0627 \u0642\u0649\u0633\u0649\u0645 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"ئوتتۇرا قىسىم ۋاقتى"_s,
 		""_s
 	}));
 	$var($StringArray, America_Eastern, $new($StringArray, {
-		u"\u0634\u06d5\u0631\u0642\u0649\u064a \u0642\u0649\u0633\u0649\u0645 \u0626\u06c6\u0644\u0686\u06d5\u0645\u0644\u0649\u0643 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"شەرقىي قىسىم ئۆلچەملىك ۋاقتى"_s,
 		""_s,
-		u"\u0634\u06d5\u0631\u0642\u0649\u064a \u0642\u0649\u0633\u0649\u0645 \u064a\u0627\u0632\u0644\u0649\u0642 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"شەرقىي قىسىم يازلىق ۋاقتى"_s,
 		""_s,
-		u"\u0634\u06d5\u0631\u0642\u0649\u064a \u0642\u0649\u0633\u0649\u0645 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"شەرقىي قىسىم ۋاقتى"_s,
 		""_s
 	}));
 	$var($StringArray, America_Pacific, $new($StringArray, {
-		u"\u062a\u0649\u0646\u0686 \u0626\u0648\u0643\u064a\u0627\u0646 \u0626\u06c6\u0644\u0686\u06d5\u0645\u0644\u0649\u0643 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"تىنچ ئوكيان ئۆلچەملىك ۋاقتى"_s,
 		""_s,
-		u"\u062a\u0649\u0646\u0686 \u0626\u0648\u0643\u064a\u0627\u0646 \u064a\u0627\u0632\u0644\u0649\u0642 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"تىنچ ئوكيان يازلىق ۋاقتى"_s,
 		""_s,
-		u"\u062a\u0649\u0646\u0686 \u0626\u0648\u0643\u064a\u0627\u0646 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"تىنچ ئوكيان ۋاقتى"_s,
 		""_s
 	}));
 	$var($StringArray, French_Southern, $new($StringArray, {
-		u"\u0641\u0649\u0631\u0627\u0646\u0633\u0649\u064a\u06d5\u06af\u06d5 \u0642\u0627\u0631\u0627\u0634\u0644\u0649\u0642 \u062c\u06d5\u0646\u06c7\u0628\u0649\u064a \u06cb\u06d5 \u0626\u0627\u0646\u062a\u0627\u0631\u0643\u062a\u0649\u0643\u0627 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"فىرانسىيەگە قاراشلىق جەنۇبىي ۋە ئانتاركتىكا ۋاقتى"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -1051,7 +1051,7 @@ $ObjectArray2* TimeZoneNames_ug::getContents() {
 		""_s
 	}));
 	$var($StringArray, Gilbert_Islands, $new($StringArray, {
-		u"\u06af\u0649\u0644\u0628\u06d0\u0631\u062a \u0626\u0627\u0631\u0627\u0644\u0644\u0649\u0631\u0649 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"گىلبېرت ئاراللىرى ۋاقتى"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -1059,15 +1059,15 @@ $ObjectArray2* TimeZoneNames_ug::getContents() {
 		""_s
 	}));
 	$var($StringArray, Hawaii_Aleutian, $new($StringArray, {
-		u"\u06be\u0627\u06cb\u0627\u064a-\u0626\u0627\u0644\u06d0\u064a\u06c7\u062a \u0626\u06c6\u0644\u0686\u06d5\u0645\u0644\u0649\u0643 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"ھاۋاي-ئالېيۇت ئۆلچەملىك ۋاقتى"_s,
 		""_s,
-		u"\u06be\u0627\u06cb\u0627\u064a-\u0626\u0627\u0644\u06d0\u064a\u06c7\u062a \u064a\u0627\u0632\u0644\u0649\u0642 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"ھاۋاي-ئالېيۇت يازلىق ۋاقتى"_s,
 		""_s,
-		u"\u06be\u0627\u06cb\u0627\u064a-\u0626\u0627\u0644\u06d0\u064a\u06c7\u062a \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"ھاۋاي-ئالېيۇت ۋاقتى"_s,
 		""_s
 	}));
 	$var($StringArray, Phoenix_Islands, $new($StringArray, {
-		u"\u0641\u06d0\u0646\u0649\u0643\u0633 \u0626\u0627\u0631\u0627\u0644\u0644\u0649\u0631\u0649 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"فېنىكس ئاراللىرى ۋاقتى"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -1075,23 +1075,23 @@ $ObjectArray2* TimeZoneNames_ug::getContents() {
 		""_s
 	}));
 	$var($StringArray, Pierre_Miquelon, $new($StringArray, {
-		u"\u0633\u0627\u064a\u0646\u0649\u062a \u067e\u0649\u0626\u06d0\u0631 \u06cb\u06d5 \u0645\u0649\u0643\u06d0\u0644\u0648\u0646 \u0626\u06c6\u0644\u0686\u06d5\u0645\u0644\u0649\u0643 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"ساينىت پىئېر ۋە مىكېلون ئۆلچەملىك ۋاقتى"_s,
 		""_s,
-		u"\u0633\u0627\u064a\u0646\u0649\u062a \u067e\u0649\u0626\u06d0\u0631 \u06cb\u06d5 \u0645\u0649\u0643\u06d0\u0644\u0648\u0646 \u064a\u0627\u0632\u0644\u0649\u0642 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"ساينىت پىئېر ۋە مىكېلون يازلىق ۋاقتى"_s,
 		""_s,
-		u"\u0633\u0627\u064a\u0646\u0649\u062a \u067e\u0649\u0626\u06d0\u0631 \u06cb\u06d5 \u0645\u0649\u0643\u06d0\u0644\u0648\u0646 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"ساينىت پىئېر ۋە مىكېلون ۋاقتى"_s,
 		""_s
 	}));
 	$var($StringArray, America_Mountain, $new($StringArray, {
-		u"\u062a\u0627\u063a \u0626\u06c6\u0644\u0686\u06d5\u0645\u0644\u0649\u0643 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"تاغ ئۆلچەملىك ۋاقتى"_s,
 		""_s,
-		u"\u062a\u0627\u063a \u064a\u0627\u0632\u0644\u0649\u0642 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"تاغ يازلىق ۋاقتى"_s,
 		""_s,
-		u"\u062a\u0627\u063a \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"تاغ ۋاقتى"_s,
 		""_s
 	}));
 	$var($StringArray, Marshall_Islands, $new($StringArray, {
-		u"\u0645\u0627\u0631\u0634\u0627\u0644 \u0626\u0627\u0631\u0627\u0644\u0644\u0649\u0631\u0649 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"مارشال ئاراللىرى ۋاقتى"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -1099,15 +1099,15 @@ $ObjectArray2* TimeZoneNames_ug::getContents() {
 		""_s
 	}));
 	$var($StringArray, Mexico_Northwest, $new($StringArray, {
-		u"\u0645\u06d0\u0643\u0633\u0649\u0643\u0627 \u063a\u06d5\u0631\u0628\u0649\u064a \u0634\u0649\u0645\u0627\u0644\u0649\u064a \u0642\u0649\u0633\u0649\u0645 \u0626\u06c6\u0644\u0686\u06d5\u0645\u0644\u0649\u0643 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"مېكسىكا غەربىي شىمالىي قىسىم ئۆلچەملىك ۋاقتى"_s,
 		""_s,
-		u"\u0645\u06d0\u0643\u0633\u0649\u0643\u0627 \u063a\u06d5\u0631\u0628\u0649\u064a \u0634\u0649\u0645\u0627\u0644\u0649\u064a \u0642\u0649\u0633\u0649\u0645 \u064a\u0627\u0632\u0644\u0649\u0642 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"مېكسىكا غەربىي شىمالىي قىسىم يازلىق ۋاقتى"_s,
 		""_s,
-		u"\u0645\u06d0\u0643\u0633\u0649\u0643\u0627 \u063a\u06d5\u0631\u0628\u0649\u064a \u0634\u0649\u0645\u0627\u0644\u0649\u064a \u0642\u0649\u0633\u0649\u0645 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"مېكسىكا غەربىي شىمالىي قىسىم ۋاقتى"_s,
 		""_s
 	}));
 	$var($StringArray, Papua_New_Guinea, $new($StringArray, {
-		u"\u067e\u0627\u067e\u06c7\u0626\u0627 \u064a\u06d0\u06ad\u0649 \u06af\u0649\u06cb\u0649\u0646\u06d0\u064a\u06d5\u0633\u0649 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"پاپۇئا يېڭى گىۋىنېيەسى ۋاقتى"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -1115,47 +1115,47 @@ $ObjectArray2* TimeZoneNames_ug::getContents() {
 		""_s
 	}));
 	$var($StringArray, Australia_Central, $new($StringArray, {
-		u"\u0626\u0627\u06cb\u0633\u062a\u0631\u0627\u0644\u0649\u064a\u06d5 \u0626\u0648\u062a\u062a\u06c7\u0631\u0627 \u0642\u0649\u0633\u0649\u0645 \u0626\u06c6\u0644\u0686\u06d5\u0645\u0644\u0649\u0643 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"ئاۋسترالىيە ئوتتۇرا قىسىم ئۆلچەملىك ۋاقتى"_s,
 		""_s,
-		u"\u0626\u0627\u06cb\u0633\u062a\u0631\u0627\u0644\u0649\u064a\u06d5 \u0626\u0648\u062a\u062a\u06c7\u0631\u0627 \u0642\u0649\u0633\u0649\u0645 \u064a\u0627\u0632\u0644\u0649\u0642 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"ئاۋسترالىيە ئوتتۇرا قىسىم يازلىق ۋاقتى"_s,
 		""_s,
-		u"\u0626\u0627\u06cb\u0633\u062a\u0631\u0627\u0644\u0649\u064a\u06d5 \u0626\u0648\u062a\u062a\u06c7\u0631\u0627 \u0642\u0649\u0633\u0649\u0645 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"ئاۋسترالىيە ئوتتۇرا قىسىم ۋاقتى"_s,
 		""_s
 	}));
 	$var($StringArray, Australia_Eastern, $new($StringArray, {
-		u"\u0626\u0627\u06cb\u0633\u062a\u0631\u0627\u0644\u0649\u064a\u06d5 \u0634\u06d5\u0631\u0642\u0649\u064a \u0642\u0649\u0633\u0649\u0645 \u0626\u06c6\u0644\u0686\u06d5\u0645\u0644\u0649\u0643 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"ئاۋسترالىيە شەرقىي قىسىم ئۆلچەملىك ۋاقتى"_s,
 		""_s,
-		u"\u0626\u0627\u06cb\u0633\u062a\u0631\u0627\u0644\u0649\u064a\u06d5 \u0634\u06d5\u0631\u0642\u0649\u064a \u0642\u0649\u0633\u0649\u0645 \u064a\u0627\u0632\u0644\u0649\u0642 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"ئاۋسترالىيە شەرقىي قىسىم يازلىق ۋاقتى"_s,
 		""_s,
-		u"\u0626\u0627\u06cb\u0633\u062a\u0631\u0627\u0644\u0649\u064a\u06d5 \u0634\u06d5\u0631\u0642\u0649\u064a \u0642\u0649\u0633\u0649\u0645 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"ئاۋسترالىيە شەرقىي قىسىم ۋاقتى"_s,
 		""_s
 	}));
 	$var($StringArray, Australia_Western, $new($StringArray, {
-		u"\u0626\u0627\u06cb\u0633\u062a\u0631\u0627\u0644\u0649\u064a\u06d5 \u063a\u06d5\u0631\u0628\u0649\u064a \u0642\u0649\u0633\u0649\u0645 \u0626\u06c6\u0644\u0686\u06d5\u0645\u0644\u0649\u0643 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"ئاۋسترالىيە غەربىي قىسىم ئۆلچەملىك ۋاقتى"_s,
 		""_s,
-		u"\u0626\u0627\u06cb\u0633\u062a\u0631\u0627\u0644\u0649\u064a\u06d5 \u063a\u06d5\u0631\u0628\u0649\u064a \u0642\u0649\u0633\u0649\u0645 \u064a\u0627\u0632\u0644\u0649\u0642 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"ئاۋسترالىيە غەربىي قىسىم يازلىق ۋاقتى"_s,
 		""_s,
-		u"\u0626\u0627\u06cb\u0633\u062a\u0631\u0627\u0644\u0649\u064a\u06d5 \u063a\u06d5\u0631\u0628\u0649\u064a \u0642\u0649\u0633\u0649\u0645 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"ئاۋسترالىيە غەربىي قىسىم ۋاقتى"_s,
 		""_s
 	}));
 	$var($StringArray, Greenland_Eastern, $new($StringArray, {
-		u"\u0634\u06d5\u0631\u0642\u0649\u064a \u06af\u0649\u0631\u06d0\u0646\u0644\u0627\u0646\u062f \u0626\u06c6\u0644\u0686\u06d5\u0645\u0644\u0649\u0643 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"شەرقىي گىرېنلاند ئۆلچەملىك ۋاقتى"_s,
 		""_s,
-		u"\u0634\u06d5\u0631\u0642\u0649\u064a \u06af\u0649\u0631\u06d0\u0646\u0644\u0627\u0646\u062f \u064a\u0627\u0632\u0644\u0649\u0642 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"شەرقىي گىرېنلاند يازلىق ۋاقتى"_s,
 		""_s,
-		u"\u0634\u06d5\u0631\u0642\u0649\u064a \u06af\u0649\u0631\u06d0\u0646\u0644\u0627\u0646\u062f \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"شەرقىي گىرېنلاند ۋاقتى"_s,
 		""_s
 	}));
 	$var($StringArray, Greenland_Western, $new($StringArray, {
-		u"\u063a\u06d5\u0631\u0628\u0649\u064a \u06af\u0649\u0631\u06d0\u0646\u0644\u0627\u0646\u062f \u0626\u06c6\u0644\u0686\u06d5\u0645\u0644\u0649\u0643 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"غەربىي گىرېنلاند ئۆلچەملىك ۋاقتى"_s,
 		""_s,
-		u"\u063a\u06d5\u0631\u0628\u0649\u064a \u06af\u0649\u0631\u06d0\u0646\u0644\u0627\u0646\u062f \u064a\u0627\u0632\u0644\u0649\u0642 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"غەربىي گىرېنلاند يازلىق ۋاقتى"_s,
 		""_s,
-		u"\u063a\u06d5\u0631\u0628\u0649\u064a \u06af\u0649\u0631\u06d0\u0646\u0644\u0627\u0646\u062f \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"غەربىي گىرېنلاند ۋاقتى"_s,
 		""_s
 	}));
 	$var($StringArray, Indonesia_Central, $new($StringArray, {
-		u"\u0626\u0648\u062a\u062a\u06c7\u0631\u0627 \u06be\u0649\u0646\u062f\u0648\u0646\u06d0\u0632\u0649\u064a\u06d5 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"ئوتتۇرا ھىندونېزىيە ۋاقتى"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -1163,7 +1163,7 @@ $ObjectArray2* TimeZoneNames_ug::getContents() {
 		""_s
 	}));
 	$var($StringArray, Indonesia_Eastern, $new($StringArray, {
-		u"\u0634\u06d5\u0631\u0642\u0649\u064a \u06be\u0649\u0646\u062f\u0648\u0646\u06d0\u0632\u0649\u064a\u06d5 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"شەرقىي ھىندونېزىيە ۋاقتى"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -1171,7 +1171,7 @@ $ObjectArray2* TimeZoneNames_ug::getContents() {
 		""_s
 	}));
 	$var($StringArray, Indonesia_Western, $new($StringArray, {
-		u"\u063a\u06d5\u0631\u0628\u0649\u064a \u06be\u0649\u0646\u062f\u0648\u0646\u06d0\u0632\u0649\u064a\u06d5 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"غەربىي ھىندونېزىيە ۋاقتى"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -1179,7 +1179,7 @@ $ObjectArray2* TimeZoneNames_ug::getContents() {
 		""_s
 	}));
 	$var($StringArray, Kazakhstan_Eastern, $new($StringArray, {
-		u"\u0634\u06d5\u0631\u0642\u0649\u064a \u0642\u0627\u0632\u0627\u0642\u0649\u0633\u062a\u0627\u0646 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"شەرقىي قازاقىستان ۋاقتى"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -1187,7 +1187,7 @@ $ObjectArray2* TimeZoneNames_ug::getContents() {
 		""_s
 	}));
 	$var($StringArray, Kazakhstan_Western, $new($StringArray, {
-		u"\u063a\u06d5\u0631\u0628\u0649\u064a \u0642\u0627\u0632\u0627\u0642\u0649\u0633\u062a\u0627\u0646 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"غەربىي قازاقىستان ۋاقتى"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -1195,11 +1195,11 @@ $ObjectArray2* TimeZoneNames_ug::getContents() {
 		""_s
 	}));
 	$var($StringArray, Australia_CentralWestern, $new($StringArray, {
-		u"\u0626\u0627\u06cb\u0633\u062a\u0649\u0631\u0627\u0644\u0649\u064a\u06d5 \u0626\u0648\u062a\u062a\u06c7\u0631\u0627 \u063a\u06d5\u0631\u0628\u0649\u064a \u0642\u0649\u0633\u0649\u0645 \u0626\u06c6\u0644\u0686\u06d5\u0645\u0644\u0649\u0643 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"ئاۋستىرالىيە ئوتتۇرا غەربىي قىسىم ئۆلچەملىك ۋاقتى"_s,
 		""_s,
-		u"\u0626\u0627\u06cb\u0633\u062a\u0631\u0627\u0644\u0649\u064a\u06d5 \u0626\u0648\u062a\u062a\u06c7\u0631\u0627 \u063a\u06d5\u0631\u0628\u0649\u064a \u0642\u0649\u0633\u0649\u0645 \u064a\u0627\u0632\u0644\u0649\u0642 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"ئاۋسترالىيە ئوتتۇرا غەربىي قىسىم يازلىق ۋاقتى"_s,
 		""_s,
-		u"\u0626\u0627\u06cb\u0633\u062a\u0631\u0627\u0644\u0649\u064a\u06d5 \u0626\u0648\u062a\u062a\u06c7\u0631\u0627 \u063a\u06d5\u0631\u0628\u0649\u064a \u0642\u0649\u0633\u0649\u0645 \u06cb\u0627\u0642\u062a\u0649"_s,
+		u"ئاۋسترالىيە ئوتتۇرا غەربىي قىسىم ۋاقتى"_s,
 		""_s
 	}));
 	$var($ObjectArray2, data, $new($ObjectArray2, {
@@ -1834,9 +1834,9 @@ $ObjectArray2* TimeZoneNames_ug::getContents() {
 		$$new($ObjectArray, {
 			$of("Europe/Dublin"_s),
 			$of($$new($StringArray, {
-				u"\u06af\u0649\u0631\u0649\u0646\u06cb\u0649\u0686 \u06cb\u0627\u0642\u062a\u0649"_s,
+				u"گىرىنۋىچ ۋاقتى"_s,
 				""_s,
-				u"\u0626\u0649\u0631\u06d0\u0644\u0627\u0646\u062f \u064a\u0627\u0632\u0644\u0649\u0642 \u06cb\u0627\u0642\u062a\u0649"_s,
+				u"ئىرېلاند يازلىق ۋاقتى"_s,
 				""_s,
 				""_s,
 				""_s
@@ -1853,9 +1853,9 @@ $ObjectArray2* TimeZoneNames_ug::getContents() {
 		$$new($ObjectArray, {
 			$of("Europe/London"_s),
 			$of($$new($StringArray, {
-				u"\u06af\u0649\u0631\u0649\u0646\u06cb\u0649\u0686 \u06cb\u0627\u0642\u062a\u0649"_s,
+				u"گىرىنۋىچ ۋاقتى"_s,
 				""_s,
-				u"\u0626\u06d5\u0646\u06af\u0644\u0649\u064a\u06d5 \u064a\u0627\u0632\u0644\u0649\u0642 \u06cb\u0627\u0642\u062a\u0649"_s,
+				u"ئەنگلىيە يازلىق ۋاقتى"_s,
 				""_s,
 				""_s,
 				""_s
@@ -2072,9 +2072,9 @@ $ObjectArray2* TimeZoneNames_ug::getContents() {
 		$$new($ObjectArray, {
 			$of("Europe/Belfast"_s),
 			$of($$new($StringArray, {
-				u"\u06af\u0649\u0631\u0649\u0646\u06cb\u0649\u0686 \u06cb\u0627\u0642\u062a\u0649"_s,
+				u"گىرىنۋىچ ۋاقتى"_s,
 				""_s,
-				u"\u0626\u06d5\u0646\u06af\u0644\u0649\u064a\u06d5 \u064a\u0627\u0632\u0644\u0649\u0642 \u06cb\u0627\u0642\u062a\u0649"_s,
+				u"ئەنگلىيە يازلىق ۋاقتى"_s,
 				""_s,
 				""_s,
 				""_s
@@ -3058,11 +3058,11 @@ $ObjectArray2* TimeZoneNames_ug::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Saigon"_s),
-			$of(u"\u062e\u0648\u0686\u0649\u0645\u0649\u0646 \u0634\u06d5\u06be\u0649\u0631\u0649"_s)
+			$of(u"خوچىمىن شەھىرى"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Etc/Unknown"_s),
-			$of(u"\u064a\u0648\u0686\u06c7\u0646 \u0634\u06d5\u06be\u06d5\u0631"_s)
+			$of(u"يوچۇن شەھەر"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("America/Argentina/Rio_Gallegos"_s),
@@ -3074,27 +3074,27 @@ $ObjectArray2* TimeZoneNames_ug::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Indian/Reunion"_s),
-			$of(u"\u0631\u06d0\u0626\u0648\u0646\u0649\u064a\u0648\u0646"_s)
+			$of(u"رېئونىيون"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Africa/Sao_Tome"_s),
-			$of(u"\u0633\u0627\u0646-\u062a\u0648\u0645\u06d0"_s)
+			$of(u"سان-تومې"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Curacao"_s),
-			$of(u"\u0643\u06c7\u0631\u0627\u0633\u0648"_s)
+			$of(u"كۇراسو"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Asuncion"_s),
-			$of(u"\u0626\u0627\u0633\u06c7\u0646\u0633\u0649\u064a\u0648\u0646"_s)
+			$of(u"ئاسۇنسىيون"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/St_Barthelemy"_s),
-			$of(u"\u0633\u0627\u064a\u0646\u0649\u062a-\u0628\u0627\u0631\u062a\u06be\u06d0\u0644\u06d5\u0645\u0649\u064a"_s)
+			$of(u"ساينىت-بارتھېلەمىي"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Antarctica/DumontDUrville"_s),
-			$of(u"\u062f\u06c7\u0645\u0648\u0646\u062a \u062f\u06c7\u0631\u06cb\u0649\u0644\u0644\u06d0"_s)
+			$of(u"دۇمونت دۇرۋىللې"_s)
 		})
 	}));
 	return data;

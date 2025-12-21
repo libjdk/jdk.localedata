@@ -331,11 +331,11 @@ $ObjectArray2* TimeZoneNames_nl::getContents() {
 		""_s
 	}));
 	$var($StringArray, Israel, $new($StringArray, {
-		u"Isra\u00eblische standaardtijd"_s,
+		u"Israëlische standaardtijd"_s,
 		""_s,
-		u"Isra\u00eblische zomertijd"_s,
+		u"Israëlische zomertijd"_s,
 		""_s,
-		u"Isra\u00eblische tijd"_s,
+		u"Israëlische tijd"_s,
 		""_s
 	}));
 	$var($StringArray, Kosrae, $new($StringArray, {
@@ -451,7 +451,7 @@ $ObjectArray2* TimeZoneNames_nl::getContents() {
 		""_s
 	}));
 	$var($StringArray, ETC_UTC, $new($StringArray, {
-		u"geco\u00f6rdineerde wereldtijd"_s,
+		u"gecoördineerde wereldtijd"_s,
 		"UTC"_s,
 		""_s,
 		""_s,
@@ -523,7 +523,7 @@ $ObjectArray2* TimeZoneNames_nl::getContents() {
 		""_s
 	}));
 	$var($StringArray, Reunion, $new($StringArray, {
-		u"R\u00e9unionse tijd"_s,
+		u"Réunionse tijd"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -979,7 +979,7 @@ $ObjectArray2* TimeZoneNames_nl::getContents() {
 		""_s
 	}));
 	$var($StringArray, DumontDUrville, $new($StringArray, {
-		u"Dumont-d\u2019Urville-tijd"_s,
+		u"Dumont-d’Urville-tijd"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -3168,7 +3168,7 @@ $ObjectArray2* TimeZoneNames_nl::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Africa/Lome"_s),
-			$of(u"Lom\u00e9"_s)
+			$of(u"Lomé"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Almaty"_s),
@@ -3180,11 +3180,11 @@ $ObjectArray2* TimeZoneNames_nl::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Aqtobe"_s),
-			$of(u"Aqt\u00f6be"_s)
+			$of(u"Aqtöbe"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Atyrau"_s),
-			$of(u"At\u0131raw"_s)
+			$of(u"Atıraw"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Beirut"_s),
@@ -3252,7 +3252,7 @@ $ObjectArray2* TimeZoneNames_nl::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Indian/Mahe"_s),
-			$of(u"Mah\u00e9"_s)
+			$of(u"Mahé"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Africa/Accra"_s),
@@ -3260,7 +3260,7 @@ $ObjectArray2* TimeZoneNames_nl::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Africa/Cairo"_s),
-			$of(u"Ca\u00efro"_s)
+			$of(u"Caïro"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Africa/Ceuta"_s),
@@ -3468,7 +3468,7 @@ $ObjectArray2* TimeZoneNames_nl::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Belem"_s),
-			$of(u"Bel\u00e9m"_s)
+			$of(u"Belém"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Boise"_s),
@@ -3600,7 +3600,7 @@ $ObjectArray2* TimeZoneNames_nl::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Zurich"_s),
-			$of(u"Z\u00fcrich"_s)
+			$of(u"Zürich"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Indian/Chagos"_s),
@@ -3676,7 +3676,7 @@ $ObjectArray2* TimeZoneNames_nl::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Cuiaba"_s),
-			$of(u"Cuiab\u00e1"_s)
+			$of(u"Cuiabá"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Dawson"_s),
@@ -3708,7 +3708,7 @@ $ObjectArray2* TimeZoneNames_nl::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Maceio"_s),
-			$of(u"Macei\u00f3"_s)
+			$of(u"Maceió"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Manaus"_s),
@@ -3716,7 +3716,7 @@ $ObjectArray2* TimeZoneNames_nl::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Merida"_s),
-			$of(u"M\u00e9rida"_s)
+			$of(u"Mérida"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Nassau"_s),
@@ -3800,7 +3800,7 @@ $ObjectArray2* TimeZoneNames_nl::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Indian/Reunion"_s),
-			$of(u"R\u00e9union"_s)
+			$of(u"Réunion"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Pacific/Easter"_s),
@@ -3820,7 +3820,7 @@ $ObjectArray2* TimeZoneNames_nl::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Pacific/Noumea"_s),
-			$of(u"Noum\u00e9a"_s)
+			$of(u"Nouméa"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Pacific/Saipan"_s),
@@ -3876,7 +3876,7 @@ $ObjectArray2* TimeZoneNames_nl::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Africa/Sao_Tome"_s),
-			$of(u"Sao Tom\u00e9"_s)
+			$of(u"Sao Tomé"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Africa/Windhoek"_s),
@@ -3900,7 +3900,7 @@ $ObjectArray2* TimeZoneNames_nl::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Cordoba"_s),
-			$of(u"C\u00f3rdoba"_s)
+			$of(u"Córdoba"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Creston"_s),
@@ -3908,7 +3908,7 @@ $ObjectArray2* TimeZoneNames_nl::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Curacao"_s),
-			$of(u"Cura\u00e7ao"_s)
+			$of(u"Curaçao"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Detroit"_s),
@@ -3996,7 +3996,7 @@ $ObjectArray2* TimeZoneNames_nl::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Atlantic/Faeroe"_s),
-			$of(u"Faer\u00f6er"_s)
+			$of(u"Faeröer"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Australia/Eucla"_s),
@@ -4060,7 +4060,7 @@ $ObjectArray2* TimeZoneNames_nl::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Pacific/Gambier"_s),
-			$of(u"\u00celes Gambier"_s)
+			$of(u"Îles Gambier"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Pacific/Norfolk"_s),
@@ -4080,7 +4080,7 @@ $ObjectArray2* TimeZoneNames_nl::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Asuncion"_s),
-			$of(u"Asunci\u00f3n"_s)
+			$of(u"Asunción"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Barbados"_s),
@@ -4100,7 +4100,7 @@ $ObjectArray2* TimeZoneNames_nl::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Mazatlan"_s),
-			$of(u"Mazatl\u00e1n"_s)
+			$of(u"Mazatlán"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Miquelon"_s),
@@ -4124,7 +4124,7 @@ $ObjectArray2* TimeZoneNames_nl::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/St_Johns"_s),
-			$of(u"Saint John\u2019s"_s)
+			$of(u"Saint John’s"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/St_Kitts"_s),
@@ -4344,7 +4344,7 @@ $ObjectArray2* TimeZoneNames_nl::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Sao_Paulo"_s),
-			$of(u"S\u00e3o Paulo"_s)
+			$of(u"São Paulo"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/St_Thomas"_s),
@@ -4596,7 +4596,7 @@ $ObjectArray2* TimeZoneNames_nl::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Atlantic/Cape_Verde"_s),
-			$of(u"Kaapverdi\u00eb"_s)
+			$of(u"Kaapverdië"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Australia/Lord_Howe"_s),
@@ -4684,7 +4684,7 @@ $ObjectArray2* TimeZoneNames_nl::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/St_Barthelemy"_s),
-			$of(u"Saint-Barth\u00e9lemy"_s)
+			$of(u"Saint-Barthélemy"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Swift_Current"_s),
@@ -4696,7 +4696,7 @@ $ObjectArray2* TimeZoneNames_nl::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Bahia_Banderas"_s),
-			$of(u"Bah\u00eda de Banderas"_s)
+			$of(u"Bahía de Banderas"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Port-au-Prince"_s),
@@ -4712,7 +4712,7 @@ $ObjectArray2* TimeZoneNames_nl::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Argentina/Tucuman"_s),
-			$of(u"Tucum\u00e1n"_s)
+			$of(u"Tucumán"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Argentina/Ushuaia"_s),
@@ -4740,7 +4740,7 @@ $ObjectArray2* TimeZoneNames_nl::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Argentina/Rio_Gallegos"_s),
-			$of(u"R\u00edo Gallegos"_s)
+			$of(u"Río Gallegos"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/North_Dakota/New_Salem"_s),

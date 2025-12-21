@@ -42,7 +42,7 @@ $ObjectArray2* JavaTimeSupplementary_es_PA::getContents() {
 		"1er. trimestre"_s,
 		"2do. trimestre"_s,
 		"3er. trimestre"_s,
-		u"4.\u00ba trimestre"_s
+		u"4.º trimestre"_s
 	}));
 	$var($StringArray, sharedAmPmMarkers, $new($StringArray, {
 		"a.m."_s,

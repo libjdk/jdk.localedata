@@ -43,7 +43,7 @@ $ObjectArray2* FormatData_hr_HR::getContents() {
 			$of("NumberPatterns"_s),
 			$of($$new($StringArray, {
 				"#,##0.###;-#,##0.###"_s,
-				u"\u00a4 #,##0.##;-\u00a4 #,##0.##"_s,
+				u"¤ #,##0.##;-¤ #,##0.##"_s,
 				"#,##0%"_s
 			}))
 		}),

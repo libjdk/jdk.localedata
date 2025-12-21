@@ -39,7 +39,7 @@ void CurrencyNames_ja_JP::init$() {
 $ObjectArray2* CurrencyNames_ja_JP::getContents() {
 	return $new($ObjectArray2, {$$new($ObjectArray, {
 		$of("JPY"_s),
-		$of(u"\uffe5"_s)
+		$of(u"￥"_s)
 	})});
 }
 

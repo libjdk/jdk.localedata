@@ -39,7 +39,7 @@ void CurrencyNames_sr_CS::init$() {
 $ObjectArray2* CurrencyNames_sr_CS::getContents() {
 	return $new($ObjectArray2, {$$new($ObjectArray, {
 		$of("EUR"_s),
-		$of(u"\u20ac"_s)
+		$of(u"€"_s)
 	})});
 }
 

@@ -39,7 +39,7 @@ void CurrencyNames_ko_KR::init$() {
 $ObjectArray2* CurrencyNames_ko_KR::getContents() {
 	return $new($ObjectArray2, {$$new($ObjectArray, {
 		$of("KRW"_s),
-		$of(u"\uffe6"_s)
+		$of(u"￦"_s)
 	})});
 }
 

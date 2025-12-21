@@ -46,7 +46,7 @@ $ObjectArray2* CurrencyNames_kab::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("aed"_s),
-			$of(u"Adirham n Tgeldunin Ta\u025brabin Yedduklen"_s)
+			$of(u"Adirham n Tgeldunin Taɛrabin Yedduklen"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("aoa"_s),
@@ -54,11 +54,11 @@ $ObjectArray2* CurrencyNames_kab::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("aud"_s),
-			$of(u"Adular n Lus\u1e6drali"_s)
+			$of(u"Adular n Lusṭrali"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bhd"_s),
-			$of(u"Adinar Aba\u1e25rini"_s)
+			$of(u"Adinar Abaḥrini"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bif"_s),
@@ -66,7 +66,7 @@ $ObjectArray2* CurrencyNames_kab::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("bwp"_s),
-			$of(u"Apula Abus\u1e6dwanan"_s)
+			$of(u"Apula Abusṭwanan"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cad"_s),
@@ -98,7 +98,7 @@ $ObjectArray2* CurrencyNames_kab::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("egp"_s),
-			$of(u"Apund Ama\u1e63ri"_s)
+			$of(u"Apund Amaṣri"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ern"_s),
@@ -118,7 +118,7 @@ $ObjectArray2* CurrencyNames_kab::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ghc"_s),
-			$of(u"Asidi A\u0263ani"_s)
+			$of(u"Asidi Aɣani"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gmd"_s),
@@ -126,7 +126,7 @@ $ObjectArray2* CurrencyNames_kab::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("gns"_s),
-			$of(u"Afrank A\u0263ini"_s)
+			$of(u"Afrank Aɣini"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("inr"_s),
@@ -150,7 +150,7 @@ $ObjectArray2* CurrencyNames_kab::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("lsl"_s),
-			$of(u"Alu\u1e6di Alizu\u1e6di"_s)
+			$of(u"Aluṭi Alizuṭi"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lyd"_s),
@@ -166,11 +166,11 @@ $ObjectArray2* CurrencyNames_kab::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("mro"_s),
-			$of(u"Agiya Amuri\u1e6dani (1973\u20132017)"_s)
+			$of(u"Agiya Amuriṭani (1973–2017)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mru"_s),
-			$of(u"Agiya Amuri\u1e6dani"_s)
+			$of(u"Agiya Amuriṭani"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mur"_s),
@@ -198,7 +198,7 @@ $ObjectArray2* CurrencyNames_kab::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("sar"_s),
-			$of(u"Aryal Asu\u025budi"_s)
+			$of(u"Aryal Asuɛudi"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("scr"_s),
@@ -218,15 +218,15 @@ $ObjectArray2* CurrencyNames_kab::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("sos"_s),
-			$of(u"Aciling A\u1e63umali"_s)
+			$of(u"Aciling Aṣumali"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("std"_s),
-			$of(u"Asw \u1e6cum d Udubra Amenzay (1977\u20132017)"_s)
+			$of(u"Asw Ṭum d Udubra Amenzay (1977–2017)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("stn"_s),
-			$of(u"Asw \u1e6cum d Udubra Amenzay"_s)
+			$of(u"Asw Ṭum d Udubra Amenzay"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("szl"_s),
@@ -238,7 +238,7 @@ $ObjectArray2* CurrencyNames_kab::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("tzs"_s),
-			$of(u"Aciling A\u1e6dan\u1e93ani"_s)
+			$of(u"Aciling Aṭanẓani"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ugx"_s),
@@ -262,7 +262,7 @@ $ObjectArray2* CurrencyNames_kab::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("zmk"_s),
-			$of(u"Akwaca Azambi (1968\u20132012)"_s)
+			$of(u"Akwaca Azambi (1968–2012)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("zmw"_s),

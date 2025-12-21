@@ -39,7 +39,7 @@ void CurrencyNames_ru_RU::init$() {
 $ObjectArray2* CurrencyNames_ru_RU::getContents() {
 	return $new($ObjectArray2, {$$new($ObjectArray, {
 		$of("RUB"_s),
-		$of(u"\u0440\u0443\u0431."_s)
+		$of(u"руб."_s)
 	})});
 }
 

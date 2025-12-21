@@ -137,7 +137,7 @@ $ObjectArray2* LocaleNames_en_SG::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("oc"_s),
-			$of(u"Occitan (post 1500); Proven\u00e7al"_s)
+			$of(u"Occitan (post 1500); Provençal"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("os"_s),

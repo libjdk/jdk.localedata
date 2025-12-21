@@ -41,11 +41,11 @@ $ObjectArray2* CurrencyNames_de_AT::getContents() {
 	return $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("ATS"_s),
-			$of(u"\u00f6S"_s)
+			$of(u"öS"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("EUR"_s),
-			$of(u"\u20ac"_s)
+			$of(u"€"_s)
 		})
 	});
 }

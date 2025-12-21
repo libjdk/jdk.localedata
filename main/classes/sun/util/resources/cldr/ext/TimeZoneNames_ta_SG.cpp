@@ -42,15 +42,15 @@ void TimeZoneNames_ta_SG::init$() {
 $ObjectArray2* TimeZoneNames_ta_SG::getContents() {
 	$useLocalCurrentObjectStackCache();
 	$var($StringArray, India, $new($StringArray, {
-		u"\u0b87\u0ba8\u0bcd\u0ba4\u0bbf\u0baf \u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0bbe\u0ba9 \u0ba8\u0bc7\u0bb0\u0bae\u0bcd"_s,
-		u"\u2205\u2205\u2205"_s,
+		u"இந்திய நிலையான நேரம்"_s,
+		u"∅∅∅"_s,
 		""_s,
 		""_s,
 		""_s,
 		""_s
 	}));
 	$var($StringArray, Malaysia, $new($StringArray, {
-		u"\u0bae\u0bb2\u0bc7\u0bb7\u0bbf\u0baf \u0ba8\u0bc7\u0bb0\u0bae\u0bcd"_s,
+		u"மலேஷிய நேரம்"_s,
 		"MYT"_s,
 		""_s,
 		""_s,
@@ -58,7 +58,7 @@ $ObjectArray2* TimeZoneNames_ta_SG::getContents() {
 		""_s
 	}));
 	$var($StringArray, Singapore, $new($StringArray, {
-		u"\u0b9a\u0bbf\u0b99\u0bcd\u0b95\u0baa\u0bcd\u0baa\u0bc2\u0bb0\u0bcd \u0ba8\u0bbf\u0bb2\u0bc8\u0baf\u0bbe\u0ba9 \u0ba8\u0bc7\u0bb0\u0bae\u0bcd"_s,
+		u"சிங்கப்பூர் நிலையான நேரம்"_s,
 		"SGT"_s,
 		""_s,
 		""_s,

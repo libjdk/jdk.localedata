@@ -43,7 +43,7 @@ $ObjectArray2* FormatData_ga_IE::getContents() {
 			$of("NumberPatterns"_s),
 			$of($$new($StringArray, {
 				"#,##0.###"_s,
-				u"\u00a4#,##0.00"_s,
+				u"¤#,##0.00"_s,
 				"#,##0%"_s
 			}))
 		}),

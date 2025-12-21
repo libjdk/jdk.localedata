@@ -112,27 +112,27 @@ $ObjectArray2* JavaTimeSupplementary_ca::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.gregorian"_s),
-			$of(u"calendari gregori\u00e0"_s)
+			$of(u"calendari gregorià"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.gregory"_s),
-			$of(u"calendari gregori\u00e0"_s)
+			$of(u"calendari gregorià"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.islamic"_s),
-			$of(u"calendari musulm\u00e0"_s)
+			$of(u"calendari musulmà"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.islamic-civil"_s),
-			$of(u"calendari civil isl\u00e0mic"_s)
+			$of(u"calendari civil islàmic"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.japanese"_s),
-			$of(u"calendari japon\u00e8s"_s)
+			$of(u"calendari japonès"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.roc"_s),
-			$of(u"calendari de la Rep\u00fablica de Xina"_s)
+			$of(u"calendari de la República de Xina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("field.dayperiod"_s),
@@ -248,7 +248,7 @@ $ObjectArray2* JavaTimeSupplementary_ca::getContents() {
 			$of("java.time.long.Eras"_s),
 			$of($$new($StringArray, {
 				"abans de Crist"_s,
-				u"despr\u00e9s de Crist"_s
+				u"després de Crist"_s
 			}))
 		}),
 		$$new($ObjectArray, {
@@ -297,7 +297,7 @@ $ObjectArray2* JavaTimeSupplementary_ca::getContents() {
 			$of($$new($StringArray, {
 				"gen."_s,
 				"febr."_s,
-				u"mar\u00e7"_s,
+				u"març"_s,
 				"abr."_s,
 				"maig"_s,
 				"juny"_s,
@@ -315,14 +315,14 @@ $ObjectArray2* JavaTimeSupplementary_ca::getContents() {
 			$of($$new($StringArray, {
 				"de gener"_s,
 				"de febrer"_s,
-				u"de mar\u00e7"_s,
-				u"d\u2019abril"_s,
+				u"de març"_s,
+				u"d’abril"_s,
 				"de maig"_s,
 				"de juny"_s,
 				"de juliol"_s,
-				u"d\u2019agost"_s,
+				u"d’agost"_s,
 				"de setembre"_s,
-				u"d\u2019octubre"_s,
+				u"d’octubre"_s,
 				"de novembre"_s,
 				"de desembre"_s,
 				""_s
@@ -333,7 +333,7 @@ $ObjectArray2* JavaTimeSupplementary_ca::getContents() {
 			$of($$new($StringArray, {
 				"GN"_s,
 				"FB"_s,
-				u"M\u00c7"_s,
+				u"MÇ"_s,
 				"AB"_s,
 				"MG"_s,
 				"JN"_s,

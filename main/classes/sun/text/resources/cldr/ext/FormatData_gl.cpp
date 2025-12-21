@@ -45,7 +45,7 @@ $ObjectArray2* FormatData_gl::getContents() {
 		"marzo"_s,
 		"abril"_s,
 		"maio"_s,
-		u"xu\u00f1o"_s,
+		u"xuño"_s,
 		"xullo"_s,
 		"agosto"_s,
 		"setembro"_s,
@@ -60,7 +60,7 @@ $ObjectArray2* FormatData_gl::getContents() {
 		"mar."_s,
 		"abr."_s,
 		"maio"_s,
-		u"xu\u00f1o"_s,
+		u"xuño"_s,
 		"xul."_s,
 		"ago."_s,
 		"set."_s,
@@ -88,19 +88,19 @@ $ObjectArray2* FormatData_gl::getContents() {
 		"domingo"_s,
 		"luns"_s,
 		"martes"_s,
-		u"m\u00e9rcores"_s,
+		u"mércores"_s,
 		"xoves"_s,
 		"venres"_s,
-		u"s\u00e1bado"_s
+		u"sábado"_s
 	}));
 	$var($StringArray, metaValue_DayAbbreviations, $new($StringArray, {
 		"dom."_s,
 		"luns"_s,
 		"mar."_s,
-		u"m\u00e9r."_s,
+		u"mér."_s,
 		"xov."_s,
 		"ven."_s,
-		u"s\u00e1b."_s
+		u"sáb."_s
 	}));
 	$var($StringArray, metaValue_DayNarrows, $new($StringArray, {
 		"d."_s,
@@ -112,10 +112,10 @@ $ObjectArray2* FormatData_gl::getContents() {
 		"s."_s
 	}));
 	$var($StringArray, metaValue_QuarterNames, $new($StringArray, {
-		u"1.\u00ba trimestre"_s,
-		u"2.\u00ba trimestre"_s,
-		u"3.\u00ba trimestre"_s,
-		u"4.\u00ba trimestre"_s
+		u"1.º trimestre"_s,
+		u"2.º trimestre"_s,
+		u"3.º trimestre"_s,
+		u"4.º trimestre"_s
 	}));
 	$var($StringArray, metaValue_QuarterAbbreviations, $new($StringArray, {
 		"T1"_s,
@@ -129,8 +129,8 @@ $ObjectArray2* FormatData_gl::getContents() {
 		"da noite"_s,
 		""_s,
 		"da madrugada"_s,
-		u"da ma\u00f1\u00e1"_s,
-		u"do mediod\u00eda"_s,
+		u"da mañá"_s,
+		u"do mediodía"_s,
 		""_s,
 		"da tarde"_s,
 		""_s,
@@ -201,7 +201,7 @@ $ObjectArray2* FormatData_gl::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.islamic-civil"_s),
-			$of(u"Calendario isl\u00e1mico (civil, tabular)"_s)
+			$of(u"Calendario islámico (civil, tabular)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("islamic.narrow.AmPmMarkers"_s),
@@ -221,7 +221,7 @@ $ObjectArray2* FormatData_gl::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.regionFormat.standard"_s),
-			$of(u"Horario est\u00e1ndar de: {0}"_s)
+			$of(u"Horario estándar de: {0}"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("japanese.abbreviated.AmPmMarkers"_s),
@@ -229,7 +229,7 @@ $ObjectArray2* FormatData_gl::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.japanese"_s),
-			$of(u"calendario xapon\u00e9s"_s)
+			$of(u"calendario xaponés"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("japanese.MonthNames"_s),
@@ -241,10 +241,10 @@ $ObjectArray2* FormatData_gl::getContents() {
 				"Dom."_s,
 				"Luns"_s,
 				"Mar."_s,
-				u"M\u00e9r."_s,
+				u"Mér."_s,
 				"Xov."_s,
 				"Ven."_s,
-				u"S\u00e1b."_s
+				u"Sáb."_s
 			}))
 		}),
 		$$new($ObjectArray, {
@@ -298,8 +298,8 @@ $ObjectArray2* FormatData_gl::getContents() {
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
+				u"‰"_s,
+				u"∞"_s,
 				"NaN"_s,
 				""_s,
 				""_s
@@ -389,7 +389,7 @@ $ObjectArray2* FormatData_gl::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.islamic"_s),
-			$of(u"calendario isl\u00e1mico"_s)
+			$of(u"calendario islámico"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("DayPeriodRules"_s),
@@ -411,7 +411,7 @@ $ObjectArray2* FormatData_gl::getContents() {
 				"Mar."_s,
 				"Abr."_s,
 				"Maio"_s,
-				u"Xu\u00f1o"_s,
+				u"Xuño"_s,
 				"Xul."_s,
 				"Ago."_s,
 				"Set."_s,
@@ -434,15 +434,15 @@ $ObjectArray2* FormatData_gl::getContents() {
 				"{one:0 other:0}"_s,
 				"{one:0 other:0}"_s,
 				"{one:0 other:0}"_s,
-				u"{one:0\' \'mill\u00f3n other:0\' \'mill\u00f3ns}"_s,
-				u"{one:00\' \'mill\u00f3ns other:00\' \'mill\u00f3ns}"_s,
-				u"{one:000\' \'mill\u00f3ns other:000\' \'mill\u00f3ns}"_s,
-				u"{one:0000\' \'mill\u00f3ns other:0000\' \'mill\u00f3ns}"_s,
-				u"{one:00000\' \'mill\u00f3ns other:00000\' \'mill\u00f3ns}"_s,
-				u"{one:000000\' \'mill\u00f3ns other:000000\' \'mill\u00f3ns}"_s,
-				u"{one:0\' \'bill\u00f3n other:0\' \'bill\u00f3ns}"_s,
-				u"{one:00\' \'bill\u00f3ns other:00\' \'bill\u00f3ns}"_s,
-				u"{one:000\' \'bill\u00f3ns other:000\' \'bill\u00f3ns}"_s
+				u"{one:0\' \'millón other:0\' \'millóns}"_s,
+				u"{one:00\' \'millóns other:00\' \'millóns}"_s,
+				u"{one:000\' \'millóns other:000\' \'millóns}"_s,
+				u"{one:0000\' \'millóns other:0000\' \'millóns}"_s,
+				u"{one:00000\' \'millóns other:00000\' \'millóns}"_s,
+				u"{one:000000\' \'millóns other:000000\' \'millóns}"_s,
+				u"{one:0\' \'billón other:0\' \'billóns}"_s,
+				u"{one:00\' \'billóns other:00\' \'billóns}"_s,
+				u"{one:000\' \'billóns other:000\' \'billóns}"_s
 			}))
 		}),
 		$$new($ObjectArray, {
@@ -531,7 +531,7 @@ $ObjectArray2* FormatData_gl::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.weekday"_s),
-			$of(u"d\u00eda da semana"_s)
+			$of(u"día da semana"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("japanese.MonthAbbreviations"_s),
@@ -610,15 +610,15 @@ $ObjectArray2* FormatData_gl::getContents() {
 				"{one:0 other:0}"_s,
 				"{one:0 other:0}"_s,
 				"{one:0 other:0}"_s,
-				u"{one:0\u00a0M other:0\u00a0M}"_s,
-				u"{one:00\u00a0M other:00\u00a0M}"_s,
-				u"{one:000\u00a0M other:000\u00a0M}"_s,
-				u"{one:0000\u00a0M other:0000\u00a0M}"_s,
-				u"{one:00000\u00a0M other:00000\u00a0M}"_s,
-				u"{one:000000\u00a0M other:000000\u00a0M}"_s,
-				u"{one:0\u00a0B other:0\u00a0B}"_s,
-				u"{one:00\u00a0B other:00\u00a0B}"_s,
-				u"{one:000\u00a0B other:000\u00a0B}"_s
+				u"{one:0 M other:0 M}"_s,
+				u"{one:00 M other:00 M}"_s,
+				u"{one:000 M other:000 M}"_s,
+				u"{one:0000 M other:0000 M}"_s,
+				u"{one:00000 M other:00000 M}"_s,
+				u"{one:000000 M other:000000 M}"_s,
+				u"{one:0 B other:0 B}"_s,
+				u"{one:00 B other:00 B}"_s,
+				u"{one:000 B other:000 B}"_s
 			}))
 		}),
 		$$new($ObjectArray, {
@@ -627,7 +627,7 @@ $ObjectArray2* FormatData_gl::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.regionFormat.daylight"_s),
-			$of(u"Horario de ver\u00e1n de: {0}"_s)
+			$of(u"Horario de verán de: {0}"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("DatePatterns"_s),
@@ -656,10 +656,10 @@ $ObjectArray2* FormatData_gl::getContents() {
 				"Domingo"_s,
 				"Luns"_s,
 				"Martes"_s,
-				u"M\u00e9rcores"_s,
+				u"Mércores"_s,
 				"Xoves"_s,
 				"Venres"_s,
-				u"S\u00e1bado"_s
+				u"Sábado"_s
 			}))
 		}),
 		$$new($ObjectArray, {
@@ -682,7 +682,7 @@ $ObjectArray2* FormatData_gl::getContents() {
 				"Marzo"_s,
 				"Abril"_s,
 				"Maio"_s,
-				u"Xu\u00f1o"_s,
+				u"Xuño"_s,
 				"Xullo"_s,
 				"Agosto"_s,
 				"Setembro"_s,
@@ -696,9 +696,9 @@ $ObjectArray2* FormatData_gl::getContents() {
 			$of("latn.NumberPatterns"_s),
 			$of($$new($StringArray, {
 				"#,##0.###"_s,
-				u"#,##0.00\u00a0\u00a4"_s,
-				u"#,##0\u00a0%"_s,
-				u"#,##0.00\u00a0\u00a4"_s
+				u"#,##0.00 ¤"_s,
+				u"#,##0 %"_s,
+				u"#,##0.00 ¤"_s
 			}))
 		}),
 		$$new($ObjectArray, {

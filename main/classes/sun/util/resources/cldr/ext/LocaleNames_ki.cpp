@@ -942,7 +942,7 @@ $ObjectArray2* LocaleNames_ki::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ar"_s),
-			$of(u"K\u0129arabu"_s)
+			$of(u"Kĩarabu"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("be"_s),
@@ -962,7 +962,7 @@ $ObjectArray2* LocaleNames_ki::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("de"_s),
-			$of(u"K\u0129njeremani"_s)
+			$of(u"Kĩnjeremani"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("el"_s),
@@ -970,7 +970,7 @@ $ObjectArray2* LocaleNames_ki::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("en"_s),
-			$of(u"G\u0129thung\u0169"_s)
+			$of(u"Gĩthungũ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("es"_s),
@@ -982,7 +982,7 @@ $ObjectArray2* LocaleNames_ki::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("fr"_s),
-			$of(u"K\u0129baranja"_s)
+			$of(u"Kĩbaranja"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ha"_s),
@@ -990,7 +990,7 @@ $ObjectArray2* LocaleNames_ki::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("hi"_s),
-			$of(u"K\u0129h\u0129nd\u0129"_s)
+			$of(u"Kĩhĩndĩ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("hu"_s),
@@ -1006,11 +1006,11 @@ $ObjectArray2* LocaleNames_ki::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("it"_s),
-			$of(u"K\u0129taliano"_s)
+			$of(u"Kĩtaliano"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ja"_s),
-			$of(u"K\u0129njabani"_s)
+			$of(u"Kĩnjabani"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("jv"_s),
@@ -1062,7 +1062,7 @@ $ObjectArray2* LocaleNames_ki::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ru"_s),
-			$of(u"K\u0129racia"_s)
+			$of(u"Kĩracia"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("rw"_s),
@@ -1070,7 +1070,7 @@ $ObjectArray2* LocaleNames_ki::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("so"_s),
-			$of(u"K\u0129cumar\u0129"_s)
+			$of(u"Kĩcumarĩ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sv"_s),
@@ -1106,7 +1106,7 @@ $ObjectArray2* LocaleNames_ki::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("zh"_s),
-			$of(u"K\u0129caina"_s)
+			$of(u"Kĩcaina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("zu"_s),

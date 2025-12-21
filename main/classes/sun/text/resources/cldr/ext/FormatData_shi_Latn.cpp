@@ -41,13 +41,13 @@ $ObjectArray2* FormatData_shi_Latn::getContents() {
 	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_MonthNames, $new($StringArray, {
 		"innayr"_s,
-		u"b\u1e5bay\u1e5b"_s,
-		u"ma\u1e5b\u1e63"_s,
+		u"bṛayṛ"_s,
+		u"maṛṣ"_s,
 		"ibrir"_s,
 		"mayyu"_s,
 		"yunyu"_s,
 		"yulyuz"_s,
-		u"\u0263uct"_s,
+		u"ɣuct"_s,
 		"cutanbir"_s,
 		"ktubr"_s,
 		"nuwanbir"_s,
@@ -56,13 +56,13 @@ $ObjectArray2* FormatData_shi_Latn::getContents() {
 	}));
 	$var($StringArray, metaValue_MonthAbbreviations, $new($StringArray, {
 		"inn"_s,
-		u"b\u1e5ba"_s,
-		u"ma\u1e5b"_s,
+		u"bṛa"_s,
+		u"maṛ"_s,
 		"ibr"_s,
 		"may"_s,
 		"yun"_s,
 		"yul"_s,
-		u"\u0263uc"_s,
+		u"ɣuc"_s,
 		"cut"_s,
 		"ktu"_s,
 		"nuw"_s,
@@ -77,7 +77,7 @@ $ObjectArray2* FormatData_shi_Latn::getContents() {
 		"m"_s,
 		"y"_s,
 		"y"_s,
-		u"\u0263"_s,
+		u"ɣ"_s,
 		"c"_s,
 		"k"_s,
 		"n"_s,
@@ -88,25 +88,25 @@ $ObjectArray2* FormatData_shi_Latn::getContents() {
 		"asamas"_s,
 		"aynas"_s,
 		"asinas"_s,
-		u"ak\u1e5bas"_s,
+		u"akṛas"_s,
 		"akwas"_s,
 		"asimwas"_s,
-		u"asi\u1e0dyas"_s
+		u"asiḍyas"_s
 	}));
 	$var($StringArray, metaValue_DayAbbreviations, $new($StringArray, {
 		"asa"_s,
 		"ayn"_s,
 		"asi"_s,
-		u"ak\u1e5b"_s,
+		u"akṛ"_s,
 		"akw"_s,
 		"asim"_s,
-		u"asi\u1e0d"_s
+		u"asiḍ"_s
 	}));
 	$var($StringArray, metaValue_QuarterNames, $new($StringArray, {
-		u"ak\u1e5ba\u1e0dyur 1"_s,
-		u"ak\u1e5ba\u1e0dyur 2"_s,
-		u"ak\u1e5ba\u1e0dyur 3"_s,
-		u"ak\u1e5ba\u1e0dyur 4"_s
+		u"akṛaḍyur 1"_s,
+		u"akṛaḍyur 2"_s,
+		u"akṛaḍyur 3"_s,
+		u"akṛaḍyur 4"_s
 	}));
 	$var($StringArray, metaValue_QuarterAbbreviations, $new($StringArray, {
 		"ak 1"_s,
@@ -116,7 +116,7 @@ $ObjectArray2* FormatData_shi_Latn::getContents() {
 	}));
 	$var($StringArray, metaValue_AmPmMarkers, $new($StringArray, {
 		"tifawt"_s,
-		u"tadgg\u02b7at"_s,
+		u"tadggʷat"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -129,8 +129,8 @@ $ObjectArray2* FormatData_shi_Latn::getContents() {
 		""_s
 	}));
 	$var($StringArray, metaValue_Eras, $new($StringArray, {
-		u"da\u025b"_s,
-		u"df\u025b"_s
+		u"daɛ"_s,
+		u"dfɛ"_s
 	}));
 	$var($StringArray, metaValue_java_time_buddhist_DatePatterns, $new($StringArray, {
 		"EEEE d MMMM y G"_s,
@@ -151,7 +151,7 @@ $ObjectArray2* FormatData_shi_Latn::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.year"_s),
-			$of(u"asgg\u02b7as"_s)
+			$of(u"asggʷas"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("islamic.QuarterAbbreviations"_s),
@@ -187,7 +187,7 @@ $ObjectArray2* FormatData_shi_Latn::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.zone"_s),
-			$of(u"akud n ugmma\u1e0d"_s)
+			$of(u"akud n ugmmaḍ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("japanese.QuarterAbbreviations"_s),
@@ -244,8 +244,8 @@ $ObjectArray2* FormatData_shi_Latn::getContents() {
 		$$new($ObjectArray, {
 			$of("long.Eras"_s),
 			$of($$new($StringArray, {
-				u"dat n \u025bisa"_s,
-				u"dffir n \u025bisa"_s
+				u"dat n ɛisa"_s,
+				u"dffir n ɛisa"_s
 			}))
 		}),
 		$$new($ObjectArray, {
@@ -276,15 +276,15 @@ $ObjectArray2* FormatData_shi_Latn::getContents() {
 			$of("latn.NumberElements"_s),
 			$of($$new($StringArray, {
 				","_s,
-				u"\u00a0"_s,
+				u" "_s,
 				";"_s,
 				"%"_s,
 				"0"_s,
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
+				u"‰"_s,
+				u"∞"_s,
 				"NaN"_s,
 				""_s,
 				""_s
@@ -324,7 +324,7 @@ $ObjectArray2* FormatData_shi_Latn::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.dayperiod"_s),
-			$of(u"tizi g wass: tifawt / tadgg\u02b7at"_s)
+			$of(u"tizi g wass: tifawt / tadggʷat"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("standalone.MonthNarrows"_s),
@@ -439,7 +439,7 @@ $ObjectArray2* FormatData_shi_Latn::getContents() {
 			$of("latn.NumberPatterns"_s),
 			$of($$new($StringArray, {
 				"#,##0.###"_s,
-				u"#,##0.00\u00a4"_s,
+				u"#,##0.00¤"_s,
 				"#,##0%"_s,
 				""_s
 			}))

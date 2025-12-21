@@ -42,99 +42,99 @@ void TimeZoneNames_ps_PK::init$() {
 $ObjectArray2* TimeZoneNames_ps_PK::getContents() {
 	$useLocalCurrentObjectStackCache();
 	$var($StringArray, Apia, $new($StringArray, {
-		u"\u0627\u067e\u06cc\u0627 \u0645\u0639\u064a\u0627\u0631\u064a \u0648\u062e\u062a"_s,
+		u"اپیا معياري وخت"_s,
 		""_s,
-		u"\u062f \u0627\u067e\u06cc\u0627 \u062f \u0648\u0631\u0681\u06d2 \u0648\u062e\u062a"_s,
+		u"د اپیا د ورځے وخت"_s,
 		""_s,
-		u"\u0627\u067e\u06cc\u0627 \u0648\u062e\u062a"_s,
+		u"اپیا وخت"_s,
 		""_s
 	}));
 	$var($StringArray, Cuba, $new($StringArray, {
-		u"\u06a9\u06cc\u0648\u0628\u0627 \u0645\u0639\u064a\u0627\u0631\u064a \u0648\u062e\u062a"_s,
+		u"کیوبا معياري وخت"_s,
 		""_s,
-		u"\u06a9\u06cc\u0648\u0628\u0627 \u062f \u0631\u06bc\u0627 \u0648\u0631\u0681\u06d2 \u0648\u062e\u062a"_s,
+		u"کیوبا د رڼا ورځے وخت"_s,
 		""_s,
-		u"\u06a9\u064a\u0648\u0628\u0627 \u0648\u062e\u062a"_s,
+		u"کيوبا وخت"_s,
 		""_s
 	}));
 	$var($StringArray, Iran, $new($StringArray, {
-		u"\u0627\u06cc\u0631\u0627\u0646 \u0645\u0639\u064a\u0627\u0631\u064a \u0648\u062e\u062a"_s,
+		u"ایران معياري وخت"_s,
 		""_s,
-		u"\u062f \u0627\u06cc\u0631\u0627\u0646 \u062f \u0648\u0631\u0681\u06d2 \u0648\u062e\u062a"_s,
+		u"د ایران د ورځے وخت"_s,
 		""_s,
-		u"\u0627\u06cc\u0631\u0627\u0646 \u0648\u062e\u062a"_s,
+		u"ایران وخت"_s,
 		""_s
 	}));
 	$var($StringArray, China, $new($StringArray, {
-		u"\u0686\u06cc\u0646 \u0645\u0639\u06cc\u0627\u0631\u064a \u0648\u062e\u062a"_s,
+		u"چین معیاري وخت"_s,
 		""_s,
-		u"\u062f \u0686\u064a\u0646 \u062f \u0631\u06bc\u0627 \u0648\u0631\u0681\u06d2 \u0648\u062e\u062a"_s,
+		u"د چين د رڼا ورځے وخت"_s,
 		""_s,
-		u"\u0686\u064a\u0646 \u0648\u062e\u062a"_s,
+		u"چين وخت"_s,
 		""_s
 	}));
 	$var($StringArray, Japan, $new($StringArray, {
-		u"\u062c\u0627\u067e\u0627\u0646 \u0645\u0639\u064a\u0627\u0631\u064a \u0648\u062e\u062a"_s,
+		u"جاپان معياري وخت"_s,
 		""_s,
-		u"\u062c\u0627\u067e\u0627\u0646 \u062f \u0631\u06bc\u0627 \u0648\u0631\u0681\u06d2 \u0648\u062e\u062a"_s,
+		u"جاپان د رڼا ورځے وخت"_s,
 		""_s,
-		u"\u062c\u0627\u067e\u0627\u0646 \u0648\u062e\u062a"_s,
+		u"جاپان وخت"_s,
 		""_s
 	}));
 	$var($StringArray, Korea, $new($StringArray, {
-		u"\u06a9\u0648\u0631\u064a\u0627\u064a\u064a \u0645\u0639\u064a\u0627\u0631\u064a \u0648\u062e\u062a"_s,
+		u"کوريايي معياري وخت"_s,
 		""_s,
-		u"\u062f \u06a9\u0648\u0631\u06cc\u0627 \u062f \u0648\u0631\u0681\u06d2 \u062f \u0648\u0631\u0681\u06d2 \u0648\u062e\u062a"_s,
+		u"د کوریا د ورځے د ورځے وخت"_s,
 		""_s,
-		u"\u06a9\u0648\u0631\u064a\u0627\u064a\u064a \u0648\u062e\u062a"_s,
+		u"کوريايي وخت"_s,
 		""_s
 	}));
 	$var($StringArray, Samoa, $new($StringArray, {
-		u"\u0633\u0645\u0648\u0627 \u0645\u0639\u064a\u0627\u0631\u064a \u0648\u062e\u062a"_s,
+		u"سموا معياري وخت"_s,
 		""_s,
-		u"\u062f \u0633\u0645\u0648\u0627 \u062f \u0648\u0631\u0681\u06d2 \u0631\u0648\u069a\u0627\u0646\u0647 \u06a9\u0648\u0644"_s,
+		u"د سموا د ورځے روښانه کول"_s,
 		""_s,
-		u"\u0633\u0645\u0648\u0627 \u0648\u062e\u062a"_s,
+		u"سموا وخت"_s,
 		""_s
 	}));
 	$var($StringArray, Alaska, $new($StringArray, {
-		u"\u0627\u0644\u0627\u0633\u06a9\u0627 \u0645\u0639\u064a\u0627\u0631\u064a \u0648\u062e\u062a"_s,
+		u"الاسکا معياري وخت"_s,
 		""_s,
-		u"\u062f \u0627\u0644\u0627\u0633\u06a9\u0627 \u062f \u0648\u0631\u0681\u06d2 \u0631\u0648\u069a\u0627\u0646\u0647 \u06a9\u0648\u0644"_s,
+		u"د الاسکا د ورځے روښانه کول"_s,
 		""_s,
-		u"\u0627\u0644\u0627\u0633\u06a9\u0627 \u0648\u062e\u062a"_s,
+		u"الاسکا وخت"_s,
 		""_s
 	}));
 	$var($StringArray, Israel, $new($StringArray, {
-		u"\u0627\u0633\u0631\u0627\u06cc\u06cc\u0644 \u0645\u0639\u064a\u0627\u0631\u064a \u0648\u062e\u062a"_s,
+		u"اسراییل معياري وخت"_s,
 		""_s,
-		u"\u062f \u0627\u0633\u0631\u0627\u06cc\u06cc\u0644\u0648 \u062f \u0648\u0631\u0681\u06d2 \u0648\u062e\u062a"_s,
+		u"د اسراییلو د ورځے وخت"_s,
 		""_s,
-		u"\u0627\u0633\u0631\u0627\u06cc\u06cc\u0644 \u0648\u062e\u062a"_s,
+		u"اسراییل وخت"_s,
 		""_s
 	}));
 	$var($StringArray, Arabian, $new($StringArray, {
-		u"\u0639\u0631\u0628\u064a \u0645\u0639\u06cc\u0627\u0631\u064a \u0648\u062e\u062a"_s,
+		u"عربي معیاري وخت"_s,
 		""_s,
-		u"\u062f \u0639\u0631\u0628\u064a \u0648\u0631\u0681\u067e\u0627\u06bc\u06d2 \u0648\u062e\u062a"_s,
+		u"د عربي ورځپاڼے وخت"_s,
 		""_s,
-		u"\u0639\u0631\u0628\u064a \u0648\u062e\u062a"_s,
+		u"عربي وخت"_s,
 		""_s
 	}));
 	$var($StringArray, Atlantic, $new($StringArray, {
-		u"\u0627\u062a\u0644\u0627\u0646\u062a\u06cc\u06a9 \u0645\u0639\u064a\u0627\u0631\u064a \u0648\u062e\u062a"_s,
+		u"اتلانتیک معياري وخت"_s,
 		""_s,
-		u"\u0627\u062a\u0644\u0627\u0646\u062a\u06cc\u06a9 \u062f \u0631\u06bc\u0627 \u0648\u0631\u0681\u06d2 \u0648\u062e\u062a"_s,
+		u"اتلانتیک د رڼا ورځے وخت"_s,
 		""_s,
-		u"\u0627\u062a\u0644\u0627\u0646\u062a\u06cc\u06a9 \u0648\u062e\u062a"_s,
+		u"اتلانتیک وخت"_s,
 		""_s
 	}));
 	$var($StringArray, Lord_Howe, $new($StringArray, {
-		u"\u0644\u0627\u0631\u0689 \u0647\u0648\u064a \u0645\u0639\u064a\u0627\u0631\u064a \u0648\u062e\u062a"_s,
+		u"لارډ هوي معياري وخت"_s,
 		""_s,
-		u"\u0631\u0628 \u0647\u0627\u0648 \u062f \u0648\u0631\u0681\u06d2 \u062f \u0631\u06bc\u0627 \u0648\u062e\u062a"_s,
+		u"رب هاو د ورځے د رڼا وخت"_s,
 		""_s,
-		u"\u0644\u0627\u0631\u0689 \u0647\u0648\u064a \u0648\u062e\u062a"_s,
+		u"لارډ هوي وخت"_s,
 		""_s
 	}));
 	$var($StringArray, EMPTY_ZONE, $new($StringArray, {
@@ -146,15 +146,15 @@ $ObjectArray2* TimeZoneNames_ps_PK::getContents() {
 		""_s
 	}));
 	$var($StringArray, New_Zealand, $new($StringArray, {
-		u"\u0646\u064a\u0648\u0632\u064a \u0644\u06d0\u0646\u0689 \u0645\u0639\u064a\u0627\u0631\u064a \u0648\u062e\u062a"_s,
+		u"نيوزي لېنډ معياري وخت"_s,
 		""_s,
-		u"\u062f \u0646\u06cc\u0648\u0632\u06cc \u0644\u06cc\u0646\u0688 \u062f \u0648\u0631\u0681\u06d2 \u062f \u0631\u06bc\u0627 \u0648\u062e\u062a"_s,
+		u"د نیوزی لینڈ د ورځے د رڼا وخت"_s,
 		""_s,
-		u"\u0646\u064a\u0648\u0632\u064a \u0644\u06d0\u0646\u0689 \u0648\u062e\u062a"_s,
+		u"نيوزي لېنډ وخت"_s,
 		""_s
 	}));
 	$var($StringArray, Line_Islands, $new($StringArray, {
-		u"\u062f \u06a9\u0631\u069a\u06d2 \u067c\u0627\u067c\u0648\u0628\u064a \u0648\u062e\u062a"_s,
+		u"د کرښے ټاټوبي وخت"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -162,55 +162,55 @@ $ObjectArray2* TimeZoneNames_ps_PK::getContents() {
 		""_s
 	}));
 	$var($StringArray, Newfoundland, $new($StringArray, {
-		u"\u062f \u0646\u0648\u064a \u0641\u06cc\u0644\u0689\u0644\u06cc\u0646\u0689 \u0645\u0639\u06cc\u0627\u0631\u06cc \u0648\u062e\u062a"_s,
+		u"د نوي فیلډلینډ معیاری وخت"_s,
 		""_s,
-		u"\u062f \u0646\u0648\u064a \u0641\u06cc\u0644\u0689\u0644\u06cc\u0646\u0689 \u0631\u06bc\u0627 \u0648\u0631\u0681\u06d2 \u0648\u062e\u062a"_s,
+		u"د نوي فیلډلینډ رڼا ورځے وخت"_s,
 		""_s,
-		u"\u0646\u064a\u0648 \u0641\u0627\u0648\u0646\u0689\u0644\u06d0\u0646\u0689 \u0648\u062e\u062a"_s,
+		u"نيو فاونډلېنډ وخت"_s,
 		""_s
 	}));
 	$var($StringArray, Europe_Western, $new($StringArray, {
-		u"\u062f \u0644\u0648\u062f\u06cc\u0681\u06d2 \u0627\u0631\u0648\u067e\u0627 \u0645\u0639\u06cc\u0627\u0631\u064a \u0648\u062e\u062a"_s,
+		u"د لودیځے اروپا معیاري وخت"_s,
 		""_s,
-		u"\u062f \u0644\u0648\u062f\u06cc\u0681\u06d2 \u0627\u0648\u0631\u067e\u0627 \u062f \u0627\u0648\u0693\u064a \u0648\u062e\u062a"_s,
+		u"د لودیځے اورپا د اوړي وخت"_s,
 		""_s,
-		u"\u0644\u0648\u06d0\u062f\u064a\u0632\u06d2 \u0627\u0631\u0648\u067e\u0627 \u0648\u062e\u062a"_s,
+		u"لوېديزے اروپا وخت"_s,
 		""_s
 	}));
 	$var($StringArray, Mexico_Pacific, $new($StringArray, {
-		u"\u0645\u06a9\u0633\u06cc\u06a9\u0646 \u067e\u06cc\u0633\u0641\u06a9 \u0645\u0639\u06cc\u0627\u0631\u06cc \u0648\u062e\u062a"_s,
+		u"مکسیکن پیسفک معیاری وخت"_s,
 		""_s,
-		u"\u0645\u06a9\u0633\u06cc\u06a9\u0646 \u067e\u06cc\u0633\u0641\u06a9 \u0631\u06bc\u0627 \u0648\u0631\u0681\u06d2 \u0648\u062e\u062a"_s,
+		u"مکسیکن پیسفک رڼا ورځے وخت"_s,
 		""_s,
-		u"\u0645\u06a9\u0633\u06cc\u06a9\u0646 \u067e\u06cc\u0633\u0641\u06a9 \u0648\u062e\u062a"_s,
+		u"مکسیکن پیسفک وخت"_s,
 		""_s
 	}));
 	$var($StringArray, America_Central, $new($StringArray, {
-		u"\u0645\u0631\u06a9\u0632\u064a \u0645\u0639\u064a\u0627\u0631\u064a \u0648\u062e\u062a"_s,
+		u"مرکزي معياري وخت"_s,
 		""_s,
-		u"\u0645\u0631\u06a9\u0632\u064a \u0631\u06bc\u0627 \u0648\u0631\u0681\u06d2 \u0648\u062e\u062a"_s,
+		u"مرکزي رڼا ورځے وخت"_s,
 		""_s,
-		u"\u0645\u0631\u06a9\u0632\u064a \u0648\u062e\u062a"_s,
+		u"مرکزي وخت"_s,
 		""_s
 	}));
 	$var($StringArray, America_Eastern, $new($StringArray, {
-		u"\u062e\u062a\u064a\u0681 \u0645\u0639\u064a\u0627\u0631\u064a \u0648\u062e\u062a"_s,
+		u"ختيځ معياري وخت"_s,
 		""_s,
-		u"\u062e\u062a\u064a\u0681 \u062f \u0631\u06bc\u0627 \u0648\u0631\u0681\u06d2 \u0648\u062e\u062a"_s,
+		u"ختيځ د رڼا ورځے وخت"_s,
 		""_s,
-		u"\u062e\u062a\u06cc\u0681 \u0648\u062e\u062a"_s,
+		u"ختیځ وخت"_s,
 		""_s
 	}));
 	$var($StringArray, America_Pacific, $new($StringArray, {
-		u"\u062f \u067e\u06cc\u0633\u0641\u06a9 \u0645\u0639\u064a\u0627\u0631\u064a \u0648\u062e\u062a"_s,
+		u"د پیسفک معياري وخت"_s,
 		""_s,
-		u"\u067e\u06cc\u0633\u0641\u06a9 \u062f \u0631\u06bc\u0627 \u0648\u0631\u0681\u06d2 \u0648\u062e\u062a"_s,
+		u"پیسفک د رڼا ورځے وخت"_s,
 		""_s,
-		u"\u067e\u06cc\u0633\u0641\u06a9 \u0648\u062e\u062a"_s,
+		u"پیسفک وخت"_s,
 		""_s
 	}));
 	$var($StringArray, French_Southern, $new($StringArray, {
-		u"\u062f \u0641\u0631\u0627\u0646\u0633\u06d2 \u0633\u0648\u06cc\u0644 \u0627\u0648 \u0627\u0646\u067c\u0627\u0631\u067c\u064a\u06a9 \u0648\u062e\u062a"_s,
+		u"د فرانسے سویل او انټارټيک وخت"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -218,43 +218,43 @@ $ObjectArray2* TimeZoneNames_ps_PK::getContents() {
 		""_s
 	}));
 	$var($StringArray, Hawaii_Aleutian, $new($StringArray, {
-		u"\u0647\u0648\u0627\u06cc\u06cc \u0627\u0644\u06cc\u0648\u062a\u06cc\u0646 \u0645\u0639\u06cc\u0627\u0631\u06cc \u0648\u062e\u062a"_s,
+		u"هوایی الیوتین معیاری وخت"_s,
 		""_s,
-		u"\u0647\u0648\u0627\u06cc\u06cc \u0627\u0644\u06cc\u0648\u062a\u06cc\u0646 \u0631\u06bc\u0627 \u0648\u0631\u0681\u06d2 \u0648\u062e\u062a"_s,
+		u"هوایی الیوتین رڼا ورځے وخت"_s,
 		""_s,
-		u"\u0647\u0648\u0627\u06cc\u06cc \u0627\u0644\u06cc\u0648\u062a\u06cc\u0646 \u0648\u062e\u062a"_s,
+		u"هوایی الیوتین وخت"_s,
 		""_s
 	}));
 	$var($StringArray, Pierre_Miquelon, $new($StringArray, {
-		u"\u0633\u06cc\u0646\u067c \u067e\u06cc\u06cc\u0631\u0627 \u0648 \u0645\u064a\u06a9\u0644\u064a\u0646 \u0645\u0639\u06cc\u0627\u0631\u06cc \u0648\u062e\u062a"_s,
+		u"سینټ پییرا و ميکلين معیاری وخت"_s,
 		""_s,
-		u"\u0633\u06cc\u0646\u067c \u067e\u06cc\u06cc\u0631\u0627 \u0648 \u0645\u064a\u06a9\u0644\u064a\u0646 \u0631\u06bc\u0627 \u0648\u0631\u0681\u06d2 \u0648\u062e\u062a"_s,
+		u"سینټ پییرا و ميکلين رڼا ورځے وخت"_s,
 		""_s,
-		u"\u0633\u06cc\u0646\u067c \u067e\u06cc\u06cc\u0631\u0627 \u0648 \u0645\u064a\u06a9\u0644\u064a\u0646 \u0648\u062e\u062a"_s,
+		u"سینټ پییرا و ميکلين وخت"_s,
 		""_s
 	}));
 	$var($StringArray, America_Mountain, $new($StringArray, {
-		u"\u062f \u063a\u0631\u0647 \u0645\u0639\u064a\u0627\u0631\u064a \u0648\u062e\u062a"_s,
+		u"د غره معياري وخت"_s,
 		""_s,
-		u"\u062f \u063a\u0631\u0647 \u062f \u0631\u06bc\u0627 \u0648\u0631\u0681\u06d2 \u0648\u062e\u062a"_s,
+		u"د غره د رڼا ورځے وخت"_s,
 		""_s,
-		u"\u062f \u063a\u0631\u0647 \u062f \u0648\u062e\u062a"_s,
+		u"د غره د وخت"_s,
 		""_s
 	}));
 	$var($StringArray, Mexico_Northwest, $new($StringArray, {
-		u"\u062f \u0634\u0645\u0627\u0644 \u0644\u0648\u06cc\u062f\u06cc\u0681 \u0645\u06a9\u0633\u06cc\u06a9\u0648 \u0645\u0639\u06cc\u0627\u0631\u064a \u0648\u062e\u062a"_s,
+		u"د شمال لویدیځ مکسیکو معیاري وخت"_s,
 		""_s,
-		u"\u062f \u0634\u0645\u0627\u0644 \u0644\u0648\u06cc\u062f\u06cc\u0681 \u0645\u06a9\u0633\u06cc\u06a9\u0648 \u0631\u06bc\u0627 \u0648\u0631\u0681\u06d2 \u0648\u062e\u062a"_s,
+		u"د شمال لویدیځ مکسیکو رڼا ورځے وخت"_s,
 		""_s,
-		u"\u062f \u0634\u0645\u0627\u0644 \u0644\u0648\u06cc\u062f\u06cc\u0681 \u0645\u06a9\u0633\u06cc\u06a9\u0648 \u0648\u062e\u062a"_s,
+		u"د شمال لویدیځ مکسیکو وخت"_s,
 		""_s
 	}));
 	$var($StringArray, Australia_Western, $new($StringArray, {
-		u"\u0622\u0633\u062a\u0631\u0627\u0644\u0648\u064a \u0644\u0648\u06d0\u062f\u064a\u0681 \u0645\u0639\u064a\u0627\u0631\u064a \u0648\u062e\u062a"_s,
+		u"آسترالوي لوېديځ معياري وخت"_s,
 		""_s,
-		u"\u062f \u0627\u0633\u067c\u0631\u0627\u0644\u06cc\u0627 \u0644\u0648\u06cc\u062f\u06cc\u0681 \u062f \u0648\u0631\u0681\u06d2 \u0648\u062e\u062a"_s,
+		u"د اسټرالیا لویدیځ د ورځے وخت"_s,
 		""_s,
-		u"\u0644\u0648\u06d0\u062f\u064a\u0681 \u0622\u0633\u062a\u0631\u0627\u0644\u064a\u0627 \u0648\u062e\u062a"_s,
+		u"لوېديځ آستراليا وخت"_s,
 		""_s
 	}));
 	$var($ObjectArray2, data, $new($ObjectArray2, {
@@ -916,7 +916,7 @@ $ObjectArray2* TimeZoneNames_ps_PK::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Africa/Harare"_s),
-			$of(u"\u0647\u0631\u0627\u0631\u06d2"_s)
+			$of(u"هرارے"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("America/North_Dakota/New_Salem"_s),
@@ -924,7 +924,7 @@ $ObjectArray2* TimeZoneNames_ps_PK::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Lower_Princes"_s),
-			$of(u"\u062f \u06a9\u0645\u062a\u0631 \u0634\u0647\u0632\u0627\u062f\u0647 \u062f\u0631\u06d2 \u0645\u06cc\u0627\u0634\u062a\u0646\u06cd"_s)
+			$of(u"د کمتر شهزاده درے میاشتنۍ"_s)
 		})
 	}));
 	return data;

@@ -45,7 +45,7 @@ $ObjectArray2* LocaleNames_pt_BR::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("BA"_s),
-			$of(u"B\u00f3snia-Herzegovina"_s)
+			$of(u"Bósnia-Herzegovina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("BH"_s),
@@ -53,15 +53,15 @@ $ObjectArray2* LocaleNames_pt_BR::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("KP"_s),
-			$of(u"Cor\u00e9ia do Norte"_s)
+			$of(u"Coréia do Norte"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("MK"_s),
-			$of(u"Maced\u00f4nia"_s)
+			$of(u"Macedônia"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ZW"_s),
-			$of(u"Zimb\u00e1bue"_s)
+			$of(u"Zimbábue"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ce"_s),
@@ -73,7 +73,7 @@ $ObjectArray2* LocaleNames_pt_BR::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("jv"_s),
-			$of(u"javan\u00eas"_s)
+			$of(u"javanês"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("nd"_s),

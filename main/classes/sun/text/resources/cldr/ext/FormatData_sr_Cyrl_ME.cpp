@@ -40,69 +40,69 @@ void FormatData_sr_Cyrl_ME::init$() {
 $ObjectArray2* FormatData_sr_Cyrl_ME::getContents() {
 	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_MonthAbbreviations, $new($StringArray, {
-		u"\u0458\u0430\u043d"_s,
-		u"\u0444\u0435\u0431"_s,
-		u"\u043c\u0430\u0440\u0442"_s,
-		u"\u0430\u043f\u0440"_s,
-		u"\u043c\u0430\u0458"_s,
-		u"\u0458\u0443\u043d"_s,
-		u"\u0458\u0443\u043b"_s,
-		u"\u0430\u0432\u0433"_s,
-		u"\u0441\u0435\u043f\u0442"_s,
-		u"\u043e\u043a\u0442"_s,
-		u"\u043d\u043e\u0432"_s,
-		u"\u0434\u0435\u0446"_s,
+		u"јан"_s,
+		u"феб"_s,
+		u"март"_s,
+		u"апр"_s,
+		u"мај"_s,
+		u"јун"_s,
+		u"јул"_s,
+		u"авг"_s,
+		u"септ"_s,
+		u"окт"_s,
+		u"нов"_s,
+		u"дец"_s,
 		""_s
 	}));
 	$var($StringArray, metaValue_DayNames, $new($StringArray, {
-		u"\u043d\u0435\u0434\u0458\u0435\u0459\u0430"_s,
-		u"\u043f\u043e\u043d\u0435\u0434\u0435\u0459\u0430\u043a"_s,
-		u"\u0443\u0442\u043e\u0440\u0430\u043a"_s,
-		u"\u0441\u0440\u0438\u0458\u0435\u0434\u0430"_s,
-		u"\u0447\u0435\u0442\u0432\u0440\u0442\u0430\u043a"_s,
-		u"\u043f\u0435\u0442\u0430\u043a"_s,
-		u"\u0441\u0443\u0431\u043e\u0442\u0430"_s
+		u"недјеља"_s,
+		u"понедељак"_s,
+		u"уторак"_s,
+		u"сриједа"_s,
+		u"четвртак"_s,
+		u"петак"_s,
+		u"субота"_s
 	}));
 	$var($StringArray, metaValue_AmPmMarkers, $new($StringArray, {
-		u"\u043f\u0440\u0438\u0458\u0435 \u043f\u043e\u0434\u043d\u0435"_s,
-		u"\u043f\u043e \u043f\u043e\u0434\u043d\u0435"_s,
-		u"\u043f\u043e\u043d\u043e\u045b"_s,
-		u"\u043f\u043e\u0434\u043d\u0435"_s,
-		u"\u0443\u0458\u0443\u0442\u0440\u043e"_s,
+		u"прије подне"_s,
+		u"по подне"_s,
+		u"поноћ"_s,
+		u"подне"_s,
+		u"ујутро"_s,
 		""_s,
-		u"\u043f\u043e \u043f\u043e\u0434\u043d\u0435"_s,
+		u"по подне"_s,
 		""_s,
-		u"\u0443\u0432\u0435\u0447\u0435"_s,
+		u"увече"_s,
 		""_s,
-		u"\u043d\u043e\u045b\u0443"_s,
+		u"ноћу"_s,
 		""_s
 	}));
 	$var($StringArray, metaValue_narrow_AmPmMarkers, $new($StringArray, {
 		"a"_s,
 		"p"_s,
-		u"\u043f\u043e\u043d\u043e\u045b"_s,
-		u"\u043f\u043e\u0434\u043d\u0435"_s,
-		u"\u0458\u0443\u0442\u0440\u043e"_s,
+		u"поноћ"_s,
+		u"подне"_s,
+		u"јутро"_s,
 		""_s,
-		u"\u043f\u043e \u043f\u043e\u0434."_s,
+		u"по под."_s,
 		""_s,
-		u"\u0432\u0435\u0447\u0435"_s,
+		u"вече"_s,
 		""_s,
-		u"\u043d\u043e\u045b"_s,
+		u"ноћ"_s,
 		""_s
 	}));
 	$var($StringArray, metaValue_abbreviated_AmPmMarkers, $new($StringArray, {
-		u"\u043f\u0440\u0438\u0458\u0435 \u043f\u043e\u0434\u043d\u0435"_s,
-		u"\u043f\u043e \u043f\u043e\u0434\u043d\u0435"_s,
-		u"\u043f\u043e\u043d\u043e\u045b"_s,
-		u"\u043f\u043e\u0434\u043d\u0435"_s,
-		u"\u0458\u0443\u0442\u0440\u043e"_s,
+		u"прије подне"_s,
+		u"по подне"_s,
+		u"поноћ"_s,
+		u"подне"_s,
+		u"јутро"_s,
 		""_s,
-		u"\u043f\u043e \u043f\u043e\u0434."_s,
+		u"по под."_s,
 		""_s,
-		u"\u0432\u0435\u0447\u0435"_s,
+		u"вече"_s,
 		""_s,
-		u"\u043d\u043e\u045b\u0443"_s,
+		u"ноћу"_s,
 		""_s
 	}));
 	$var($ObjectArray2, data, $new($ObjectArray2, {
@@ -177,8 +177,8 @@ $ObjectArray2* FormatData_sr_Cyrl_ME::getContents() {
 		$$new($ObjectArray, {
 			$of("long.Eras"_s),
 			$of($$new($StringArray, {
-				u"\u043f\u0440\u0438\u0458\u0435 \u043d\u043e\u0432\u0435 \u0435\u0440\u0435"_s,
-				u"\u043d\u043e\u0432\u0435 \u0435\u0440\u0435"_s
+				u"прије нове ере"_s,
+				u"нове ере"_s
 			}))
 		}),
 		$$new($ObjectArray, {

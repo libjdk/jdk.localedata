@@ -86,11 +86,11 @@ $ObjectArray2* FormatData_it::getContents() {
 	}));
 	$var($StringArray, metaValue_DayNames, $new($StringArray, {
 		"domenica"_s,
-		u"luned\u00ec"_s,
-		u"marted\u00ec"_s,
-		u"mercoled\u00ec"_s,
-		u"gioved\u00ec"_s,
-		u"venerd\u00ec"_s,
+		u"lunedì"_s,
+		u"martedì"_s,
+		u"mercoledì"_s,
+		u"giovedì"_s,
+		u"venerdì"_s,
 		"sabato"_s
 	}));
 	$var($StringArray, metaValue_DayAbbreviations, $new($StringArray, {
@@ -112,10 +112,10 @@ $ObjectArray2* FormatData_it::getContents() {
 		"S"_s
 	}));
 	$var($StringArray, metaValue_QuarterNames, $new($StringArray, {
-		u"1\u00ba trimestre"_s,
-		u"2\u00ba trimestre"_s,
-		u"3\u00ba trimestre"_s,
-		u"4\u00ba trimestre"_s
+		u"1º trimestre"_s,
+		u"2º trimestre"_s,
+		u"3º trimestre"_s,
+		u"4º trimestre"_s
 	}));
 	$var($StringArray, metaValue_QuarterAbbreviations, $new($StringArray, {
 		"T1"_s,
@@ -345,8 +345,8 @@ $ObjectArray2* FormatData_it::getContents() {
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
+				u"‰"_s,
+				u"∞"_s,
 				"NaN"_s,
 				""_s,
 				""_s
@@ -672,15 +672,15 @@ $ObjectArray2* FormatData_it::getContents() {
 				"{one:0 other:0}"_s,
 				"{one:0 other:0}"_s,
 				"{one:0 other:0}"_s,
-				u"{one:0\u00a0Mln other:0\u00a0Mln}"_s,
-				u"{one:00\u00a0Mln other:00\u00a0Mln}"_s,
-				u"{one:000\u00a0Mln other:000\u00a0Mln}"_s,
-				u"{one:0\u00a0Mrd other:0\u00a0Mrd}"_s,
-				u"{one:00\u00a0Mrd other:00\u00a0Mrd}"_s,
-				u"{one:000\u00a0Mrd other:000\u00a0Mrd}"_s,
-				u"{one:0\u00a0Bln other:0\u00a0Bln}"_s,
-				u"{one:00\u00a0Bln other:00\u00a0Bln}"_s,
-				u"{one:000\u00a0Bln other:000\u00a0Bln}"_s
+				u"{one:0 Mln other:0 Mln}"_s,
+				u"{one:00 Mln other:00 Mln}"_s,
+				u"{one:000 Mln other:000 Mln}"_s,
+				u"{one:0 Mrd other:0 Mrd}"_s,
+				u"{one:00 Mrd other:00 Mrd}"_s,
+				u"{one:000 Mrd other:000 Mrd}"_s,
+				u"{one:0 Bln other:0 Bln}"_s,
+				u"{one:00 Bln other:00 Bln}"_s,
+				u"{one:000 Bln other:000 Bln}"_s
 			}))
 		}),
 		$$new($ObjectArray, {
@@ -744,9 +744,9 @@ $ObjectArray2* FormatData_it::getContents() {
 			$of("latn.NumberPatterns"_s),
 			$of($$new($StringArray, {
 				"#,##0.###"_s,
-				u"#,##0.00\u00a0\u00a4"_s,
+				u"#,##0.00 ¤"_s,
 				"#,##0%"_s,
-				u"#,##0.00\u00a0\u00a4"_s
+				u"#,##0.00 ¤"_s
 			}))
 		}),
 		$$new($ObjectArray, {

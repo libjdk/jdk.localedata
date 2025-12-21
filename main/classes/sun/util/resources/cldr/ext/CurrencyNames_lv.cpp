@@ -286,7 +286,7 @@ $ObjectArray2* CurrencyNames_lv::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("JPY"_s),
-			$of(u"\u00a5"_s)
+			$of(u"¥"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("KES"_s),
@@ -530,7 +530,7 @@ $ObjectArray2* CurrencyNames_lv::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("THB"_s),
-			$of(u"\u0e3f"_s)
+			$of(u"฿"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("TJS"_s),
@@ -610,23 +610,23 @@ $ObjectArray2* CurrencyNames_lv::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("aed"_s),
-			$of(u"Apvienoto Ar\u0101bu Emir\u0101tu dirh\u0113ms"_s)
+			$of(u"Apvienoto Arābu Emirātu dirhēms"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("afn"_s),
-			$of(u"Afganist\u0101nas afg\u0101ns"_s)
+			$of(u"Afganistānas afgāns"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("all"_s),
-			$of(u"Alb\u0101nijas leks"_s)
+			$of(u"Albānijas leks"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("amd"_s),
-			$of(u"Arm\u0113nijas drams"_s)
+			$of(u"Armēnijas drams"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ang"_s),
-			$of(u"N\u012bderlandes Anti\u013cu guldenis"_s)
+			$of(u"Nīderlandes Antiļu guldenis"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("aoa"_s),
@@ -634,15 +634,15 @@ $ObjectArray2* CurrencyNames_lv::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ars"_s),
-			$of(u"Argent\u012bnas peso"_s)
+			$of(u"Argentīnas peso"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ats"_s),
-			$of(u"Austrijas \u0161ili\u0146\u0161"_s)
+			$of(u"Austrijas šiliņš"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("aud"_s),
-			$of(u"Austr\u0101lijas dol\u0101rs"_s)
+			$of(u"Austrālijas dolārs"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("awg"_s),
@@ -650,35 +650,35 @@ $ObjectArray2* CurrencyNames_lv::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("azm"_s),
-			$of(u"Azerbaid\u017e\u0101nas manats (1993\u20132006)"_s)
+			$of(u"Azerbaidžānas manats (1993–2006)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("azn"_s),
-			$of(u"Azerbaid\u017e\u0101nas manats"_s)
+			$of(u"Azerbaidžānas manats"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bam"_s),
-			$of(u"Bosnijas un Hercogovinas konvert\u0113jam\u0101 marka"_s)
+			$of(u"Bosnijas un Hercogovinas konvertējamā marka"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bbd"_s),
-			$of(u"Barbadosas dol\u0101rs"_s)
+			$of(u"Barbadosas dolārs"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bdt"_s),
-			$of(u"Banglade\u0161as taka"_s)
+			$of(u"Bangladešas taka"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bef"_s),
-			$of(u"Be\u013c\u0123ijas franks"_s)
+			$of(u"Beļģijas franks"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bgn"_s),
-			$of(u"Bulg\u0101rijas leva"_s)
+			$of(u"Bulgārijas leva"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bhd"_s),
-			$of(u"Bahreinas din\u0101rs"_s)
+			$of(u"Bahreinas dinārs"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bif"_s),
@@ -686,27 +686,27 @@ $ObjectArray2* CurrencyNames_lv::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("bmd"_s),
-			$of(u"Bermudu dol\u0101rs"_s)
+			$of(u"Bermudu dolārs"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bnd"_s),
-			$of(u"Brunejas dol\u0101rs"_s)
+			$of(u"Brunejas dolārs"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bob"_s),
-			$of(u"Bol\u012bvijas boliviano"_s)
+			$of(u"Bolīvijas boliviano"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("brl"_s),
-			$of(u"Braz\u012blijas re\u0101ls"_s)
+			$of(u"Brazīlijas reāls"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bsd"_s),
-			$of(u"Bahamu dol\u0101rs"_s)
+			$of(u"Bahamu dolārs"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("btn"_s),
-			$of(u"But\u0101nas ngultrums"_s)
+			$of(u"Butānas ngultrums"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bwp"_s),
@@ -718,15 +718,15 @@ $ObjectArray2* CurrencyNames_lv::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("byr"_s),
-			$of(u"Baltkrievijas rubelis (2000\u20132016)"_s)
+			$of(u"Baltkrievijas rubelis (2000–2016)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bzd"_s),
-			$of(u"Belizas dol\u0101rs"_s)
+			$of(u"Belizas dolārs"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cad"_s),
-			$of(u"Kan\u0101das dol\u0101rs"_s)
+			$of(u"Kanādas dolārs"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cdf"_s),
@@ -734,19 +734,19 @@ $ObjectArray2* CurrencyNames_lv::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("chf"_s),
-			$of(u"\u0160veices franks"_s)
+			$of(u"Šveices franks"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("clp"_s),
-			$of(u"\u010c\u012bles peso"_s)
+			$of(u"Čīles peso"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cnh"_s),
-			$of(u"\u0136\u012bnas jua\u0146a (of\u0161ors)"_s)
+			$of(u"Ķīnas juaņa (ofšors)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cny"_s),
-			$of(u"\u0136\u012bnas jua\u0146s"_s)
+			$of(u"Ķīnas juaņs"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cop"_s),
@@ -754,7 +754,7 @@ $ObjectArray2* CurrencyNames_lv::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("cou"_s),
-			$of(u"Kolumbijas re\u0101ls"_s)
+			$of(u"Kolumbijas reāls"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("crc"_s),
@@ -762,7 +762,7 @@ $ObjectArray2* CurrencyNames_lv::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("cuc"_s),
-			$of(u"Kubas konvert\u0113jamais peso"_s)
+			$of(u"Kubas konvertējamais peso"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cup"_s),
@@ -774,31 +774,31 @@ $ObjectArray2* CurrencyNames_lv::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("cyp"_s),
-			$of(u"Kipras m\u0101rci\u0146a"_s)
+			$of(u"Kipras mārciņa"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("czk"_s),
-			$of(u"\u010cehijas krona"_s)
+			$of(u"Čehijas krona"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("dem"_s),
-			$of(u"V\u0101cijas marka"_s)
+			$of(u"Vācijas marka"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("djf"_s),
-			$of(u"D\u017eibutijas franks"_s)
+			$of(u"Džibutijas franks"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("dkk"_s),
-			$of(u"D\u0101nijas krona"_s)
+			$of(u"Dānijas krona"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("dop"_s),
-			$of(u"Dominik\u0101nas peso"_s)
+			$of(u"Dominikānas peso"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("dzd"_s),
-			$of(u"Al\u017e\u012brijas din\u0101rs"_s)
+			$of(u"Alžīrijas dinārs"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("eek"_s),
@@ -806,7 +806,7 @@ $ObjectArray2* CurrencyNames_lv::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("egp"_s),
-			$of(u"\u0112\u0123iptes m\u0101rci\u0146a"_s)
+			$of(u"Ēģiptes mārciņa"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ern"_s),
@@ -814,7 +814,7 @@ $ObjectArray2* CurrencyNames_lv::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("esp"_s),
-			$of(u"Sp\u0101nijas peseta"_s)
+			$of(u"Spānijas peseta"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("etb"_s),
@@ -830,11 +830,11 @@ $ObjectArray2* CurrencyNames_lv::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("fjd"_s),
-			$of(u"Fid\u017ei dol\u0101rs"_s)
+			$of(u"Fidži dolārs"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("fkp"_s),
-			$of(u"Folklenda Salu m\u0101rci\u0146a"_s)
+			$of(u"Folklenda Salu mārciņa"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("frf"_s),
@@ -842,7 +842,7 @@ $ObjectArray2* CurrencyNames_lv::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("gbp"_s),
-			$of(u"Lielbrit\u0101nijas m\u0101rci\u0146a"_s)
+			$of(u"Lielbritānijas mārciņa"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gel"_s),
@@ -854,7 +854,7 @@ $ObjectArray2* CurrencyNames_lv::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("gip"_s),
-			$of(u"Gibralt\u0101ra m\u0101rci\u0146a"_s)
+			$of(u"Gibraltāra mārciņa"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gmd"_s),
@@ -866,7 +866,7 @@ $ObjectArray2* CurrencyNames_lv::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("grd"_s),
-			$of(u"Grie\u0137ijas drahma"_s)
+			$of(u"Grieķijas drahma"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gtq"_s),
@@ -874,19 +874,19 @@ $ObjectArray2* CurrencyNames_lv::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("gyd"_s),
-			$of(u"Gaj\u0101nas dol\u0101rs"_s)
+			$of(u"Gajānas dolārs"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("hkd"_s),
-			$of(u"Honkongas dol\u0101rs"_s)
+			$of(u"Honkongas dolārs"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("hnl"_s),
-			$of(u"Hondurasas lemp\u012bra"_s)
+			$of(u"Hondurasas lempīra"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("hrk"_s),
-			$of(u"Horv\u0101tijas kuna"_s)
+			$of(u"Horvātijas kuna"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("htg"_s),
@@ -894,31 +894,31 @@ $ObjectArray2* CurrencyNames_lv::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("huf"_s),
-			$of(u"Ung\u0101rijas forints"_s)
+			$of(u"Ungārijas forints"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("idr"_s),
-			$of(u"Indon\u0113zijas r\u016bpija"_s)
+			$of(u"Indonēzijas rūpija"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("iep"_s),
-			$of(u"\u012arijas m\u0101rci\u0146a"_s)
+			$of(u"Īrijas mārciņa"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ils"_s),
-			$of(u"Izra\u0113las \u0161ekelis"_s)
+			$of(u"Izraēlas šekelis"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("inr"_s),
-			$of(u"Indijas r\u016bpija"_s)
+			$of(u"Indijas rūpija"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("iqd"_s),
-			$of(u"Ir\u0101kas din\u0101rs"_s)
+			$of(u"Irākas dinārs"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("irr"_s),
-			$of(u"Ir\u0101nas ri\u0101ls"_s)
+			$of(u"Irānas riāls"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("isk"_s),
@@ -926,31 +926,31 @@ $ObjectArray2* CurrencyNames_lv::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("itl"_s),
-			$of(u"It\u0101lijas lira"_s)
+			$of(u"Itālijas lira"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("jmd"_s),
-			$of(u"Jamaikas dol\u0101rs"_s)
+			$of(u"Jamaikas dolārs"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("jod"_s),
-			$of(u"Jord\u0101nas din\u0101rs"_s)
+			$of(u"Jordānas dinārs"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("jpy"_s),
-			$of(u"Jap\u0101nas jena"_s)
+			$of(u"Japānas jena"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kes"_s),
-			$of(u"Kenijas \u0161ili\u0146\u0161"_s)
+			$of(u"Kenijas šiliņš"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kgs"_s),
-			$of(u"Kirgizst\u0101nas soms"_s)
+			$of(u"Kirgizstānas soms"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("khr"_s),
-			$of(u"Kambod\u017eas riels"_s)
+			$of(u"Kambodžas riels"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kmf"_s),
@@ -958,7 +958,7 @@ $ObjectArray2* CurrencyNames_lv::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("kpw"_s),
-			$of(u"Zieme\u013ckorejas vona"_s)
+			$of(u"Ziemeļkorejas vona"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("krw"_s),
@@ -966,15 +966,15 @@ $ObjectArray2* CurrencyNames_lv::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("kwd"_s),
-			$of(u"Kuveitas din\u0101rs"_s)
+			$of(u"Kuveitas dinārs"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kyd"_s),
-			$of(u"Kaimanu salu dol\u0101rs"_s)
+			$of(u"Kaimanu salu dolārs"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kzt"_s),
-			$of(u"Kazahst\u0101nas tenge"_s)
+			$of(u"Kazahstānas tenge"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lak"_s),
@@ -982,15 +982,15 @@ $ObjectArray2* CurrencyNames_lv::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("lbp"_s),
-			$of(u"Lib\u0101nas m\u0101rci\u0146a"_s)
+			$of(u"Libānas mārciņa"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lkr"_s),
-			$of(u"\u0160rilankas r\u016bpija"_s)
+			$of(u"Šrilankas rūpija"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lrd"_s),
-			$of(u"Lib\u0113rijas dol\u0101rs"_s)
+			$of(u"Libērijas dolārs"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lsl"_s),
@@ -1014,11 +1014,11 @@ $ObjectArray2* CurrencyNames_lv::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("lyd"_s),
-			$of(u"L\u012bbijas din\u0101rs"_s)
+			$of(u"Lībijas dinārs"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mad"_s),
-			$of(u"Marokas dirh\u0113ms"_s)
+			$of(u"Marokas dirhēms"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mdl"_s),
@@ -1030,11 +1030,11 @@ $ObjectArray2* CurrencyNames_lv::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("mkd"_s),
-			$of(u"Ma\u0137edonijas den\u0101rs"_s)
+			$of(u"Maķedonijas denārs"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mlf"_s),
-			$of(u"CFA (\u0100frikas) franks"_s)
+			$of(u"CFA (Āfrikas) franks"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mmk"_s),
@@ -1050,11 +1050,11 @@ $ObjectArray2* CurrencyNames_lv::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("mro"_s),
-			$of(u"Maurit\u0101nijas ugija (1973\u20132017)"_s)
+			$of(u"Mauritānijas ugija (1973–2017)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mru"_s),
-			$of(u"Maurit\u0101nijas ugija"_s)
+			$of(u"Mauritānijas ugija"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mtl"_s),
@@ -1062,19 +1062,19 @@ $ObjectArray2* CurrencyNames_lv::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("mtp"_s),
-			$of(u"Maltas m\u0101rci\u0146a"_s)
+			$of(u"Maltas mārciņa"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mur"_s),
-			$of(u"Maur\u012bcijas r\u016bpija"_s)
+			$of(u"Maurīcijas rūpija"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mvr"_s),
-			$of(u"Mald\u012bvijas r\u016bfija"_s)
+			$of(u"Maldīvijas rūfija"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mwk"_s),
-			$of(u"Mal\u0101vijas kva\u010da"_s)
+			$of(u"Malāvijas kvača"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mxn"_s),
@@ -1098,11 +1098,11 @@ $ObjectArray2* CurrencyNames_lv::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("nad"_s),
-			$of(u"Nam\u012bbijas dol\u0101rs"_s)
+			$of(u"Namībijas dolārs"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ngn"_s),
-			$of(u"Nig\u0113rijas naira"_s)
+			$of(u"Nigērijas naira"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("nio"_s),
@@ -1110,23 +1110,23 @@ $ObjectArray2* CurrencyNames_lv::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("nlg"_s),
-			$of(u"N\u012bderlandes guldenis"_s)
+			$of(u"Nīderlandes guldenis"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("nok"_s),
-			$of(u"Norv\u0113\u0123ijas krona"_s)
+			$of(u"Norvēģijas krona"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("npr"_s),
-			$of(u"Nep\u0101las r\u016bpija"_s)
+			$of(u"Nepālas rūpija"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("nzd"_s),
-			$of(u"Jaunz\u0113landes dol\u0101rs"_s)
+			$of(u"Jaunzēlandes dolārs"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("omr"_s),
-			$of(u"Om\u0101nas ri\u0101ls"_s)
+			$of(u"Omānas riāls"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pab"_s),
@@ -1142,11 +1142,11 @@ $ObjectArray2* CurrencyNames_lv::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("php"_s),
-			$of(u"Filip\u012bnu peso"_s)
+			$of(u"Filipīnu peso"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pkr"_s),
-			$of(u"Pakist\u0101nas r\u016bpija"_s)
+			$of(u"Pakistānas rūpija"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pln"_s),
@@ -1154,7 +1154,7 @@ $ObjectArray2* CurrencyNames_lv::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("pte"_s),
-			$of(u"Portug\u0101les eskudo"_s)
+			$of(u"Portugāles eskudo"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pyg"_s),
@@ -1162,19 +1162,19 @@ $ObjectArray2* CurrencyNames_lv::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("qar"_s),
-			$of(u"Kataras ri\u0101ls"_s)
+			$of(u"Kataras riāls"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("rol"_s),
-			$of(u"Rum\u0101nijas vec\u0101 leja"_s)
+			$of(u"Rumānijas vecā leja"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ron"_s),
-			$of(u"Rum\u0101nijas leja"_s)
+			$of(u"Rumānijas leja"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("rsd"_s),
-			$of(u"Serbijas din\u0101rs"_s)
+			$of(u"Serbijas dinārs"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("rub"_s),
@@ -1186,19 +1186,19 @@ $ObjectArray2* CurrencyNames_lv::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("sar"_s),
-			$of(u"Sa\u016bda Ar\u0101bijas ri\u0101ls"_s)
+			$of(u"Saūda Arābijas riāls"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sbd"_s),
-			$of(u"Z\u0101lamana Salu dol\u0101rs"_s)
+			$of(u"Zālamana Salu dolārs"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("scr"_s),
-			$of(u"Sei\u0161elu salu r\u016bpija"_s)
+			$of(u"Seišelu salu rūpija"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sdg"_s),
-			$of(u"Sud\u0101nas m\u0101rci\u0146a"_s)
+			$of(u"Sudānas mārciņa"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sek"_s),
@@ -1206,15 +1206,15 @@ $ObjectArray2* CurrencyNames_lv::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("sgd"_s),
-			$of(u"Singap\u016bras dol\u0101rs"_s)
+			$of(u"Singapūras dolārs"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("shp"_s),
-			$of(u"Sv.Hel\u0113nas salas m\u0101rci\u0146a"_s)
+			$of(u"Sv.Helēnas salas mārciņa"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sit"_s),
-			$of(u"Slov\u0113nijas tolars"_s)
+			$of(u"Slovēnijas tolars"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("skk"_s),
@@ -1226,11 +1226,11 @@ $ObjectArray2* CurrencyNames_lv::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("sos"_s),
-			$of(u"Som\u0101lijas \u0161ili\u0146\u0161"_s)
+			$of(u"Somālijas šiliņš"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("srd"_s),
-			$of(u"Surinamas dol\u0101rs"_s)
+			$of(u"Surinamas dolārs"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("srg"_s),
@@ -1238,11 +1238,11 @@ $ObjectArray2* CurrencyNames_lv::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ssp"_s),
-			$of(u"Dienvidsud\u0101nas m\u0101rci\u0146a"_s)
+			$of(u"Dienvidsudānas mārciņa"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("std"_s),
-			$of(u"Santome un Prinsipi dobra (1977\u20132017)"_s)
+			$of(u"Santome un Prinsipi dobra (1977–2017)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("stn"_s),
@@ -1254,7 +1254,7 @@ $ObjectArray2* CurrencyNames_lv::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("syp"_s),
-			$of(u"S\u012brijas m\u0101rci\u0146a"_s)
+			$of(u"Sīrijas mārciņa"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("szl"_s),
@@ -1262,23 +1262,23 @@ $ObjectArray2* CurrencyNames_lv::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("thb"_s),
-			$of(u"Taizemes b\u0101ts"_s)
+			$of(u"Taizemes bāts"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("tjs"_s),
-			$of(u"Tad\u017eikist\u0101nas somons"_s)
+			$of(u"Tadžikistānas somons"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("tmm"_s),
-			$of(u"Turkmenist\u0101nas manats (1993\u20132009)"_s)
+			$of(u"Turkmenistānas manats (1993–2009)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("tmt"_s),
-			$of(u"Turkmenist\u0101nas manats"_s)
+			$of(u"Turkmenistānas manats"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("tnd"_s),
-			$of(u"Tunisijas din\u0101rs"_s)
+			$of(u"Tunisijas dinārs"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("top"_s),
@@ -1286,7 +1286,7 @@ $ObjectArray2* CurrencyNames_lv::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("trl"_s),
-			$of(u"Turcijas lira (1922\u20132005)"_s)
+			$of(u"Turcijas lira (1922–2005)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("try"_s),
@@ -1294,15 +1294,15 @@ $ObjectArray2* CurrencyNames_lv::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ttd"_s),
-			$of(u"Trinid\u0101das un Tob\u0101go dol\u0101rs"_s)
+			$of(u"Trinidādas un Tobāgo dolārs"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("twd"_s),
-			$of(u"Taiv\u0101nas jaunais dol\u0101rs"_s)
+			$of(u"Taivānas jaunais dolārs"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("tzs"_s),
-			$of(u"Tanz\u0101nijas \u0161ili\u0146\u0161"_s)
+			$of(u"Tanzānijas šiliņš"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("uah"_s),
@@ -1310,11 +1310,11 @@ $ObjectArray2* CurrencyNames_lv::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ugx"_s),
-			$of(u"Ugandas \u0161ili\u0146\u0161"_s)
+			$of(u"Ugandas šiliņš"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("usd"_s),
-			$of(u"ASV dol\u0101rs"_s)
+			$of(u"ASV dolārs"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("uyu"_s),
@@ -1322,19 +1322,19 @@ $ObjectArray2* CurrencyNames_lv::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("uzs"_s),
-			$of(u"Uzbekist\u0101nas sums"_s)
+			$of(u"Uzbekistānas sums"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("veb"_s),
-			$of(u"Venecu\u0113las boliv\u0101rs (1871\u20132008)"_s)
+			$of(u"Venecuēlas bolivārs (1871–2008)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("vef"_s),
-			$of(u"Venecu\u0113las boliv\u0101rs (2008\u20132018)"_s)
+			$of(u"Venecuēlas bolivārs (2008–2018)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ves"_s),
-			$of(u"Venecu\u0113las boliv\u0101rs"_s)
+			$of(u"Venecuēlas bolivārs"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("vnd"_s),
@@ -1350,7 +1350,7 @@ $ObjectArray2* CurrencyNames_lv::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("xaf"_s),
-			$of(u"Centr\u0101l\u0101frikas CFA franks"_s)
+			$of(u"Centrālāfrikas CFA franks"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xag"_s),
@@ -1362,31 +1362,31 @@ $ObjectArray2* CurrencyNames_lv::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("xba"_s),
-			$of(u"Eiropas nor\u0113\u0137inu vien\u012bba EURCO"_s)
+			$of(u"Eiropas norēķinu vienība EURCO"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xbb"_s),
-			$of(u"Eiropas naudas vien\u012bba"_s)
+			$of(u"Eiropas naudas vienība"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xbc"_s),
-			$of(u"Eiropas nor\u0113\u0137inu vien\u012bba (XBC)"_s)
+			$of(u"Eiropas norēķinu vienība (XBC)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xbd"_s),
-			$of(u"Eiropas nor\u0113\u0137inu vien\u012bba (XBD)"_s)
+			$of(u"Eiropas norēķinu vienība (XBD)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xcd"_s),
-			$of(u"Austrumkar\u012bbu dol\u0101rs"_s)
+			$of(u"Austrumkarību dolārs"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xdr"_s),
-			$of(u"Speci\u0101l\u0101s aiz\u0146\u0113muma ties\u012bbas"_s)
+			$of(u"Speciālās aizņēmuma tiesības"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xeu"_s),
-			$of(u"Eiropas nor\u0113\u0137inu vien\u012bba"_s)
+			$of(u"Eiropas norēķinu vienība"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xfo"_s),
@@ -1398,11 +1398,11 @@ $ObjectArray2* CurrencyNames_lv::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("xof"_s),
-			$of(u"Rietum\u0101frikas CFA franks"_s)
+			$of(u"Rietumāfrikas CFA franks"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xpd"_s),
-			$of(u"pall\u0101dijs"_s)
+			$of(u"pallādijs"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xpf"_s),
@@ -1410,39 +1410,39 @@ $ObjectArray2* CurrencyNames_lv::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("xpt"_s),
-			$of(u"plat\u012bns"_s)
+			$of(u"platīns"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xts"_s),
-			$of(u"Testa val\u016btas kods"_s)
+			$of(u"Testa valūtas kods"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xxx"_s),
-			$of(u"Nezin\u0101ma val\u016bta"_s)
+			$of(u"Nezināma valūta"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("yer"_s),
-			$of(u"Jemenas ri\u0101ls"_s)
+			$of(u"Jemenas riāls"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("zar"_s),
-			$of(u"Dienvid\u0101frikas rends"_s)
+			$of(u"Dienvidāfrikas rends"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("zmk"_s),
-			$of(u"Zambijas kva\u010da (1968\u20132012)"_s)
+			$of(u"Zambijas kvača (1968–2012)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("zmw"_s),
-			$of(u"Zambijas kva\u010da"_s)
+			$of(u"Zambijas kvača"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("zwd"_s),
-			$of(u"Zimbabves dol\u0101rs"_s)
+			$of(u"Zimbabves dolārs"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("zwl"_s),
-			$of(u"Zimbabves dol\u0101rs (2009)"_s)
+			$of(u"Zimbabves dolārs (2009)"_s)
 		})
 	}));
 	return data;

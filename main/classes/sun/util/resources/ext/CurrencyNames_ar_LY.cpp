@@ -39,7 +39,7 @@ void CurrencyNames_ar_LY::init$() {
 $ObjectArray2* CurrencyNames_ar_LY::getContents() {
 	return $new($ObjectArray2, {$$new($ObjectArray, {
 		$of("LYD"_s),
-		$of(u"\u062f.\u0644.\u200f"_s)
+		$of(u"د.ل.\u200f"_s)
 	})});
 }
 

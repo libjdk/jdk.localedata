@@ -39,13 +39,13 @@ void FormatData_th::init$() {
 $ObjectArray2* FormatData_th::getContents() {
 	$useLocalCurrentObjectStackCache();
 	$var($StringArray, timePatterns, $new($StringArray, {
-		u"H\' \u0e19\u0e32\u0e2c\u0e34\u0e01\u0e32 \'m\' \u0e19\u0e32\u0e17\u0e35 \'ss\' \u0e27\u0e34\u0e19\u0e32\u0e17\u0e35\'"_s,
-		u"H\' \u0e19\u0e32\u0e2c\u0e34\u0e01\u0e32 \'m\' \u0e19\u0e32\u0e17\u0e35\'"_s,
+		u"H\' นาฬิกา \'m\' นาที \'ss\' วินาที\'"_s,
+		u"H\' นาฬิกา \'m\' นาที\'"_s,
 		"H:mm:ss"_s,
-		u"H:mm\' \u0e19.\'"_s
+		u"H:mm\' น.\'"_s
 	}));
 	$var($StringArray, datePatterns, $new($StringArray, {
-		u"EEEE\'\u0e17\u0e35\u0e48 \'d MMMM G yyyy"_s,
+		u"EEEE\'ที่ \'d MMMM G yyyy"_s,
 		"d MMMM yyyy"_s,
 		"d MMM yyyy"_s,
 		"d/M/yyyy"_s
@@ -55,172 +55,172 @@ $ObjectArray2* FormatData_th::getContents() {
 		$$new($ObjectArray, {
 			$of("MonthNames"_s),
 			$of($$new($StringArray, {
-				u"\u0e21\u0e01\u0e23\u0e32\u0e04\u0e21"_s,
-				u"\u0e01\u0e38\u0e21\u0e20\u0e32\u0e1e\u0e31\u0e19\u0e18\u0e4c"_s,
-				u"\u0e21\u0e35\u0e19\u0e32\u0e04\u0e21"_s,
-				u"\u0e40\u0e21\u0e29\u0e32\u0e22\u0e19"_s,
-				u"\u0e1e\u0e24\u0e29\u0e20\u0e32\u0e04\u0e21"_s,
-				u"\u0e21\u0e34\u0e16\u0e38\u0e19\u0e32\u0e22\u0e19"_s,
-				u"\u0e01\u0e23\u0e01\u0e0e\u0e32\u0e04\u0e21"_s,
-				u"\u0e2a\u0e34\u0e07\u0e2b\u0e32\u0e04\u0e21"_s,
-				u"\u0e01\u0e31\u0e19\u0e22\u0e32\u0e22\u0e19"_s,
-				u"\u0e15\u0e38\u0e25\u0e32\u0e04\u0e21"_s,
-				u"\u0e1e\u0e24\u0e28\u0e08\u0e34\u0e01\u0e32\u0e22\u0e19"_s,
-				u"\u0e18\u0e31\u0e19\u0e27\u0e32\u0e04\u0e21"_s,
+				u"มกราคม"_s,
+				u"กุมภาพันธ์"_s,
+				u"มีนาคม"_s,
+				u"เมษายน"_s,
+				u"พฤษภาคม"_s,
+				u"มิถุนายน"_s,
+				u"กรกฎาคม"_s,
+				u"สิงหาคม"_s,
+				u"กันยายน"_s,
+				u"ตุลาคม"_s,
+				u"พฤศจิกายน"_s,
+				u"ธันวาคม"_s,
 				""_s
 			}))
 		}),
 		$$new($ObjectArray, {
 			$of("MonthAbbreviations"_s),
 			$of($$new($StringArray, {
-				u"\u0e21.\u0e04."_s,
-				u"\u0e01.\u0e1e."_s,
-				u"\u0e21\u0e35.\u0e04."_s,
-				u"\u0e40\u0e21.\u0e22."_s,
-				u"\u0e1e.\u0e04."_s,
-				u"\u0e21\u0e34.\u0e22."_s,
-				u"\u0e01.\u0e04."_s,
-				u"\u0e2a.\u0e04."_s,
-				u"\u0e01.\u0e22."_s,
-				u"\u0e15.\u0e04."_s,
-				u"\u0e1e.\u0e22."_s,
-				u"\u0e18.\u0e04."_s,
+				u"ม.ค."_s,
+				u"ก.พ."_s,
+				u"มี.ค."_s,
+				u"เม.ย."_s,
+				u"พ.ค."_s,
+				u"มิ.ย."_s,
+				u"ก.ค."_s,
+				u"ส.ค."_s,
+				u"ก.ย."_s,
+				u"ต.ค."_s,
+				u"พ.ย."_s,
+				u"ธ.ค."_s,
 				""_s
 			}))
 		}),
 		$$new($ObjectArray, {
 			$of("MonthNarrows"_s),
 			$of($$new($StringArray, {
-				u"\u0e21.\u0e04."_s,
-				u"\u0e01.\u0e1e."_s,
-				u"\u0e21\u0e35.\u0e04."_s,
-				u"\u0e40\u0e21.\u0e22."_s,
-				u"\u0e1e.\u0e04."_s,
-				u"\u0e21\u0e34.\u0e22"_s,
-				u"\u0e01.\u0e04."_s,
-				u"\u0e2a.\u0e04."_s,
-				u"\u0e01.\u0e22."_s,
-				u"\u0e15.\u0e04."_s,
-				u"\u0e1e.\u0e22."_s,
-				u"\u0e18.\u0e04."_s,
+				u"ม.ค."_s,
+				u"ก.พ."_s,
+				u"มี.ค."_s,
+				u"เม.ย."_s,
+				u"พ.ค."_s,
+				u"มิ.ย"_s,
+				u"ก.ค."_s,
+				u"ส.ค."_s,
+				u"ก.ย."_s,
+				u"ต.ค."_s,
+				u"พ.ย."_s,
+				u"ธ.ค."_s,
 				""_s
 			}))
 		}),
 		$$new($ObjectArray, {
 			$of("standalone.MonthNarrows"_s),
 			$of($$new($StringArray, {
-				u"\u0e21.\u0e04."_s,
-				u"\u0e01.\u0e1e."_s,
-				u"\u0e21\u0e35.\u0e04."_s,
-				u"\u0e40\u0e21.\u0e22."_s,
-				u"\u0e1e.\u0e04."_s,
-				u"\u0e21\u0e34.\u0e22."_s,
-				u"\u0e01.\u0e04."_s,
-				u"\u0e2a.\u0e04."_s,
-				u"\u0e01.\u0e22."_s,
-				u"\u0e15.\u0e04."_s,
-				u"\u0e1e.\u0e22."_s,
-				u"\u0e18.\u0e04."_s,
+				u"ม.ค."_s,
+				u"ก.พ."_s,
+				u"มี.ค."_s,
+				u"เม.ย."_s,
+				u"พ.ค."_s,
+				u"มิ.ย."_s,
+				u"ก.ค."_s,
+				u"ส.ค."_s,
+				u"ก.ย."_s,
+				u"ต.ค."_s,
+				u"พ.ย."_s,
+				u"ธ.ค."_s,
 				""_s
 			}))
 		}),
 		$$new($ObjectArray, {
 			$of("DayNames"_s),
 			$of($$new($StringArray, {
-				u"\u0e27\u0e31\u0e19\u0e2d\u0e32\u0e17\u0e34\u0e15\u0e22\u0e4c"_s,
-				u"\u0e27\u0e31\u0e19\u0e08\u0e31\u0e19\u0e17\u0e23\u0e4c"_s,
-				u"\u0e27\u0e31\u0e19\u0e2d\u0e31\u0e07\u0e04\u0e32\u0e23"_s,
-				u"\u0e27\u0e31\u0e19\u0e1e\u0e38\u0e18"_s,
-				u"\u0e27\u0e31\u0e19\u0e1e\u0e24\u0e2b\u0e31\u0e2a\u0e1a\u0e14\u0e35"_s,
-				u"\u0e27\u0e31\u0e19\u0e28\u0e38\u0e01\u0e23\u0e4c"_s,
-				u"\u0e27\u0e31\u0e19\u0e40\u0e2a\u0e32\u0e23\u0e4c"_s
+				u"วันอาทิตย์"_s,
+				u"วันจันทร์"_s,
+				u"วันอังคาร"_s,
+				u"วันพุธ"_s,
+				u"วันพฤหัสบดี"_s,
+				u"วันศุกร์"_s,
+				u"วันเสาร์"_s
 			}))
 		}),
 		$$new($ObjectArray, {
 			$of("DayAbbreviations"_s),
 			$of($$new($StringArray, {
-				u"\u0e2d\u0e32."_s,
-				u"\u0e08."_s,
-				u"\u0e2d."_s,
-				u"\u0e1e."_s,
-				u"\u0e1e\u0e24."_s,
-				u"\u0e28."_s,
-				u"\u0e2a."_s
+				u"อา."_s,
+				u"จ."_s,
+				u"อ."_s,
+				u"พ."_s,
+				u"พฤ."_s,
+				u"ศ."_s,
+				u"ส."_s
 			}))
 		}),
 		$$new($ObjectArray, {
 			$of("DayNarrows"_s),
 			$of($$new($StringArray, {
-				u"\u0e2d"_s,
-				u"\u0e08"_s,
-				u"\u0e2d"_s,
-				u"\u0e1e"_s,
-				u"\u0e1e"_s,
-				u"\u0e28"_s,
-				u"\u0e2a"_s
+				u"อ"_s,
+				u"จ"_s,
+				u"อ"_s,
+				u"พ"_s,
+				u"พ"_s,
+				u"ศ"_s,
+				u"ส"_s
 			}))
 		}),
 		$$new($ObjectArray, {
 			$of("AmPmMarkers"_s),
 			$of($$new($StringArray, {
-				u"\u0e01\u0e48\u0e2d\u0e19\u0e40\u0e17\u0e35\u0e48\u0e22\u0e07"_s,
-				u"\u0e2b\u0e25\u0e31\u0e07\u0e40\u0e17\u0e35\u0e48\u0e22\u0e07"_s
+				u"ก่อนเที่ยง"_s,
+				u"หลังเที่ยง"_s
 			}))
 		}),
 		$$new($ObjectArray, {
 			$of("buddhist.Eras"_s),
 			$of($$new($StringArray, {
-				u"\u0e1b\u0e35\u0e01\u0e48\u0e2d\u0e19\u0e04\u0e23\u0e34\u0e2a\u0e15\u0e4c\u0e01\u0e32\u0e25\u0e17\u0e35\u0e48"_s,
-				u"\u0e1e.\u0e28."_s
+				u"ปีก่อนคริสต์กาลที่"_s,
+				u"พ.ศ."_s
 			}))
 		}),
 		$$new($ObjectArray, {
 			$of("buddhist.short.Eras"_s),
 			$of($$new($StringArray, {
-				u"\u0e1b\u0e35\u0e01\u0e48\u0e2d\u0e19\u0e04\u0e23\u0e34\u0e2a\u0e15\u0e4c\u0e01\u0e32\u0e25\u0e17\u0e35\u0e48"_s,
-				u"\u0e1e.\u0e28."_s
+				u"ปีก่อนคริสต์กาลที่"_s,
+				u"พ.ศ."_s
 			}))
 		}),
 		$$new($ObjectArray, {
 			$of("Eras"_s),
 			$of($$new($StringArray, {
-				u"\u0e1b\u0e35\u0e01\u0e48\u0e2d\u0e19\u0e04\u0e23\u0e34\u0e2a\u0e15\u0e4c\u0e01\u0e32\u0e25\u0e17\u0e35\u0e48"_s,
-				u"\u0e04.\u0e28."_s
+				u"ปีก่อนคริสต์กาลที่"_s,
+				u"ค.ศ."_s
 			}))
 		}),
 		$$new($ObjectArray, {
 			$of("short.Eras"_s),
 			$of($$new($StringArray, {
-				u"\u0e01\u0e48\u0e2d\u0e19 \u0e04.\u0e28."_s,
-				u"\u0e04.\u0e28."_s
+				u"ก่อน ค.ศ."_s,
+				u"ค.ศ."_s
 			}))
 		}),
 		$$new($ObjectArray, {
 			$of("narrow.Eras"_s),
 			$of($$new($StringArray, {
-				u"\u0e01\u0e48\u0e2d\u0e19 \u0e04.\u0e28."_s,
-				u"\u0e04.\u0e28."_s
+				u"ก่อน ค.ศ."_s,
+				u"ค.ศ."_s
 			}))
 		}),
 		$$new($ObjectArray, {
 			$of("japanese.Eras"_s),
 			$of($$new($StringArray, {
-				u"\u0e04.\u0e28."_s,
-				u"\u0e40\u0e21\u0e08\u0e34"_s,
-				u"\u0e17\u0e30\u0e2d\u0e34\u0e42\u0e0a"_s,
-				u"\u0e42\u0e0a\u0e27\u0e30"_s,
-				u"\u0e40\u0e2e\u0e40\u0e0b"_s,
-				u"\u0e40\u0e23\u0e27\u0e30"_s
+				u"ค.ศ."_s,
+				u"เมจิ"_s,
+				u"ทะอิโช"_s,
+				u"โชวะ"_s,
+				u"เฮเซ"_s,
+				u"เรวะ"_s
 			}))
 		}),
 		$$new($ObjectArray, {
 			$of("japanese.short.Eras"_s),
 			$of($$new($StringArray, {
-				u"\u0e04.\u0e28."_s,
-				u"\u0e21"_s,
-				u"\u0e17"_s,
-				u"\u0e0a"_s,
-				u"\u0e2e"_s,
+				u"ค.ศ."_s,
+				u"ม"_s,
+				u"ท"_s,
+				u"ช"_s,
+				u"ฮ"_s,
 				"R"_s
 			}))
 		}),

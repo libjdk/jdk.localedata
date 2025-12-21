@@ -42,7 +42,7 @@ $ObjectArray2* FormatData_lt_LT::getContents() {
 		$of("NumberPatterns"_s),
 		$of($$new($StringArray, {
 			"##,##0.##;-##,##0.##"_s,
-			u"#,##0.## \u00a4;-#,##0.## \u00a4"_s,
+			u"#,##0.## ¤;-#,##0.## ¤"_s,
 			"#,##%"_s
 		}))
 	})});

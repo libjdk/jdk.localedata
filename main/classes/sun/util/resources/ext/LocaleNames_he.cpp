@@ -41,11 +41,11 @@ $ObjectArray2* LocaleNames_he::getContents() {
 	return $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("IL"_s),
-			$of(u"\u05d9\u05e9\u05e8\u05d0\u05dc"_s)
+			$of(u"ישראל"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("iw"_s),
-			$of(u"\u05e2\u05d1\u05e8\u05d9\u05ea"_s)
+			$of(u"עברית"_s)
 		})
 	});
 }

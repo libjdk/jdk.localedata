@@ -39,7 +39,7 @@ void CurrencyNames_ar_EG::init$() {
 $ObjectArray2* CurrencyNames_ar_EG::getContents() {
 	return $new($ObjectArray2, {$$new($ObjectArray, {
 		$of("EGP"_s),
-		$of(u"\u062c.\u0645.\u200f"_s)
+		$of(u"ج.م.\u200f"_s)
 	})});
 }
 

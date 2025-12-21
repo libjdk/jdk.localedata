@@ -45,8 +45,8 @@ $ObjectArray2* FormatData_fi::getContents() {
 		"maaliskuuta"_s,
 		"huhtikuuta"_s,
 		"toukokuuta"_s,
-		u"kes\u00e4kuuta"_s,
-		u"hein\u00e4kuuta"_s,
+		u"kesäkuuta"_s,
+		u"heinäkuuta"_s,
 		"elokuuta"_s,
 		"syyskuuta"_s,
 		"lokakuuta"_s,
@@ -60,8 +60,8 @@ $ObjectArray2* FormatData_fi::getContents() {
 		"maalisk."_s,
 		"huhtik."_s,
 		"toukok."_s,
-		u"kes\u00e4k."_s,
-		u"hein\u00e4k."_s,
+		u"kesäk."_s,
+		u"heinäk."_s,
 		"elok."_s,
 		"syysk."_s,
 		"lokak."_s,
@@ -112,10 +112,10 @@ $ObjectArray2* FormatData_fi::getContents() {
 		"L"_s
 	}));
 	$var($StringArray, metaValue_QuarterNames, $new($StringArray, {
-		u"1. nelj\u00e4nnes"_s,
-		u"2. nelj\u00e4nnes"_s,
-		u"3. nelj\u00e4nnes"_s,
-		u"4. nelj\u00e4nnes"_s
+		u"1. neljännes"_s,
+		u"2. neljännes"_s,
+		u"3. neljännes"_s,
+		u"4. neljännes"_s
 	}));
 	$var($StringArray, metaValue_QuarterAbbreviations, $new($StringArray, {
 		"1. nelj."_s,
@@ -126,15 +126,15 @@ $ObjectArray2* FormatData_fi::getContents() {
 	$var($StringArray, metaValue_AmPmMarkers, $new($StringArray, {
 		"ap."_s,
 		"ip."_s,
-		u"keskiy\u00f6ll\u00e4"_s,
-		u"keskip\u00e4iv\u00e4ll\u00e4"_s,
+		u"keskiyöllä"_s,
+		u"keskipäivällä"_s,
 		"aamulla"_s,
-		u"aamup\u00e4iv\u00e4ll\u00e4"_s,
-		u"iltap\u00e4iv\u00e4ll\u00e4"_s,
+		u"aamupäivällä"_s,
+		u"iltapäivällä"_s,
 		""_s,
 		"illalla"_s,
 		""_s,
-		u"y\u00f6ll\u00e4"_s,
+		u"yöllä"_s,
 		""_s
 	}));
 	$var($StringArray, metaValue_narrow_AmPmMarkers, $new($StringArray, {
@@ -148,13 +148,13 @@ $ObjectArray2* FormatData_fi::getContents() {
 		""_s,
 		"illalla"_s,
 		""_s,
-		u"y\u00f6ll\u00e4"_s,
+		u"yöllä"_s,
 		""_s
 	}));
 	$var($StringArray, metaValue_abbreviated_AmPmMarkers, $new($StringArray, {
 		"ap."_s,
 		"ip."_s,
-		u"keskiy\u00f6ll\u00e4"_s,
+		u"keskiyöllä"_s,
 		"keskip."_s,
 		"aamulla"_s,
 		"aamup."_s,
@@ -162,7 +162,7 @@ $ObjectArray2* FormatData_fi::getContents() {
 		""_s,
 		"illalla"_s,
 		""_s,
-		u"y\u00f6ll\u00e4"_s,
+		u"yöllä"_s,
 		""_s
 	}));
 	$var($StringArray, metaValue_TimePatterns, $new($StringArray, {
@@ -209,7 +209,7 @@ $ObjectArray2* FormatData_fi::getContents() {
 	}));
 	$var($StringArray, metaValue_java_time_islamic_long_Eras, $new($StringArray, {
 		""_s,
-		u"hid\u017eran j\u00e4lkeen"_s
+		u"hidžran jälkeen"_s
 	}));
 	$var($String, metaValue_calendarname_gregorian, "gregoriaaninen kalenteri"_s);
 	$var($ObjectArray2, data, $new($ObjectArray2, {
@@ -311,8 +311,8 @@ $ObjectArray2* FormatData_fi::getContents() {
 		$$new($ObjectArray, {
 			$of("long.Eras"_s),
 			$of($$new($StringArray, {
-				u"ennen Kristuksen syntym\u00e4\u00e4"_s,
-				u"j\u00e4lkeen Kristuksen syntym\u00e4n"_s
+				u"ennen Kristuksen syntymää"_s,
+				u"jälkeen Kristuksen syntymän"_s
 			}))
 		}),
 		$$new($ObjectArray, {
@@ -343,16 +343,16 @@ $ObjectArray2* FormatData_fi::getContents() {
 			$of("latn.NumberElements"_s),
 			$of($$new($StringArray, {
 				","_s,
-				u"\u00a0"_s,
+				u" "_s,
 				";"_s,
 				"%"_s,
 				"0"_s,
 				"#"_s,
-				u"\u2212"_s,
+				u"−"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
-				u"ep\u00e4luku"_s,
+				u"‰"_s,
+				u"∞"_s,
+				u"epäluku"_s,
 				""_s,
 				""_s
 			}))
@@ -394,16 +394,16 @@ $ObjectArray2* FormatData_fi::getContents() {
 			$of($$new($StringArray, {
 				"muharram"_s,
 				"safar"_s,
-				u"rabi\u2019 al-awwal"_s,
-				u"rabi\u2019 al-akhir"_s,
-				u"d\u017eumada-l-ula"_s,
-				u"d\u017eumada-l-akhira"_s,
-				u"rad\u017eab"_s,
-				u"\u0161a\u2019ban"_s,
+				u"rabi’ al-awwal"_s,
+				u"rabi’ al-akhir"_s,
+				u"džumada-l-ula"_s,
+				u"džumada-l-akhira"_s,
+				u"radžab"_s,
+				u"ša’ban"_s,
 				"ramadan"_s,
-				u"\u0161awwal"_s,
-				u"dhu-l-qa\u2019da"_s,
-				u"dhu-l-hidd\u017ea"_s,
+				u"šawwal"_s,
+				u"dhu-l-qa’da"_s,
+				u"dhu-l-hiddža"_s,
 				""_s
 			}))
 		}),
@@ -479,8 +479,8 @@ $ObjectArray2* FormatData_fi::getContents() {
 				"maalis"_s,
 				"huhti"_s,
 				"touko"_s,
-				u"kes\u00e4"_s,
-				u"hein\u00e4"_s,
+				u"kesä"_s,
+				u"heinä"_s,
 				"elo"_s,
 				"syys"_s,
 				"loka"_s,
@@ -491,7 +491,7 @@ $ObjectArray2* FormatData_fi::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.regionFormat"_s),
-			$of(u"aikavy\u00f6hyke: {0}"_s)
+			$of(u"aikavyöhyke: {0}"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("long.CompactNumberPatterns"_s),
@@ -567,7 +567,7 @@ $ObjectArray2* FormatData_fi::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.zone"_s),
-			$of(u"aikavy\u00f6hyke"_s)
+			$of(u"aikavyöhyke"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("japanese.QuarterAbbreviations"_s),
@@ -610,7 +610,7 @@ $ObjectArray2* FormatData_fi::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.weekday"_s),
-			$of(u"viikonp\u00e4iv\u00e4"_s)
+			$of(u"viikonpäivä"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("java.time.DatePatterns"_s),
@@ -707,18 +707,18 @@ $ObjectArray2* FormatData_fi::getContents() {
 				""_s,
 				""_s,
 				""_s,
-				u"{one:0\u00a0t\'.\' other:0\u00a0t\'.\'}"_s,
-				u"{one:00\u00a0t\'.\' other:00\u00a0t\'.\'}"_s,
-				u"{one:000\u00a0t\'.\' other:000\u00a0t\'.\'}"_s,
-				u"{one:0\u00a0milj\'.\' other:0\u00a0milj\'.\'}"_s,
-				u"{one:00\u00a0milj\'.\' other:00\u00a0milj\'.\'}"_s,
-				u"{one:000\u00a0milj\'.\' other:000\u00a0milj\'.\'}"_s,
-				u"{one:0\u00a0mrd\'.\' other:0\u00a0mrd\'.\'}"_s,
-				u"{one:00\u00a0mrd\'.\' other:00\u00a0mrd\'.\'}"_s,
-				u"{one:000\u00a0mrd\'.\' other:000\u00a0mrd\'.\'}"_s,
-				u"{one:0\u00a0bilj\'.\' other:0\u00a0bilj\'.\'}"_s,
-				u"{one:00\u00a0bilj\'.\' other:00\u00a0bilj\'.\'}"_s,
-				u"{one:000\u00a0bilj\'.\' other:000\u00a0bilj\'.\'}"_s
+				u"{one:0 t\'.\' other:0 t\'.\'}"_s,
+				u"{one:00 t\'.\' other:00 t\'.\'}"_s,
+				u"{one:000 t\'.\' other:000 t\'.\'}"_s,
+				u"{one:0 milj\'.\' other:0 milj\'.\'}"_s,
+				u"{one:00 milj\'.\' other:00 milj\'.\'}"_s,
+				u"{one:000 milj\'.\' other:000 milj\'.\'}"_s,
+				u"{one:0 mrd\'.\' other:0 mrd\'.\'}"_s,
+				u"{one:00 mrd\'.\' other:00 mrd\'.\'}"_s,
+				u"{one:000 mrd\'.\' other:000 mrd\'.\'}"_s,
+				u"{one:0 bilj\'.\' other:0 bilj\'.\'}"_s,
+				u"{one:00 bilj\'.\' other:00 bilj\'.\'}"_s,
+				u"{one:000 bilj\'.\' other:000 bilj\'.\'}"_s
 			}))
 		}),
 		$$new($ObjectArray, {
@@ -727,7 +727,7 @@ $ObjectArray2* FormatData_fi::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.regionFormat.daylight"_s),
-			$of(u"{0} (kes\u00e4aika)"_s)
+			$of(u"{0} (kesäaika)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("DatePatterns"_s),
@@ -782,8 +782,8 @@ $ObjectArray2* FormatData_fi::getContents() {
 				"maaliskuu"_s,
 				"huhtikuu"_s,
 				"toukokuu"_s,
-				u"kes\u00e4kuu"_s,
-				u"hein\u00e4kuu"_s,
+				u"kesäkuu"_s,
+				u"heinäkuu"_s,
 				"elokuu"_s,
 				"syyskuu"_s,
 				"lokakuu"_s,
@@ -796,9 +796,9 @@ $ObjectArray2* FormatData_fi::getContents() {
 			$of("latn.NumberPatterns"_s),
 			$of($$new($StringArray, {
 				"#,##0.###"_s,
-				u"#,##0.00\u00a0\u00a4"_s,
-				u"#,##0\u00a0%"_s,
-				u"#,##0.00\u00a0\u00a4"_s
+				u"#,##0.00 ¤"_s,
+				u"#,##0 %"_s,
+				u"#,##0.00 ¤"_s
 			}))
 		}),
 		$$new($ObjectArray, {

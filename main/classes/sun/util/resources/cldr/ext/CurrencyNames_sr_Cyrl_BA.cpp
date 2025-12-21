@@ -42,15 +42,15 @@ $ObjectArray2* CurrencyNames_sr_Cyrl_BA::getContents() {
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("bam"_s),
-			$of(u"\u0411\u043e\u0441\u0430\u043d\u0441\u043a\u043e\u0445\u0435\u0440\u0446\u0435\u0433\u043e\u0432\u0430\u0447\u043a\u0430 \u043a\u043e\u043d\u0432\u0435\u0440\u0442\u0438\u0431\u0438\u043b\u043d\u0430 \u043c\u0430\u0440\u043a\u0430"_s)
+			$of(u"Босанскохерцеговачка конвертибилна марка"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("byn"_s),
-			$of(u"\u0411\u0458\u0435\u043b\u043e\u0440\u0443\u0441\u043a\u0430 \u0440\u0443\u0431\u0459\u0430"_s)
+			$of(u"Бјелоруска рубља"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kpw"_s),
-			$of(u"\u0421\u0458\u0435\u0432\u0435\u0440\u043d\u043e\u043a\u043e\u0440\u0435\u0458\u0441\u043a\u0438 \u0432\u043e\u043d"_s)
+			$of(u"Сјевернокорејски вон"_s)
 		})
 	}));
 	return data;

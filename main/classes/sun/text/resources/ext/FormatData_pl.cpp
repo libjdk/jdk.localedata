@@ -50,8 +50,8 @@ $ObjectArray2* FormatData_pl::getContents() {
 				"czerwca"_s,
 				"lipca"_s,
 				"sierpnia"_s,
-				u"wrze\u015bnia"_s,
-				u"pa\u017adziernika"_s,
+				u"września"_s,
+				u"października"_s,
 				"listopada"_s,
 				"grudnia"_s,
 				""_s
@@ -60,18 +60,18 @@ $ObjectArray2* FormatData_pl::getContents() {
 		$$new($ObjectArray, {
 			$of("standalone.MonthNames"_s),
 			$of($$new($StringArray, {
-				u"stycze\u0144"_s,
+				u"styczeń"_s,
 				"luty"_s,
 				"marzec"_s,
-				u"kwiecie\u0144"_s,
+				u"kwiecień"_s,
 				"maj"_s,
 				"czerwiec"_s,
 				"lipiec"_s,
-				u"sierpie\u0144"_s,
-				u"wrzesie\u0144"_s,
-				u"pa\u017adziernik"_s,
+				u"sierpień"_s,
+				u"wrzesień"_s,
+				u"październik"_s,
 				"listopad"_s,
-				u"grudzie\u0144"_s,
+				u"grudzień"_s,
 				""_s
 			}))
 		}),
@@ -87,7 +87,7 @@ $ObjectArray2* FormatData_pl::getContents() {
 				"lip"_s,
 				"sie"_s,
 				"wrz"_s,
-				u"pa\u017a"_s,
+				u"paź"_s,
 				"lis"_s,
 				"gru"_s,
 				""_s
@@ -105,7 +105,7 @@ $ObjectArray2* FormatData_pl::getContents() {
 				"lip"_s,
 				"sie"_s,
 				"wrz"_s,
-				u"pa\u017a"_s,
+				u"paź"_s,
 				"lis"_s,
 				"gru"_s,
 				""_s
@@ -151,11 +151,11 @@ $ObjectArray2* FormatData_pl::getContents() {
 			$of("DayNames"_s),
 			$of($$new($StringArray, {
 				"niedziela"_s,
-				u"poniedzia\u0142ek"_s,
+				u"poniedziałek"_s,
 				"wtorek"_s,
-				u"\u015broda"_s,
+				u"środa"_s,
 				"czwartek"_s,
-				u"pi\u0105tek"_s,
+				u"piątek"_s,
 				"sobota"_s
 			}))
 		}),
@@ -163,11 +163,11 @@ $ObjectArray2* FormatData_pl::getContents() {
 			$of("standalone.DayNames"_s),
 			$of($$new($StringArray, {
 				"niedziela"_s,
-				u"poniedzia\u0142ek"_s,
+				u"poniedziałek"_s,
 				"wtorek"_s,
-				u"\u015broda"_s,
+				u"środa"_s,
 				"czwartek"_s,
-				u"pi\u0105tek"_s,
+				u"piątek"_s,
 				"sobota"_s
 			}))
 		}),
@@ -177,7 +177,7 @@ $ObjectArray2* FormatData_pl::getContents() {
 				"N"_s,
 				"Pn"_s,
 				"Wt"_s,
-				u"\u015ar"_s,
+				u"Śr"_s,
 				"Cz"_s,
 				"Pt"_s,
 				"So"_s
@@ -189,7 +189,7 @@ $ObjectArray2* FormatData_pl::getContents() {
 				"niedz."_s,
 				"pon."_s,
 				"wt."_s,
-				u"\u015br."_s,
+				u"śr."_s,
 				"czw."_s,
 				"pt."_s,
 				"sob."_s
@@ -201,7 +201,7 @@ $ObjectArray2* FormatData_pl::getContents() {
 				"N"_s,
 				"P"_s,
 				"W"_s,
-				u"\u015a"_s,
+				u"Ś"_s,
 				"C"_s,
 				"P"_s,
 				"S"_s
@@ -213,7 +213,7 @@ $ObjectArray2* FormatData_pl::getContents() {
 				"N"_s,
 				"P"_s,
 				"W"_s,
-				u"\u015a"_s,
+				u"Ś"_s,
 				"C"_s,
 				"P"_s,
 				"S"_s
@@ -230,16 +230,16 @@ $ObjectArray2* FormatData_pl::getContents() {
 			$of("NumberElements"_s),
 			$of($$new($StringArray, {
 				","_s,
-				u"\u00a0"_s,
+				u" "_s,
 				";"_s,
 				"%"_s,
 				"0"_s,
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
-				u"\ufffd"_s
+				u"‰"_s,
+				u"∞"_s,
+				u"�"_s
 			}))
 		}),
 		$$new($ObjectArray, {

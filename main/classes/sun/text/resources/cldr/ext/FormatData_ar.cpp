@@ -40,110 +40,110 @@ void FormatData_ar::init$() {
 $ObjectArray2* FormatData_ar::getContents() {
 	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_MonthNames, $new($StringArray, {
-		u"\u064a\u0646\u0627\u064a\u0631"_s,
-		u"\u0641\u0628\u0631\u0627\u064a\u0631"_s,
-		u"\u0645\u0627\u0631\u0633"_s,
-		u"\u0623\u0628\u0631\u064a\u0644"_s,
-		u"\u0645\u0627\u064a\u0648"_s,
-		u"\u064a\u0648\u0646\u064a\u0648"_s,
-		u"\u064a\u0648\u0644\u064a\u0648"_s,
-		u"\u0623\u063a\u0633\u0637\u0633"_s,
-		u"\u0633\u0628\u062a\u0645\u0628\u0631"_s,
-		u"\u0623\u0643\u062a\u0648\u0628\u0631"_s,
-		u"\u0646\u0648\u0641\u0645\u0628\u0631"_s,
-		u"\u062f\u064a\u0633\u0645\u0628\u0631"_s,
+		u"يناير"_s,
+		u"فبراير"_s,
+		u"مارس"_s,
+		u"أبريل"_s,
+		u"مايو"_s,
+		u"يونيو"_s,
+		u"يوليو"_s,
+		u"أغسطس"_s,
+		u"سبتمبر"_s,
+		u"أكتوبر"_s,
+		u"نوفمبر"_s,
+		u"ديسمبر"_s,
 		""_s
 	}));
 	$var($StringArray, metaValue_MonthNarrows, $new($StringArray, {
-		u"\u064a"_s,
-		u"\u0641"_s,
-		u"\u0645"_s,
-		u"\u0623"_s,
-		u"\u0648"_s,
-		u"\u0646"_s,
-		u"\u0644"_s,
-		u"\u063a"_s,
-		u"\u0633"_s,
-		u"\u0643"_s,
-		u"\u0628"_s,
-		u"\u062f"_s,
+		u"ي"_s,
+		u"ف"_s,
+		u"م"_s,
+		u"أ"_s,
+		u"و"_s,
+		u"ن"_s,
+		u"ل"_s,
+		u"غ"_s,
+		u"س"_s,
+		u"ك"_s,
+		u"ب"_s,
+		u"د"_s,
 		""_s
 	}));
 	$var($StringArray, metaValue_DayNames, $new($StringArray, {
-		u"\u0627\u0644\u0623\u062d\u062f"_s,
-		u"\u0627\u0644\u0627\u062b\u0646\u064a\u0646"_s,
-		u"\u0627\u0644\u062b\u0644\u0627\u062b\u0627\u0621"_s,
-		u"\u0627\u0644\u0623\u0631\u0628\u0639\u0627\u0621"_s,
-		u"\u0627\u0644\u062e\u0645\u064a\u0633"_s,
-		u"\u0627\u0644\u062c\u0645\u0639\u0629"_s,
-		u"\u0627\u0644\u0633\u0628\u062a"_s
+		u"الأحد"_s,
+		u"الاثنين"_s,
+		u"الثلاثاء"_s,
+		u"الأربعاء"_s,
+		u"الخميس"_s,
+		u"الجمعة"_s,
+		u"السبت"_s
 	}));
 	$var($StringArray, metaValue_DayNarrows, $new($StringArray, {
-		u"\u062d"_s,
-		u"\u0646"_s,
-		u"\u062b"_s,
-		u"\u0631"_s,
-		u"\u062e"_s,
-		u"\u062c"_s,
-		u"\u0633"_s
+		u"ح"_s,
+		u"ن"_s,
+		u"ث"_s,
+		u"ر"_s,
+		u"خ"_s,
+		u"ج"_s,
+		u"س"_s
 	}));
 	$var($StringArray, metaValue_QuarterNames, $new($StringArray, {
-		u"\u0627\u0644\u0631\u0628\u0639 \u0627\u0644\u0623\u0648\u0644"_s,
-		u"\u0627\u0644\u0631\u0628\u0639 \u0627\u0644\u062b\u0627\u0646\u064a"_s,
-		u"\u0627\u0644\u0631\u0628\u0639 \u0627\u0644\u062b\u0627\u0644\u062b"_s,
-		u"\u0627\u0644\u0631\u0628\u0639 \u0627\u0644\u0631\u0627\u0628\u0639"_s
+		u"الربع الأول"_s,
+		u"الربع الثاني"_s,
+		u"الربع الثالث"_s,
+		u"الربع الرابع"_s
 	}));
 	$var($StringArray, metaValue_QuarterNarrows, $new($StringArray, {
-		u"\u0661"_s,
-		u"\u0662"_s,
-		u"\u0663"_s,
-		u"\u0664"_s
+		u"١"_s,
+		u"٢"_s,
+		u"٣"_s,
+		u"٤"_s
 	}));
 	$var($StringArray, metaValue_AmPmMarkers, $new($StringArray, {
-		u"\u0635"_s,
-		u"\u0645"_s,
+		u"ص"_s,
+		u"م"_s,
 		""_s,
 		""_s,
-		u"\u0641\u064a \u0627\u0644\u0635\u0628\u0627\u062d"_s,
-		u"\u0635\u0628\u0627\u062d\u064b\u0627"_s,
-		u"\u0638\u0647\u0631\u064b\u0627"_s,
-		u"\u0628\u0639\u062f \u0627\u0644\u0638\u0647\u0631"_s,
-		u"\u0645\u0633\u0627\u0621\u064b"_s,
+		u"في الصباح"_s,
+		u"صباحًا"_s,
+		u"ظهرًا"_s,
+		u"بعد الظهر"_s,
+		u"مساءً"_s,
 		""_s,
-		u"\u0641\u064a \u0627\u0644\u0645\u0633\u0627\u0621"_s,
-		u"\u0644\u064a\u0644\u0627\u064b"_s
+		u"في المساء"_s,
+		u"ليلاً"_s
 	}));
 	$var($StringArray, metaValue_narrow_AmPmMarkers, $new($StringArray, {
-		u"\u0635"_s,
-		u"\u0645"_s,
+		u"ص"_s,
+		u"م"_s,
 		""_s,
 		""_s,
-		u"\u0641\u062c\u0631\u064b\u0627"_s,
-		u"\u0635\u0628\u0627\u062d\u064b\u0627"_s,
-		u"\u0638\u0647\u0631\u064b\u0627"_s,
-		u"\u0628\u0639\u062f \u0627\u0644\u0638\u0647\u0631"_s,
-		u"\u0645\u0633\u0627\u0621\u064b"_s,
+		u"فجرًا"_s,
+		u"صباحًا"_s,
+		u"ظهرًا"_s,
+		u"بعد الظهر"_s,
+		u"مساءً"_s,
 		""_s,
-		u"\u0645\u0646\u062a\u0635\u0641 \u0627\u0644\u0644\u064a\u0644"_s,
-		u"\u0644\u064a\u0644\u0627\u064b"_s
+		u"منتصف الليل"_s,
+		u"ليلاً"_s
 	}));
 	$var($StringArray, metaValue_abbreviated_AmPmMarkers, $new($StringArray, {
-		u"\u0635"_s,
-		u"\u0645"_s,
+		u"ص"_s,
+		u"م"_s,
 		""_s,
 		""_s,
-		u"\u0641\u062c\u0631\u064b\u0627"_s,
-		u"\u0635"_s,
-		u"\u0638\u0647\u0631\u064b\u0627"_s,
-		u"\u0628\u0639\u062f \u0627\u0644\u0638\u0647\u0631"_s,
-		u"\u0645\u0633\u0627\u0621\u064b"_s,
+		u"فجرًا"_s,
+		u"ص"_s,
+		u"ظهرًا"_s,
+		u"بعد الظهر"_s,
+		u"مساءً"_s,
 		""_s,
-		u"\u0641\u064a \u0627\u0644\u0645\u0633\u0627\u0621"_s,
-		u"\u0644\u064a\u0644\u0627\u064b"_s
+		u"في المساء"_s,
+		u"ليلاً"_s
 	}));
 	$var($StringArray, metaValue_Eras, $new($StringArray, {
-		u"\u0642.\u0645"_s,
-		u"\u0645"_s
+		u"ق.م"_s,
+		u"م"_s
 	}));
 	$var($StringArray, metaValue_TimePatterns, $new($StringArray, {
 		"h:mm:ss a zzzz"_s,
@@ -153,64 +153,64 @@ $ObjectArray2* FormatData_ar::getContents() {
 	}));
 	$var($StringArray, metaValue_java_time_buddhist_long_Eras, $new($StringArray, {
 		"BC"_s,
-		u"\u0627\u0644\u062a\u0642\u0648\u064a\u0645 \u0627\u0644\u0628\u0648\u0630\u064a"_s
+		u"التقويم البوذي"_s
 	}));
 	$var($StringArray, metaValue_java_time_buddhist_Eras, $new($StringArray, {
 		"BC"_s,
 		"BE"_s
 	}));
 	$var($StringArray, metaValue_java_time_buddhist_DatePatterns, $new($StringArray, {
-		u"EEEE\u060c d MMMM y G"_s,
+		u"EEEE، d MMMM y G"_s,
 		"d MMMM y G"_s,
 		u"dd\u200f/MM\u200f/y G"_s,
 		u"d\u200f/M\u200f/y GGGGG"_s
 	}));
 	$var($StringArray, metaValue_buddhist_DatePatterns, $new($StringArray, {
-		u"EEEE\u060c d MMMM y GGGG"_s,
+		u"EEEE، d MMMM y GGGG"_s,
 		"d MMMM y GGGG"_s,
 		u"dd\u200f/MM\u200f/y GGGG"_s,
 		u"d\u200f/M\u200f/y G"_s
 	}));
 	$var($StringArray, metaValue_java_time_japanese_long_Eras, $new($StringArray, {
-		u"\u0645\u064a\u0644\u0627\u062f\u064a"_s,
-		u"\u0645\u064a\u062c\u064a"_s,
-		u"\u062a\u064a\u0634\u0648"_s,
-		u"\u0634\u0648\u0648\u0627"_s,
-		u"\u0647\u064a\u0633\u064a"_s,
-		u"\u0631\u064a\u0648\u0627"_s
+		u"ميلادي"_s,
+		u"ميجي"_s,
+		u"تيشو"_s,
+		u"شووا"_s,
+		u"هيسي"_s,
+		u"ريوا"_s
 	}));
 	$var($StringArray, metaValue_java_time_japanese_Eras, $new($StringArray, {
-		u"\u0645"_s,
-		u"\u0645\u064a\u062c\u064a"_s,
-		u"\u062a\u064a\u0634\u0648"_s,
-		u"\u0634\u0648\u0648\u0627"_s,
-		u"\u0647\u064a\u0633\u064a"_s,
-		u"\u0631\u064a\u0648\u0627"_s
+		u"م"_s,
+		u"ميجي"_s,
+		u"تيشو"_s,
+		u"شووا"_s,
+		u"هيسي"_s,
+		u"ريوا"_s
 	}));
 	$var($StringArray, metaValue_java_time_roc_long_Eras, $new($StringArray, {
 		"Before R.O.C."_s,
-		u"\u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0627\u0644\u0635\u064a"_s
+		u"جمهورية الصي"_s
 	}));
 	$var($StringArray, metaValue_islamic_MonthNames, $new($StringArray, {
-		u"\u0645\u062d\u0631\u0645"_s,
-		u"\u0635\u0641\u0631"_s,
-		u"\u0631\u0628\u064a\u0639 \u0627\u0644\u0623\u0648\u0644"_s,
-		u"\u0631\u0628\u064a\u0639 \u0627\u0644\u0622\u062e\u0631"_s,
-		u"\u062c\u0645\u0627\u062f\u0649 \u0627\u0644\u0623\u0648\u0644\u0649"_s,
-		u"\u062c\u0645\u0627\u062f\u0649 \u0627\u0644\u0622\u062e\u0631\u0629"_s,
-		u"\u0631\u062c\u0628"_s,
-		u"\u0634\u0639\u0628\u0627\u0646"_s,
-		u"\u0631\u0645\u0636\u0627\u0646"_s,
-		u"\u0634\u0648\u0627\u0644"_s,
-		u"\u0630\u0648 \u0627\u0644\u0642\u0639\u062f\u0629"_s,
-		u"\u0630\u0648 \u0627\u0644\u062d\u062c\u0629"_s,
+		u"محرم"_s,
+		u"صفر"_s,
+		u"ربيع الأول"_s,
+		u"ربيع الآخر"_s,
+		u"جمادى الأولى"_s,
+		u"جمادى الآخرة"_s,
+		u"رجب"_s,
+		u"شعبان"_s,
+		u"رمضان"_s,
+		u"شوال"_s,
+		u"ذو القعدة"_s,
+		u"ذو الحجة"_s,
 		""_s
 	}));
 	$var($StringArray, metaValue_java_time_islamic_long_Eras, $new($StringArray, {
 		""_s,
-		u"\u0647\u0640"_s
+		u"هـ"_s
 	}));
-	$var($String, metaValue_calendarname_gregorian, u"\u0627\u0644\u062a\u0642\u0648\u064a\u0645 \u0627\u0644\u0645\u064a\u0644\u0627\u062f\u064a"_s);
+	$var($String, metaValue_calendarname_gregorian, u"التقويم الميلادي"_s);
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("MonthNames"_s),
@@ -218,11 +218,11 @@ $ObjectArray2* FormatData_ar::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.year"_s),
-			$of(u"\u0627\u0644\u0633\u0646\u0629"_s)
+			$of(u"السنة"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.islamic-umalqura"_s),
-			$of(u"\u0627\u0644\u062a\u0642\u0648\u064a\u0645 \u0627\u0644\u0625\u0633\u0644\u0627\u0645\u064a (\u0623\u0645 \u0627\u0644\u0642\u0631\u0649)"_s)
+			$of(u"التقويم الإسلامي (أم القرى)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("japanese.AmPmMarkers"_s),
@@ -238,7 +238,7 @@ $ObjectArray2* FormatData_ar::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.gmtFormat"_s),
-			$of(u"\u063a\u0631\u064a\u0646\u062a\u0634{0}"_s)
+			$of(u"غرينتش{0}"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("java.time.japanese.DatePatterns"_s),
@@ -258,7 +258,7 @@ $ObjectArray2* FormatData_ar::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.islamic-civil"_s),
-			$of(u"\u0627\u0644\u062a\u0642\u0648\u064a\u0645 \u0627\u0644\u0625\u0633\u0644\u0627\u0645\u064a \u0627\u0644\u0645\u062f\u0646\u064a"_s)
+			$of(u"التقويم الإسلامي المدني"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("islamic.narrow.AmPmMarkers"_s),
@@ -282,7 +282,7 @@ $ObjectArray2* FormatData_ar::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.regionFormat.standard"_s),
-			$of(u"\u062a\u0648\u0642\u064a\u062a {0} \u0627\u0644\u0631\u0633\u0645\u064a"_s)
+			$of(u"توقيت {0} الرسمي"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("DefaultNumberingSystem"_s),
@@ -294,11 +294,11 @@ $ObjectArray2* FormatData_ar::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.japanese"_s),
-			$of(u"\u0627\u0644\u062a\u0642\u0648\u064a\u0645 \u0627\u0644\u064a\u0627\u0628\u0627\u0646\u064a"_s)
+			$of(u"التقويم الياباني"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.gmtZeroFormat"_s),
-			$of(u"\u063a\u0631\u064a\u0646\u062a\u0634"_s)
+			$of(u"غرينتش"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("japanese.MonthNames"_s),
@@ -319,8 +319,8 @@ $ObjectArray2* FormatData_ar::getContents() {
 		$$new($ObjectArray, {
 			$of("long.Eras"_s),
 			$of($$new($StringArray, {
-				u"\u0642\u0628\u0644 \u0627\u0644\u0645\u064a\u0644\u0627\u062f"_s,
-				u"\u0645\u064a\u0644\u0627\u062f\u064a"_s
+				u"قبل الميلاد"_s,
+				u"ميلادي"_s
 			}))
 		}),
 		$$new($ObjectArray, {
@@ -342,8 +342,8 @@ $ObjectArray2* FormatData_ar::getContents() {
 		$$new($ObjectArray, {
 			$of("DateTimePatterns"_s),
 			$of($$new($StringArray, {
-				u"{1} \u0641\u064a {0}"_s,
-				u"{1} \u0641\u064a {0}"_s,
+				u"{1} في {0}"_s,
+				u"{1} في {0}"_s,
 				"{1}, {0}"_s,
 				"{1}, {0}"_s
 			}))
@@ -363,9 +363,9 @@ $ObjectArray2* FormatData_ar::getContents() {
 				"#"_s,
 				u"\u200e-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
-				u"\u0644\u064a\u0633\u00a0\u0631\u0642\u0645\u064b\u0627"_s,
+				u"‰"_s,
+				u"∞"_s,
+				u"ليس رقمًا"_s,
 				""_s,
 				""_s
 			}))
@@ -384,7 +384,7 @@ $ObjectArray2* FormatData_ar::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.minute"_s),
-			$of(u"\u0627\u0644\u062f\u0642\u0627\u0626\u0642"_s)
+			$of(u"الدقائق"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("japanese.long.Eras"_s),
@@ -392,7 +392,7 @@ $ObjectArray2* FormatData_ar::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.era"_s),
-			$of(u"\u0627\u0644\u0639\u0635\u0631"_s)
+			$of(u"العصر"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("buddhist.AmPmMarkers"_s),
@@ -400,7 +400,7 @@ $ObjectArray2* FormatData_ar::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.dayperiod"_s),
-			$of(u"\u0635/\u0645"_s)
+			$of(u"ص/م"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("standalone.MonthNarrows"_s),
@@ -417,29 +417,29 @@ $ObjectArray2* FormatData_ar::getContents() {
 		$$new($ObjectArray, {
 			$of("arab.NumberElements"_s),
 			$of($$new($StringArray, {
-				u"\u066b"_s,
-				u"\u066c"_s,
-				u"\u061b"_s,
-				u"\u066a\u061c"_s,
-				u"\u0660"_s,
+				u"٫"_s,
+				u"٬"_s,
+				u"؛"_s,
+				u"٪\u061c"_s,
+				u"٠"_s,
 				"#"_s,
 				u"\u061c-"_s,
-				u"\u0627\u0633"_s,
-				u"\u0609"_s,
-				u"\u221e"_s,
-				u"\u0644\u064a\u0633\u00a0\u0631\u0642\u0645"_s,
+				u"اس"_s,
+				u"؉"_s,
+				u"∞"_s,
+				u"ليس رقم"_s,
 				""_s,
 				""_s
 			}))
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.roc"_s),
-			$of(u"\u062a\u0642\u0648\u064a\u0645 \u0645\u064a\u0646\u062c\u0648"_s)
+			$of(u"تقويم مينجو"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("islamic.DatePatterns"_s),
 			$of($$new($StringArray, {
-				u"EEEE\u060c d MMMM y GGGG"_s,
+				u"EEEE، d MMMM y GGGG"_s,
 				"d MMMM y GGGG"_s,
 				"d MMM y GGGG"_s,
 				u"d\u200f/M\u200f/y G"_s
@@ -455,7 +455,7 @@ $ObjectArray2* FormatData_ar::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.month"_s),
-			$of(u"\u0627\u0644\u0634\u0647\u0631"_s)
+			$of(u"الشهر"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("java.time.japanese.long.Eras"_s),
@@ -467,23 +467,23 @@ $ObjectArray2* FormatData_ar::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.second"_s),
-			$of(u"\u0627\u0644\u062b\u0648\u0627\u0646\u064a"_s)
+			$of(u"الثواني"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("islamic.MonthNarrows"_s),
 			$of($$new($StringArray, {
-				u"\u0661"_s,
-				u"\u0662"_s,
-				u"\u0663"_s,
-				u"\u0664"_s,
-				u"\u0665"_s,
-				u"\u0666"_s,
-				u"\u0667"_s,
-				u"\u0668"_s,
-				u"\u0669"_s,
-				u"\u0661\u0660"_s,
-				u"\u0661\u0661"_s,
-				u"\u0661\u0662"_s,
+				u"١"_s,
+				u"٢"_s,
+				u"٣"_s,
+				u"٤"_s,
+				u"٥"_s,
+				u"٦"_s,
+				u"٧"_s,
+				u"٨"_s,
+				u"٩"_s,
+				u"١٠"_s,
+				u"١١"_s,
+				u"١٢"_s,
 				""_s
 			}))
 		}),
@@ -501,7 +501,7 @@ $ObjectArray2* FormatData_ar::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.islamic"_s),
-			$of(u"\u0627\u0644\u062a\u0642\u0648\u064a\u0645 \u0627\u0644\u0647\u062c\u0631\u064a"_s)
+			$of(u"التقويم الهجري"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("java.time.roc.long.Eras"_s),
@@ -529,7 +529,7 @@ $ObjectArray2* FormatData_ar::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.regionFormat"_s),
-			$of(u"\u062a\u0648\u0642\u064a\u062a {0}"_s)
+			$of(u"توقيت {0}"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("long.CompactNumberPatterns"_s),
@@ -537,18 +537,18 @@ $ObjectArray2* FormatData_ar::getContents() {
 				""_s,
 				""_s,
 				""_s,
-				u"{zero:0\' \'\u0623\u0644\u0641 one:0\' \'\u0623\u0644\u0641 two:0\' \'\u0623\u0644\u0641 few:0\' \'\u0622\u0644\u0627\u0641 many:0\' \'\u0623\u0644\u0641 other:0\' \'\u0623\u0644\u0641}"_s,
-				u"{zero:00\' \'\u0623\u0644\u0641 one:00\' \'\u0623\u0644\u0641 two:00\' \'\u0623\u0644\u0641 few:00\' \'\u0623\u0644\u0641 many:00\' \'\u0623\u0644\u0641 other:00\' \'\u0623\u0644\u0641}"_s,
-				u"{zero:000\' \'\u0623\u0644\u0641 one:000\' \'\u0623\u0644\u0641 two:000\' \'\u0623\u0644\u0641 few:000\' \'\u0623\u0644\u0641 many:000\' \'\u0623\u0644\u0641 other:000\' \'\u0623\u0644\u0641}"_s,
-				u"{zero:0\' \'\u0645\u0644\u064a\u0648\u0646 one:0\' \'\u0645\u0644\u064a\u0648\u0646 two:0\' \'\u0645\u0644\u064a\u0648\u0646 few:0\' \'\u0645\u0644\u0627\u064a\u064a\u0646 many:0\' \'\u0645\u0644\u064a\u0648\u0646 other:0\' \'\u0645\u0644\u064a\u0648\u0646}"_s,
-				u"{zero:00\' \'\u0645\u0644\u064a\u0648\u0646 one:00\' \'\u0645\u0644\u064a\u0648\u0646 two:00\' \'\u0645\u0644\u064a\u0648\u0646 few:00\' \'\u0645\u0644\u0627\u064a\u064a\u0646 many:00\' \'\u0645\u0644\u064a\u0648\u0646 other:00\' \'\u0645\u0644\u064a\u0648\u0646}"_s,
-				u"{zero:000\' \'\u0645\u0644\u064a\u0648\u0646 one:000\' \'\u0645\u0644\u064a\u0648\u0646 two:000\' \'\u0645\u0644\u064a\u0648\u0646 few:000\' \'\u0645\u0644\u064a\u0648\u0646 many:000\' \'\u0645\u0644\u064a\u0648\u0646 other:000\' \'\u0645\u0644\u064a\u0648\u0646}"_s,
-				u"{zero:0\' \'\u0645\u0644\u064a\u0627\u0631 one:0\' \'\u0645\u0644\u064a\u0627\u0631 two:0\' \'\u0645\u0644\u064a\u0627\u0631 few:0\' \'\u0645\u0644\u064a\u0627\u0631 many:0\' \'\u0645\u0644\u064a\u0627\u0631 other:0\' \'\u0645\u0644\u064a\u0627\u0631}"_s,
-				u"{zero:00\' \'\u0645\u0644\u064a\u0627\u0631 one:00\' \'\u0645\u0644\u064a\u0627\u0631 two:00\' \'\u0645\u0644\u064a\u0627\u0631 few:00\' \'\u0645\u0644\u064a\u0627\u0631 many:00\' \'\u0645\u0644\u064a\u0627\u0631 other:00\' \'\u0645\u0644\u064a\u0627\u0631}"_s,
-				u"{zero:000\' \'\u0645\u0644\u064a\u0627\u0631 one:000\' \'\u0645\u0644\u064a\u0627\u0631 two:000\' \'\u0645\u0644\u064a\u0627\u0631 few:000\' \'\u0645\u0644\u064a\u0627\u0631 many:000\' \'\u0645\u0644\u064a\u0627\u0631 other:000\' \'\u0645\u0644\u064a\u0627\u0631}"_s,
-				u"{zero:0\' \'\u062a\u0631\u0644\u064a\u0648\u0646 one:0\' \'\u062a\u0631\u0644\u064a\u0648\u0646 two:0\' \'\u062a\u0631\u0644\u064a\u0648\u0646 few:0\' \'\u062a\u0631\u0644\u064a\u0648\u0646 many:0\' \'\u062a\u0631\u0644\u064a\u0648\u0646 other:0\' \'\u062a\u0631\u0644\u064a\u0648\u0646}"_s,
-				u"{zero:00\' \'\u062a\u0631\u0644\u064a\u0648\u0646 one:00\' \'\u062a\u0631\u0644\u064a\u0648\u0646 two:00\' \'\u062a\u0631\u0644\u064a\u0648\u0646 few:00\' \'\u062a\u0631\u0644\u064a\u0648\u0646 many:00\' \'\u062a\u0631\u0644\u064a\u0648\u0646 other:00\' \'\u062a\u0631\u0644\u064a\u0648\u0646}"_s,
-				u"{zero:000\' \'\u062a\u0631\u0644\u064a\u0648\u0646 one:000\' \'\u062a\u0631\u0644\u064a\u0648\u0646 two:000\' \'\u062a\u0631\u0644\u064a\u0648\u0646 few:000\' \'\u062a\u0631\u0644\u064a\u0648\u0646 many:000\' \'\u062a\u0631\u0644\u064a\u0648\u0646 other:000\' \'\u062a\u0631\u0644\u064a\u0648\u0646}"_s
+				u"{zero:0\' \'ألف one:0\' \'ألف two:0\' \'ألف few:0\' \'آلاف many:0\' \'ألف other:0\' \'ألف}"_s,
+				u"{zero:00\' \'ألف one:00\' \'ألف two:00\' \'ألف few:00\' \'ألف many:00\' \'ألف other:00\' \'ألف}"_s,
+				u"{zero:000\' \'ألف one:000\' \'ألف two:000\' \'ألف few:000\' \'ألف many:000\' \'ألف other:000\' \'ألف}"_s,
+				u"{zero:0\' \'مليون one:0\' \'مليون two:0\' \'مليون few:0\' \'ملايين many:0\' \'مليون other:0\' \'مليون}"_s,
+				u"{zero:00\' \'مليون one:00\' \'مليون two:00\' \'مليون few:00\' \'ملايين many:00\' \'مليون other:00\' \'مليون}"_s,
+				u"{zero:000\' \'مليون one:000\' \'مليون two:000\' \'مليون few:000\' \'مليون many:000\' \'مليون other:000\' \'مليون}"_s,
+				u"{zero:0\' \'مليار one:0\' \'مليار two:0\' \'مليار few:0\' \'مليار many:0\' \'مليار other:0\' \'مليار}"_s,
+				u"{zero:00\' \'مليار one:00\' \'مليار two:00\' \'مليار few:00\' \'مليار many:00\' \'مليار other:00\' \'مليار}"_s,
+				u"{zero:000\' \'مليار one:000\' \'مليار two:000\' \'مليار few:000\' \'مليار many:000\' \'مليار other:000\' \'مليار}"_s,
+				u"{zero:0\' \'ترليون one:0\' \'ترليون two:0\' \'ترليون few:0\' \'ترليون many:0\' \'ترليون other:0\' \'ترليون}"_s,
+				u"{zero:00\' \'ترليون one:00\' \'ترليون two:00\' \'ترليون few:00\' \'ترليون many:00\' \'ترليون other:00\' \'ترليون}"_s,
+				u"{zero:000\' \'ترليون one:000\' \'ترليون two:000\' \'ترليون few:000\' \'ترليون many:000\' \'ترليون other:000\' \'ترليون}"_s
 			}))
 		}),
 		$$new($ObjectArray, {
@@ -605,7 +605,7 @@ $ObjectArray2* FormatData_ar::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.zone"_s),
-			$of(u"\u0627\u0644\u062a\u0648\u0642\u064a\u062a"_s)
+			$of(u"التوقيت"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("japanese.QuarterAbbreviations"_s),
@@ -619,7 +619,7 @@ $ObjectArray2* FormatData_ar::getContents() {
 			$of("arab.NumberPatterns"_s),
 			$of($$new($StringArray, {
 				"#,##0.###"_s,
-				u"#,##0.00\u00a0\u00a4"_s,
+				u"#,##0.00 ¤"_s,
 				"#,##0%"_s,
 				""_s
 			}))
@@ -659,7 +659,7 @@ $ObjectArray2* FormatData_ar::getContents() {
 		$$new($ObjectArray, {
 			$of("java.time.islamic.DatePatterns"_s),
 			$of($$new($StringArray, {
-				u"EEEE\u060c d MMMM y G"_s,
+				u"EEEE، d MMMM y G"_s,
 				"d MMMM y G"_s,
 				"d MMM y G"_s,
 				u"d\u200f/M\u200f/y GGGGG"_s
@@ -667,7 +667,7 @@ $ObjectArray2* FormatData_ar::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.weekday"_s),
-			$of(u"\u0627\u0644\u064a\u0648\u0645"_s)
+			$of(u"اليوم"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("japanese.MonthAbbreviations"_s),
@@ -727,7 +727,7 @@ $ObjectArray2* FormatData_ar::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.week"_s),
-			$of(u"\u0627\u0644\u0623\u0633\u0628\u0648\u0639"_s)
+			$of(u"الأسبوع"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("buddhist.MonthNarrows"_s),
@@ -763,18 +763,18 @@ $ObjectArray2* FormatData_ar::getContents() {
 				""_s,
 				""_s,
 				""_s,
-				u"{zero:0\u00a0\u0623\u0644\u0641 one:0\u00a0\u0623\u0644\u0641 two:0\u00a0\u0623\u0644\u0641 few:0\u00a0\u0622\u0644\u0627\u0641 many:0\u00a0\u0623\u0644\u0641 other:0\u00a0\u0623\u0644\u0641}"_s,
-				u"{zero:00\u00a0\u0623\u0644\u0641 one:00\u00a0\u0623\u0644\u0641 two:00\u00a0\u0623\u0644\u0641 few:00\u00a0\u0623\u0644\u0641 many:00\u00a0\u0623\u0644\u0641 other:00\u00a0\u0623\u0644\u0641}"_s,
-				u"{zero:000\u00a0\u0623\u0644\u0641 one:000\u00a0\u0623\u0644\u0641 two:000\u00a0\u0623\u0644\u0641 few:000\u00a0\u0623\u0644\u0641 many:000\u00a0\u0623\u0644\u0641 other:000\u00a0\u0623\u0644\u0641}"_s,
-				u"{zero:0\u00a0\u0645\u0644\u064a\u0648\u0646 one:0\u00a0\u0645\u0644\u064a\u0648\u0646 two:0\u00a0\u0645\u0644\u064a\u0648\u0646 few:0\u00a0\u0645\u0644\u064a\u0648\u0646 many:0\u00a0\u0645\u0644\u064a\u0648\u0646 other:0\u00a0\u0645\u0644\u064a\u0648\u0646}"_s,
-				u"{zero:00\u00a0\u0645\u0644\u064a\u0648\u0646 one:00\u00a0\u0645\u0644\u064a\u0648\u0646 two:00\u00a0\u0645\u0644\u064a\u0648\u0646 few:00\u00a0\u0645\u0644\u064a\u0648\u0646 many:00\u00a0\u0645\u0644\u064a\u0648\u0646 other:00\u00a0\u0645\u0644\u064a\u0648\u0646}"_s,
-				u"{zero:000\u00a0\u0645\u0644\u064a\u0648\u0646 one:000\u00a0\u0645\u0644\u064a\u0648\u0646 two:000\u00a0\u0645\u0644\u064a\u0648\u0646 few:000\u00a0\u0645\u0644\u064a\u0648\u0646 many:000\u00a0\u0645\u0644\u064a\u0648\u0646 other:000\u00a0\u0645\u0644\u064a\u0648\u0646}"_s,
-				u"{zero:0\u00a0\u0645\u0644\u064a\u0627\u0631 one:0\u00a0\u0645\u0644\u064a\u0627\u0631 two:0\u00a0\u0645\u0644\u064a\u0627\u0631 few:0\u00a0\u0645\u0644\u064a\u0627\u0631 many:0\u00a0\u0645\u0644\u064a\u0627\u0631 other:0\u00a0\u0645\u0644\u064a\u0627\u0631}"_s,
-				u"{zero:00\u00a0\u0645\u0644\u064a\u0627\u0631 one:00\u00a0\u0645\u0644\u064a\u0627\u0631 two:00\u00a0\u0645\u0644\u064a\u0627\u0631 few:00\u00a0\u0645\u0644\u064a\u0627\u0631 many:00\u00a0\u0645\u0644\u064a\u0627\u0631 other:00\u00a0\u0645\u0644\u064a\u0627\u0631}"_s,
-				u"{zero:000\u00a0\u0645\u0644\u064a\u0627\u0631 one:000\u00a0\u0645\u0644\u064a\u0627\u0631 two:000\u00a0\u0645\u0644\u064a\u0627\u0631 few:000\u00a0\u0645\u0644\u064a\u0627\u0631 many:000\u00a0\u0645\u0644\u064a\u0627\u0631 other:000\u00a0\u0645\u0644\u064a\u0627\u0631}"_s,
-				u"{zero:0\u00a0\u062a\u0631\u0644\u064a\u0648\u0646 one:0\u00a0\u062a\u0631\u0644\u064a\u0648\u0646 two:0\u00a0\u062a\u0631\u0644\u064a\u0648\u0646 few:0\u00a0\u062a\u0631\u0644\u064a\u0648\u0646 many:0\u00a0\u062a\u0631\u0644\u064a\u0648\u0646 other:0\u00a0\u062a\u0631\u0644\u064a\u0648\u0646}"_s,
-				u"{zero:00\u00a0\u062a\u0631\u0644\u064a\u0648\u0646 one:00\u00a0\u062a\u0631\u0644\u064a\u0648\u0646 two:00\u00a0\u062a\u0631\u0644\u064a\u0648\u0646 few:00\u00a0\u062a\u0631\u0644\u064a\u0648\u0646 many:00\u00a0\u062a\u0631\u0644\u064a\u0648\u0646 other:00\u00a0\u062a\u0631\u0644\u064a\u0648\u0646}"_s,
-				u"{zero:000\u00a0\u062a\u0631\u0644\u064a\u0648\u0646 one:000\u00a0\u062a\u0631\u0644\u064a\u0648\u0646 two:000\u00a0\u062a\u0631\u0644\u064a\u0648\u0646 few:000\u00a0\u062a\u0631\u0644\u064a\u0648\u0646 many:000\u00a0\u062a\u0631\u0644\u064a\u0648\u0646 other:000\u00a0\u062a\u0631\u0644\u064a\u0648\u0646}"_s
+				u"{zero:0 ألف one:0 ألف two:0 ألف few:0 آلاف many:0 ألف other:0 ألف}"_s,
+				u"{zero:00 ألف one:00 ألف two:00 ألف few:00 ألف many:00 ألف other:00 ألف}"_s,
+				u"{zero:000 ألف one:000 ألف two:000 ألف few:000 ألف many:000 ألف other:000 ألف}"_s,
+				u"{zero:0 مليون one:0 مليون two:0 مليون few:0 مليون many:0 مليون other:0 مليون}"_s,
+				u"{zero:00 مليون one:00 مليون two:00 مليون few:00 مليون many:00 مليون other:00 مليون}"_s,
+				u"{zero:000 مليون one:000 مليون two:000 مليون few:000 مليون many:000 مليون other:000 مليون}"_s,
+				u"{zero:0 مليار one:0 مليار two:0 مليار few:0 مليار many:0 مليار other:0 مليار}"_s,
+				u"{zero:00 مليار one:00 مليار two:00 مليار few:00 مليار many:00 مليار other:00 مليار}"_s,
+				u"{zero:000 مليار one:000 مليار two:000 مليار few:000 مليار many:000 مليار other:000 مليار}"_s,
+				u"{zero:0 ترليون one:0 ترليون two:0 ترليون few:0 ترليون many:0 ترليون other:0 ترليون}"_s,
+				u"{zero:00 ترليون one:00 ترليون two:00 ترليون few:00 ترليون many:00 ترليون other:00 ترليون}"_s,
+				u"{zero:000 ترليون one:000 ترليون two:000 ترليون few:000 ترليون many:000 ترليون other:000 ترليون}"_s
 			}))
 		}),
 		$$new($ObjectArray, {
@@ -787,12 +787,12 @@ $ObjectArray2* FormatData_ar::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.regionFormat.daylight"_s),
-			$of(u"\u062a\u0648\u0642\u064a\u062a {0} \u0627\u0644\u0635\u064a\u0641\u064a"_s)
+			$of(u"توقيت {0} الصيفي"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("DatePatterns"_s),
 			$of($$new($StringArray, {
-				u"EEEE\u060c d MMMM y"_s,
+				u"EEEE، d MMMM y"_s,
 				"d MMMM y"_s,
 				u"dd\u200f/MM\u200f/y"_s,
 				u"d\u200f/M\u200f/y"_s
@@ -820,7 +820,7 @@ $ObjectArray2* FormatData_ar::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.hour"_s),
-			$of(u"\u0627\u0644\u0633\u0627\u0639\u0627\u062a"_s)
+			$of(u"الساعات"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("islamic.MonthAbbreviations"_s),
@@ -832,7 +832,7 @@ $ObjectArray2* FormatData_ar::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.buddhist"_s),
-			$of(u"\u0627\u0644\u062a\u0642\u0648\u064a\u0645 \u0627\u0644\u0628\u0648\u0630\u064a"_s)
+			$of(u"التقويم البوذي"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("standalone.MonthNames"_s),
@@ -842,9 +842,9 @@ $ObjectArray2* FormatData_ar::getContents() {
 			$of("latn.NumberPatterns"_s),
 			$of($$new($StringArray, {
 				"#,##0.###"_s,
-				u"\u00a4\u00a0#,##0.00"_s,
+				u"¤ #,##0.00"_s,
 				"#,##0%"_s,
-				u"\u00a4#,##0.00;(\u00a4#,##0.00)"_s
+				u"¤#,##0.00;(¤#,##0.00)"_s
 			}))
 		}),
 		$$new($ObjectArray, {

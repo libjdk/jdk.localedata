@@ -50,11 +50,11 @@ $ObjectArray2* CurrencyNames_tzm::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("aud"_s),
-			$of(u"\u1e0cular Us\u1e6drali"_s)
+			$of(u"Ḍular Usṭrali"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bhd"_s),
-			$of(u"\u1e0cinar Uba\u1e25rayni"_s)
+			$of(u"Ḍinar Ubaḥrayni"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bif"_s),
@@ -66,7 +66,7 @@ $ObjectArray2* CurrencyNames_tzm::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("cad"_s),
-			$of(u"\u1e0cular Ukanadi"_s)
+			$of(u"Ḍular Ukanadi"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cdf"_s),
@@ -86,15 +86,15 @@ $ObjectArray2* CurrencyNames_tzm::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("djf"_s),
-			$of(u"Frank U\u011fibuti"_s)
+			$of(u"Frank Uğibuti"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("dzd"_s),
-			$of(u"\u1e0cinar Udzayri"_s)
+			$of(u"Ḍinar Udzayri"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("egp"_s),
-			$of(u"Junih Umi\u1e63\u1e5bi"_s)
+			$of(u"Junih Umiṣṛi"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ern"_s),
@@ -106,15 +106,15 @@ $ObjectArray2* CurrencyNames_tzm::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("eur"_s),
-			$of(u"U\u1e5bu"_s)
+			$of(u"Uṛu"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gbp"_s),
-			$of(u"Junih Ubri\u1e6dani"_s)
+			$of(u"Junih Ubriṭani"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ghc"_s),
-			$of(u"Sidi U\u0263ani"_s)
+			$of(u"Sidi Uɣani"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gmd"_s),
@@ -122,11 +122,11 @@ $ObjectArray2* CurrencyNames_tzm::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("gns"_s),
-			$of(u"Frank U\u0263ini"_s)
+			$of(u"Frank Uɣini"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("inr"_s),
-			$of(u"Rupi U\u1e25indi"_s)
+			$of(u"Rupi Uḥindi"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("jpy"_s),
@@ -142,27 +142,27 @@ $ObjectArray2* CurrencyNames_tzm::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("lrd"_s),
-			$of(u"\u1e0cular Ulibiri"_s)
+			$of(u"Ḍular Ulibiri"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lsl"_s),
-			$of(u"Luti Ulusu\u1e6di"_s)
+			$of(u"Luti Ulusuṭi"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lyd"_s),
-			$of(u"\u1e0cinar Ulibi"_s)
+			$of(u"Ḍinar Ulibi"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mad"_s),
-			$of(u"Derhem Ume\u1e5b\u1e5buki"_s)
+			$of(u"Derhem Umeṛṛuki"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mga"_s),
-			$of(u"Aryari Umal\u0263aci"_s)
+			$of(u"Aryari Umalɣaci"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mro"_s),
-			$of(u"Uqiyya Umuritani (1973\u20132017)"_s)
+			$of(u"Uqiyya Umuritani (1973–2017)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mru"_s),
@@ -174,7 +174,7 @@ $ObjectArray2* CurrencyNames_tzm::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("mwk"_s),
-			$of(u"Kwa\u010da Umalawi"_s)
+			$of(u"Kwača Umalawi"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mzm"_s),
@@ -182,7 +182,7 @@ $ObjectArray2* CurrencyNames_tzm::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("nad"_s),
-			$of(u"\u1e0cular Unamibi"_s)
+			$of(u"Ḍular Unamibi"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ngn"_s),
@@ -194,7 +194,7 @@ $ObjectArray2* CurrencyNames_tzm::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("sar"_s),
-			$of(u"Ryal Usa\u03b5udi"_s)
+			$of(u"Ryal Usaεudi"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("scr"_s),
@@ -206,7 +206,7 @@ $ObjectArray2* CurrencyNames_tzm::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("sdp"_s),
-			$of(u"Junih Usudani (1956\u20132007)"_s)
+			$of(u"Junih Usudani (1956–2007)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("shp"_s),
@@ -218,15 +218,15 @@ $ObjectArray2* CurrencyNames_tzm::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("sos"_s),
-			$of(u"Cilin U\u1e63umali"_s)
+			$of(u"Cilin Uṣumali"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("std"_s),
-			$of(u"Dubra Usaw\u1e6dumi (1977\u20132017)"_s)
+			$of(u"Dubra Usawṭumi (1977–2017)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("stn"_s),
-			$of(u"Dubra Usaw\u1e6dumi"_s)
+			$of(u"Dubra Usawṭumi"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("szl"_s),
@@ -234,19 +234,19 @@ $ObjectArray2* CurrencyNames_tzm::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("tnd"_s),
-			$of(u"\u1e0cinar Utunsi"_s)
+			$of(u"Ḍinar Utunsi"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("tzs"_s),
-			$of(u"Cilin U\u1e6danzani"_s)
+			$of(u"Cilin Uṭanzani"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ugx"_s),
-			$of(u"Cilin U\u0263andi (1966\u20131987)"_s)
+			$of(u"Cilin Uɣandi (1966–1987)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("usd"_s),
-			$of(u"\u1e0cular Umirikani"_s)
+			$of(u"Ḍular Umirikani"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xaf"_s),
@@ -262,15 +262,15 @@ $ObjectArray2* CurrencyNames_tzm::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("zmk"_s),
-			$of(u"Kwa\u010da Uzambi (1968\u20132012)"_s)
+			$of(u"Kwača Uzambi (1968–2012)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("zmw"_s),
-			$of(u"Kwa\u010da Uzambi"_s)
+			$of(u"Kwača Uzambi"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("zwd"_s),
-			$of(u"\u1e0cular Uzimbabwi"_s)
+			$of(u"Ḍular Uzimbabwi"_s)
 		})
 	}));
 	return data;

@@ -71,7 +71,7 @@ $ObjectArray2* LocaleNames_sw_KE::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("nqo"_s),
-			$of(u"Kiin\u2019ko"_s)
+			$of(u"Kiin’ko"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Hebr"_s),
@@ -243,7 +243,7 @@ $ObjectArray2* LocaleNames_sw_KE::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("gwi"_s),
-			$of(u"Kigwich\u02bcin"_s)
+			$of(u"Kigwichʼin"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.ethi"_s),

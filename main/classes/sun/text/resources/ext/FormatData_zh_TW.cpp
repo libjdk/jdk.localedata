@@ -39,12 +39,12 @@ void FormatData_zh_TW::init$() {
 $ObjectArray2* FormatData_zh_TW::getContents() {
 	$useLocalCurrentObjectStackCache();
 	$var($StringArray, rocEras, $new($StringArray, {
-		u"\u6c11\u570b\u524d"_s,
-		u"\u6c11\u570b"_s
+		u"民國前"_s,
+		u"民國"_s
 	}));
 	$var($StringArray, gregoryEras, $new($StringArray, {
-		u"\u897f\u5143\u524d"_s,
-		u"\u897f\u5143"_s
+		u"西元前"_s,
+		u"西元"_s
 	}));
 	return $new($ObjectArray2, {
 		$$new($ObjectArray, {
@@ -58,18 +58,18 @@ $ObjectArray2* FormatData_zh_TW::getContents() {
 		$$new($ObjectArray, {
 			$of("standalone.MonthAbbreviations"_s),
 			$of($$new($StringArray, {
-				u"1\u6708"_s,
-				u"2\u6708"_s,
-				u"3\u6708"_s,
-				u"4\u6708"_s,
-				u"5\u6708"_s,
-				u"6\u6708"_s,
-				u"7\u6708"_s,
-				u"8\u6708"_s,
-				u"9\u6708"_s,
-				u"10\u6708"_s,
-				u"11\u6708"_s,
-				u"12\u6708"_s,
+				u"1月"_s,
+				u"2月"_s,
+				u"3月"_s,
+				u"4月"_s,
+				u"5月"_s,
+				u"6月"_s,
+				u"7月"_s,
+				u"8月"_s,
+				u"9月"_s,
+				u"10月"_s,
+				u"11月"_s,
+				u"12月"_s,
 				""_s
 			}))
 		}),
@@ -95,15 +95,15 @@ $ObjectArray2* FormatData_zh_TW::getContents() {
 			$of("NumberPatterns"_s),
 			$of($$new($StringArray, {
 				"#,##0.###;-#,##0.###"_s,
-				u"\u00a4#,##0.00;-\u00a4#,##0.00"_s,
+				u"¤#,##0.00;-¤#,##0.00"_s,
 				"#,##0%"_s
 			}))
 		}),
 		$$new($ObjectArray, {
 			$of("TimePatterns"_s),
 			$of($$new($StringArray, {
-				u"ahh\'\u6642\'mm\'\u5206\'ss\'\u79d2\' z"_s,
-				u"ahh\'\u6642\'mm\'\u5206\'ss\'\u79d2\'"_s,
+				u"ahh\'時\'mm\'分\'ss\'秒\' z"_s,
+				u"ahh\'時\'mm\'分\'ss\'秒\'"_s,
 				"a hh:mm:ss"_s,
 				"a h:mm"_s
 			}))
@@ -111,8 +111,8 @@ $ObjectArray2* FormatData_zh_TW::getContents() {
 		$$new($ObjectArray, {
 			$of("DatePatterns"_s),
 			$of($$new($StringArray, {
-				u"yyyy\'\u5e74\'M\'\u6708\'d\'\u65e5\' EEEE"_s,
-				u"yyyy\'\u5e74\'M\'\u6708\'d\'\u65e5\'"_s,
+				u"yyyy\'年\'M\'月\'d\'日\' EEEE"_s,
+				u"yyyy\'年\'M\'月\'d\'日\'"_s,
 				"yyyy/M/d"_s,
 				"yyyy/M/d"_s
 			}))
@@ -124,8 +124,8 @@ $ObjectArray2* FormatData_zh_TW::getContents() {
 		$$new($ObjectArray, {
 			$of("buddhist.DatePatterns"_s),
 			$of($$new($StringArray, {
-				u"GGGGy\u5e74M\u6708d\u65e5EEEE"_s,
-				u"GGGGy\u5e74M\u6708d\u65e5"_s,
+				u"GGGGy年M月d日EEEE"_s,
+				u"GGGGy年M月d日"_s,
 				"GGGGy/M/d"_s,
 				"GGGGy/M/d"_s
 			}))
@@ -133,8 +133,8 @@ $ObjectArray2* FormatData_zh_TW::getContents() {
 		$$new($ObjectArray, {
 			$of("japanese.DatePatterns"_s),
 			$of($$new($StringArray, {
-				u"GGGGy\u5e74M\u6708d\u65e5EEEE"_s,
-				u"GGGGy\u5e74M\u6708d\u65e5"_s,
+				u"GGGGy年M月d日EEEE"_s,
+				u"GGGGy年M月d日"_s,
 				"GGGGy/M/d"_s,
 				"GGGGy/M/d"_s
 			}))

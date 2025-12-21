@@ -55,8 +55,8 @@ $ObjectArray2* FormatData_nn::getContents() {
 		""_s
 	}));
 	$var($StringArray, metaValue_DayNames, $new($StringArray, {
-		u"s\u00f8ndag"_s,
-		u"m\u00e5ndag"_s,
+		u"søndag"_s,
+		u"måndag"_s,
 		"tysdag"_s,
 		"onsdag"_s,
 		"torsdag"_s,
@@ -64,8 +64,8 @@ $ObjectArray2* FormatData_nn::getContents() {
 		"laurdag"_s
 	}));
 	$var($StringArray, metaValue_DayAbbreviations, $new($StringArray, {
-		u"s\u00f8."_s,
-		u"m\u00e5."_s,
+		u"sø."_s,
+		u"må."_s,
 		"ty."_s,
 		"on."_s,
 		"to."_s,
@@ -201,8 +201,8 @@ $ObjectArray2* FormatData_nn::getContents() {
 		$$new($ObjectArray, {
 			$of("standalone.DayAbbreviations"_s),
 			$of($$new($StringArray, {
-				u"s\u00f8n"_s,
-				u"m\u00e5n"_s,
+				u"søn"_s,
+				u"mån"_s,
 				"tys"_s,
 				"ons"_s,
 				"tor"_s,
@@ -269,8 +269,8 @@ $ObjectArray2* FormatData_nn::getContents() {
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
+				u"‰"_s,
+				u"∞"_s,
 				"NaN"_s,
 				""_s,
 				""_s
@@ -318,7 +318,7 @@ $ObjectArray2* FormatData_nn::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.month"_s),
-			$of(u"m\u00e5nad"_s)
+			$of(u"månad"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("buddhist.DatePatterns"_s),
@@ -362,7 +362,7 @@ $ObjectArray2* FormatData_nn::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.regionFormat.daylight"_s),
-			$of(u"sommartid \u2013 {0}"_s)
+			$of(u"sommartid – {0}"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("DatePatterns"_s),
@@ -409,9 +409,9 @@ $ObjectArray2* FormatData_nn::getContents() {
 			$of("latn.NumberPatterns"_s),
 			$of($$new($StringArray, {
 				"#,##0.###"_s,
-				u"#,##0.00\u00a0\u00a4"_s,
+				u"#,##0.00 ¤"_s,
 				"#,##0%"_s,
-				u"#,##0.00\u00a0\u00a4"_s
+				u"#,##0.00 ¤"_s
 			}))
 		}),
 		$$new($ObjectArray, {

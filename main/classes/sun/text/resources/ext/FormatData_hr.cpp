@@ -46,9 +46,9 @@ $ObjectArray2* FormatData_hr::getContents() {
 		$$new($ObjectArray, {
 			$of("MonthNames"_s),
 			$of($$new($StringArray, {
-				u"sije\u010dnja"_s,
-				u"velja\u010de"_s,
-				u"o\u017eujka"_s,
+				u"siječnja"_s,
+				u"veljače"_s,
+				u"ožujka"_s,
 				"travnja"_s,
 				"svibnja"_s,
 				"lipnja"_s,
@@ -64,9 +64,9 @@ $ObjectArray2* FormatData_hr::getContents() {
 		$$new($ObjectArray, {
 			$of("standalone.MonthNames"_s),
 			$of($$new($StringArray, {
-				u"sije\u010danj"_s,
-				u"velja\u010da"_s,
-				u"o\u017eujak"_s,
+				u"siječanj"_s,
+				u"veljača"_s,
+				u"ožujak"_s,
 				"travanj"_s,
 				"svibanj"_s,
 				"lipanj"_s,
@@ -84,7 +84,7 @@ $ObjectArray2* FormatData_hr::getContents() {
 			$of($$new($StringArray, {
 				"sij"_s,
 				"velj"_s,
-				u"o\u017eu"_s,
+				u"ožu"_s,
 				"tra"_s,
 				"svi"_s,
 				"lip"_s,
@@ -102,7 +102,7 @@ $ObjectArray2* FormatData_hr::getContents() {
 			$of($$new($StringArray, {
 				"sij"_s,
 				"vel"_s,
-				u"o\u017eu"_s,
+				u"ožu"_s,
 				"tra"_s,
 				"svi"_s,
 				"lip"_s,
@@ -158,7 +158,7 @@ $ObjectArray2* FormatData_hr::getContents() {
 				"ponedjeljak"_s,
 				"utorak"_s,
 				"srijeda"_s,
-				u"\u010detvrtak"_s,
+				u"četvrtak"_s,
 				"petak"_s,
 				"subota"_s
 			}))
@@ -170,7 +170,7 @@ $ObjectArray2* FormatData_hr::getContents() {
 				"ponedjeljak"_s,
 				"utorak"_s,
 				"srijeda"_s,
-				u"\u010detvrtak"_s,
+				u"četvrtak"_s,
 				"petak"_s,
 				"subota"_s
 			}))
@@ -182,7 +182,7 @@ $ObjectArray2* FormatData_hr::getContents() {
 				"pon"_s,
 				"uto"_s,
 				"sri"_s,
-				u"\u010det"_s,
+				u"čet"_s,
 				"pet"_s,
 				"sub"_s
 			}))
@@ -194,7 +194,7 @@ $ObjectArray2* FormatData_hr::getContents() {
 				"pon"_s,
 				"uto"_s,
 				"sri"_s,
-				u"\u010det"_s,
+				u"čet"_s,
 				"pet"_s,
 				"sub"_s
 			}))
@@ -206,7 +206,7 @@ $ObjectArray2* FormatData_hr::getContents() {
 				"P"_s,
 				"U"_s,
 				"S"_s,
-				u"\u010c"_s,
+				u"Č"_s,
 				"P"_s,
 				"S"_s
 			}))
@@ -218,7 +218,7 @@ $ObjectArray2* FormatData_hr::getContents() {
 				"p"_s,
 				"u"_s,
 				"s"_s,
-				u"\u010d"_s,
+				u"č"_s,
 				"p"_s,
 				"s"_s
 			}))
@@ -248,9 +248,9 @@ $ObjectArray2* FormatData_hr::getContents() {
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
-				u"\ufffd"_s
+				u"‰"_s,
+				u"∞"_s,
+				u"�"_s
 			}))
 		}),
 		$$new($ObjectArray, {

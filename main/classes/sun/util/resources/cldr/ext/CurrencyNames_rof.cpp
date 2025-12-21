@@ -166,7 +166,7 @@ $ObjectArray2* CurrencyNames_rof::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("mro"_s),
-			$of(u"heleri sa Moritania (1973\u20132017)"_s)
+			$of(u"heleri sa Moritania (1973–2017)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mru"_s),
@@ -222,7 +222,7 @@ $ObjectArray2* CurrencyNames_rof::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("std"_s),
-			$of(u"heleri sa Sao Tome na Principe (1977\u20132017)"_s)
+			$of(u"heleri sa Sao Tome na Principe (1977–2017)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("stn"_s),
@@ -262,7 +262,7 @@ $ObjectArray2* CurrencyNames_rof::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("zmk"_s),
-			$of(u"heleri sa Zambia (1968\u20132012)"_s)
+			$of(u"heleri sa Zambia (1968–2012)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("zmw"_s),

@@ -46,7 +46,7 @@ $ObjectArray2* CurrencyNames_os_RU::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("RUB"_s),
-			$of(u"\u20bd"_s)
+			$of(u"₽"_s)
 		})
 	}));
 	return data;

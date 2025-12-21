@@ -851,11 +851,11 @@ $ObjectArray2* TimeZoneNames_so::getContents() {
 		""_s
 	}));
 	$var($StringArray, New_Zealand, $new($StringArray, {
-		u"Waqtiga Caadiga Ah ee Niyuu Si\u2019laan"_s,
+		u"Waqtiga Caadiga Ah ee Niyuu Si’laan"_s,
 		""_s,
-		u"Waqtiga Dharaarta ee Niyuu Si\u2019laan"_s,
+		u"Waqtiga Dharaarta ee Niyuu Si’laan"_s,
 		""_s,
-		u"Waqtiga Niyuu Si\u2019laan"_s,
+		u"Waqtiga Niyuu Si’laan"_s,
 		""_s
 	}));
 	$var($StringArray, Novosibirsk, $new($StringArray, {
@@ -971,7 +971,7 @@ $ObjectArray2* TimeZoneNames_so::getContents() {
 		""_s
 	}));
 	$var($StringArray, DumontDUrville, $new($StringArray, {
-		u"Waqtiga Dumont - d\u2019urfille"_s,
+		u"Waqtiga Dumont - d’urfille"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -4510,7 +4510,7 @@ $ObjectArray2* TimeZoneNames_so::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Antarctica/DumontDUrville"_s),
-			$of(u"Dumont d\u2019urfile"_s)
+			$of(u"Dumont d’urfile"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Argentina/La_Rioja"_s),

@@ -40,18 +40,18 @@ void FormatData_mua::init$() {
 $ObjectArray2* FormatData_mua::getContents() {
 	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_MonthNames, $new($StringArray, {
-		u"F\u0129i Loo"_s,
-		u"Cokcwakla\u014bne"_s,
+		u"Fĩi Loo"_s,
+		u"Cokcwaklaŋne"_s,
 		"Cokcwaklii"_s,
-		u"F\u0129i Marfoo"_s,
-		u"Mad\u01dd\u01dduut\u01ddbija\u014b"_s,
-		u"Mam\u01dd\u014bgw\u00e3afahbii"_s,
-		u"Mam\u01dd\u014bgw\u00e3alii"_s,
-		u"Mad\u01ddmbii"_s,
-		u"F\u0129i D\u01dd\u0253lii"_s,
-		u"F\u0129i Munda\u014b"_s,
-		u"F\u0129i Gwahlle"_s,
-		u"F\u0129i Yuru"_s,
+		u"Fĩi Marfoo"_s,
+		u"Madǝǝuutǝbijaŋ"_s,
+		u"Mamǝŋgwãafahbii"_s,
+		u"Mamǝŋgwãalii"_s,
+		u"Madǝmbii"_s,
+		u"Fĩi Dǝɓlii"_s,
+		u"Fĩi Mundaŋ"_s,
+		u"Fĩi Gwahlle"_s,
+		u"Fĩi Yuru"_s,
 		""_s
 	}));
 	$var($StringArray, metaValue_MonthAbbreviations, $new($StringArray, {
@@ -85,13 +85,13 @@ $ObjectArray2* FormatData_mua::getContents() {
 		""_s
 	}));
 	$var($StringArray, metaValue_DayNames, $new($StringArray, {
-		u"Com\u2019yakke"_s,
-		u"Comlaa\u0257ii"_s,
-		u"Comzyii\u0257ii"_s,
+		u"Com’yakke"_s,
+		u"Comlaaɗii"_s,
+		u"Comzyiiɗii"_s,
 		"Comkolle"_s,
-		u"Comkald\u01dd\u0253lii"_s,
+		u"Comkaldǝɓlii"_s,
 		"Comgaisuu"_s,
-		u"Comzye\u0253suu"_s
+		u"Comzyeɓsuu"_s
 	}));
 	$var($StringArray, metaValue_DayAbbreviations, $new($StringArray, {
 		"Cya"_s,
@@ -112,10 +112,10 @@ $ObjectArray2* FormatData_mua::getContents() {
 		"E"_s
 	}));
 	$var($StringArray, metaValue_QuarterNames, $new($StringArray, {
-		u"Tai f\u0129i sai ma t\u01ddn kee zah"_s,
-		u"Tai f\u0129i sai zah l\u01ddn gwa ma kee"_s,
-		u"Tai f\u0129i sai zah l\u01ddn sai ma kee"_s,
-		u"Tai f\u0129i sai ma coo kee zah \u2018na"_s
+		u"Tai fĩi sai ma tǝn kee zah"_s,
+		u"Tai fĩi sai zah lǝn gwa ma kee"_s,
+		u"Tai fĩi sai zah lǝn sai ma kee"_s,
+		u"Tai fĩi sai ma coo kee zah ‘na"_s
 	}));
 	$var($StringArray, metaValue_QuarterAbbreviations, $new($StringArray, {
 		"F1"_s,
@@ -210,7 +210,7 @@ $ObjectArray2* FormatData_mua::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.zone"_s),
-			$of(u"Wa\u014b cok comme"_s)
+			$of(u"Waŋ cok comme"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("japanese.QuarterAbbreviations"_s),
@@ -271,7 +271,7 @@ $ObjectArray2* FormatData_mua::getContents() {
 		$$new($ObjectArray, {
 			$of("long.Eras"_s),
 			$of($$new($StringArray, {
-				u"K\u01ddPel Kristu"_s,
+				u"KǝPel Kristu"_s,
 				"Pel Kristu"_s
 			}))
 		}),
@@ -289,7 +289,7 @@ $ObjectArray2* FormatData_mua::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.weekday"_s),
-			$of(u"K\u01ddsyil luma"_s)
+			$of(u"Kǝsyil luma"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("buddhist.MonthNames"_s),
@@ -310,8 +310,8 @@ $ObjectArray2* FormatData_mua::getContents() {
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
+				u"‰"_s,
+				u"∞"_s,
 				"NaN"_s,
 				""_s,
 				""_s
@@ -335,11 +335,11 @@ $ObjectArray2* FormatData_mua::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.minute"_s),
-			$of(u"Cok comme ma la\u014bne"_s)
+			$of(u"Cok comme ma laŋne"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("field.era"_s),
-			$of(u"Syii ma t\u00e3a"_s)
+			$of(u"Syii ma tãa"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("islamic.DayAbbreviations"_s),
@@ -383,7 +383,7 @@ $ObjectArray2* FormatData_mua::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.month"_s),
-			$of(u"F\u0129i"_s)
+			$of(u"Fĩi"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("buddhist.DatePatterns"_s),
@@ -391,7 +391,7 @@ $ObjectArray2* FormatData_mua::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.second"_s),
-			$of(u"Cok comme ma la\u014b t\u01dd bi\u014b"_s)
+			$of(u"Cok comme ma laŋ tǝ biŋ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("roc.MonthNames"_s),
@@ -478,9 +478,9 @@ $ObjectArray2* FormatData_mua::getContents() {
 			$of("latn.NumberPatterns"_s),
 			$of($$new($StringArray, {
 				"#,##0.###"_s,
-				u"\u00a4#,##0.00"_s,
+				u"¤#,##0.00"_s,
 				"#,##0%"_s,
-				u"\u00a4#,##0.00;(\u00a4#,##0.00)"_s
+				u"¤#,##0.00;(¤#,##0.00)"_s
 			}))
 		}),
 		$$new($ObjectArray, {

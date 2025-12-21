@@ -42,7 +42,7 @@ $ObjectArray2* CurrencyNames_tt::getContents() {
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("RUB"_s),
-			$of(u"\u20bd"_s)
+			$of(u"₽"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("USD"_s),
@@ -50,39 +50,39 @@ $ObjectArray2* CurrencyNames_tt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("brl"_s),
-			$of(u"\u0411\u0440\u0430\u0437\u0438\u043b\u0438\u044f \u0440\u0435\u0430\u043b\u044b"_s)
+			$of(u"Бразилия реалы"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cny"_s),
-			$of(u"\u043a\u044b\u0442\u0430\u0439 \u044e\u0430\u043d\u0435"_s)
+			$of(u"кытай юане"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("eur"_s),
-			$of(u"\u0435\u0432\u0440\u043e"_s)
+			$of(u"евро"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gbp"_s),
-			$of(u"\u0444\u0443\u043d\u0442 \u0441\u0442\u0435\u0440\u043b\u0438\u043d\u0433"_s)
+			$of(u"фунт стерлинг"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("inr"_s),
-			$of(u"\u0418\u043d\u0434\u0438\u044f \u0440\u0443\u043f\u0438\u044f\u0441\u0435"_s)
+			$of(u"Индия рупиясе"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("jpy"_s),
-			$of(u"\u044f\u043f\u043e\u043d \u0438\u0435\u043d\u0430\u0441\u044b"_s)
+			$of(u"япон иенасы"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("rub"_s),
-			$of(u"\u0420\u043e\u0441\u0441\u0438\u044f \u0441\u0443\u043c\u044b"_s)
+			$of(u"Россия сумы"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("usd"_s),
-			$of(u"\u0410\u041a\u0428 \u0434\u043e\u043b\u043b\u0430\u0440\u044b"_s)
+			$of(u"АКШ доллары"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xxx"_s),
-			$of(u"\u0431\u0438\u043b\u0433\u0435\u0441\u0435\u0437 \u0432\u0430\u043b\u044e\u0442\u0430"_s)
+			$of(u"билгесез валюта"_s)
 		})
 	}));
 	return data;

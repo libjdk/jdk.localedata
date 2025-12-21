@@ -39,13 +39,13 @@ void LocaleNames_haw::init$() {
 
 $ObjectArray2* LocaleNames_haw::getContents() {
 	$useLocalCurrentObjectStackCache();
-	$var($String, metaValue_DE, u"Kelem\u0101nia"_s);
+	$var($String, metaValue_DE, u"Kelemānia"_s);
 	$var($String, metaValue_DK, "Kenemaka"_s);
 	$var($String, metaValue_FR, "Palani"_s);
 	$var($String, metaValue_GR, "Helene"_s);
-	$var($String, metaValue_IT, u"\u02bb\u012ak\u0101lia"_s);
-	$var($String, metaValue_NL, u"H\u014dlani"_s);
-	$var($String, metaValue_RU, u"L\u016bkia"_s);
+	$var($String, metaValue_IT, u"ʻĪkālia"_s);
+	$var($String, metaValue_NL, u"Hōlani"_s);
+	$var($String, metaValue_RU, u"Lūkia"_s);
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("de"_s),
@@ -57,11 +57,11 @@ $ObjectArray2* LocaleNames_haw::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("zh_Hans"_s),
-			$of(u"P\u0101k\u0113 Ho\u02bboma\u02bbalahi \u02bbia"_s)
+			$of(u"Pākē Hoʻomaʻalahi ʻia"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pt"_s),
-			$of(u"Pukik\u012b"_s)
+			$of(u"Pukikī"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ty"_s),
@@ -73,39 +73,39 @@ $ObjectArray2* LocaleNames_haw::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("gsw"_s),
-			$of(u"Kuikilani Kelem\u0101nia"_s)
+			$of(u"Kuikilani Kelemānia"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pt_BR"_s),
-			$of(u"Pukik\u012b Palakila"_s)
+			$of(u"Pukikī Palakila"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("IE"_s),
-			$of(u"\u02bbIlelani"_s)
+			$of(u"ʻIlelani"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mi"_s),
-			$of(u"M\u0101ori"_s)
+			$of(u"Māori"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("zh_Hant"_s),
-			$of(u"P\u0101k\u0113 Ku\u02bbuna"_s)
+			$of(u"Pākē Kuʻuna"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("US"_s),
-			$of(u"\u02bbAmelika Hui P\u016b \u02bbIa"_s)
+			$of(u"ʻAmelika Hui Pū ʻIa"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("haw"_s),
-			$of(u"\u02bb\u014clelo Hawai\u02bbi"_s)
+			$of(u"ʻŌlelo Hawaiʻi"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("IL"_s),
-			$of(u"\u02bbIsera\u02bbela"_s)
+			$of(u"ʻIseraʻela"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("IN"_s),
-			$of(u"\u02bb\u012ania"_s)
+			$of(u"ʻĪnia"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("el"_s),
@@ -113,7 +113,7 @@ $ObjectArray2* LocaleNames_haw::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("en"_s),
-			$of(u"Pelek\u0101nia"_s)
+			$of(u"Pelekānia"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("it"_s),
@@ -137,11 +137,11 @@ $ObjectArray2* LocaleNames_haw::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("zh"_s),
-			$of(u"P\u0101k\u0113"_s)
+			$of(u"Pākē"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ar"_s),
-			$of(u"\u02bbAlapia"_s)
+			$of(u"ʻAlapia"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("vi"_s),
@@ -149,15 +149,15 @@ $ObjectArray2* LocaleNames_haw::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("AU"_s),
-			$of(u"N\u016bh\u014dlani"_s)
+			$of(u"Nūhōlani"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("en_US"_s),
-			$of(u"Pelek\u0101nia \u02bbAmelika"_s)
+			$of(u"Pelekānia ʻAmelika"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ja"_s),
-			$of(u"Kepan\u012b"_s)
+			$of(u"Kepanī"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("nl"_s),
@@ -177,15 +177,15 @@ $ObjectArray2* LocaleNames_haw::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("fj"_s),
-			$of(u"P\u012bk\u012b"_s)
+			$of(u"Pīkī"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("JP"_s),
-			$of(u"I\u0101pana"_s)
+			$of(u"Iāpana"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("en_AU"_s),
-			$of(u"Pelek\u0101ne N\u016b H\u014dlani"_s)
+			$of(u"Pelekāne Nū Hōlani"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("fr"_s),
@@ -201,19 +201,19 @@ $ObjectArray2* LocaleNames_haw::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ga"_s),
-			$of(u"\u02bbAiliki"_s)
+			$of(u"ʻAiliki"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sm"_s),
-			$of(u"K\u0101moa"_s)
+			$of(u"Kāmoa"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("GB"_s),
-			$of(u"Aupuni M\u014d\u02bb\u012b Hui P\u016b \u02bbIa"_s)
+			$of(u"Aupuni Mōʻī Hui Pū ʻIa"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("CA"_s),
-			$of(u"Kanak\u0101"_s)
+			$of(u"Kanakā"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sv"_s),
@@ -221,15 +221,15 @@ $ObjectArray2* LocaleNames_haw::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("fr_CA"_s),
-			$of(u"Palani Kanak\u0101"_s)
+			$of(u"Palani Kanakā"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ko"_s),
-			$of(u"K\u014dlea"_s)
+			$of(u"Kōlea"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("und"_s),
-			$of(u"\u02bbIke \u02bbole \u2018ia a k\u016bpono \u02bbole paha ka \u02bb\u014dlelo"_s)
+			$of(u"ʻIke ʻole ‘ia a kūpono ʻole paha ka ʻōlelo"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("fr_CH"_s),
@@ -245,11 +245,11 @@ $ObjectArray2* LocaleNames_haw::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("en_GB"_s),
-			$of(u"Pelek\u0101nia Pekek\u0101ne"_s)
+			$of(u"Pelekānia Pekekāne"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("la"_s),
-			$of(u"L\u0101kina"_s)
+			$of(u"Lākina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cy"_s),
@@ -257,11 +257,11 @@ $ObjectArray2* LocaleNames_haw::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("en_CA"_s),
-			$of(u"Pelek\u0101ne Kanak\u0101"_s)
+			$of(u"Pelekāne Kanakā"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("PH"_s),
-			$of(u"\u02bb\u0100ina Pilipino"_s)
+			$of(u"ʻĀina Pilipino"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("to"_s),

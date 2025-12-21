@@ -127,11 +127,11 @@ $ObjectArray2* TimeZoneNames_de::getContents() {
 		"ACT"_s
 	}));
 	$var($StringArray, ADELAIDE, $new($StringArray, {
-		u"Zentrale Normalzeit (S\u00fcdaustralien)"_s,
+		u"Zentrale Normalzeit (Südaustralien)"_s,
 		"ACST"_s,
-		u"Zentrale Sommerzeit (S\u00fcdaustralien)"_s,
+		u"Zentrale Sommerzeit (Südaustralien)"_s,
 		"ACDT"_s,
-		u"Zentrale Zeitzone (S\u00fcdaustralien)"_s,
+		u"Zentrale Zeitzone (Südaustralien)"_s,
 		"ACT"_s
 	}));
 	$var($StringArray, AGT, $new($StringArray, {
@@ -147,7 +147,7 @@ $ObjectArray2* TimeZoneNames_de::getContents() {
 		"AKST"_s,
 		"Alaska Sommerzeit"_s,
 		"AKDT"_s,
-		u"Zeitzone f\u00fcr Alaska"_s,
+		u"Zeitzone für Alaska"_s,
 		"AKT"_s
 	}));
 	$var($StringArray, AMT, $new($StringArray, {
@@ -163,7 +163,7 @@ $ObjectArray2* TimeZoneNames_de::getContents() {
 		"AST"_s,
 		"Arabische Sommerzeit"_s,
 		"ADT"_s,
-		u"Zeitzone f\u00fcr Arabische Halbinsel"_s,
+		u"Zeitzone für Arabische Halbinsel"_s,
 		"AT"_s
 	}));
 	$var($StringArray, ARMT, $new($StringArray, {
@@ -191,19 +191,19 @@ $ObjectArray2* TimeZoneNames_de::getContents() {
 		"BDT"_s
 	}));
 	$var($StringArray, BRISBANE, $new($StringArray, {
-		u"\u00d6stliche Normalzeit (Queensland)"_s,
+		u"Östliche Normalzeit (Queensland)"_s,
 		"AEST"_s,
-		u"\u00d6stliche Sommerzeit (Queensland)"_s,
+		u"Östliche Sommerzeit (Queensland)"_s,
 		"AEDT"_s,
-		u"\u00d6stliche Zeitzone (Queensland)"_s,
+		u"Östliche Zeitzone (Queensland)"_s,
 		"AET"_s
 	}));
 	$var($StringArray, BROKEN_HILL, $new($StringArray, {
-		u"Zentrale Normalzeit (S\u00fcdaustralien/New South Wales)"_s,
+		u"Zentrale Normalzeit (Südaustralien/New South Wales)"_s,
 		"ACST"_s,
-		u"Zentrale Sommerzeit (S\u00fcdaustralien/New South Wales)"_s,
+		u"Zentrale Sommerzeit (Südaustralien/New South Wales)"_s,
 		"ACDT"_s,
-		u"Zentrale Zeitzone (S\u00fcdaustralien/New South Wales)"_s,
+		u"Zentrale Zeitzone (Südaustralien/New South Wales)"_s,
 		"ACT"_s
 	}));
 	$var($StringArray, BRT, $new($StringArray, {
@@ -231,11 +231,11 @@ $ObjectArray2* TimeZoneNames_de::getContents() {
 		"CAT"_s
 	}));
 	$var($StringArray, CET, $new($StringArray, {
-		u"Mitteleurop\u00e4ische Zeit"_s,
+		u"Mitteleuropäische Zeit"_s,
 		"MEZ"_s,
-		u"Mitteleurop\u00e4ische Sommerzeit"_s,
+		u"Mitteleuropäische Sommerzeit"_s,
 		"MESZ"_s,
-		u"Mitteleurop\u00e4ische Zeit"_s,
+		u"Mitteleuropäische Zeit"_s,
 		"MEZ"_s
 	}));
 	$var($StringArray, CHAST, $new($StringArray, {
@@ -243,7 +243,7 @@ $ObjectArray2* TimeZoneNames_de::getContents() {
 		"CHAST"_s,
 		"Chatham Sommerzeit"_s,
 		"CHADT"_s,
-		u"Zeitzone f\u00fcr Chatham-Inseln"_s,
+		u"Zeitzone für Chatham-Inseln"_s,
 		"CHAT"_s
 	}));
 	$var($StringArray, CHUT, $new($StringArray, {
@@ -283,7 +283,7 @@ $ObjectArray2* TimeZoneNames_de::getContents() {
 		"CST"_s,
 		"Chinesische Sommerzeit"_s,
 		"CDT"_s,
-		u"Zeitzone f\u00fcr China"_s,
+		u"Zeitzone für China"_s,
 		"CT"_s
 	}));
 	$var($StringArray, CUBA, $new($StringArray, {
@@ -327,35 +327,35 @@ $ObjectArray2* TimeZoneNames_de::getContents() {
 		"EAST"_s
 	}));
 	$var($StringArray, EET, $new($StringArray, {
-		u"Osteurop\u00e4ische Zeit"_s,
+		u"Osteuropäische Zeit"_s,
 		"OEZ"_s,
-		u"Osteurop\u00e4ische Sommerzeit"_s,
+		u"Osteuropäische Sommerzeit"_s,
 		"OESZ"_s,
-		u"Osteurop\u00e4ische Zeit"_s,
+		u"Osteuropäische Zeit"_s,
 		"OEZ"_s
 	}));
 	$var($StringArray, EGT, $new($StringArray, {
-		u"Ostgr\u00f6nl\u00e4ndische Zeit"_s,
+		u"Ostgrönländische Zeit"_s,
 		"EGT"_s,
-		u"Ostgr\u00f6nl\u00e4ndische Sommerzeit"_s,
+		u"Ostgrönländische Sommerzeit"_s,
 		"EGST"_s,
-		u"Ostgr\u00f6nl\u00e4ndische Zeit"_s,
+		u"Ostgrönländische Zeit"_s,
 		"EGT"_s
 	}));
 	$var($StringArray, EST, $new($StringArray, {
-		u"\u00d6stliche Normalzeit"_s,
+		u"Östliche Normalzeit"_s,
 		"EST"_s,
-		u"\u00d6stliche Sommerzeit"_s,
+		u"Östliche Sommerzeit"_s,
 		"EDT"_s,
-		u"\u00d6stliche Zeitzone"_s,
+		u"Östliche Zeitzone"_s,
 		"ET"_s
 	}));
 	$var($StringArray, EST_NSW, $new($StringArray, {
-		u"\u00d6stliche Normalzeit (New South Wales)"_s,
+		u"Östliche Normalzeit (New South Wales)"_s,
 		"AEST"_s,
-		u"\u00d6stliche Sommerzeit (New South Wales)"_s,
+		u"Östliche Sommerzeit (New South Wales)"_s,
 		"AEDT"_s,
-		u"\u00d6stliche Zeitzone (New South Wales)"_s,
+		u"Östliche Zeitzone (New South Wales)"_s,
 		"AET"_s
 	}));
 	$var($StringArray, FET, $new($StringArray, {
@@ -403,7 +403,7 @@ $ObjectArray2* TimeZoneNames_de::getContents() {
 		"GST"_s,
 		"Golf Sommerzeit"_s,
 		"GDT"_s,
-		u"Zeitzone f\u00fcr Persischen Golf"_s,
+		u"Zeitzone für Persischen Golf"_s,
 		"GT"_s
 	}));
 	$var($StringArray, HKT, $new($StringArray, {
@@ -419,7 +419,7 @@ $ObjectArray2* TimeZoneNames_de::getContents() {
 		"HST"_s,
 		"Hawaii Sommerzeit"_s,
 		"HDT"_s,
-		u"Zeitzone f\u00fcr Hawaii"_s,
+		u"Zeitzone für Hawaii"_s,
 		"HT"_s
 	}));
 	$var($StringArray, ICT, $new($StringArray, {
@@ -451,7 +451,7 @@ $ObjectArray2* TimeZoneNames_de::getContents() {
 		"IST"_s,
 		"Israelische Sommerzeit"_s,
 		"IDT"_s,
-		u"Zeitzone f\u00fcr Israel"_s,
+		u"Zeitzone für Israel"_s,
 		"IT"_s
 	}));
 	$var($StringArray, IST, $new($StringArray, {
@@ -459,7 +459,7 @@ $ObjectArray2* TimeZoneNames_de::getContents() {
 		"IST"_s,
 		"Indische Sommerzeit"_s,
 		"IDT"_s,
-		u"Zeitzone f\u00fcr Indien"_s,
+		u"Zeitzone für Indien"_s,
 		"IT"_s
 	}));
 	$var($StringArray, JST, $new($StringArray, {
@@ -467,7 +467,7 @@ $ObjectArray2* TimeZoneNames_de::getContents() {
 		"JST"_s,
 		"Japanische Sommerzeit"_s,
 		"JDT"_s,
-		u"Zeitzone f\u00fcr Japan"_s,
+		u"Zeitzone für Japan"_s,
 		"JT"_s
 	}));
 	$var($StringArray, KRAT, $new($StringArray, {
@@ -483,7 +483,7 @@ $ObjectArray2* TimeZoneNames_de::getContents() {
 		"KST"_s,
 		"Koreanische Sommerzeit"_s,
 		"KDT"_s,
-		u"Zeitzone f\u00fcr Korea"_s,
+		u"Zeitzone für Korea"_s,
 		"KT"_s
 	}));
 	$var($StringArray, LORD_HOWE, $new($StringArray, {
@@ -515,7 +515,7 @@ $ObjectArray2* TimeZoneNames_de::getContents() {
 		"MSK"_s,
 		"Moskauer Sommerzeit"_s,
 		"MSD"_s,
-		u"Zeitzone f\u00fcr Moskau"_s,
+		u"Zeitzone für Moskau"_s,
 		"MT"_s
 	}));
 	$var($StringArray, MST, $new($StringArray, {
@@ -563,7 +563,7 @@ $ObjectArray2* TimeZoneNames_de::getContents() {
 		"NST"_s,
 		"Neufundland Sommerzeit"_s,
 		"NDT"_s,
-		u"Zeitzone f\u00fcr Neufundland"_s,
+		u"Zeitzone für Neufundland"_s,
 		"NT"_s
 	}));
 	$var($StringArray, NZST, $new($StringArray, {
@@ -571,7 +571,7 @@ $ObjectArray2* TimeZoneNames_de::getContents() {
 		"NZST"_s,
 		"Neuseeland Sommerzeit"_s,
 		"NZDT"_s,
-		u"Zeitzone f\u00fcr Neuseeland"_s,
+		u"Zeitzone für Neuseeland"_s,
 		"NZT"_s
 	}));
 	$var($StringArray, PITCAIRN, $new($StringArray, {
@@ -579,7 +579,7 @@ $ObjectArray2* TimeZoneNames_de::getContents() {
 		"PST"_s,
 		"Pitcairn Sommerzeit"_s,
 		"PDT"_s,
-		u"Zeitzone f\u00fcr Pitcairn"_s,
+		u"Zeitzone für Pitcairn"_s,
 		"PT"_s
 	}));
 	$var($StringArray, PKT, $new($StringArray, {
@@ -607,11 +607,11 @@ $ObjectArray2* TimeZoneNames_de::getContents() {
 		"PT"_s
 	}));
 	$var($StringArray, SAST, $new($StringArray, {
-		u"S\u00fcdafrikanische Normalzeit"_s,
+		u"Südafrikanische Normalzeit"_s,
 		"SAST"_s,
-		u"S\u00fcdafrikanische Sommerzeit"_s,
+		u"Südafrikanische Sommerzeit"_s,
 		"SAST"_s,
-		u"Zeitzone f\u00fcr S\u00fcdafrika"_s,
+		u"Zeitzone für Südafrika"_s,
 		"SAT"_s
 	}));
 	$var($StringArray, SBT, $new($StringArray, {
@@ -631,11 +631,11 @@ $ObjectArray2* TimeZoneNames_de::getContents() {
 		"SGT"_s
 	}));
 	$var($StringArray, TASMANIA, $new($StringArray, {
-		u"\u00d6stliche Normalzeit (Tasmanien)"_s,
+		u"Östliche Normalzeit (Tasmanien)"_s,
 		"AEST"_s,
-		u"\u00d6stliche Sommerzeit (Tasmanien)"_s,
+		u"Östliche Sommerzeit (Tasmanien)"_s,
 		"AEDT"_s,
-		u"\u00d6stliche Zeitzone (Tasmanien)"_s,
+		u"Östliche Zeitzone (Tasmanien)"_s,
 		"AET"_s
 	}));
 	$var($StringArray, TMT, $new($StringArray, {
@@ -663,19 +663,19 @@ $ObjectArray2* TimeZoneNames_de::getContents() {
 		"WAT"_s
 	}));
 	$var($StringArray, WET, $new($StringArray, {
-		u"Westeurop\u00e4ische Zeit"_s,
+		u"Westeuropäische Zeit"_s,
 		"WEZ"_s,
-		u"Westeurop\u00e4ische Sommerzeit"_s,
+		u"Westeuropäische Sommerzeit"_s,
 		"WESZ"_s,
-		u"Westeurop\u00e4ische Zeit"_s,
+		u"Westeuropäische Zeit"_s,
 		"WEZ"_s
 	}));
 	$var($StringArray, WGT, $new($StringArray, {
-		u"Westgr\u00f6nl\u00e4ndische Zeit"_s,
+		u"Westgrönländische Zeit"_s,
 		"WGT"_s,
-		u"Westgr\u00f6nl\u00e4ndische Sommerzeit"_s,
+		u"Westgrönländische Sommerzeit"_s,
 		"WGST"_s,
-		u"Westgr\u00f6nl\u00e4ndische Zeit"_s,
+		u"Westgrönländische Zeit"_s,
 		"WGT"_s
 	}));
 	$var($StringArray, WIT, $new($StringArray, {
@@ -699,7 +699,7 @@ $ObjectArray2* TimeZoneNames_de::getContents() {
 		"SST"_s,
 		"Samoa Sommerzeit"_s,
 		"SDT"_s,
-		u"Zeitzone f\u00fcr Samoa"_s,
+		u"Zeitzone für Samoa"_s,
 		"ST"_s
 	}));
 	$var($StringArray, WST_SAMOA, $new($StringArray, {
@@ -715,15 +715,15 @@ $ObjectArray2* TimeZoneNames_de::getContents() {
 		"ChST"_s,
 		"Chamorro Sommerzeit"_s,
 		"ChDT"_s,
-		u"Zeitzone f\u00fcr die Marianen"_s,
+		u"Zeitzone für die Marianen"_s,
 		"ChT"_s
 	}));
 	$var($StringArray, VICTORIA, $new($StringArray, {
-		u"\u00d6stliche Normalzeit (Victoria)"_s,
+		u"Östliche Normalzeit (Victoria)"_s,
 		"AEST"_s,
-		u"\u00d6stliche Sommerzeit (Victoria)"_s,
+		u"Östliche Sommerzeit (Victoria)"_s,
 		"AEDT"_s,
-		u"\u00d6stliche Zeitzone (Victoria)"_s,
+		u"Östliche Zeitzone (Victoria)"_s,
 		"AET"_s
 	}));
 	$var($StringArray, UTC, $new($StringArray, {
@@ -747,7 +747,7 @@ $ObjectArray2* TimeZoneNames_de::getContents() {
 		"XJT"_s,
 		"Chinesische Sommerzeit"_s,
 		"XJDT"_s,
-		u"Zeitzone f\u00fcr China"_s,
+		u"Zeitzone für China"_s,
 		"XJT"_s
 	}));
 	$var($StringArray, YAKT, $new($StringArray, {
@@ -1279,11 +1279,11 @@ $ObjectArray2* TimeZoneNames_de::getContents() {
 		$$new($ObjectArray, {
 			$of("America/Cayenne"_s),
 			$of($$new($StringArray, {
-				u"Franz\u00f6sisch-Guiana Zeit"_s,
+				u"Französisch-Guiana Zeit"_s,
 				"GFT"_s,
-				u"Franz\u00f6sisch-Guiana Sommerzeit"_s,
+				u"Französisch-Guiana Sommerzeit"_s,
 				"GFST"_s,
-				u"Franz\u00f6sisch-Guiana Zeit"_s,
+				u"Französisch-Guiana Zeit"_s,
 				"GFT"_s
 			}))
 		}),
@@ -1578,7 +1578,7 @@ $ObjectArray2* TimeZoneNames_de::getContents() {
 				"PMST"_s,
 				"Pierre & Miquelon Sommerzeit"_s,
 				"PMDT"_s,
-				u"Zeitzone f\u00fcr St. Pierre und Miquelon"_s,
+				u"Zeitzone für St. Pierre und Miquelon"_s,
 				"PMT"_s
 			}))
 		}),
@@ -1899,7 +1899,7 @@ $ObjectArray2* TimeZoneNames_de::getContents() {
 			$of($$new($StringArray, {
 				"Koordinierte Universalzeit"_s,
 				"UTC"_s,
-				u"Mitteleurop\u00e4ische Sommerzeit"_s,
+				u"Mitteleuropäische Sommerzeit"_s,
 				"MESZ"_s,
 				"Troll Time"_s,
 				"ATT"_s
@@ -2516,7 +2516,7 @@ $ObjectArray2* TimeZoneNames_de::getContents() {
 				"GST"_s,
 				"South Georgia Sommerzeit"_s,
 				"GDT"_s,
-				u"Zeitzone f\u00fcr S\u00fcdgeorgien"_s,
+				u"Zeitzone für Südgeorgien"_s,
 				"GT"_s
 			}))
 		}),
@@ -3061,11 +3061,11 @@ $ObjectArray2* TimeZoneNames_de::getContents() {
 		$$new($ObjectArray, {
 			$of("Indian/Kerguelen"_s),
 			$of($$new($StringArray, {
-				u"Franz\u00f6sisch S\u00fcd- u. Antarktische Landzeit"_s,
+				u"Französisch Süd- u. Antarktische Landzeit"_s,
 				"TFT"_s,
-				u"Franz\u00f6sisch S\u00fcd- u. Antarktische Landsommerzeit"_s,
+				u"Französisch Süd- u. Antarktische Landsommerzeit"_s,
 				"TFST"_s,
-				u"Franz\u00f6sisch S\u00fcd- u. Antarktische Landzeit"_s,
+				u"Französisch Süd- u. Antarktische Landzeit"_s,
 				"TFT"_s
 			}))
 		}),
@@ -3113,7 +3113,7 @@ $ObjectArray2* TimeZoneNames_de::getContents() {
 				"RET"_s,
 				"Reunion Sommerzeit"_s,
 				"REST"_s,
-				u"R\u00e9union Zeit"_s,
+				u"Réunion Zeit"_s,
 				"RET"_s
 			}))
 		}),
@@ -3140,9 +3140,9 @@ $ObjectArray2* TimeZoneNames_de::getContents() {
 		$$new($ObjectArray, {
 			$of("MET"_s),
 			$of($$new($StringArray, {
-				u"Zentraleurop\u00e4ische Zeit"_s,
+				u"Zentraleuropäische Zeit"_s,
 				"MET"_s,
-				u"Zentraleurop\u00e4ische Sommerzeit"_s,
+				u"Zentraleuropäische Sommerzeit"_s,
 				"MEST"_s,
 				"MET"_s,
 				"MET"_s

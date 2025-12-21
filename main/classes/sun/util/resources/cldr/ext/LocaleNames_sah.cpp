@@ -39,29 +39,29 @@ void LocaleNames_sah::init$() {
 
 $ObjectArray2* LocaleNames_sah::getContents() {
 	$useLocalCurrentObjectStackCache();
-	$var($String, metaValue_el, u"\u0413\u0438\u0440\u0438\u044d\u043a\u0442\u0438\u0438"_s);
-	$var($String, metaValue_hy, u"\u042d\u0440\u043c\u044d\u044d\u043d\u043d\u0438\u0438"_s);
-	$var($String, metaValue_ja, u"\u0414\u044c\u043e\u043f\u043f\u0443\u043e\u043d\u043d\u0443\u0443"_s);
-	$var($String, metaValue_ko, u"\u041a\u044d\u0440\u0438\u044d\u0439\u0434\u0438\u0438"_s);
-	$var($String, metaValue_la, u"\u041b\u0430\u0442\u044b\u044b\u043d\u043d\u044b\u044b"_s);
-	$var($String, metaValue_mn, u"\u041c\u043e\u0495\u0443\u043e\u043b\u043b\u0443\u0443"_s);
-	$var($String, metaValue_ru, u"\u041d\u0443\u0443\u0447\u0447\u0430\u043b\u044b\u044b"_s);
+	$var($String, metaValue_el, u"Гириэктии"_s);
+	$var($String, metaValue_hy, u"Эрмээннии"_s);
+	$var($String, metaValue_ja, u"Дьоппуоннуу"_s);
+	$var($String, metaValue_ko, u"Кэриэйдии"_s);
+	$var($String, metaValue_la, u"Латыынныы"_s);
+	$var($String, metaValue_mn, u"Моҕуоллуу"_s);
+	$var($String, metaValue_ru, u"Нууччалыы"_s);
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("pt"_s),
-			$of(u"\u041f\u043e\u0440\u0442\u0443\u0433\u0430\u0430\u043b\u043b\u044b\u044b"_s)
+			$of(u"Португааллыы"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("fil"_s),
-			$of(u"\u041f\u0438\u043b\u0438\u043f\u0438\u0438\u043d\u043d\u0438\u0438"_s)
+			$of(u"Пилипииннии"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("hu"_s),
-			$of(u"\u0411\u044d\u04a5\u0433\u0438\u044d\u0440\u0434\u0438\u0438"_s)
+			$of(u"Бэҥгиэрдии"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("key.ca"_s),
-			$of(u"\u0425\u0430\u043b\u0430\u043d\u0434\u0430\u0430\u0440"_s)
+			$of(u"Халандаар"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("hy"_s),
@@ -69,47 +69,47 @@ $ObjectArray2* LocaleNames_sah::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("type.hc.h23"_s),
-			$of(u"24 \u0447\u0430\u0430\u0441\u0442\u0430\u0430\u0445 \u0442\u0438\u04bb\u0438\u043a (0\u201323)"_s)
+			$of(u"24 чаастаах тиһик (0–23)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.hc.h24"_s),
-			$of(u"24 \u0447\u0430\u0430\u0441\u0442\u0430\u0430\u0445 \u0442\u0438\u04bb\u0438\u043a (0\u201324)"_s)
+			$of(u"24 чаастаах тиһик (0–24)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("IE"_s),
-			$of(u"\u0418\u0440\u043b\u0430\u043d\u0434\u0438\u044f"_s)
+			$of(u"Ирландия"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ab"_s),
-			$of(u"\u0410\u0431\u0445\u0430\u0430\u0441\u0442\u044b\u044b"_s)
+			$of(u"Абхаастыы"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("IM"_s),
-			$of(u"\u041c\u044d\u043d \u0430\u0440\u044b\u044b"_s)
+			$of(u"Мэн арыы"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("af"_s),
-			$of(u"\u0410\u043f\u043f\u044b\u0440\u044b\u043a\u0430\u0430\u043d\u044b\u0441\u0442\u044b\u044b"_s)
+			$of(u"Аппырыкааныстыы"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("IS"_s),
-			$of(u"\u0418\u0441\u043b\u0430\u043d\u0434\u0438\u044f"_s)
+			$of(u"Исландия"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("it"_s),
-			$of(u"\u042b\u0442\u0430\u0430\u043b\u044b\u0439\u0430\u043b\u044b\u044b"_s)
+			$of(u"Ытаалыйалыы"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("am"_s),
-			$of(u"\u0410\u043c\u0445\u0430\u0430\u0440\u0434\u044b\u044b"_s)
+			$of(u"Амхаардыы"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Arab"_s),
-			$of(u"\u0410\u0440\u0430\u0430\u043f\u0442\u044b\u044b"_s)
+			$of(u"Арааптыы"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("zh"_s),
-			$of(u"\u041a\u044b\u0442\u0430\u0439\u0434\u044b\u044b"_s)
+			$of(u"Кытайдыы"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Jpan"_s),
@@ -117,31 +117,31 @@ $ObjectArray2* LocaleNames_sah::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("001"_s),
-			$of(u"\u0410\u0430\u043d \u0434\u043e\u0439\u0434\u0443"_s)
+			$of(u"Аан дойду"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ar"_s),
-			$of(u"\u0410\u0440\u0430\u0430\u0431\u0442\u044b\u044b"_s)
+			$of(u"Араабтыы"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("002"_s),
-			$of(u"\u0410\u0430\u043f\u044b\u0440\u044b\u043a\u0430"_s)
+			$of(u"Аапырыка"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("003"_s),
-			$of(u"\u0425\u043e\u0442\u0443\u0433\u0443 \u042d\u043c\u0438\u044d\u0440\u0438\u043a\u044d"_s)
+			$of(u"Хотугу Эмиэрикэ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.hc.h12"_s),
-			$of(u"12 \u0447\u0430\u0430\u0441\u0442\u0430\u0430\u0445 \u0442\u0438\u04bb\u0438\u043a (0\u201312)"_s)
+			$of(u"12 чаастаах тиһик (0–12)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("005"_s),
-			$of(u"\u0421\u043e\u0495\u0443\u0440\u0443\u0443 \u042d\u043c\u0438\u044d\u0440\u0438\u043a\u044d"_s)
+			$of(u"Соҕуруу Эмиэрикэ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("av"_s),
-			$of(u"\u0410\u0432\u0430\u0430\u0440\u0434\u044b\u044b"_s)
+			$of(u"Аваардыы"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ja"_s),
@@ -149,27 +149,27 @@ $ObjectArray2* LocaleNames_sah::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("type.hc.h11"_s),
-			$of(u"12 \u0447\u0430\u0430\u0441\u0442\u0430\u0430\u0445 \u0442\u0438\u04bb\u0438\u043a (0\u201311)"_s)
+			$of(u"12 чаастаах тиһик (0–11)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("az"_s),
-			$of(u"\u0410\u0434\u044c\u044b\u0440\u0431\u0430\u0439\u0434\u044c\u0430\u0430\u043d\u043d\u044b\u044b"_s)
+			$of(u"Адьырбайдьаанныы"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("zu"_s),
-			$of(u"\u0417\u0443\u0443\u043b\u0443\u043b\u0443\u0443"_s)
+			$of(u"Зуулулуу"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.ca.islamic"_s),
-			$of(u"\u0418\u0441\u043b\u0430\u0430\u043c \u0445\u0430\u043b\u0430\u043d\u0434\u0430\u0430\u0440\u0430"_s)
+			$of(u"Ислаам халандаара"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("key.cu"_s),
-			$of(u"\u0423\u043b\u0430\u0440\u044b\u0442\u044b\u044b"_s)
+			$of(u"Уларытыы"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ro"_s),
-			$of(u"\u0420\u0443\u043c\u044b\u044b\u043d\u043d\u044b\u044b"_s)
+			$of(u"Румыынныы"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ru"_s),
@@ -177,75 +177,75 @@ $ObjectArray2* LocaleNames_sah::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("JM"_s),
-			$of(u"\u0414\u044c\u0430\u043c\u0430\u0430\u0439\u043a\u0430"_s)
+			$of(u"Дьамаайка"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("RU"_s),
-			$of(u"\u0410\u0440\u0430\u0441\u0441\u044b\u044b\u0439\u0430"_s)
+			$of(u"Арассыыйа"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("be"_s),
-			$of(u"\u0411\u04e9\u043b\u04e9\u0440\u04af\u04af\u0441\u0442\u04af\u04af"_s)
+			$of(u"Бөлөрүүстүү"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bg"_s),
-			$of(u"\u0411\u0443\u043b\u0495\u0430\u0430\u0440\u0434\u044b\u044b"_s)
+			$of(u"Булҕаардыы"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bn"_s),
-			$of(u"\u0411\u0435\u043d\u0433\u0430\u043b\u043b\u044b\u044b"_s)
+			$of(u"Бенгаллыы"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bo"_s),
-			$of(u"\u0422\u0438\u0431\u0438\u044d\u0442\u0442\u0438\u0438"_s)
+			$of(u"Тибиэттии"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("BR"_s),
-			$of(u"\u0411\u0440\u0430\u0437\u0438\u043b\u0438\u044f"_s)
+			$of(u"Бразилия"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("SD"_s),
-			$of(u"\u0421\u0443\u0434\u0430\u0430\u043d"_s)
+			$of(u"Судаан"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bs"_s),
-			$of(u"\u0411\u043e\u0441\u043d\u044b\u0439\u0430\u043b\u044b\u044b"_s)
+			$of(u"Босныйалыы"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("SE"_s),
-			$of(u"\u0428\u0432\u0435\u0446\u0438\u044f"_s)
+			$of(u"Швеция"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ka"_s),
-			$of(u"\u041a\u0443\u0440\u0443\u0441\u0443\u0443\u043d\u043d\u0443\u0443"_s)
+			$of(u"Курусууннуу"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.ca.buddhist"_s),
-			$of(u"\u0411\u0443\u0443\u0434\u0434\u0430 \u0445\u0430\u043b\u0430\u043d\u0434\u0430\u0430\u0440\u0430"_s)
+			$of(u"Буудда халандаара"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sk"_s),
-			$of(u"\u0421\u043b\u043e\u0432\u0430\u0430\u043a\u0442\u044b\u044b"_s)
+			$of(u"Словаактыы"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("CA"_s),
-			$of(u"\u041a\u0430\u043d\u0430\u0430\u0434\u0430"_s)
+			$of(u"Канаада"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ca"_s),
-			$of(u"\u041a\u0430\u0442\u0430\u043b\u0430\u0430\u043d\u043d\u044b\u044b"_s)
+			$of(u"Каталаанныы"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sq"_s),
-			$of(u"\u0410\u043b\u0431\u0430\u0430\u043d\u043d\u044b\u044b"_s)
+			$of(u"Албаанныы"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kk"_s),
-			$of(u"\u0425\u0430\u04bb\u0430\u0430\u0445\u0442\u044b\u044b"_s)
+			$of(u"Хаһаахтыы"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ce"_s),
-			$of(u"\u0427\u044d\u0447\u0438\u044d\u043d\u043d\u0438\u0438"_s)
+			$of(u"Чэчиэннии"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ko"_s),
@@ -253,19 +253,19 @@ $ObjectArray2* LocaleNames_sah::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("CL"_s),
-			$of(u"\u0427\u0438\u0438\u043b\u0438"_s)
+			$of(u"Чиили"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("CN"_s),
-			$of(u"\u041a\u044b\u0442\u0430\u0439"_s)
+			$of(u"Кытай"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ta"_s),
-			$of(u"\u0422\u0430\u043c\u044b\u043b\u043b\u044b\u044b"_s)
+			$of(u"Тамыллыы"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ky"_s),
-			$of(u"\u041a\u044b\u0440\u0433\u044b\u0441\u0442\u044b\u044b"_s)
+			$of(u"Кыргыстыы"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Cyrl"_s),
@@ -273,19 +273,19 @@ $ObjectArray2* LocaleNames_sah::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("cs"_s),
-			$of(u"\u0427\u0438\u044d\u0445\u0442\u0438\u0438"_s)
+			$of(u"Чиэхтии"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("te"_s),
-			$of(u"\u0422\u04e9\u043b\u04af\u0433\u04af\u043b\u04af\u04af"_s)
+			$of(u"Төлүгүлүү"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("CU"_s),
-			$of(u"\u041a\u0443\u0443\u0431\u0430"_s)
+			$of(u"Кууба"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("tg"_s),
-			$of(u"\u0422\u0430\u0434\u044c\u044b\u044b\u043a\u0442\u044b\u044b"_s)
+			$of(u"Тадьыыктыы"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("la"_s),
@@ -293,39 +293,39 @@ $ObjectArray2* LocaleNames_sah::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("da"_s),
-			$of(u"\u0414\u0430\u0430\u0442\u0441\u043a\u0430\u0439\u0434\u044b\u044b"_s)
+			$of(u"Даатскайдыы"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("tt"_s),
-			$of(u"\u0422\u0430\u0442\u0430\u0430\u0440\u0434\u044b\u044b"_s)
+			$of(u"Татаардыы"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("de"_s),
-			$of(u"\u041d\u0438\u044d\u043c\u044d\u0441\u0442\u0438\u0438"_s)
+			$of(u"Ниэмэстии"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ast"_s),
-			$of(u"\u0410\u0441\u0442\u0443\u0443\u0440\u0434\u0443\u0443"_s)
+			$of(u"Астуурдуу"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("LT"_s),
-			$of(u"\u041b\u0438\u0442\u0432\u0430"_s)
+			$of(u"Литва"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("LV"_s),
-			$of(u"\u041b\u0430\u0442\u0432\u0438\u044f"_s)
+			$of(u"Латвия"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Zzzz"_s),
-			$of(u"\u0411\u0438\u043b\u043b\u0438\u0431\u044d\u0442 \u0441\u0443\u0440\u0443\u043a"_s)
+			$of(u"Биллибэт сурук"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("LY"_s),
-			$of(u"\u041b\u0438\u0438\u0431\u0438\u0439\u044d"_s)
+			$of(u"Лиибийэ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ug"_s),
-			$of(u"\u0423\u0439\u0433\u0443\u0443\u0440\u0434\u0443\u0443"_s)
+			$of(u"Уйгуурдуу"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Kore"_s),
@@ -333,27 +333,27 @@ $ObjectArray2* LocaleNames_sah::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("uk"_s),
-			$of(u"\u0423\u043a\u0440\u0430\u0439\u044b\u044b\u043d\u044c\u044b\u0441\u0442\u044b\u044b"_s)
+			$of(u"Украйыыньыстыы"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.ca.chinese"_s),
-			$of(u"\u041a\u044b\u0442\u0430\u0439 \u0445\u0430\u043b\u0430\u043d\u0434\u0430\u0430\u0440\u0430"_s)
+			$of(u"Кытай халандаара"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ale"_s),
-			$of(u"\u0410\u043b\u0435\u0443\u0442\u0442\u0443\u0443"_s)
+			$of(u"Алеуттуу"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Thai"_s),
-			$of(u"\u0422\u0430\u0430\u0439\u0434\u044b\u044b"_s)
+			$of(u"Таайдыы"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("US"_s),
-			$of(u"\u0410\u043c\u0435\u0440\u0438\u043a\u0430 \u0425\u043e\u043b\u0431\u043e\u04bb\u0443\u043a\u0442\u0430\u0430\u0445 \u0428\u0442\u0430\u0430\u0442\u0442\u0430\u0440\u0430"_s)
+			$of(u"Америка Холбоһуктаах Штааттара"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("EE"_s),
-			$of(u"\u042d\u0441\u0442\u043e\u043d\u0438\u044f"_s)
+			$of(u"Эстония"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mn"_s),
@@ -361,11 +361,11 @@ $ObjectArray2* LocaleNames_sah::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("uz"_s),
-			$of(u"\u04ae\u0437\u0431\u0438\u044d\u043a\u0442\u0438\u0438"_s)
+			$of(u"Үзбиэктии"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ms"_s),
-			$of(u"\u041c\u0430\u043b\u0430\u0430\u0439\u0434\u044b\u044b"_s)
+			$of(u"Малаайдыы"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("el"_s),
@@ -373,15 +373,15 @@ $ObjectArray2* LocaleNames_sah::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("en"_s),
-			$of(u"\u0410\u0430\u04a5\u044b\u043b\u043b\u044b\u044b"_s)
+			$of(u"Ааҥыллыы"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("MX"_s),
-			$of(u"\u041c\u0438\u044d\u043a\u0441\u0438\u043a\u044d"_s)
+			$of(u"Миэксикэ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.ca.japanese"_s),
-			$of(u"\u0414\u044c\u043e\u043f\u043f\u0443\u043e\u043d \u0445\u0430\u043b\u0430\u043d\u0434\u0430\u0430\u0440\u0430"_s)
+			$of(u"Дьоппуон халандаара"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Armn"_s),
@@ -389,43 +389,43 @@ $ObjectArray2* LocaleNames_sah::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("es"_s),
-			$of(u"\u042b\u0441\u043f\u0430\u0430\u043d\u043d\u044b\u044b"_s)
+			$of(u"Ыспаанныы"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("et"_s),
-			$of(u"\u042d\u0441\u0442\u0438\u044d\u043d\u0438\u0439\u044d\u043b\u0438\u0438"_s)
+			$of(u"Эстиэнийэлии"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.ca.hebrew"_s),
-			$of(u"\u0414\u044c\u044d\u0431\u0438\u0440\u0438\u044d\u0439 \u0445\u0430\u043b\u0430\u043d\u0434\u0430\u0430\u0440\u0430"_s)
+			$of(u"Дьэбириэй халандаара"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ne"_s),
-			$of(u"\u041d\u044c\u044b\u043f\u0430\u0430\u043b\u043b\u044b\u044b"_s)
+			$of(u"Ньыпааллыы"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("fa"_s),
-			$of(u"\u041f\u0438\u044d\u0440\u0438\u0441\u0442\u0438\u0438"_s)
+			$of(u"Пиэристии"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("NO"_s),
-			$of(u"\u041d\u043e\u0440\u0432\u0435\u0433\u0438\u044f"_s)
+			$of(u"Норвегия"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("FI"_s),
-			$of(u"\u0424\u0438\u043d\u043b\u044f\u043d\u0434\u0438\u044f"_s)
+			$of(u"Финляндия"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("fi"_s),
-			$of(u"\u041f\u0438\u0438\u043d\u043d\u0438\u0438"_s)
+			$of(u"Пииннии"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("nog"_s),
-			$of(u"\u041d\u0430\u0433\u0430\u0430\u0439\u0434\u044b\u044b"_s)
+			$of(u"Нагаайдыы"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("fr"_s),
-			$of(u"\u0411\u043e\u0440\u043e\u043d\u0441\u0443\u0443\u0441\u0442\u0443\u0443"_s)
+			$of(u"Боронсуустуу"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Grek"_s),
@@ -433,11 +433,11 @@ $ObjectArray2* LocaleNames_sah::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("GB"_s),
-			$of(u"\u0423\u043b\u0443\u0443 \u0411\u0440\u0438\u0442\u0430\u043d\u0438\u044f"_s)
+			$of(u"Улуу Британия"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sah"_s),
-			$of(u"\u0441\u0430\u0445\u0430 \u0442\u044b\u043b\u0430"_s)
+			$of(u"саха тыла"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Mong"_s),
@@ -449,15 +449,15 @@ $ObjectArray2* LocaleNames_sah::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("pa"_s),
-			$of(u"\u041f\u0430\u043d\u0434\u044c\u0430\u0430\u0431\u0442\u044b\u044b"_s)
+			$of(u"Пандьаабтыы"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Zxxx"_s),
-			$of(u"\u0421\u0443\u0440\u0443\u043b\u043b\u0443\u0431\u0430\u0442\u0430\u0445"_s)
+			$of(u"Суруллубатах"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ckb"_s),
-			$of(u"\u041a\u0438\u0438\u043d \u043a\u0443\u0443\u0440\u0434\u0443\u0443"_s)
+			$of(u"Киин куурдуу"_s)
 		})
 	}));
 	return data;

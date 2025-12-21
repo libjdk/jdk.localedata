@@ -40,33 +40,33 @@ void FormatData_ar_TN::init$() {
 $ObjectArray2* FormatData_ar_TN::getContents() {
 	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_MonthNames, $new($StringArray, {
-		u"\u062c\u0627\u0646\u0641\u064a"_s,
-		u"\u0641\u064a\u0641\u0631\u064a"_s,
-		u"\u0645\u0627\u0631\u0633"_s,
-		u"\u0623\u0641\u0631\u064a\u0644"_s,
-		u"\u0645\u0627\u064a"_s,
-		u"\u062c\u0648\u0627\u0646"_s,
-		u"\u062c\u0648\u064a\u0644\u064a\u0629"_s,
-		u"\u0623\u0648\u062a"_s,
-		u"\u0633\u0628\u062a\u0645\u0628\u0631"_s,
-		u"\u0623\u0643\u062a\u0648\u0628\u0631"_s,
-		u"\u0646\u0648\u0641\u0645\u0628\u0631"_s,
-		u"\u062f\u064a\u0633\u0645\u0628\u0631"_s,
+		u"جانفي"_s,
+		u"فيفري"_s,
+		u"مارس"_s,
+		u"أفريل"_s,
+		u"ماي"_s,
+		u"جوان"_s,
+		u"جويلية"_s,
+		u"أوت"_s,
+		u"سبتمبر"_s,
+		u"أكتوبر"_s,
+		u"نوفمبر"_s,
+		u"ديسمبر"_s,
 		""_s
 	}));
 	$var($StringArray, metaValue_MonthNarrows, $new($StringArray, {
-		u"\u062c"_s,
-		u"\u0641"_s,
-		u"\u0645"_s,
-		u"\u0623"_s,
-		u"\u0645"_s,
-		u"\u062c"_s,
-		u"\u062c"_s,
-		u"\u0623"_s,
-		u"\u0633"_s,
-		u"\u0623"_s,
-		u"\u0646"_s,
-		u"\u062f"_s,
+		u"ج"_s,
+		u"ف"_s,
+		u"م"_s,
+		u"أ"_s,
+		u"م"_s,
+		u"ج"_s,
+		u"ج"_s,
+		u"أ"_s,
+		u"س"_s,
+		u"أ"_s,
+		u"ن"_s,
+		u"د"_s,
 		""_s
 	}));
 	$var($ObjectArray2, data, $new($ObjectArray2, {
@@ -105,9 +105,9 @@ $ObjectArray2* FormatData_ar_TN::getContents() {
 				"#"_s,
 				u"\u200e-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
-				u"\u0644\u064a\u0633\u00a0\u0631\u0642\u0645\u064b\u0627"_s,
+				u"‰"_s,
+				u"∞"_s,
+				u"ليس رقمًا"_s,
 				""_s,
 				""_s
 			}))
@@ -144,9 +144,9 @@ $ObjectArray2* FormatData_ar_TN::getContents() {
 			$of("latn.NumberPatterns"_s),
 			$of($$new($StringArray, {
 				"#,##0.###"_s,
-				u"\u00a4\u00a0#,##0.00"_s,
+				u"¤ #,##0.00"_s,
 				"#,##0%"_s,
-				u"\u00a4#,##0.00;(\u00a4#,##0.00)"_s
+				u"¤#,##0.00;(¤#,##0.00)"_s
 			}))
 		}),
 		$$new($ObjectArray, {

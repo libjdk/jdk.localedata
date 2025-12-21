@@ -42,7 +42,7 @@ void TimeZoneNames_es_UY::init$() {
 $ObjectArray2* TimeZoneNames_es_UY::getContents() {
 	$useLocalCurrentObjectStackCache();
 	$var($StringArray, Uruguay, $new($StringArray, {
-		u"hora est\u00e1ndar de Uruguay"_s,
+		u"hora estándar de Uruguay"_s,
 		"UYT"_s,
 		"hora de verano de Uruguay"_s,
 		"UYST"_s,

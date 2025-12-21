@@ -45,7 +45,7 @@ $ObjectArray2* CurrencyNames_es_ES::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("EUR"_s),
-			$of(u"\u20ac"_s)
+			$of(u"€"_s)
 		})
 	});
 }

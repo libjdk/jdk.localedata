@@ -106,11 +106,11 @@ $ObjectArray2* JavaTimeSupplementary_es_DO::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.weekday"_s),
-			$of(u"D\u00eda de la semana"_s)
+			$of(u"Día de la semana"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("field.year"_s),
-			$of(u"A\u00f1o"_s)
+			$of(u"Año"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("field.zone"_s),

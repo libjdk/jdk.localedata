@@ -40,18 +40,18 @@ void FormatData_naq::init$() {
 $ObjectArray2* FormatData_naq::getContents() {
 	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_MonthNames, $new($StringArray, {
-		u"\u01c3Khanni"_s,
-		u"\u01c3Khan\u01c0g\u00f4ab"_s,
-		u"\u01c0Khuu\u01c1kh\u00e2b"_s,
-		u"\u01c3H\u00f4a\u01c2khaib"_s,
-		u"\u01c3Khaits\u00e2b"_s,
-		u"Gama\u01c0aeb"_s,
-		u"\u01c2Khoesaob"_s,
-		u"Ao\u01c1khuum\u00fb\u01c1kh\u00e2b"_s,
-		u"Tara\u01c0khuum\u00fb\u01c1kh\u00e2b"_s,
-		u"\u01c2N\u00fb\u01c1n\u00e2iseb"_s,
-		u"\u01c0Hoo\u01c2gaeb"_s,
-		u"H\u00f4asore\u01c1kh\u00e2b"_s,
+		u"ǃKhanni"_s,
+		u"ǃKhanǀgôab"_s,
+		u"ǀKhuuǁkhâb"_s,
+		u"ǃHôaǂkhaib"_s,
+		u"ǃKhaitsâb"_s,
+		u"Gamaǀaeb"_s,
+		u"ǂKhoesaob"_s,
+		u"Aoǁkhuumûǁkhâb"_s,
+		u"Taraǀkhuumûǁkhâb"_s,
+		u"ǂNûǁnâiseb"_s,
+		u"ǀHooǂgaeb"_s,
+		u"Hôasoreǁkhâb"_s,
 		""_s
 	}));
 	$var($StringArray, metaValue_standalone_MonthAbbreviations, $new($StringArray, {
@@ -113,9 +113,9 @@ $ObjectArray2* FormatData_naq::getContents() {
 	}));
 	$var($StringArray, metaValue_QuarterNames, $new($StringArray, {
 		"1ro kwartals"_s,
-		u"2\u01c1\u00ee kwartals"_s,
-		u"3\u01c1\u00ee kwartals"_s,
-		u"4\u01c1\u00ee kwartals"_s
+		u"2ǁî kwartals"_s,
+		u"3ǁî kwartals"_s,
+		u"4ǁî kwartals"_s
 	}));
 	$var($StringArray, metaValue_QuarterAbbreviations, $new($StringArray, {
 		"KW1"_s,
@@ -124,8 +124,8 @@ $ObjectArray2* FormatData_naq::getContents() {
 		"KW4"_s
 	}));
 	$var($StringArray, metaValue_AmPmMarkers, $new($StringArray, {
-		u"\u01c1goagas"_s,
-		u"\u01c3uias"_s,
+		u"ǁgoagas"_s,
+		u"ǃuias"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -210,7 +210,7 @@ $ObjectArray2* FormatData_naq::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.zone"_s),
-			$of(u"\u01c1Aeb \u01c0harib"_s)
+			$of(u"ǁAeb ǀharib"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("japanese.QuarterAbbreviations"_s),
@@ -271,8 +271,8 @@ $ObjectArray2* FormatData_naq::getContents() {
 		$$new($ObjectArray, {
 			$of("long.Eras"_s),
 			$of($$new($StringArray, {
-				u"Xristub ai\u01c3\u00e2"_s,
-				u"Xristub khao\u01c3g\u00e2"_s
+				u"Xristub aiǃâ"_s,
+				u"Xristub khaoǃgâ"_s
 			}))
 		}),
 		$$new($ObjectArray, {
@@ -310,8 +310,8 @@ $ObjectArray2* FormatData_naq::getContents() {
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
+				u"‰"_s,
+				u"∞"_s,
 				"NaN"_s,
 				""_s,
 				""_s
@@ -339,7 +339,7 @@ $ObjectArray2* FormatData_naq::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.era"_s),
-			$of(u"\u01c1Ae\u01c3g\u00e2s"_s)
+			$of(u"ǁAeǃgâs"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("islamic.DayAbbreviations"_s),
@@ -351,7 +351,7 @@ $ObjectArray2* FormatData_naq::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.dayperiod"_s),
-			$of(u"\u01c1goas/\u01c3uis"_s)
+			$of(u"ǁgoas/ǃuis"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("standalone.MonthNarrows"_s),
@@ -387,7 +387,7 @@ $ObjectArray2* FormatData_naq::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.month"_s),
-			$of(u"\u01c1Kh\u00e2b"_s)
+			$of(u"ǁKhâb"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("buddhist.DatePatterns"_s),
@@ -395,7 +395,7 @@ $ObjectArray2* FormatData_naq::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.second"_s),
-			$of(u"\u01c0G\u00e2ub"_s)
+			$of(u"ǀGâub"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("roc.MonthNames"_s),
@@ -482,7 +482,7 @@ $ObjectArray2* FormatData_naq::getContents() {
 			$of("latn.NumberPatterns"_s),
 			$of($$new($StringArray, {
 				"#,##0.###"_s,
-				u"\u00a4#,##0.00"_s,
+				u"¤#,##0.00"_s,
 				"#,##0%"_s,
 				""_s
 			}))

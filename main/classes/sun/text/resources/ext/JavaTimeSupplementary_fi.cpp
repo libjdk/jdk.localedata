@@ -45,10 +45,10 @@ $ObjectArray2* JavaTimeSupplementary_fi::getContents() {
 		"4. nelj."_s
 	}));
 	$var($StringArray, sharedQuarterNames, $new($StringArray, {
-		u"1. nelj\u00e4nnes"_s,
-		u"2. nelj\u00e4nnes"_s,
-		u"3. nelj\u00e4nnes"_s,
-		u"4. nelj\u00e4nnes"_s
+		u"1. neljännes"_s,
+		u"2. neljännes"_s,
+		u"3. neljännes"_s,
+		u"4. neljännes"_s
 	}));
 	$var($StringArray, sharedAmPmMarkers, $new($StringArray, {
 		"ap."_s,
@@ -109,8 +109,8 @@ $ObjectArray2* JavaTimeSupplementary_fi::getContents() {
 		"maaliskuuta"_s,
 		"huhtikuuta"_s,
 		"toukokuuta"_s,
-		u"kes\u00e4kuuta"_s,
-		u"hein\u00e4kuuta"_s,
+		u"kesäkuuta"_s,
+		u"heinäkuuta"_s,
 		"elokuuta"_s,
 		"syyskuuta"_s,
 		"lokakuuta"_s,
@@ -189,7 +189,7 @@ $ObjectArray2* JavaTimeSupplementary_fi::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.weekday"_s),
-			$of(u"viikonp\u00e4iv\u00e4"_s)
+			$of(u"viikonpäivä"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("field.year"_s),
@@ -197,7 +197,7 @@ $ObjectArray2* JavaTimeSupplementary_fi::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.zone"_s),
-			$of(u"aikavy\u00f6hyke"_s)
+			$of(u"aikavyöhyke"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("islamic.AmPmMarkers"_s),
@@ -224,16 +224,16 @@ $ObjectArray2* JavaTimeSupplementary_fi::getContents() {
 			$of($$new($StringArray, {
 				"muharram"_s,
 				"safar"_s,
-				u"rabi\u2019 al-awwal"_s,
-				u"rabi\u2019 al-akhir"_s,
-				u"d\u017eumada-l-ula"_s,
-				u"d\u017eumada-l-akhira"_s,
-				u"rad\u017eab"_s,
-				u"\u0161a\u2019ban"_s,
+				u"rabi’ al-awwal"_s,
+				u"rabi’ al-akhir"_s,
+				u"džumada-l-ula"_s,
+				u"džumada-l-akhira"_s,
+				u"radžab"_s,
+				u"ša’ban"_s,
 				"ramadan"_s,
-				u"\u0161awwal"_s,
-				u"dhu-l-qa\u2019da"_s,
-				u"dhu-l-hidd\u017ea"_s,
+				u"šawwal"_s,
+				u"dhu-l-qa’da"_s,
+				u"dhu-l-hiddža"_s,
 				""_s
 			}))
 		}),
@@ -288,8 +288,8 @@ $ObjectArray2* JavaTimeSupplementary_fi::getContents() {
 		$$new($ObjectArray, {
 			$of("java.time.long.Eras"_s),
 			$of($$new($StringArray, {
-				u"ennen Kristuksen syntym\u00e4\u00e4"_s,
-				u"j\u00e4lkeen Kristuksen syntym\u00e4n"_s
+				u"ennen Kristuksen syntymää"_s,
+				u"jälkeen Kristuksen syntymän"_s
 			}))
 		}),
 		$$new($ObjectArray, {

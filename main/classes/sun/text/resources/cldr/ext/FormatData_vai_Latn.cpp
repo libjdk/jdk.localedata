@@ -41,12 +41,12 @@ $ObjectArray2* FormatData_vai_Latn::getContents() {
 	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_DayNames, $new($StringArray, {
 		"lahadi"_s,
-		u"t\u025b\u025bn\u025b\u025b"_s,
+		u"tɛɛnɛɛ"_s,
 		"talata"_s,
 		"alaba"_s,
 		"aimisa"_s,
 		"aijima"_s,
-		u"si\u0253iti"_s
+		u"siɓiti"_s
 	}));
 	$var($StringArray, metaValue_TimePatterns, $new($StringArray, {
 		"h:mm:ss a zzzz"_s,
@@ -69,7 +69,7 @@ $ObjectArray2* FormatData_vai_Latn::getContents() {
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("field.year"_s),
-			$of(u"sa\u014b"_s)
+			$of(u"saŋ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("java.time.japanese.DatePatterns"_s),
@@ -162,7 +162,7 @@ $ObjectArray2* FormatData_vai_Latn::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.weekday"_s),
-			$of(u"wikiy\u025bma tele"_s)
+			$of(u"wikiyɛma tele"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("islamic.TimePatterns"_s),
@@ -183,8 +183,8 @@ $ObjectArray2* FormatData_vai_Latn::getContents() {
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
+				u"‰"_s,
+				u"∞"_s,
 				"NaN"_s,
 				""_s,
 				""_s
@@ -218,9 +218,9 @@ $ObjectArray2* FormatData_vai_Latn::getContents() {
 			$of("latn.NumberPatterns"_s),
 			$of($$new($StringArray, {
 				"#,##0.###"_s,
-				u"\u00a4#,##0.00"_s,
+				u"¤#,##0.00"_s,
 				"#,##0%"_s,
-				u"\u00a4#,##0.00;(\u00a4#,##0.00)"_s
+				u"¤#,##0.00;(¤#,##0.00)"_s
 			}))
 		}),
 		$$new($ObjectArray, {

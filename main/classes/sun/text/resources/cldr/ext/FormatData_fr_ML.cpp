@@ -41,16 +41,16 @@ $ObjectArray2* FormatData_fr_ML::getContents() {
 	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_QuarterNames, $new($StringArray, {
 		"le 1er trimestre"_s,
-		u"le 2\u00e8me trimestre"_s,
-		u"le 3\u00e8me trimestre"_s,
-		u"le 4\u00e8me trimestre"_s
+		u"le 2ème trimestre"_s,
+		u"le 3ème trimestre"_s,
+		u"le 4ème trimestre"_s
 	}));
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("DateTimePatterns"_s),
 			$of($$new($StringArray, {
-				u"{1} \'\u00e0\' {0}"_s,
-				u"{1} \'\u00e0\' {0}"_s,
+				u"{1} \'à\' {0}"_s,
+				u"{1} \'à\' {0}"_s,
 				"{1}, {0}"_s,
 				"{1}, {0}"_s
 			}))
@@ -79,9 +79,9 @@ $ObjectArray2* FormatData_fr_ML::getContents() {
 			$of("standalone.QuarterNames"_s),
 			$of($$new($StringArray, {
 				"1er trimestre"_s,
-				u"2\u00e8me trimestre"_s,
-				u"3\u00e8me trimestre"_s,
-				u"4\u00e8me trimestre"_s
+				u"2ème trimestre"_s,
+				u"3ème trimestre"_s,
+				u"4ème trimestre"_s
 			}))
 		}),
 		$$new($ObjectArray, {

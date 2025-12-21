@@ -64,10 +64,10 @@ $ObjectArray2* FormatData_es_419::getContents() {
 		"s"_s
 	}));
 	$var($StringArray, metaValue_QuarterNames, $new($StringArray, {
-		u"1.\u00ba trimestre"_s,
-		u"2.\u00ba trimestre"_s,
-		u"3.\u00ba trimestre"_s,
-		u"4.\u00ba trimestre"_s
+		u"1.º trimestre"_s,
+		u"2.º trimestre"_s,
+		u"3.º trimestre"_s,
+		u"4.º trimestre"_s
 	}));
 	$var($StringArray, metaValue_TimePatterns, $new($StringArray, {
 		"HH:mm:ss zzzz"_s,
@@ -150,7 +150,7 @@ $ObjectArray2* FormatData_es_419::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.regionFormat.standard"_s),
-			$of(u"hora est\u00e1ndar de {0}"_s)
+			$of(u"hora estándar de {0}"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("DayNarrows"_s),
@@ -174,10 +174,10 @@ $ObjectArray2* FormatData_es_419::getContents() {
 				"dom."_s,
 				"lun."_s,
 				"mar."_s,
-				u"mi\u00e9."_s,
+				u"mié."_s,
 				"jue."_s,
 				"vie."_s,
-				u"s\u00e1b."_s
+				u"sáb."_s
 			}))
 		}),
 		$$new($ObjectArray, {
@@ -206,18 +206,18 @@ $ObjectArray2* FormatData_es_419::getContents() {
 				""_s,
 				""_s,
 				""_s,
-				u"{one:0\u00a0K other:0\u00a0K}"_s,
-				u"{one:00\u00a0k other:00\u00a0k}"_s,
-				u"{one:000\u00a0k other:000\u00a0k}"_s,
-				u"{one:0\u00a0M other:0\u00a0M}"_s,
-				u"{one:00\u00a0M other:00\u00a0M}"_s,
-				u"{one:000\u00a0M other:000\u00a0M}"_s,
-				u"{one:0000\u00a0M other:0000\u00a0M}"_s,
-				u"{one:00\u00a0mil\u00a0M other:00\u00a0mil\u00a0M}"_s,
-				u"{one:000\u00a0mil\u00a0M other:000\u00a0mil\u00a0M}"_s,
-				u"{one:0\u00a0B other:0\u00a0B}"_s,
-				u"{one:00\u00a0B other:00\u00a0B}"_s,
-				u"{one:000\u00a0B other:000\u00a0B}"_s
+				u"{one:0 K other:0 K}"_s,
+				u"{one:00 k other:00 k}"_s,
+				u"{one:000 k other:000 k}"_s,
+				u"{one:0 M other:0 M}"_s,
+				u"{one:00 M other:00 M}"_s,
+				u"{one:000 M other:000 M}"_s,
+				u"{one:0000 M other:0000 M}"_s,
+				u"{one:00 mil M other:00 mil M}"_s,
+				u"{one:000 mil M other:000 mil M}"_s,
+				u"{one:0 B other:0 B}"_s,
+				u"{one:00 B other:00 B}"_s,
+				u"{one:000 B other:000 B}"_s
 			}))
 		}),
 		$$new($ObjectArray, {
@@ -269,8 +269,8 @@ $ObjectArray2* FormatData_es_419::getContents() {
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
+				u"‰"_s,
+				u"∞"_s,
 				"NaN"_s,
 				""_s,
 				""_s
@@ -305,8 +305,8 @@ $ObjectArray2* FormatData_es_419::getContents() {
 				"Sha."_s,
 				"Ram."_s,
 				"Shaw."_s,
-				u"Dhu\u02bbl-Q."_s,
-				u"Dhu\u02bbl-H."_s,
+				u"Dhuʻl-Q."_s,
+				u"Dhuʻl-H."_s,
 				""_s
 			}))
 		}),
@@ -318,9 +318,9 @@ $ObjectArray2* FormatData_es_419::getContents() {
 			$of("latn.NumberPatterns"_s),
 			$of($$new($StringArray, {
 				"#,##0.###"_s,
-				u"\u00a4#,##0.00"_s,
-				u"#,##0\u00a0%"_s,
-				u"\u00a4#,##0.00"_s
+				u"¤#,##0.00"_s,
+				u"#,##0 %"_s,
+				u"¤#,##0.00"_s
 			}))
 		}),
 		$$new($ObjectArray, {
@@ -332,13 +332,13 @@ $ObjectArray2* FormatData_es_419::getContents() {
 				"{one:0\' \'mil other:0\' \'mil}"_s,
 				"{one:00\' \'mil other:00\' \'mil}"_s,
 				"{one:000\' \'mil other:000\' \'mil}"_s,
-				u"{one:0\' \'mill\u00f3n other:0\' \'millones}"_s,
+				u"{one:0\' \'millón other:0\' \'millones}"_s,
 				"{one:00\' \'millones other:00\' \'millones}"_s,
 				"{one:000\' \'millones other:000\' \'millones}"_s,
 				"{one:0\' \'mil\' \'millones other:0\' \'mil\' \'millones}"_s,
 				"{one:00\' \'mil\' \'millones other:00\' \'mil\' \'millones}"_s,
 				"{one:000\' \'mil\' \'millones other:000\' \'mil\' \'millones}"_s,
-				u"{one:0\' \'bill\u00f3n other:0\' \'bill\u00f3n}"_s,
+				u"{one:0\' \'billón other:0\' \'billón}"_s,
 				"{one:00\' \'billones other:00\' \'billones}"_s,
 				"{one:000\' \'billones other:000\' \'billones}"_s
 			}))
@@ -376,16 +376,16 @@ $ObjectArray2* FormatData_es_419::getContents() {
 			$of($$new($StringArray, {
 				"Muharram"_s,
 				"Safar"_s,
-				u"Rabi\u02bb I"_s,
-				u"Rabi\u02bb II"_s,
+				u"Rabiʻ I"_s,
+				u"Rabiʻ II"_s,
 				"Jumada I"_s,
 				"Jumada II"_s,
 				"Rajab"_s,
-				u"Sha\u02bbban"_s,
+				u"Shaʻban"_s,
 				"Ramadan"_s,
 				"Shawwal"_s,
-				u"Dhu\u02bbl-Qi\u02bbdah"_s,
-				u"Dhu\u02bbl-Hijjah"_s,
+				u"Dhuʻl-Qiʻdah"_s,
+				u"Dhuʻl-Hijjah"_s,
 				""_s
 			}))
 		})

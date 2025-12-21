@@ -43,7 +43,7 @@ void TimeZoneNames_os::init$() {
 $ObjectArray2* TimeZoneNames_os::getContents() {
 	$useLocalCurrentObjectStackCache();
 	$var($StringArray, GMT, $new($StringArray, {
-		u"\u0413\u0440\u0438\u043d\u0432\u0438\u0447\u044b \u0440\u04d5\u0441\u0442\u04d5\u043c\u0431\u0438\u0441 \u0440\u04d5\u0441\u0442\u04d5\u0433"_s,
+		u"Гринвичы рӕстӕмбис рӕстӕг"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -51,19 +51,19 @@ $ObjectArray2* TimeZoneNames_os::getContents() {
 		""_s
 	}));
 	$var($StringArray, Moscow, $new($StringArray, {
-		u"\u041c\u04d5\u0441\u043a\u0443\u044b\u0439\u044b \u0441\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u043e\u043d \u0440\u04d5\u0441\u0442\u04d5\u0433"_s,
+		u"Мӕскуыйы стандартон рӕстӕг"_s,
 		""_s,
-		u"\u041c\u04d5\u0441\u043a\u0443\u044b\u0439\u044b \u0441\u04d5\u0440\u0434\u044b\u0433\u043e\u043d \u0440\u04d5\u0441\u0442\u04d5\u0433"_s,
+		u"Мӕскуыйы сӕрдыгон рӕстӕг"_s,
 		""_s,
-		u"\u041c\u04d5\u0441\u043a\u0443\u044b\u0439\u044b \u0440\u04d5\u0441\u0442\u04d5\u0433"_s,
+		u"Мӕскуыйы рӕстӕг"_s,
 		""_s
 	}));
 	$var($StringArray, Georgia, $new($StringArray, {
-		u"\u0413\u0443\u044b\u0440\u0434\u0437\u044b\u0441\u0442\u043e\u043d\u044b \u0441\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u043e\u043d \u0440\u04d5\u0441\u0442\u04d5\u0433"_s,
+		u"Гуырдзыстоны стандартон рӕстӕг"_s,
 		""_s,
-		u"\u0413\u0443\u044b\u0440\u0434\u0437\u044b\u0441\u0442\u043e\u043d\u044b \u0441\u04d5\u0440\u0434\u044b\u0433\u043e\u043d \u0440\u04d5\u0441\u0442\u04d5\u0433"_s,
+		u"Гуырдзыстоны сӕрдыгон рӕстӕг"_s,
 		""_s,
-		u"\u0413\u0443\u044b\u0440\u0434\u0437\u044b\u0441\u0442\u043e\u043d\u044b \u0440\u04d5\u0441\u0442\u04d5\u0433"_s,
+		u"Гуырдзыстоны рӕстӕг"_s,
 		""_s
 	}));
 	$var($StringArray, EMPTY_ZONE, $new($StringArray, {
@@ -75,27 +75,27 @@ $ObjectArray2* TimeZoneNames_os::getContents() {
 		""_s
 	}));
 	$var($StringArray, Europe_Central, $new($StringArray, {
-		u"\u0410\u0441\u0442\u04d5\u0443\u043a\u043a\u0430\u0433 \u0415\u0432\u0440\u043e\u043f\u04d5\u0439\u0430\u0433 \u0441\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u043e\u043d \u0440\u04d5\u0441\u0442\u04d5\u0433"_s,
+		u"Астӕуккаг Европӕйаг стандартон рӕстӕг"_s,
 		""_s,
-		u"\u0410\u0441\u0442\u04d5\u0443\u043a\u043a\u0430\u0433 \u0415\u0432\u0440\u043e\u043f\u04d5\u0439\u0430\u0433 \u0441\u04d5\u0440\u0434\u044b\u0433\u043e\u043d \u0440\u04d5\u0441\u0442\u04d5\u0433"_s,
+		u"Астӕуккаг Европӕйаг сӕрдыгон рӕстӕг"_s,
 		""_s,
-		u"\u0410\u0441\u0442\u04d5\u0443\u043a\u043a\u0430\u0433 \u0415\u0432\u0440\u043e\u043f\u04d5\u0439\u0430\u0433 \u0440\u04d5\u0441\u0442\u04d5\u0433"_s,
+		u"Астӕуккаг Европӕйаг рӕстӕг"_s,
 		""_s
 	}));
 	$var($StringArray, Europe_Eastern, $new($StringArray, {
-		u"\u0421\u043a\u04d5\u0441\u04d5\u043d \u0415\u0432\u0440\u043e\u043f\u04d5\u0439\u0430\u0433 \u0441\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u043e\u043d \u0440\u04d5\u0441\u0442\u04d5\u0433"_s,
+		u"Скӕсӕн Европӕйаг стандартон рӕстӕг"_s,
 		""_s,
-		u"\u0421\u043a\u04d5\u0441\u04d5\u043d \u0415\u0432\u0440\u043e\u043f\u04d5\u0439\u0430\u0433 \u0441\u04d5\u0440\u0434\u044b\u0433\u043e\u043d \u0440\u04d5\u0441\u0442\u04d5\u0433"_s,
+		u"Скӕсӕн Европӕйаг сӕрдыгон рӕстӕг"_s,
 		""_s,
-		u"\u0421\u043a\u04d5\u0441\u04d5\u043d \u0415\u0432\u0440\u043e\u043f\u04d5\u0439\u0430\u0433 \u0440\u04d5\u0441\u0442\u04d5\u0433"_s,
+		u"Скӕсӕн Европӕйаг рӕстӕг"_s,
 		""_s
 	}));
 	$var($StringArray, Europe_Western, $new($StringArray, {
-		u"\u041d\u044b\u0433\u044a\u0443\u044b\u043b\u04d5\u043d \u0415\u0432\u0440\u043e\u043f\u04d5\u0439\u0430\u0433 \u0441\u0442\u0430\u043d\u0434\u0430\u0440\u0442\u043e\u043d \u0440\u04d5\u0441\u0442\u04d5\u0433"_s,
+		u"Ныгъуылӕн Европӕйаг стандартон рӕстӕг"_s,
 		""_s,
-		u"\u041d\u044b\u0433\u044a\u0443\u044b\u043b\u04d5\u043d \u0415\u0432\u0440\u043e\u043f\u04d5\u0439\u0430\u0433 \u0441\u04d5\u0440\u0434\u044b\u0433\u043e\u043d \u0440\u04d5\u0441\u0442\u04d5\u0433"_s,
+		u"Ныгъуылӕн Европӕйаг сӕрдыгон рӕстӕг"_s,
 		""_s,
-		u"\u041d\u044b\u0433\u044a\u0443\u044b\u043b\u04d5\u043d \u0415\u0432\u0440\u043e\u043f\u04d5\u0439\u0430\u0433 \u0440\u04d5\u0441\u0442\u04d5\u0433"_s,
+		u"Ныгъуылӕн Европӕйаг рӕстӕг"_s,
 		""_s
 	}));
 	$var($ObjectArray2, data, $new($ObjectArray2, {
@@ -477,19 +477,19 @@ $ObjectArray2* TimeZoneNames_os::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Etc/Unknown"_s),
-			$of(u"\u041d\u04d5\u0437\u043e\u043d\u0433\u04d5"_s)
+			$of(u"Нӕзонгӕ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Tbilisi"_s),
-			$of(u"\u0422\u0431\u0438\u043b\u0438\u0441"_s)
+			$of(u"Тбилис"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Minsk"_s),
-			$of(u"\u041c\u0438\u043d\u0441\u043a"_s)
+			$of(u"Минск"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Moscow"_s),
-			$of(u"\u041c\u04d5\u0441\u043a\u0443\u044b"_s)
+			$of(u"Мӕскуы"_s)
 		})
 	}));
 	return data;

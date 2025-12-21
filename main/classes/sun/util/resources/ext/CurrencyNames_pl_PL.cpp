@@ -39,7 +39,7 @@ void CurrencyNames_pl_PL::init$() {
 $ObjectArray2* CurrencyNames_pl_PL::getContents() {
 	return $new($ObjectArray2, {$$new($ObjectArray, {
 		$of("PLN"_s),
-		$of(u"z\u0142"_s)
+		$of(u"zł"_s)
 	})});
 }
 

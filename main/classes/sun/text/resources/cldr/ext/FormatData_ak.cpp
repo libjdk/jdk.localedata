@@ -40,33 +40,33 @@ void FormatData_ak::init$() {
 $ObjectArray2* FormatData_ak::getContents() {
 	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_MonthNames, $new($StringArray, {
-		u"Sanda-\u0186p\u025bp\u0254n"_s,
-		u"Kwakwar-\u0186gyefuo"_s,
-		u"Eb\u0254w-\u0186benem"_s,
-		u"Eb\u0254bira-Oforisuo"_s,
-		u"Esusow Aketseaba-K\u0254t\u0254nimba"_s,
-		u"Obirade-Ay\u025bwohomumu"_s,
-		u"Ay\u025bwoho-Kitawonsa"_s,
-		u"Difuu-\u0186sandaa"_s,
-		u"Fankwa-\u0190b\u0254"_s,
-		u"\u0186b\u025bs\u025b-Ahinime"_s,
-		u"\u0186ber\u025bf\u025bw-Obubuo"_s,
-		u"Mumu-\u0186p\u025bnimba"_s,
+		u"Sanda-Ɔpɛpɔn"_s,
+		u"Kwakwar-Ɔgyefuo"_s,
+		u"Ebɔw-Ɔbenem"_s,
+		u"Ebɔbira-Oforisuo"_s,
+		u"Esusow Aketseaba-Kɔtɔnimba"_s,
+		u"Obirade-Ayɛwohomumu"_s,
+		u"Ayɛwoho-Kitawonsa"_s,
+		u"Difuu-Ɔsandaa"_s,
+		u"Fankwa-Ɛbɔ"_s,
+		u"Ɔbɛsɛ-Ahinime"_s,
+		u"Ɔberɛfɛw-Obubuo"_s,
+		u"Mumu-Ɔpɛnimba"_s,
 		""_s
 	}));
 	$var($StringArray, metaValue_MonthAbbreviations, $new($StringArray, {
-		u"S-\u0186"_s,
-		u"K-\u0186"_s,
-		u"E-\u0186"_s,
+		u"S-Ɔ"_s,
+		u"K-Ɔ"_s,
+		u"E-Ɔ"_s,
 		"E-O"_s,
 		"E-K"_s,
 		"O-A"_s,
 		"A-K"_s,
-		u"D-\u0186"_s,
-		u"F-\u0190"_s,
-		u"\u0186-A"_s,
-		u"\u0186-O"_s,
-		u"M-\u0186"_s,
+		u"D-Ɔ"_s,
+		u"F-Ɛ"_s,
+		u"Ɔ-A"_s,
+		u"Ɔ-O"_s,
+		u"M-Ɔ"_s,
 		""_s
 	}));
 	$var($StringArray, metaValue_DayNames, $new($StringArray, {
@@ -242,7 +242,7 @@ $ObjectArray2* FormatData_ak::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.weekday"_s),
-			$of(u"Dap\u025bn mu da"_s)
+			$of(u"Dapɛn mu da"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("buddhist.MonthNames"_s),
@@ -263,8 +263,8 @@ $ObjectArray2* FormatData_ak::getContents() {
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
+				u"‰"_s,
+				u"∞"_s,
 				"NaN"_s,
 				""_s,
 				""_s
@@ -328,7 +328,7 @@ $ObjectArray2* FormatData_ak::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.second"_s),
-			$of(u"S\u025bk\u025bnd"_s)
+			$of(u"Sɛkɛnd"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("roc.MonthNames"_s),
@@ -336,7 +336,7 @@ $ObjectArray2* FormatData_ak::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.week"_s),
-			$of(u"Dap\u025bn"_s)
+			$of(u"Dapɛn"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("DayAbbreviations"_s),
@@ -397,7 +397,7 @@ $ObjectArray2* FormatData_ak::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.hour"_s),
-			$of(u"D\u0254nhwer"_s)
+			$of(u"Dɔnhwer"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("buddhist.TimePatterns"_s),
@@ -415,7 +415,7 @@ $ObjectArray2* FormatData_ak::getContents() {
 			$of("latn.NumberPatterns"_s),
 			$of($$new($StringArray, {
 				"#,##0.###"_s,
-				u"\u00a4#,##0.00"_s,
+				u"¤#,##0.00"_s,
 				"#,##0%"_s,
 				""_s
 			}))

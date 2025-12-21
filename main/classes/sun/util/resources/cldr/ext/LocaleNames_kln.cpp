@@ -190,7 +190,7 @@ $ObjectArray2* LocaleNames_kln::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("CI"_s),
-			$of(u"Emetab C\u00f4te d\u2019Ivoire"_s)
+			$of(u"Emetab Côte d’Ivoire"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("CK"_s),
@@ -710,7 +710,7 @@ $ObjectArray2* LocaleNames_kln::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("RE"_s),
-			$of(u"Emetab R\u00e9union"_s)
+			$of(u"Emetab Réunion"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("RO"_s),
@@ -782,7 +782,7 @@ $ObjectArray2* LocaleNames_kln::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ST"_s),
-			$of(u"Emetab S\u00e3o Tom\u00e9 and Pr\u00edncipe"_s)
+			$of(u"Emetab São Tomé and Príncipe"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("SV"_s),

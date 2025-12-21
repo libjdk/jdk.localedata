@@ -46,27 +46,27 @@ $ObjectArray2* LocaleNames_mgo::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ZZ"_s),
-			$of(u"aba aben tis\u0254\u0300"_s)
+			$of(u"aba aben tisɔ̀"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mgo"_s),
-			$of(u"meta\u02bc"_s)
+			$of(u"metaʼ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("und"_s),
-			$of(u"ngam tis\u0254\u02bc"_s)
+			$of(u"ngam tisɔʼ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Latn"_s),
-			$of(u"ngam \u014bwa\u02bcri"_s)
+			$of(u"ngam ŋwaʼri"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Zxxx"_s),
-			$of(u"ngam cho\u02bc"_s)
+			$of(u"ngam choʼ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Zzzz"_s),
-			$of(u"abo \u014bwa\u02bcri tis\u0254\u02bc"_s)
+			$of(u"abo ŋwaʼri tisɔʼ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.latn"_s),
@@ -74,7 +74,7 @@ $ObjectArray2* LocaleNames_mgo::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("type.ca.gregorian"_s),
-			$of(u"ng\u00e0b m\u0259\u0300kala"_s)
+			$of(u"ngàb mə̀kala"_s)
 		})
 	}));
 	return data;

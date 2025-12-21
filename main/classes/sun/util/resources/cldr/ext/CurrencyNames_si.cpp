@@ -322,7 +322,7 @@ $ObjectArray2* CurrencyNames_si::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("LKR"_s),
-			$of(u"\u0dbb\u0dd4."_s)
+			$of(u"රු."_s)
 		}),
 		$$new($ObjectArray, {
 			$of("LRD"_s),
@@ -526,7 +526,7 @@ $ObjectArray2* CurrencyNames_si::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("THB"_s),
-			$of(u"\u0e3f"_s)
+			$of(u"฿"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("TJS"_s),
@@ -590,7 +590,7 @@ $ObjectArray2* CurrencyNames_si::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("XOF"_s),
-			$of(u"\u0dc3\u0dd2\u0dc6\u0dca\u0d91"_s)
+			$of(u"සිෆ්එ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("YER"_s),
@@ -606,655 +606,655 @@ $ObjectArray2* CurrencyNames_si::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("aed"_s),
-			$of(u"\u0d91\u0d9a\u0dca\u0dc3\u0dad\u0dca \u0d85\u0dbb\u0dcf\u0db6\u0dd2 \u0d91\u0db8\u0dd2\u0dbb\u0dda\u0da7\u0dca\u0dc3\u0dca \u0da9\u0dd2\u0dbb\u0dcf\u0db8\u0dca"_s)
+			$of(u"එක්සත් අරාබි එමිරේට්ස් ඩිරාම්"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("afn"_s),
-			$of(u"\u0d87\u0dc6\u0dca\u0d9c\u0db1\u0dd2\u0dae\u0dcf\u0db1 \u0d87\u0dc6\u0dca\u0d9c\u0db1\u0dd2"_s)
+			$of(u"ඇෆ්ගනිථාන ඇෆ්ගනි"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("all"_s),
-			$of(u"\u0d87\u0dbd\u0dca\u0db6\u0dda\u0db1\u0dd2\u0dba\u0dcf\u0db1\u0dd4 \u0dbd\u0dd9\u0d9a\u0dca"_s)
+			$of(u"ඇල්බේනියානු ලෙක්"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("amd"_s),
-			$of(u"\u0d86\u0dbb\u0dca\u0db8\u0dda\u0db1\u0dd2\u0dba\u0dcf\u0db1\u0dd4 \u0da9\u0dca\u200d\u0dbb\u0dd1\u0db8\u0dca"_s)
+			$of(u"ආර්මේනියානු ඩ්\u200dරෑම්"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ang"_s),
-			$of(u"\u0db1\u0dd9\u0daf\u0dbb\u0dca\u0dbd\u0db1\u0dca\u0dad \u0d87\u0db1\u0dca\u0da7\u0dd2\u0dbd\u0dd2\u0dba\u0db1\u0dca \u0d9c\u0dd2\u0dbd\u0dca\u0da9\u0dbb\u0dca"_s)
+			$of(u"නෙදර්ලන්ත ඇන්ටිලියන් ගිල්ඩර්"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("aoa"_s),
-			$of(u"\u0d87\u0db1\u0dca\u0d9c\u0ddd\u0dbd\u0dcf\u0db1\u0dd4 \u0d9a\u0dca\u0dc0\u0db1\u0dca\u0dc3\u0dcf"_s)
+			$of(u"ඇන්ගෝලානු ක්වන්සා"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ars"_s),
-			$of(u"\u0d86\u0dbb\u0dca\u0da2\u0db1\u0dca\u0da7\u0dd2\u0db1\u0dcf \u0db4\u0dd9\u0dc3\u0ddd"_s)
+			$of(u"ආර්ජන්ටිනා පෙසෝ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("aud"_s),
-			$of(u"\u0d94\u0dc3\u0dca\u0da7\u0dca\u200d\u0dbb\u0dda\u0dbd\u0dd2\u0dba\u0dcf\u0db1\u0dd4 \u0da9\u0ddc\u0dbd\u0dbb\u0dca"_s)
+			$of(u"ඔස්ට්\u200dරේලියානු ඩොලර්"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("awg"_s),
-			$of(u"\u0d85\u0dbb\u0dd6\u0db6\u0dcf\u0db1\u0dd4 \u0dc6\u0dca\u0dbd\u0ddd\u0dbb\u0dd2\u0db1\u0dca"_s)
+			$of(u"අරූබානු ෆ්ලෝරින්"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("azn"_s),
-			$of(u"\u0d85\u0dc3\u0dbb\u0dca\u0db6\u0dba\u0dd2\u0da2\u0dcf\u0db1\u0dd4 \u0db8\u0db1\u0dcf\u0da7\u0dca"_s)
+			$of(u"අසර්බයිජානු මනාට්"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bam"_s),
-			$of(u"\u0db6\u0ddc\u0dc3\u0dca\u0db1\u0dd2\u0dba\u0dcf \u0dc4\u0dbb\u0dca\u0dc3\u0d9c\u0ddc\u0dc0\u0dd3\u0db1\u0dcf \u0db4\u0dbb\u0dd2\u0dc0\u0dbb\u0dca\u0dad\u0dca\u200d\u0dba \u0db8\u0dcf\u0dbb\u0dca\u0d9a\u0dca"_s)
+			$of(u"බොස්නියා හර්සගොවීනා පරිවර්ත්\u200dය මාර්ක්"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bbd"_s),
-			$of(u"\u0db6\u0dcf\u0db6\u0dda\u0da9\u0dd2\u0dba\u0dcf\u0db1\u0dd4 \u0da9\u0ddc\u0dbd\u0dbb\u0dca"_s)
+			$of(u"බාබේඩියානු ඩොලර්"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bdt"_s),
-			$of(u"\u0db6\u0d82\u0d9c\u0dca\u0dbd\u0dcf\u0daf\u0dda\u0dc1\u0dca \u0da7\u0d9a\u0dcf"_s)
+			$of(u"බංග්ලාදේශ් ටකා"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bgn"_s),
-			$of(u"\u0db6\u0dbd\u0dca\u0d9c\u0dda\u0dbb\u0dd2\u0dba\u0dcf\u0db1\u0dd4 \u0dbd\u0dd2\u0dc0\u0dca"_s)
+			$of(u"බල්ගේරියානු ලිව්"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bhd"_s),
-			$of(u"\u0db6\u0dc4\u0dbb\u0dda\u0db1\u0dca \u0da9\u0dd2\u0db1\u0dcf\u0dbb\u0dca"_s)
+			$of(u"බහරේන් ඩිනාර්"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bif"_s),
-			$of(u"\u0db6\u0dd4\u0dbb\u0dd4\u0db1\u0dca\u0daf\u0dd2 \u0dc6\u0dca\u200d\u0dbb\u0dd1\u0db1\u0dca\u0d9a\u0dca"_s)
+			$of(u"බුරුන්දි ෆ්\u200dරෑන්ක්"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bmd"_s),
-			$of(u"\u0db6\u0dbb\u0dca\u0db8\u0dd2\u0dba\u0dd4\u0da9\u0dcf\u0db1\u0dd4 \u0da9\u0ddc\u0dbd\u0dbb\u0dca"_s)
+			$of(u"බර්මියුඩානු ඩොලර්"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bnd"_s),
-			$of(u"\u0db6\u0dd8\u0db1\u0dcf\u0dba\u0dd2 \u0da9\u0ddc\u0dbd\u0dbb\u0dca"_s)
+			$of(u"බෘනායි ඩොලර්"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bob"_s),
-			$of(u"\u0db6\u0ddc\u0dbd\u0dd2\u0dc0\u0dd2\u0dba\u0dcf\u0db1\u0dd4 \u0db6\u0ddc\u0dbd\u0dd2\u0dc0\u0dd2\u0dba\u0dcf\u0db1\u0ddd"_s)
+			$of(u"බොලිවියානු බොලිවියානෝ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("brl"_s),
-			$of(u"\u0db6\u0dca\u200d\u0dbb\u0dc3\u0dd3\u0dbd \u0dbb\u0dd2\u0dba\u0dbd\u0dca"_s)
+			$of(u"බ්\u200dරසීල රියල්"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bsd"_s),
-			$of(u"\u0db6\u0dc4\u0db8\u0dcf\u0db1\u0dd4 \u0da9\u0ddc\u0dbd\u0dbb\u0dca"_s)
+			$of(u"බහමානු ඩොලර්"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("btn"_s),
-			$of(u"\u0db7\u0dd6\u0dad\u0dcf\u0db1 \u0db1\u0d9c\u0dd4\u0dbd\u0dca\u0da7\u0dca\u200d\u0dbb\u0db8\u0dca"_s)
+			$of(u"භූතාන නගුල්ට්\u200dරම්"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bwp"_s),
-			$of(u"\u0db6\u0ddc\u0da7\u0dca\u0dc3\u0dca\u0dc0\u0dcf\u0db1\u0dcf \u0db4\u0dd4\u0dbd\u0dcf"_s)
+			$of(u"බොට්ස්වානා පුලා"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("byn"_s),
-			$of(u"\u0db6\u0dd9\u0dbd\u0dbb\u0dd6\u0dc3\u0dca \u0dbb\u0dd6\u0db6\u0dbd\u0dca"_s)
+			$of(u"බෙලරූස් රූබල්"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("byr"_s),
-			$of(u"\u0db6\u0dd9\u0dbd\u0dbb\u0dd6\u0dc3\u0dca \u0dbb\u0dd6\u0db6\u0dbd\u0dca (2000\u20132016)"_s)
+			$of(u"බෙලරූස් රූබල් (2000–2016)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bzd"_s),
-			$of(u"\u0db6\u0dd9\u0dbd\u0dd3\u0dc3\u0dca \u0da9\u0ddc\u0dbd\u0dbb\u0dca"_s)
+			$of(u"බෙලීස් ඩොලර්"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cad"_s),
-			$of(u"\u0d9a\u0dd0\u0db1\u0dda\u0da9\u0dd2\u0dba\u0dcf\u0db1\u0dd4 \u0da9\u0ddc\u0dbd\u0dbb\u0dca"_s)
+			$of(u"කැනේඩියානු ඩොලර්"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cdf"_s),
-			$of(u"\u0d9a\u0ddc\u0d82\u0d9c\u0ddd \u0dc6\u0dca\u200d\u0dbb\u0dd1\u0db1\u0dca\u0d9a\u0dca"_s)
+			$of(u"කොංගෝ ෆ්\u200dරෑන්ක්"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("chf"_s),
-			$of(u"\u0dc3\u0dca\u0dc0\u0dd2\u0dc3\u0dca \u0dc6\u0dca\u200d\u0dbb\u0dd1\u0db1\u0dca\u0d9a\u0dca"_s)
+			$of(u"ස්විස් ෆ්\u200dරෑන්ක්"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("clp"_s),
-			$of(u"\u0da0\u0dd2\u0dbd\u0dd2 \u0db4\u0dd0\u0dc3\u0ddd"_s)
+			$of(u"චිලි පැසෝ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cnh"_s),
-			$of(u"\u0da0\u0dd3\u0db1 \u0dba\u0dd4\u0d86\u0db1\u0dca (\u0d91\u0dad\u0dd9\u0dbb)"_s)
+			$of(u"චීන යුආන් (එතෙර)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cny"_s),
-			$of(u"\u0da0\u0dd3\u0db1 \u0dba\u0dd4\u0d86\u0db1\u0dca"_s)
+			$of(u"චීන යුආන්"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cop"_s),
-			$of(u"\u0d9a\u0ddc\u0dbd\u0ddc\u0db8\u0dca\u0db6\u0dd2\u0dba\u0dcf\u0db1\u0dd4 \u0db4\u0dd9\u0dc3\u0ddd"_s)
+			$of(u"කොලොම්බියානු පෙසෝ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("crc"_s),
-			$of(u"\u0d9a\u0ddc\u0dc3\u0dca\u0da7 \u0dbb\u0dd2\u0d9a\u0dcf \u0d9a\u0ddc\u0dbd\u0ddd\u0db1\u0dca"_s)
+			$of(u"කොස්ට රිකා කොලෝන්"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cuc"_s),
-			$of(u"\u0db8\u0dcf\u0dbb\u0dd4\u0d9a\u0dc5 \u0dc4\u0dd0\u0d9a\u0dd2 \u0d9a\u0dd2\u0dba\u0dd4\u0db6\u0dcf\u0db1\u0dd4 \u0db4\u0dd0\u0dc3\u0ddd"_s)
+			$of(u"මාරුකළ හැකි කියුබානු පැසෝ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cup"_s),
-			$of(u"\u0d9a\u0dd2\u0dba\u0dd4\u0db6\u0dcf\u0db1\u0dd4 \u0db4\u0dd0\u0dc3\u0ddd"_s)
+			$of(u"කියුබානු පැසෝ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cve"_s),
-			$of(u"\u0d9a\u0dda\u0db4\u0dca \u0dc0\u0dbb\u0dca\u0da9\u0dca \u0d91\u0dc3\u0dca\u0d9a\u0dd2\u0dba\u0dd4\u0da9\u0ddd"_s)
+			$of(u"කේප් වර්ඩ් එස්කියුඩෝ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("czk"_s),
-			$of(u"\u0da0\u0dd9\u0d9a\u0dca \u0dbb\u0dd2\u0db4\u0db6\u0dca\u0dbd\u0dd2\u0d9a\u0dca \u0d9a\u0ddc\u0dbb\u0dd6\u0db1\u0dcf"_s)
+			$of(u"චෙක් රිපබ්ලික් කොරූනා"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("djf"_s),
-			$of(u"\u0da2\u0dd2\u0db6\u0dd6\u0dad\u0dd2 \u0dc6\u0dca\u200d\u0dbb\u0dd1\u0db1\u0dca\u0d9a\u0dca"_s)
+			$of(u"ජිබූති ෆ්\u200dරෑන්ක්"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("dkk"_s),
-			$of(u"\u0da9\u0dd0\u0db1\u0dd2\u0dc2\u0dca \u0d9a\u0dca\u200d\u0dbb\u0ddd\u0db1\u0dca"_s)
+			$of(u"ඩැනිෂ් ක්\u200dරෝන්"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("dop"_s),
-			$of(u"\u0da9\u0ddc\u0db8\u0dd2\u0db1\u0dd2\u0d9a\u0dcf\u0db1\u0dd4 \u0db4\u0dd9\u0dc3\u0ddd"_s)
+			$of(u"ඩොමිනිකානු පෙසෝ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("dzd"_s),
-			$of(u"\u0d87\u0dbd\u0dca\u0d9c\u0dda\u0dbb\u0dd2\u0dba\u0dcf\u0db1\u0dd4 \u0da9\u0dd2\u0db1\u0dcf\u0dbb\u0dca"_s)
+			$of(u"ඇල්ගේරියානු ඩිනාර්"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("egp"_s),
-			$of(u"\u0d8a\u0da2\u0dd2\u0db4\u0dca\u0dad\u0dd4 \u0db4\u0dc0\u0dd4\u0db8\u0dca"_s)
+			$of(u"ඊජිප්තු පවුම්"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ern"_s),
-			$of(u"\u0d91\u0dbb\u0dd2\u0dad\u0dca\u200d\u0dbb\u0dd2\u0dba\u0dcf\u0db1\u0dd4 \u0db1\u0dd0\u0d9a\u0dca\u0dc6\u0dcf"_s)
+			$of(u"එරිත්\u200dරියානු නැක්ෆා"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("etb"_s),
-			$of(u"\u0d89\u0dad\u0dd2\u0dba\u0ddd\u0db4\u0dd2\u0dba\u0dcf\u0db1\u0dd4 \u0db6\u0dd3\u0dbb\u0dca"_s)
+			$of(u"ඉතියෝපියානු බීර්"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("eur"_s),
-			$of(u"\u0dba\u0dd4\u0dbb\u0ddd"_s)
+			$of(u"යුරෝ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("fjd"_s),
-			$of(u"\u0dc6\u0dd2\u0da2\u0dd2\u0dba\u0db1\u0dca \u0da9\u0ddc\u0dbd\u0dbb\u0dca"_s)
+			$of(u"ෆිජියන් ඩොලර්"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("fkp"_s),
-			$of(u"\u0dc6\u0ddd\u0d9a\u0dca\u0dbd\u0db1\u0dca\u0da9\u0dca \u0daf\u0dd6\u0db4\u0dad\u0dca \u0db4\u0dc0\u0dd4\u0db8\u0dca"_s)
+			$of(u"ෆෝක්ලන්ඩ් දූපත් පවුම්"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gbp"_s),
-			$of(u"\u0db6\u0dca\u200d\u0dbb\u0dd2\u0dad\u0dcf\u0db1\u0dca\u200d\u0dba \u0dc3\u0dca\u0da7\u0dbb\u0dca\u0dbd\u0dd2\u0db1\u0dca \u0db4\u0dc0\u0dd4\u0db8\u0dca"_s)
+			$of(u"බ්\u200dරිතාන්\u200dය ස්ටර්ලින් පවුම්"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gel"_s),
-			$of(u"\u0da2\u0ddd\u0da2\u0dd2\u0dba\u0dcf\u0db1\u0dd4 \u0dbd\u0dd0\u0dbb\u0dd3"_s)
+			$of(u"ජෝජියානු ලැරී"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ghs"_s),
-			$of(u"\u0d9d\u0dcf\u0db1\u0dcf \u0dc3\u0dd9\u0da9\u0dd2"_s)
+			$of(u"ඝානා සෙඩි"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gip"_s),
-			$of(u"\u0da2\u0dd2\u0db6\u0dca\u200d\u0dbb\u0ddd\u0dbd\u0dca\u0da7\u0dcf \u0db4\u0dc0\u0dd4\u0db8\u0dca"_s)
+			$of(u"ජිබ්\u200dරෝල්ටා පවුම්"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gmd"_s),
-			$of(u"\u0d9c\u0dd0\u0db8\u0dca\u0db6\u0dd2\u0dba\u0dcf\u0db1\u0dd4 \u0daf\u0dbd\u0dcf\u0dc3\u0dd2"_s)
+			$of(u"ගැම්බියානු දලාසි"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gnf"_s),
-			$of(u"\u0d9c\u0dd2\u0db1\u0dd2\u0dba\u0dcf\u0db1\u0dd4 \u0dc6\u0dca\u0dbb\u0dd1\u0db1\u0dca\u0d9a\u0dca"_s)
+			$of(u"ගිනියානු ෆ්රෑන්ක්"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gtq"_s),
-			$of(u"\u0d9c\u0ddd\u0dad\u0db8\u0dcf\u0dbd\u0dcf\u0db1\u0dd4 \u0d9a\u0dca\u0dc0\u0dd9\u0da7\u0dca\u0dc3\u0dbd\u0dca"_s)
+			$of(u"ගෝතමාලානු ක්වෙට්සල්"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gyd"_s),
-			$of(u"\u0d9c\u0dba\u0db1\u0dcf \u0da9\u0ddc\u0dbd\u0dbb\u0dca"_s)
+			$of(u"ගයනා ඩොලර්"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("hkd"_s),
-			$of(u"\u0dc4\u0ddc\u0d82\u0d9a\u0ddc\u0d82 \u0da9\u0ddc\u0dbd\u0dbb\u0dca"_s)
+			$of(u"හොංකොං ඩොලර්"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("hnl"_s),
-			$of(u"\u0dc4\u0ddc\u0db1\u0dca\u0da9\u0dd4\u0dbb\u0dcf\u0db1\u0dd4 \u0dbd\u0dd9\u0db8\u0dca\u0db4\u0dd2\u0dbb\u0dcf"_s)
+			$of(u"හොන්ඩුරානු ලෙම්පිරා"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("hrk"_s),
-			$of(u"\u0d9a\u0dca\u200d\u0dbb\u0ddc\u0d92\u0dc2\u0dd2\u0dba\u0dcf\u0db1\u0dd4 \u0d9a\u0dd6\u0db1\u0dcf"_s)
+			$of(u"ක්\u200dරොඒෂියානු කූනා"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("htg"_s),
-			$of(u"\u0dc4\u0dba\u0dd2\u0da7\u0dd2 \u0d9c\u0ddd\u0dbb\u0dca\u0da9\u0dca"_s)
+			$of(u"හයිටි ගෝර්ඩ්"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("huf"_s),
-			$of(u"\u0dc4\u0d82\u0d9c\u0dda\u0dbb\u0dd2\u0dba\u0dcf\u0db1\u0dd4 \u0dc6\u0dbb\u0dd2\u0db1\u0dca\u0da7\u0dca"_s)
+			$of(u"හංගේරියානු ෆරින්ට්"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("idr"_s),
-			$of(u"\u0d89\u0db1\u0dca\u0daf\u0dd4\u0db1\u0dd3\u0dc3\u0dd2\u0dba\u0dcf\u0db1\u0dd4 \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dcf"_s)
+			$of(u"ඉන්දුනීසියානු රුපියා"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ils"_s),
-			$of(u"\u0d8a\u0dc1\u0dca\u200d\u0dbb\u0dcf\u0dba\u0dbd \u0db1\u0dc0 \u0dc1\u0dd9\u0d9a\u0dbd\u0dca"_s)
+			$of(u"ඊශ්\u200dරායල නව ශෙකල්"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("inr"_s),
-			$of(u"\u0d89\u0db1\u0dca\u0daf\u0dd2\u0dba\u0dcf\u0db1\u0dd4 \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca"_s)
+			$of(u"ඉන්දියානු රුපියල්"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("iqd"_s),
-			$of(u"\u0d89\u0dbb\u0dcf\u0d9a \u0da9\u0dd2\u0db1\u0dcf\u0dbb\u0dca"_s)
+			$of(u"ඉරාක ඩිනාර්"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("irr"_s),
-			$of(u"\u0d89\u0dbb\u0dcf\u0db1 \u0dbb\u0dd2\u0dba\u0dcf\u0dbd\u0dca"_s)
+			$of(u"ඉරාන රියාල්"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("isk"_s),
-			$of(u"\u0d85\u0dba\u0dd2\u0dc3\u0dca\u0dbd\u0db1\u0dca\u0dad\u0dd2\u0d9a \u0d9a\u0dca\u200d\u0dbb\u0ddd\u0db1\u0dcf"_s)
+			$of(u"අයිස්ලන්තික ක්\u200dරෝනා"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("jmd"_s),
-			$of(u"\u0da2\u0dd0\u0db8\u0dd9\u0dba\u0dd2\u0d9a\u0dcf\u0db1\u0dd4 \u0da9\u0ddc\u0dbd\u0dbb\u0dca"_s)
+			$of(u"ජැමෙයිකානු ඩොලර්"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("jod"_s),
-			$of(u"\u0da2\u0ddd\u0dbb\u0dca\u0daf\u0dcf\u0db1\u0dca \u0da9\u0dd2\u0db1\u0dcf\u0dbb\u0dca"_s)
+			$of(u"ජෝර්දාන් ඩිනාර්"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("jpy"_s),
-			$of(u"\u0da2\u0db4\u0db1\u0dca \u0dba\u0dd9\u0db1\u0dca"_s)
+			$of(u"ජපන් යෙන්"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kes"_s),
-			$of(u"\u0d9a\u0dd9\u0db1\u0dca\u0dba\u0dcf\u0db1\u0dd4 \u0dc1\u0dd2\u0dbd\u0dd2\u0d82"_s)
+			$of(u"කෙන්යානු ශිලිං"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kgs"_s),
-			$of(u"\u0d9a\u0dd2\u0dbb\u0dd2\u0d9c\u0dd2\u0dc3\u0dca\u0dae\u0dcf\u0db1 \u0dc3\u0db8\u0dca"_s)
+			$of(u"කිරිගිස්ථාන සම්"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("khr"_s),
-			$of(u"\u0d9a\u0dcf\u0db8\u0dca\u0db6\u0ddd\u0da2 \u0dbb\u0dd2\u0dba\u0dda\u0dbd\u0dca"_s)
+			$of(u"කාම්බෝජ රියේල්"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kmf"_s),
-			$of(u"\u0d9a\u0ddc\u0db8\u0ddc\u0dbb\u0dd2\u0dba\u0dcf\u0db1\u0dd4 \u0dc6\u0dca\u200d\u0dbb\u0dd1\u0db1\u0dca\u0d9a\u0dca"_s)
+			$of(u"කොමොරියානු ෆ්\u200dරෑන්ක්"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kpw"_s),
-			$of(u"\u0d8b\u0dad\u0dd4\u0dbb\u0dd4 \u0d9a\u0ddc\u0dbb\u0dd2\u0dba\u0dcf\u0db1\u0dd4 \u0dc0\u0ddc\u0db1\u0dca"_s)
+			$of(u"උතුරු කොරියානු වොන්"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("krw"_s),
-			$of(u"\u0daf\u0d9a\u0dd4\u0dab\u0dd4 \u0d9a\u0ddc\u0dbb\u0dd2\u0dba\u0dcf\u0db1\u0dd4 \u0dc0\u0ddc\u0db1\u0dca"_s)
+			$of(u"දකුණු කොරියානු වොන්"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kwd"_s),
-			$of(u"\u0d9a\u0dd4\u0dc0\u0dda\u0da7\u0dca \u0da9\u0dd2\u0db1\u0dcf\u0dbb\u0dca"_s)
+			$of(u"කුවේට් ඩිනාර්"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kyd"_s),
-			$of(u"\u0d9a\u0dda\u0db8\u0db1\u0dca \u0daf\u0dd6\u0db4\u0dad\u0dca \u0da9\u0ddc\u0dbd\u0dbb\u0dca"_s)
+			$of(u"කේමන් දූපත් ඩොලර්"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kzt"_s),
-			$of(u"\u0d9a\u0dc3\u0d9a\u0dc3\u0dca\u0dae\u0dcf\u0db1 \u0da7\u0dd9\u0db1\u0dca\u0d9c"_s)
+			$of(u"කසකස්ථාන ටෙන්ග"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lak"_s),
-			$of(u"\u0dbd\u0dcf\u0d95\u0dc3\u0dca \u0d9a\u0dd2\u0db4\u0dca"_s)
+			$of(u"ලාඕස් කිප්"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lbp"_s),
-			$of(u"\u0dbd\u0dd9\u0db6\u0db1\u0db1 \u0db4\u0dc0\u0dd4\u0db8\u0dca"_s)
+			$of(u"ලෙබනන පවුම්"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lkr"_s),
-			$of(u"\u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd"_s)
+			$of(u"ශ්\u200dරී ලංකා රුපියල"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lrd"_s),
-			$of(u"\u0dbd\u0dba\u0dd2\u0db6\u0dda\u0dbb\u0dd2\u0dba\u0dcf\u0db1\u0dd4 \u0da9\u0ddc\u0dbd\u0dbb\u0dca"_s)
+			$of(u"ලයිබේරියානු ඩොලර්"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ltl"_s),
-			$of(u"\u0dbd\u0dd2\u0dad\u0dd4\u0dc0\u0dda\u0db1\u0dd2\u0dba\u0dcf\u0db1\u0dd4"_s)
+			$of(u"ලිතුවේනියානු"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lvl"_s),
-			$of(u"\u0dbd\u0dd0\u0da7\u0dca\u0dc0\u0dd2\u0dba\u0dcf\u0db1\u0dd4 \u0dbd\u0dd0\u0da7\u0dca\u0dc3\u0dca"_s)
+			$of(u"ලැට්වියානු ලැට්ස්"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lyd"_s),
-			$of(u"\u0dbd\u0dd2\u0db6\u0dd2\u0dba\u0dcf\u0db1\u0dd4 \u0da9\u0dd2\u0db1\u0dcf\u0dbb\u0dca"_s)
+			$of(u"ලිබියානු ඩිනාර්"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mad"_s),
-			$of(u"\u0db8\u0ddc\u0dbb\u0ddc\u0d9a\u0dca\u0d9a\u0ddd \u0da9\u0dd2\u0dbb\u0dca\u0dc4\u0dd0\u0db8\u0dca"_s)
+			$of(u"මොරොක්කෝ ඩිර්හැම්"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mdl"_s),
-			$of(u"\u0db8\u0ddd\u0dbd\u0dca\u0da9\u0ddd\u0dc0\u0dcf\u0db1\u0dd4 \u0dbd\u0dd9\u0dc0\u0dca"_s)
+			$of(u"මෝල්ඩෝවානු ලෙව්"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mga"_s),
-			$of(u"\u0db8\u0dbd\u0d9c\u0dcf\u0dc3\u0dd2 \u0d85\u0dbb\u0dd2\u0dba\u0dcf\u0dbb\u0dd2"_s)
+			$of(u"මලගාසි අරියාරි"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mkd"_s),
-			$of(u"\u0db8\u0dd0\u0dc3\u0da9\u0ddd\u0db1\u0dd2\u0dba\u0dcf\u0db1\u0dd4 \u0da9\u0dd2\u0db1\u0dcf\u0dbb\u0dca"_s)
+			$of(u"මැසඩෝනියානු ඩිනාර්"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mmk"_s),
-			$of(u"\u0db6\u0dd4\u0dbb\u0dd4\u0db8 \u0d9a\u0dca\u0dba\u0dcf\u0da7\u0dca"_s)
+			$of(u"බුරුම ක්යාට්"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mnt"_s),
-			$of(u"\u0db8\u0ddc\u0db1\u0dca\u0d9c\u0ddd\u0dbd\u0dd2\u0dba\u0dcf\u0db1\u0dd4 \u0da7\u0d9c\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca"_s)
+			$of(u"මොන්ගෝලියානු ටග්\u200dරික්"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mop"_s),
-			$of(u"\u0db8\u0dd0\u0d9a\u0db1\u0dd3\u0dc3\u0dca \u0db4\u0da7\u0d9a\u0dcf"_s)
+			$of(u"මැකනීස් පටකා"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mro"_s),
-			$of(u"\u0db8\u0dd4\u0dbb\u0dd4\u0dc3\u0dd2 \u0d94\u0dba\u0dd2\u0d9c\u0dd4\u0dba\u0dd2\u0dba\u0dcf (1973\u20132017)"_s)
+			$of(u"මුරුසි ඔයිගුයියා (1973–2017)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mru"_s),
-			$of(u"\u0db8\u0dd4\u0dbb\u0dd4\u0dc3\u0dd2 \u0d94\u0dba\u0dd2\u0d9c\u0dd4\u0dba\u0dd2\u0dba\u0dcf"_s)
+			$of(u"මුරුසි ඔයිගුයියා"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mur"_s),
-			$of(u"\u0db8\u0dd4\u0dbb\u0dd2\u0dc3\u0dd2\u0dba\u0dcf\u0db1\u0dd4 \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca"_s)
+			$of(u"මුරිසියානු රුපියල්"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mvr"_s),
-			$of(u"\u0db8\u0dcf\u0dbd\u0daf\u0dd2\u0dc0\u0dba\u0dd2\u0db1\u0dca \u0dbb\u0dd4\u0dc6\u0dd2\u0dba\u0dcf"_s)
+			$of(u"මාලදිවයින් රුෆියා"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mwk"_s),
-			$of(u"\u0db8\u0dbd\u0dcf\u0dc0\u0dd2 \u0d9a\u0dca\u0dc0\u0dcf\u0da0\u0dcf"_s)
+			$of(u"මලාවි ක්වාචා"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mxn"_s),
-			$of(u"\u0db8\u0dd9\u0d9a\u0dca\u0dc3\u0dd2\u0d9a\u0dcf\u0db1\u0dd4 \u0da9\u0ddc\u0dbd\u0dbb\u0dca"_s)
+			$of(u"මෙක්සිකානු ඩොලර්"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("myr"_s),
-			$of(u"\u0db8\u0dd0\u0dbd\u0dda\u0dc3\u0dd2\u0dba\u0dcf\u0db1\u0dd4 \u0dbb\u0dd2\u0db1\u0dca\u0d9c\u0dd2\u0da7\u0dca"_s)
+			$of(u"මැලේසියානු රින්ගිට්"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mzn"_s),
-			$of(u"\u0db8\u0ddc\u0dc3\u0dd0\u0db8\u0dca\u0db6\u0dd2\u0d9a\u0db1\u0dca \u0db8\u0dd9\u0da7\u0dd2\u0d9a\u0dbd\u0dca"_s)
+			$of(u"මොසැම්බිකන් මෙටිකල්"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("nad"_s),
-			$of(u"\u0db1\u0dd0\u0db8\u0dd3\u0db6\u0dd2\u0dba\u0dcf\u0db1\u0dd4 \u0da9\u0ddc\u0dbd\u0dbb\u0dca"_s)
+			$of(u"නැමීබියානු ඩොලර්"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ngn"_s),
-			$of(u"\u0db1\u0dba\u0dd2\u0da2\u0dd3\u0dbb\u0dd2\u0dba\u0dcf\u0db1\u0dd4 \u0db1\u0dba\u0dd2\u0dbb\u0dcf"_s)
+			$of(u"නයිජීරියානු නයිරා"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("nio"_s),
-			$of(u"\u0db1\u0dd2\u0d9a\u0dbb\u0d9c\u0dd4\u0dc0\u0dcf\u0db1\u0dd4 \u0d9a\u0ddc\u0da9\u0ddd\u0db6\u0dcf"_s)
+			$of(u"නිකරගුවානු කොඩෝබා"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("nok"_s),
-			$of(u"\u0db1\u0ddc\u0dbb\u0dca\u0dc0\u0dd3\u0da2\u0dd2\u0dba\u0db1\u0dca \u0d9a\u0dca\u200d\u0dbb\u0ddd\u0db1\u0dca"_s)
+			$of(u"නොර්වීජියන් ක්\u200dරෝන්"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("npr"_s),
-			$of(u"\u0db1\u0dda\u0db4\u0dcf\u0dbd \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca"_s)
+			$of(u"නේපාල රුපියල්"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("nzd"_s),
-			$of(u"\u0db1\u0dc0\u0dc3\u0dd3\u0dbd\u0db1\u0dca\u0dad \u0da9\u0ddc\u0dbd\u0dbb\u0dca"_s)
+			$of(u"නවසීලන්ත ඩොලර්"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("omr"_s),
-			$of(u"\u0d95\u0db8\u0dcf\u0db1\u0dca \u0dbb\u0dd2\u0dba\u0dcf\u0dbd\u0dca"_s)
+			$of(u"ඕමාන් රියාල්"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pab"_s),
-			$of(u"\u0db4\u0dd0\u0db1\u0db8\u0dcf \u0db6\u0dd0\u0dbd\u0dca\u0db6\u0ddd"_s)
+			$of(u"පැනමා බැල්බෝ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pen"_s),
-			$of(u"\u0db4\u0dda\u0dbb\u0dd4 \u0dc3\u0ddc\u0dbd\u0dca"_s)
+			$of(u"පේරු සොල්"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pgk"_s),
-			$of(u"\u0db4\u0dd0\u0db4\u0dd4\u0dc0\u0dcf \u0db1\u0dd2\u0dc0\u0dca \u0d9c\u0dd2\u0db1\u0dd2\u0dba\u0dcf\u0db1\u0dd4 \u0d9a\u0dd2\u0db1\u0dcf"_s)
+			$of(u"පැපුවා නිව් ගිනියානු කිනා"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("php"_s),
-			$of(u"\u0db4\u0dd2\u0dbd\u0dd2\u0db4\u0dd3\u0db1 \u0db4\u0dd9\u0dc3\u0ddd"_s)
+			$of(u"පිලිපීන පෙසෝ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pkr"_s),
-			$of(u"\u0db4\u0dcf\u0d9a\u0dd2\u0dc3\u0dca\u0dae\u0dcf\u0db1 \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd\u0dca"_s)
+			$of(u"පාකිස්ථාන රුපියල්"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pln"_s),
-			$of(u"\u0db4\u0ddc\u0dbd\u0dd2\u0dc2\u0dca \u0dc3\u0dca\u0dbd\u0ddc\u0da7\u0dd2"_s)
+			$of(u"පොලිෂ් ස්ලොටි"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pyg"_s),
-			$of(u"\u0db4\u0dd0\u0dbb\u0d9c\u0dd4\u0dc0\u0dda \u0d9c\u0dd4\u0dc0\u0dbb\u0dcf\u0db1\u0dd2"_s)
+			$of(u"පැරගුවේ ගුවරානි"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("qar"_s),
-			$of(u"\u0d9a\u0da7\u0dcf\u0dbb\u0dca \u0dbb\u0dd2\u0dba\u0dcf\u0dbd\u0dca"_s)
+			$of(u"කටාර් රියාල්"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ron"_s),
-			$of(u"\u0dbb\u0ddc\u0db8\u0dda\u0db1\u0dd2\u0dba\u0dcf\u0db1\u0dd4 \u0dbd\u0dd9\u0dc0\u0dca"_s)
+			$of(u"රොමේනියානු ලෙව්"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("rsd"_s),
-			$of(u"\u0dc3\u0dbb\u0dca\u0db6\u0dd2\u0dba\u0dcf\u0db1\u0dd4 \u0da9\u0dd2\u0db1\u0dcf\u0dbb\u0dca"_s)
+			$of(u"සර්බියානු ඩිනාර්"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("rub"_s),
-			$of(u"\u0dbb\u0dd4\u0dc3\u0dd2\u0dba\u0db1\u0dca \u0dbb\u0dd6\u0db6\u0dbd\u0dca"_s)
+			$of(u"රුසියන් රූබල්"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("rwf"_s),
-			$of(u"\u0dbb\u0dd4\u0dc0\u0db1\u0dca\u0da9\u0dcf \u0dc6\u0dca\u200d\u0dbb\u0dd1\u0db1\u0dca\u0d9a\u0dca"_s)
+			$of(u"රුවන්ඩා ෆ්\u200dරෑන්ක්"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sar"_s),
-			$of(u"\u0dc3\u0dc0\u0dd4\u0daf\u0dd2 \u0dbb\u0dd2\u0dba\u0dcf\u0dbd\u0dca"_s)
+			$of(u"සවුදි රියාල්"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sbd"_s),
-			$of(u"\u0dc3\u0ddc\u0dbd\u0db8\u0db1\u0dca \u0daf\u0dd6\u0db4\u0dad\u0dca \u0da9\u0ddc\u0dbd\u0dbb\u0dca"_s)
+			$of(u"සොලමන් දූපත් ඩොලර්"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("scr"_s),
-			$of(u"\u0dc3\u0dd3\u0dc2\u0dd9\u0dbd\u0dd2\u0dba\u0dcf\u0db1\u0dd4 \u0dbb\u0dd4\u0db4\u0dd2\u0dba\u0dbd"_s)
+			$of(u"සීෂෙලියානු රුපියල"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sdg"_s),
-			$of(u"\u0dc3\u0dd4\u0da9\u0dcf\u0db1 \u0db4\u0dc0\u0dd4\u0db8\u0dca"_s)
+			$of(u"සුඩාන පවුම්"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sek"_s),
-			$of(u"\u0dc3\u0dca\u0dc0\u0dd9\u0da9\u0dd2\u0dc2\u0dca \u0d9a\u0dca\u200d\u0dbb\u0ddd\u0db1\u0dcf"_s)
+			$of(u"ස්වෙඩිෂ් ක්\u200dරෝනා"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sgd"_s),
-			$of(u"\u0dc3\u0dd2\u0d82\u0d9c\u0db4\u0dca\u0db4\u0dd6\u0dbb\u0dd4 \u0da9\u0ddc\u0dbd\u0dbb\u0dca"_s)
+			$of(u"සිංගප්පූරු ඩොලර්"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("shp"_s),
-			$of(u"\u0dc1\u0dcf\u0db1\u0dca\u0dad \u0dc4\u0dd9\u0dbd\u0dda\u0db1\u0dcf \u0db4\u0dc0\u0dd4\u0db8\u0dca"_s)
+			$of(u"ශාන්ත හෙලේනා පවුම්"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sll"_s),
-			$of(u"\u0dc3\u0dd2\u0dba\u0dbb\u0dcf \u0dbd\u0dd2\u0dba\u0ddc\u0db1\u0dca \u0dbd\u0dd2\u0dba\u0ddc\u0db1\u0dca"_s)
+			$of(u"සියරා ලියොන් ලියොන්"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sos"_s),
-			$of(u"\u0dc3\u0ddd\u0db8\u0dcf\u0dbd\u0dd2\u0dba\u0dcf\u0db1\u0dd4 \u0dc1\u0dd2\u0dbd\u0dd2\u0d82"_s)
+			$of(u"සෝමාලියානු ශිලිං"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("srd"_s),
-			$of(u"\u0dc3\u0dd4\u0dbb\u0dd2\u0db1\u0dcf\u0db8\u0dca \u0da9\u0ddc\u0dbd\u0dbb\u0dca"_s)
+			$of(u"සුරිනාම් ඩොලර්"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ssp"_s),
-			$of(u"\u0daf\u0d9a\u0dd4\u0dab\u0dd4 \u0dc3\u0dd4\u0da9\u0dcf\u0db1 \u0db4\u0dc0\u0dd4\u0db8\u0dca"_s)
+			$of(u"දකුණු සුඩාන පවුම්"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("std"_s),
-			$of(u"\u0dc3\u0dcf\u0d95 \u0dad\u0ddd\u0db8\u0dca \u0dc3\u0dc4 \u0db4\u0dca\u200d\u0dbb\u0dd2\u0db1\u0dca\u0dc3\u0dd2\u0db4\u0dca \u0daf\u0ddc\u0db6\u0dca\u200d\u0dbb\u0dcf (1977\u20132017)"_s)
+			$of(u"සාඕ තෝම් සහ ප්\u200dරින්සිප් දොබ්\u200dරා (1977–2017)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("stn"_s),
-			$of(u"\u0dc3\u0dcf\u0d95 \u0dad\u0ddd\u0db8\u0dca \u0dc3\u0dc4 \u0db4\u0dca\u200d\u0dbb\u0dd2\u0db1\u0dca\u0dc3\u0dd2\u0db4\u0dca \u0daf\u0ddc\u0db6\u0dca\u200d\u0dbb\u0dcf"_s)
+			$of(u"සාඕ තෝම් සහ ප්\u200dරින්සිප් දොබ්\u200dරා"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("syp"_s),
-			$of(u"\u0dc3\u0dd2\u0dbb\u0dd2\u0dba\u0dcf\u0db1\u0dd4 \u0db4\u0dc0\u0dd4\u0db8\u0dca"_s)
+			$of(u"සිරියානු පවුම්"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("szl"_s),
-			$of(u"\u0dc3\u0dca\u0dc0\u0dcf\u0dc3\u0dd2 \u0dbd\u0dd2\u0dbd\u0db1\u0dca\u0da2\u0db1\u0dd2"_s)
+			$of(u"ස්වාසි ලිලන්ජනි"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("thb"_s),
-			$of(u"\u0dad\u0dcf\u0dba\u0dd2 \u0db6\u0dcf\u0dad\u0dca"_s)
+			$of(u"තායි බාත්"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("tjs"_s),
-			$of(u"\u0dad\u0da2\u0dd2\u0d9a\u0dd2\u0dc3\u0dca\u0dae\u0dcf\u0db1 \u0dc3\u0db8\u0ddc\u0db1\u0dd2"_s)
+			$of(u"තජිකිස්ථාන සමොනි"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("tmt"_s),
-			$of(u"\u0dad\u0d9a\u0dca\u0db8\u0dd9\u0db1\u0dd2\u0dc3\u0dca\u0dae\u0dcf\u0db1 \u0db8\u0db1\u0dcf\u0da7\u0dca"_s)
+			$of(u"තක්මෙනිස්ථාන මනාට්"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("tnd"_s),
-			$of(u"\u0da7\u0dd2\u0dba\u0dd4\u0db1\u0dd3\u0dc3\u0dd2\u0dba\u0dcf\u0db1\u0dd4 \u0da9\u0dd2\u0db1\u0dcf\u0dbb\u0dca"_s)
+			$of(u"ටියුනීසියානු ඩිනාර්"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("top"_s),
-			$of(u"\u0da7\u0ddc\u0d82\u0d9c\u0dcf\u0db1\u0dd4 \u0db4\u0dcf\u0db1\u0dca\u0d9c\u0dcf"_s)
+			$of(u"ටොංගානු පාන්ගා"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("try"_s),
-			$of(u"\u0dad\u0dd4\u0dbb\u0dca\u0d9a\u0dd2 \u0dbd\u0dd2\u0dbb\u0dcf"_s)
+			$of(u"තුර්කි ලිරා"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ttd"_s),
-			$of(u"\u0da7\u0dca\u200d\u0dbb\u0dd2\u0db1\u0dd2\u0da9\u0dd1\u0da9\u0dca \u0dc3\u0dc4 \u0da7\u0ddc\u0db6\u0dd1\u0d9c\u0ddd \u0da9\u0ddc\u0dbd\u0dbb\u0dca"_s)
+			$of(u"ට්\u200dරිනිඩෑඩ් සහ ටොබෑගෝ ඩොලර්"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("twd"_s),
-			$of(u"\u0db1\u0dc0 \u0dad\u0dcf\u0dba\u0dd2\u0dc0\u0dcf\u0db1 \u0da9\u0ddc\u0dbd\u0dbb\u0dca"_s)
+			$of(u"නව තායිවාන ඩොලර්"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("tzs"_s),
-			$of(u"\u0da7\u0dd0\u0db1\u0dca\u0dc3\u0dcf\u0db1\u0dd2\u0dba\u0dcf\u0db1\u0dd4 \u0dc1\u0dd2\u0dbd\u0dd2\u0d82"_s)
+			$of(u"ටැන්සානියානු ශිලිං"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("uah"_s),
-			$of(u"\u0dba\u0dd4\u0d9a\u0dca\u0dbb\u0dda\u0db1 \u0dc4\u0dca\u200d\u0dbb\u0dd2\u0dc0\u0dca\u0db1\u0dd2\u0dba\u0dcf"_s)
+			$of(u"යුක්රේන හ්\u200dරිව්නියා"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ugx"_s),
-			$of(u"\u0d8b\u0d9c\u0db1\u0dca\u0da9\u0dcf \u0dc1\u0dd2\u0dbd\u0dd2\u0d82"_s)
+			$of(u"උගන්ඩා ශිලිං"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("usd"_s),
-			$of(u"\u0d87\u0db8\u0dbb\u0dd2\u0d9a\u0dcf\u0db1\u0dd4 \u0da9\u0ddc\u0dbd\u0dbb\u0dca"_s)
+			$of(u"ඇමරිකානු ඩොලර්"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("uyu"_s),
-			$of(u"\u0d8b\u0dbb\u0dd4\u0d9c\u0dd4\u0dc0\u0dda \u0db4\u0dd9\u0dc3\u0ddd"_s)
+			$of(u"උරුගුවේ පෙසෝ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("uzs"_s),
-			$of(u"\u0d8b\u0dc3\u0dca\u0db6\u0dd9\u0d9a\u0dd2\u0dc3\u0dca\u0dae\u0dcf\u0db1 \u0dc3\u0db8\u0dca"_s)
+			$of(u"උස්බෙකිස්ථාන සම්"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("vef"_s),
-			$of(u"\u0dc0\u0dd9\u0db1\u0dd2\u0dc3\u0dd2\u0dba\u0dd4\u0dbd\u0dcf\u0db1\u0dd4 \u0db6\u0ddc\u0dbd\u0dd2\u0dc0\u0dbb\u0dca (2008\u20132018)"_s)
+			$of(u"වෙනිසියුලානු බොලිවර් (2008–2018)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ves"_s),
-			$of(u"\u0dc0\u0dd9\u0db1\u0dd2\u0dc3\u0dd2\u0dba\u0dd4\u0dbd\u0dcf\u0db1\u0dd4 \u0db6\u0ddc\u0dbd\u0dd2\u0dc0\u0dbb\u0dca"_s)
+			$of(u"වෙනිසියුලානු බොලිවර්"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("vnd"_s),
-			$of(u"\u0dc0\u0dd2\u0dba\u0da7\u0dca\u0db1\u0dcf\u0db8 \u0da9\u0ddc\u0db1\u0dca"_s)
+			$of(u"වියට්නාම ඩොන්"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("vuv"_s),
-			$of(u"\u0dc0\u0db1\u0dd4\u0dc0\u0dcf\u0da7\u0dd4 \u0dc0\u0dcf\u0da7\u0dd4"_s)
+			$of(u"වනුවාටු වාටු"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("wst"_s),
-			$of(u"\u0dc3\u0dd0\u0db8\u0ddd\u0dc0\u0dcf \u0da7\u0dcf\u0dbd\u0dcf"_s)
+			$of(u"සැමෝවා ටාලා"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xaf"_s),
-			$of(u"\u0dc3\u0dd2\u0dc6\u0dca\u0d91 \u0dc6\u0dca\u0dbb\u0dd1\u0db1\u0dca\u0d9a\u0dca \u0db6\u0dd2\u0d8a\u0d91\u0dc3\u0dd2"_s)
+			$of(u"සිෆ්එ ෆ්රෑන්ක් බිඊඑසි"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xcd"_s),
-			$of(u"\u0db1\u0dd0\u0d9c\u0dd9\u0db1\u0dc4\u0dd2\u0dbb \u0d9a\u0dd0\u0dbb\u0dd2\u0db6\u0dd2\u0dba\u0dcf\u0db1\u0dd4 \u0da9\u0ddc\u0dbd\u0dbb\u0dca"_s)
+			$of(u"නැගෙනහිර කැරිබියානු ඩොලර්"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xof"_s),
-			$of(u"\u0dc3\u0dd2\u0dc6\u0dca\u0d91 \u0dc6\u0dca\u0dbb\u0dd1\u0db1\u0dca\u0d9a\u0dca \u0db6\u0dd2\u0dc3\u0dd3\u0d8a\u0d91\u0d94"_s)
+			$of(u"සිෆ්එ ෆ්රෑන්ක් බිසීඊඑඔ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xpf"_s),
-			$of(u"\u0db4\u0dca\u200d\u0dbb\u0d82\u0dc1 \u0db4\u0ddc\u0dbd\u0dd2\u0db1\u0dd3\u0dc3\u0dd2\u0dba\u0dcf\u0db1\u0dd4 \u0dc6\u0dca\u200d\u0dbb\u0dd1\u0db1\u0dca\u0d9a\u0dca"_s)
+			$of(u"ප්\u200dරංශ පොලිනීසියානු ෆ්\u200dරෑන්ක්"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xxx"_s),
-			$of(u"\u0db1\u0ddc\u0daf\u0dad\u0dca \u0db8\u0dd4\u0daf\u0dbd\u0dca"_s)
+			$of(u"නොදත් මුදල්"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("yer"_s),
-			$of(u"\u0dba\u0dda\u0db8\u0db1 \u0dbb\u0dd2\u0dba\u0dcf\u0dbd\u0dca"_s)
+			$of(u"යේමන රියාල්"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("zar"_s),
-			$of(u"\u0daf\u0d9a\u0dd4\u0dab\u0dd4 \u0d85\u0db4\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dcf\u0db1\u0dd4 \u0dbb\u0dd0\u0db1\u0dca\u0da9\u0dca"_s)
+			$of(u"දකුණු අප්\u200dරිකානු රැන්ඩ්"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("zmk"_s),
-			$of(u"\u0dc3\u0dd0\u0db8\u0dca\u0db6\u0dd2\u0dba\u0dcf\u0db1\u0dd4 \u0d9a\u0dca\u0dc0\u0dcf\u0da0\u0dcf (1968\u20132012)"_s)
+			$of(u"සැම්බියානු ක්වාචා (1968–2012)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("zmw"_s),
-			$of(u"\u0dc3\u0dd0\u0db8\u0dca\u0db6\u0dd2\u0dba\u0dcf\u0db1\u0dd4 \u0d9a\u0dca\u0dc0\u0dcf\u0da0\u0dcf"_s)
+			$of(u"සැම්බියානු ක්වාචා"_s)
 		})
 	}));
 	return data;

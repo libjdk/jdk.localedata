@@ -45,14 +45,14 @@ $ObjectArray2* JavaTimeSupplementary_zh_HK::getContents() {
 		"Q4"_s
 	}));
 	$var($StringArray, sharedJavaTimeDatePatterns, $new($StringArray, {
-		u"Gy\u5e74M\u6708d\u65e5EEEE"_s,
-		u"Gy\u5e74M\u6708d\u65e5"_s,
-		u"Gy\u5e74M\u6708d\u65e5"_s,
+		u"Gy年M月d日EEEE"_s,
+		u"Gy年M月d日"_s,
+		u"Gy年M月d日"_s,
 		"Gy/M/d"_s
 	}));
 	$var($StringArray, sharedJavaTimeLongEras, $new($StringArray, {
-		u"\u516c\u5143\u524d"_s,
-		u"\u516c\u5143"_s
+		u"公元前"_s,
+		u"公元"_s
 	}));
 	return $new($ObjectArray2, {
 		$$new($ObjectArray, {
@@ -61,11 +61,11 @@ $ObjectArray2* JavaTimeSupplementary_zh_HK::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.week"_s),
-			$of(u"\u661f\u671f"_s)
+			$of(u"星期"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("field.weekday"_s),
-			$of(u"\u661f\u671f\u5e7e"_s)
+			$of(u"星期幾"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("islamic.QuarterAbbreviations"_s),
@@ -90,9 +90,9 @@ $ObjectArray2* JavaTimeSupplementary_zh_HK::getContents() {
 		$$new($ObjectArray, {
 			$of("roc.DatePatterns"_s),
 			$of($$new($StringArray, {
-				u"GGGGy\u5e74M\u6708d\u65e5EEEE"_s,
-				u"GGGGy\u5e74M\u6708d\u65e5"_s,
-				u"GGGGy\u5e74M\u6708d\u65e5"_s,
+				u"GGGGy年M月d日EEEE"_s,
+				u"GGGGy年M月d日"_s,
+				u"GGGGy年M月d日"_s,
 				"GGGGy/M/d"_s
 			}))
 		}),

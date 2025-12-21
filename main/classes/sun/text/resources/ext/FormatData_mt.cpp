@@ -47,13 +47,13 @@ $ObjectArray2* FormatData_mt::getContents() {
 				"Marzu"_s,
 				"April"_s,
 				"Mejju"_s,
-				u"\u0120unju"_s,
+				u"Ġunju"_s,
 				"Lulju"_s,
 				"Awwissu"_s,
 				"Settembru"_s,
 				"Ottubru"_s,
 				"Novembru"_s,
-				u"Di\u010bembru"_s,
+				u"Diċembru"_s,
 				""_s
 			}))
 		}),
@@ -65,13 +65,13 @@ $ObjectArray2* FormatData_mt::getContents() {
 				"Mar"_s,
 				"Apr"_s,
 				"Mej"_s,
-				u"\u0120un"_s,
+				u"Ġun"_s,
 				"Lul"_s,
 				"Aww"_s,
 				"Set"_s,
 				"Ott"_s,
 				"Nov"_s,
-				u"Di\u010b"_s,
+				u"Diċ"_s,
 				""_s
 			}))
 		}),
@@ -83,7 +83,7 @@ $ObjectArray2* FormatData_mt::getContents() {
 				"M"_s,
 				"A"_s,
 				"M"_s,
-				u"\u0120"_s,
+				u"Ġ"_s,
 				"L"_s,
 				"A"_s,
 				"S"_s,
@@ -96,36 +96,36 @@ $ObjectArray2* FormatData_mt::getContents() {
 		$$new($ObjectArray, {
 			$of("DayNames"_s),
 			$of($$new($StringArray, {
-				u"Il-\u0126add"_s,
+				u"Il-Ħadd"_s,
 				"It-Tnejn"_s,
 				"It-Tlieta"_s,
-				u"L-Erbg\u0127a"_s,
-				u"Il-\u0126amis"_s,
-				u"Il-\u0120img\u0127a"_s,
+				u"L-Erbgħa"_s,
+				u"Il-Ħamis"_s,
+				u"Il-Ġimgħa"_s,
 				"Is-Sibt"_s
 			}))
 		}),
 		$$new($ObjectArray, {
 			$of("DayAbbreviations"_s),
 			$of($$new($StringArray, {
-				u"\u0126ad"_s,
+				u"Ħad"_s,
 				"Tne"_s,
 				"Tli"_s,
 				"Erb"_s,
-				u"\u0126am"_s,
-				u"\u0120im"_s,
+				u"Ħam"_s,
+				u"Ġim"_s,
 				"Sib"_s
 			}))
 		}),
 		$$new($ObjectArray, {
 			$of("DayNarrows"_s),
 			$of($$new($StringArray, {
-				u"\u0126"_s,
+				u"Ħ"_s,
 				"T"_s,
 				"T"_s,
 				"E"_s,
-				u"\u0126"_s,
-				u"\u0120"_s,
+				u"Ħ"_s,
+				u"Ġ"_s,
 				"S"_s
 			}))
 		}),
@@ -147,7 +147,7 @@ $ObjectArray2* FormatData_mt::getContents() {
 			$of("NumberPatterns"_s),
 			$of($$new($StringArray, {
 				"#,##0.###"_s,
-				u"\u00a4 #,##0.00"_s,
+				u"¤ #,##0.00"_s,
 				"#,##0%"_s
 			}))
 		}),
@@ -162,8 +162,8 @@ $ObjectArray2* FormatData_mt::getContents() {
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
+				u"‰"_s,
+				u"∞"_s,
 				"NaN"_s
 			}))
 		}),
@@ -179,8 +179,8 @@ $ObjectArray2* FormatData_mt::getContents() {
 		$$new($ObjectArray, {
 			$of("DatePatterns"_s),
 			$of($$new($StringArray, {
-				u"EEEE, d \'ta\u2019\' MMMM yyyy"_s,
-				u"d \'ta\u2019\' MMMM yyyy"_s,
+				u"EEEE, d \'ta’\' MMMM yyyy"_s,
+				u"d \'ta’\' MMMM yyyy"_s,
 				"dd MMM yyyy"_s,
 				"dd/MM/yyyy"_s
 			}))

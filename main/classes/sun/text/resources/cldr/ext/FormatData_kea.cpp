@@ -91,7 +91,7 @@ $ObjectArray2* FormatData_kea::getContents() {
 		"kuarta-fera"_s,
 		"kinta-fera"_s,
 		"sesta-fera"_s,
-		u"s\u00e1badu"_s
+		u"sábadu"_s
 	}));
 	$var($StringArray, metaValue_DayAbbreviations, $new($StringArray, {
 		"dum"_s,
@@ -112,10 +112,10 @@ $ObjectArray2* FormatData_kea::getContents() {
 		"S"_s
 	}));
 	$var($StringArray, metaValue_QuarterNames, $new($StringArray, {
-		u"1\u00ba trimestri"_s,
-		u"2\u00ba trimestri"_s,
-		u"3\u00ba trimestri"_s,
-		u"4\u00ba trimestri"_s
+		u"1º trimestri"_s,
+		u"2º trimestri"_s,
+		u"3º trimestri"_s,
+		u"4º trimestri"_s
 	}));
 	$var($StringArray, metaValue_QuarterAbbreviations, $new($StringArray, {
 		"T1"_s,
@@ -165,7 +165,7 @@ $ObjectArray2* FormatData_kea::getContents() {
 		"d MMM y GGGG"_s,
 		"dd/MM/y G"_s
 	}));
-	$var($String, metaValue_calendarname_gregorian, u"Kalend\u00e1riu Gregorianu"_s);
+	$var($String, metaValue_calendarname_gregorian, u"Kalendáriu Gregorianu"_s);
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("MonthNames"_s),
@@ -177,7 +177,7 @@ $ObjectArray2* FormatData_kea::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.islamic-umalqura"_s),
-			$of(u"Kalend\u00e1riu isl\u00e1miku (Umm al-Qura)"_s)
+			$of(u"Kalendáriu islámiku (Umm al-Qura)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("japanese.AmPmMarkers"_s),
@@ -205,7 +205,7 @@ $ObjectArray2* FormatData_kea::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.islamic-civil"_s),
-			$of(u"Kalend\u00e1riu isl\u00e1miku (sivil)"_s)
+			$of(u"Kalendáriu islámiku (sivil)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("japanese.TimePatterns"_s),
@@ -229,7 +229,7 @@ $ObjectArray2* FormatData_kea::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.japanese"_s),
-			$of(u"Kalend\u00e1riu japones"_s)
+			$of(u"Kalendáriu japones"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("japanese.MonthNames"_s),
@@ -283,15 +283,15 @@ $ObjectArray2* FormatData_kea::getContents() {
 			$of("latn.NumberElements"_s),
 			$of($$new($StringArray, {
 				","_s,
-				u"\u00a0"_s,
+				u" "_s,
 				";"_s,
 				"%"_s,
 				"0"_s,
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
+				u"‰"_s,
+				u"∞"_s,
 				"NaN"_s,
 				""_s,
 				""_s
@@ -335,7 +335,7 @@ $ObjectArray2* FormatData_kea::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.roc"_s),
-			$of(u"Kalend\u00e1riu di Rep\u00fablika di Xina"_s)
+			$of(u"Kalendáriu di Repúblika di Xina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("islamic.DatePatterns"_s),
@@ -367,7 +367,7 @@ $ObjectArray2* FormatData_kea::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.islamic"_s),
-			$of(u"Kalend\u00e1riu isl\u00e1miku"_s)
+			$of(u"Kalendáriu islámiku"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("buddhist.TimePatterns"_s),
@@ -390,15 +390,15 @@ $ObjectArray2* FormatData_kea::getContents() {
 				"{other:0\' \'mil}"_s,
 				"{other:00\' \'mil}"_s,
 				"{other:000\' \'mil}"_s,
-				u"{other:0\' \'milh\u00e3u}"_s,
-				u"{other:00\' \'milh\u00e3u}"_s,
-				u"{other:000\' \'milh\u00e3u}"_s,
-				u"{other:0\' \'mil\' \'milh\u00e3u}"_s,
-				u"{other:00\' \'mil\' \'milh\u00e3u}"_s,
-				u"{other:000\' \'mil\' \'milh\u00e3u}"_s,
-				u"{other:0\' \'bilh\u00e3u}"_s,
-				u"{other:00\' \'bilh\u00e3u}"_s,
-				u"{other:000\' \'bilh\u00e3u}"_s
+				u"{other:0\' \'milhãu}"_s,
+				u"{other:00\' \'milhãu}"_s,
+				u"{other:000\' \'milhãu}"_s,
+				u"{other:0\' \'mil\' \'milhãu}"_s,
+				u"{other:00\' \'mil\' \'milhãu}"_s,
+				u"{other:000\' \'mil\' \'milhãu}"_s,
+				u"{other:0\' \'bilhãu}"_s,
+				u"{other:00\' \'bilhãu}"_s,
+				u"{other:000\' \'bilhãu}"_s
 			}))
 		}),
 		$$new($ObjectArray, {
@@ -551,18 +551,18 @@ $ObjectArray2* FormatData_kea::getContents() {
 				""_s,
 				""_s,
 				""_s,
-				u"{other:0\u00a0mil}"_s,
-				u"{other:00\u00a0mil}"_s,
-				u"{other:000\u00a0mil}"_s,
-				u"{other:0\u00a0M}"_s,
-				u"{other:00\u00a0M}"_s,
-				u"{other:000\u00a0M}"_s,
-				u"{other:0\u00a0MM}"_s,
-				u"{other:00\u00a0MM}"_s,
-				u"{other:000\u00a0MM}"_s,
-				u"{other:0\u00a0Bi}"_s,
-				u"{other:00\u00a0Bi}"_s,
-				u"{other:000\u00a0Bi}"_s
+				u"{other:0 mil}"_s,
+				u"{other:00 mil}"_s,
+				u"{other:000 mil}"_s,
+				u"{other:0 M}"_s,
+				u"{other:00 M}"_s,
+				u"{other:000 M}"_s,
+				u"{other:0 MM}"_s,
+				u"{other:00 MM}"_s,
+				u"{other:000 MM}"_s,
+				u"{other:0 Bi}"_s,
+				u"{other:00 Bi}"_s,
+				u"{other:000 Bi}"_s
 			}))
 		}),
 		$$new($ObjectArray, {
@@ -604,7 +604,7 @@ $ObjectArray2* FormatData_kea::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.buddhist"_s),
-			$of(u"Kalend\u00e1riu budista"_s)
+			$of(u"Kalendáriu budista"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("standalone.MonthNames"_s),
@@ -614,9 +614,9 @@ $ObjectArray2* FormatData_kea::getContents() {
 			$of("latn.NumberPatterns"_s),
 			$of($$new($StringArray, {
 				"#,##0.###"_s,
-				u"#,##0.00\u00a0\u00a4"_s,
+				u"#,##0.00 ¤"_s,
 				"#,##0%"_s,
-				u"#,##0.00\u00a0\u00a4;(#,##0.00\u00a0\u00a4)"_s
+				u"#,##0.00 ¤;(#,##0.00 ¤)"_s
 			}))
 		}),
 		$$new($ObjectArray, {

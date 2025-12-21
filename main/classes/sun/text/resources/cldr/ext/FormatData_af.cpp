@@ -297,15 +297,15 @@ $ObjectArray2* FormatData_af::getContents() {
 			$of("latn.NumberElements"_s),
 			$of($$new($StringArray, {
 				","_s,
-				u"\u00a0"_s,
+				u" "_s,
 				";"_s,
 				"%"_s,
 				"0"_s,
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
+				u"‰"_s,
+				u"∞"_s,
 				"NaN"_s,
 				""_s,
 				""_s
@@ -577,18 +577,18 @@ $ObjectArray2* FormatData_af::getContents() {
 				""_s,
 				""_s,
 				""_s,
-				u"{one:0\u00a0k other:0\u00a0k}"_s,
-				u"{one:00\u00a0k other:00\u00a0k}"_s,
-				u"{one:000\u00a0k other:000\u00a0k}"_s,
-				u"{one:0\u00a0m other:0\u00a0m}"_s,
-				u"{one:00\u00a0m other:00\u00a0m}"_s,
-				u"{one:000\u00a0m other:000\u00a0m}"_s,
-				u"{one:0\u00a0mjd other:0\u00a0mjd}"_s,
-				u"{one:00\u00a0mjd other:00\u00a0mjd}"_s,
-				u"{one:000\u00a0mjd other:000\u00a0mjd}"_s,
-				u"{one:0\u00a0bn other:0\u00a0bn}"_s,
-				u"{one:00\u00a0bn other:00\u00a0bn}"_s,
-				u"{one:000\u00a0bn other:000\u00a0bn}"_s
+				u"{one:0 k other:0 k}"_s,
+				u"{one:00 k other:00 k}"_s,
+				u"{one:000 k other:000 k}"_s,
+				u"{one:0 m other:0 m}"_s,
+				u"{one:00 m other:00 m}"_s,
+				u"{one:000 m other:000 m}"_s,
+				u"{one:0 mjd other:0 mjd}"_s,
+				u"{one:00 mjd other:00 mjd}"_s,
+				u"{one:000 mjd other:000 mjd}"_s,
+				u"{one:0 bn other:0 bn}"_s,
+				u"{one:00 bn other:00 bn}"_s,
+				u"{one:000 bn other:000 bn}"_s
 			}))
 		}),
 		$$new($ObjectArray, {
@@ -644,9 +644,9 @@ $ObjectArray2* FormatData_af::getContents() {
 			$of("latn.NumberPatterns"_s),
 			$of($$new($StringArray, {
 				"#,##0.###"_s,
-				u"\u00a4#,##0.00"_s,
+				u"¤#,##0.00"_s,
 				"#,##0%"_s,
-				u"\u00a4#,##0.00;(\u00a4#,##0.00)"_s
+				u"¤#,##0.00;(¤#,##0.00)"_s
 			}))
 		}),
 		$$new($ObjectArray, {

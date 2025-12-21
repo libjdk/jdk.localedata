@@ -45,10 +45,10 @@ $ObjectArray2* JavaTimeSupplementary_sq::getContents() {
 		"tremujori IV"_s
 	}));
 	$var($StringArray, sharedQuarterNames, $new($StringArray, {
-		u"tremujori i par\u00eb"_s,
-		u"tremujori i dyt\u00eb"_s,
-		u"tremujori i tret\u00eb"_s,
-		u"tremujori i kat\u00ebrt"_s
+		u"tremujori i parë"_s,
+		u"tremujori i dytë"_s,
+		u"tremujori i tretë"_s,
+		u"tremujori i katërt"_s
 	}));
 	$var($StringArray, sharedAmPmMarkers, $new($StringArray, {
 		"e paradites"_s,
@@ -62,21 +62,21 @@ $ObjectArray2* JavaTimeSupplementary_sq::getContents() {
 	}));
 	$var($StringArray, sharedDayAbbreviations, $new($StringArray, {
 		"Die"_s,
-		u"H\u00ebn"_s,
+		u"Hën"_s,
 		"Mar"_s,
-		u"M\u00ebr"_s,
+		u"Mër"_s,
 		"Enj"_s,
 		"Pre"_s,
 		"Sht"_s
 	}));
 	$var($StringArray, sharedDayNames, $new($StringArray, {
 		"e diel"_s,
-		u"e h\u00ebn\u00eb"_s,
-		u"e mart\u00eb"_s,
-		u"e m\u00ebrkur\u00eb"_s,
+		u"e hënë"_s,
+		u"e martë"_s,
+		u"e mërkurë"_s,
 		"e enjte"_s,
 		"e premte"_s,
-		u"e shtun\u00eb"_s
+		u"e shtunë"_s
 	}));
 	$var($StringArray, sharedDayNarrows, $new($StringArray, {
 		"D"_s,
@@ -146,15 +146,15 @@ $ObjectArray2* JavaTimeSupplementary_sq::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.era"_s),
-			$of(u"er\u00eb"_s)
+			$of(u"erë"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("field.hour"_s),
-			$of(u"or\u00eb"_s)
+			$of(u"orë"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("field.minute"_s),
-			$of(u"minut\u00eb"_s)
+			$of(u"minutë"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("field.month"_s),
@@ -162,15 +162,15 @@ $ObjectArray2* JavaTimeSupplementary_sq::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.second"_s),
-			$of(u"sekond\u00eb"_s)
+			$of(u"sekondë"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("field.week"_s),
-			$of(u"jav\u00eb"_s)
+			$of(u"javë"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("field.weekday"_s),
-			$of(u"dit\u00eb e jav\u00ebs"_s)
+			$of(u"ditë e javës"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("field.year"_s),
@@ -235,8 +235,8 @@ $ObjectArray2* JavaTimeSupplementary_sq::getContents() {
 		$$new($ObjectArray, {
 			$of("java.time.long.Eras"_s),
 			$of($$new($StringArray, {
-				u"para er\u00ebs s\u00eb re"_s,
-				u"er\u00ebs s\u00eb re"_s
+				u"para erës së re"_s,
+				u"erës së re"_s
 			}))
 		}),
 		$$new($ObjectArray, {
@@ -283,7 +283,7 @@ $ObjectArray2* JavaTimeSupplementary_sq::getContents() {
 				"Gsh"_s,
 				"Sht"_s,
 				"Tet"_s,
-				u"N\u00ebn"_s,
+				u"Nën"_s,
 				"Dhj"_s,
 				""_s
 			}))
@@ -301,7 +301,7 @@ $ObjectArray2* JavaTimeSupplementary_sq::getContents() {
 				"gusht"_s,
 				"shtator"_s,
 				"tetor"_s,
-				u"n\u00ebntor"_s,
+				u"nëntor"_s,
 				"dhjetor"_s,
 				""_s
 			}))
@@ -346,7 +346,7 @@ $ObjectArray2* JavaTimeSupplementary_sq::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.gmtFormat"_s),
-			$of(u"Ora e Grenui\u00e7it: {0}"_s)
+			$of(u"Ora e Grenuiçit: {0}"_s)
 		})
 	});
 }

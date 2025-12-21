@@ -40,54 +40,54 @@ void FormatData_sr_Cyrl_BA::init$() {
 $ObjectArray2* FormatData_sr_Cyrl_BA::getContents() {
 	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_DayNames, $new($StringArray, {
-		u"\u043d\u0435\u0434\u0458\u0435\u0459\u0430"_s,
-		u"\u043f\u043e\u043d\u0435\u0434\u0458\u0435\u0459\u0430\u043a"_s,
-		u"\u0443\u0442\u043e\u0440\u0430\u043a"_s,
-		u"\u0441\u0440\u0438\u0458\u0435\u0434\u0430"_s,
-		u"\u0447\u0435\u0442\u0432\u0440\u0442\u0430\u043a"_s,
-		u"\u043f\u0435\u0442\u0430\u043a"_s,
-		u"\u0441\u0443\u0431\u043e\u0442\u0430"_s
+		u"недјеља"_s,
+		u"понедјељак"_s,
+		u"уторак"_s,
+		u"сриједа"_s,
+		u"четвртак"_s,
+		u"петак"_s,
+		u"субота"_s
 	}));
 	$var($StringArray, metaValue_AmPmMarkers, $new($StringArray, {
-		u"\u043f\u0440\u0438\u0458\u0435 \u043f\u043e\u0434\u043d\u0435"_s,
-		u"\u043f\u043e \u043f\u043e\u0434\u043d\u0435"_s,
-		u"\u043f\u043e\u043d\u043e\u045b"_s,
-		u"\u043f\u043e\u0434\u043d\u0435"_s,
-		u"\u0443\u0458\u0443\u0442\u0440\u043e"_s,
+		u"прије подне"_s,
+		u"по подне"_s,
+		u"поноћ"_s,
+		u"подне"_s,
+		u"ујутро"_s,
 		""_s,
-		u"\u043f\u043e \u043f\u043e\u0434\u043d\u0435"_s,
+		u"по подне"_s,
 		""_s,
-		u"\u0443\u0432\u0435\u0447\u0435"_s,
+		u"увече"_s,
 		""_s,
-		u"\u043d\u043e\u045b\u0443"_s,
+		u"ноћу"_s,
 		""_s
 	}));
 	$var($StringArray, metaValue_narrow_AmPmMarkers, $new($StringArray, {
 		"a"_s,
 		"p"_s,
-		u"\u043f\u043e\u043d\u043e\u045b"_s,
-		u"\u043f\u043e\u0434\u043d\u0435"_s,
-		u"\u0458\u0443\u0442\u0440\u043e"_s,
+		u"поноћ"_s,
+		u"подне"_s,
+		u"јутро"_s,
 		""_s,
-		u"\u043f\u043e \u043f\u043e\u0434."_s,
+		u"по под."_s,
 		""_s,
-		u"\u0432\u0435\u0447\u0435"_s,
+		u"вече"_s,
 		""_s,
-		u"\u043d\u043e\u045b"_s,
+		u"ноћ"_s,
 		""_s
 	}));
 	$var($StringArray, metaValue_abbreviated_AmPmMarkers, $new($StringArray, {
-		u"\u043f\u0440\u0438\u0458\u0435 \u043f\u043e\u0434\u043d\u0435"_s,
-		u"\u043f\u043e \u043f\u043e\u0434\u043d\u0435"_s,
-		u"\u043f\u043e\u043d\u043e\u045b"_s,
-		u"\u043f\u043e\u0434\u043d\u0435"_s,
-		u"\u0458\u0443\u0442\u0440\u043e"_s,
+		u"прије подне"_s,
+		u"по подне"_s,
+		u"поноћ"_s,
+		u"подне"_s,
+		u"јутро"_s,
 		""_s,
-		u"\u043f\u043e \u043f\u043e\u0434."_s,
+		u"по под."_s,
 		""_s,
-		u"\u0432\u0435\u0447\u0435"_s,
+		u"вече"_s,
 		""_s,
-		u"\u043d\u043e\u045b\u0443"_s,
+		u"ноћу"_s,
 		""_s
 	}));
 	$var($ObjectArray2, data, $new($ObjectArray2, {
@@ -117,7 +117,7 @@ $ObjectArray2* FormatData_sr_Cyrl_BA::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.month"_s),
-			$of(u"\u043c\u0458\u0435\u0441\u0435\u0446"_s)
+			$of(u"мјесец"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("islamic.narrow.AmPmMarkers"_s),
@@ -125,7 +125,7 @@ $ObjectArray2* FormatData_sr_Cyrl_BA::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.week"_s),
-			$of(u"\u043d\u0435\u0434\u0458\u0435\u0459\u0430"_s)
+			$of(u"недјеља"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("DayAbbreviations"_s),
@@ -137,7 +137,7 @@ $ObjectArray2* FormatData_sr_Cyrl_BA::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.regionFormat.standard"_s),
-			$of(u"{0}, \u0441\u0442\u0430\u043d\u0434\u0430\u0440\u0434\u043d\u043e \u0432\u0440\u0438\u0458\u0435\u043c\u0435"_s)
+			$of(u"{0}, стандардно вријеме"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("japanese.abbreviated.AmPmMarkers"_s),
@@ -158,13 +158,13 @@ $ObjectArray2* FormatData_sr_Cyrl_BA::getContents() {
 		$$new($ObjectArray, {
 			$of("standalone.DayAbbreviations"_s),
 			$of($$new($StringArray, {
-				u"\u043d\u0435\u0434"_s,
-				u"\u043f\u043e\u043d"_s,
-				u"\u0443\u0442\u043e"_s,
-				u"\u0441\u0440\u0438"_s,
-				u"\u0447\u0435\u0442"_s,
-				u"\u043f\u0435\u0442"_s,
-				u"\u0441\u0443\u0431"_s
+				u"нед"_s,
+				u"пон"_s,
+				u"уто"_s,
+				u"сри"_s,
+				u"чет"_s,
+				u"пет"_s,
+				u"суб"_s
 			}))
 		}),
 		$$new($ObjectArray, {
@@ -178,8 +178,8 @@ $ObjectArray2* FormatData_sr_Cyrl_BA::getContents() {
 		$$new($ObjectArray, {
 			$of("long.Eras"_s),
 			$of($$new($StringArray, {
-				u"\u043f\u0440\u0438\u0458\u0435 \u043d\u043e\u0432\u0435 \u0435\u0440\u0435"_s,
-				u"\u043d\u043e\u0432\u0435 \u0435\u0440\u0435"_s
+				u"прије нове ере"_s,
+				u"нове ере"_s
 			}))
 		}),
 		$$new($ObjectArray, {
@@ -188,7 +188,7 @@ $ObjectArray2* FormatData_sr_Cyrl_BA::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.regionFormat.daylight"_s),
-			$of(u"{0}, \u0459\u0435\u0442\u045a\u0435 \u0432\u0440\u0438\u0458\u0435\u043c\u0435"_s)
+			$of(u"{0}, љетње вријеме"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("buddhist.DayAbbreviations"_s),
@@ -196,7 +196,7 @@ $ObjectArray2* FormatData_sr_Cyrl_BA::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.weekday"_s),
-			$of(u"\u0434\u0430\u043d \u0443 \u043d\u0435\u0434\u0458\u0435\u0459\u0438"_s)
+			$of(u"дан у недјељи"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("standalone.DayNames"_s),
@@ -228,7 +228,7 @@ $ObjectArray2* FormatData_sr_Cyrl_BA::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.dayperiod"_s),
-			$of(u"\u043f\u0440\u0438\u0458\u0435 \u043f\u043e\u0434\u043d\u0435/\u043f\u043e \u043f\u043e\u0434\u043d\u0435"_s)
+			$of(u"прије подне/по подне"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("roc.abbreviated.AmPmMarkers"_s),

@@ -62,7 +62,7 @@ $ObjectArray2* CurrencyNames_sw_CD::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("mro"_s),
-			$of(u"Ugwiya ya Moritania (1973\u20132017)"_s)
+			$of(u"Ugwiya ya Moritania (1973–2017)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mru"_s),

@@ -111,7 +111,7 @@ $ObjectArray2* LocaleNames_ms::getContents() {
 	$var($String, metaValue_cop, "Coptic"_s);
 	$var($String, metaValue_mak, "Makasar"_s);
 	$var($String, metaValue_men, "Mende"_s);
-	$var($String, metaValue_nqo, u"N\u2019ko"_s);
+	$var($String, metaValue_nqo, u"N’ko"_s);
 	$var($String, metaValue_ssy, "Saho"_s);
 	$var($String, metaValue_vai, "Vai"_s);
 	$var($ObjectArray2, data, $new($ObjectArray2, {
@@ -433,7 +433,7 @@ $ObjectArray2* LocaleNames_ms::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("CI"_s),
-			$of(u"Cote d\u2019Ivoire"_s)
+			$of(u"Cote d’Ivoire"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("CK"_s),
@@ -1153,7 +1153,7 @@ $ObjectArray2* LocaleNames_ms::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("gwi"_s),
-			$of(u"Gwich\u02bcin"_s)
+			$of(u"Gwichʼin"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("nds"_s),
@@ -3433,7 +3433,7 @@ $ObjectArray2* LocaleNames_ms::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("nb"_s),
-			$of(u"Bokm\u00e5l Norway"_s)
+			$of(u"Bokmål Norway"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("nd"_s),
@@ -3617,7 +3617,7 @@ $ObjectArray2* LocaleNames_ms::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.nkoo"_s),
-			$of(u"Digit N\u2019Ko"_s)
+			$of(u"Digit N’Ko"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("key.ca"_s),
@@ -3629,15 +3629,15 @@ $ObjectArray2* LocaleNames_ms::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("mgo"_s),
-			$of(u"Meta\u2019"_s)
+			$of(u"Meta’"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.hc.h23"_s),
-			$of(u"Sistem 24 Jam (0\u201323)"_s)
+			$of(u"Sistem 24 Jam (0–23)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.hc.h24"_s),
-			$of(u"Sistem 24 Jam (1\u201324)"_s)
+			$of(u"Sistem 24 Jam (1–24)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ssy"_s),
@@ -3673,11 +3673,11 @@ $ObjectArray2* LocaleNames_ms::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("type.hc.h12"_s),
-			$of(u"Sistem 12 Jam (1\u201312)"_s)
+			$of(u"Sistem 12 Jam (1–12)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.hc.h11"_s),
-			$of(u"Sistem 12 Jam (0\u201311)"_s)
+			$of(u"Sistem 12 Jam (0–11)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("rm"_s),
@@ -4077,7 +4077,7 @@ $ObjectArray2* LocaleNames_ms::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("vo"_s),
-			$of(u"Volap\u00fck"_s)
+			$of(u"Volapük"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("khw"_s),
@@ -4093,7 +4093,7 @@ $ObjectArray2* LocaleNames_ms::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("quc"_s),
-			$of(u"K\u02bciche\u02bc"_s)
+			$of(u"Kʼicheʼ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.gonm"_s),

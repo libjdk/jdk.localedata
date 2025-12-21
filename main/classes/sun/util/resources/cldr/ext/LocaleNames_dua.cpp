@@ -46,7 +46,7 @@ $ObjectArray2* LocaleNames_dua::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("dua"_s),
-			$of(u"du\u00e1l\u00e1"_s)
+			$of(u"duálá"_s)
 		})
 	}));
 	return data;

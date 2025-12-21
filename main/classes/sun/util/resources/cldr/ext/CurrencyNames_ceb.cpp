@@ -582,7 +582,7 @@ $ObjectArray2* CurrencyNames_ceb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("top"_s),
-			$of(u"Tongan Pa\u02bbanga"_s)
+			$of(u"Tongan Paʻanga"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("try"_s),

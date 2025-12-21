@@ -47,8 +47,8 @@ $ObjectArray2* JavaTimeSupplementary_sr_Latn::getContents() {
 	$var($StringArray, sharedQuarterNames, $new($StringArray, {
 		"prvi kvartal"_s,
 		"drugi kvartal"_s,
-		u"tre\u0107i kvartal"_s,
-		u"\u010detvrti kvartal"_s
+		u"treći kvartal"_s,
+		u"četvrti kvartal"_s
 	}));
 	$var($StringArray, sharedAmPmMarkers, $new($StringArray, {
 		"pre podne"_s,
@@ -59,7 +59,7 @@ $ObjectArray2* JavaTimeSupplementary_sr_Latn::getContents() {
 		"pon"_s,
 		"uto"_s,
 		"sre"_s,
-		u"\u010det"_s,
+		u"čet"_s,
 		"pet"_s,
 		"sub"_s
 	}));
@@ -68,7 +68,7 @@ $ObjectArray2* JavaTimeSupplementary_sr_Latn::getContents() {
 		"ponedeljak"_s,
 		"utorak"_s,
 		"sreda"_s,
-		u"\u010detvrtak"_s,
+		u"četvrtak"_s,
 		"petak"_s,
 		"subota"_s
 	}));
@@ -77,7 +77,7 @@ $ObjectArray2* JavaTimeSupplementary_sr_Latn::getContents() {
 		"p"_s,
 		"u"_s,
 		"s"_s,
-		u"\u010d"_s,
+		u"č"_s,
 		"p"_s,
 		"s"_s
 	}));
@@ -104,7 +104,7 @@ $ObjectArray2* JavaTimeSupplementary_sr_Latn::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.buddhist"_s),
-			$of(u"budisti\u010dki kalendar"_s)
+			$of(u"budistički kalendar"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.gregorian"_s),
@@ -195,16 +195,16 @@ $ObjectArray2* JavaTimeSupplementary_sr_Latn::getContents() {
 			$of($$new($StringArray, {
 				"Muraham"_s,
 				"Safar"_s,
-				u"Rabi\u02bb I"_s,
-				u"Rabi\u02bb II"_s,
+				u"Rabiʻ I"_s,
+				u"Rabiʻ II"_s,
 				"Jumada I"_s,
 				"Jumada II"_s,
-				u"Ra\u0111ab"_s,
-				u"\u0160a\u02bbban"_s,
+				u"Rađab"_s,
+				u"Šaʻban"_s,
 				"Ramadan"_s,
-				u"\u0160aval"_s,
-				u"Du\u02bbl-Ki\u02bbda"_s,
-				u"Du\u02bbl-hi\u0111a"_s,
+				u"Šaval"_s,
+				u"Duʻl-Kiʻda"_s,
+				u"Duʻl-hiđa"_s,
 				""_s
 			}))
 		}),
@@ -244,9 +244,9 @@ $ObjectArray2* JavaTimeSupplementary_sr_Latn::getContents() {
 			$of("java.time.japanese.long.Eras"_s),
 			$of($$new($StringArray, {
 				"nove ere"_s,
-				u"Mei\u0111i"_s,
-				u"Tai\u0161o"_s,
-				u"\u0160ova"_s,
+				u"Meiđi"_s,
+				u"Taišo"_s,
+				u"Šova"_s,
 				"Haisei"_s,
 				"Reiva"_s
 			}))
@@ -255,9 +255,9 @@ $ObjectArray2* JavaTimeSupplementary_sr_Latn::getContents() {
 			$of("java.time.japanese.short.Eras"_s),
 			$of($$new($StringArray, {
 				"n. e."_s,
-				u"Mei\u0111i"_s,
-				u"Tai\u0161o"_s,
-				u"\u0160ova"_s,
+				u"Meiđi"_s,
+				u"Taišo"_s,
+				u"Šova"_s,
 				"Haisei"_s,
 				"Reiva"_s
 			}))

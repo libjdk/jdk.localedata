@@ -46,11 +46,11 @@ $ObjectArray2* FormatData_lt::getContents() {
 				"vasaris"_s,
 				"kovas"_s,
 				"balandis"_s,
-				u"gegu\u017e\u0117"_s,
-				u"bir\u017eelis"_s,
+				u"gegužė"_s,
+				u"birželis"_s,
 				"liepa"_s,
-				u"rugpj\u016btis"_s,
-				u"rugs\u0117jis"_s,
+				u"rugpjūtis"_s,
+				u"rugsėjis"_s,
 				"spalis"_s,
 				"lapkritis"_s,
 				"gruodis"_s,
@@ -63,15 +63,15 @@ $ObjectArray2* FormatData_lt::getContents() {
 				"Sausio"_s,
 				"Vasario"_s,
 				"Kovo"_s,
-				u"Baland\u017eio"_s,
-				u"Gegu\u017e\u0117s"_s,
-				u"Bir\u017eelio"_s,
+				u"Balandžio"_s,
+				u"Gegužės"_s,
+				u"Birželio"_s,
 				"Liepos"_s,
-				u"Rugpj\u016b\u010dio"_s,
-				u"Rugs\u0117jo"_s,
+				u"Rugpjūčio"_s,
+				u"Rugsėjo"_s,
 				"Spalio"_s,
-				u"Lapkri\u010dio"_s,
-				u"Gruod\u017eio"_s,
+				u"Lapkričio"_s,
+				u"Gruodžio"_s,
 				""_s
 			}))
 		}),
@@ -153,10 +153,10 @@ $ObjectArray2* FormatData_lt::getContents() {
 				"Sekmadienis"_s,
 				"Pirmadienis"_s,
 				"Antradienis"_s,
-				u"Tre\u010diadienis"_s,
+				u"Trečiadienis"_s,
 				"Ketvirtadienis"_s,
 				"Penktadienis"_s,
-				u"\u0160e\u0161tadienis"_s
+				u"Šeštadienis"_s
 			}))
 		}),
 		$$new($ObjectArray, {
@@ -165,10 +165,10 @@ $ObjectArray2* FormatData_lt::getContents() {
 				"sekmadienis"_s,
 				"pirmadienis"_s,
 				"antradienis"_s,
-				u"tre\u010diadienis"_s,
+				u"trečiadienis"_s,
 				"ketvirtadienis"_s,
 				"penktadienis"_s,
-				u"\u0161e\u0161tadienis"_s
+				u"šeštadienis"_s
 			}))
 		}),
 		$$new($ObjectArray, {
@@ -180,7 +180,7 @@ $ObjectArray2* FormatData_lt::getContents() {
 				"Tr"_s,
 				"Kt"_s,
 				"Pn"_s,
-				u"\u0160t"_s
+				u"Št"_s
 			}))
 		}),
 		$$new($ObjectArray, {
@@ -192,7 +192,7 @@ $ObjectArray2* FormatData_lt::getContents() {
 				"Tr"_s,
 				"Kt"_s,
 				"Pn"_s,
-				u"\u0160t"_s
+				u"Št"_s
 			}))
 		}),
 		$$new($ObjectArray, {
@@ -204,7 +204,7 @@ $ObjectArray2* FormatData_lt::getContents() {
 				"T"_s,
 				"K"_s,
 				"P"_s,
-				u"\u0160"_s
+				u"Š"_s
 			}))
 		}),
 		$$new($ObjectArray, {
@@ -216,7 +216,7 @@ $ObjectArray2* FormatData_lt::getContents() {
 				"T"_s,
 				"K"_s,
 				"P"_s,
-				u"\u0160"_s
+				u"Š"_s
 			}))
 		}),
 		$$new($ObjectArray, {
@@ -237,16 +237,16 @@ $ObjectArray2* FormatData_lt::getContents() {
 			$of("NumberElements"_s),
 			$of($$new($StringArray, {
 				","_s,
-				u"\u00a0"_s,
+				u" "_s,
 				";"_s,
 				"%"_s,
 				"0"_s,
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
-				u"\ufffd"_s
+				u"‰"_s,
+				u"∞"_s,
+				u"�"_s
 			}))
 		}),
 		$$new($ObjectArray, {

@@ -39,7 +39,7 @@ void CurrencyNames_bg_BG::init$() {
 $ObjectArray2* CurrencyNames_bg_BG::getContents() {
 	return $new($ObjectArray2, {$$new($ObjectArray, {
 		$of("BGN"_s),
-		$of(u"\u043b\u0432."_s)
+		$of(u"лв."_s)
 	})});
 }
 

@@ -41,75 +41,75 @@ $ObjectArray2* LocaleNames_ar::getContents() {
 	return $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("AE"_s),
-			$of(u"\u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a"_s)
+			$of(u"الإمارات"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("BH"_s),
-			$of(u"\u0627\u0644\u0628\u062d\u0631\u064a\u0646"_s)
+			$of(u"البحرين"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("DZ"_s),
-			$of(u"\u0627\u0644\u062c\u0632\u0627\u0626\u0631"_s)
+			$of(u"الجزائر"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("EG"_s),
-			$of(u"\u0645\u0635\u0631"_s)
+			$of(u"مصر"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("IQ"_s),
-			$of(u"\u0627\u0644\u0639\u0631\u0627\u0642"_s)
+			$of(u"العراق"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("JO"_s),
-			$of(u"\u0627\u0644\u0623\u0631\u062f\u0646"_s)
+			$of(u"الأردن"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("KW"_s),
-			$of(u"\u0627\u0644\u0643\u0648\u064a\u062a"_s)
+			$of(u"الكويت"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("LB"_s),
-			$of(u"\u0644\u0628\u0646\u0627\u0646"_s)
+			$of(u"لبنان"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("LY"_s),
-			$of(u"\u0644\u064a\u0628\u064a\u0627"_s)
+			$of(u"ليبيا"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("MA"_s),
-			$of(u"\u0627\u0644\u0645\u063a\u0631\u0628"_s)
+			$of(u"المغرب"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("OM"_s),
-			$of(u"\u0633\u0644\u0637\u0646\u0629 \u0639\u0645\u0627\u0646"_s)
+			$of(u"سلطنة عمان"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("QA"_s),
-			$of(u"\u0642\u0637\u0631"_s)
+			$of(u"قطر"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("SA"_s),
-			$of(u"\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629"_s)
+			$of(u"السعودية"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("SD"_s),
-			$of(u"\u0627\u0644\u0633\u0648\u062f\u0627\u0646"_s)
+			$of(u"السودان"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("SY"_s),
-			$of(u"\u0633\u0648\u0631\u064a\u0627"_s)
+			$of(u"سوريا"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("TN"_s),
-			$of(u"\u062a\u0648\u0646\u0633"_s)
+			$of(u"تونس"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("YE"_s),
-			$of(u"\u0627\u0644\u064a\u0645\u0646"_s)
+			$of(u"اليمن"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ar"_s),
-			$of(u"\u0627\u0644\u0639\u0631\u0628\u064a\u0629"_s)
+			$of(u"العربية"_s)
 		})
 	});
 }

@@ -40,92 +40,92 @@ void FormatData_sat::init$() {
 $ObjectArray2* FormatData_sat::getContents() {
 	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_MonthNames, $new($StringArray, {
-		u"\u1c61\u1c5f\u1c71\u1c63\u1c5f\u1c68\u1c64"_s,
-		u"\u1c6f\u1c77\u1c5f\u1c68\u1c63\u1c5f\u1c68\u1c64"_s,
-		u"\u1c62\u1c5f\u1c68\u1c6a"_s,
-		u"\u1c5f\u1c6f\u1c68\u1c6e\u1c5e"_s,
-		u"\u1c62\u1c6e"_s,
-		u"\u1c61\u1c69\u1c71"_s,
-		u"\u1c61\u1c69\u1c5e\u1c5f\u1c6d"_s,
-		u"\u1c5f\u1c5c\u1c5f\u1c65\u1c5b"_s,
-		u"\u1c65\u1c6e\u1c6f\u1c74\u1c6e\u1c62\u1c75\u1c5f\u1c68"_s,
-		u"\u1c5a\u1c60\u1c74\u1c5a\u1c75\u1c5f\u1c68"_s,
-		u"\u1c71\u1c5f\u1c63\u1c5f\u1c62\u1c75\u1c5f\u1c68"_s,
-		u"\u1c6b\u1c64\u1c65\u1c5f\u1c62\u1c75\u1c5f\u1c68"_s,
+		u"ᱡᱟᱱᱣᱟᱨᱤ"_s,
+		u"ᱯᱷᱟᱨᱣᱟᱨᱤ"_s,
+		u"ᱢᱟᱨᱪ"_s,
+		u"ᱟᱯᱨᱮᱞ"_s,
+		u"ᱢᱮ"_s,
+		u"ᱡᱩᱱ"_s,
+		u"ᱡᱩᱞᱟᱭ"_s,
+		u"ᱟᱜᱟᱥᱛ"_s,
+		u"ᱥᱮᱯᱴᱮᱢᱵᱟᱨ"_s,
+		u"ᱚᱠᱴᱚᱵᱟᱨ"_s,
+		u"ᱱᱟᱣᱟᱢᱵᱟᱨ"_s,
+		u"ᱫᱤᱥᱟᱢᱵᱟᱨ"_s,
 		""_s
 	}));
 	$var($StringArray, metaValue_MonthAbbreviations, $new($StringArray, {
-		u"\u1c61\u1c5f\u1c71"_s,
-		u"\u1c6f\u1c77\u1c5f"_s,
-		u"\u1c62\u1c5f\u1c68"_s,
-		u"\u1c5f\u1c6f\u1c68"_s,
-		u"\u1c62\u1c6e"_s,
-		u"\u1c61\u1c69\u1c71"_s,
-		u"\u1c61\u1c69\u1c5e"_s,
-		u"\u1c5f\u1c5c\u1c5f"_s,
-		u"\u1c65\u1c6e\u1c6f"_s,
-		u"\u1c5a\u1c60\u1c74"_s,
-		u"\u1c71\u1c5f\u1c63"_s,
-		u"\u1c6b\u1c64\u1c65"_s,
+		u"ᱡᱟᱱ"_s,
+		u"ᱯᱷᱟ"_s,
+		u"ᱢᱟᱨ"_s,
+		u"ᱟᱯᱨ"_s,
+		u"ᱢᱮ"_s,
+		u"ᱡᱩᱱ"_s,
+		u"ᱡᱩᱞ"_s,
+		u"ᱟᱜᱟ"_s,
+		u"ᱥᱮᱯ"_s,
+		u"ᱚᱠᱴ"_s,
+		u"ᱱᱟᱣ"_s,
+		u"ᱫᱤᱥ"_s,
 		""_s
 	}));
 	$var($StringArray, metaValue_MonthNarrows, $new($StringArray, {
-		u"\u1c61"_s,
-		u"\u1c6f"_s,
-		u"\u1c62"_s,
-		u"\u1c5f"_s,
-		u"\u1c62"_s,
-		u"\u1c61"_s,
-		u"\u1c61"_s,
-		u"\u1c5f"_s,
-		u"\u1c65"_s,
-		u"\u1c5a"_s,
-		u"\u1c71"_s,
-		u"\u1c6b"_s,
+		u"ᱡ"_s,
+		u"ᱯ"_s,
+		u"ᱢ"_s,
+		u"ᱟ"_s,
+		u"ᱢ"_s,
+		u"ᱡ"_s,
+		u"ᱡ"_s,
+		u"ᱟ"_s,
+		u"ᱥ"_s,
+		u"ᱚ"_s,
+		u"ᱱ"_s,
+		u"ᱫ"_s,
 		""_s
 	}));
 	$var($StringArray, metaValue_DayNames, $new($StringArray, {
-		u"\u1c65\u1c64\u1c78\u1c5c\u1c6e"_s,
-		u"\u1c5a\u1c5b\u1c6e"_s,
-		u"\u1c75\u1c5f\u1c5e\u1c6e"_s,
-		u"\u1c65\u1c5f\u1c79\u1c5c\u1c69\u1c71"_s,
-		u"\u1c65\u1c5f\u1c79\u1c68\u1c6b\u1c64"_s,
-		u"\u1c61\u1c5f\u1c79\u1c68\u1c69\u1c62"_s,
-		u"\u1c67\u1c69\u1c66\u1c69\u1c62"_s
+		u"ᱥᱤᱸᱜᱮ"_s,
+		u"ᱚᱛᱮ"_s,
+		u"ᱵᱟᱞᱮ"_s,
+		u"ᱥᱟᱹᱜᱩᱱ"_s,
+		u"ᱥᱟᱹᱨᱫᱤ"_s,
+		u"ᱡᱟᱹᱨᱩᱢ"_s,
+		u"ᱧᱩᱦᱩᱢ"_s
 	}));
 	$var($StringArray, metaValue_DayAbbreviations, $new($StringArray, {
-		u"\u1c65\u1c64\u1c78"_s,
-		u"\u1c5a\u1c5b"_s,
-		u"\u1c75\u1c5f"_s,
-		u"\u1c65\u1c5f\u1c79"_s,
-		u"\u1c65\u1c5f\u1c79\u1c68"_s,
-		u"\u1c61\u1c5f\u1c79"_s,
-		u"\u1c67\u1c69"_s
+		u"ᱥᱤᱸ"_s,
+		u"ᱚᱛ"_s,
+		u"ᱵᱟ"_s,
+		u"ᱥᱟᱹ"_s,
+		u"ᱥᱟᱹᱨ"_s,
+		u"ᱡᱟᱹ"_s,
+		u"ᱧᱩ"_s
 	}));
 	$var($StringArray, metaValue_DayNarrows, $new($StringArray, {
-		u"\u1c65"_s,
-		u"\u1c5a"_s,
-		u"\u1c75"_s,
-		u"\u1c65"_s,
-		u"\u1c65"_s,
-		u"\u1c61"_s,
-		u"\u1c67"_s
+		u"ᱥ"_s,
+		u"ᱚ"_s,
+		u"ᱵ"_s,
+		u"ᱥ"_s,
+		u"ᱥ"_s,
+		u"ᱡ"_s,
+		u"ᱧ"_s
 	}));
 	$var($StringArray, metaValue_QuarterNames, $new($StringArray, {
-		u"\u1c51\u1c5f\u1c5c \u1c6f\u1c6e \u1c6a\u1c5f\u1c78\u1c6b\u1c5a\u1c60\u1c64\u1c6d\u1c5f\u1c79"_s,
-		u"\u1c52\u1c5f\u1c5c \u1c6f\u1c6e \u1c6a\u1c5f\u1c78\u1c6b\u1c5a\u1c60\u1c64\u1c6d\u1c5f\u1c79"_s,
-		u"\u1c53\u1c6d\u1c5f\u1c5c \u1c6f\u1c6e \u1c6a\u1c5f\u1c78\u1c6b\u1c5a\u1c60\u1c64\u1c6d\u1c5f\u1c79"_s,
-		u"\u1c54\u1c5f\u1c5c \u1c6f\u1c6e \u1c6a\u1c5f\u1c78\u1c6b\u1c5a\u1c60\u1c64\u1c6d\u1c5f\u1c79"_s
+		u"᱑ᱟᱜ ᱯᱮ ᱪᱟᱸᱫᱚᱠᱤᱭᱟᱹ"_s,
+		u"᱒ᱟᱜ ᱯᱮ ᱪᱟᱸᱫᱚᱠᱤᱭᱟᱹ"_s,
+		u"᱓ᱭᱟᱜ ᱯᱮ ᱪᱟᱸᱫᱚᱠᱤᱭᱟᱹ"_s,
+		u"᱔ᱟᱜ ᱯᱮ ᱪᱟᱸᱫᱚᱠᱤᱭᱟᱹ"_s
 	}));
 	$var($StringArray, metaValue_QuarterNarrows, $new($StringArray, {
-		u"\u1c51"_s,
-		u"\u1c52"_s,
-		u"\u1c53"_s,
-		u"\u1c54"_s
+		u"᱑"_s,
+		u"᱒"_s,
+		u"᱓"_s,
+		u"᱔"_s
 	}));
 	$var($StringArray, metaValue_AmPmMarkers, $new($StringArray, {
-		u"\u1c65\u1c6e\u1c5b\u1c5f\u1c5c"_s,
-		u"\u1c67\u1c64\u1c6b\u1c5f\u1c79"_s,
+		u"ᱥᱮᱛᱟᱜ"_s,
+		u"ᱧᱤᱫᱟᱹ"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -138,8 +138,8 @@ $ObjectArray2* FormatData_sat::getContents() {
 		""_s
 	}));
 	$var($StringArray, metaValue_long_Eras, $new($StringArray, {
-		u"\u1c65\u1c6e\u1c68\u1c62\u1c5f \u1c5e\u1c5f\u1c66\u1c5f"_s,
-		u"\u1c64\u1c65\u1c63\u1c64"_s
+		u"ᱥᱮᱨᱢᱟ ᱞᱟᱦᱟ"_s,
+		u"ᱤᱥᱣᱤ"_s
 	}));
 	$var($StringArray, metaValue_TimePatterns, $new($StringArray, {
 		"h:mm:ss a zzzz"_s,
@@ -159,7 +159,7 @@ $ObjectArray2* FormatData_sat::getContents() {
 		"GGGG y MMM d"_s,
 		"G y-MM-dd"_s
 	}));
-	$var($String, metaValue_calendarname_gregorian, u"\u1c5c\u1c68\u1c6e\u1c5c\u1c5a\u1c68\u1c64\u1c6d\u1c5f\u1c71 \u1c60\u1c5f\u1c5e\u1c6e\u1c71\u1c70\u1c5f\u1c68"_s);
+	$var($String, metaValue_calendarname_gregorian, u"ᱜᱨᱮᱜᱚᱨᱤᱭᱟᱱ ᱠᱟᱞᱮᱱᱰᱟᱨ"_s);
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("MonthNames"_s),
@@ -167,7 +167,7 @@ $ObjectArray2* FormatData_sat::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.year"_s),
-			$of(u"\u1c65\u1c6e\u1c68\u1c62\u1c5f/\u1c75\u1c5a\u1c6a\u1c77\u1c5a\u1c5e\u1c68"_s)
+			$of(u"ᱥᱮᱨᱢᱟ/ᱵᱚᱪᱷᱚᱞᱨ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("islamic.QuarterAbbreviations"_s),
@@ -195,7 +195,7 @@ $ObjectArray2* FormatData_sat::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.gmtFormat"_s),
-			$of(u"\u1c61\u1c64\u1c6e\u1c62\u1c74\u1c64{0}"_s)
+			$of(u"ᱡᱤᱮᱢᱴᱤ{0}"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("java.time.japanese.DatePatterns"_s),
@@ -219,7 +219,7 @@ $ObjectArray2* FormatData_sat::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.zone"_s),
-			$of(u"\u1c74\u1c5a\u1c74\u1c77\u1c5f"_s)
+			$of(u"ᱴᱚᱴᱷᱟ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("roc.MonthNarrows"_s),
@@ -239,7 +239,7 @@ $ObjectArray2* FormatData_sat::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.regionFormat.standard"_s),
-			$of(u"{0} \u1c6e\u1c74\u1c6e\u1c71\u1c70\u1c5f\u1c68\u1c70 \u1c5a\u1c60\u1c5b\u1c5a"_s)
+			$of(u"{0} ᱮᱴᱮᱱᱰᱟᱨᱰ ᱚᱠᱛᱚ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("DefaultNumberingSystem"_s),
@@ -251,7 +251,7 @@ $ObjectArray2* FormatData_sat::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.gmtZeroFormat"_s),
-			$of(u"\u1c61\u1c64\u1c6e\u1c62\u1c74\u1c64"_s)
+			$of(u"ᱡᱤᱮᱢᱴᱤ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("japanese.MonthNames"_s),
@@ -303,7 +303,7 @@ $ObjectArray2* FormatData_sat::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.weekday"_s),
-			$of(u"\u1c66\u1c5f\u1c6f\u1c5b\u1c5f \u1c68\u1c6e\u1c6d\u1c5f\u1c5c \u1c62\u1c5f\u1c66\u1c5f"_s)
+			$of(u"ᱦᱟᱯᱛᱟ ᱨᱮᱭᱟᱜ ᱢᱟᱦᱟ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("buddhist.MonthNames"_s),
@@ -329,8 +329,8 @@ $ObjectArray2* FormatData_sat::getContents() {
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
+				u"‰"_s,
+				u"∞"_s,
 				"NaN"_s,
 				""_s,
 				""_s
@@ -354,11 +354,11 @@ $ObjectArray2* FormatData_sat::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.minute"_s),
-			$of(u"\u1c74\u1c64\u1c6f\u1c64\u1c61"_s)
+			$of(u"ᱴᱤᱯᱤᱡ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("field.era"_s),
-			$of(u"\u1c61\u1c69\u1c5c\u1c7d"_s)
+			$of(u"ᱡᱩᱜᱽ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("islamic.DayAbbreviations"_s),
@@ -370,7 +370,7 @@ $ObjectArray2* FormatData_sat::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.dayperiod"_s),
-			$of(u"\u1c65\u1c6e\u1c5b\u1c5f\u1c5c/\u1c5f\u1c79\u1c6d\u1c69\u1c75"_s)
+			$of(u"ᱥᱮᱛᱟᱜ/ᱟᱹᱭᱩᱵ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("standalone.MonthNarrows"_s),
@@ -410,7 +410,7 @@ $ObjectArray2* FormatData_sat::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.month"_s),
-			$of(u"\u1c6a\u1c5f\u1c78\u1c6b\u1c5a"_s)
+			$of(u"ᱪᱟᱸᱫᱚ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("buddhist.DatePatterns"_s),
@@ -418,7 +418,7 @@ $ObjectArray2* FormatData_sat::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.second"_s),
-			$of(u"\u1c74\u1c64\u1c61"_s)
+			$of(u"ᱴᱤᱡ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("roc.MonthNames"_s),
@@ -426,7 +426,7 @@ $ObjectArray2* FormatData_sat::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.week"_s),
-			$of(u"\u1c66\u1c5f\u1c6f\u1c5b\u1c5f/\u1c6e\u1c62\u1c66\u1c5f"_s)
+			$of(u"ᱦᱟᱯᱛᱟ/ᱮᱢᱦᱟ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("DayAbbreviations"_s),
@@ -474,7 +474,7 @@ $ObjectArray2* FormatData_sat::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.regionFormat.daylight"_s),
-			$of(u"{0} \u1c6b\u1c64\u1c71\u1c75\u1c6e\u1c72\u1c5f \u1c5a\u1c60\u1c5b\u1c5a"_s)
+			$of(u"{0} ᱫᱤᱱᱵᱮᱲᱟ ᱚᱠᱛᱚ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("DatePatterns"_s),
@@ -507,7 +507,7 @@ $ObjectArray2* FormatData_sat::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.hour"_s),
-			$of(u"\u1c74\u1c5f\u1c72\u1c5f\u1c5d"_s)
+			$of(u"ᱴᱟᱲᱟᱝ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("buddhist.TimePatterns"_s),
@@ -523,13 +523,13 @@ $ObjectArray2* FormatData_sat::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.regionFormat"_s),
-			$of(u"{0} \u1c5a\u1c60\u1c5b\u1c5a"_s)
+			$of(u"{0} ᱚᱠᱛᱚ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("latn.NumberPatterns"_s),
 			$of($$new($StringArray, {
 				"#,##0.###"_s,
-				u"\u00a4\u00a0#,##0.00"_s,
+				u"¤ #,##0.00"_s,
 				"#,##0%"_s,
 				""_s
 			}))

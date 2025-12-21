@@ -41,32 +41,32 @@ $ObjectArray2* FormatData_fr::getContents() {
 	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_MonthNames, $new($StringArray, {
 		"janvier"_s,
-		u"f\u00e9vrier"_s,
+		u"février"_s,
 		"mars"_s,
 		"avril"_s,
 		"mai"_s,
 		"juin"_s,
 		"juillet"_s,
-		u"ao\u00fbt"_s,
+		u"août"_s,
 		"septembre"_s,
 		"octobre"_s,
 		"novembre"_s,
-		u"d\u00e9cembre"_s,
+		u"décembre"_s,
 		""_s
 	}));
 	$var($StringArray, metaValue_MonthAbbreviations, $new($StringArray, {
 		"janv."_s,
-		u"f\u00e9vr."_s,
+		u"févr."_s,
 		"mars"_s,
 		"avr."_s,
 		"mai"_s,
 		"juin"_s,
 		"juil."_s,
-		u"ao\u00fbt"_s,
+		u"août"_s,
 		"sept."_s,
 		"oct."_s,
 		"nov."_s,
-		u"d\u00e9c."_s,
+		u"déc."_s,
 		""_s
 	}));
 	$var($StringArray, metaValue_MonthNarrows, $new($StringArray, {
@@ -130,7 +130,7 @@ $ObjectArray2* FormatData_fr::getContents() {
 		"midi"_s,
 		"du matin"_s,
 		""_s,
-		u"de l\u2019apr\u00e8s-midi"_s,
+		u"de l’après-midi"_s,
 		""_s,
 		"du soir"_s,
 		""_s,
@@ -169,7 +169,7 @@ $ObjectArray2* FormatData_fr::getContents() {
 	}));
 	$var($StringArray, metaValue_java_time_buddhist_long_Eras, $new($StringArray, {
 		"BC"_s,
-		u"\u00e8re bouddhique"_s
+		u"ère bouddhique"_s
 	}));
 	$var($StringArray, metaValue_java_time_buddhist_Eras, $new($StringArray, {
 		"BC"_s,
@@ -201,7 +201,7 @@ $ObjectArray2* FormatData_fr::getContents() {
 	}));
 	$var($StringArray, metaValue_java_time_islamic_long_Eras, $new($StringArray, {
 		""_s,
-		u"\u00e8re de l\u2019H\u00e9gire"_s
+		u"ère de l’Hégire"_s
 	}));
 	$var($StringArray, metaValue_java_time_islamic_Eras, $new($StringArray, {
 		""_s,
@@ -211,10 +211,10 @@ $ObjectArray2* FormatData_fr::getContents() {
 		""_s,
 		"H"_s
 	}));
-	$var($String, metaValue_calendarname_gregorian, u"calendrier gr\u00e9gorien"_s);
+	$var($String, metaValue_calendarname_gregorian, u"calendrier grégorien"_s);
 	$var($StringArray, metaValue_arabext_NumberPatterns, $new($StringArray, {
 		"#,##0.###"_s,
-		u"\u00a4\u00a0#,##0.00"_s,
+		u"¤ #,##0.00"_s,
 		"#,##0%"_s,
 		""_s
 	}));
@@ -227,8 +227,8 @@ $ObjectArray2* FormatData_fr::getContents() {
 		"#"_s,
 		"-"_s,
 		"E"_s,
-		u"\u2030"_s,
-		u"\u221e"_s,
+		u"‰"_s,
+		u"∞"_s,
 		"NaN"_s,
 		""_s,
 		""_s
@@ -265,12 +265,12 @@ $ObjectArray2* FormatData_fr::getContents() {
 				","_s,
 				";"_s,
 				"%"_s,
-				u"\u1a80"_s,
+				u"᪀"_s,
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
+				u"‰"_s,
+				u"∞"_s,
 				"NaN"_s,
 				""_s,
 				""_s
@@ -278,7 +278,7 @@ $ObjectArray2* FormatData_fr::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.islamic-civil"_s),
-			$of(u"calendrier musulman (tabulaire, \u00e9poque civile)"_s)
+			$of(u"calendrier musulman (tabulaire, époque civile)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("talu.NumberElements"_s),
@@ -287,12 +287,12 @@ $ObjectArray2* FormatData_fr::getContents() {
 				","_s,
 				";"_s,
 				"%"_s,
-				u"\u19d0"_s,
+				u"᧐"_s,
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
+				u"‰"_s,
+				u"∞"_s,
 				"NaN"_s,
 				""_s,
 				""_s
@@ -313,12 +313,12 @@ $ObjectArray2* FormatData_fr::getContents() {
 				","_s,
 				";"_s,
 				"%"_s,
-				u"\uabf0"_s,
+				u"꯰"_s,
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
+				u"‰"_s,
+				u"∞"_s,
 				"NaN"_s,
 				""_s,
 				""_s
@@ -351,8 +351,8 @@ $ObjectArray2* FormatData_fr::getContents() {
 		$$new($ObjectArray, {
 			$of("DateTimePatterns"_s),
 			$of($$new($StringArray, {
-				u"{1} \'\u00e0\' {0}"_s,
-				u"{1} \'\u00e0\' {0}"_s,
+				u"{1} \'à\' {0}"_s,
+				u"{1} \'à\' {0}"_s,
 				"{1}, {0}"_s,
 				"{1} {0}"_s
 			}))
@@ -365,15 +365,15 @@ $ObjectArray2* FormatData_fr::getContents() {
 			$of("latn.NumberElements"_s),
 			$of($$new($StringArray, {
 				","_s,
-				u"\u202f"_s,
+				u" "_s,
 				";"_s,
 				"%"_s,
 				"0"_s,
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
+				u"‰"_s,
+				u"∞"_s,
 				"NaN"_s,
 				""_s,
 				""_s
@@ -386,12 +386,12 @@ $ObjectArray2* FormatData_fr::getContents() {
 				","_s,
 				";"_s,
 				"%"_s,
-				u"\u0a66"_s,
+				u"੦"_s,
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
+				u"‰"_s,
+				u"∞"_s,
 				"NaN"_s,
 				""_s,
 				""_s
@@ -420,12 +420,12 @@ $ObjectArray2* FormatData_fr::getContents() {
 				","_s,
 				";"_s,
 				"%"_s,
-				u"\uaa50"_s,
+				u"꩐"_s,
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
+				u"‰"_s,
+				u"∞"_s,
 				"NaN"_s,
 				""_s,
 				""_s
@@ -460,16 +460,16 @@ $ObjectArray2* FormatData_fr::getContents() {
 		$$new($ObjectArray, {
 			$of("arab.NumberElements"_s),
 			$of($$new($StringArray, {
-				u"\u066b"_s,
-				u"\u066c"_s,
-				u"\u061b"_s,
-				u"\u066a\u061c"_s,
-				u"\u0660"_s,
+				u"٫"_s,
+				u"٬"_s,
+				u"؛"_s,
+				u"٪\u061c"_s,
+				u"٠"_s,
 				"#"_s,
 				u"\u061c-"_s,
-				u"\u0627\u0633"_s,
-				u"\u0609"_s,
-				u"\u221e"_s,
+				u"اس"_s,
+				u"؉"_s,
+				u"∞"_s,
 				"NaN"_s,
 				""_s,
 				""_s
@@ -498,12 +498,12 @@ $ObjectArray2* FormatData_fr::getContents() {
 				","_s,
 				";"_s,
 				"%"_s,
-				u"\u0966"_s,
+				u"०"_s,
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
+				u"‰"_s,
+				u"∞"_s,
 				"NaN"_s,
 				""_s,
 				""_s
@@ -576,12 +576,12 @@ $ObjectArray2* FormatData_fr::getContents() {
 				","_s,
 				";"_s,
 				"%"_s,
-				u"\u1c50"_s,
+				u"᱐"_s,
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
+				u"‰"_s,
+				u"∞"_s,
 				"NaN"_s,
 				""_s,
 				""_s
@@ -622,12 +622,12 @@ $ObjectArray2* FormatData_fr::getContents() {
 				","_s,
 				";"_s,
 				"%"_s,
-				u"\u1090"_s,
+				u"႐"_s,
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
+				u"‰"_s,
+				u"∞"_s,
 				"NaN"_s,
 				""_s,
 				""_s
@@ -648,12 +648,12 @@ $ObjectArray2* FormatData_fr::getContents() {
 				","_s,
 				";"_s,
 				"%"_s,
-				u"\ua9d0"_s,
+				u"꧐"_s,
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
+				u"‰"_s,
+				u"∞"_s,
 				"NaN"_s,
 				""_s,
 				""_s
@@ -678,12 +678,12 @@ $ObjectArray2* FormatData_fr::getContents() {
 				","_s,
 				";"_s,
 				"%"_s,
-				u"\u0ed0"_s,
+				u"໐"_s,
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
+				u"‰"_s,
+				u"∞"_s,
 				"NaN"_s,
 				""_s,
 				""_s
@@ -696,12 +696,12 @@ $ObjectArray2* FormatData_fr::getContents() {
 				","_s,
 				";"_s,
 				"%"_s,
-				u"\u1bb0"_s,
+				u"᮰"_s,
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
+				u"‰"_s,
+				u"∞"_s,
 				"NaN"_s,
 				""_s,
 				""_s
@@ -722,12 +722,12 @@ $ObjectArray2* FormatData_fr::getContents() {
 				","_s,
 				";"_s,
 				"%"_s,
-				u"\ua900"_s,
+				u"꤀"_s,
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
+				u"‰"_s,
+				u"∞"_s,
 				"NaN"_s,
 				""_s,
 				""_s
@@ -784,12 +784,12 @@ $ObjectArray2* FormatData_fr::getContents() {
 				","_s,
 				";"_s,
 				"%"_s,
-				u"\u07c0"_s,
+				u"߀"_s,
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
+				u"‰"_s,
+				u"∞"_s,
 				"NaN"_s,
 				""_s,
 				""_s
@@ -806,12 +806,12 @@ $ObjectArray2* FormatData_fr::getContents() {
 				","_s,
 				";"_s,
 				"%"_s,
-				u"\u0f20"_s,
+				u"༠"_s,
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
+				u"‰"_s,
+				u"∞"_s,
 				"NaN"_s,
 				""_s,
 				""_s
@@ -840,12 +840,12 @@ $ObjectArray2* FormatData_fr::getContents() {
 				","_s,
 				";"_s,
 				"%"_s,
-				u"\u0ae6"_s,
+				u"૦"_s,
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
+				u"‰"_s,
+				u"∞"_s,
 				"NaN"_s,
 				""_s,
 				""_s
@@ -862,12 +862,12 @@ $ObjectArray2* FormatData_fr::getContents() {
 				","_s,
 				";"_s,
 				"%"_s,
-				u"\u1946"_s,
+				u"᥆"_s,
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
+				u"‰"_s,
+				u"∞"_s,
 				"NaN"_s,
 				""_s,
 				""_s
@@ -899,7 +899,7 @@ $ObjectArray2* FormatData_fr::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.regionFormat.daylight"_s),
-			$of(u"{0} (heure d\u2019\u00e9t\u00e9)"_s)
+			$of(u"{0} (heure d’été)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("DatePatterns"_s),
@@ -938,12 +938,12 @@ $ObjectArray2* FormatData_fr::getContents() {
 				","_s,
 				";"_s,
 				"%"_s,
-				u"\ua620"_s,
+				u"꘠"_s,
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
+				u"‰"_s,
+				u"∞"_s,
 				"NaN"_s,
 				""_s,
 				""_s
@@ -959,21 +959,21 @@ $ObjectArray2* FormatData_fr::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.year"_s),
-			$of(u"ann\u00e9e"_s)
+			$of(u"année"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("arabext.NumberElements"_s),
 			$of($$new($StringArray, {
-				u"\u066b"_s,
-				u"\u066c"_s,
-				u"\u061b"_s,
-				u"\u066a"_s,
-				u"\u06f0"_s,
+				u"٫"_s,
+				u"٬"_s,
+				u"؛"_s,
+				u"٪"_s,
+				u"۰"_s,
 				"#"_s,
 				u"\u200e-\u200e"_s,
-				u"\u00d7\u06f1\u06f0^"_s,
-				u"\u0609"_s,
-				u"\u221e"_s,
+				u"×۱۰^"_s,
+				u"؉"_s,
+				u"∞"_s,
 				"NaN"_s,
 				""_s,
 				""_s
@@ -1022,12 +1022,12 @@ $ObjectArray2* FormatData_fr::getContents() {
 				","_s,
 				";"_s,
 				"%"_s,
-				u"\u1040"_s,
+				u"၀"_s,
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
+				u"‰"_s,
+				u"∞"_s,
 				"NaN"_s,
 				""_s,
 				""_s
@@ -1056,12 +1056,12 @@ $ObjectArray2* FormatData_fr::getContents() {
 				","_s,
 				";"_s,
 				"%"_s,
-				u"\u0be6"_s,
+				u"௦"_s,
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
+				u"‰"_s,
+				u"∞"_s,
 				"NaN"_s,
 				""_s,
 				""_s
@@ -1090,12 +1090,12 @@ $ObjectArray2* FormatData_fr::getContents() {
 				","_s,
 				";"_s,
 				"%"_s,
-				u"\u09e6"_s,
+				u"০"_s,
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
+				u"‰"_s,
+				u"∞"_s,
 				"NaN"_s,
 				""_s,
 				""_s
@@ -1104,8 +1104,8 @@ $ObjectArray2* FormatData_fr::getContents() {
 		$$new($ObjectArray, {
 			$of("long.Eras"_s),
 			$of($$new($StringArray, {
-				u"avant J\u00e9sus-Christ"_s,
-				u"apr\u00e8s J\u00e9sus-Christ"_s
+				u"avant Jésus-Christ"_s,
+				u"après Jésus-Christ"_s
 			}))
 		}),
 		$$new($ObjectArray, {
@@ -1119,12 +1119,12 @@ $ObjectArray2* FormatData_fr::getContents() {
 				","_s,
 				";"_s,
 				"%"_s,
-				u"\ua8d0"_s,
+				u"꣐"_s,
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
+				u"‰"_s,
+				u"∞"_s,
 				"NaN"_s,
 				""_s,
 				""_s
@@ -1152,7 +1152,7 @@ $ObjectArray2* FormatData_fr::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.era"_s),
-			$of(u"\u00e8re"_s)
+			$of(u"ère"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("field.dayperiod"_s),
@@ -1164,7 +1164,7 @@ $ObjectArray2* FormatData_fr::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.roc"_s),
-			$of(u"calendrier r\u00e9publicain chinois"_s)
+			$of(u"calendrier républicain chinois"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("field.month"_s),
@@ -1201,12 +1201,12 @@ $ObjectArray2* FormatData_fr::getContents() {
 				","_s,
 				";"_s,
 				"%"_s,
-				u"\u0ce6"_s,
+				u"೦"_s,
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
+				u"‰"_s,
+				u"∞"_s,
 				"NaN"_s,
 				""_s,
 				""_s
@@ -1219,12 +1219,12 @@ $ObjectArray2* FormatData_fr::getContents() {
 				","_s,
 				";"_s,
 				"%"_s,
-				u"\u1b50"_s,
+				u"᭐"_s,
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
+				u"‰"_s,
+				u"∞"_s,
 				"NaN"_s,
 				""_s,
 				""_s
@@ -1285,12 +1285,12 @@ $ObjectArray2* FormatData_fr::getContents() {
 				","_s,
 				";"_s,
 				"%"_s,
-				u"\u0d66"_s,
+				u"൦"_s,
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
+				u"‰"_s,
+				u"∞"_s,
 				"NaN"_s,
 				""_s,
 				""_s
@@ -1303,12 +1303,12 @@ $ObjectArray2* FormatData_fr::getContents() {
 				","_s,
 				";"_s,
 				"%"_s,
-				u"\u1c40"_s,
+				u"᱀"_s,
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
+				u"‰"_s,
+				u"∞"_s,
 				"NaN"_s,
 				""_s,
 				""_s
@@ -1325,12 +1325,12 @@ $ObjectArray2* FormatData_fr::getContents() {
 				","_s,
 				";"_s,
 				"%"_s,
-				u"\uff10"_s,
+				u"０"_s,
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
+				u"‰"_s,
+				u"∞"_s,
 				"NaN"_s,
 				""_s,
 				""_s
@@ -1351,12 +1351,12 @@ $ObjectArray2* FormatData_fr::getContents() {
 				","_s,
 				";"_s,
 				"%"_s,
-				u"\u17e0"_s,
+				u"០"_s,
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
+				u"‰"_s,
+				u"∞"_s,
 				"NaN"_s,
 				""_s,
 				""_s
@@ -1374,7 +1374,7 @@ $ObjectArray2* FormatData_fr::getContents() {
 			$of("arab.NumberPatterns"_s),
 			$of($$new($StringArray, {
 				"#,##0.###"_s,
-				u"#,##0.00\u00a0\u00a4"_s,
+				u"#,##0.00 ¤"_s,
 				"#,##0%"_s,
 				""_s
 			}))
@@ -1386,12 +1386,12 @@ $ObjectArray2* FormatData_fr::getContents() {
 				","_s,
 				";"_s,
 				"%"_s,
-				u"\u0e50"_s,
+				u"๐"_s,
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
+				u"‰"_s,
+				u"∞"_s,
 				"NaN"_s,
 				""_s,
 				""_s
@@ -1432,12 +1432,12 @@ $ObjectArray2* FormatData_fr::getContents() {
 				","_s,
 				";"_s,
 				"%"_s,
-				u"\u1810"_s,
+				u"᠐"_s,
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
+				u"‰"_s,
+				u"∞"_s,
 				"NaN"_s,
 				""_s,
 				""_s
@@ -1478,12 +1478,12 @@ $ObjectArray2* FormatData_fr::getContents() {
 				","_s,
 				";"_s,
 				"%"_s,
-				u"\u0c66"_s,
+				u"౦"_s,
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
+				u"‰"_s,
+				u"∞"_s,
 				"NaN"_s,
 				""_s,
 				""_s
@@ -1491,7 +1491,7 @@ $ObjectArray2* FormatData_fr::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.hourFormat"_s),
-			$of(u"+HH:mm;\u2212HH:mm"_s)
+			$of(u"+HH:mm;−HH:mm"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("olck.NumberPatterns"_s),
@@ -1516,12 +1516,12 @@ $ObjectArray2* FormatData_fr::getContents() {
 				","_s,
 				";"_s,
 				"%"_s,
-				u"\u1a90"_s,
+				u"᪐"_s,
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
+				u"‰"_s,
+				u"∞"_s,
 				"NaN"_s,
 				""_s,
 				""_s
@@ -1558,12 +1558,12 @@ $ObjectArray2* FormatData_fr::getContents() {
 				","_s,
 				";"_s,
 				"%"_s,
-				u"\u0b66"_s,
+				u"୦"_s,
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
+				u"‰"_s,
+				u"∞"_s,
 				"NaN"_s,
 				""_s,
 				""_s
@@ -1587,18 +1587,18 @@ $ObjectArray2* FormatData_fr::getContents() {
 				""_s,
 				""_s,
 				""_s,
-				u"{one:0\u00a0k other:0\u00a0k}"_s,
-				u"{one:00\u00a0k other:00\u00a0k}"_s,
-				u"{one:000\u00a0k other:000\u00a0k}"_s,
-				u"{one:0\u00a0M other:0\u00a0M}"_s,
-				u"{one:00\u00a0M other:00\u00a0M}"_s,
-				u"{one:000\u00a0M other:000\u00a0M}"_s,
-				u"{one:0\u00a0Md other:0\u00a0Md}"_s,
-				u"{one:00\u00a0Md other:00\u00a0Md}"_s,
-				u"{one:000\u00a0Md other:000\u00a0Md}"_s,
-				u"{one:0\u00a0Bn other:0\u00a0Bn}"_s,
-				u"{one:00\u00a0Bn other:00\u00a0Bn}"_s,
-				u"{one:000\u00a0Bn other:000\u00a0Bn}"_s
+				u"{one:0 k other:0 k}"_s,
+				u"{one:00 k other:00 k}"_s,
+				u"{one:000 k other:000 k}"_s,
+				u"{one:0 M other:0 M}"_s,
+				u"{one:00 M other:00 M}"_s,
+				u"{one:000 M other:000 M}"_s,
+				u"{one:0 Md other:0 Md}"_s,
+				u"{one:00 Md other:00 Md}"_s,
+				u"{one:000 Md other:000 Md}"_s,
+				u"{one:0 Bn other:0 Bn}"_s,
+				u"{one:00 Bn other:00 Bn}"_s,
+				u"{one:000 Bn other:000 Bn}"_s
 			}))
 		}),
 		$$new($ObjectArray, {
@@ -1655,9 +1655,9 @@ $ObjectArray2* FormatData_fr::getContents() {
 			$of("latn.NumberPatterns"_s),
 			$of($$new($StringArray, {
 				"#,##0.###"_s,
-				u"#,##0.00\u00a0\u00a4"_s,
-				u"#,##0\u00a0%"_s,
-				u"#,##0.00\u00a0\u00a4;(#,##0.00\u00a0\u00a4)"_s
+				u"#,##0.00 ¤"_s,
+				u"#,##0 %"_s,
+				u"#,##0.00 ¤;(#,##0.00 ¤)"_s
 			}))
 		}),
 		$$new($ObjectArray, {

@@ -39,7 +39,7 @@ void CurrencyNames_th_TH::init$() {
 $ObjectArray2* CurrencyNames_th_TH::getContents() {
 	return $new($ObjectArray2, {$$new($ObjectArray, {
 		$of("THB"_s),
-		$of(u"\u0e3f"_s)
+		$of(u"฿"_s)
 	})});
 }
 

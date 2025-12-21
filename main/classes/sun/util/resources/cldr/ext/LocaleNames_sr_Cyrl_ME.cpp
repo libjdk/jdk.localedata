@@ -42,103 +42,103 @@ $ObjectArray2* LocaleNames_sr_Cyrl_ME::getContents() {
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("BY"_s),
-			$of(u"\u0411\u0458\u0435\u043b\u043e\u0440\u0443\u0441\u0438\u0458\u0430"_s)
+			$of(u"Бјелорусија"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("CG"_s),
-			$of(u"\u041a\u043e\u043d\u0433\u043e"_s)
+			$of(u"Конго"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("CZ"_s),
-			$of(u"\u0427\u0435\u0448\u043a\u0430 \u0420\u0435\u043f\u0443\u0431\u043b\u0438\u043a\u0430"_s)
+			$of(u"Чешка Република"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("DE"_s),
-			$of(u"\u040a\u0435\u043c\u0430\u0447\u043a\u0430"_s)
+			$of(u"Њемачка"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("KN"_s),
-			$of(u"\u0421\u0432\u0435\u0442\u0438 \u041a\u0438\u0442\u0441 \u0438 \u041d\u0435\u0432\u0438\u0441"_s)
+			$of(u"Свети Китс и Невис"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("PM"_s),
-			$of(u"\u0421\u0432\u0435\u0442\u0438 \u041f\u0458\u0435\u0440 \u0438 \u041c\u0438\u043a\u0435\u043b\u043e\u043d"_s)
+			$of(u"Свети Пјер и Микелон"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("RE"_s),
-			$of(u"\u0420\u0435\u0443\u043d\u0438\u043e\u043d"_s)
+			$of(u"Реунион"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("UM"_s),
-			$of(u"\u041c\u0430\u045a\u0430 \u0443\u0434\u0430\u0459\u0435\u043d\u0430 \u043e\u0441\u0442\u0440\u0432\u0430 \u0421\u0410\u0414"_s)
+			$of(u"Мања удаљена острва САД"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("VC"_s),
-			$of(u"\u0421\u0432\u0435\u0442\u0438 \u0412\u0438\u043d\u0441\u0435\u043d\u0442 \u0438 \u0413\u0440\u0435\u043d\u0430\u0434\u0438\u043d\u0438"_s)
+			$of(u"Свети Винсент и Гренадини"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("VG"_s),
-			$of(u"\u0411\u0440\u0438\u0442\u0430\u043d\u0441\u043a\u0430 \u0414\u0458\u0435\u0432\u0438\u0447\u0430\u043d\u0441\u043a\u0430 \u041e\u0441\u0442\u0440\u0432\u0430"_s)
+			$of(u"Британска Дјевичанска Острва"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("VI"_s),
-			$of(u"\u0410\u043c\u0435\u0440\u0438\u0447\u043a\u0430 \u0414\u0458\u0435\u0432\u0438\u0447\u0430\u043d\u0441\u043a\u0430 \u041e\u0441\u0442\u0440\u0432\u0430"_s)
+			$of(u"Америчка Дјевичанска Острва"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("be"_s),
-			$of(u"\u0431\u0458\u0435\u043b\u043e\u0440\u0443\u0441\u043a\u0438"_s)
+			$of(u"бјелоруски"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bm"_s),
-			$of(u"\u0431\u0430\u043c\u0430\u043d\u0430\u043d\u043a\u0430\u043d"_s)
+			$of(u"бамананкан"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bn"_s),
-			$of(u"\u0431\u0430\u043d\u0433\u043b\u0430"_s)
+			$of(u"бангла"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ff"_s),
-			$of(u"\u0444\u0443\u043b\u0430\u0445"_s)
+			$of(u"фулах"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ht"_s),
-			$of(u"\u0445\u0430\u0438\u045b\u0430\u043d\u0441\u043a\u0438 \u043a\u0440\u0435\u043e\u043b\u0441\u043a\u0438"_s)
+			$of(u"хаићански креолски"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lo"_s),
-			$of(u"\u043b\u0430\u043e\u0448\u043a\u0438"_s)
+			$of(u"лаошки"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xh"_s),
-			$of(u"\u0438\u0441\u0438\u043a\u043e\u0441\u0430"_s)
+			$of(u"исикоса"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("zu"_s),
-			$of(u"\u0438\u0441\u0438\u0437\u0443\u043b\u0443"_s)
+			$of(u"исизулу"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("arn"_s),
-			$of(u"\u043c\u0430\u043f\u0443\u0434\u0443\u043d\u0433\u0443\u043d"_s)
+			$of(u"мапудунгун"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("moh"_s),
-			$of(u"\u043c\u043e\u0445\u043e\u043a"_s)
+			$of(u"мохок"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("nqo"_s),
-			$of(u"\u043d\u2019\u043a\u043e"_s)
+			$of(u"н’ко"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("shi"_s),
-			$of(u"\u0458\u0443\u0436\u043d\u0438 \u0448\u0438\u043b\u0445\u0430"_s)
+			$of(u"јужни шилха"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("tzm"_s),
-			$of(u"\u0446\u0435\u043d\u0442\u0440\u0430\u043b\u043d\u043e\u0430\u0442\u043b\u0430\u0441\u043a\u0438 \u0442\u0430\u043c\u0430\u0448\u0435\u043a"_s)
+			$of(u"централноатласки тамашек"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("zgh"_s),
-			$of(u"\u0441\u0442\u0430\u043d\u0434\u0430\u0440\u0434\u043d\u0438 \u043c\u0430\u0440\u043e\u043a\u0430\u043d\u0441\u043a\u0438 \u0442\u0430\u043c\u0430\u0448\u0435\u043a"_s)
+			$of(u"стандардни марокански тамашек"_s)
 		})
 	}));
 	return data;

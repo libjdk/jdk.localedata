@@ -40,18 +40,18 @@ void FormatData_vi::init$() {
 $ObjectArray2* FormatData_vi::getContents() {
 	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_MonthNames, $new($StringArray, {
-		u"th\u00e1ng 1"_s,
-		u"th\u00e1ng 2"_s,
-		u"th\u00e1ng 3"_s,
-		u"th\u00e1ng 4"_s,
-		u"th\u00e1ng 5"_s,
-		u"th\u00e1ng 6"_s,
-		u"th\u00e1ng 7"_s,
-		u"th\u00e1ng 8"_s,
-		u"th\u00e1ng 9"_s,
-		u"th\u00e1ng 10"_s,
-		u"th\u00e1ng 11"_s,
-		u"th\u00e1ng 12"_s,
+		u"tháng 1"_s,
+		u"tháng 2"_s,
+		u"tháng 3"_s,
+		u"tháng 4"_s,
+		u"tháng 5"_s,
+		u"tháng 6"_s,
+		u"tháng 7"_s,
+		u"tháng 8"_s,
+		u"tháng 9"_s,
+		u"tháng 10"_s,
+		u"tháng 11"_s,
+		u"tháng 12"_s,
 		""_s
 	}));
 	$var($StringArray, metaValue_MonthAbbreviations, $new($StringArray, {
@@ -70,13 +70,13 @@ $ObjectArray2* FormatData_vi::getContents() {
 		""_s
 	}));
 	$var($StringArray, metaValue_DayNames, $new($StringArray, {
-		u"Ch\u1ee7 Nh\u1eadt"_s,
-		u"Th\u1ee9 Hai"_s,
-		u"Th\u1ee9 Ba"_s,
-		u"Th\u1ee9 T\u01b0"_s,
-		u"Th\u1ee9 N\u0103m"_s,
-		u"Th\u1ee9 S\u00e1u"_s,
-		u"Th\u1ee9 B\u1ea3y"_s
+		u"Chủ Nhật"_s,
+		u"Thứ Hai"_s,
+		u"Thứ Ba"_s,
+		u"Thứ Tư"_s,
+		u"Thứ Năm"_s,
+		u"Thứ Sáu"_s,
+		u"Thứ Bảy"_s
 	}));
 	$var($StringArray, metaValue_DayAbbreviations, $new($StringArray, {
 		"CN"_s,
@@ -97,10 +97,10 @@ $ObjectArray2* FormatData_vi::getContents() {
 		"T7"_s
 	}));
 	$var($StringArray, metaValue_QuarterNames, $new($StringArray, {
-		u"Qu\u00fd 1"_s,
-		u"Qu\u00fd 2"_s,
-		u"Qu\u00fd 3"_s,
-		u"Qu\u00fd 4"_s
+		u"Quý 1"_s,
+		u"Quý 2"_s,
+		u"Quý 3"_s,
+		u"Quý 4"_s
 	}));
 	$var($StringArray, metaValue_standalone_QuarterAbbreviations, $new($StringArray, {
 		"Q1"_s,
@@ -111,29 +111,29 @@ $ObjectArray2* FormatData_vi::getContents() {
 	$var($StringArray, metaValue_AmPmMarkers, $new($StringArray, {
 		"SA"_s,
 		"CH"_s,
-		u"n\u1eeda \u0111\u00eam"_s,
+		u"nửa đêm"_s,
 		"TR"_s,
-		u"s\u00e1ng"_s,
+		u"sáng"_s,
 		""_s,
-		u"chi\u1ec1u"_s,
+		u"chiều"_s,
 		""_s,
-		u"t\u1ed1i"_s,
+		u"tối"_s,
 		""_s,
-		u"\u0111\u00eam"_s,
+		u"đêm"_s,
 		""_s
 	}));
 	$var($StringArray, metaValue_narrow_AmPmMarkers, $new($StringArray, {
 		"s"_s,
 		"c"_s,
-		u"n\u1eeda \u0111\u00eam"_s,
+		u"nửa đêm"_s,
 		"tr"_s,
-		u"s\u00e1ng"_s,
+		u"sáng"_s,
 		""_s,
-		u"chi\u1ec1u"_s,
+		u"chiều"_s,
 		""_s,
-		u"t\u1ed1i"_s,
+		u"tối"_s,
 		""_s,
-		u"\u0111\u00eam"_s,
+		u"đêm"_s,
 		""_s
 	}));
 	$var($StringArray, metaValue_TimePatterns, $new($StringArray, {
@@ -168,26 +168,26 @@ $ObjectArray2* FormatData_vi::getContents() {
 		"BE"_s
 	}));
 	$var($StringArray, metaValue_java_time_buddhist_DatePatterns, $new($StringArray, {
-		u"EEEE, \'ng\u00e0y\' dd MMMM \'n\u0103m\' y G"_s,
-		u"\'Ng\u00e0y\' dd \'th\u00e1ng\' M \'n\u0103m\' y G"_s,
+		u"EEEE, \'ngày\' dd MMMM \'năm\' y G"_s,
+		u"\'Ngày\' dd \'tháng\' M \'năm\' y G"_s,
 		"dd-MM-y G"_s,
 		"dd/MM/y GGGGG"_s
 	}));
 	$var($StringArray, metaValue_buddhist_DatePatterns, $new($StringArray, {
-		u"EEEE, \'ng\u00e0y\' dd MMMM \'n\u0103m\' y GGGG"_s,
-		u"\'Ng\u00e0y\' dd \'th\u00e1ng\' M \'n\u0103m\' y GGGG"_s,
+		u"EEEE, \'ngày\' dd MMMM \'năm\' y GGGG"_s,
+		u"\'Ngày\' dd \'tháng\' M \'năm\' y GGGG"_s,
 		"dd-MM-y GGGG"_s,
 		"dd/MM/y G"_s
 	}));
 	$var($StringArray, metaValue_java_time_roc_long_Eras, $new($StringArray, {
-		u"Tr\u01b0\u1edbc R.O.C"_s,
+		u"Trước R.O.C"_s,
 		"R.O.C."_s
 	}));
 	$var($StringArray, metaValue_java_time_islamic_long_Eras, $new($StringArray, {
 		""_s,
 		"AH"_s
 	}));
-	$var($String, metaValue_calendarname_gregorian, u"L\u1ecbch Gregory"_s);
+	$var($String, metaValue_calendarname_gregorian, u"Lịch Gregory"_s);
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("MonthNames"_s),
@@ -195,11 +195,11 @@ $ObjectArray2* FormatData_vi::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.year"_s),
-			$of(u"N\u0103m"_s)
+			$of(u"Năm"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.islamic-umalqura"_s),
-			$of(u"L\u1ecbch H\u1ed3i Gi\u00e1o - Umm al-Qura"_s)
+			$of(u"Lịch Hồi Giáo - Umm al-Qura"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("japanese.AmPmMarkers"_s),
@@ -216,8 +216,8 @@ $ObjectArray2* FormatData_vi::getContents() {
 		$$new($ObjectArray, {
 			$of("java.time.japanese.DatePatterns"_s),
 			$of($$new($StringArray, {
-				u"EEEE, \'ng\u00e0y\' dd MMMM \'n\u0103m\' y G"_s,
-				u"\'Ng\u00e0y\' dd \'th\u00e1ng\' M \'n\u0103m\' y G"_s,
+				u"EEEE, \'ngày\' dd MMMM \'năm\' y G"_s,
+				u"\'Ngày\' dd \'tháng\' M \'năm\' y G"_s,
 				"dd-MM-y G"_s,
 				"dd/MM/y G"_s
 			}))
@@ -236,7 +236,7 @@ $ObjectArray2* FormatData_vi::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.islamic-civil"_s),
-			$of(u"L\u1ecbch Islamic-Civil"_s)
+			$of(u"Lịch Islamic-Civil"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("islamic.narrow.AmPmMarkers"_s),
@@ -263,7 +263,7 @@ $ObjectArray2* FormatData_vi::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.regionFormat.standard"_s),
-			$of(u"Gi\u1edd chu\u1ea9n {0}"_s)
+			$of(u"Giờ chuẩn {0}"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("japanese.abbreviated.AmPmMarkers"_s),
@@ -271,7 +271,7 @@ $ObjectArray2* FormatData_vi::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.japanese"_s),
-			$of(u"L\u1ecbch Nh\u1eadt B\u1ea3n"_s)
+			$of(u"Lịch Nhật Bản"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("japanese.MonthNames"_s),
@@ -292,8 +292,8 @@ $ObjectArray2* FormatData_vi::getContents() {
 		$$new($ObjectArray, {
 			$of("long.Eras"_s),
 			$of($$new($StringArray, {
-				u"Tr\u01b0\u1edbc Thi\u00ean Ch\u00faa"_s,
-				u"Sau C\u00f4ng Nguy\u00ean"_s
+				u"Trước Thiên Chúa"_s,
+				u"Sau Công Nguyên"_s
 			}))
 		}),
 		$$new($ObjectArray, {
@@ -336,8 +336,8 @@ $ObjectArray2* FormatData_vi::getContents() {
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
+				u"‰"_s,
+				u"∞"_s,
 				"NaN"_s,
 				""_s,
 				""_s
@@ -346,8 +346,8 @@ $ObjectArray2* FormatData_vi::getContents() {
 		$$new($ObjectArray, {
 			$of("japanese.DatePatterns"_s),
 			$of($$new($StringArray, {
-				u"EEEE, \'ng\u00e0y\' dd MMMM \'n\u0103m\' y GGGG"_s,
-				u"\'Ng\u00e0y\' dd \'th\u00e1ng\' M \'n\u0103m\' y GGGG"_s,
+				u"EEEE, \'ngày\' dd MMMM \'năm\' y GGGG"_s,
+				u"\'Ngày\' dd \'tháng\' M \'năm\' y GGGG"_s,
 				"dd-MM-y GGGG"_s,
 				"dd/MM/y GGGG"_s
 			}))
@@ -358,11 +358,11 @@ $ObjectArray2* FormatData_vi::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.minute"_s),
-			$of(u"Ph\u00fat"_s)
+			$of(u"Phút"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("field.era"_s),
-			$of(u"th\u1eddi \u0111\u1ea1i"_s)
+			$of(u"thời đại"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("buddhist.AmPmMarkers"_s),
@@ -378,13 +378,13 @@ $ObjectArray2* FormatData_vi::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.roc"_s),
-			$of(u"L\u1ecbch Trung Hoa D\u00e2n Qu\u1ed1c"_s)
+			$of(u"Lịch Trung Hoa Dân Quốc"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("islamic.DatePatterns"_s),
 			$of($$new($StringArray, {
-				u"EEEE, \'ng\u00e0y\' dd \'th\u00e1ng\' MM \'n\u0103m\' y GGGG"_s,
-				u"\'Ng\u00e0y\' dd \'th\u00e1ng\' M \'n\u0103m\' y GGGG"_s,
+				u"EEEE, \'ngày\' dd \'tháng\' MM \'năm\' y GGGG"_s,
+				u"\'Ngày\' dd \'tháng\' M \'năm\' y GGGG"_s,
 				"dd-MM-y GGGG"_s,
 				"dd/MM/y G"_s
 			}))
@@ -399,7 +399,7 @@ $ObjectArray2* FormatData_vi::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.month"_s),
-			$of(u"Th\u00e1ng"_s)
+			$of(u"Tháng"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("roc.Eras"_s),
@@ -407,7 +407,7 @@ $ObjectArray2* FormatData_vi::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.second"_s),
-			$of(u"Gi\u00e2y"_s)
+			$of(u"Giây"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("DayAbbreviations"_s),
@@ -423,7 +423,7 @@ $ObjectArray2* FormatData_vi::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.islamic"_s),
-			$of(u"L\u1ecbch H\u1ed3i Gi\u00e1o"_s)
+			$of(u"Lịch Hồi Giáo"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("java.time.roc.long.Eras"_s),
@@ -465,7 +465,7 @@ $ObjectArray2* FormatData_vi::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.regionFormat"_s),
-			$of(u"Gi\u1edd {0}"_s)
+			$of(u"Giờ {0}"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("long.CompactNumberPatterns"_s),
@@ -473,18 +473,18 @@ $ObjectArray2* FormatData_vi::getContents() {
 				""_s,
 				""_s,
 				""_s,
-				u"{other:0\' \'ngh\u00ecn}"_s,
-				u"{other:00\' \'ngh\u00ecn}"_s,
-				u"{other:000\' \'ngh\u00ecn}"_s,
-				u"{other:0\' \'tri\u1ec7u}"_s,
-				u"{other:00\' \'tri\u1ec7u}"_s,
-				u"{other:000\' \'tri\u1ec7u}"_s,
-				u"{other:0\' \'t\u1ef7}"_s,
-				u"{other:00\' \'t\u1ef7}"_s,
-				u"{other:000\' \'t\u1ef7}"_s,
-				u"{other:0\' \'ngh\u00ecn\' \'t\u1ef7}"_s,
-				u"{other:00\' \'ngh\u00ecn\' \'t\u1ef7}"_s,
-				u"{other:000\' \'ngh\u00ecn\' \'t\u1ef7}"_s
+				u"{other:0\' \'nghìn}"_s,
+				u"{other:00\' \'nghìn}"_s,
+				u"{other:000\' \'nghìn}"_s,
+				u"{other:0\' \'triệu}"_s,
+				u"{other:00\' \'triệu}"_s,
+				u"{other:000\' \'triệu}"_s,
+				u"{other:0\' \'tỷ}"_s,
+				u"{other:00\' \'tỷ}"_s,
+				u"{other:000\' \'tỷ}"_s,
+				u"{other:0\' \'nghìn\' \'tỷ}"_s,
+				u"{other:00\' \'nghìn\' \'tỷ}"_s,
+				u"{other:000\' \'nghìn\' \'tỷ}"_s
 			}))
 		}),
 		$$new($ObjectArray, {
@@ -498,10 +498,10 @@ $ObjectArray2* FormatData_vi::getContents() {
 		$$new($ObjectArray, {
 			$of("standalone.QuarterNames"_s),
 			$of($$new($StringArray, {
-				u"qu\u00fd 1"_s,
-				u"qu\u00fd 2"_s,
-				u"qu\u00fd 3"_s,
-				u"qu\u00fd 4"_s
+				u"quý 1"_s,
+				u"quý 2"_s,
+				u"quý 3"_s,
+				u"quý 4"_s
 			}))
 		}),
 		$$new($ObjectArray, {
@@ -546,7 +546,7 @@ $ObjectArray2* FormatData_vi::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.zone"_s),
-			$of(u"M\u00fai gi\u1edd"_s)
+			$of(u"Múi giờ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("japanese.QuarterAbbreviations"_s),
@@ -567,7 +567,7 @@ $ObjectArray2* FormatData_vi::getContents() {
 		$$new($ObjectArray, {
 			$of("Eras"_s),
 			$of($$new($StringArray, {
-				u"Tr\u01b0\u1edbc CN"_s,
+				u"Trước CN"_s,
 				"Sau CN"_s
 			}))
 		}),
@@ -586,15 +586,15 @@ $ObjectArray2* FormatData_vi::getContents() {
 		$$new($ObjectArray, {
 			$of("java.time.islamic.DatePatterns"_s),
 			$of($$new($StringArray, {
-				u"EEEE, \'ng\u00e0y\' dd \'th\u00e1ng\' MM \'n\u0103m\' y G"_s,
-				u"\'Ng\u00e0y\' dd \'th\u00e1ng\' M \'n\u0103m\' y G"_s,
+				u"EEEE, \'ngày\' dd \'tháng\' MM \'năm\' y G"_s,
+				u"\'Ngày\' dd \'tháng\' M \'năm\' y G"_s,
 				"dd-MM-y G"_s,
 				"dd/MM/y GGGGG"_s
 			}))
 		}),
 		$$new($ObjectArray, {
 			$of("field.weekday"_s),
-			$of(u"ng\u00e0y trong tu\u1ea7n"_s)
+			$of(u"ngày trong tuần"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("japanese.MonthAbbreviations"_s),
@@ -650,7 +650,7 @@ $ObjectArray2* FormatData_vi::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.week"_s),
-			$of(u"Tu\u1ea7n"_s)
+			$of(u"Tuần"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("buddhist.QuarterNames"_s),
@@ -686,18 +686,18 @@ $ObjectArray2* FormatData_vi::getContents() {
 				""_s,
 				""_s,
 				""_s,
-				u"{other:0\u00a0N}"_s,
-				u"{other:00\u00a0N}"_s,
-				u"{other:000\u00a0N}"_s,
-				u"{other:0\u00a0Tr}"_s,
-				u"{other:00\u00a0Tr}"_s,
-				u"{other:000\u00a0Tr}"_s,
-				u"{other:0\u00a0T}"_s,
-				u"{other:00\u00a0T}"_s,
-				u"{other:000\u00a0T}"_s,
-				u"{other:0\u00a0NT}"_s,
-				u"{other:00\u00a0NT}"_s,
-				u"{other:000\u00a0NT}"_s
+				u"{other:0 N}"_s,
+				u"{other:00 N}"_s,
+				u"{other:000 N}"_s,
+				u"{other:0 Tr}"_s,
+				u"{other:00 Tr}"_s,
+				u"{other:000 Tr}"_s,
+				u"{other:0 T}"_s,
+				u"{other:00 T}"_s,
+				u"{other:000 T}"_s,
+				u"{other:0 NT}"_s,
+				u"{other:00 NT}"_s,
+				u"{other:000 NT}"_s
 			}))
 		}),
 		$$new($ObjectArray, {
@@ -710,7 +710,7 @@ $ObjectArray2* FormatData_vi::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.regionFormat.daylight"_s),
-			$of(u"Gi\u1edd m\u00f9a h\u00e8 {0}"_s)
+			$of(u"Giờ mùa hè {0}"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("DatePatterns"_s),
@@ -739,7 +739,7 @@ $ObjectArray2* FormatData_vi::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.hour"_s),
-			$of(u"Gi\u1edd"_s)
+			$of(u"Giờ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("islamic.narrow.Eras"_s),
@@ -747,23 +747,23 @@ $ObjectArray2* FormatData_vi::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.buddhist"_s),
-			$of(u"L\u1ecbch Ph\u1eadt Gi\u00e1o"_s)
+			$of(u"Lịch Phật Giáo"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("standalone.MonthNames"_s),
 			$of($$new($StringArray, {
-				u"Th\u00e1ng 1"_s,
-				u"Th\u00e1ng 2"_s,
-				u"Th\u00e1ng 3"_s,
-				u"Th\u00e1ng 4"_s,
-				u"Th\u00e1ng 5"_s,
-				u"Th\u00e1ng 6"_s,
-				u"Th\u00e1ng 7"_s,
-				u"Th\u00e1ng 8"_s,
-				u"Th\u00e1ng 9"_s,
-				u"Th\u00e1ng 10"_s,
-				u"Th\u00e1ng 11"_s,
-				u"Th\u00e1ng 12"_s,
+				u"Tháng 1"_s,
+				u"Tháng 2"_s,
+				u"Tháng 3"_s,
+				u"Tháng 4"_s,
+				u"Tháng 5"_s,
+				u"Tháng 6"_s,
+				u"Tháng 7"_s,
+				u"Tháng 8"_s,
+				u"Tháng 9"_s,
+				u"Tháng 10"_s,
+				u"Tháng 11"_s,
+				u"Tháng 12"_s,
 				""_s
 			}))
 		}),
@@ -771,9 +771,9 @@ $ObjectArray2* FormatData_vi::getContents() {
 			$of("latn.NumberPatterns"_s),
 			$of($$new($StringArray, {
 				"#,##0.###"_s,
-				u"#,##0.00\u00a0\u00a4"_s,
+				u"#,##0.00 ¤"_s,
 				"#,##0%"_s,
-				u"#,##0.00\u00a0\u00a4"_s
+				u"#,##0.00 ¤"_s
 			}))
 		}),
 		$$new($ObjectArray, {

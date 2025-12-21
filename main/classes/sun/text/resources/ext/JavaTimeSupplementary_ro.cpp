@@ -67,16 +67,16 @@ $ObjectArray2* JavaTimeSupplementary_ro::getContents() {
 		"mie."_s,
 		"joi"_s,
 		"vin."_s,
-		u"s\u00e2m."_s
+		u"sâm."_s
 	}));
 	$var($StringArray, sharedDayNames, $new($StringArray, {
-		u"duminic\u0103"_s,
+		u"duminică"_s,
 		"luni"_s,
-		u"mar\u021bi"_s,
+		u"marți"_s,
 		"miercuri"_s,
 		"joi"_s,
 		"vineri"_s,
-		u"s\u00e2mb\u0103t\u0103"_s
+		u"sâmbătă"_s
 	}));
 	$var($StringArray, sharedDayNarrows, $new($StringArray, {
 		"D"_s,
@@ -136,11 +136,11 @@ $ObjectArray2* JavaTimeSupplementary_ro::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.era"_s),
-			$of(u"Er\u0103"_s)
+			$of(u"Eră"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("field.hour"_s),
-			$of(u"Or\u0103"_s)
+			$of(u"Oră"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("field.minute"_s),
@@ -148,19 +148,19 @@ $ObjectArray2* JavaTimeSupplementary_ro::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.month"_s),
-			$of(u"Lun\u0103"_s)
+			$of(u"Lună"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("field.second"_s),
-			$of(u"Secund\u0103"_s)
+			$of(u"Secundă"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("field.week"_s),
-			$of(u"S\u0103pt\u0103m\u00e2n\u0103"_s)
+			$of(u"Săptămână"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("field.weekday"_s),
-			$of(u"Zi a s\u0103pt\u0103m\u00e2nii"_s)
+			$of(u"Zi a săptămânii"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("field.year"_s),
@@ -214,7 +214,7 @@ $ObjectArray2* JavaTimeSupplementary_ro::getContents() {
 			$of("java.time.buddhist.long.Eras"_s),
 			$of($$new($StringArray, {
 				"BC"_s,
-				u"era budist\u0103"_s
+				u"era budistă"_s
 			}))
 		}),
 		$$new($ObjectArray, {
@@ -235,8 +235,8 @@ $ObjectArray2* JavaTimeSupplementary_ro::getContents() {
 		$$new($ObjectArray, {
 			$of("java.time.long.Eras"_s),
 			$of($$new($StringArray, {
-				u"\u00eenainte de Hristos"_s,
-				u"dup\u0103 Hristos"_s
+				u"înainte de Hristos"_s,
+				u"după Hristos"_s
 			}))
 		}),
 		$$new($ObjectArray, {
@@ -247,7 +247,7 @@ $ObjectArray2* JavaTimeSupplementary_ro::getContents() {
 			$of("java.time.short.Eras"_s),
 			$of($$new($StringArray, {
 				"d.C."_s,
-				u"\u00ee.d.C."_s
+				u"î.d.C."_s
 			}))
 		}),
 		$$new($ObjectArray, {

@@ -42,7 +42,7 @@ $ObjectArray2* CurrencyNames_mi::getContents() {
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("JPY"_s),
-			$of(u"\u00a5"_s)
+			$of(u"¥"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("NZD"_s),
@@ -62,11 +62,11 @@ $ObjectArray2* CurrencyNames_mi::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("gbp"_s),
-			$of(u"P\u0101una Piritene"_s)
+			$of(u"Pāuna Piritene"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("inr"_s),
-			$of(u"Rup\u012b Iniana"_s)
+			$of(u"Rupī Iniana"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("jpy"_s),
@@ -74,19 +74,19 @@ $ObjectArray2* CurrencyNames_mi::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("nzd"_s),
-			$of(u"T\u0101ra o Aotearoa"_s)
+			$of(u"Tāra o Aotearoa"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("rub"_s),
-			$of(u"R\u016bpera Ruhiana"_s)
+			$of(u"Rūpera Ruhiana"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("usd"_s),
-			$of(u"T\u0101ra US"_s)
+			$of(u"Tāra US"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xxx"_s),
-			$of(u"Moni T\u0113 M\u014dhiotia"_s)
+			$of(u"Moni Tē Mōhiotia"_s)
 		})
 	}));
 	return data;

@@ -41,11 +41,11 @@ $ObjectArray2* CurrencyNames_ar_SD::getContents() {
 	return $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("SDD"_s),
-			$of(u"\u062f.\u0633.\u200f"_s)
+			$of(u"د.س.\u200f"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("SDG"_s),
-			$of(u"\u062c.\u0633.\u200f"_s)
+			$of(u"ج.س.\u200f"_s)
 		})
 	});
 }

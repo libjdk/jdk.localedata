@@ -39,202 +39,202 @@ void FormatData_el::init$() {
 $ObjectArray2* FormatData_el::getContents() {
 	$useLocalCurrentObjectStackCache();
 	$var($StringArray, rocEras, $new($StringArray, {
-		u"\u03a0\u03c1\u03b9\u03bd R.O.C."_s,
+		u"Πριν R.O.C."_s,
 		"R.O.C."_s
 	}));
 	return $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("MonthNames"_s),
 			$of($$new($StringArray, {
-				u"\u0399\u03b1\u03bd\u03bf\u03c5\u03b1\u03c1\u03af\u03bf\u03c5"_s,
-				u"\u03a6\u03b5\u03b2\u03c1\u03bf\u03c5\u03b1\u03c1\u03af\u03bf\u03c5"_s,
-				u"\u039c\u03b1\u03c1\u03c4\u03af\u03bf\u03c5"_s,
-				u"\u0391\u03c0\u03c1\u03b9\u03bb\u03af\u03bf\u03c5"_s,
-				u"\u039c\u03b1\u0390\u03bf\u03c5"_s,
-				u"\u0399\u03bf\u03c5\u03bd\u03af\u03bf\u03c5"_s,
-				u"\u0399\u03bf\u03c5\u03bb\u03af\u03bf\u03c5"_s,
-				u"\u0391\u03c5\u03b3\u03bf\u03cd\u03c3\u03c4\u03bf\u03c5"_s,
-				u"\u03a3\u03b5\u03c0\u03c4\u03b5\u03bc\u03b2\u03c1\u03af\u03bf\u03c5"_s,
-				u"\u039f\u03ba\u03c4\u03c9\u03b2\u03c1\u03af\u03bf\u03c5"_s,
-				u"\u039d\u03bf\u03b5\u03bc\u03b2\u03c1\u03af\u03bf\u03c5"_s,
-				u"\u0394\u03b5\u03ba\u03b5\u03bc\u03b2\u03c1\u03af\u03bf\u03c5"_s,
+				u"Ιανουαρίου"_s,
+				u"Φεβρουαρίου"_s,
+				u"Μαρτίου"_s,
+				u"Απριλίου"_s,
+				u"Μαΐου"_s,
+				u"Ιουνίου"_s,
+				u"Ιουλίου"_s,
+				u"Αυγούστου"_s,
+				u"Σεπτεμβρίου"_s,
+				u"Οκτωβρίου"_s,
+				u"Νοεμβρίου"_s,
+				u"Δεκεμβρίου"_s,
 				""_s
 			}))
 		}),
 		$$new($ObjectArray, {
 			$of("standalone.MonthNames"_s),
 			$of($$new($StringArray, {
-				u"\u0399\u03b1\u03bd\u03bf\u03c5\u03ac\u03c1\u03b9\u03bf\u03c2"_s,
-				u"\u03a6\u03b5\u03b2\u03c1\u03bf\u03c5\u03ac\u03c1\u03b9\u03bf\u03c2"_s,
-				u"\u039c\u03ac\u03c1\u03c4\u03b9\u03bf\u03c2"_s,
-				u"\u0391\u03c0\u03c1\u03af\u03bb\u03b9\u03bf\u03c2"_s,
-				u"\u039c\u03ac\u03ca\u03bf\u03c2"_s,
-				u"\u0399\u03bf\u03cd\u03bd\u03b9\u03bf\u03c2"_s,
-				u"\u0399\u03bf\u03cd\u03bb\u03b9\u03bf\u03c2"_s,
-				u"\u0391\u03cd\u03b3\u03bf\u03c5\u03c3\u03c4\u03bf\u03c2"_s,
-				u"\u03a3\u03b5\u03c0\u03c4\u03ad\u03bc\u03b2\u03c1\u03b9\u03bf\u03c2"_s,
-				u"\u039f\u03ba\u03c4\u03ce\u03b2\u03c1\u03b9\u03bf\u03c2"_s,
-				u"\u039d\u03bf\u03ad\u03bc\u03b2\u03c1\u03b9\u03bf\u03c2"_s,
-				u"\u0394\u03b5\u03ba\u03ad\u03bc\u03b2\u03c1\u03b9\u03bf\u03c2"_s,
+				u"Ιανουάριος"_s,
+				u"Φεβρουάριος"_s,
+				u"Μάρτιος"_s,
+				u"Απρίλιος"_s,
+				u"Μάϊος"_s,
+				u"Ιούνιος"_s,
+				u"Ιούλιος"_s,
+				u"Αύγουστος"_s,
+				u"Σεπτέμβριος"_s,
+				u"Οκτώβριος"_s,
+				u"Νοέμβριος"_s,
+				u"Δεκέμβριος"_s,
 				""_s
 			}))
 		}),
 		$$new($ObjectArray, {
 			$of("MonthAbbreviations"_s),
 			$of($$new($StringArray, {
-				u"\u0399\u03b1\u03bd"_s,
-				u"\u03a6\u03b5\u03b2"_s,
-				u"\u039c\u03b1\u03c1"_s,
-				u"\u0391\u03c0\u03c1"_s,
-				u"\u039c\u03b1\u03ca"_s,
-				u"\u0399\u03bf\u03c5\u03bd"_s,
-				u"\u0399\u03bf\u03c5\u03bb"_s,
-				u"\u0391\u03c5\u03b3"_s,
-				u"\u03a3\u03b5\u03c0"_s,
-				u"\u039f\u03ba\u03c4"_s,
-				u"\u039d\u03bf\u03b5"_s,
-				u"\u0394\u03b5\u03ba"_s,
+				u"Ιαν"_s,
+				u"Φεβ"_s,
+				u"Μαρ"_s,
+				u"Απρ"_s,
+				u"Μαϊ"_s,
+				u"Ιουν"_s,
+				u"Ιουλ"_s,
+				u"Αυγ"_s,
+				u"Σεπ"_s,
+				u"Οκτ"_s,
+				u"Νοε"_s,
+				u"Δεκ"_s,
 				""_s
 			}))
 		}),
 		$$new($ObjectArray, {
 			$of("standalone.MonthAbbreviations"_s),
 			$of($$new($StringArray, {
-				u"\u0399\u03b1\u03bd"_s,
-				u"\u03a6\u03b5\u03b2"_s,
-				u"\u039c\u03ac\u03c1"_s,
-				u"\u0391\u03c0\u03c1"_s,
-				u"\u039c\u03ac\u03b9"_s,
-				u"\u0399\u03bf\u03cd\u03bd"_s,
-				u"\u0399\u03bf\u03cd\u03bb"_s,
-				u"\u0391\u03c5\u03b3"_s,
-				u"\u03a3\u03b5\u03c0"_s,
-				u"\u039f\u03ba\u03c4"_s,
-				u"\u039d\u03bf\u03ad"_s,
-				u"\u0394\u03b5\u03ba"_s,
+				u"Ιαν"_s,
+				u"Φεβ"_s,
+				u"Μάρ"_s,
+				u"Απρ"_s,
+				u"Μάι"_s,
+				u"Ιούν"_s,
+				u"Ιούλ"_s,
+				u"Αυγ"_s,
+				u"Σεπ"_s,
+				u"Οκτ"_s,
+				u"Νοέ"_s,
+				u"Δεκ"_s,
 				""_s
 			}))
 		}),
 		$$new($ObjectArray, {
 			$of("MonthNarrows"_s),
 			$of($$new($StringArray, {
-				u"\u0399"_s,
-				u"\u03a6"_s,
-				u"\u039c"_s,
-				u"\u0391"_s,
-				u"\u039c"_s,
-				u"\u0399"_s,
-				u"\u0399"_s,
-				u"\u0391"_s,
-				u"\u03a3"_s,
-				u"\u039f"_s,
-				u"\u039d"_s,
-				u"\u0394"_s,
+				u"Ι"_s,
+				u"Φ"_s,
+				u"Μ"_s,
+				u"Α"_s,
+				u"Μ"_s,
+				u"Ι"_s,
+				u"Ι"_s,
+				u"Α"_s,
+				u"Σ"_s,
+				u"Ο"_s,
+				u"Ν"_s,
+				u"Δ"_s,
 				""_s
 			}))
 		}),
 		$$new($ObjectArray, {
 			$of("standalone.MonthNarrows"_s),
 			$of($$new($StringArray, {
-				u"\u0399"_s,
-				u"\u03a6"_s,
-				u"\u039c"_s,
-				u"\u0391"_s,
-				u"\u039c"_s,
-				u"\u0399"_s,
-				u"\u0399"_s,
-				u"\u0391"_s,
-				u"\u03a3"_s,
-				u"\u039f"_s,
-				u"\u039d"_s,
-				u"\u0394"_s,
+				u"Ι"_s,
+				u"Φ"_s,
+				u"Μ"_s,
+				u"Α"_s,
+				u"Μ"_s,
+				u"Ι"_s,
+				u"Ι"_s,
+				u"Α"_s,
+				u"Σ"_s,
+				u"Ο"_s,
+				u"Ν"_s,
+				u"Δ"_s,
 				""_s
 			}))
 		}),
 		$$new($ObjectArray, {
 			$of("DayNames"_s),
 			$of($$new($StringArray, {
-				u"\u039a\u03c5\u03c1\u03b9\u03b1\u03ba\u03ae"_s,
-				u"\u0394\u03b5\u03c5\u03c4\u03ad\u03c1\u03b1"_s,
-				u"\u03a4\u03c1\u03af\u03c4\u03b7"_s,
-				u"\u03a4\u03b5\u03c4\u03ac\u03c1\u03c4\u03b7"_s,
-				u"\u03a0\u03ad\u03bc\u03c0\u03c4\u03b7"_s,
-				u"\u03a0\u03b1\u03c1\u03b1\u03c3\u03ba\u03b5\u03c5\u03ae"_s,
-				u"\u03a3\u03ac\u03b2\u03b2\u03b1\u03c4\u03bf"_s
+				u"Κυριακή"_s,
+				u"Δευτέρα"_s,
+				u"Τρίτη"_s,
+				u"Τετάρτη"_s,
+				u"Πέμπτη"_s,
+				u"Παρασκευή"_s,
+				u"Σάββατο"_s
 			}))
 		}),
 		$$new($ObjectArray, {
 			$of("standalone.DayNames"_s),
 			$of($$new($StringArray, {
-				u"\u039a\u03c5\u03c1\u03b9\u03b1\u03ba\u03ae"_s,
-				u"\u0394\u03b5\u03c5\u03c4\u03ad\u03c1\u03b1"_s,
-				u"\u03a4\u03c1\u03af\u03c4\u03b7"_s,
-				u"\u03a4\u03b5\u03c4\u03ac\u03c1\u03c4\u03b7"_s,
-				u"\u03a0\u03ad\u03bc\u03c0\u03c4\u03b7"_s,
-				u"\u03a0\u03b1\u03c1\u03b1\u03c3\u03ba\u03b5\u03c5\u03ae"_s,
-				u"\u03a3\u03ac\u03b2\u03b2\u03b1\u03c4\u03bf"_s
+				u"Κυριακή"_s,
+				u"Δευτέρα"_s,
+				u"Τρίτη"_s,
+				u"Τετάρτη"_s,
+				u"Πέμπτη"_s,
+				u"Παρασκευή"_s,
+				u"Σάββατο"_s
 			}))
 		}),
 		$$new($ObjectArray, {
 			$of("DayAbbreviations"_s),
 			$of($$new($StringArray, {
-				u"\u039a\u03c5\u03c1"_s,
-				u"\u0394\u03b5\u03c5"_s,
-				u"\u03a4\u03c1\u03b9"_s,
-				u"\u03a4\u03b5\u03c4"_s,
-				u"\u03a0\u03b5\u03bc"_s,
-				u"\u03a0\u03b1\u03c1"_s,
-				u"\u03a3\u03b1\u03b2"_s
+				u"Κυρ"_s,
+				u"Δευ"_s,
+				u"Τρι"_s,
+				u"Τετ"_s,
+				u"Πεμ"_s,
+				u"Παρ"_s,
+				u"Σαβ"_s
 			}))
 		}),
 		$$new($ObjectArray, {
 			$of("standalone.DayAbbreviations"_s),
 			$of($$new($StringArray, {
-				u"\u039a\u03c5\u03c1"_s,
-				u"\u0394\u03b5\u03c5"_s,
-				u"\u03a4\u03c1\u03af"_s,
-				u"\u03a4\u03b5\u03c4"_s,
-				u"\u03a0\u03ad\u03bc"_s,
-				u"\u03a0\u03b1\u03c1"_s,
-				u"\u03a3\u03ac\u03b2"_s
+				u"Κυρ"_s,
+				u"Δευ"_s,
+				u"Τρί"_s,
+				u"Τετ"_s,
+				u"Πέμ"_s,
+				u"Παρ"_s,
+				u"Σάβ"_s
 			}))
 		}),
 		$$new($ObjectArray, {
 			$of("DayNarrows"_s),
 			$of($$new($StringArray, {
-				u"\u039a"_s,
-				u"\u0394"_s,
-				u"\u03a4"_s,
-				u"\u03a4"_s,
-				u"\u03a0"_s,
-				u"\u03a0"_s,
-				u"\u03a3"_s
+				u"Κ"_s,
+				u"Δ"_s,
+				u"Τ"_s,
+				u"Τ"_s,
+				u"Π"_s,
+				u"Π"_s,
+				u"Σ"_s
 			}))
 		}),
 		$$new($ObjectArray, {
 			$of("standalone.DayNarrows"_s),
 			$of($$new($StringArray, {
-				u"\u039a"_s,
-				u"\u0394"_s,
-				u"\u03a4"_s,
-				u"\u03a4"_s,
-				u"\u03a0"_s,
-				u"\u03a0"_s,
-				u"\u03a3"_s
+				u"Κ"_s,
+				u"Δ"_s,
+				u"Τ"_s,
+				u"Τ"_s,
+				u"Π"_s,
+				u"Π"_s,
+				u"Σ"_s
 			}))
 		}),
 		$$new($ObjectArray, {
 			$of("short.Eras"_s),
 			$of($$new($StringArray, {
-				u"\u03c0.\u03a7."_s,
-				u"\u03bc.\u03a7."_s
+				u"π.Χ."_s,
+				u"μ.Χ."_s
 			}))
 		}),
 		$$new($ObjectArray, {
 			$of("AmPmMarkers"_s),
 			$of($$new($StringArray, {
-				u"\u03c0\u03bc"_s,
-				u"\u03bc\u03bc"_s
+				u"πμ"_s,
+				u"μμ"_s
 			}))
 		}),
 		$$new($ObjectArray, {
@@ -248,9 +248,9 @@ $ObjectArray2* FormatData_el::getContents() {
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
-				u"\ufffd"_s
+				u"‰"_s,
+				u"∞"_s,
+				u"�"_s
 			}))
 		}),
 		$$new($ObjectArray, {

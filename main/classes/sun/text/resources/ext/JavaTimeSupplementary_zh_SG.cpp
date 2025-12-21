@@ -39,15 +39,15 @@ void JavaTimeSupplementary_zh_SG::init$() {
 $ObjectArray2* JavaTimeSupplementary_zh_SG::getContents() {
 	$useLocalCurrentObjectStackCache();
 	$var($StringArray, sharedDatePatterns, $new($StringArray, {
-		u"GGGGy\u5e74M\u6708d\u65e5EEEE"_s,
-		u"GGGGy\u5e74M\u6708d\u65e5"_s,
-		u"GGGGy\u5e74M\u6708d\u65e5"_s,
+		u"GGGGy年M月d日EEEE"_s,
+		u"GGGGy年M月d日"_s,
+		u"GGGGy年M月d日"_s,
 		"GGGGd/M/yy"_s
 	}));
 	$var($StringArray, sharedJavaTimeDatePatterns, $new($StringArray, {
-		u"Gy\u5e74M\u6708d\u65e5EEEE"_s,
-		u"Gy\u5e74M\u6708d\u65e5"_s,
-		u"Gy\u5e74M\u6708d\u65e5"_s,
+		u"Gy年M月d日EEEE"_s,
+		u"Gy年M月d日"_s,
+		u"Gy年M月d日"_s,
 		"Gd/M/yy"_s
 	}));
 	return $new($ObjectArray2, {

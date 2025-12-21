@@ -550,7 +550,7 @@ $ObjectArray2* LocaleNames_cgg::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("MP"_s),
-			$of(u"Ebizinga by\u2019amatemba ga Mariana"_s)
+			$of(u"Ebizinga by’amatemba ga Mariana"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("MQ"_s),

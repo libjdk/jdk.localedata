@@ -50,7 +50,7 @@ $ObjectArray2* TimeZoneNames_fr_GF::getContents() {
 		""_s
 	}));
 	$var($StringArray, French_Guiana, $new($StringArray, {
-		u"heure de la Guyane fran\u00e7aise"_s,
+		u"heure de la Guyane française"_s,
 		"GFT"_s,
 		""_s,
 		""_s,

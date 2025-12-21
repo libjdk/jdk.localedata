@@ -46,11 +46,11 @@ $ObjectArray2* LocaleNames_kab::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("AE"_s),
-			$of(u"Tigeldunin Yedduklen Ta\u025brabin"_s)
+			$of(u"Tigeldunin Yedduklen Taɛrabin"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("AF"_s),
-			$of(u"Af\u0263anistan"_s)
+			$of(u"Afɣanistan"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("AG"_s),
@@ -110,7 +110,7 @@ $ObjectArray2* LocaleNames_kab::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("BE"_s),
-			$of(u"Bel\u01e7ik"_s)
+			$of(u"Belǧik"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("BF"_s),
@@ -122,7 +122,7 @@ $ObjectArray2* LocaleNames_kab::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("BH"_s),
-			$of(u"Ba\u1e25rin"_s)
+			$of(u"Baḥrin"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("BI"_s),
@@ -190,7 +190,7 @@ $ObjectArray2* LocaleNames_kab::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("CI"_s),
-			$of(u"Ku\u1e6d Divwar"_s)
+			$of(u"Kuṭ Divwar"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("CK"_s),
@@ -230,7 +230,7 @@ $ObjectArray2* LocaleNames_kab::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("CZ"_s),
-			$of(u"\u010c\u010dek"_s)
+			$of(u"Čček"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("DE"_s),
@@ -238,7 +238,7 @@ $ObjectArray2* LocaleNames_kab::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("DJ"_s),
-			$of(u"\u01e6ibuti"_s)
+			$of(u"Ǧibuti"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("DK"_s),
@@ -258,7 +258,7 @@ $ObjectArray2* LocaleNames_kab::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("EC"_s),
-			$of(u"Ikwa\u1e6dur"_s)
+			$of(u"Ikwaṭur"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("EE"_s),
@@ -266,7 +266,7 @@ $ObjectArray2* LocaleNames_kab::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("EG"_s),
-			$of(u"Ma\u1e63r"_s)
+			$of(u"Maṣr"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ER"_s),
@@ -318,11 +318,11 @@ $ObjectArray2* LocaleNames_kab::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("GF"_s),
-			$of(u"\u0194ana tafransist"_s)
+			$of(u"Ɣana tafransist"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("GH"_s),
-			$of(u"\u0194ana"_s)
+			$of(u"Ɣana"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("GI"_s),
@@ -338,7 +338,7 @@ $ObjectArray2* LocaleNames_kab::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("GN"_s),
-			$of(u"\u0194inya"_s)
+			$of(u"Ɣinya"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("GP"_s),
@@ -346,7 +346,7 @@ $ObjectArray2* LocaleNames_kab::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("GQ"_s),
-			$of(u"\u0194inya Tasebgast"_s)
+			$of(u"Ɣinya Tasebgast"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("GR"_s),
@@ -362,7 +362,7 @@ $ObjectArray2* LocaleNames_kab::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("GW"_s),
-			$of(u"\u0194inya-Bisaw"_s)
+			$of(u"Ɣinya-Bisaw"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("GY"_s),
@@ -406,7 +406,7 @@ $ObjectArray2* LocaleNames_kab::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("IQ"_s),
-			$of(u"L\u025biraq"_s)
+			$of(u"Lɛiraq"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("IR"_s),
@@ -418,7 +418,7 @@ $ObjectArray2* LocaleNames_kab::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("IT"_s),
-			$of(u"\u1e6celyan"_s)
+			$of(u"Ṭelyan"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("JM"_s),
@@ -486,7 +486,7 @@ $ObjectArray2* LocaleNames_kab::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("LC"_s),
-			$of(u"San Lu\u010dya"_s)
+			$of(u"San Lučya"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("LI"_s),
@@ -502,11 +502,11 @@ $ObjectArray2* LocaleNames_kab::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("LS"_s),
-			$of(u"Lizu\u1e6du"_s)
+			$of(u"Lizuṭu"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("LT"_s),
-			$of(u"Li\u1e6dwanya"_s)
+			$of(u"Liṭwanya"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("LU"_s),
@@ -534,7 +534,7 @@ $ObjectArray2* LocaleNames_kab::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("MG"_s),
-			$of(u"Mada\u0263ecqer"_s)
+			$of(u"Madaɣecqer"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("MH"_s),
@@ -562,7 +562,7 @@ $ObjectArray2* LocaleNames_kab::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("MR"_s),
-			$of(u"Muri\u1e6danya"_s)
+			$of(u"Muriṭanya"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("MS"_s),
@@ -570,7 +570,7 @@ $ObjectArray2* LocaleNames_kab::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("MT"_s),
-			$of(u"Mal\u1e6d"_s)
+			$of(u"Malṭ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("MU"_s),
@@ -646,7 +646,7 @@ $ObjectArray2* LocaleNames_kab::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("OM"_s),
-			$of(u"\u0190uman"_s)
+			$of(u"Ɛuman"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("PA"_s),
@@ -662,7 +662,7 @@ $ObjectArray2* LocaleNames_kab::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("PG"_s),
-			$of(u"\u0194inya Tamaynut Tapaput"_s)
+			$of(u"Ɣinya Tamaynut Tapaput"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("PH"_s),
@@ -690,7 +690,7 @@ $ObjectArray2* LocaleNames_kab::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("PS"_s),
-			$of(u"Falis\u1e6din d \u0194ezza"_s)
+			$of(u"Falisṭin d Ɣezza"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("PT"_s),
@@ -706,7 +706,7 @@ $ObjectArray2* LocaleNames_kab::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("QA"_s),
-			$of(u"Qa\u1e6dar"_s)
+			$of(u"Qaṭar"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("RE"_s),
@@ -726,7 +726,7 @@ $ObjectArray2* LocaleNames_kab::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("SA"_s),
-			$of(u"Su\u025budiya Ta\u025brabt"_s)
+			$of(u"Suɛudiya Taɛrabt"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("SB"_s),
@@ -774,7 +774,7 @@ $ObjectArray2* LocaleNames_kab::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("SO"_s),
-			$of(u"\u1e62umal"_s)
+			$of(u"Ṣumal"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("SR"_s),
@@ -798,19 +798,19 @@ $ObjectArray2* LocaleNames_kab::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("TC"_s),
-			$of(u"\u1e6curk d Tegzirin n Kaykus"_s)
+			$of(u"Ṭurk d Tegzirin n Kaykus"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("TD"_s),
-			$of(u"\u010cad"_s)
+			$of(u"Čad"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("TG"_s),
-			$of(u"\u1e6cugu"_s)
+			$of(u"Ṭugu"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("TH"_s),
-			$of(u"\u1e6cayland"_s)
+			$of(u"Ṭayland"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("TJ"_s),
@@ -818,7 +818,7 @@ $ObjectArray2* LocaleNames_kab::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("TK"_s),
-			$of(u"\u1e6cuklu"_s)
+			$of(u"Ṭuklu"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("TL"_s),
@@ -826,7 +826,7 @@ $ObjectArray2* LocaleNames_kab::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("TM"_s),
-			$of(u"\u1e6curkmanistan"_s)
+			$of(u"Ṭurkmanistan"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("TN"_s),
@@ -834,27 +834,27 @@ $ObjectArray2* LocaleNames_kab::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("TO"_s),
-			$of(u"\u1e6cunga"_s)
+			$of(u"Ṭunga"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("TR"_s),
-			$of(u"\u1e6curk"_s)
+			$of(u"Ṭurk"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("TT"_s),
-			$of(u"\u1e6crindad d \u1e6cubagu"_s)
+			$of(u"Ṭrindad d Ṭubagu"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("TV"_s),
-			$of(u"\u1e6cuvalu"_s)
+			$of(u"Ṭuvalu"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("TW"_s),
-			$of(u"\u1e6caywan"_s)
+			$of(u"Ṭaywan"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("TZ"_s),
-			$of(u"\u1e6canzanya"_s)
+			$of(u"Ṭanzanya"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("UA"_s),
@@ -862,7 +862,7 @@ $ObjectArray2* LocaleNames_kab::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("UG"_s),
-			$of(u"U\u0263anda"_s)
+			$of(u"Uɣanda"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("US"_s),
@@ -898,7 +898,7 @@ $ObjectArray2* LocaleNames_kab::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("VN"_s),
-			$of(u"Vye\u1e6dnam"_s)
+			$of(u"Vyeṭnam"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("VU"_s),
@@ -918,7 +918,7 @@ $ObjectArray2* LocaleNames_kab::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("YT"_s),
-			$of(u"Mayu\u1e6d"_s)
+			$of(u"Mayuṭ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ZA"_s),
@@ -942,7 +942,7 @@ $ObjectArray2* LocaleNames_kab::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ar"_s),
-			$of(u"Ta\u025brabt"_s)
+			$of(u"Taɛrabt"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("be"_s),
@@ -958,7 +958,7 @@ $ObjectArray2* LocaleNames_kab::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("cs"_s),
-			$of(u"Ta\u010dikit"_s)
+			$of(u"Tačikit"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("de"_s),
@@ -1006,7 +1006,7 @@ $ObjectArray2* LocaleNames_kab::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("it"_s),
-			$of(u"Ta\u1e6dalyanit"_s)
+			$of(u"Taṭalyanit"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ja"_s),
@@ -1038,7 +1038,7 @@ $ObjectArray2* LocaleNames_kab::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("nl"_s),
-			$of(u"Tadu\u010dit"_s)
+			$of(u"Tadučit"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pa"_s),
@@ -1066,7 +1066,7 @@ $ObjectArray2* LocaleNames_kab::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("so"_s),
-			$of(u"Ta\u1e63umalit"_s)
+			$of(u"Taṣumalit"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sv"_s),
@@ -1074,15 +1074,15 @@ $ObjectArray2* LocaleNames_kab::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ta"_s),
-			$of(u"Ta\u1e6damulit"_s)
+			$of(u"Taṭamulit"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("th"_s),
-			$of(u"Ta\u1e6daylundit"_s)
+			$of(u"Taṭaylundit"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("tr"_s),
-			$of(u"Ta\u1e6durkit"_s)
+			$of(u"Taṭurkit"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("uk"_s),
@@ -1094,7 +1094,7 @@ $ObjectArray2* LocaleNames_kab::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("vi"_s),
-			$of(u"Tabyi\u1e6dnamit"_s)
+			$of(u"Tabyiṭnamit"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("yo"_s),

@@ -42,31 +42,31 @@ $ObjectArray2* FormatData_gd::getContents() {
 	$var($StringArray, metaValue_MonthNames, $new($StringArray, {
 		"dhen Fhaoilleach"_s,
 		"dhen Ghearran"_s,
-		u"dhen Mh\u00e0rt"_s,
+		u"dhen Mhàrt"_s,
 		"dhen Ghiblean"_s,
-		u"dhen Ch\u00e8itean"_s,
-		u"dhen \u00d2gmhios"_s,
+		u"dhen Chèitean"_s,
+		u"dhen Ògmhios"_s,
 		"dhen Iuchar"_s,
-		u"dhen L\u00f9nastal"_s,
+		u"dhen Lùnastal"_s,
 		"dhen t-Sultain"_s,
-		u"dhen D\u00e0mhair"_s,
+		u"dhen Dàmhair"_s,
 		"dhen t-Samhain"_s,
-		u"dhen D\u00f9bhlachd"_s,
+		u"dhen Dùbhlachd"_s,
 		""_s
 	}));
 	$var($StringArray, metaValue_MonthAbbreviations, $new($StringArray, {
 		"Faoi"_s,
 		"Gearr"_s,
-		u"M\u00e0rt"_s,
+		u"Màrt"_s,
 		"Gibl"_s,
-		u"C\u00e8it"_s,
-		u"\u00d2gmh"_s,
+		u"Cèit"_s,
+		u"Ògmh"_s,
 		"Iuch"_s,
-		u"L\u00f9na"_s,
+		u"Lùna"_s,
 		"Sult"_s,
-		u"D\u00e0mh"_s,
+		u"Dàmh"_s,
 		"Samh"_s,
-		u"D\u00f9bh"_s,
+		u"Dùbh"_s,
 		""_s
 	}));
 	$var($StringArray, metaValue_MonthNarrows, $new($StringArray, {
@@ -75,7 +75,7 @@ $ObjectArray2* FormatData_gd::getContents() {
 		"M"_s,
 		"G"_s,
 		"C"_s,
-		u"\u00d2"_s,
+		u"Ò"_s,
 		"I"_s,
 		"L"_s,
 		"S"_s,
@@ -85,9 +85,9 @@ $ObjectArray2* FormatData_gd::getContents() {
 		""_s
 	}));
 	$var($StringArray, metaValue_DayNames, $new($StringArray, {
-		u"DiD\u00f2mhnaich"_s,
+		u"DiDòmhnaich"_s,
 		"DiLuain"_s,
-		u"DiM\u00e0irt"_s,
+		u"DiMàirt"_s,
 		"DiCiadain"_s,
 		"DiarDaoin"_s,
 		"DihAoine"_s,
@@ -168,14 +168,14 @@ $ObjectArray2* FormatData_gd::getContents() {
 		""_s
 	}));
 	$var($StringArray, metaValue_java_time_roc_long_Eras, $new($StringArray, {
-		u"Ro Ph. na S\u00ecne"_s,
-		u"M\u00edngu\u00f3"_s
+		u"Ro Ph. na Sìne"_s,
+		u"Mínguó"_s
 	}));
 	$var($StringArray, metaValue_java_time_roc_Eras, $new($StringArray, {
 		"Ro PnS"_s,
-		u"M\u00edngu\u00f3"_s
+		u"Mínguó"_s
 	}));
-	$var($String, metaValue_calendarname_gregorian, u"Am M\u00ecosachan Griogarach"_s);
+	$var($String, metaValue_calendarname_gregorian, u"Am Mìosachan Griogarach"_s);
 	$var($StringArray, metaValue_adlm_NumberElements, $new($StringArray, {
 		"."_s,
 		","_s,
@@ -185,23 +185,23 @@ $ObjectArray2* FormatData_gd::getContents() {
 		"#"_s,
 		"-"_s,
 		"E"_s,
-		u"\u2030"_s,
-		u"\u221e"_s,
+		u"‰"_s,
+		u"∞"_s,
 		"NaN"_s,
 		""_s,
 		""_s
 	}));
 	$var($StringArray, metaValue_adlm_NumberPatterns, $new($StringArray, {
 		"#,##0.###"_s,
-		u"\u00a4\u00a0#,##0.00"_s,
+		u"¤ #,##0.00"_s,
 		"#,##0%"_s,
 		""_s
 	}));
 	$var($StringArray, metaValue_fullwide_NumberPatterns, $new($StringArray, {
 		"#,##0.###"_s,
-		u"\u00a4#,##0.00"_s,
+		u"¤#,##0.00"_s,
 		"#,##0%"_s,
-		u"\u00a4#,##0.00;(\u00a4#,##0.00)"_s
+		u"¤#,##0.00;(¤#,##0.00)"_s
 	}));
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
@@ -214,7 +214,7 @@ $ObjectArray2* FormatData_gd::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.islamic-umalqura"_s),
-			$of(u"Am M\u00ecosachan Ioslamach (Umm al-Qura)"_s)
+			$of(u"Am Mìosachan Ioslamach (Umm al-Qura)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("osma.NumberPatterns"_s),
@@ -231,12 +231,12 @@ $ObjectArray2* FormatData_gd::getContents() {
 				","_s,
 				";"_s,
 				"%"_s,
-				u"\u1a80"_s,
+				u"᪀"_s,
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
+				u"‰"_s,
+				u"∞"_s,
 				"NaN"_s,
 				""_s,
 				""_s
@@ -244,7 +244,7 @@ $ObjectArray2* FormatData_gd::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.islamic-civil"_s),
-			$of(u"Am M\u00ecosachan Ioslamach (cl\u00e0rach, linn s\u00ecobhalta)"_s)
+			$of(u"Am Mìosachan Ioslamach (clàrach, linn sìobhalta)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("talu.NumberElements"_s),
@@ -253,12 +253,12 @@ $ObjectArray2* FormatData_gd::getContents() {
 				","_s,
 				";"_s,
 				"%"_s,
-				u"\u19d0"_s,
+				u"᧐"_s,
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
+				u"‰"_s,
+				u"∞"_s,
 				"NaN"_s,
 				""_s,
 				""_s
@@ -279,12 +279,12 @@ $ObjectArray2* FormatData_gd::getContents() {
 				","_s,
 				";"_s,
 				"%"_s,
-				u"\uabf0"_s,
+				u"꯰"_s,
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
+				u"‰"_s,
+				u"∞"_s,
 				"NaN"_s,
 				""_s,
 				""_s
@@ -334,12 +334,12 @@ $ObjectArray2* FormatData_gd::getContents() {
 				","_s,
 				";"_s,
 				"%"_s,
-				u"\u0a66"_s,
+				u"੦"_s,
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
+				u"‰"_s,
+				u"∞"_s,
 				"NaN"_s,
 				""_s,
 				""_s
@@ -368,12 +368,12 @@ $ObjectArray2* FormatData_gd::getContents() {
 				","_s,
 				";"_s,
 				"%"_s,
-				u"\uaa50"_s,
+				u"꩐"_s,
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
+				u"‰"_s,
+				u"∞"_s,
 				"NaN"_s,
 				""_s,
 				""_s
@@ -394,16 +394,16 @@ $ObjectArray2* FormatData_gd::getContents() {
 		$$new($ObjectArray, {
 			$of("arab.NumberElements"_s),
 			$of($$new($StringArray, {
-				u"\u066b"_s,
-				u"\u066c"_s,
-				u"\u061b"_s,
-				u"\u066a"_s,
-				u"\u0660"_s,
+				u"٫"_s,
+				u"٬"_s,
+				u"؛"_s,
+				u"٪"_s,
+				u"٠"_s,
 				"#"_s,
 				u"\u061c-"_s,
-				u"\u0627\u0633"_s,
-				u"\u0609"_s,
-				u"\u221e"_s,
+				u"اس"_s,
+				u"؉"_s,
+				u"∞"_s,
 				"NaN"_s,
 				""_s,
 				""_s
@@ -432,12 +432,12 @@ $ObjectArray2* FormatData_gd::getContents() {
 				","_s,
 				";"_s,
 				"%"_s,
-				u"\u0966"_s,
+				u"०"_s,
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
+				u"‰"_s,
+				u"∞"_s,
 				"NaN"_s,
 				""_s,
 				""_s
@@ -469,7 +469,7 @@ $ObjectArray2* FormatData_gd::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.islamic"_s),
-			$of(u"Am M\u00ecosachan Ioslamach"_s)
+			$of(u"Am Mìosachan Ioslamach"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("java.time.roc.long.Eras"_s),
@@ -498,12 +498,12 @@ $ObjectArray2* FormatData_gd::getContents() {
 				","_s,
 				";"_s,
 				"%"_s,
-				u"\u1c50"_s,
+				u"᱐"_s,
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
+				u"‰"_s,
+				u"∞"_s,
 				"NaN"_s,
 				""_s,
 				""_s
@@ -540,12 +540,12 @@ $ObjectArray2* FormatData_gd::getContents() {
 				","_s,
 				";"_s,
 				"%"_s,
-				u"\u1090"_s,
+				u"႐"_s,
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
+				u"‰"_s,
+				u"∞"_s,
 				"NaN"_s,
 				""_s,
 				""_s
@@ -562,12 +562,12 @@ $ObjectArray2* FormatData_gd::getContents() {
 				","_s,
 				";"_s,
 				"%"_s,
-				u"\ua9d0"_s,
+				u"꧐"_s,
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
+				u"‰"_s,
+				u"∞"_s,
 				"NaN"_s,
 				""_s,
 				""_s
@@ -592,12 +592,12 @@ $ObjectArray2* FormatData_gd::getContents() {
 				","_s,
 				";"_s,
 				"%"_s,
-				u"\u0ed0"_s,
+				u"໐"_s,
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
+				u"‰"_s,
+				u"∞"_s,
 				"NaN"_s,
 				""_s,
 				""_s
@@ -610,12 +610,12 @@ $ObjectArray2* FormatData_gd::getContents() {
 				","_s,
 				";"_s,
 				"%"_s,
-				u"\u1bb0"_s,
+				u"᮰"_s,
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
+				u"‰"_s,
+				u"∞"_s,
 				"NaN"_s,
 				""_s,
 				""_s
@@ -636,12 +636,12 @@ $ObjectArray2* FormatData_gd::getContents() {
 				","_s,
 				";"_s,
 				"%"_s,
-				u"\ua900"_s,
+				u"꤀"_s,
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
+				u"‰"_s,
+				u"∞"_s,
 				"NaN"_s,
 				""_s,
 				""_s
@@ -686,12 +686,12 @@ $ObjectArray2* FormatData_gd::getContents() {
 				","_s,
 				";"_s,
 				"%"_s,
-				u"\u07c0"_s,
+				u"߀"_s,
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
+				u"‰"_s,
+				u"∞"_s,
 				"NaN"_s,
 				""_s,
 				""_s
@@ -708,12 +708,12 @@ $ObjectArray2* FormatData_gd::getContents() {
 				","_s,
 				";"_s,
 				"%"_s,
-				u"\u0f20"_s,
+				u"༠"_s,
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
+				u"‰"_s,
+				u"∞"_s,
 				"NaN"_s,
 				""_s,
 				""_s
@@ -742,12 +742,12 @@ $ObjectArray2* FormatData_gd::getContents() {
 				","_s,
 				";"_s,
 				"%"_s,
-				u"\u0ae6"_s,
+				u"૦"_s,
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
+				u"‰"_s,
+				u"∞"_s,
 				"NaN"_s,
 				""_s,
 				""_s
@@ -764,12 +764,12 @@ $ObjectArray2* FormatData_gd::getContents() {
 				","_s,
 				";"_s,
 				"%"_s,
-				u"\u1946"_s,
+				u"᥆"_s,
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
+				u"‰"_s,
+				u"∞"_s,
 				"NaN"_s,
 				""_s,
 				""_s
@@ -797,7 +797,7 @@ $ObjectArray2* FormatData_gd::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.regionFormat.daylight"_s),
-			$of(u"T\u00ecde samhraidh: {0}"_s)
+			$of(u"Tìde samhraidh: {0}"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("DatePatterns"_s),
@@ -831,12 +831,12 @@ $ObjectArray2* FormatData_gd::getContents() {
 				","_s,
 				";"_s,
 				"%"_s,
-				u"\ua620"_s,
+				u"꘠"_s,
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
+				u"‰"_s,
+				u"∞"_s,
 				"NaN"_s,
 				""_s,
 				""_s
@@ -861,16 +861,16 @@ $ObjectArray2* FormatData_gd::getContents() {
 		$$new($ObjectArray, {
 			$of("arabext.NumberElements"_s),
 			$of($$new($StringArray, {
-				u"\u066b"_s,
-				u"\u066c"_s,
-				u"\u061b"_s,
-				u"\u066a"_s,
-				u"\u06f0"_s,
+				u"٫"_s,
+				u"٬"_s,
+				u"؛"_s,
+				u"٪"_s,
+				u"۰"_s,
 				"#"_s,
 				"-"_s,
-				u"\u00d7\u06f1\u06f0^"_s,
-				u"\u0609"_s,
-				u"\u221e"_s,
+				u"×۱۰^"_s,
+				u"؉"_s,
+				u"∞"_s,
 				"NaN"_s,
 				""_s,
 				""_s
@@ -915,12 +915,12 @@ $ObjectArray2* FormatData_gd::getContents() {
 				","_s,
 				";"_s,
 				"%"_s,
-				u"\u1040"_s,
+				u"၀"_s,
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
+				u"‰"_s,
+				u"∞"_s,
 				"NaN"_s,
 				""_s,
 				""_s
@@ -943,7 +943,7 @@ $ObjectArray2* FormatData_gd::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.regionFormat.standard"_s),
-			$of(u"Bun-\u00e0m: {0}"_s)
+			$of(u"Bun-àm: {0}"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("tamldec.NumberElements"_s),
@@ -952,12 +952,12 @@ $ObjectArray2* FormatData_gd::getContents() {
 				","_s,
 				";"_s,
 				"%"_s,
-				u"\u0be6"_s,
+				u"௦"_s,
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
+				u"‰"_s,
+				u"∞"_s,
 				"NaN"_s,
 				""_s,
 				""_s
@@ -969,7 +969,7 @@ $ObjectArray2* FormatData_gd::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.japanese"_s),
-			$of(u"Am M\u00ecosachan Seapanach"_s)
+			$of(u"Am Mìosachan Seapanach"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("roc.MonthAbbreviations"_s),
@@ -982,12 +982,12 @@ $ObjectArray2* FormatData_gd::getContents() {
 				","_s,
 				";"_s,
 				"%"_s,
-				u"\u09e6"_s,
+				u"০"_s,
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
+				u"‰"_s,
+				u"∞"_s,
 				"NaN"_s,
 				""_s,
 				""_s
@@ -996,8 +996,8 @@ $ObjectArray2* FormatData_gd::getContents() {
 		$$new($ObjectArray, {
 			$of("long.Eras"_s),
 			$of($$new($StringArray, {
-				u"Ro Chr\u00ecosta"_s,
-				u"An d\u00e8idh Chr\u00ecosta"_s
+				u"Ro Chrìosta"_s,
+				u"An dèidh Chrìosta"_s
 			}))
 		}),
 		$$new($ObjectArray, {
@@ -1011,12 +1011,12 @@ $ObjectArray2* FormatData_gd::getContents() {
 				","_s,
 				";"_s,
 				"%"_s,
-				u"\ua8d0"_s,
+				u"꣐"_s,
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
+				u"‰"_s,
+				u"∞"_s,
 				"NaN"_s,
 				""_s,
 				""_s
@@ -1056,11 +1056,11 @@ $ObjectArray2* FormatData_gd::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.roc"_s),
-			$of(u"M\u00ecosachan Poblachd na S\u00ecne"_s)
+			$of(u"Mìosachan Poblachd na Sìne"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("field.month"_s),
-			$of(u"m\u00ecos"_s)
+			$of(u"mìos"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("osma.NumberElements"_s),
@@ -1093,12 +1093,12 @@ $ObjectArray2* FormatData_gd::getContents() {
 				","_s,
 				";"_s,
 				"%"_s,
-				u"\u0ce6"_s,
+				u"೦"_s,
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
+				u"‰"_s,
+				u"∞"_s,
 				"NaN"_s,
 				""_s,
 				""_s
@@ -1111,12 +1111,12 @@ $ObjectArray2* FormatData_gd::getContents() {
 				","_s,
 				";"_s,
 				"%"_s,
-				u"\u1b50"_s,
+				u"᭐"_s,
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
+				u"‰"_s,
+				u"∞"_s,
 				"NaN"_s,
 				""_s,
 				""_s
@@ -1140,9 +1140,9 @@ $ObjectArray2* FormatData_gd::getContents() {
 				""_s,
 				""_s,
 				""_s,
-				u"{one:0\' \'mh\u00ecle two:0\' \'mh\u00ecle few:0\' \'m\u00ecltean other:0\' \'m\u00ecle}"_s,
-				u"{one:00\' \'mh\u00ecle two:00\' \'mh\u00ecle few:00\' \'m\u00ecltean other:00\' \'m\u00ecle}"_s,
-				u"{one:000\' \'mh\u00ecle two:000\' \'mh\u00ecle few:000\' \'m\u00ecltean other:000\' \'m\u00ecle}"_s,
+				u"{one:0\' \'mhìle two:0\' \'mhìle few:0\' \'mìltean other:0\' \'mìle}"_s,
+				u"{one:00\' \'mhìle two:00\' \'mhìle few:00\' \'mìltean other:00\' \'mìle}"_s,
+				u"{one:000\' \'mhìle two:000\' \'mhìle few:000\' \'mìltean other:000\' \'mìle}"_s,
 				"{one:0\' \'mhillean two:0\' \'mhillean few:0\' \'milleanan other:0\' \'millean}"_s,
 				"{one:00\' \'mhillean two:00\' \'mhillean few:00\' \'milleanan other:00\' \'millean}"_s,
 				"{one:000\' \'mhillean two:000\' \'mhillean few:000\' \'milleanan other:000\' \'millean}"_s,
@@ -1177,12 +1177,12 @@ $ObjectArray2* FormatData_gd::getContents() {
 				","_s,
 				";"_s,
 				"%"_s,
-				u"\u0d66"_s,
+				u"൦"_s,
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
+				u"‰"_s,
+				u"∞"_s,
 				"NaN"_s,
 				""_s,
 				""_s
@@ -1195,12 +1195,12 @@ $ObjectArray2* FormatData_gd::getContents() {
 				","_s,
 				";"_s,
 				"%"_s,
-				u"\u1c40"_s,
+				u"᱀"_s,
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
+				u"‰"_s,
+				u"∞"_s,
 				"NaN"_s,
 				""_s,
 				""_s
@@ -1217,12 +1217,12 @@ $ObjectArray2* FormatData_gd::getContents() {
 				","_s,
 				";"_s,
 				"%"_s,
-				u"\uff10"_s,
+				u"０"_s,
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
+				u"‰"_s,
+				u"∞"_s,
 				"NaN"_s,
 				""_s,
 				""_s
@@ -1243,12 +1243,12 @@ $ObjectArray2* FormatData_gd::getContents() {
 				","_s,
 				";"_s,
 				"%"_s,
-				u"\u17e0"_s,
+				u"០"_s,
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
+				u"‰"_s,
+				u"∞"_s,
 				"NaN"_s,
 				""_s,
 				""_s
@@ -1256,7 +1256,7 @@ $ObjectArray2* FormatData_gd::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.zone"_s),
-			$of(u"roinn-t\u00ecde"_s)
+			$of(u"roinn-tìde"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("japanese.QuarterAbbreviations"_s),
@@ -1275,7 +1275,7 @@ $ObjectArray2* FormatData_gd::getContents() {
 			$of("arab.NumberPatterns"_s),
 			$of($$new($StringArray, {
 				"#,##0.###"_s,
-				u"#,##0.00\u00a0\u00a4"_s,
+				u"#,##0.00 ¤"_s,
 				"#,##0%"_s,
 				""_s
 			}))
@@ -1287,12 +1287,12 @@ $ObjectArray2* FormatData_gd::getContents() {
 				","_s,
 				";"_s,
 				"%"_s,
-				u"\u0e50"_s,
+				u"๐"_s,
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
+				u"‰"_s,
+				u"∞"_s,
 				"NaN"_s,
 				""_s,
 				""_s
@@ -1336,12 +1336,12 @@ $ObjectArray2* FormatData_gd::getContents() {
 				","_s,
 				";"_s,
 				"%"_s,
-				u"\u1810"_s,
+				u"᠐"_s,
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
+				u"‰"_s,
+				u"∞"_s,
 				"NaN"_s,
 				""_s,
 				""_s
@@ -1386,12 +1386,12 @@ $ObjectArray2* FormatData_gd::getContents() {
 				","_s,
 				";"_s,
 				"%"_s,
-				u"\u0c66"_s,
+				u"౦"_s,
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
+				u"‰"_s,
+				u"∞"_s,
 				"NaN"_s,
 				""_s,
 				""_s
@@ -1420,12 +1420,12 @@ $ObjectArray2* FormatData_gd::getContents() {
 				","_s,
 				";"_s,
 				"%"_s,
-				u"\u1a90"_s,
+				u"᪐"_s,
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
+				u"‰"_s,
+				u"∞"_s,
 				"NaN"_s,
 				""_s,
 				""_s
@@ -1458,12 +1458,12 @@ $ObjectArray2* FormatData_gd::getContents() {
 				","_s,
 				";"_s,
 				"%"_s,
-				u"\u0b66"_s,
+				u"୦"_s,
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
+				u"‰"_s,
+				u"∞"_s,
 				"NaN"_s,
 				""_s,
 				""_s
@@ -1515,11 +1515,11 @@ $ObjectArray2* FormatData_gd::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.hour"_s),
-			$of(u"uair a th\u00ecde"_s)
+			$of(u"uair a thìde"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.buddhist"_s),
-			$of(u"Am M\u00ecosachan Budach"_s)
+			$of(u"Am Mìosachan Budach"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kali.NumberPatterns"_s),
@@ -1534,16 +1534,16 @@ $ObjectArray2* FormatData_gd::getContents() {
 			$of($$new($StringArray, {
 				"Am Faoilleach"_s,
 				"An Gearran"_s,
-				u"Am M\u00e0rt"_s,
+				u"Am Màrt"_s,
 				"An Giblean"_s,
-				u"An C\u00e8itean"_s,
-				u"An t-\u00d2gmhios"_s,
+				u"An Cèitean"_s,
+				u"An t-Ògmhios"_s,
 				"An t-Iuchar"_s,
-				u"An L\u00f9nastal"_s,
+				u"An Lùnastal"_s,
 				"An t-Sultain"_s,
-				u"An D\u00e0mhair"_s,
+				u"An Dàmhair"_s,
 				"An t-Samhain"_s,
-				u"An D\u00f9bhlachd"_s,
+				u"An Dùbhlachd"_s,
 				""_s
 			}))
 		}),

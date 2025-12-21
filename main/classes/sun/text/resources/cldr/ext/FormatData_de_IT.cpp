@@ -40,9 +40,9 @@ void FormatData_de_IT::init$() {
 $ObjectArray2* FormatData_de_IT::getContents() {
 	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_MonthNames, $new($StringArray, {
-		u"J\u00e4nner"_s,
+		u"Jänner"_s,
 		"Februar"_s,
-		u"M\u00e4rz"_s,
+		u"März"_s,
 		"April"_s,
 		"Mai"_s,
 		"Juni"_s,
@@ -55,9 +55,9 @@ $ObjectArray2* FormatData_de_IT::getContents() {
 		""_s
 	}));
 	$var($StringArray, metaValue_MonthAbbreviations, $new($StringArray, {
-		u"J\u00e4n."_s,
+		u"Jän."_s,
 		"Feb."_s,
-		u"M\u00e4rz"_s,
+		u"März"_s,
 		"Apr."_s,
 		"Mai"_s,
 		"Juni"_s,
@@ -105,9 +105,9 @@ $ObjectArray2* FormatData_de_IT::getContents() {
 		$$new($ObjectArray, {
 			$of("standalone.MonthAbbreviations"_s),
 			$of($$new($StringArray, {
-				u"J\u00e4n"_s,
+				u"Jän"_s,
 				"Feb"_s,
-				u"M\u00e4r"_s,
+				u"Mär"_s,
 				"Apr"_s,
 				"Mai"_s,
 				"Jun"_s,

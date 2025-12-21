@@ -45,10 +45,10 @@ $ObjectArray2* JavaTimeSupplementary_ga::getContents() {
 		"R4"_s
 	}));
 	$var($StringArray, sharedQuarterNames, $new($StringArray, {
-		u"1\u00fa r\u00e1ithe"_s,
-		u"2\u00fa r\u00e1ithe"_s,
-		u"3\u00fa r\u00e1ithe"_s,
-		u"4\u00fa r\u00e1ithe"_s
+		u"1ú ráithe"_s,
+		u"2ú ráithe"_s,
+		u"3ú ráithe"_s,
+		u"4ú ráithe"_s
 	}));
 	$var($StringArray, sharedAmPmMarkers, $new($StringArray, {
 		"a.m."_s,
@@ -63,20 +63,20 @@ $ObjectArray2* JavaTimeSupplementary_ga::getContents() {
 	$var($StringArray, sharedDayAbbreviations, $new($StringArray, {
 		"Domh"_s,
 		"Luan"_s,
-		u"M\u00e1irt"_s,
-		u"C\u00e9ad"_s,
-		u"D\u00e9ar"_s,
+		u"Máirt"_s,
+		u"Céad"_s,
+		u"Déar"_s,
 		"Aoine"_s,
 		"Sath"_s
 	}));
 	$var($StringArray, sharedDayNames, $new($StringArray, {
-		u"D\u00e9 Domhnaigh"_s,
-		u"D\u00e9 Luain"_s,
-		u"D\u00e9 M\u00e1irt"_s,
-		u"D\u00e9 C\u00e9adaoin"_s,
-		u"D\u00e9ardaoin"_s,
-		u"D\u00e9 hAoine"_s,
-		u"D\u00e9 Sathairn"_s
+		u"Dé Domhnaigh"_s,
+		u"Dé Luain"_s,
+		u"Dé Máirt"_s,
+		u"Dé Céadaoin"_s,
+		u"Déardaoin"_s,
+		u"Dé hAoine"_s,
+		u"Dé Sathairn"_s
 	}));
 	$var($StringArray, sharedDayNarrows, $new($StringArray, {
 		"D"_s,
@@ -108,27 +108,27 @@ $ObjectArray2* JavaTimeSupplementary_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.buddhist"_s),
-			$of(u"F\u00e9ilire B\u00fada\u00edoch"_s)
+			$of(u"Féilire Búdaíoch"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.gregorian"_s),
-			$of(u"F\u00e9ilire Ghr\u00e9ag\u00f3ra"_s)
+			$of(u"Féilire Ghréagóra"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.gregory"_s),
-			$of(u"F\u00e9ilire Ghr\u00e9ag\u00f3ra"_s)
+			$of(u"Féilire Ghréagóra"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.islamic"_s),
-			$of(u"F\u00e9ilire Iosl\u00e1mach"_s)
+			$of(u"Féilire Ioslámach"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.japanese"_s),
-			$of(u"F\u00e9ilire Seap\u00e1nach"_s)
+			$of(u"Féilire Seapánach"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.roc"_s),
-			$of(u"F\u00e9ilire T\u00e9av\u00e1nach"_s)
+			$of(u"Féilire Téavánach"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("field.dayperiod"_s),
@@ -136,7 +136,7 @@ $ObjectArray2* JavaTimeSupplementary_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.era"_s),
-			$of(u"R\u00e9"_s)
+			$of(u"Ré"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("field.hour"_s),
@@ -144,11 +144,11 @@ $ObjectArray2* JavaTimeSupplementary_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.minute"_s),
-			$of(u"N\u00f3im\u00e9ad"_s)
+			$of(u"Nóiméad"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("field.month"_s),
-			$of(u"M\u00ed"_s)
+			$of(u"Mí"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("field.second"_s),
@@ -160,7 +160,7 @@ $ObjectArray2* JavaTimeSupplementary_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.weekday"_s),
-			$of(u"L\u00e1 na seachtaine"_s)
+			$of(u"Lá na seachtaine"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("field.year"_s),
@@ -221,7 +221,7 @@ $ObjectArray2* JavaTimeSupplementary_ga::getContents() {
 		$$new($ObjectArray, {
 			$of("java.time.long.Eras"_s),
 			$of($$new($StringArray, {
-				u"Roimh Chr\u00edost"_s,
+				u"Roimh Chríost"_s,
 				"Anno Domini"_s
 			}))
 		}),
@@ -261,14 +261,14 @@ $ObjectArray2* JavaTimeSupplementary_ga::getContents() {
 			$of($$new($StringArray, {
 				"Ean"_s,
 				"Feabh"_s,
-				u"M\u00e1rta"_s,
+				u"Márta"_s,
 				"Aib"_s,
 				"Beal"_s,
 				"Meith"_s,
-				u"I\u00fail"_s,
-				u"L\u00fan"_s,
-				u"MF\u00f3mh"_s,
-				u"DF\u00f3mh"_s,
+				u"Iúil"_s,
+				u"Lún"_s,
+				u"MFómh"_s,
+				u"DFómh"_s,
 				"Samh"_s,
 				"Noll"_s,
 				""_s
@@ -277,16 +277,16 @@ $ObjectArray2* JavaTimeSupplementary_ga::getContents() {
 		$$new($ObjectArray, {
 			$of("roc.MonthNames"_s),
 			$of($$new($StringArray, {
-				u"Ean\u00e1ir"_s,
+				u"Eanáir"_s,
 				"Feabhra"_s,
-				u"M\u00e1rta"_s,
-				u"Aibre\u00e1n"_s,
+				u"Márta"_s,
+				u"Aibreán"_s,
 				"Bealtaine"_s,
 				"Meitheamh"_s,
-				u"I\u00fail"_s,
-				u"L\u00fanasa"_s,
-				u"Me\u00e1n F\u00f3mhair"_s,
-				u"Deireadh F\u00f3mhair"_s,
+				u"Iúil"_s,
+				u"Lúnasa"_s,
+				u"Meán Fómhair"_s,
+				u"Deireadh Fómhair"_s,
 				"Samhain"_s,
 				"Nollaig"_s,
 				""_s

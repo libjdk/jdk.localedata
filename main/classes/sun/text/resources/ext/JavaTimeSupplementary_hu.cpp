@@ -45,10 +45,10 @@ $ObjectArray2* JavaTimeSupplementary_hu::getContents() {
 		"N4"_s
 	}));
 	$var($StringArray, sharedQuarterNames, $new($StringArray, {
-		u"I. negyed\u00e9v"_s,
-		u"II. negyed\u00e9v"_s,
-		u"III. negyed\u00e9v"_s,
-		u"IV. negyed\u00e9v"_s
+		u"I. negyedév"_s,
+		u"II. negyedév"_s,
+		u"III. negyedév"_s,
+		u"IV. negyedév"_s
 	}));
 	$var($StringArray, sharedQuarterNarrows, $new($StringArray, {
 		"1."_s,
@@ -76,12 +76,12 @@ $ObjectArray2* JavaTimeSupplementary_hu::getContents() {
 		"Szo"_s
 	}));
 	$var($StringArray, sharedDayNames, $new($StringArray, {
-		u"vas\u00e1rnap"_s,
-		u"h\u00e9tf\u0151"_s,
+		u"vasárnap"_s,
+		u"hétfő"_s,
 		"kedd"_s,
 		"szerda"_s,
-		u"cs\u00fct\u00f6rt\u00f6k"_s,
-		u"p\u00e9ntek"_s,
+		u"csütörtök"_s,
+		u"péntek"_s,
 		"szombat"_s
 	}));
 	$var($StringArray, sharedDayNarrows, $new($StringArray, {
@@ -114,7 +114,7 @@ $ObjectArray2* JavaTimeSupplementary_hu::getContents() {
 		"BK"_s
 	}));
 	$var($StringArray, sharedShortEras, $new($StringArray, {
-		u"R.O.C. el\u0151tt"_s,
+		u"R.O.C. előtt"_s,
 		""_s
 	}));
 	return $new($ObjectArray2, {
@@ -132,31 +132,31 @@ $ObjectArray2* JavaTimeSupplementary_hu::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.buddhist"_s),
-			$of(u"Buddhista napt\u00e1r"_s)
+			$of(u"Buddhista naptár"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.gregorian"_s),
-			$of(u"Gergely-napt\u00e1r"_s)
+			$of(u"Gergely-naptár"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.gregory"_s),
-			$of(u"Gergely-napt\u00e1r"_s)
+			$of(u"Gergely-naptár"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.islamic"_s),
-			$of(u"Iszl\u00e1m napt\u00e1r"_s)
+			$of(u"Iszlám naptár"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.islamic-civil"_s),
-			$of(u"Iszl\u00e1m civil napt\u00e1r"_s)
+			$of(u"Iszlám civil naptár"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.japanese"_s),
-			$of(u"Jap\u00e1n napt\u00e1r"_s)
+			$of(u"Japán naptár"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.roc"_s),
-			$of(u"K\u00ednai k\u00f6zt\u00e1rsas\u00e1gi napt\u00e1r"_s)
+			$of(u"Kínai köztársasági naptár"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("field.dayperiod"_s),
@@ -164,11 +164,11 @@ $ObjectArray2* JavaTimeSupplementary_hu::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.era"_s),
-			$of(u"\u00e9ra"_s)
+			$of(u"éra"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("field.hour"_s),
-			$of(u"\u00f3ra"_s)
+			$of(u"óra"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("field.minute"_s),
@@ -176,27 +176,27 @@ $ObjectArray2* JavaTimeSupplementary_hu::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.month"_s),
-			$of(u"h\u00f3nap"_s)
+			$of(u"hónap"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("field.second"_s),
-			$of(u"m\u00e1sodperc"_s)
+			$of(u"másodperc"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("field.week"_s),
-			$of(u"h\u00e9t"_s)
+			$of(u"hét"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("field.weekday"_s),
-			$of(u"h\u00e9t napja"_s)
+			$of(u"hét napja"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("field.year"_s),
-			$of(u"\u00e9v"_s)
+			$of(u"év"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("field.zone"_s),
-			$of(u"id\u0151z\u00f3na"_s)
+			$of(u"időzóna"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("islamic.AmPmMarkers"_s),
@@ -227,16 +227,16 @@ $ObjectArray2* JavaTimeSupplementary_hu::getContents() {
 			$of($$new($StringArray, {
 				"Moh."_s,
 				"Saf."_s,
-				u"R\u00e9b. 1"_s,
-				u"R\u00e9b. 2"_s,
+				u"Réb. 1"_s,
+				u"Réb. 2"_s,
 				"Dsem. I"_s,
 				"Dsem. II"_s,
 				"Red."_s,
 				"Sab."_s,
 				"Ram."_s,
 				"Sev."_s,
-				u"Ds\u00fcl k."_s,
-				u"Ds\u00fcl h."_s,
+				u"Dsül k."_s,
+				u"Dsül h."_s,
 				""_s
 			}))
 		}),
@@ -245,16 +245,16 @@ $ObjectArray2* JavaTimeSupplementary_hu::getContents() {
 			$of($$new($StringArray, {
 				"Moharrem"_s,
 				"Safar"_s,
-				u"R\u00e9bi el avvel"_s,
-				u"R\u00e9bi el accher"_s,
-				u"Dsem\u00e1di el avvel"_s,
-				u"Dsem\u00e1di el accher"_s,
+				u"Rébi el avvel"_s,
+				u"Rébi el accher"_s,
+				u"Dsemádi el avvel"_s,
+				u"Dsemádi el accher"_s,
 				"Redseb"_s,
-				u"Sab\u00e1n"_s,
-				u"Ramad\u00e1n"_s,
-				u"Sevv\u00e1l"_s,
-				u"Ds\u00fcl kade"_s,
-				u"Ds\u00fcl hedse"_s,
+				u"Sabán"_s,
+				u"Ramadán"_s,
+				u"Sevvál"_s,
+				u"Dsül kade"_s,
+				u"Dsül hedse"_s,
 				""_s
 			}))
 		}),
@@ -322,8 +322,8 @@ $ObjectArray2* JavaTimeSupplementary_hu::getContents() {
 		$$new($ObjectArray, {
 			$of("java.time.long.Eras"_s),
 			$of($$new($StringArray, {
-				u"id\u0151sz\u00e1m\u00edt\u00e1sunk el\u0151tt"_s,
-				u"id\u0151sz\u00e1m\u00edt\u00e1sunk szerint"_s
+				u"időszámításunk előtt"_s,
+				u"időszámításunk szerint"_s
 			}))
 		}),
 		$$new($ObjectArray, {
@@ -366,11 +366,11 @@ $ObjectArray2* JavaTimeSupplementary_hu::getContents() {
 			$of($$new($StringArray, {
 				"jan."_s,
 				"febr."_s,
-				u"m\u00e1rc."_s,
-				u"\u00e1pr."_s,
-				u"m\u00e1j."_s,
-				u"j\u00fan."_s,
-				u"j\u00fal."_s,
+				u"márc."_s,
+				u"ápr."_s,
+				u"máj."_s,
+				u"jún."_s,
+				u"júl."_s,
 				"aug."_s,
 				"szept."_s,
 				"okt."_s,
@@ -382,16 +382,16 @@ $ObjectArray2* JavaTimeSupplementary_hu::getContents() {
 		$$new($ObjectArray, {
 			$of("roc.MonthNames"_s),
 			$of($$new($StringArray, {
-				u"janu\u00e1r"_s,
-				u"febru\u00e1r"_s,
-				u"m\u00e1rcius"_s,
-				u"\u00e1prilis"_s,
-				u"m\u00e1jus"_s,
-				u"j\u00fanius"_s,
-				u"j\u00falius"_s,
+				u"január"_s,
+				u"február"_s,
+				u"március"_s,
+				u"április"_s,
+				u"május"_s,
+				u"június"_s,
+				u"július"_s,
 				"augusztus"_s,
 				"szeptember"_s,
-				u"okt\u00f3ber"_s,
+				u"október"_s,
 				"november"_s,
 				"december"_s,
 				""_s
@@ -403,7 +403,7 @@ $ObjectArray2* JavaTimeSupplementary_hu::getContents() {
 				"J"_s,
 				"F"_s,
 				"M"_s,
-				u"\u00c1"_s,
+				u"Á"_s,
 				"M"_s,
 				"J"_s,
 				"J"_s,

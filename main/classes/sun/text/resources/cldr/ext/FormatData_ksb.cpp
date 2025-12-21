@@ -114,7 +114,7 @@ $ObjectArray2* FormatData_ksb::getContents() {
 	$var($StringArray, metaValue_QuarterNames, $new($StringArray, {
 		"Lobo ya bosi"_s,
 		"Lobo ya mbii"_s,
-		u"Lobo ya nnd\u2019atu"_s,
+		u"Lobo ya nnd’atu"_s,
 		"Lobo ya nne"_s
 	}));
 	$var($StringArray, metaValue_QuarterAbbreviations, $new($StringArray, {
@@ -166,7 +166,7 @@ $ObjectArray2* FormatData_ksb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.year"_s),
-			$of(u"Ng\u2019waka"_s)
+			$of(u"Ng’waka"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("islamic.QuarterAbbreviations"_s),
@@ -310,8 +310,8 @@ $ObjectArray2* FormatData_ksb::getContents() {
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
+				u"‰"_s,
+				u"∞"_s,
 				"NaN"_s,
 				""_s,
 				""_s
@@ -387,7 +387,7 @@ $ObjectArray2* FormatData_ksb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.month"_s),
-			$of(u"Ng\u2019ezi"_s)
+			$of(u"Ng’ezi"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("buddhist.DatePatterns"_s),
@@ -486,7 +486,7 @@ $ObjectArray2* FormatData_ksb::getContents() {
 			$of("latn.NumberPatterns"_s),
 			$of($$new($StringArray, {
 				"#,##0.###"_s,
-				u"#,##0.00\u00a4"_s,
+				u"#,##0.00¤"_s,
 				"#,##0%"_s,
 				""_s
 			}))

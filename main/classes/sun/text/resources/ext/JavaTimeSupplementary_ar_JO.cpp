@@ -39,18 +39,18 @@ void JavaTimeSupplementary_ar_JO::init$() {
 $ObjectArray2* JavaTimeSupplementary_ar_JO::getContents() {
 	$useLocalCurrentObjectStackCache();
 	$var($StringArray, sharedMonthNames, $new($StringArray, {
-		u"\u0643\u0627\u0646\u0648\u0646 \u0627\u0644\u062b\u0627\u0646\u064a"_s,
-		u"\u0634\u0628\u0627\u0637"_s,
-		u"\u0622\u0630\u0627\u0631"_s,
-		u"\u0646\u064a\u0633\u0627\u0646"_s,
-		u"\u0623\u064a\u0627\u0631"_s,
-		u"\u062d\u0632\u064a\u0631\u0627\u0646"_s,
-		u"\u062a\u0645\u0648\u0632"_s,
-		u"\u0622\u0628"_s,
-		u"\u0623\u064a\u0644\u0648\u0644"_s,
-		u"\u062a\u0634\u0631\u064a\u0646 \u0627\u0644\u0623\u0648\u0644"_s,
-		u"\u062a\u0634\u0631\u064a\u0646 \u0627\u0644\u062b\u0627\u0646\u064a"_s,
-		u"\u0643\u0627\u0646\u0648\u0646 \u0627\u0644\u0623\u0648\u0644"_s,
+		u"كانون الثاني"_s,
+		u"شباط"_s,
+		u"آذار"_s,
+		u"نيسان"_s,
+		u"أيار"_s,
+		u"حزيران"_s,
+		u"تموز"_s,
+		u"آب"_s,
+		u"أيلول"_s,
+		u"تشرين الأول"_s,
+		u"تشرين الثاني"_s,
+		u"كانون الأول"_s,
 		""_s
 	}));
 	return $new($ObjectArray2, {
@@ -65,18 +65,18 @@ $ObjectArray2* JavaTimeSupplementary_ar_JO::getContents() {
 		$$new($ObjectArray, {
 			$of("roc.MonthNarrows"_s),
 			$of($$new($StringArray, {
-				u"\u0643"_s,
-				u"\u0634"_s,
-				u"\u0622"_s,
-				u"\u0646"_s,
-				u"\u0623"_s,
-				u"\u062d"_s,
-				u"\u062a"_s,
-				u"\u0622"_s,
-				u"\u0623"_s,
-				u"\u062a"_s,
-				u"\u062a"_s,
-				u"\u0643"_s,
+				u"ك"_s,
+				u"ش"_s,
+				u"آ"_s,
+				u"ن"_s,
+				u"أ"_s,
+				u"ح"_s,
+				u"ت"_s,
+				u"آ"_s,
+				u"أ"_s,
+				u"ت"_s,
+				u"ت"_s,
+				u"ك"_s,
 				""_s
 			}))
 		})

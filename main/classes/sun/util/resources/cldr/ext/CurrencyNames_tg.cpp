@@ -46,7 +46,7 @@ $ObjectArray2* CurrencyNames_tg::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("TJS"_s),
-			$of(u"\u0441\u043e\u043c."_s)
+			$of(u"сом."_s)
 		}),
 		$$new($ObjectArray, {
 			$of("USD"_s),
@@ -54,43 +54,43 @@ $ObjectArray2* CurrencyNames_tg::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("brl"_s),
-			$of(u"\u0420\u0435\u0430\u043b\u0438 \u0431\u0440\u0430\u0437\u0438\u043b\u0438\u044f\u0433\u04e3"_s)
+			$of(u"Реали бразилиягӣ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cny"_s),
-			$of(u"\u0418\u0435\u043d\u0430\u0438 \u0445\u0438\u0442\u043e\u04e3"_s)
+			$of(u"Иенаи хитоӣ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("eur"_s),
-			$of(u"\u0415\u0432\u0440\u043e"_s)
+			$of(u"Евро"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gbp"_s),
-			$of(u"\u0424\u0443\u043d\u0442 \u0441\u0442\u0435\u0440\u043b\u0438\u043d\u0433\u0438 \u0431\u0440\u0438\u0442\u0430\u043d\u04e3"_s)
+			$of(u"Фунт стерлинги британӣ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("inr"_s),
-			$of(u"\u0420\u0443\u043f\u0438\u044f\u0438 \u04b3\u0438\u043d\u0434\u0443\u0441\u0442\u043e\u043d\u04e3"_s)
+			$of(u"Рупияи ҳиндустонӣ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("jpy"_s),
-			$of(u"\u0418\u0435\u043d\u0430\u0438 \u044f\u043f\u043e\u043d\u04e3"_s)
+			$of(u"Иенаи японӣ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("rub"_s),
-			$of(u"\u0420\u0443\u0431\u043b\u0438 \u0440\u0443\u0441\u04e3"_s)
+			$of(u"Рубли русӣ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("tjs"_s),
-			$of(u"\u0421\u043e\u043c\u043e\u043d\u04e3"_s)
+			$of(u"Сомонӣ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("usd"_s),
-			$of(u"\u0414\u043e\u043b\u043b\u0430\u0440\u0438 \u0418\u041c\u0410"_s)
+			$of(u"Доллари ИМА"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xxx"_s),
-			$of(u"\u0410\u0441\u044a\u043e\u0440\u0438 \u043d\u043e\u043c\u0430\u044a\u043b\u0443\u043c"_s)
+			$of(u"Асъори номаълум"_s)
 		})
 	}));
 	return data;

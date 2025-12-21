@@ -43,7 +43,7 @@ void TimeZoneNames_sr_Latn_BA::init$() {
 $ObjectArray2* TimeZoneNames_sr_Latn_BA::getContents() {
 	$useLocalCurrentObjectStackCache();
 	$var($StringArray, GMT, $new($StringArray, {
-		u"Srednje vrijeme po Grini\u010du"_s,
+		u"Srednje vrijeme po Griniču"_s,
 		"GMT"_s,
 		""_s,
 		""_s,
@@ -75,11 +75,11 @@ $ObjectArray2* TimeZoneNames_sr_Latn_BA::getContents() {
 		""_s
 	}));
 	$var($StringArray, Fiji, $new($StringArray, {
-		u"Fid\u017ei, standardno vrijeme"_s,
+		u"Fidži, standardno vrijeme"_s,
 		""_s,
-		u"Fid\u017ei, ljetnje vrijeme"_s,
+		u"Fidži, ljetnje vrijeme"_s,
 		""_s,
-		u"Fid\u017ei vrijeme"_s,
+		u"Fidži vrijeme"_s,
 		""_s
 	}));
 	$var($StringArray, Gulf, $new($StringArray, {
@@ -131,7 +131,7 @@ $ObjectArray2* TimeZoneNames_sr_Latn_BA::getContents() {
 		""_s
 	}));
 	$var($StringArray, Truk, $new($StringArray, {
-		u"\u010cuk vrijeme"_s,
+		u"Čuk vrijeme"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -147,11 +147,11 @@ $ObjectArray2* TimeZoneNames_sr_Latn_BA::getContents() {
 		""_s
 	}));
 	$var($StringArray, Chile, $new($StringArray, {
-		u"\u010cile, standardno vrijeme"_s,
+		u"Čile, standardno vrijeme"_s,
 		""_s,
-		u"\u010cile, ljetnje vrijeme"_s,
+		u"Čile, ljetnje vrijeme"_s,
 		""_s,
-		u"\u010cile vrijeme"_s,
+		u"Čile vrijeme"_s,
 		""_s
 	}));
 	$var($StringArray, China, $new($StringArray, {
@@ -235,7 +235,7 @@ $ObjectArray2* TimeZoneNames_sr_Latn_BA::getContents() {
 		""_s
 	}));
 	$var($StringArray, Syowa, $new($StringArray, {
-		u"\u0160ova vrijeme"_s,
+		u"Šova vrijeme"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -291,11 +291,11 @@ $ObjectArray2* TimeZoneNames_sr_Latn_BA::getContents() {
 		""_s
 	}));
 	$var($StringArray, Easter, $new($StringArray, {
-		u"Uskr\u0161nja ostrva, standardno vrijeme"_s,
+		u"Uskršnja ostrva, standardno vrijeme"_s,
 		""_s,
-		u"Uskr\u0161nja ostrva, ljetnje vrijeme"_s,
+		u"Uskršnja ostrva, ljetnje vrijeme"_s,
 		""_s,
-		u"Uskr\u0161nja ostrva vrijeme"_s,
+		u"Uskršnja ostrva vrijeme"_s,
 		""_s
 	}));
 	$var($StringArray, Guyana, $new($StringArray, {
@@ -315,7 +315,7 @@ $ObjectArray2* TimeZoneNames_sr_Latn_BA::getContents() {
 		""_s
 	}));
 	$var($StringArray, Kosrae, $new($StringArray, {
-		u"Ko\u0161re vrijeme"_s,
+		u"Košre vrijeme"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -411,11 +411,11 @@ $ObjectArray2* TimeZoneNames_sr_Latn_BA::getContents() {
 		""_s
 	}));
 	$var($StringArray, Chatham, $new($StringArray, {
-		u"\u010catam, standardno vrijeme"_s,
+		u"Čatam, standardno vrijeme"_s,
 		""_s,
-		u"\u010catam, ljetnje vrijeme"_s,
+		u"Čatam, ljetnje vrijeme"_s,
 		""_s,
-		u"\u010catam vrijeme"_s,
+		u"Čatam vrijeme"_s,
 		""_s
 	}));
 	$var($StringArray, ETC_UTC, $new($StringArray, {
@@ -563,7 +563,7 @@ $ObjectArray2* TimeZoneNames_sr_Latn_BA::getContents() {
 		""_s
 	}));
 	$var($StringArray, Chamorro, $new($StringArray, {
-		u"\u010camoro vrijeme"_s,
+		u"Čamoro vrijeme"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -659,7 +659,7 @@ $ObjectArray2* TimeZoneNames_sr_Latn_BA::getContents() {
 		""_s
 	}));
 	$var($StringArray, Christmas, $new($StringArray, {
-		u"Bo\u017ei\u0107no ostrvo vrijeme"_s,
+		u"Božićno ostrvo vrijeme"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -747,19 +747,19 @@ $ObjectArray2* TimeZoneNames_sr_Latn_BA::getContents() {
 		""_s
 	}));
 	$var($StringArray, Azerbaijan, $new($StringArray, {
-		u"Azerbejd\u017ean, standardno vrijeme"_s,
+		u"Azerbejdžan, standardno vrijeme"_s,
 		""_s,
-		u"Azerbejd\u017ean, ljetnje vrijeme"_s,
+		u"Azerbejdžan, ljetnje vrijeme"_s,
 		""_s,
-		u"Azerbejd\u017ean vrijeme"_s,
+		u"Azerbejdžan vrijeme"_s,
 		""_s
 	}));
 	$var($StringArray, Bangladesh, $new($StringArray, {
-		u"Banglade\u0161, standardno vrijeme"_s,
+		u"Bangladeš, standardno vrijeme"_s,
 		""_s,
-		u"Banglade\u0161, ljetnje vrijeme"_s,
+		u"Bangladeš, ljetnje vrijeme"_s,
 		""_s,
-		u"Banglade\u0161 vrijeme"_s,
+		u"Bangladeš vrijeme"_s,
 		""_s
 	}));
 	$var($StringArray, Cape_Verde, $new($StringArray, {
@@ -771,7 +771,7 @@ $ObjectArray2* TimeZoneNames_sr_Latn_BA::getContents() {
 		""_s
 	}));
 	$var($StringArray, East_Timor, $new($StringArray, {
-		u"Isto\u010dni Timor vrijeme"_s,
+		u"Istočni Timor vrijeme"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -779,7 +779,7 @@ $ObjectArray2* TimeZoneNames_sr_Latn_BA::getContents() {
 		""_s
 	}));
 	$var($StringArray, Seychelles, $new($StringArray, {
-		u"Sej\u0161eli vrijeme"_s,
+		u"Sejšeli vrijeme"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -787,7 +787,7 @@ $ObjectArray2* TimeZoneNames_sr_Latn_BA::getContents() {
 		""_s
 	}));
 	$var($StringArray, Tajikistan, $new($StringArray, {
-		u"Tad\u017eikistan vrijeme"_s,
+		u"Tadžikistan vrijeme"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -899,7 +899,7 @@ $ObjectArray2* TimeZoneNames_sr_Latn_BA::getContents() {
 		""_s
 	}));
 	$var($StringArray, South_Georgia, $new($StringArray, {
-		u"Ju\u017ena D\u017eord\u017eija vrijeme"_s,
+		u"Južna Džordžija vrijeme"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -915,7 +915,7 @@ $ObjectArray2* TimeZoneNames_sr_Latn_BA::getContents() {
 		""_s
 	}));
 	$var($StringArray, Africa_Central, $new($StringArray, {
-		u"Centralno-afri\u010dko vrijeme"_s,
+		u"Centralno-afričko vrijeme"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -923,7 +923,7 @@ $ObjectArray2* TimeZoneNames_sr_Latn_BA::getContents() {
 		""_s
 	}));
 	$var($StringArray, Africa_Eastern, $new($StringArray, {
-		u"Isto\u010dno-afri\u010dko vrijeme"_s,
+		u"Istočno-afričko vrijeme"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -931,15 +931,15 @@ $ObjectArray2* TimeZoneNames_sr_Latn_BA::getContents() {
 		""_s
 	}));
 	$var($StringArray, Africa_Western, $new($StringArray, {
-		u"Zapadno-afri\u010dko standardno vrijeme"_s,
+		u"Zapadno-afričko standardno vrijeme"_s,
 		""_s,
-		u"Zapadno-afri\u010dko ljetnje vrijeme"_s,
+		u"Zapadno-afričko ljetnje vrijeme"_s,
 		""_s,
-		u"Zapadno-afri\u010dko vrijeme"_s,
+		u"Zapadno-afričko vrijeme"_s,
 		""_s
 	}));
 	$var($StringArray, DumontDUrville, $new($StringArray, {
-		u"Dimon d\u2019Irvil vrijeme"_s,
+		u"Dimon d’Irvil vrijeme"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -955,11 +955,11 @@ $ObjectArray2* TimeZoneNames_sr_Latn_BA::getContents() {
 		"CET"_s
 	}));
 	$var($StringArray, Europe_Eastern, $new($StringArray, {
-		u"Isto\u010dnoevropsko standardno vrijeme"_s,
+		u"Istočnoevropsko standardno vrijeme"_s,
 		"EET"_s,
-		u"Isto\u010dnoevropsko ljetnje vrijeme"_s,
+		u"Istočnoevropsko ljetnje vrijeme"_s,
 		"EEST"_s,
-		u"Isto\u010dnoevropsko vrijeme"_s,
+		u"Istočnoevropsko vrijeme"_s,
 		"EET"_s
 	}));
 	$var($StringArray, Europe_Western, $new($StringArray, {
@@ -971,15 +971,15 @@ $ObjectArray2* TimeZoneNames_sr_Latn_BA::getContents() {
 		"WET"_s
 	}));
 	$var($StringArray, Mexico_Pacific, $new($StringArray, {
-		u"Meksi\u010dki Pacifik, standardno vrijeme"_s,
+		u"Meksički Pacifik, standardno vrijeme"_s,
 		""_s,
-		u"Meksi\u010dki Pacifik, ljetnje vrijeme"_s,
+		u"Meksički Pacifik, ljetnje vrijeme"_s,
 		""_s,
-		u"Meksi\u010dki Pacifik"_s,
+		u"Meksički Pacifik"_s,
 		""_s
 	}));
 	$var($StringArray, Africa_Southern, $new($StringArray, {
-		u"Ju\u017eno-afri\u010dko vrijeme"_s,
+		u"Južno-afričko vrijeme"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -987,31 +987,31 @@ $ObjectArray2* TimeZoneNames_sr_Latn_BA::getContents() {
 		""_s
 	}));
 	$var($StringArray, America_Central, $new($StringArray, {
-		u"Sjevernoameri\u010dko centralno standardno vrijeme"_s,
+		u"Sjevernoameričko centralno standardno vrijeme"_s,
 		""_s,
-		u"Sjevernoameri\u010dko centralno ljetnje vrijeme"_s,
+		u"Sjevernoameričko centralno ljetnje vrijeme"_s,
 		""_s,
-		u"Sjevernoameri\u010dko centralno vrijeme"_s,
+		u"Sjevernoameričko centralno vrijeme"_s,
 		""_s
 	}));
 	$var($StringArray, America_Eastern, $new($StringArray, {
-		u"Sjevernoameri\u010dko isto\u010dno standardno vrijeme"_s,
+		u"Sjevernoameričko istočno standardno vrijeme"_s,
 		""_s,
-		u"Sjevernoameri\u010dko isto\u010dno ljetnje vrijeme"_s,
+		u"Sjevernoameričko istočno ljetnje vrijeme"_s,
 		""_s,
-		u"Sjevernoameri\u010dko isto\u010dno vrijeme"_s,
+		u"Sjevernoameričko istočno vrijeme"_s,
 		""_s
 	}));
 	$var($StringArray, America_Pacific, $new($StringArray, {
-		u"Sjevernoameri\u010dko pacifi\u010dko standardno vrijeme"_s,
+		u"Sjevernoameričko pacifičko standardno vrijeme"_s,
 		""_s,
-		u"Sjevernoameri\u010dko pacifi\u010dko letnje vrijeme"_s,
+		u"Sjevernoameričko pacifičko letnje vrijeme"_s,
 		""_s,
-		u"Sjevernoameri\u010dko pacifi\u010dko vrijeme"_s,
+		u"Sjevernoameričko pacifičko vrijeme"_s,
 		""_s
 	}));
 	$var($StringArray, French_Southern, $new($StringArray, {
-		u"Francusko ju\u017eno i antarkti\u010dko vrijeme"_s,
+		u"Francusko južno i antarktičko vrijeme"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -1051,15 +1051,15 @@ $ObjectArray2* TimeZoneNames_sr_Latn_BA::getContents() {
 		""_s
 	}));
 	$var($StringArray, America_Mountain, $new($StringArray, {
-		u"Sjevernoameri\u010dko planinsko standardno vrijeme"_s,
+		u"Sjevernoameričko planinsko standardno vrijeme"_s,
 		""_s,
-		u"Sjevernoameri\u010dko planinsko ljetnje vrijeme"_s,
+		u"Sjevernoameričko planinsko ljetnje vrijeme"_s,
 		""_s,
-		u"Sjevernoameri\u010dko planinsko vrijeme"_s,
+		u"Sjevernoameričko planinsko vrijeme"_s,
 		""_s
 	}));
 	$var($StringArray, Marshall_Islands, $new($StringArray, {
-		u"Mar\u0161alska Ostrva vrijeme"_s,
+		u"Maršalska Ostrva vrijeme"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -1091,11 +1091,11 @@ $ObjectArray2* TimeZoneNames_sr_Latn_BA::getContents() {
 		""_s
 	}));
 	$var($StringArray, Australia_Eastern, $new($StringArray, {
-		u"Australijsko isto\u010dno standardno vrijeme"_s,
+		u"Australijsko istočno standardno vrijeme"_s,
 		""_s,
-		u"Australijsko isto\u010dno ljetnje vrijeme"_s,
+		u"Australijsko istočno ljetnje vrijeme"_s,
 		""_s,
-		u"Australijsko isto\u010dno vrijeme"_s,
+		u"Australijsko istočno vrijeme"_s,
 		""_s
 	}));
 	$var($StringArray, Australia_Western, $new($StringArray, {
@@ -1107,11 +1107,11 @@ $ObjectArray2* TimeZoneNames_sr_Latn_BA::getContents() {
 		""_s
 	}));
 	$var($StringArray, Greenland_Eastern, $new($StringArray, {
-		u"Isto\u010dni Grenland, standardno vrijeme"_s,
+		u"Istočni Grenland, standardno vrijeme"_s,
 		""_s,
-		u"Isto\u010dni Grenland, ljetnje vrijeme"_s,
+		u"Istočni Grenland, ljetnje vrijeme"_s,
 		""_s,
-		u"Isto\u010dni Grenland"_s,
+		u"Istočni Grenland"_s,
 		""_s
 	}));
 	$var($StringArray, Greenland_Western, $new($StringArray, {
@@ -1131,7 +1131,7 @@ $ObjectArray2* TimeZoneNames_sr_Latn_BA::getContents() {
 		""_s
 	}));
 	$var($StringArray, Indonesia_Eastern, $new($StringArray, {
-		u"Isto\u010dno-indonezijsko vrijeme"_s,
+		u"Istočno-indonezijsko vrijeme"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -1147,7 +1147,7 @@ $ObjectArray2* TimeZoneNames_sr_Latn_BA::getContents() {
 		""_s
 	}));
 	$var($StringArray, Kazakhstan_Eastern, $new($StringArray, {
-		u"Isto\u010dno-kazahstansko vrijeme"_s,
+		u"Istočno-kazahstansko vrijeme"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -1810,7 +1810,7 @@ $ObjectArray2* TimeZoneNames_sr_Latn_BA::getContents() {
 		$$new($ObjectArray, {
 			$of("Europe/Dublin"_s),
 			$of($$new($StringArray, {
-				u"Srednje vrijeme po Grini\u010du"_s,
+				u"Srednje vrijeme po Griniču"_s,
 				"GMT"_s,
 				"Irska, standardno vrijeme"_s,
 				""_s,
@@ -1829,7 +1829,7 @@ $ObjectArray2* TimeZoneNames_sr_Latn_BA::getContents() {
 		$$new($ObjectArray, {
 			$of("Europe/London"_s),
 			$of($$new($StringArray, {
-				u"Srednje vrijeme po Grini\u010du"_s,
+				u"Srednje vrijeme po Griniču"_s,
 				"GMT"_s,
 				"Britanija, ljetnje vrijeme"_s,
 				""_s,
@@ -2040,7 +2040,7 @@ $ObjectArray2* TimeZoneNames_sr_Latn_BA::getContents() {
 		$$new($ObjectArray, {
 			$of("Europe/Belfast"_s),
 			$of($$new($StringArray, {
-				u"Srednje vrijeme po Grini\u010du"_s,
+				u"Srednje vrijeme po Griniču"_s,
 				"GMT"_s,
 				"Britanija, ljetnje vrijeme"_s,
 				""_s,
@@ -3026,7 +3026,7 @@ $ObjectArray2* TimeZoneNames_sr_Latn_BA::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Regina"_s),
-			$of(u"Red\u017eajna"_s)
+			$of(u"Redžajna"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Resolute"_s),
@@ -3034,7 +3034,7 @@ $ObjectArray2* TimeZoneNames_sr_Latn_BA::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/St_Johns"_s),
-			$of(u"Sent D\u017eons"_s)
+			$of(u"Sent Džons"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/St_Thomas"_s),
@@ -3090,7 +3090,7 @@ $ObjectArray2* TimeZoneNames_sr_Latn_BA::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Antarctica/DumontDUrville"_s),
-			$of(u"Dimon d\u2019Irvil"_s)
+			$of(u"Dimon d’Irvil"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/North_Dakota/Beulah"_s),

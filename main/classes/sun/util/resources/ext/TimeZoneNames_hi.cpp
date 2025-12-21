@@ -41,11 +41,11 @@ $ObjectArray2* TimeZoneNames_hi::getContents() {
 	return $new($ObjectArray2, {$$new($ObjectArray, {
 		$of("Asia/Calcutta"_s),
 		$of($$new($StringArray, {
-			u"\u092d\u093e\u0930\u0924\u0940\u092f \u0938\u092e\u092f"_s,
+			u"भारतीय समय"_s,
 			"IST"_s,
-			u"\u092d\u093e\u0930\u0924\u0940\u092f \u0938\u092e\u092f"_s,
+			u"भारतीय समय"_s,
 			"IST"_s,
-			u"\u092d\u093e\u0930\u0924\u0940\u092f \u0938\u092e\u092f"_s,
+			u"भारतीय समय"_s,
 			"IT"_s
 		}))
 	})});

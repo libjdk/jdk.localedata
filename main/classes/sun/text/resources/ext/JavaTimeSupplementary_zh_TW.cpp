@@ -39,43 +39,43 @@ void JavaTimeSupplementary_zh_TW::init$() {
 $ObjectArray2* JavaTimeSupplementary_zh_TW::getContents() {
 	$useLocalCurrentObjectStackCache();
 	$var($StringArray, sharedQuarterAbbreviations, $new($StringArray, {
-		u"1\u5b63"_s,
-		u"2\u5b63"_s,
-		u"3\u5b63"_s,
-		u"4\u5b63"_s
+		u"1季"_s,
+		u"2季"_s,
+		u"3季"_s,
+		u"4季"_s
 	}));
 	$var($StringArray, sharedQuarterNames, $new($StringArray, {
-		u"\u7b2c1\u5b63"_s,
-		u"\u7b2c2\u5b63"_s,
-		u"\u7b2c3\u5b63"_s,
-		u"\u7b2c4\u5b63"_s
+		u"第1季"_s,
+		u"第2季"_s,
+		u"第3季"_s,
+		u"第4季"_s
 	}));
 	$var($StringArray, sharedDayAbbreviations, $new($StringArray, {
-		u"\u9031\u65e5"_s,
-		u"\u9031\u4e00"_s,
-		u"\u9031\u4e8c"_s,
-		u"\u9031\u4e09"_s,
-		u"\u9031\u56db"_s,
-		u"\u9031\u4e94"_s,
-		u"\u9031\u516d"_s
+		u"週日"_s,
+		u"週一"_s,
+		u"週二"_s,
+		u"週三"_s,
+		u"週四"_s,
+		u"週五"_s,
+		u"週六"_s
 	}));
 	$var($StringArray, sharedEras, $new($StringArray, {
 		""_s,
-		u"\u4f0a\u65af\u862d\u66c6"_s
+		u"伊斯蘭曆"_s
 	}));
 	$var($StringArray, sharedMonthNames, $new($StringArray, {
-		u"\u7a46\u54c8\u862d\u59c6\u6708"_s,
-		u"\u8272\u6cd5\u723e\u6708"_s,
-		u"\u8cf4\u6bd4\u6708 I"_s,
-		u"\u8cf4\u6bd4\u6708 II"_s,
-		u"\u4e3b\u99ac\u9054\u6708 I"_s,
-		u"\u4e3b\u99ac\u9054\u6708 II"_s,
-		u"\u8cf4\u54f2\u535c\u6708"_s,
-		u"\u820d\u723e\u90a6\u6708"_s,
-		u"\u8cf4\u8cb7\u4e39\u6708"_s,
-		u"\u9583\u74e6\u9b6f\u6708"_s,
-		u"\u90fd\u723e\u5580\u723e\u5fb7\u6708"_s,
-		u"\u90fd\u723e\u9ed1\u54f2\u6708"_s,
+		u"穆哈蘭姆月"_s,
+		u"色法爾月"_s,
+		u"賴比月 I"_s,
+		u"賴比月 II"_s,
+		u"主馬達月 I"_s,
+		u"主馬達月 II"_s,
+		u"賴哲卜月"_s,
+		u"舍爾邦月"_s,
+		u"賴買丹月"_s,
+		u"閃瓦魯月"_s,
+		u"都爾喀爾德月"_s,
+		u"都爾黑哲月"_s,
 		""_s
 	}));
 	$var($StringArray, sharedTimePatterns, $new($StringArray, {
@@ -86,23 +86,23 @@ $ObjectArray2* JavaTimeSupplementary_zh_TW::getContents() {
 	}));
 	$var($StringArray, sharedJavaTimeLongEras, $new($StringArray, {
 		"BC"_s,
-		u"\u4f5b\u66c6"_s
+		u"佛曆"_s
 	}));
 	$var($StringArray, sharedJavaTimeShortEras, $new($StringArray, {
-		u"\u897f\u5143"_s,
-		u"\u660e\u6cbb"_s,
-		u"\u5927\u6b63"_s,
-		u"\u662d\u548c"_s,
-		u"\u5e73\u6210"_s,
-		u"\u4ee4\u548c"_s
+		u"西元"_s,
+		u"明治"_s,
+		u"大正"_s,
+		u"昭和"_s,
+		u"平成"_s,
+		u"令和"_s
 	}));
 	$var($StringArray, sharedJavaTimeShortEras2, $new($StringArray, {
-		u"\u897f\u5143\u524d"_s,
-		u"\u897f\u5143"_s
+		u"西元前"_s,
+		u"西元"_s
 	}));
 	$var($StringArray, sharedShortEras, $new($StringArray, {
-		u"\u6c11\u570b\u524d"_s,
-		u"\u6c11\u570b"_s
+		u"民國前"_s,
+		u"民國"_s
 	}));
 	return $new($ObjectArray2, {
 		$$new($ObjectArray, {
@@ -115,63 +115,63 @@ $ObjectArray2* JavaTimeSupplementary_zh_TW::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.buddhist"_s),
-			$of(u"\u4f5b\u66c6"_s)
+			$of(u"佛曆"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.gregorian"_s),
-			$of(u"\u516c\u66c6"_s)
+			$of(u"公曆"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.gregory"_s),
-			$of(u"\u516c\u66c6"_s)
+			$of(u"公曆"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.islamic"_s),
-			$of(u"\u4f0a\u65af\u862d\u66c6"_s)
+			$of(u"伊斯蘭曆"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.islamic-civil"_s),
-			$of(u"\u4f0a\u65af\u862d\u6c11\u7528\u66c6"_s)
+			$of(u"伊斯蘭民用曆"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.islamic-umalqura"_s),
-			$of(u"\u70cf\u59c6\u5eab\u62c9\u66c6"_s)
+			$of(u"烏姆庫拉曆"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.japanese"_s),
-			$of(u"\u65e5\u672c\u66c6"_s)
+			$of(u"日本曆"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.roc"_s),
-			$of(u"\u6c11\u570b\u66c6"_s)
+			$of(u"民國曆"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("field.era"_s),
-			$of(u"\u5e74\u4ee3"_s)
+			$of(u"年代"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("field.hour"_s),
-			$of(u"\u5c0f\u6642"_s)
+			$of(u"小時"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("field.minute"_s),
-			$of(u"\u5206\u9418"_s)
+			$of(u"分鐘"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("field.second"_s),
-			$of(u"\u79d2"_s)
+			$of(u"秒"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("field.week"_s),
-			$of(u"\u9031"_s)
+			$of(u"週"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("field.weekday"_s),
-			$of(u"\u9031\u5929"_s)
+			$of(u"週天"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("field.zone"_s),
-			$of(u"\u6642\u5340"_s)
+			$of(u"時區"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("islamic.DayAbbreviations"_s),
@@ -216,9 +216,9 @@ $ObjectArray2* JavaTimeSupplementary_zh_TW::getContents() {
 		$$new($ObjectArray, {
 			$of("java.time.buddhist.DatePatterns"_s),
 			$of($$new($StringArray, {
-				u"Gy\u5e74M\u6708d\u65e5EEEE"_s,
-				u"Gy\u5e74M\u6708d\u65e5"_s,
-				u"Gy\u5e74M\u6708d\u65e5"_s,
+				u"Gy年M月d日EEEE"_s,
+				u"Gy年M月d日"_s,
+				u"Gy年M月d日"_s,
 				"Gy/M/d"_s
 			}))
 		}),
@@ -233,8 +233,8 @@ $ObjectArray2* JavaTimeSupplementary_zh_TW::getContents() {
 		$$new($ObjectArray, {
 			$of("java.time.japanese.DatePatterns"_s),
 			$of($$new($StringArray, {
-				u"Gy\u5e74M\u6708d\u65e5EEEE"_s,
-				u"Gy\u5e74M\u6708d\u65e5"_s,
+				u"Gy年M月d日EEEE"_s,
+				u"Gy年M月d日"_s,
 				"Gy/M/d"_s,
 				"Gy/M/d"_s
 			}))
@@ -254,9 +254,9 @@ $ObjectArray2* JavaTimeSupplementary_zh_TW::getContents() {
 		$$new($ObjectArray, {
 			$of("java.time.roc.DatePatterns"_s),
 			$of($$new($StringArray, {
-				u"Gy\u5e74M\u6708d\u65e5 EEEE"_s,
-				u"Gy\u5e74M\u6708d\u65e5"_s,
-				u"Gy\u5e74M\u6708d\u65e5"_s,
+				u"Gy年M月d日 EEEE"_s,
+				u"Gy年M月d日"_s,
+				u"Gy年M月d日"_s,
 				"Gy/M/d"_s
 			}))
 		}),
@@ -267,9 +267,9 @@ $ObjectArray2* JavaTimeSupplementary_zh_TW::getContents() {
 		$$new($ObjectArray, {
 			$of("roc.DatePatterns"_s),
 			$of($$new($StringArray, {
-				u"GGGGy\u5e74M\u6708d\u65e5 EEEE"_s,
-				u"GGGGy\u5e74M\u6708d\u65e5"_s,
-				u"GGGGy\u5e74M\u6708d\u65e5"_s,
+				u"GGGGy年M月d日 EEEE"_s,
+				u"GGGGy年M月d日"_s,
+				u"GGGGy年M月d日"_s,
 				"GGGGy/M/d"_s
 			}))
 		}),
@@ -284,18 +284,18 @@ $ObjectArray2* JavaTimeSupplementary_zh_TW::getContents() {
 		$$new($ObjectArray, {
 			$of("roc.MonthNames"_s),
 			$of($$new($StringArray, {
-				u"1\u6708"_s,
-				u"2\u6708"_s,
-				u"3\u6708"_s,
-				u"4\u6708"_s,
-				u"5\u6708"_s,
-				u"6\u6708"_s,
-				u"7\u6708"_s,
-				u"8\u6708"_s,
-				u"9\u6708"_s,
-				u"10\u6708"_s,
-				u"11\u6708"_s,
-				u"12\u6708"_s,
+				u"1月"_s,
+				u"2月"_s,
+				u"3月"_s,
+				u"4月"_s,
+				u"5月"_s,
+				u"6月"_s,
+				u"7月"_s,
+				u"8月"_s,
+				u"9月"_s,
+				u"10月"_s,
+				u"11月"_s,
+				u"12月"_s,
 				""_s
 			}))
 		}),

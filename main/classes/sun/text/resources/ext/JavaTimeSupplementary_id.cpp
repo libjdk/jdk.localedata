@@ -102,8 +102,8 @@ $ObjectArray2* JavaTimeSupplementary_id::getContents() {
 	$var($StringArray, sharedJavaTimeLongEras, $new($StringArray, {
 		"M"_s,
 		"Meiji"_s,
-		u"Taish\u014d"_s,
-		u"Sh\u014dwa"_s,
+		u"Taishō"_s,
+		u"Shōwa"_s,
 		"Heisei"_s,
 		"Reiwa"_s
 	}));
@@ -217,8 +217,8 @@ $ObjectArray2* JavaTimeSupplementary_id::getContents() {
 				"Sha."_s,
 				"Ram."_s,
 				"Syaw."_s,
-				u"Dhu\u02bbl-Q."_s,
-				u"Dhu\u02bbl-H."_s,
+				u"Dhuʻl-Q."_s,
+				u"Dhuʻl-H."_s,
 				""_s
 			}))
 		}),
@@ -227,16 +227,16 @@ $ObjectArray2* JavaTimeSupplementary_id::getContents() {
 			$of($$new($StringArray, {
 				"Muharram"_s,
 				"Safar"_s,
-				u"Rabi\u02bb I"_s,
-				u"Rabi\u02bb II"_s,
+				u"Rabiʻ I"_s,
+				u"Rabiʻ II"_s,
 				"Jumada I"_s,
 				"Jumada II"_s,
 				"Rajab"_s,
-				u"Sya\u2019ban"_s,
+				u"Sya’ban"_s,
 				"Ramadhan"_s,
 				"Syawal"_s,
-				u"Dhu\u02bbl-Qi\u02bbdah"_s,
-				u"Dhu\u02bbl-Hijjah"_s,
+				u"Dhuʻl-Qiʻdah"_s,
+				u"Dhuʻl-Hijjah"_s,
 				""_s
 			}))
 		}),

@@ -39,37 +39,37 @@ void FormatData_ja::init$() {
 $ObjectArray2* FormatData_ja::getContents() {
 	$useLocalCurrentObjectStackCache();
 	$var($StringArray, japaneseEras, $new($StringArray, {
-		u"\u897f\u66a6"_s,
-		u"\u660e\u6cbb"_s,
-		u"\u5927\u6b63"_s,
-		u"\u662d\u548c"_s,
-		u"\u5e73\u6210"_s,
-		u"\u4ee4\u548c"_s
+		u"西暦"_s,
+		u"明治"_s,
+		u"大正"_s,
+		u"昭和"_s,
+		u"平成"_s,
+		u"令和"_s
 	}));
 	$var($StringArray, rocEras, $new($StringArray, {
-		u"\u6c11\u56fd\u524d"_s,
-		u"\u6c11\u56fd"_s
+		u"民国前"_s,
+		u"民国"_s
 	}));
 	$var($StringArray, gregoryEras, $new($StringArray, {
-		u"\u7d00\u5143\u524d"_s,
-		u"\u897f\u66a6"_s
+		u"紀元前"_s,
+		u"西暦"_s
 	}));
 	return $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("MonthNames"_s),
 			$of($$new($StringArray, {
-				u"1\u6708"_s,
-				u"2\u6708"_s,
-				u"3\u6708"_s,
-				u"4\u6708"_s,
-				u"5\u6708"_s,
-				u"6\u6708"_s,
-				u"7\u6708"_s,
-				u"8\u6708"_s,
-				u"9\u6708"_s,
-				u"10\u6708"_s,
-				u"11\u6708"_s,
-				u"12\u6708"_s,
+				u"1月"_s,
+				u"2月"_s,
+				u"3月"_s,
+				u"4月"_s,
+				u"5月"_s,
+				u"6月"_s,
+				u"7月"_s,
+				u"8月"_s,
+				u"9月"_s,
+				u"10月"_s,
+				u"11月"_s,
+				u"12月"_s,
 				""_s
 			}))
 		}),
@@ -94,44 +94,44 @@ $ObjectArray2* FormatData_ja::getContents() {
 		$$new($ObjectArray, {
 			$of("DayNames"_s),
 			$of($$new($StringArray, {
-				u"\u65e5\u66dc\u65e5"_s,
-				u"\u6708\u66dc\u65e5"_s,
-				u"\u706b\u66dc\u65e5"_s,
-				u"\u6c34\u66dc\u65e5"_s,
-				u"\u6728\u66dc\u65e5"_s,
-				u"\u91d1\u66dc\u65e5"_s,
-				u"\u571f\u66dc\u65e5"_s
+				u"日曜日"_s,
+				u"月曜日"_s,
+				u"火曜日"_s,
+				u"水曜日"_s,
+				u"木曜日"_s,
+				u"金曜日"_s,
+				u"土曜日"_s
 			}))
 		}),
 		$$new($ObjectArray, {
 			$of("DayAbbreviations"_s),
 			$of($$new($StringArray, {
-				u"\u65e5"_s,
-				u"\u6708"_s,
-				u"\u706b"_s,
-				u"\u6c34"_s,
-				u"\u6728"_s,
-				u"\u91d1"_s,
-				u"\u571f"_s
+				u"日"_s,
+				u"月"_s,
+				u"火"_s,
+				u"水"_s,
+				u"木"_s,
+				u"金"_s,
+				u"土"_s
 			}))
 		}),
 		$$new($ObjectArray, {
 			$of("DayNarrows"_s),
 			$of($$new($StringArray, {
-				u"\u65e5"_s,
-				u"\u6708"_s,
-				u"\u706b"_s,
-				u"\u6c34"_s,
-				u"\u6728"_s,
-				u"\u91d1"_s,
-				u"\u571f"_s
+				u"日"_s,
+				u"月"_s,
+				u"火"_s,
+				u"水"_s,
+				u"木"_s,
+				u"金"_s,
+				u"土"_s
 			}))
 		}),
 		$$new($ObjectArray, {
 			$of("AmPmMarkers"_s),
 			$of($$new($StringArray, {
-				u"\u5348\u524d"_s,
-				u"\u5348\u5f8c"_s
+				u"午前"_s,
+				u"午後"_s
 			}))
 		}),
 		$$new($ObjectArray, {
@@ -145,8 +145,8 @@ $ObjectArray2* FormatData_ja::getContents() {
 		$$new($ObjectArray, {
 			$of("buddhist.Eras"_s),
 			$of($$new($StringArray, {
-				u"\u7d00\u5143\u524d"_s,
-				u"\u4ecf\u66a6"_s
+				u"紀元前"_s,
+				u"仏暦"_s
 			}))
 		}),
 		$$new($ObjectArray, {
@@ -155,7 +155,7 @@ $ObjectArray2* FormatData_ja::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("japanese.FirstYear"_s),
-			$of($$new($StringArray, {u"\u5143"_s}))
+			$of($$new($StringArray, {u"元"_s}))
 		}),
 		$$new($ObjectArray, {
 			$of("NumberElements"_s),
@@ -168,15 +168,15 @@ $ObjectArray2* FormatData_ja::getContents() {
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
-				u"\ufffd"_s
+				u"‰"_s,
+				u"∞"_s,
+				u"�"_s
 			}))
 		}),
 		$$new($ObjectArray, {
 			$of("TimePatterns"_s),
 			$of($$new($StringArray, {
-				u"H\'\u6642\'mm\'\u5206\'ss\'\u79d2\' z"_s,
+				u"H\'時\'mm\'分\'ss\'秒\' z"_s,
 				"H:mm:ss z"_s,
 				"H:mm:ss"_s,
 				"H:mm"_s
@@ -185,7 +185,7 @@ $ObjectArray2* FormatData_ja::getContents() {
 		$$new($ObjectArray, {
 			$of("DatePatterns"_s),
 			$of($$new($StringArray, {
-				u"yyyy\'\u5e74\'M\'\u6708\'d\'\u65e5\'"_s,
+				u"yyyy\'年\'M\'月\'d\'日\'"_s,
 				"yyyy/MM/dd"_s,
 				"yyyy/MM/dd"_s,
 				"yy/MM/dd"_s
@@ -198,7 +198,7 @@ $ObjectArray2* FormatData_ja::getContents() {
 		$$new($ObjectArray, {
 			$of("japanese.DatePatterns"_s),
 			$of($$new($StringArray, {
-				u"GGGGyyyy\'\u5e74\'M\'\u6708\'d\'\u65e5\'"_s,
+				u"GGGGyyyy\'年\'M\'月\'d\'日\'"_s,
 				"Gy.MM.dd"_s,
 				"Gy.MM.dd"_s,
 				"Gy.MM.dd"_s
@@ -207,7 +207,7 @@ $ObjectArray2* FormatData_ja::getContents() {
 		$$new($ObjectArray, {
 			$of("japanese.TimePatterns"_s),
 			$of($$new($StringArray, {
-				u"H\'\u6642\'mm\'\u5206\'ss\'\u79d2\' z"_s,
+				u"H\'時\'mm\'分\'ss\'秒\' z"_s,
 				"H:mm:ss z"_s,
 				"H:mm:ss"_s,
 				"H:mm"_s

@@ -42,11 +42,11 @@ $ObjectArray2* CurrencyNames_ii::getContents() {
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("CNY"_s),
-			$of(u"\u00a5"_s)
+			$of(u"¥"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xxx"_s),
-			$of(u"\ua149\ua00b\ua41a\ua320\ua30b\ua180\ua386\ua0c0\ua00b\ua201\ua010\ua320"_s)
+			$of(u"ꅉꀋꐚꌠꌋꆀꎆꃀꀋꈁꀐꌠ"_s)
 		})
 	}));
 	return data;

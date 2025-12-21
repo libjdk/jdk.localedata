@@ -42,7 +42,7 @@ $ObjectArray2* CurrencyNames_ff_Adlm_GH::getContents() {
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("GHS"_s),
-			$of(u"GH\u20b5"_s)
+			$of(u"GH₵"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("GNF"_s),

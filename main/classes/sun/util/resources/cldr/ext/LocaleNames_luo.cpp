@@ -190,7 +190,7 @@ $ObjectArray2* LocaleNames_luo::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("CI"_s),
-			$of(u"C\u00f4te d"_s)
+			$of(u"Côte d"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("CK"_s),
@@ -710,7 +710,7 @@ $ObjectArray2* LocaleNames_luo::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("RE"_s),
-			$of(u"R\u00e9union"_s)
+			$of(u"Réunion"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("RO"_s),
@@ -782,7 +782,7 @@ $ObjectArray2* LocaleNames_luo::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ST"_s),
-			$of(u"S\u00e3o Tom\u00e9 gi Pr\u00edncipe"_s)
+			$of(u"São Tomé gi Príncipe"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("SV"_s),

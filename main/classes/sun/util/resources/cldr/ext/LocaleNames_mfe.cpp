@@ -94,7 +94,7 @@ $ObjectArray2* LocaleNames_mfe::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("AZ"_s),
-			$of(u"Azerba\u00efdjan"_s)
+			$of(u"Azerbaïdjan"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("BA"_s),
@@ -122,7 +122,7 @@ $ObjectArray2* LocaleNames_mfe::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("BH"_s),
-			$of(u"Bahre\u00efn"_s)
+			$of(u"Bahreïn"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("BI"_s),
@@ -190,7 +190,7 @@ $ObjectArray2* LocaleNames_mfe::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("CI"_s),
-			$of(u"C\u00f4te d\u2019Ivoire"_s)
+			$of(u"Côte d’Ivoire"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("CK"_s),
@@ -454,7 +454,7 @@ $ObjectArray2* LocaleNames_mfe::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("KN"_s),
-			$of(u"Saint-Christophe-ek-Ni\u00e9v\u00e8s"_s)
+			$of(u"Saint-Christophe-ek-Niévès"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("KP"_s),
@@ -750,7 +750,7 @@ $ObjectArray2* LocaleNames_mfe::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("SH"_s),
-			$of(u"Sainte-H\u00e9l\u00e8ne"_s)
+			$of(u"Sainte-Hélène"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("SI"_s),
@@ -782,7 +782,7 @@ $ObjectArray2* LocaleNames_mfe::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ST"_s),
-			$of(u"S\u00e3o Tome-ek-Pr\u00ednsip"_s)
+			$of(u"São Tome-ek-Prínsip"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("SV"_s),
@@ -798,7 +798,7 @@ $ObjectArray2* LocaleNames_mfe::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("TC"_s),
-			$of(u"Zil Tirk ek Ca\u00efcos"_s)
+			$of(u"Zil Tirk ek Caïcos"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("TD"_s),
@@ -1078,7 +1078,7 @@ $ObjectArray2* LocaleNames_mfe::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("th"_s),
-			$of(u"tha\u00ef"_s)
+			$of(u"thaï"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("tr"_s),

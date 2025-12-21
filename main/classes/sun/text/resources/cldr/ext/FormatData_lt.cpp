@@ -43,15 +43,15 @@ $ObjectArray2* FormatData_lt::getContents() {
 		"sausio"_s,
 		"vasario"_s,
 		"kovo"_s,
-		u"baland\u017eio"_s,
-		u"gegu\u017e\u0117s"_s,
-		u"bir\u017eelio"_s,
+		u"balandžio"_s,
+		u"gegužės"_s,
+		u"birželio"_s,
 		"liepos"_s,
-		u"rugpj\u016b\u010dio"_s,
-		u"rugs\u0117jo"_s,
+		u"rugpjūčio"_s,
+		u"rugsėjo"_s,
 		"spalio"_s,
-		u"lapkri\u010dio"_s,
-		u"gruod\u017eio"_s,
+		u"lapkričio"_s,
+		u"gruodžio"_s,
 		""_s
 	}));
 	$var($StringArray, metaValue_MonthAbbreviations, $new($StringArray, {
@@ -60,7 +60,7 @@ $ObjectArray2* FormatData_lt::getContents() {
 		"kov."_s,
 		"bal."_s,
 		"geg."_s,
-		u"bir\u017e."_s,
+		u"birž."_s,
 		"liep."_s,
 		"rugp."_s,
 		"rugs."_s,
@@ -88,10 +88,10 @@ $ObjectArray2* FormatData_lt::getContents() {
 		"sekmadienis"_s,
 		"pirmadienis"_s,
 		"antradienis"_s,
-		u"tre\u010diadienis"_s,
+		u"trečiadienis"_s,
 		"ketvirtadienis"_s,
 		"penktadienis"_s,
-		u"\u0161e\u0161tadienis"_s
+		u"šeštadienis"_s
 	}));
 	$var($StringArray, metaValue_DayAbbreviations, $new($StringArray, {
 		"sk"_s,
@@ -100,7 +100,7 @@ $ObjectArray2* FormatData_lt::getContents() {
 		"tr"_s,
 		"kt"_s,
 		"pn"_s,
-		u"\u0161t"_s
+		u"št"_s
 	}));
 	$var($StringArray, metaValue_DayNarrows, $new($StringArray, {
 		"S"_s,
@@ -109,7 +109,7 @@ $ObjectArray2* FormatData_lt::getContents() {
 		"T"_s,
 		"K"_s,
 		"P"_s,
-		u"\u0160"_s
+		u"Š"_s
 	}));
 	$var($StringArray, metaValue_QuarterNames, $new($StringArray, {
 		"I ketvirtis"_s,
@@ -124,13 +124,13 @@ $ObjectArray2* FormatData_lt::getContents() {
 		"IV k."_s
 	}));
 	$var($StringArray, metaValue_AmPmMarkers, $new($StringArray, {
-		u"prie\u0161piet"_s,
+		u"priešpiet"_s,
 		"popiet"_s,
 		"vidurnaktis"_s,
 		"perpiet"_s,
 		"rytas"_s,
 		""_s,
-		u"popiet\u0117"_s,
+		u"popietė"_s,
 		""_s,
 		"vakaras"_s,
 		""_s,
@@ -138,13 +138,13 @@ $ObjectArray2* FormatData_lt::getContents() {
 		""_s
 	}));
 	$var($StringArray, metaValue_narrow_AmPmMarkers, $new($StringArray, {
-		u"pr.\u00a0p."_s,
+		u"pr. p."_s,
 		"pop."_s,
 		"vidurnaktis"_s,
 		"perpiet"_s,
 		"rytas"_s,
 		""_s,
-		u"popiet\u0117"_s,
+		u"popietė"_s,
 		""_s,
 		"vakaras"_s,
 		""_s,
@@ -185,22 +185,22 @@ $ObjectArray2* FormatData_lt::getContents() {
 	}));
 	$var($StringArray, metaValue_java_time_japanese_long_Eras, $new($StringArray, {
 		"po Kristaus"_s,
-		u"Meid\u017ei"_s,
-		u"Tai\u0161o"_s,
-		u"\u0160ova"_s,
+		u"Meidži"_s,
+		u"Taišo"_s,
+		u"Šova"_s,
 		"Heisei"_s,
 		"Reiwa"_s
 	}));
 	$var($StringArray, metaValue_java_time_japanese_Eras, $new($StringArray, {
 		"po Kr."_s,
-		u"Meid\u017ei"_s,
-		u"Tai\u0161o"_s,
-		u"\u0160ova"_s,
+		u"Meidži"_s,
+		u"Taišo"_s,
+		u"Šova"_s,
 		"Heisei"_s,
 		"Reiwa"_s
 	}));
 	$var($StringArray, metaValue_java_time_roc_long_Eras, $new($StringArray, {
-		u"Prie\u0161 R.O.C."_s,
+		u"Prieš R.O.C."_s,
 		"R.O.C."_s
 	}));
 	$var($StringArray, metaValue_java_time_islamic_long_Eras, $new($StringArray, {
@@ -256,7 +256,7 @@ $ObjectArray2* FormatData_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.islamic-civil"_s),
-			$of(u"Islamo kalendorius (lentelinis, pilietin\u0117 era)"_s)
+			$of(u"Islamo kalendorius (lentelinis, pilietinė era)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("islamic.narrow.AmPmMarkers"_s),
@@ -280,7 +280,7 @@ $ObjectArray2* FormatData_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.regionFormat.standard"_s),
-			$of(u"\u017diemos laikas: {0}"_s)
+			$of(u"Žiemos laikas: {0}"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("japanese.abbreviated.AmPmMarkers"_s),
@@ -288,7 +288,7 @@ $ObjectArray2* FormatData_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.japanese"_s),
-			$of(u"japon\u0173 kalendorius"_s)
+			$of(u"japonų kalendorius"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("japanese.MonthNames"_s),
@@ -309,7 +309,7 @@ $ObjectArray2* FormatData_lt::getContents() {
 		$$new($ObjectArray, {
 			$of("long.Eras"_s),
 			$of($$new($StringArray, {
-				u"prie\u0161 Krist\u0173"_s,
+				u"prieš Kristų"_s,
 				"po Kristaus"_s
 			}))
 		}),
@@ -346,15 +346,15 @@ $ObjectArray2* FormatData_lt::getContents() {
 			$of("latn.NumberElements"_s),
 			$of($$new($StringArray, {
 				","_s,
-				u"\u00a0"_s,
+				u" "_s,
 				";"_s,
 				"%"_s,
 				"0"_s,
 				"#"_s,
-				u"\u2212"_s,
-				u"\u00d710^"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
+				u"−"_s,
+				u"×10^"_s,
+				u"‰"_s,
+				u"∞"_s,
 				"NaN"_s,
 				""_s,
 				""_s
@@ -374,7 +374,7 @@ $ObjectArray2* FormatData_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.minute"_s),
-			$of(u"minut\u0117"_s)
+			$of(u"minutė"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("japanese.long.Eras"_s),
@@ -390,7 +390,7 @@ $ObjectArray2* FormatData_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.dayperiod"_s),
-			$of(u"iki piet\u0173 / po piet\u0173"_s)
+			$of(u"iki pietų / po pietų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("standalone.MonthNarrows"_s),
@@ -418,7 +418,7 @@ $ObjectArray2* FormatData_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.month"_s),
-			$of(u"m\u0117nuo"_s)
+			$of(u"mėnuo"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("java.time.japanese.long.Eras"_s),
@@ -430,7 +430,7 @@ $ObjectArray2* FormatData_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.second"_s),
-			$of(u"sekund\u0117"_s)
+			$of(u"sekundė"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("DayAbbreviations"_s),
@@ -482,18 +482,18 @@ $ObjectArray2* FormatData_lt::getContents() {
 				""_s,
 				""_s,
 				""_s,
-				u"{one:0\' \'t\u016bkstantis few:0\' \'t\u016bkstan\u010diai many:0\' \'t\u016bkstan\u010dio other:0\' \'t\u016bkstan\u010di\u0173}"_s,
-				u"{one:00\' \'t\u016bkstantis few:00\' \'t\u016bkstan\u010diai many:00\' \'t\u016bkstan\u010dio other:00\' \'t\u016bkstan\u010di\u0173}"_s,
-				u"{one:000\' \'t\u016bkstantis few:000\' \'t\u016bkstan\u010diai many:000\' \'t\u016bkstan\u010dio other:000\' \'t\u016bkstan\u010di\u0173}"_s,
-				u"{one:0\' \'milijonas few:0\' \'milijonai many:0\' \'milijono other:0\' \'milijon\u0173}"_s,
-				u"{one:00\' \'milijonas few:00\' \'milijonai many:00\' \'milijono other:00\' \'milijon\u0173}"_s,
-				u"{one:000\' \'milijonas few:000\' \'milijonai many:000\' \'milijono other:000\' \'milijon\u0173}"_s,
-				u"{one:0\' \'milijardas few:0\' \'milijardai many:0\' \'milijardo other:0\' \'milijard\u0173}"_s,
-				u"{one:00\' \'milijardas few:00\' \'milijardai many:00\' \'milijardo other:00\' \'milijard\u0173}"_s,
-				u"{one:000\' \'milijardas few:000\' \'milijardai many:000\' \'milijardo other:000\' \'milijard\u0173}"_s,
-				u"{one:0\' \'trilijonas few:0\' \'trilijonai many:0\' \'trilijono other:0\' \'trilijon\u0173}"_s,
-				u"{one:00\' \'trilijonas few:00\' \'trilijonai many:00\' \'trilijono other:00\' \'trilijon\u0173}"_s,
-				u"{one:000\' \'trilijonas few:000\' \'trilijonai many:000\' \'trilijono other:000\' \'trilijon\u0173}"_s
+				u"{one:0\' \'tūkstantis few:0\' \'tūkstančiai many:0\' \'tūkstančio other:0\' \'tūkstančių}"_s,
+				u"{one:00\' \'tūkstantis few:00\' \'tūkstančiai many:00\' \'tūkstančio other:00\' \'tūkstančių}"_s,
+				u"{one:000\' \'tūkstantis few:000\' \'tūkstančiai many:000\' \'tūkstančio other:000\' \'tūkstančių}"_s,
+				u"{one:0\' \'milijonas few:0\' \'milijonai many:0\' \'milijono other:0\' \'milijonų}"_s,
+				u"{one:00\' \'milijonas few:00\' \'milijonai many:00\' \'milijono other:00\' \'milijonų}"_s,
+				u"{one:000\' \'milijonas few:000\' \'milijonai many:000\' \'milijono other:000\' \'milijonų}"_s,
+				u"{one:0\' \'milijardas few:0\' \'milijardai many:0\' \'milijardo other:0\' \'milijardų}"_s,
+				u"{one:00\' \'milijardas few:00\' \'milijardai many:00\' \'milijardo other:00\' \'milijardų}"_s,
+				u"{one:000\' \'milijardas few:000\' \'milijardai many:000\' \'milijardo other:000\' \'milijardų}"_s,
+				u"{one:0\' \'trilijonas few:0\' \'trilijonai many:0\' \'trilijono other:0\' \'trilijonų}"_s,
+				u"{one:00\' \'trilijonas few:00\' \'trilijonai many:00\' \'trilijono other:00\' \'trilijonų}"_s,
+				u"{one:000\' \'trilijonas few:000\' \'trilijonai many:000\' \'trilijono other:000\' \'trilijonų}"_s
 			}))
 		}),
 		$$new($ObjectArray, {
@@ -590,7 +590,7 @@ $ObjectArray2* FormatData_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.weekday"_s),
-			$of(u"savait\u0117s diena"_s)
+			$of(u"savaitės diena"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("japanese.MonthAbbreviations"_s),
@@ -622,7 +622,7 @@ $ObjectArray2* FormatData_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.hourFormat"_s),
-			$of(u"+HH:mm;\u2212HH:mm"_s)
+			$of(u"+HH:mm;−HH:mm"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("japanese.DayNames"_s),
@@ -654,7 +654,7 @@ $ObjectArray2* FormatData_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.week"_s),
-			$of(u"savait\u0117"_s)
+			$of(u"savaitė"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("buddhist.MonthNarrows"_s),
@@ -690,18 +690,18 @@ $ObjectArray2* FormatData_lt::getContents() {
 				""_s,
 				""_s,
 				""_s,
-				u"{one:0\u00a0t\u016bkst\'.\' few:0\u00a0t\u016bkst\'.\' many:0\u00a0t\u016bkst\'.\' other:0\u00a0t\u016bkst\'.\'}"_s,
-				u"{one:00\u00a0t\u016bkst\'.\' few:00\u00a0t\u016bkst\'.\' many:00\u00a0t\u016bkst\'.\' other:00\u00a0t\u016bkst\'.\'}"_s,
-				u"{one:000\u00a0t\u016bkst\'.\' few:000\u00a0t\u016bkst\'.\' many:000\u00a0t\u016bkst\'.\' other:000\u00a0t\u016bkst\'.\'}"_s,
-				u"{one:0\u00a0mln\'.\' few:0\u00a0mln\'.\' many:0\u00a0mln\'.\' other:0\u00a0mln\'.\'}"_s,
-				u"{one:00\u00a0mln\'.\' few:00\u00a0mln\'.\' many:00\u00a0mln\'.\' other:00\u00a0mln\'.\'}"_s,
-				u"{one:000\u00a0mln\'.\' few:000\u00a0mln\'.\' many:000\u00a0mln\'.\' other:000\u00a0mln\'.\'}"_s,
-				u"{one:0\u00a0mlrd\'.\' few:0\u00a0mlrd\'.\' many:0\u00a0mlrd\'.\' other:0\u00a0mlrd\'.\'}"_s,
-				u"{one:00\u00a0mlrd\'.\' few:00\u00a0mlrd\'.\' many:00\u00a0mlrd\'.\' other:00\u00a0mlrd\'.\'}"_s,
-				u"{one:000\u00a0mlrd\'.\' few:000\u00a0mlrd\'.\' many:000\u00a0mlrd\'.\' other:000\u00a0mlrd\'.\'}"_s,
-				u"{one:0\u00a0trln\'.\' few:0\u00a0trln\'.\' many:0\u00a0trln\'.\' other:0\u00a0trln\'.\'}"_s,
-				u"{one:00\u00a0trln\'.\' few:00\u00a0trln\'.\' many:00\u00a0trln\'.\' other:00\u00a0trln\'.\'}"_s,
-				u"{one:000\u00a0trln\'.\' few:000\u00a0trln\'.\' many:000\u00a0trln\'.\' other:000\u00a0trln\'.\'}"_s
+				u"{one:0 tūkst\'.\' few:0 tūkst\'.\' many:0 tūkst\'.\' other:0 tūkst\'.\'}"_s,
+				u"{one:00 tūkst\'.\' few:00 tūkst\'.\' many:00 tūkst\'.\' other:00 tūkst\'.\'}"_s,
+				u"{one:000 tūkst\'.\' few:000 tūkst\'.\' many:000 tūkst\'.\' other:000 tūkst\'.\'}"_s,
+				u"{one:0 mln\'.\' few:0 mln\'.\' many:0 mln\'.\' other:0 mln\'.\'}"_s,
+				u"{one:00 mln\'.\' few:00 mln\'.\' many:00 mln\'.\' other:00 mln\'.\'}"_s,
+				u"{one:000 mln\'.\' few:000 mln\'.\' many:000 mln\'.\' other:000 mln\'.\'}"_s,
+				u"{one:0 mlrd\'.\' few:0 mlrd\'.\' many:0 mlrd\'.\' other:0 mlrd\'.\'}"_s,
+				u"{one:00 mlrd\'.\' few:00 mlrd\'.\' many:00 mlrd\'.\' other:00 mlrd\'.\'}"_s,
+				u"{one:000 mlrd\'.\' few:000 mlrd\'.\' many:000 mlrd\'.\' other:000 mlrd\'.\'}"_s,
+				u"{one:0 trln\'.\' few:0 trln\'.\' many:0 trln\'.\' other:0 trln\'.\'}"_s,
+				u"{one:00 trln\'.\' few:00 trln\'.\' many:00 trln\'.\' other:00 trln\'.\'}"_s,
+				u"{one:000 trln\'.\' few:000 trln\'.\' many:000 trln\'.\' other:000 trln\'.\'}"_s
 			}))
 		}),
 		$$new($ObjectArray, {
@@ -755,7 +755,7 @@ $ObjectArray2* FormatData_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.buddhist"_s),
-			$of(u"budist\u0173 kalendorius"_s)
+			$of(u"budistų kalendorius"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("standalone.MonthNames"_s),
@@ -764,11 +764,11 @@ $ObjectArray2* FormatData_lt::getContents() {
 				"vasaris"_s,
 				"kovas"_s,
 				"balandis"_s,
-				u"gegu\u017e\u0117"_s,
-				u"bir\u017eelis"_s,
+				u"gegužė"_s,
+				u"birželis"_s,
 				"liepa"_s,
-				u"rugpj\u016btis"_s,
-				u"rugs\u0117jis"_s,
+				u"rugpjūtis"_s,
+				u"rugsėjis"_s,
 				"spalis"_s,
 				"lapkritis"_s,
 				"gruodis"_s,
@@ -779,9 +779,9 @@ $ObjectArray2* FormatData_lt::getContents() {
 			$of("latn.NumberPatterns"_s),
 			$of($$new($StringArray, {
 				"#,##0.###"_s,
-				u"#,##0.00\u00a0\u00a4"_s,
-				u"#,##0\u00a0%"_s,
-				u"#,##0.00\u00a0\u00a4"_s
+				u"#,##0.00 ¤"_s,
+				u"#,##0 %"_s,
+				u"#,##0.00 ¤"_s
 			}))
 		}),
 		$$new($ObjectArray, {

@@ -46,7 +46,7 @@ $ObjectArray2* CurrencyNames_fr_CA::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("AUD"_s),
-			$of(u"$\u00a0AU"_s)
+			$of(u"$ AU"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("BMD"_s),
@@ -62,7 +62,7 @@ $ObjectArray2* CurrencyNames_fr_CA::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("CAD"_s),
-			$of(u"$\u00a0CA"_s)
+			$of(u"$ CA"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("CLP"_s),
@@ -70,7 +70,7 @@ $ObjectArray2* CurrencyNames_fr_CA::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("CNY"_s),
-			$of(u"CN\u00a5"_s)
+			$of(u"CN¥"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("COP"_s),
@@ -86,7 +86,7 @@ $ObjectArray2* CurrencyNames_fr_CA::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("GBP"_s),
-			$of(u"\u00a3"_s)
+			$of(u"£"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("GIP"_s),
@@ -94,7 +94,7 @@ $ObjectArray2* CurrencyNames_fr_CA::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("HKD"_s),
-			$of(u"$\u00a0HK"_s)
+			$of(u"$ HK"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ILS"_s),
@@ -106,7 +106,7 @@ $ObjectArray2* CurrencyNames_fr_CA::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("JPY"_s),
-			$of(u"\u00a5"_s)
+			$of(u"¥"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("KRW"_s),
@@ -126,7 +126,7 @@ $ObjectArray2* CurrencyNames_fr_CA::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("NZD"_s),
-			$of(u"$\u00a0NZ"_s)
+			$of(u"$ NZ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("SBD"_s),
@@ -134,7 +134,7 @@ $ObjectArray2* CurrencyNames_fr_CA::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("SGD"_s),
-			$of(u"$\u00a0SG"_s)
+			$of(u"$ SG"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("SRD"_s),
@@ -146,7 +146,7 @@ $ObjectArray2* CurrencyNames_fr_CA::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("USD"_s),
-			$of(u"$\u00a0US"_s)
+			$of(u"$ US"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("UYU"_s),
@@ -174,7 +174,7 @@ $ObjectArray2* CurrencyNames_fr_CA::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("azn"_s),
-			$of(u"manat azerba\u00efdjanais"_s)
+			$of(u"manat azerbaïdjanais"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cve"_s),
@@ -194,11 +194,11 @@ $ObjectArray2* CurrencyNames_fr_CA::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("pen"_s),
-			$of(u"nouveau sol p\u00e9ruvien"_s)
+			$of(u"nouveau sol péruvien"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pgk"_s),
-			$of(u"kina papou-n\u00e9o-guin\u00e9en"_s)
+			$of(u"kina papou-néo-guinéen"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("qar"_s),
@@ -214,7 +214,7 @@ $ObjectArray2* CurrencyNames_fr_CA::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("top"_s),
-			$of(u"pa\u2019anga"_s)
+			$of(u"pa’anga"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("vuv"_s),
@@ -230,7 +230,7 @@ $ObjectArray2* CurrencyNames_fr_CA::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("yer"_s),
-			$of(u"rial y\u00e9m\u00e9nite"_s)
+			$of(u"rial yéménite"_s)
 		})
 	}));
 	return data;

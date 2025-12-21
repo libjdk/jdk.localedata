@@ -39,7 +39,7 @@ void CurrencyNames_ar_KW::init$() {
 $ObjectArray2* CurrencyNames_ar_KW::getContents() {
 	return $new($ObjectArray2, {$$new($ObjectArray, {
 		$of("KWD"_s),
-		$of(u"\u062f.\u0643.\u200f"_s)
+		$of(u"د.ك.\u200f"_s)
 	})});
 }
 

@@ -41,7 +41,7 @@ $ObjectArray2* CurrencyNames_az_Cyrl::getContents() {
 	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {$$new($ObjectArray, {
 		$of("AZN"_s),
-		$of(u"\u20bc"_s)
+		$of(u"₼"_s)
 	})}));
 	return data;
 }

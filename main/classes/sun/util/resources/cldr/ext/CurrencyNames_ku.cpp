@@ -42,7 +42,7 @@ $ObjectArray2* CurrencyNames_ku::getContents() {
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("TRY"_s),
-			$of(u"\u20ba"_s)
+			$of(u"₺"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("eur"_s),

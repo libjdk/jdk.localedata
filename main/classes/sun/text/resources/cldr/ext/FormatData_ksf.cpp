@@ -40,51 +40,51 @@ void FormatData_ksf::init$() {
 $ObjectArray2* FormatData_ksf::getContents() {
 	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_MonthNames, $new($StringArray, {
-		u"\u014bw\u00ed\u00ed a nt\u0254\u0301nt\u0254"_s,
-		u"\u014bw\u00ed\u00ed ak\u01dd b\u025b\u0301\u025b"_s,
-		u"\u014bw\u00ed\u00ed ak\u01dd r\u00e1\u00e1"_s,
-		u"\u014bw\u00ed\u00ed ak\u01dd nin"_s,
-		u"\u014bw\u00ed\u00ed ak\u01dd t\u00e1an"_s,
-		u"\u014bw\u00ed\u00ed ak\u01dd t\u00e1af\u0254k"_s,
-		u"\u014bw\u00ed\u00ed ak\u01dd t\u00e1ab\u025b\u025b"_s,
-		u"\u014bw\u00ed\u00ed ak\u01dd t\u00e1araa"_s,
-		u"\u014bw\u00ed\u00ed ak\u01dd t\u00e1anin"_s,
-		u"\u014bw\u00ed\u00ed ak\u01dd nt\u025bk"_s,
-		u"\u014bw\u00ed\u00ed ak\u01dd nt\u025bk di b\u0254\u0301k"_s,
-		u"\u014bw\u00ed\u00ed ak\u01dd nt\u025bk di b\u025b\u0301\u025b"_s,
+		u"ŋwíí a ntɔ́ntɔ"_s,
+		u"ŋwíí akǝ bɛ́ɛ"_s,
+		u"ŋwíí akǝ ráá"_s,
+		u"ŋwíí akǝ nin"_s,
+		u"ŋwíí akǝ táan"_s,
+		u"ŋwíí akǝ táafɔk"_s,
+		u"ŋwíí akǝ táabɛɛ"_s,
+		u"ŋwíí akǝ táaraa"_s,
+		u"ŋwíí akǝ táanin"_s,
+		u"ŋwíí akǝ ntɛk"_s,
+		u"ŋwíí akǝ ntɛk di bɔ́k"_s,
+		u"ŋwíí akǝ ntɛk di bɛ́ɛ"_s,
 		""_s
 	}));
 	$var($StringArray, metaValue_MonthAbbreviations, $new($StringArray, {
-		u"\u014b1"_s,
-		u"\u014b2"_s,
-		u"\u014b3"_s,
-		u"\u014b4"_s,
-		u"\u014b5"_s,
-		u"\u014b6"_s,
-		u"\u014b7"_s,
-		u"\u014b8"_s,
-		u"\u014b9"_s,
-		u"\u014b10"_s,
-		u"\u014b11"_s,
-		u"\u014b12"_s,
+		u"ŋ1"_s,
+		u"ŋ2"_s,
+		u"ŋ3"_s,
+		u"ŋ4"_s,
+		u"ŋ5"_s,
+		u"ŋ6"_s,
+		u"ŋ7"_s,
+		u"ŋ8"_s,
+		u"ŋ9"_s,
+		u"ŋ10"_s,
+		u"ŋ11"_s,
+		u"ŋ12"_s,
 		""_s
 	}));
 	$var($StringArray, metaValue_DayNames, $new($StringArray, {
-		u"s\u0254\u0301nd\u01dd"_s,
-		u"l\u01ddnd\u00ed"_s,
-		u"maad\u00ed"_s,
-		u"m\u025bkr\u025bd\u00ed"_s,
-		u"j\u01dd\u01ddd\u00ed"_s,
-		u"j\u00famb\u00e1"_s,
-		u"samd\u00ed"_s
+		u"sɔ́ndǝ"_s,
+		u"lǝndí"_s,
+		u"maadí"_s,
+		u"mɛkrɛdí"_s,
+		u"jǝǝdí"_s,
+		u"júmbá"_s,
+		u"samdí"_s
 	}));
 	$var($StringArray, metaValue_DayAbbreviations, $new($StringArray, {
-		u"s\u0254\u0301n"_s,
-		u"l\u01ddn"_s,
+		u"sɔ́n"_s,
+		u"lǝn"_s,
 		"maa"_s,
-		u"m\u025bk"_s,
-		u"j\u01dd\u01dd"_s,
-		u"j\u00fam"_s,
+		u"mɛk"_s,
+		u"jǝǝ"_s,
+		u"júm"_s,
 		"sam"_s
 	}));
 	$var($StringArray, metaValue_DayNarrows, $new($StringArray, {
@@ -97,10 +97,10 @@ $ObjectArray2* FormatData_ksf::getContents() {
 		"s"_s
 	}));
 	$var($StringArray, metaValue_QuarterNames, $new($StringArray, {
-		u"id\u0301\u025b\u0301n k\u01ddb\u01ddk k\u01dd nt\u0254\u0301nt\u0254\u0301"_s,
-		u"id\u025b\u0301n k\u01ddb\u01ddk k\u01dd k\u01ddb\u025b\u0301\u025b"_s,
-		u"id\u025b\u0301n k\u01ddb\u01ddk k\u01dd k\u01ddr\u00e1\u00e1"_s,
-		u"id\u025b\u0301n k\u01ddb\u01ddk k\u01dd k\u01ddnin"_s
+		u"id́ɛ́n kǝbǝk kǝ ntɔ́ntɔ́"_s,
+		u"idɛ́n kǝbǝk kǝ kǝbɛ́ɛ"_s,
+		u"idɛ́n kǝbǝk kǝ kǝráá"_s,
+		u"idɛ́n kǝbǝk kǝ kǝnin"_s
 	}));
 	$var($StringArray, metaValue_QuarterAbbreviations, $new($StringArray, {
 		"i1"_s,
@@ -109,8 +109,8 @@ $ObjectArray2* FormatData_ksf::getContents() {
 		"i4"_s
 	}));
 	$var($StringArray, metaValue_AmPmMarkers, $new($StringArray, {
-		u"s\u00e1r\u00faw\u00e1"_s,
-		u"c\u025b\u025b\u0301nko"_s,
+		u"sárúwá"_s,
+		u"cɛɛ́nko"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -151,7 +151,7 @@ $ObjectArray2* FormatData_ksf::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.year"_s),
-			$of(u"B\u01ddk"_s)
+			$of(u"Bǝk"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("islamic.QuarterAbbreviations"_s),
@@ -195,7 +195,7 @@ $ObjectArray2* FormatData_ksf::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.zone"_s),
-			$of(u"W\u00e1as"_s)
+			$of(u"Wáas"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("japanese.QuarterAbbreviations"_s),
@@ -256,8 +256,8 @@ $ObjectArray2* FormatData_ksf::getContents() {
 		$$new($ObjectArray, {
 			$of("long.Eras"_s),
 			$of($$new($StringArray, {
-				u"di Y\u025b\u0301sus ak\u00e1 y\u00e1l\u025b"_s,
-				u"c\u00e1m\u025b\u025bn k\u01dd k\u01ddb\u0254pka Y"_s
+				u"di Yɛ́sus aká yálɛ"_s,
+				u"cámɛɛn kǝ kǝbɔpka Y"_s
 			}))
 		}),
 		$$new($ObjectArray, {
@@ -274,7 +274,7 @@ $ObjectArray2* FormatData_ksf::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.weekday"_s),
-			$of(u"M\u01ddr\u00fa m\u01dd s\u0254\u0301nd\u01dd"_s)
+			$of(u"Mǝrú mǝ sɔ́ndǝ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("buddhist.MonthNames"_s),
@@ -288,15 +288,15 @@ $ObjectArray2* FormatData_ksf::getContents() {
 			$of("latn.NumberElements"_s),
 			$of($$new($StringArray, {
 				","_s,
-				u"\u00a0"_s,
+				u" "_s,
 				";"_s,
 				"%"_s,
 				"0"_s,
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
+				u"‰"_s,
+				u"∞"_s,
 				"NaN"_s,
 				""_s,
 				""_s
@@ -316,11 +316,11 @@ $ObjectArray2* FormatData_ksf::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.minute"_s),
-			$of(u"M\u01ddn\u00edt"_s)
+			$of(u"Mǝnít"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("field.era"_s),
-			$of(u"By\u00e1m\u025b\u025bn"_s)
+			$of(u"Byámɛɛn"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("islamic.DayAbbreviations"_s),
@@ -332,7 +332,7 @@ $ObjectArray2* FormatData_ksf::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.dayperiod"_s),
-			$of(u"S\u00e1r\u00faw\u00e1 / C\u025b\u025b\u0301nko"_s)
+			$of(u"Sárúwá / Cɛɛ́nko"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("japanese.QuarterNames"_s),
@@ -364,7 +364,7 @@ $ObjectArray2* FormatData_ksf::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.month"_s),
-			$of(u"\u014aw\u00ed\u00ed"_s)
+			$of(u"Ŋwíí"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("buddhist.DatePatterns"_s),
@@ -372,7 +372,7 @@ $ObjectArray2* FormatData_ksf::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.second"_s),
-			$of(u"H\u00e1u"_s)
+			$of(u"Háu"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("roc.MonthNames"_s),
@@ -380,7 +380,7 @@ $ObjectArray2* FormatData_ksf::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.week"_s),
-			$of(u"S\u0254\u0301nd\u01dd"_s)
+			$of(u"Sɔ́ndǝ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("DayAbbreviations"_s),
@@ -441,7 +441,7 @@ $ObjectArray2* FormatData_ksf::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.hour"_s),
-			$of(u"C\u00e1m\u025b\u025bn"_s)
+			$of(u"Cámɛɛn"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("buddhist.TimePatterns"_s),
@@ -459,7 +459,7 @@ $ObjectArray2* FormatData_ksf::getContents() {
 			$of("latn.NumberPatterns"_s),
 			$of($$new($StringArray, {
 				"#,##0.###"_s,
-				u"#,##0.00\u00a0\u00a4"_s,
+				u"#,##0.00 ¤"_s,
 				"#,##0%"_s,
 				""_s
 			}))

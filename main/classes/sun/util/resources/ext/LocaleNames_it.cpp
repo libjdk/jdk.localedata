@@ -581,7 +581,7 @@ $ObjectArray2* LocaleNames_it::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("FO"_s),
-			$of(u"Isole F\u00e6roer"_s)
+			$of(u"Isole Færoer"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("FR"_s),
@@ -793,7 +793,7 @@ $ObjectArray2* LocaleNames_it::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("Inds"_s),
-			$of(u"Ind\u00f9"_s)
+			$of(u"Indù"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Ital"_s),
@@ -1217,7 +1217,7 @@ $ObjectArray2* LocaleNames_it::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("PE"_s),
-			$of(u"Per\u00f9"_s)
+			$of(u"Perù"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("PF"_s),
@@ -1401,7 +1401,7 @@ $ObjectArray2* LocaleNames_it::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ST"_s),
-			$of(u"S\u00e3o Tom\u00e9 e Principe"_s)
+			$of(u"São Tomé e Principe"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("SV"_s),
@@ -1613,7 +1613,7 @@ $ObjectArray2* LocaleNames_it::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("VA"_s),
-			$of(u"Citt\u00e0 del Vaticano"_s)
+			$of(u"Città del Vaticano"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("VC"_s),
@@ -1897,7 +1897,7 @@ $ObjectArray2* LocaleNames_it::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ay"_s),
-			$of(u"aymar\u00e1"_s)
+			$of(u"aymará"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("aym"_s),
@@ -2553,7 +2553,7 @@ $ObjectArray2* LocaleNames_it::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("gn"_s),
-			$of(u"guaran\u00ec"_s)
+			$of(u"guaranì"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("goh"_s),
@@ -2585,7 +2585,7 @@ $ObjectArray2* LocaleNames_it::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("grn"_s),
-			$of(u"Guaran\u00ec"_s)
+			$of(u"Guaranì"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gsw"_s),
@@ -3385,7 +3385,7 @@ $ObjectArray2* LocaleNames_it::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("nb"_s),
-			$of(u"norvegese bokm\u00e5l"_s)
+			$of(u"norvegese bokmål"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("nbl"_s),
@@ -3453,7 +3453,7 @@ $ObjectArray2* LocaleNames_it::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("nob"_s),
-			$of(u"Norvegese bokm\u00e5l"_s)
+			$of(u"Norvegese bokmål"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("nog"_s),

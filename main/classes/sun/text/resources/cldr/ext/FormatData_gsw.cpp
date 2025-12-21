@@ -42,22 +42,22 @@ $ObjectArray2* FormatData_gsw::getContents() {
 	$var($StringArray, metaValue_MonthNames, $new($StringArray, {
 		"Januar"_s,
 		"Februar"_s,
-		u"M\u00e4rz"_s,
+		u"März"_s,
 		"April"_s,
 		"Mai"_s,
 		"Juni"_s,
 		"Juli"_s,
 		"Auguscht"_s,
-		u"Sept\u00e4mber"_s,
+		u"Septämber"_s,
 		"Oktoober"_s,
-		u"Nov\u00e4mber"_s,
-		u"Dez\u00e4mber"_s,
+		u"Novämber"_s,
+		u"Dezämber"_s,
 		""_s
 	}));
 	$var($StringArray, metaValue_MonthAbbreviations, $new($StringArray, {
 		"Jan"_s,
 		"Feb"_s,
-		u"M\u00e4r"_s,
+		u"Mär"_s,
 		"Apr"_s,
 		"Mai"_s,
 		"Jun"_s,
@@ -86,7 +86,7 @@ $ObjectArray2* FormatData_gsw::getContents() {
 	}));
 	$var($StringArray, metaValue_DayNames, $new($StringArray, {
 		"Sunntig"_s,
-		u"M\u00e4\u00e4ntig"_s,
+		u"Määntig"_s,
 		"Ziischtig"_s,
 		"Mittwuch"_s,
 		"Dunschtig"_s,
@@ -95,7 +95,7 @@ $ObjectArray2* FormatData_gsw::getContents() {
 	}));
 	$var($StringArray, metaValue_DayAbbreviations, $new($StringArray, {
 		"Su."_s,
-		u"M\u00e4."_s,
+		u"Mä."_s,
 		"Zi."_s,
 		"Mi."_s,
 		"Du."_s,
@@ -173,7 +173,7 @@ $ObjectArray2* FormatData_gsw::getContents() {
 		"dd.MM.y GGGG"_s,
 		"dd.MM.yy G"_s
 	}));
-	$var($String, metaValue_calendarname_gregorian, u"Gregoriaanisch Kal\u00e4nder"_s);
+	$var($String, metaValue_calendarname_gregorian, u"Gregoriaanisch Kaländer"_s);
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("MonthNames"_s),
@@ -225,7 +225,7 @@ $ObjectArray2* FormatData_gsw::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.islamic-civil"_s),
-			$of(u"B\u00fcrgerlich islaamisch Kal\u00e4nder"_s)
+			$of(u"Bürgerlich islaamisch Kaländer"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("japanese.QuarterAbbreviations"_s),
@@ -249,7 +249,7 @@ $ObjectArray2* FormatData_gsw::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.japanese"_s),
-			$of(u"Japaanisch Kal\u00e4nder"_s)
+			$of(u"Japaanisch Kaländer"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("buddhist.narrow.AmPmMarkers"_s),
@@ -319,15 +319,15 @@ $ObjectArray2* FormatData_gsw::getContents() {
 			$of("latn.NumberElements"_s),
 			$of($$new($StringArray, {
 				"."_s,
-				u"\u2019"_s,
+				u"’"_s,
 				";"_s,
 				"%"_s,
 				"0"_s,
 				"#"_s,
-				u"\u2212"_s,
+				u"−"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
+				u"‰"_s,
+				u"∞"_s,
 				"NaN"_s,
 				""_s,
 				""_s
@@ -367,7 +367,7 @@ $ObjectArray2* FormatData_gsw::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.dayperiod"_s),
-			$of(u"Tagesh\u00e4lfti"_s)
+			$of(u"Tageshälfti"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("standalone.MonthNarrows"_s),
@@ -383,7 +383,7 @@ $ObjectArray2* FormatData_gsw::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.roc"_s),
-			$of(u"Kal\u00e4nder vor Republik Chiina"_s)
+			$of(u"Kaländer vor Republik Chiina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("islamic.DatePatterns"_s),
@@ -448,7 +448,7 @@ $ObjectArray2* FormatData_gsw::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.islamic"_s),
-			$of(u"Islaamisch Kal\u00e4nder"_s)
+			$of(u"Islaamisch Kaländer"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("roc.DayNarrows"_s),
@@ -481,18 +481,18 @@ $ObjectArray2* FormatData_gsw::getContents() {
 				""_s,
 				""_s,
 				""_s,
-				u"{one:0\u00a0Tsg\'.\' other:0\u00a0Tsg\'.\'}"_s,
-				u"{one:00\u00a0Tsg\'.\' other:00\u00a0Tsg\'.\'}"_s,
-				u"{one:000\u00a0Tsg\'.\' other:000\u00a0Tsg\'.\'}"_s,
-				u"{one:0\u00a0Mio\'.\' other:0\u00a0Mio\'.\'}"_s,
-				u"{one:00\u00a0Mio\'.\' other:00\u00a0Mio\'.\'}"_s,
-				u"{one:000\u00a0Mio\'.\' other:000\u00a0Mio\'.\'}"_s,
-				u"{one:0\u00a0Mrd\'.\' other:0\u00a0Mrd\'.\'}"_s,
-				u"{one:00\u00a0Mrd\'.\' other:00\u00a0Mrd\'.\'}"_s,
-				u"{one:000\u00a0Mrd\'.\' other:000\u00a0Mrd\'.\'}"_s,
-				u"{one:0\u00a0Bio\'.\' other:0\u00a0Bio\'.\'}"_s,
-				u"{one:00\u00a0Bio\'.\' other:00\u00a0Bio\'.\'}"_s,
-				u"{one:000\u00a0Bio\'.\' other:000\u00a0Bio\'.\'}"_s
+				u"{one:0 Tsg\'.\' other:0 Tsg\'.\'}"_s,
+				u"{one:00 Tsg\'.\' other:00 Tsg\'.\'}"_s,
+				u"{one:000 Tsg\'.\' other:000 Tsg\'.\'}"_s,
+				u"{one:0 Mio\'.\' other:0 Mio\'.\'}"_s,
+				u"{one:00 Mio\'.\' other:00 Mio\'.\'}"_s,
+				u"{one:000 Mio\'.\' other:000 Mio\'.\'}"_s,
+				u"{one:0 Mrd\'.\' other:0 Mrd\'.\'}"_s,
+				u"{one:00 Mrd\'.\' other:00 Mrd\'.\'}"_s,
+				u"{one:000 Mrd\'.\' other:000 Mrd\'.\'}"_s,
+				u"{one:0 Bio\'.\' other:0 Bio\'.\'}"_s,
+				u"{one:00 Bio\'.\' other:00 Bio\'.\'}"_s,
+				u"{one:000 Bio\'.\' other:000 Bio\'.\'}"_s
 			}))
 		}),
 		$$new($ObjectArray, {
@@ -538,7 +538,7 @@ $ObjectArray2* FormatData_gsw::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.buddhist"_s),
-			$of(u"Buddhischtisch Kal\u00e4nder"_s)
+			$of(u"Buddhischtisch Kaländer"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("standalone.MonthNames"_s),
@@ -552,8 +552,8 @@ $ObjectArray2* FormatData_gsw::getContents() {
 			$of("latn.NumberPatterns"_s),
 			$of($$new($StringArray, {
 				"#,##0.###"_s,
-				u"#,##0.00\u00a0\u00a4"_s,
-				u"#,##0\u00a0%"_s,
+				u"#,##0.00 ¤"_s,
+				u"#,##0 %"_s,
 				""_s
 			}))
 		}),

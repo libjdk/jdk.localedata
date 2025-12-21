@@ -43,7 +43,7 @@ void TimeZoneNames_chr::init$() {
 $ObjectArray2* TimeZoneNames_chr::getContents() {
 	$useLocalCurrentObjectStackCache();
 	$var($StringArray, GMT, $new($StringArray, {
-		u"\u13a2\u13e4 \u13a2\u13f3\u13cd\u13d7 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᎢᏤ ᎢᏳᏍᏗ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -51,39 +51,39 @@ $ObjectArray2* TimeZoneNames_chr::getContents() {
 		""_s
 	}));
 	$var($StringArray, Apia, $new($StringArray, {
-		u"\u13a0\u13c8\u13a0 \u13a0\u13df\u13b6\u13cd\u13d7 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᎠᏈᎠ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
-		u"\u13a0\u13c8\u13a0 \u13aa\u13af \u13a2\u13a6 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᎠᏈᎠ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
-		u"\u13a0\u13c8\u13a0 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᎠᏈᎠ ᎠᏟᎢᎵᏒ"_s,
 		""_s
 	}));
 	$var($StringArray, Cook, $new($StringArray, {
-		u"\u13a0\u13d3\u13cd\u13d3\u13f4\u13b2\u13cd\u13a9 \u13da\u13a6\u13da\u13db\u13a2 \u13a0\u13df\u13b6\u13cd\u13d7 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᎠᏓᏍᏓᏴᎲᏍᎩ ᏚᎦᏚᏛᎢ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
-		u"\u13a0\u13d3\u13cd\u13d3\u13f4\u13b2\u13cd\u13a9 \u13da\u13a6\u13da\u13db\u13a2 \u13a0\u13f0\u13df \u13aa\u13a9 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᎠᏓᏍᏓᏴᎲᏍᎩ ᏚᎦᏚᏛᎢ ᎠᏰᏟ ᎪᎩ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
-		u"\u13a0\u13d3\u13cd\u13d3\u13f4\u13b2\u13cd\u13a9 \u13da\u13a6\u13da\u13db\u13a2 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᎠᏓᏍᏓᏴᎲᏍᎩ ᏚᎦᏚᏛᎢ ᎠᏟᎢᎵᏒ"_s,
 		""_s
 	}));
 	$var($StringArray, Cuba, $new($StringArray, {
-		u"\u13ab\u13c6 \u13a0\u13df\u13b6\u13cd\u13d7 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᎫᏆ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
-		u"\u13ab\u13c6 \u13aa\u13af \u13a2\u13a6 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᎫᏆ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
-		u"\u13ab\u13c6 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᎫᏆ ᎠᏟᎢᎵᏒ"_s,
 		""_s
 	}));
 	$var($StringArray, Fiji, $new($StringArray, {
-		u"\u13eb\u13e5 \u13a0\u13df\u13b6\u13cd\u13d7 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᏫᏥ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
-		u"\u13eb\u13e5 \u13aa\u13a9 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᏫᏥ ᎪᎩ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
-		u"\u13eb\u13e5 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᏫᏥ ᎠᏟᎢᎵᏒ"_s,
 		""_s
 	}));
 	$var($StringArray, Gulf, $new($StringArray, {
-		u"\u13a1\u13c9\u13c4\u13b8\u13d7 \u13a0\u13df\u13b6\u13cd\u13d7 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᎡᏉᏄᎸᏗ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -91,23 +91,23 @@ $ObjectArray2* TimeZoneNames_chr::getContents() {
 		""_s
 	}));
 	$var($StringArray, Hovd, $new($StringArray, {
-		u"\u13b0\u13e9\u13d7 \u13a0\u13df\u13b6\u13cd\u13d7 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᎰᏩᏗ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
-		u"\u13b0\u13e9\u13d7 \u13aa\u13a9 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᎰᏩᏗ ᎪᎩ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
-		u"\u13b0\u13e9\u13d7 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᎰᏩᏗ ᎠᏟᎢᎵᏒ"_s,
 		""_s
 	}));
 	$var($StringArray, Iran, $new($StringArray, {
-		u"\u13a2\u13b3\u13c2 \u13a0\u13df\u13b6\u13cd\u13d7 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᎢᎳᏂ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
-		u"\u13a2\u13b3\u13c2 \u13aa\u13af \u13a2\u13a6 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᎢᎳᏂ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
-		u"\u13a2\u13b3\u13c2 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᎢᎳᏂ ᎠᏟᎢᎵᏒ"_s,
 		""_s
 	}));
 	$var($StringArray, Niue, $new($StringArray, {
-		u"\u13c2\u13f3 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᏂᏳ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -115,23 +115,23 @@ $ObjectArray2* TimeZoneNames_chr::getContents() {
 		""_s
 	}));
 	$var($StringArray, Omsk, $new($StringArray, {
-		u"\u13a3\u13bb\u13cd\u13a7 \u13a0\u13df\u13b6\u13cd\u13d7 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᎣᎻᏍᎧ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
-		u"\u13a3\u13bb\u13cd\u13a7 \u13aa\u13a9 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᎣᎻᏍᎧ ᎪᎩ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
-		u"\u13a3\u13bb\u13cd\u13a7 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᎣᎻᏍᎧ ᎠᏟᎢᎵᏒ"_s,
 		""_s
 	}));
 	$var($StringArray, Peru, $new($StringArray, {
-		u"\u13c7\u13b7 \u13a0\u13df\u13b6\u13cd\u13d7 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᏇᎷ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
-		u"\u13c7\u13b7 \u13aa\u13a9 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᏇᎷ ᎪᎩ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
-		u"\u13c7\u13b7 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᏇᎷ ᎠᏟᎢᎵᏒ"_s,
 		""_s
 	}));
 	$var($StringArray, Truk, $new($StringArray, {
-		u"\u13e7\u13a9 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᏧᎩ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -139,7 +139,7 @@ $ObjectArray2* TimeZoneNames_chr::getContents() {
 		""_s
 	}));
 	$var($StringArray, Wake, $new($StringArray, {
-		u"\u13a4\u13f0\u13e8 \u13a4\u13a6\u13da\u13db\u13a2 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᎤᏰᏨ ᎤᎦᏚᏛᎢ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -147,23 +147,23 @@ $ObjectArray2* TimeZoneNames_chr::getContents() {
 		""_s
 	}));
 	$var($StringArray, Chile, $new($StringArray, {
-		u"\u13e5\u13b5 \u13a0\u13df\u13b6\u13cd\u13d7 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᏥᎵ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
-		u"\u13e5\u13b5 \u13aa\u13a9 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᏥᎵ ᎪᎩ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
-		u"\u13e5\u13b5 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᏥᎵ ᎠᏟᎢᎵᏒ"_s,
 		""_s
 	}));
 	$var($StringArray, China, $new($StringArray, {
-		u"\u13d3\u13b6\u13c2\u13a8\u13cd\u13db \u13a0\u13df\u13b6\u13cd\u13d7 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᏓᎶᏂᎨᏍᏛ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
-		u"\u13d3\u13b6\u13c2\u13a8\u13cd\u13db \u13aa\u13af \u13a2\u13a6 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᏓᎶᏂᎨᏍᏛ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
-		u"\u13d3\u13b6\u13c2\u13a8\u13cd\u13db \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᏓᎶᏂᎨᏍᏛ ᎠᏟᎢᎵᏒ"_s,
 		""_s
 	}));
 	$var($StringArray, Cocos, $new($StringArray, {
-		u"\u13aa\u13aa\u13cd \u13da\u13a6\u13da\u13db\u13a2 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᎪᎪᏍ ᏚᎦᏚᏛᎢ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -171,7 +171,7 @@ $ObjectArray2* TimeZoneNames_chr::getContents() {
 		""_s
 	}));
 	$var($StringArray, Davis, $new($StringArray, {
-		u"\u13d5\u13eb\u13cf \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᏕᏫᏏ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -179,7 +179,7 @@ $ObjectArray2* TimeZoneNames_chr::getContents() {
 		""_s
 	}));
 	$var($StringArray, India, $new($StringArray, {
-		u"\u13a2\u13c2\u13d7\u13a2\u13a0 \u13a0\u13df\u13b6\u13cd\u13d7 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᎢᏂᏗᎢᎠ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -187,23 +187,23 @@ $ObjectArray2* TimeZoneNames_chr::getContents() {
 		""_s
 	}));
 	$var($StringArray, Japan, $new($StringArray, {
-		u"\u13e3\u13e9\u13c2\u13cf \u13a0\u13df\u13b6\u13cd\u13d7 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᏣᏩᏂᏏ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
-		u"\u13e3\u13e9\u13c2\u13cf \u13aa\u13af \u13a2\u13a6 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᏣᏩᏂᏏ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
-		u"\u13e3\u13e9\u13c2\u13cf \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᏣᏩᏂᏏ ᎠᏟᎢᎵᏒ"_s,
 		""_s
 	}));
 	$var($StringArray, Korea, $new($StringArray, {
-		u"\u13aa\u13b5\u13a0\u13c2 \u13a0\u13df\u13b6\u13cd\u13d7 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᎪᎵᎠᏂ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
-		u"\u13aa\u13b5\u13a0\u13c2 \u13aa\u13af \u13a2\u13a6 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᎪᎵᎠᏂ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
-		u"\u13aa\u13b5\u13a0\u13c2 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᎪᎵᎠᏂ ᎠᏟᎢᎵᏒ"_s,
 		""_s
 	}));
 	$var($StringArray, Nauru, $new($StringArray, {
-		u"\u13be\u13b7 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᎾᎷ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -211,7 +211,7 @@ $ObjectArray2* TimeZoneNames_chr::getContents() {
 		""_s
 	}));
 	$var($StringArray, Nepal, $new($StringArray, {
-		u"\u13c1\u13c6\u13b5 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᏁᏆᎵ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -219,7 +219,7 @@ $ObjectArray2* TimeZoneNames_chr::getContents() {
 		""_s
 	}));
 	$var($StringArray, Palau, $new($StringArray, {
-		u"\u13c6\u13b7 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᏆᎷ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -227,15 +227,15 @@ $ObjectArray2* TimeZoneNames_chr::getContents() {
 		""_s
 	}));
 	$var($StringArray, Samoa, $new($StringArray, {
-		u"\u13cc\u13bc\u13a0 \u13a0\u13df\u13b6\u13cd\u13d7 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᏌᎼᎠ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
-		u"\u13cc\u13bc\u13a0 \u13aa\u13af \u13a2\u13a6 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᏌᎼᎠ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
-		u"\u13cc\u13bc\u13a0 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᏌᎼᎠ ᎠᏟᎢᎵᏒ"_s,
 		""_s
 	}));
 	$var($StringArray, Syowa, $new($StringArray, {
-		u"\u13cf\u13f2\u13e9 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᏏᏲᏩ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -243,39 +243,39 @@ $ObjectArray2* TimeZoneNames_chr::getContents() {
 		""_s
 	}));
 	$var($StringArray, Tonga, $new($StringArray, {
-		u"\u13d9\u13be\u13a6 \u13a0\u13df\u13b6\u13cd\u13d7 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᏙᎾᎦ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
-		u"\u13d9\u13be\u13a6 \u13aa\u13a9 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᏙᎾᎦ ᎪᎩ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
-		u"\u13d9\u13be\u13a6 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᏙᎾᎦ ᎠᏟᎢᎵᏒ"_s,
 		""_s
 	}));
 	$var($StringArray, Alaska, $new($StringArray, {
-		u"\u13a0\u13b3\u13cd\u13a6 \u13a0\u13df\u13b6\u13cd\u13d7 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᎠᎳᏍᎦ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ"_s,
 		"AKST"_s,
-		u"\u13a0\u13b3\u13cd\u13a6 \u13aa\u13af \u13a2\u13a6 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᎠᎳᏍᎦ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ"_s,
 		"AKDT"_s,
-		u"\u13a0\u13b3\u13cd\u13a6 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᎠᎳᏍᎦ ᎠᏟᎢᎵᏒ"_s,
 		"AKT"_s
 	}));
 	$var($StringArray, Amazon, $new($StringArray, {
-		u"\u13a0\u13ba\u13cc\u13c2 \u13a0\u13df\u13b6\u13cd\u13d7 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᎠᎺᏌᏂ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
-		u"\u13a0\u13ba\u13cc\u13c2 \u13aa\u13a9 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᎠᎺᏌᏂ ᎪᎩ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
-		u"\u13a0\u13ba\u13cc\u13c2 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᎠᎺᏌᏂ ᎠᏟᎢᎵᏒ"_s,
 		""_s
 	}));
 	$var($StringArray, Azores, $new($StringArray, {
-		u"\u13a0\u13d0\u13b4\u13cf \u13a0\u13df\u13b6\u13cd\u13d7 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᎠᏐᎴᏏ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
-		u"\u13a0\u13d0\u13b4\u13cf \u13aa\u13a9 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᎠᏐᎴᏏ ᎪᎩ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
-		u"\u13a0\u13d0\u13b4\u13cf \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᎠᏐᎴᏏ ᎠᏟᎢᎵᏒ"_s,
 		""_s
 	}));
 	$var($StringArray, Bhutan, $new($StringArray, {
-		u"\u13ca\u13d4\u13c2 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᏊᏔᏂ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -283,7 +283,7 @@ $ObjectArray2* TimeZoneNames_chr::getContents() {
 		""_s
 	}));
 	$var($StringArray, Brunei, $new($StringArray, {
-		u"\u13ca\u13be\u13a2 \u13d3\u13b7\u13cc\u13b3\u13bb \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᏊᎾᎢ ᏓᎷᏌᎳᎻ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -291,15 +291,15 @@ $ObjectArray2* TimeZoneNames_chr::getContents() {
 		""_s
 	}));
 	$var($StringArray, Easter, $new($StringArray, {
-		u"\u13e5\u13cc\u13d5\u13b4\u13af\u13cc\u13c5 \u13a4\u13a6\u13da\u13db\u13a2 \u13a0\u13df\u13b6\u13cd\u13d7 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᏥᏌᏕᎴᎯᏌᏅ ᎤᎦᏚᏛᎢ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
-		u"\u13e5\u13cc\u13d5\u13b4\u13af\u13cc\u13c5 \u13a4\u13a6\u13da\u13db\u13a2 \u13aa\u13a9 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᏥᏌᏕᎴᎯᏌᏅ ᎤᎦᏚᏛᎢ ᎪᎩ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
-		u"\u13e5\u13cc\u13d5\u13b4\u13af\u13cc\u13c5 \u13a4\u13a6\u13da\u13db\u13a2 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᏥᏌᏕᎴᎯᏌᏅ ᎤᎦᏚᏛᎢ ᎠᏟᎢᎵᏒ"_s,
 		""_s
 	}));
 	$var($StringArray, Guyana, $new($StringArray, {
-		u"\u13a6\u13ef\u13be \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᎦᏯᎾ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -307,15 +307,15 @@ $ObjectArray2* TimeZoneNames_chr::getContents() {
 		""_s
 	}));
 	$var($StringArray, Israel, $new($StringArray, {
-		u"\u13a2\u13cf\u13b5\u13f1 \u13a0\u13df\u13b6\u13cd\u13d7 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᎢᏏᎵᏱ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
-		u"\u13a2\u13cf\u13b5\u13f1 \u13aa\u13af \u13a2\u13a6 \u13a0\u13df\u13a2\u13b5\u13d2\u13a9"_s,
+		u"ᎢᏏᎵᏱ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒᎩ"_s,
 		""_s,
-		u"\u13a2\u13cf\u13b5\u13f1 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᎢᏏᎵᏱ ᎠᏟᎢᎵᏒ"_s,
 		""_s
 	}));
 	$var($StringArray, Kosrae, $new($StringArray, {
-		u"\u13aa\u13cd\u13b4 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᎪᏍᎴ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -323,7 +323,7 @@ $ObjectArray2* TimeZoneNames_chr::getContents() {
 		""_s
 	}));
 	$var($StringArray, Mawson, $new($StringArray, {
-		u"\u13b9\u13cc\u13c2 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᎹᏌᏂ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -331,15 +331,15 @@ $ObjectArray2* TimeZoneNames_chr::getContents() {
 		""_s
 	}));
 	$var($StringArray, Moscow, $new($StringArray, {
-		u"\u13b9\u13cd\u13a6\u13eb \u13a0\u13df\u13b6\u13cd\u13d7 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᎹᏍᎦᏫ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
-		u"\u13b9\u13cd\u13a6\u13eb \u13aa\u13a9 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᎹᏍᎦᏫ ᎪᎩ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
-		u"\u13b9\u13cd\u13a6\u13eb \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᎹᏍᎦᏫ ᎠᏟᎢᎵᏒ"_s,
 		""_s
 	}));
 	$var($StringArray, Ponape, $new($StringArray, {
-		u"\u13c9\u13be\u13c7 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᏉᎾᏇ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -347,7 +347,7 @@ $ObjectArray2* TimeZoneNames_chr::getContents() {
 		""_s
 	}));
 	$var($StringArray, Tahiti, $new($StringArray, {
-		u"\u13d4\u13af\u13d8 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᏔᎯᏘ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -355,15 +355,15 @@ $ObjectArray2* TimeZoneNames_chr::getContents() {
 		""_s
 	}));
 	$var($StringArray, Taipei, $new($StringArray, {
-		u"\u13d4\u13f1\u13c7 \u13a0\u13df\u13b6\u13cd\u13d7 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᏔᏱᏇ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
-		u"\u13d4\u13f1\u13c7 \u13aa\u13af \u13a2\u13a6 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᏔᏱᏇ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
-		u"\u13d4\u13f1\u13c7 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᏔᏱᏇ ᎠᏟᎢᎵᏒ"_s,
 		""_s
 	}));
 	$var($StringArray, Tuvalu, $new($StringArray, {
-		u"\u13da\u13e9\u13b7 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᏚᏩᎷ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -371,7 +371,7 @@ $ObjectArray2* TimeZoneNames_chr::getContents() {
 		""_s
 	}));
 	$var($StringArray, Vostok, $new($StringArray, {
-		u"\u13ec\u13cd\u13d9\u13a7 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᏬᏍᏙᎧ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -379,7 +379,7 @@ $ObjectArray2* TimeZoneNames_chr::getContents() {
 		""_s
 	}));
 	$var($StringArray, Wallis, $new($StringArray, {
-		u"\u13e9\u13b5\u13cd \u13a0\u13b4 \u13ca\u13da\u13be \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᏩᎵᏍ ᎠᎴ ᏊᏚᎾ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -387,23 +387,23 @@ $ObjectArray2* TimeZoneNames_chr::getContents() {
 		""_s
 	}));
 	$var($StringArray, Arabian, $new($StringArray, {
-		u"\u13a0\u13b4\u13c8\u13ef \u13a0\u13df\u13b6\u13cd\u13d7 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᎠᎴᏈᏯ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
-		u"\u13a0\u13b4\u13c8\u13ef \u13aa\u13af \u13a2\u13a6 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᎠᎴᏈᏯ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
-		u"\u13a0\u13b4\u13c8\u13ef \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᎠᎴᏈᏯ ᎠᏟᎢᎵᏒ"_s,
 		""_s
 	}));
 	$var($StringArray, Armenia, $new($StringArray, {
-		u"\u13a0\u13b5\u13bb\u13c2\u13a0 \u13a0\u13df\u13b6\u13cd\u13d7 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᎠᎵᎻᏂᎠ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
-		u"\u13a0\u13b5\u13bb\u13c2\u13a0 \u13aa\u13a9 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᎠᎵᎻᏂᎠ ᎪᎩ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
-		u"\u13a0\u13b5\u13bb\u13c2\u13a0 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᎠᎵᎻᏂᎠ ᎠᏟᎢᎵᏒ"_s,
 		""_s
 	}));
 	$var($StringArray, Bolivia, $new($StringArray, {
-		u"\u13c9\u13b5\u13eb\u13a0 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᏉᎵᏫᎠ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -411,15 +411,15 @@ $ObjectArray2* TimeZoneNames_chr::getContents() {
 		""_s
 	}));
 	$var($StringArray, Chatham, $new($StringArray, {
-		u"\u13e3\u13dd\u13bb \u13a0\u13df\u13b6\u13cd\u13d7 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᏣᏝᎻ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
-		u"\u13e3\u13dd\u13bb \u13aa\u13af \u13a2\u13a6 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᏣᏝᎻ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
-		u"\u13e3\u13dd\u13bb \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᏣᏝᎻ ᎠᏟᎢᎵᏒ"_s,
 		""_s
 	}));
 	$var($StringArray, ETC_UTC, $new($StringArray, {
-		u"\u13a2\u13a9\u13e0\u13f1 \u13c2\u13a6\u13d3 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᎢᎩᏠᏱ ᏂᎦᏓ ᎠᏟᎢᎵᏒ"_s,
 		"UTC"_s,
 		""_s,
 		""_s,
@@ -427,7 +427,7 @@ $ObjectArray2* TimeZoneNames_chr::getContents() {
 		""_s
 	}));
 	$var($StringArray, Ecuador, $new($StringArray, {
-		u"\u13a1\u13c6\u13d9\u13b5 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᎡᏆᏙᎵ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -435,7 +435,7 @@ $ObjectArray2* TimeZoneNames_chr::getContents() {
 		""_s
 	}));
 	$var($StringArray, Gambier, $new($StringArray, {
-		u"\u13a6\u13bb\u13c7\u13b5 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᎦᎻᏇᎵ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -443,31 +443,31 @@ $ObjectArray2* TimeZoneNames_chr::getContents() {
 		""_s
 	}));
 	$var($StringArray, Georgia, $new($StringArray, {
-		u"\u13e3\u13a0\u13e5\u13a2 \u13a0\u13df\u13b6\u13cd\u13d7 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᏣᎠᏥᎢ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
-		u"\u13e3\u13a0\u13e5\u13a2 \u13aa\u13a9 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᏣᎠᏥᎢ ᎪᎩ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
-		u"\u13e3\u13a0\u13e5\u13a2 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᏣᎠᏥᎢ ᎠᏟᎢᎵᏒ"_s,
 		""_s
 	}));
 	$var($StringArray, Irkutsk, $new($StringArray, {
-		u"\u13a2\u13ab\u13e5\u13a7 \u13a0\u13df\u13b6\u13cd\u13d7 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᎢᎫᏥᎧ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
-		u"\u13a2\u13ab\u13e5\u13a7 \u13aa\u13a9 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᎢᎫᏥᎧ ᎪᎩ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
-		u"\u13a2\u13ab\u13e5\u13a7 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᎢᎫᏥᎧ ᎠᏟᎢᎵᏒ"_s,
 		""_s
 	}));
 	$var($StringArray, Magadan, $new($StringArray, {
-		u"\u13b9\u13a6\u13d3\u13c2 \u13a0\u13df\u13a2\u13b5\u13d2 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᎹᎦᏓᏂ ᎠᏟᎢᎵᏒ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
-		u"\u13b9\u13a6\u13d3\u13c2 \u13aa\u13a9 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᎹᎦᏓᏂ ᎪᎩ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
-		u"\u13b9\u13a6\u13d3\u13c2 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᎹᎦᏓᏂ ᎠᏟᎢᎵᏒ"_s,
 		""_s
 	}));
 	$var($StringArray, Myanmar, $new($StringArray, {
-		u"\u13b9\u13ef\u13b9\u13b5 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᎹᏯᎹᎵ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -475,23 +475,23 @@ $ObjectArray2* TimeZoneNames_chr::getContents() {
 		""_s
 	}));
 	$var($StringArray, Norfolk, $new($StringArray, {
-		u"\u13c3\u13b5\u13ec\u13b5\u13a9 \u13a4\u13a6\u13da\u13db\u13a2 \u13a0\u13df\u13b6\u13cd\u13d7 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᏃᎵᏬᎵᎩ ᎤᎦᏚᏛᎢ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
-		u"\u13c3\u13b5\u13ec\u13b5\u13a9 \u13a4\u13a6\u13da\u13db\u13a2 \u13aa\u13a9 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᏃᎵᏬᎵᎩ ᎤᎦᏚᏛᎢ ᎪᎩ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
-		u"\u13c3\u13b5\u13ec\u13b5\u13a9 \u13a4\u13a6\u13da\u13db\u13a2 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᏃᎵᏬᎵᎩ ᎤᎦᏚᏛᎢ ᎠᏟᎢᎵᏒ"_s,
 		""_s
 	}));
 	$var($StringArray, Noronha, $new($StringArray, {
-		u"\u13ea\u13be\u13c5\u13d9 \u13d5 \u13c3\u13b6\u13be\u13ad \u13a0\u13df\u13b6\u13cd\u13d7 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᏪᎾᏅᏙ Ꮥ ᏃᎶᎾᎭ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
-		u"\u13ea\u13be\u13c5\u13d9 \u13d5 \u13c3\u13b6\u13be\u13ad \u13aa\u13a9 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᏪᎾᏅᏙ Ꮥ ᏃᎶᎾᎭ ᎪᎩ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
-		u"\u13ea\u13be\u13c5\u13d9 \u13d5 \u13c3\u13b6\u13be\u13ad \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᏪᎾᏅᏙ Ꮥ ᏃᎶᎾᎭ ᎠᏟᎢᎵᏒ"_s,
 		""_s
 	}));
 	$var($StringArray, Reunion, $new($StringArray, {
-		u"\u13b4\u13f3\u13c2\u13a0\u13c2 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᎴᏳᏂᎠᏂ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -499,7 +499,7 @@ $ObjectArray2* TimeZoneNames_chr::getContents() {
 		""_s
 	}));
 	$var($StringArray, Rothera, $new($StringArray, {
-		u"\u13b3\u13de\u13b3 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᎳᏞᎳ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -507,7 +507,7 @@ $ObjectArray2* TimeZoneNames_chr::getContents() {
 		""_s
 	}));
 	$var($StringArray, Solomon, $new($StringArray, {
-		u"\u13d0\u13b6\u13b9\u13c2 \u13da\u13a6\u13da\u13db\u13a2 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᏐᎶᎹᏂ ᏚᎦᏚᏛᎢ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -515,7 +515,7 @@ $ObjectArray2* TimeZoneNames_chr::getContents() {
 		""_s
 	}));
 	$var($StringArray, Tokelau, $new($StringArray, {
-		u"\u13d9\u13a8\u13b3\u13a4 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᏙᎨᎳᎤ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -523,47 +523,47 @@ $ObjectArray2* TimeZoneNames_chr::getContents() {
 		""_s
 	}));
 	$var($StringArray, Uruguay, $new($StringArray, {
-		u"\u13f3\u13b7\u13c7 \u13a0\u13df\u13b6\u13cd\u13d7 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᏳᎷᏇ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
-		u"\u13f3\u13b7\u13c7 \u13aa\u13a9 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᏳᎷᏇ ᎪᎩ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
-		u"\u13f3\u13b7\u13c7 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᏳᎷᏇ ᎠᏟᎢᎵᏒ"_s,
 		""_s
 	}));
 	$var($StringArray, Vanuatu, $new($StringArray, {
-		u"\u13e9\u13c4\u13e9\u13da \u13a0\u13df\u13b6\u13cd\u13d7 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᏩᏄᏩᏚ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
-		u"\u13e9\u13c4\u13e9\u13da \u13aa\u13a9 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᏩᏄᏩᏚ ᎪᎩ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
-		u"\u13e9\u13c4\u13e9\u13da \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᏩᏄᏩᏚ ᎠᏟᎢᎵᏒ"_s,
 		""_s
 	}));
 	$var($StringArray, Yakutsk, $new($StringArray, {
-		u"\u13ef\u13ab\u13e5\u13a7 \u13a0\u13df\u13b6\u13cd\u13d7 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᏯᎫᏥᎧ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
-		u"\u13ef\u13ab\u13e5\u13a7 \u13aa\u13a9 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᏯᎫᏥᎧ ᎪᎩ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
-		u"\u13ef\u13ab\u13e5\u13a7 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᏯᎫᏥᎧ ᎠᏟᎢᎵᏒ"_s,
 		""_s
 	}));
 	$var($StringArray, Atlantic, $new($StringArray, {
-		u"\u13d7\u13a7\u13b8\u13ac \u13a0\u13df\u13b6\u13cd\u13d7 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᏗᎧᎸᎬ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ"_s,
 		"AST"_s,
-		u"\u13d7\u13a7\u13b8\u13ac \u13aa\u13af \u13a2\u13a6 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᏗᎧᎸᎬ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ"_s,
 		"ADT"_s,
-		u"\u13d7\u13a7\u13b8\u13ac \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᏗᎧᎸᎬ ᎠᏟᎢᎵᏒ"_s,
 		"AT"_s
 	}));
 	$var($StringArray, Brasilia, $new($StringArray, {
-		u"\u13c6\u13cf\u13b5\u13ef \u13a0\u13df\u13b6\u13cd\u13d7 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᏆᏏᎵᏯ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
-		u"\u13c6\u13cf\u13b5\u13ef \u13aa\u13a9 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᏆᏏᎵᏯ ᎪᎩ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
-		u"\u13c6\u13cf\u13b5\u13ef \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᏆᏏᎵᏯ ᎠᏟᎢᎵᏒ"_s,
 		""_s
 	}));
 	$var($StringArray, Chamorro, $new($StringArray, {
-		u"\u13e3\u13bc\u13b6 \u13a0\u13df\u13b6\u13cd\u13d7 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᏣᎼᎶ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -571,23 +571,23 @@ $ObjectArray2* TimeZoneNames_chr::getContents() {
 		""_s
 	}));
 	$var($StringArray, Colombia, $new($StringArray, {
-		u"\u13aa\u13b8\u13bb\u13c8\u13a2\u13a0 \u13a0\u13df\u13b6\u13cd\u13d7 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᎪᎸᎻᏈᎢᎠ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
-		u"\u13aa\u13b8\u13bb\u13c8\u13a2\u13a0 \u13aa\u13a9 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᎪᎸᎻᏈᎢᎠ ᎪᎩ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
-		u"\u13aa\u13b8\u13bb\u13c8\u13a2\u13a0 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᎪᎸᎻᏈᎢᎠ ᎠᏟᎢᎵᏒ"_s,
 		""_s
 	}));
 	$var($StringArray, Falkland, $new($StringArray, {
-		u"\u13e9\u13a9 \u13da\u13a6\u13da\u13db\u13a2 \u13a0\u13df\u13b6\u13cd\u13d7 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᏩᎩ ᏚᎦᏚᏛᎢ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
-		u"\u13e9\u13a9 \u13da\u13a6\u13da\u13db\u13a2 \u13aa\u13a9 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᏩᎩ ᏚᎦᏚᏛᎢ ᎪᎩ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
-		u"\u13e9\u13a9 \u13da\u13a6\u13da\u13db\u13a2 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᏩᎩ ᏚᎦᏚᏛᎢ ᎠᏟᎢᎵᏒ"_s,
 		""_s
 	}));
 	$var($StringArray, Malaysia, $new($StringArray, {
-		u"\u13b9\u13b4\u13cf\u13a2\u13a0 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᎹᎴᏏᎢᎠ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -595,7 +595,7 @@ $ObjectArray2* TimeZoneNames_chr::getContents() {
 		""_s
 	}));
 	$var($StringArray, Maldives, $new($StringArray, {
-		u"\u13b9\u13b5\u13d7\u13eb\u13cd \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᎹᎵᏗᏫᏍ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -603,31 +603,31 @@ $ObjectArray2* TimeZoneNames_chr::getContents() {
 		""_s
 	}));
 	$var($StringArray, Mongolia, $new($StringArray, {
-		u"\u13a4\u13b3\u13c2 \u13c6\u13d9\u13b8 \u13a0\u13df\u13b6\u13cd\u13d7 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᎤᎳᏂ ᏆᏙᎸ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
-		u"\u13a4\u13b3\u13c2 \u13c6\u13d9\u13b8 \u13aa\u13a9 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᎤᎳᏂ ᏆᏙᎸ ᎪᎩ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
-		u"\u13a4\u13b3\u13c2 \u13c6\u13d9\u13b8 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᎤᎳᏂ ᏆᏙᎸ ᎠᏟᎢᎵᏒ"_s,
 		""_s
 	}));
 	$var($StringArray, Pakistan, $new($StringArray, {
-		u"\u13c6\u13a9\u13cd\u13d6\u13c2 \u13a0\u13df\u13b6\u13cd\u13d7 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᏆᎩᏍᏖᏂ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
-		u"\u13c6\u13a9\u13cd\u13d6\u13c2 \u13aa\u13a9 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᏆᎩᏍᏖᏂ ᎪᎩ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
-		u"\u13c6\u13a9\u13cd\u13d6\u13c2 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᏆᎩᏍᏖᏂ ᎠᏟᎢᎵᏒ"_s,
 		""_s
 	}));
 	$var($StringArray, Paraguay, $new($StringArray, {
-		u"\u13c6\u13b5\u13c7 \u13a0\u13df\u13b6\u13cd\u13d7 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᏆᎵᏇ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
-		u"\u13c6\u13b5\u13c7 \u13aa\u13a9 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᏆᎵᏇ ᎪᎩ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
-		u"\u13c6\u13b5\u13c7 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᏆᎵᏇ ᎠᏟᎢᎵᏒ"_s,
 		""_s
 	}));
 	$var($StringArray, Pitcairn, $new($StringArray, {
-		u"\u13c8\u13a7\u13b5\u13c2 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᏈᎧᎵᏂ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -635,15 +635,15 @@ $ObjectArray2* TimeZoneNames_chr::getContents() {
 		""_s
 	}));
 	$var($StringArray, Sakhalin, $new($StringArray, {
-		u"\u13cc\u13a7\u13b5\u13c2 \u13a0\u13df\u13b6\u13cd\u13d7 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᏌᎧᎵᏂ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
-		u"\u13cc\u13a7\u13b5\u13c2 \u13aa\u13a9 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᏌᎧᎵᏂ ᎪᎩ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
-		u"\u13cc\u13a7\u13b5\u13c2 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᏌᎧᎵᏂ ᎠᏟᎢᎵᏒ"_s,
 		""_s
 	}));
 	$var($StringArray, Suriname, $new($StringArray, {
-		u"\u13d2\u13b5\u13be\u13bb \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᏒᎵᎾᎻ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -651,15 +651,15 @@ $ObjectArray2* TimeZoneNames_chr::getContents() {
 		""_s
 	}));
 	$var($StringArray, Argentina, $new($StringArray, {
-		u"\u13a0\u13e5\u13c2\u13d8\u13c2\u13a0 \u13a0\u13df\u13b6\u13cd\u13d7 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᎠᏥᏂᏘᏂᎠ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
-		u"\u13a0\u13e5\u13c2\u13d8\u13c2\u13a0 \u13aa\u13a9 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᎠᏥᏂᏘᏂᎠ ᎪᎩ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
-		u"\u13a0\u13e5\u13c2\u13d8\u13c2\u13a0 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᎠᏥᏂᏘᏂᎠ ᎠᏟᎢᎵᏒ"_s,
 		""_s
 	}));
 	$var($StringArray, Christmas, $new($StringArray, {
-		u"\u13d3\u13c2\u13cd\u13d3\u13f2\u13af\u13b2 \u13a4\u13a6\u13da\u13db\u13a2 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᏓᏂᏍᏓᏲᎯᎲ ᎤᎦᏚᏛᎢ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -667,7 +667,7 @@ $ObjectArray2* TimeZoneNames_chr::getContents() {
 		""_s
 	}));
 	$var($StringArray, Galapagos, $new($StringArray, {
-		u"\u13a1\u13c6 \u13d3\u13a6\u13cf \u13a4\u13a6\u13da\u13db\u13a2 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᎡᏆ ᏓᎦᏏ ᎤᎦᏚᏛᎢ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -675,15 +675,15 @@ $ObjectArray2* TimeZoneNames_chr::getContents() {
 		""_s
 	}));
 	$var($StringArray, Hong_Kong, $new($StringArray, {
-		u"\u13b0\u13c2\u13a9 \u13aa\u13c2\u13a9 \u13a0\u13df\u13b6\u13cd\u13d7 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᎰᏂᎩ ᎪᏂᎩ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
-		u"\u13b0\u13c2\u13a9 \u13aa\u13c2\u13a9 \u13aa\u13a9 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᎰᏂᎩ ᎪᏂᎩ ᎪᎩ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
-		u"\u13b0\u13c2\u13a9 \u13aa\u13c2\u13a9 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᎰᏂᎩ ᎪᏂᎩ ᎠᏟᎢᎵᏒ"_s,
 		""_s
 	}));
 	$var($StringArray, Indochina, $new($StringArray, {
-		u"\u13a2\u13c2\u13d9\u13d3\u13b6\u13c2\u13a8\u13cd\u13db \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᎢᏂᏙᏓᎶᏂᎨᏍᏛ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -691,7 +691,7 @@ $ObjectArray2* TimeZoneNames_chr::getContents() {
 		""_s
 	}));
 	$var($StringArray, Kyrgystan, $new($StringArray, {
-		u"\u13a9\u13b5\u13e3\u13a2\u13cd \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᎩᎵᏣᎢᏍ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -699,15 +699,15 @@ $ObjectArray2* TimeZoneNames_chr::getContents() {
 		""_s
 	}));
 	$var($StringArray, Lord_Howe, $new($StringArray, {
-		u"\u13a4\u13ac\u13eb\u13f3\u13af \u13ad\u13eb \u13a0\u13df\u13b6\u13cd\u13d7 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᎤᎬᏫᏳᎯ ᎭᏫ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
-		u"\u13a4\u13ac\u13eb\u13f3\u13af \u13ad\u13eb \u13aa\u13af \u13a2\u13a6 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᎤᎬᏫᏳᎯ ᎭᏫ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
-		u"\u13a4\u13ac\u13eb\u13f3\u13af \u13ad\u13eb \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᎤᎬᏫᏳᎯ ᎭᏫ ᎠᏟᎢᎵᏒ"_s,
 		""_s
 	}));
 	$var($StringArray, Marquesas, $new($StringArray, {
-		u"\u13b9\u13b5\u13a8\u13cc\u13cf \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᎹᎵᎨᏌᏏ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -715,15 +715,15 @@ $ObjectArray2* TimeZoneNames_chr::getContents() {
 		""_s
 	}));
 	$var($StringArray, Mauritius, $new($StringArray, {
-		u"\u13bc\u13b5\u13cf\u13a5\u13cd \u13a0\u13df\u13b6\u13cd\u13d7 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᎼᎵᏏᎥᏍ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
-		u"\u13bc\u13b5\u13cf\u13a5\u13cd \u13aa\u13a9 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᎼᎵᏏᎥᏍ ᎪᎩ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
-		u"\u13bc\u13b5\u13cf\u13a5\u13cd \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᎼᎵᏏᎥᏍ ᎠᏟᎢᎵᏒ"_s,
 		""_s
 	}));
 	$var($StringArray, Singapore, $new($StringArray, {
-		u"\u13cf\u13c2\u13a6\u13c9\u13b5 \u13a0\u13df\u13b6\u13cd\u13d7 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᏏᏂᎦᏉᎵ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -731,7 +731,7 @@ $ObjectArray2* TimeZoneNames_chr::getContents() {
 		""_s
 	}));
 	$var($StringArray, Venezuela, $new($StringArray, {
-		u"\u13ea\u13c1\u13d1\u13ea\u13b3 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᏪᏁᏑᏪᎳ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -739,39 +739,39 @@ $ObjectArray2* TimeZoneNames_chr::getContents() {
 		""_s
 	}));
 	$var($StringArray, Volgograd, $new($StringArray, {
-		u"\u13ec\u13b6\u13aa\u13dd\u13d7 \u13a0\u13df\u13b6\u13cd\u13d7 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᏬᎶᎪᏝᏗ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
-		u"\u13ec\u13b6\u13aa\u13dd\u13d7 \u13aa\u13a9 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᏬᎶᎪᏝᏗ ᎪᎩ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
-		u"\u13ec\u13b6\u13aa\u13dd\u13d7 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᏬᎶᎪᏝᏗ ᎠᏟᎢᎵᏒ"_s,
 		""_s
 	}));
 	$var($StringArray, Azerbaijan, $new($StringArray, {
-		u"\u13a0\u13cf\u13b5\u13c6\u13cc\u13c2 \u13a0\u13df\u13b6\u13cd\u13d7 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᎠᏏᎵᏆᏌᏂ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
-		u"\u13a0\u13cf\u13b5\u13c6\u13cc\u13c2 \u13aa\u13a9 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᎠᏏᎵᏆᏌᏂ ᎪᎩ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
-		u"\u13a0\u13cf\u13b5\u13c6\u13cc\u13c2 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᎠᏏᎵᏆᏌᏂ ᎠᏟᎢᎵᏒ"_s,
 		""_s
 	}));
 	$var($StringArray, Bangladesh, $new($StringArray, {
-		u"\u13c6\u13c2\u13a6\u13b5\u13d5\u13cd \u13a0\u13df\u13b6\u13cd\u13d7 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᏆᏂᎦᎵᏕᏍ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
-		u"\u13c6\u13c2\u13a6\u13b5\u13d5\u13cd \u13aa\u13a9 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᏆᏂᎦᎵᏕᏍ ᎪᎩ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
-		u"\u13c6\u13c2\u13a6\u13b5\u13d5\u13cd \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᏆᏂᎦᎵᏕᏍ ᎠᏟᎢᎵᏒ"_s,
 		""_s
 	}));
 	$var($StringArray, Cape_Verde, $new($StringArray, {
-		u"\u13a2\u13ac\u13be\u13d5\u13be \u13a2\u13e4\u13f3\u13cd\u13d7 \u13a0\u13df\u13b6\u13cd\u13d7 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᎢᎬᎾᏕᎾ ᎢᏤᏳᏍᏗ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
-		u"\u13a2\u13ac\u13be\u13d5\u13be \u13a2\u13e4\u13f3\u13cd\u13d7 \u13aa\u13a9 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᎢᎬᎾᏕᎾ ᎢᏤᏳᏍᏗ ᎪᎩ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
-		u"\u13a2\u13ac\u13be\u13d5\u13be \u13a2\u13e4\u13f3\u13cd\u13d7 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᎢᎬᎾᏕᎾ ᎢᏤᏳᏍᏗ ᎠᏟᎢᎵᏒ"_s,
 		""_s
 	}));
 	$var($StringArray, East_Timor, $new($StringArray, {
-		u"\u13d7\u13a7\u13b8\u13ac \u13d8\u13bc\u13b5 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᏗᎧᎸᎬ ᏘᎼᎵ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -779,7 +779,7 @@ $ObjectArray2* TimeZoneNames_chr::getContents() {
 		""_s
 	}));
 	$var($StringArray, Seychelles, $new($StringArray, {
-		u"\u13ce\u13e4\u13b4\u13cf \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᏎᏤᎴᏏ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -787,7 +787,7 @@ $ObjectArray2* TimeZoneNames_chr::getContents() {
 		""_s
 	}));
 	$var($StringArray, Tajikistan, $new($StringArray, {
-		u"\u13d4\u13e5\u13a9\u13cd\u13d5\u13c2 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᏔᏥᎩᏍᏕᏂ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -795,15 +795,15 @@ $ObjectArray2* TimeZoneNames_chr::getContents() {
 		""_s
 	}));
 	$var($StringArray, Uzbekistan, $new($StringArray, {
-		u"\u13a4\u13cd\u13c7\u13a9\u13cd\u13d6\u13c2 \u13a0\u13df\u13b6\u13cd\u13d7 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᎤᏍᏇᎩᏍᏖᏂ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
-		u"\u13a4\u13cd\u13c7\u13a9\u13cd\u13d6\u13c2 \u13aa\u13a9 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᎤᏍᏇᎩᏍᏖᏂ ᎪᎩ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
-		u"\u13a4\u13cd\u13c7\u13a9\u13cd\u13d6\u13c2 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᎤᏍᏇᎩᏍᏖᏂ ᎠᏟᎢᎵᏒ"_s,
 		""_s
 	}));
 	$var($StringArray, Afghanistan, $new($StringArray, {
-		u"\u13a0\u13eb\u13a8\u13c2\u13cd\u13d6\u13c2 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᎠᏫᎨᏂᏍᏖᏂ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -811,47 +811,47 @@ $ObjectArray2* TimeZoneNames_chr::getContents() {
 		""_s
 	}));
 	$var($StringArray, Krasnoyarsk, $new($StringArray, {
-		u"\u13dd\u13cd\u13c3\u13ef\u13cd\u13a7 \u13a0\u13df\u13b6\u13cd\u13d7 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᏝᏍᏃᏯᏍᎧ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
-		u"\u13dd\u13cd\u13c3\u13ef\u13cd\u13a7 \u13aa\u13a9 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᏝᏍᏃᏯᏍᎧ ᎪᎩ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
-		u"\u13dd\u13cd\u13c3\u13ef\u13cd\u13a7 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᏝᏍᏃᏯᏍᎧ ᎠᏟᎢᎵᏒ"_s,
 		""_s
 	}));
 	$var($StringArray, New_Zealand, $new($StringArray, {
-		u"\u13a2\u13e4 \u13cf\u13a2\u13b4\u13c2\u13d7 \u13a0\u13df\u13b6\u13cd\u13d7 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᎢᏤ ᏏᎢᎴᏂᏗ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
-		u"\u13a2\u13e4 \u13cf\u13a2\u13b4\u13c2\u13d7 \u13aa\u13af \u13a2\u13a6 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᎢᏤ ᏏᎢᎴᏂᏗ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
-		u"\u13a2\u13e4 \u13cf\u13a2\u13b4\u13c2\u13d7 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᎢᏤ ᏏᎢᎴᏂᏗ ᎠᏟᎢᎵᏒ"_s,
 		""_s
 	}));
 	$var($StringArray, Novosibirsk, $new($StringArray, {
-		u"\u13c3\u13ec\u13cf\u13c8\u13cd\u13a7 \u13a0\u13df\u13b6\u13cd\u13d7 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᏃᏬᏏᏈᏍᎧ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
-		u"\u13c3\u13ec\u13cf\u13c8\u13cd\u13a7 \u13aa\u13a9 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᏃᏬᏏᏈᏍᎧ ᎪᎩ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
-		u"\u13c3\u13ec\u13cf\u13c8\u13cd\u13a7 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᏃᏬᏏᏈᏍᎧ ᎠᏟᎢᎵᏒ"_s,
 		""_s
 	}));
 	$var($StringArray, Philippines, $new($StringArray, {
-		u"\u13a0\u13c2\u13c8\u13b5\u13a9\u13c3 \u13a0\u13df\u13b6\u13cd\u13d7 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᎠᏂᏈᎵᎩᏃ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
-		u"\u13a0\u13c2\u13c8\u13b5\u13a9\u13c3 \u13aa\u13a9 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᎠᏂᏈᎵᎩᏃ ᎪᎩ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
-		u"\u13a0\u13c2\u13c8\u13b5\u13a9\u13c3 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᎠᏂᏈᎵᎩᏃ ᎠᏟᎢᎵᏒ"_s,
 		""_s
 	}));
 	$var($StringArray, Vladivostok, $new($StringArray, {
-		u"\u13ed\u13b3\u13d7\u13ec\u13cd\u13d9\u13a9 \u13a0\u13df\u13a2\u13b5\u13d2 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᏭᎳᏗᏬᏍᏙᎩ ᎠᏟᎢᎵᏒ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
-		u"\u13ed\u13b3\u13d7\u13ec\u13cd\u13d9\u13a9 \u13aa\u13a9 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᏭᎳᏗᏬᏍᏙᎩ ᎪᎩ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
-		u"\u13ed\u13b3\u13d7\u13ec\u13cd\u13d9\u13a9 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᏭᎳᏗᏬᏍᏙᎩ ᎠᏟᎢᎵᏒ"_s,
 		""_s
 	}));
 	$var($StringArray, Indian_Ocean, $new($StringArray, {
-		u"\u13a0\u13c2\u13f4\u13eb\u13ef \u13a0\u13ba\u13c9\u13af \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᎠᏂᏴᏫᏯ ᎠᎺᏉᎯ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -859,7 +859,7 @@ $ObjectArray2* TimeZoneNames_chr::getContents() {
 		""_s
 	}));
 	$var($StringArray, Line_Islands, $new($StringArray, {
-		u"\u13a0\u13cd\u13d3\u13c5\u13c5 \u13da\u13a6\u13da\u13db\u13a2 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᎠᏍᏓᏅᏅ ᏚᎦᏚᏛᎢ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -867,23 +867,23 @@ $ObjectArray2* TimeZoneNames_chr::getContents() {
 		""_s
 	}));
 	$var($StringArray, Newfoundland, $new($StringArray, {
-		u"\u13a2\u13e4\u13a4\u13c2\u13e9\u13db\u13d3\u13a6\u13d9\u13af \u13a0\u13df\u13b6\u13cd\u13d7 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᎢᏤᎤᏂᏩᏛᏓᎦᏙᎯ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
-		u"\u13a2\u13e4\u13a4\u13c2\u13e9\u13db\u13d3\u13a6\u13d9\u13af \u13aa\u13af \u13a2\u13a6 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᎢᏤᎤᏂᏩᏛᏓᎦᏙᎯ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
-		u"\u13a2\u13e4\u13a4\u13c2\u13e9\u13db\u13d3\u13a6\u13d9\u13af \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᎢᏤᎤᏂᏩᏛᏓᎦᏙᎯ ᎠᏟᎢᎵᏒ"_s,
 		""_s
 	}));
 	$var($StringArray, Turkmenistan, $new($StringArray, {
-		u"\u13db\u13b5\u13a9\u13ba\u13c2\u13cd\u13d4\u13c2 \u13a0\u13df\u13b6\u13cd\u13d7 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᏛᎵᎩᎺᏂᏍᏔᏂ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
-		u"\u13db\u13b5\u13a9\u13ba\u13c2\u13cd\u13d4\u13c2 \u13aa\u13a9 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᏛᎵᎩᎺᏂᏍᏔᏂ ᎪᎩ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
-		u"\u13db\u13b5\u13a9\u13ba\u13c2\u13cd\u13d4\u13c2 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᏛᎵᎩᎺᏂᏍᏔᏂ ᎠᏟᎢᎵᏒ"_s,
 		""_s
 	}));
 	$var($StringArray, French_Guiana, $new($StringArray, {
-		u"\u13a0\u13c2\u13a6\u13b8 \u13c8\u13ef\u13be \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᎠᏂᎦᎸ ᏈᏯᎾ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -891,15 +891,15 @@ $ObjectArray2* TimeZoneNames_chr::getContents() {
 		""_s
 	}));
 	$var($StringArray, New_Caledonia, $new($StringArray, {
-		u"\u13a2\u13e4 \u13a7\u13b5\u13d9\u13c2\u13a0\u13c2 \u13a0\u13df\u13b6\u13cd\u13d7 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᎢᏤ ᎧᎵᏙᏂᎠᏂ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
-		u"\u13a2\u13e4 \u13a7\u13b5\u13d9\u13c2\u13a0\u13c2 \u13aa\u13a9 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᎢᏤ ᎧᎵᏙᏂᎠᏂ ᎪᎩ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
-		u"\u13a2\u13e4 \u13a7\u13b5\u13d9\u13c2\u13a0\u13c2 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᎢᏤ ᎧᎵᏙᏂᎠᏂ ᎠᏟᎢᎵᏒ"_s,
 		""_s
 	}));
 	$var($StringArray, South_Georgia, $new($StringArray, {
-		u"\u13e7\u13a6\u13be\u13ee \u13e3\u13a0\u13e5\u13a2 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᏧᎦᎾᏮ ᏣᎠᏥᎢ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -907,15 +907,15 @@ $ObjectArray2* TimeZoneNames_chr::getContents() {
 		""_s
 	}));
 	$var($StringArray, Yekaterinburg, $new($StringArray, {
-		u"\u13f0\u13a7\u13d6\u13b5\u13c2\u13ca\u13a6 \u13a0\u13df\u13b6\u13cd\u13d7 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᏰᎧᏖᎵᏂᏊᎦ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
-		u"\u13f0\u13a7\u13d6\u13b5\u13c2\u13ca\u13a6 \u13aa\u13a9 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᏰᎧᏖᎵᏂᏊᎦ ᎪᎩ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
-		u"\u13f0\u13a7\u13d6\u13b5\u13c2\u13ca\u13a6 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᏰᎧᏖᎵᏂᏊᎦ ᎠᏟᎢᎵᏒ"_s,
 		""_s
 	}));
 	$var($StringArray, Africa_Central, $new($StringArray, {
-		u"\u13a0\u13f0\u13df \u13ac\u13bf\u13a8\u13cd\u13db \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᎠᏰᏟ ᎬᎿᎨᏍᏛ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -923,7 +923,7 @@ $ObjectArray2* TimeZoneNames_chr::getContents() {
 		""_s
 	}));
 	$var($StringArray, Africa_Eastern, $new($StringArray, {
-		u"\u13d7\u13a7\u13b8\u13ac \u13ac\u13bf\u13a8\u13cd\u13db \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᏗᎧᎸᎬ ᎬᎿᎨᏍᏛ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -931,15 +931,15 @@ $ObjectArray2* TimeZoneNames_chr::getContents() {
 		""_s
 	}));
 	$var($StringArray, Africa_Western, $new($StringArray, {
-		u"\u13ed\u13d5\u13b5\u13ac \u13ac\u13bf\u13a8\u13cd\u13db \u13a0\u13df\u13b6\u13cd\u13d7 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᏭᏕᎵᎬ ᎬᎿᎨᏍᏛ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
-		u"\u13ed\u13d5\u13b5\u13ac \u13ac\u13bf\u13a8\u13cd\u13db \u13aa\u13a9 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᏭᏕᎵᎬ ᎬᎿᎨᏍᏛ ᎪᎩ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
-		u"\u13ed\u13d5\u13b5\u13ac \u13ac\u13bf\u13a8\u13cd\u13db \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᏭᏕᎵᎬ ᎬᎿᎨᏍᏛ ᎠᏟᎢᎵᏒ"_s,
 		""_s
 	}));
 	$var($StringArray, DumontDUrville, $new($StringArray, {
-		u"\u13da\u13bc\u13be\u13d8-\u13d7\u2019\u13a4\u13b5\u13eb\u13b5 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᏚᎼᎾᏘ-Ꮧ’ᎤᎵᏫᎵ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -947,39 +947,39 @@ $ObjectArray2* TimeZoneNames_chr::getContents() {
 		""_s
 	}));
 	$var($StringArray, Europe_Central, $new($StringArray, {
-		u"\u13a0\u13f0\u13df \u13f3\u13b3\u13c8 \u13a0\u13df\u13b6\u13cd\u13d7 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᎠᏰᏟ ᏳᎳᏈ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
-		u"\u13a0\u13f0\u13df \u13f3\u13b3\u13c8 \u13aa\u13a9 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᎠᏰᏟ ᏳᎳᏈ ᎪᎩ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
-		u"\u13a0\u13f0\u13df \u13f3\u13b3\u13c8 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᎠᏰᏟ ᏳᎳᏈ ᎠᏟᎢᎵᏒ"_s,
 		""_s
 	}));
 	$var($StringArray, Europe_Eastern, $new($StringArray, {
-		u"\u13d7\u13a7\u13b8\u13ac \u13d7\u13dc \u13f3\u13b3\u13c8 \u13a0\u13df\u13b6\u13cd\u13d7 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᏗᎧᎸᎬ ᏗᏜ ᏳᎳᏈ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
-		u"\u13d7\u13a7\u13b8\u13ac \u13d7\u13dc \u13f3\u13b3\u13c8 \u13aa\u13a9 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᏗᎧᎸᎬ ᏗᏜ ᏳᎳᏈ ᎪᎩ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
-		u"\u13d7\u13a7\u13b8\u13ac \u13d7\u13dc \u13f3\u13b3\u13c8 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᏗᎧᎸᎬ ᏗᏜ ᏳᎳᏈ ᎠᏟᎢᎵᏒ"_s,
 		""_s
 	}));
 	$var($StringArray, Europe_Western, $new($StringArray, {
-		u"\u13ed\u13d5\u13b5\u13ac \u13d7\u13dc \u13f3\u13b3\u13c8 \u13a0\u13df\u13b6\u13cd\u13d7 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᏭᏕᎵᎬ ᏗᏜ ᏳᎳᏈ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
-		u"\u13ed\u13d5\u13b5\u13ac \u13d7\u13dc \u13f3\u13b3\u13c8 \u13aa\u13a9 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᏭᏕᎵᎬ ᏗᏜ ᏳᎳᏈ ᎪᎩ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
-		u"\u13ed\u13d5\u13b5\u13ac \u13d7\u13dc \u13f3\u13b3\u13c8 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᏭᏕᎵᎬ ᏗᏜ ᏳᎳᏈ ᎠᏟᎢᎵᏒ"_s,
 		""_s
 	}));
 	$var($StringArray, Mexico_Pacific, $new($StringArray, {
-		u"\u13a0\u13c2\u13cd\u13c6\u13c2 \u13ed\u13d5\u13b5\u13ac \u13a0\u13df\u13b6\u13cd\u13d7 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᎠᏂᏍᏆᏂ ᏭᏕᎵᎬ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
-		u"\u13a0\u13c2\u13cd\u13c6\u13c2 \u13ed\u13d5\u13b5\u13ac \u13aa\u13af \u13a2\u13a6 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᎠᏂᏍᏆᏂ ᏭᏕᎵᎬ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
-		u"\u13a0\u13c2\u13cd\u13c6\u13c2 \u13ed\u13d5\u13b5\u13ac \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᎠᏂᏍᏆᏂ ᏭᏕᎵᎬ ᎠᏟᎢᎵᏒ"_s,
 		""_s
 	}));
 	$var($StringArray, Africa_Southern, $new($StringArray, {
-		u"\u13e7\u13a6\u13be\u13ee \u13ac\u13bf\u13a8\u13cd\u13db \u13a0\u13df\u13b6\u13cd\u13d7 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᏧᎦᎾᏮ ᎬᎿᎨᏍᏛ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -987,31 +987,31 @@ $ObjectArray2* TimeZoneNames_chr::getContents() {
 		""_s
 	}));
 	$var($StringArray, America_Central, $new($StringArray, {
-		u"\u13a0\u13f0\u13df \u13a0\u13df\u13b6\u13cd\u13d7 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᎠᏰᏟ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ"_s,
 		"CST"_s,
-		u"\u13a0\u13f0\u13df \u13aa\u13af \u13a2\u13a6 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᎠᏰᏟ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ"_s,
 		"CDT"_s,
-		u"\u13a0\u13f0\u13df \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᎠᏰᏟ ᎠᏟᎢᎵᏒ"_s,
 		"CT"_s
 	}));
 	$var($StringArray, America_Eastern, $new($StringArray, {
-		u"\u13d7\u13a7\u13b8\u13ac \u13d7\u13dc \u13a0\u13df\u13b6\u13cd\u13d7 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ"_s,
 		"EST"_s,
-		u"\u13d7\u13a7\u13b8\u13ac \u13d7\u13dc \u13aa\u13af \u13a2\u13a6 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᏗᎧᎸᎬ ᏗᏜ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ"_s,
 		"EDT"_s,
-		u"\u13d7\u13a7\u13b8\u13ac \u13d7\u13dc \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎢᎵᏒ"_s,
 		"ET"_s
 	}));
 	$var($StringArray, America_Pacific, $new($StringArray, {
-		u"\u13ed\u13d5\u13b5\u13ac \u13a0\u13df\u13b6\u13cd\u13d7 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᏭᏕᎵᎬ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ"_s,
 		"PST"_s,
-		u"\u13ed\u13d5\u13b5\u13ac \u13aa\u13af \u13a2\u13a6 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᏭᏕᎵᎬ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ"_s,
 		"PDT"_s,
-		u"\u13ed\u13d5\u13b5\u13ac \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᏭᏕᎵᎬ ᎠᏟᎢᎵᏒ"_s,
 		"PT"_s
 	}));
 	$var($StringArray, French_Southern, $new($StringArray, {
-		u"\u13a0\u13c2\u13a6\u13b8\u13e5 \u13a4\u13a6\u13c3\u13ee & \u13a4\u13c1\u13cd\u13d3\u13b6 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᎠᏂᎦᎸᏥ ᎤᎦᏃᏮ & ᎤᏁᏍᏓᎶ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -1019,7 +1019,7 @@ $ObjectArray2* TimeZoneNames_chr::getContents() {
 		""_s
 	}));
 	$var($StringArray, Gilbert_Islands, $new($StringArray, {
-		u"\u13a9\u13b5\u13c7\u13d8 \u13da\u13a6\u13da\u13db\u13a2 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᎩᎵᏇᏘ ᏚᎦᏚᏛᎢ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -1027,15 +1027,15 @@ $ObjectArray2* TimeZoneNames_chr::getContents() {
 		""_s
 	}));
 	$var($StringArray, Hawaii_Aleutian, $new($StringArray, {
-		u"\u13ad\u13e9\u13f1-\u13a0\u13b5\u13f3\u13cf\u13a0\u13c2 \u13a0\u13df\u13b6\u13cd\u13d7 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᎭᏩᏱ-ᎠᎵᏳᏏᎠᏂ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ"_s,
 		"HAST"_s,
-		u"\u13ad\u13e9\u13f1-\u13a0\u13b5\u13f3\u13cf\u13a0\u13c2 \u13aa\u13af \u13a2\u13a6 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᎭᏩᏱ-ᎠᎵᏳᏏᎠᏂ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ"_s,
 		"HADT"_s,
-		u"\u13ad\u13e9\u13f1-\u13a0\u13b5\u13f3\u13cf\u13a0\u13c2 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᎭᏩᏱ-ᎠᎵᏳᏏᎠᏂ ᎠᏟᎢᎵᏒ"_s,
 		"HAT"_s
 	}));
 	$var($StringArray, Phoenix_Islands, $new($StringArray, {
-		u"\u13e7\u13b4\u13af\u13cc\u13c5\u13af \u13da\u13a6\u13da\u13db\u13a2 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᏧᎴᎯᏌᏅᎯ ᏚᎦᏚᏛᎢ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -1043,23 +1043,23 @@ $ObjectArray2* TimeZoneNames_chr::getContents() {
 		""_s
 	}));
 	$var($StringArray, Pierre_Miquelon, $new($StringArray, {
-		u"\u13a4\u13d3\u13c5\u13d8 \u13c8\u13f0 & \u13bb\u13c7\u13b6\u13c2 \u13a0\u13df\u13b6\u13cd\u13d7 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᎤᏓᏅᏘ ᏈᏰ & ᎻᏇᎶᏂ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
-		u"\u13a4\u13d3\u13c5\u13d8 \u13c8\u13f0 & \u13bb\u13c7\u13b6\u13c2 \u13aa\u13af \u13a2\u13a6 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᎤᏓᏅᏘ ᏈᏰ & ᎻᏇᎶᏂ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
-		u"\u13a4\u13d3\u13c5\u13d8 \u13c8\u13f0 & \u13bb\u13c7\u13b6\u13c2 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᎤᏓᏅᏘ ᏈᏰ & ᎻᏇᎶᏂ ᎠᏟᎢᎵᏒ"_s,
 		""_s
 	}));
 	$var($StringArray, America_Mountain, $new($StringArray, {
-		u"\u13a3\u13d3\u13b8 \u13a0\u13df\u13b6\u13cd\u13d7 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᎣᏓᎸ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ"_s,
 		"MST"_s,
-		u"\u13a3\u13d3\u13b8 \u13aa\u13af \u13a2\u13a6 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᎣᏓᎸ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ"_s,
 		"MDT"_s,
-		u"\u13a3\u13d3\u13b8 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᎣᏓᎸ ᎠᏟᎢᎵᏒ"_s,
 		"MT"_s
 	}));
 	$var($StringArray, Marshall_Islands, $new($StringArray, {
-		u"\u13b9\u13cc\u13b5 \u13da\u13a6\u13da\u13db\u13a2 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᎹᏌᎵ ᏚᎦᏚᏛᎢ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -1067,15 +1067,15 @@ $ObjectArray2* TimeZoneNames_chr::getContents() {
 		""_s
 	}));
 	$var($StringArray, Mexico_Northwest, $new($StringArray, {
-		u"\u13e7\u13f4\u13e2 \u13ed\u13d5\u13b5\u13ac \u13a0\u13c2\u13cd\u13c6\u13c2 \u13a0\u13df\u13b6\u13cd\u13d7 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᏧᏴᏢ ᏭᏕᎵᎬ ᎠᏂᏍᏆᏂ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
-		u"\u13e7\u13f4\u13e2 \u13ed\u13d5\u13b5\u13ac \u13a0\u13c2\u13cd\u13c6\u13c2 \u13aa\u13af \u13a2\u13a6 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᏧᏴᏢ ᏭᏕᎵᎬ ᎠᏂᏍᏆᏂ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
-		u"\u13e7\u13f4\u13e2 \u13ed\u13d5\u13b5\u13ac \u13a0\u13c2\u13cd\u13c6\u13c2 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᏧᏴᏢ ᏭᏕᎵᎬ ᎠᏂᏍᏆᏂ ᎠᏟᎢᎵᏒ"_s,
 		""_s
 	}));
 	$var($StringArray, Papua_New_Guinea, $new($StringArray, {
-		u"\u13c6\u13c7 \u13a2\u13e4 \u13a9\u13a2\u13c2 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᏆᏇ ᎢᏤ ᎩᎢᏂ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -1083,47 +1083,47 @@ $ObjectArray2* TimeZoneNames_chr::getContents() {
 		""_s
 	}));
 	$var($StringArray, Australia_Central, $new($StringArray, {
-		u"\u13a0\u13f0\u13df \u13a1\u13b3\u13d7\u13dc \u13a0\u13df\u13b6\u13cd\u13d7 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᎠᏰᏟ ᎡᎳᏗᏜ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
-		u"\u13a0\u13f0\u13df \u13a1\u13b3\u13d7\u13dc \u13aa\u13af \u13a2\u13a6 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᎠᏰᏟ ᎡᎳᏗᏜ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
-		u"\u13a0\u13f0\u13df \u13a1\u13b3\u13d7\u13dc \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᎠᏰᏟ ᎡᎳᏗᏜ ᎠᏟᎢᎵᏒ"_s,
 		""_s
 	}));
 	$var($StringArray, Australia_Eastern, $new($StringArray, {
-		u"\u13a1\u13b3\u13d7\u13dc \u13d7\u13a7\u13b8\u13ac \u13d7\u13dc \u13a0\u13df\u13b6\u13cd\u13d7 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᎡᎳᏗᏜ ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
-		u"\u13a1\u13b3\u13d7\u13dc \u13d7\u13a7\u13b8\u13ac \u13d7\u13dc \u13aa\u13af \u13a2\u13a6 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᎡᎳᏗᏜ ᏗᎧᎸᎬ ᏗᏜ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
-		u"\u13a1\u13b3\u13d7\u13dc \u13d7\u13a7\u13b8\u13ac \u13d7\u13dc \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᎡᎳᏗᏜ ᏗᎧᎸᎬ ᏗᏜ ᎠᏟᎢᎵᏒ"_s,
 		""_s
 	}));
 	$var($StringArray, Australia_Western, $new($StringArray, {
-		u"\u13a1\u13b3\u13d7\u13dc \u13ed\u13d5\u13b5\u13ac \u13d7\u13dc \u13a0\u13df\u13b6\u13cd\u13d7 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᎡᎳᏗᏜ ᏭᏕᎵᎬ ᏗᏜ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
-		u"\u13a1\u13b3\u13d7\u13dc \u13ed\u13d5\u13b5\u13ac \u13d7\u13dc \u13aa\u13af \u13a2\u13a6 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᎡᎳᏗᏜ ᏭᏕᎵᎬ ᏗᏜ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
-		u"\u13a1\u13b3\u13d7\u13dc \u13ed\u13d5\u13b5\u13ac \u13d7\u13dc \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᎡᎳᏗᏜ ᏭᏕᎵᎬ ᏗᏜ ᎠᏟᎢᎵᏒ"_s,
 		""_s
 	}));
 	$var($StringArray, Greenland_Eastern, $new($StringArray, {
-		u"\u13d7\u13a7\u13b8\u13ac \u13a2\u13e4\u13cd\u13db\u13f1 \u13a0\u13df\u13b6\u13cd\u13d7 \u13a0\u13b5\u13a2\u13b5\u13d2"_s,
+		u"ᏗᎧᎸᎬ ᎢᏤᏍᏛᏱ ᎠᏟᎶᏍᏗ ᎠᎵᎢᎵᏒ"_s,
 		""_s,
-		u"\u13d7\u13a7\u13b8\u13ac \u13a2\u13e4\u13cd\u13db\u13f1 \u13aa\u13a9 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᏗᎧᎸᎬ ᎢᏤᏍᏛᏱ ᎪᎩ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
-		u"\u13d7\u13a7\u13b8\u13ac \u13a2\u13e4\u13cd\u13db\u13f1 \u13a0\u13b5\u13a2\u13b5\u13d2"_s,
+		u"ᏗᎧᎸᎬ ᎢᏤᏍᏛᏱ ᎠᎵᎢᎵᏒ"_s,
 		""_s
 	}));
 	$var($StringArray, Greenland_Western, $new($StringArray, {
-		u"\u13ed\u13d5\u13b5\u13ac \u13a2\u13e4\u13cd\u13db\u13f1 \u13a0\u13df\u13b6\u13cd\u13d7 \u13a0\u13b5\u13a2\u13b5\u13d2"_s,
+		u"ᏭᏕᎵᎬ ᎢᏤᏍᏛᏱ ᎠᏟᎶᏍᏗ ᎠᎵᎢᎵᏒ"_s,
 		""_s,
-		u"\u13ed\u13d5\u13b5\u13ac \u13a2\u13e4\u13cd\u13db\u13f1 \u13aa\u13a9 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᏭᏕᎵᎬ ᎢᏤᏍᏛᏱ ᎪᎩ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
-		u"\u13ed\u13d5\u13b5\u13ac \u13a2\u13e4\u13cd\u13db\u13f1 \u13a0\u13b5\u13a2\u13b5\u13d2"_s,
+		u"ᏭᏕᎵᎬ ᎢᏤᏍᏛᏱ ᎠᎵᎢᎵᏒ"_s,
 		""_s
 	}));
 	$var($StringArray, Indonesia_Central, $new($StringArray, {
-		u"\u13a0\u13f0\u13df \u13a2\u13c2\u13d9\u13c2\u13cd\u13ef \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᎠᏰᏟ ᎢᏂᏙᏂᏍᏯ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -1131,7 +1131,7 @@ $ObjectArray2* TimeZoneNames_chr::getContents() {
 		""_s
 	}));
 	$var($StringArray, Indonesia_Eastern, $new($StringArray, {
-		u"\u13d7\u13a7\u13b8\u13ac \u13d7\u13dc \u13a2\u13c2\u13d9\u13c2\u13cd\u13ef \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᏗᎧᎸᎬ ᏗᏜ ᎢᏂᏙᏂᏍᏯ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -1139,7 +1139,7 @@ $ObjectArray2* TimeZoneNames_chr::getContents() {
 		""_s
 	}));
 	$var($StringArray, Indonesia_Western, $new($StringArray, {
-		u"\u13ed\u13d5\u13b5\u13ac \u13d7\u13dc \u13a2\u13c2\u13d9\u13c2\u13cd\u13ef \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᏭᏕᎵᎬ ᏗᏜ ᎢᏂᏙᏂᏍᏯ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -1147,7 +1147,7 @@ $ObjectArray2* TimeZoneNames_chr::getContents() {
 		""_s
 	}));
 	$var($StringArray, Kazakhstan_Eastern, $new($StringArray, {
-		u"\u13d7\u13a7\u13b8\u13ac \u13a7\u13ce\u13a7\u13cd\u13d5\u13c2 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᏗᎧᎸᎬ ᎧᏎᎧᏍᏕᏂ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -1155,7 +1155,7 @@ $ObjectArray2* TimeZoneNames_chr::getContents() {
 		""_s
 	}));
 	$var($StringArray, Kazakhstan_Western, $new($StringArray, {
-		u"\u13ed\u13d5\u13b5\u13ac \u13a7\u13ce\u13a7\u13cd\u13d5\u13c2 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᏭᏕᎵᎬ ᎧᏎᎧᏍᏕᏂ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -1163,11 +1163,11 @@ $ObjectArray2* TimeZoneNames_chr::getContents() {
 		""_s
 	}));
 	$var($StringArray, Australia_CentralWestern, $new($StringArray, {
-		u"\u13a0\u13f0\u13df \u13a1\u13b3\u13d7\u13dc \u13ed\u13d5\u13b5\u13ac \u13d7\u13dc \u13a0\u13df\u13b6\u13cd\u13d7 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᎠᏰᏟ ᎡᎳᏗᏜ ᏭᏕᎵᎬ ᏗᏜ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
-		u"\u13a0\u13f0\u13df \u13a1\u13b3\u13d7\u13dc \u13ed\u13d5\u13b5\u13ac \u13d7\u13dc \u13aa\u13af \u13a2\u13a6 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᎠᏰᏟ ᎡᎳᏗᏜ ᏭᏕᎵᎬ ᏗᏜ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ"_s,
 		""_s,
-		u"\u13a0\u13f0\u13df \u13a1\u13b3\u13d7\u13dc \u13ed\u13d5\u13b5\u13ac \u13d7\u13dc \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+		u"ᎠᏰᏟ ᎡᎳᏗᏜ ᏭᏕᎵᎬ ᏗᏜ ᎠᏟᎢᎵᏒ"_s,
 		""_s
 	}));
 	$var($ObjectArray2, data, $new($ObjectArray2, {
@@ -1198,11 +1198,11 @@ $ObjectArray2* TimeZoneNames_chr::getContents() {
 		$$new($ObjectArray, {
 			$of("Pacific/Honolulu"_s),
 			$of($$new($StringArray, {
-				u"\u13ad\u13e9\u13f1-\u13a0\u13b5\u13f3\u13cf\u13a0\u13c2 \u13a0\u13df\u13b6\u13cd\u13d7 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+				u"ᎭᏩᏱ-ᎠᎵᏳᏏᎠᏂ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ"_s,
 				"HST"_s,
-				u"\u13ad\u13e9\u13f1-\u13a0\u13b5\u13f3\u13cf\u13a0\u13c2 \u13aa\u13af \u13a2\u13a6 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+				u"ᎭᏩᏱ-ᎠᎵᏳᏏᎠᏂ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ"_s,
 				"HDT"_s,
-				u"\u13ad\u13e9\u13f1-\u13a0\u13b5\u13f3\u13cf\u13a0\u13c2 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+				u"ᎭᏩᏱ-ᎠᎵᏳᏏᎠᏂ ᎠᏟᎢᎵᏒ"_s,
 				"HST"_s
 			}))
 		}),
@@ -1817,9 +1817,9 @@ $ObjectArray2* TimeZoneNames_chr::getContents() {
 		$$new($ObjectArray, {
 			$of("Europe/Dublin"_s),
 			$of($$new($StringArray, {
-				u"\u13a2\u13e4 \u13a2\u13f3\u13cd\u13d7 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+				u"ᎢᏤ ᎢᏳᏍᏗ ᎠᏟᎢᎵᏒ"_s,
 				""_s,
-				u"\u13a8\u13b5\u13a9 \u13a0\u13df\u13b6\u13cd\u13d7 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+				u"ᎨᎵᎩ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ"_s,
 				""_s,
 				""_s,
 				""_s
@@ -1836,9 +1836,9 @@ $ObjectArray2* TimeZoneNames_chr::getContents() {
 		$$new($ObjectArray, {
 			$of("Europe/London"_s),
 			$of($$new($StringArray, {
-				u"\u13a2\u13e4 \u13a2\u13f3\u13cd\u13d7 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+				u"ᎢᏤ ᎢᏳᏍᏗ ᎠᏟᎢᎵᏒ"_s,
 				""_s,
-				u"\u13c8\u13d7\u13cf \u13aa\u13a9 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+				u"ᏈᏗᏏ ᎪᎩ ᎠᏟᎢᎵᏒ"_s,
 				""_s,
 				""_s,
 				""_s
@@ -1907,11 +1907,11 @@ $ObjectArray2* TimeZoneNames_chr::getContents() {
 		$$new($ObjectArray, {
 			$of("SystemV/HST10"_s),
 			$of($$new($StringArray, {
-				u"\u13ad\u13e9\u13f1-\u13a0\u13b5\u13f3\u13cf\u13a0\u13c2 \u13a0\u13df\u13b6\u13cd\u13d7 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+				u"ᎭᏩᏱ-ᎠᎵᏳᏏᎠᏂ ᎠᏟᎶᏍᏗ ᎠᏟᎢᎵᏒ"_s,
 				"HST"_s,
-				u"\u13ad\u13e9\u13f1-\u13a0\u13b5\u13f3\u13cf\u13a0\u13c2 \u13aa\u13af \u13a2\u13a6 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+				u"ᎭᏩᏱ-ᎠᎵᏳᏏᎠᏂ ᎪᎯ ᎢᎦ ᎠᏟᎢᎵᏒ"_s,
 				"HDT"_s,
-				u"\u13ad\u13e9\u13f1-\u13a0\u13b5\u13f3\u13cf\u13a0\u13c2 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+				u"ᎭᏩᏱ-ᎠᎵᏳᏏᎠᏂ ᎠᏟᎢᎵᏒ"_s,
 				"HST"_s
 			}))
 		}),
@@ -2054,9 +2054,9 @@ $ObjectArray2* TimeZoneNames_chr::getContents() {
 		$$new($ObjectArray, {
 			$of("Europe/Belfast"_s),
 			$of($$new($StringArray, {
-				u"\u13a2\u13e4 \u13a2\u13f3\u13cd\u13d7 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+				u"ᎢᏤ ᎢᏳᏍᏗ ᎠᏟᎢᎵᏒ"_s,
 				""_s,
-				u"\u13c8\u13d7\u13cf \u13aa\u13a9 \u13a0\u13df\u13a2\u13b5\u13d2"_s,
+				u"ᏈᏗᏏ ᎪᎩ ᎠᏟᎢᎵᏒ"_s,
 				""_s,
 				""_s,
 				""_s
@@ -3000,31 +3000,31 @@ $ObjectArray2* TimeZoneNames_chr::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Aden"_s),
-			$of(u"\u13a1\u13d5\u13c2"_s)
+			$of(u"ᎡᏕᏂ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Baku"_s),
-			$of(u"\u13c6\u13ab"_s)
+			$of(u"ᏆᎫ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Dili"_s),
-			$of(u"\u13d7\u13b5"_s)
+			$of(u"ᏗᎵ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Gaza"_s),
-			$of(u"\u13a6\u13cc"_s)
+			$of(u"ᎦᏌ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Hovd"_s),
-			$of(u"\u13b0\u13e9\u13d7"_s)
+			$of(u"ᎰᏩᏗ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Omsk"_s),
-			$of(u"\u13a3\u13bb\u13cd\u13a7"_s)
+			$of(u"ᎣᎻᏍᎧ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Oral"_s),
-			$of(u"\u13a3\u13b3\u13b5"_s)
+			$of(u"ᎣᎳᎵ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("America/Argentina/La_Rioja"_s),
@@ -3044,47 +3044,47 @@ $ObjectArray2* TimeZoneNames_chr::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Amman"_s),
-			$of(u"\u13a0\u13b9\u13c2"_s)
+			$of(u"ᎠᎹᏂ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Aqtau"_s),
-			$of(u"\u13a0\u13a6\u13d4\u13eb"_s)
+			$of(u"ᎠᎦᏔᏫ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Chita"_s),
-			$of(u"\u13e5\u13d4"_s)
+			$of(u"ᏥᏔ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Dhaka"_s),
-			$of(u"\u13d3\u13a7"_s)
+			$of(u"ᏓᎧ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Dubai"_s),
-			$of(u"\u13da\u13c6\u13f1"_s)
+			$of(u"ᏚᏆᏱ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Kabul"_s),
-			$of(u"\u13a7\u13ca\u13b5"_s)
+			$of(u"ᎧᏊᎵ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Macau"_s),
-			$of(u"\u13b9\u13a7\u13a4"_s)
+			$of(u"ᎹᎧᎤ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Qatar"_s),
-			$of(u"\u13a7\u13d4\u13b5"_s)
+			$of(u"ᎧᏔᎵ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Seoul"_s),
-			$of(u"\u13d0\u13b5"_s)
+			$of(u"ᏐᎵ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Tokyo"_s),
-			$of(u"\u13d9\u13a9\u13f2"_s)
+			$of(u"ᏙᎩᏲ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Tomsk"_s),
-			$of(u"\u13d9\u13bb\u13cd\u13a7"_s)
+			$of(u"ᏙᎻᏍᎧ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("America/Kentucky/Monticello"_s),
@@ -3100,475 +3100,475 @@ $ObjectArray2* TimeZoneNames_chr::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Africa/Juba"_s),
-			$of(u"\u13e7\u13c6"_s)
+			$of(u"ᏧᏆ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Africa/Lome"_s),
-			$of(u"\u13b6\u13ba"_s)
+			$of(u"ᎶᎺ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Almaty"_s),
-			$of(u"\u13a0\u13b5\u13b9\u13d8"_s)
+			$of(u"ᎠᎵᎹᏘ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Anadyr"_s),
-			$of(u"\u13a0\u13be\u13d7\u13b5"_s)
+			$of(u"ᎠᎾᏗᎵ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Aqtobe"_s),
-			$of(u"\u13a0\u13a6\u13d9\u13c7"_s)
+			$of(u"ᎠᎦᏙᏇ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Atyrau"_s),
-			$of(u"\u13a0\u13d8\u13c6\u13a4"_s)
+			$of(u"ᎠᏘᏆᎤ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Beirut"_s),
-			$of(u"\u13c7\u13b7\u13d8"_s)
+			$of(u"ᏇᎷᏘ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Brunei"_s),
-			$of(u"\u13ca\u13be\u13a2"_s)
+			$of(u"ᏊᎾᎢ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Hebron"_s),
-			$of(u"\u13ae\u13c9\u13c2"_s)
+			$of(u"ᎮᏉᏂ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Kuwait"_s),
-			$of(u"\u13ab\u13ea\u13d8"_s)
+			$of(u"ᎫᏪᏘ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Manila"_s),
-			$of(u"\u13b9\u13c2\u13b3"_s)
+			$of(u"ᎹᏂᎳ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Muscat"_s),
-			$of(u"\u13bd\u13cd\u13a6\u13d8"_s)
+			$of(u"ᎽᏍᎦᏘ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Riyadh"_s),
-			$of(u"\u13b5\u13ef\u13d7"_s)
+			$of(u"ᎵᏯᏗ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Saigon"_s),
-			$of(u"\u13b0 \u13e5 \u13bb\u13c2 \u13a6\u13da\u13b2"_s)
+			$of(u"Ꮀ Ꮵ ᎻᏂ ᎦᏚᎲ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Taipei"_s),
-			$of(u"\u13d4\u13f1\u13c7"_s)
+			$of(u"ᏔᏱᏇ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Tehran"_s),
-			$of(u"\u13d6\u13b3\u13c2"_s)
+			$of(u"ᏖᎳᏂ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Urumqi"_s),
-			$of(u"\u13a4\u13b7\u13bb\u13a9"_s)
+			$of(u"ᎤᎷᎻᎩ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Etc/Unknown"_s),
-			$of(u"\u13c4\u13ec\u13b5\u13cd\u13db\u13be \u13a6\u13da\u13b2"_s)
+			$of(u"ᏄᏬᎵᏍᏛᎾ ᎦᏚᎲ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Kiev"_s),
-			$of(u"\u13a9\u13eb"_s)
+			$of(u"ᎩᏫ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Oslo"_s),
-			$of(u"\u13a3\u13cf\u13b6"_s)
+			$of(u"ᎣᏏᎶ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Riga"_s),
-			$of(u"\u13b5\u13a6"_s)
+			$of(u"ᎵᎦ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Rome"_s),
-			$of(u"\u13b6\u13bb"_s)
+			$of(u"ᎶᎻ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Indian/Mahe"_s),
-			$of(u"\u13b9\u13ae"_s)
+			$of(u"ᎹᎮ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Africa/Accra"_s),
-			$of(u"\u13a0\u13c6"_s)
+			$of(u"ᎠᏆ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Africa/Cairo"_s),
-			$of(u"\u13a7\u13ef\u13b6"_s)
+			$of(u"ᎧᏯᎶ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Africa/Ceuta"_s),
-			$of(u"\u13d1\u13d4"_s)
+			$of(u"ᏑᏔ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Africa/Dakar"_s),
-			$of(u"\u13d3\u13a7\u13e9"_s)
+			$of(u"ᏓᎧᏩ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Africa/Lagos"_s),
-			$of(u"\u13b3\u13aa\u13cf"_s)
+			$of(u"ᎳᎪᏏ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Africa/Tunis"_s),
-			$of(u"\u13da\u13c2\u13cf"_s)
+			$of(u"ᏚᏂᏏ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Adak"_s),
-			$of(u"\u13a0\u13d3\u13a7"_s)
+			$of(u"ᎠᏓᎧ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Lima"_s),
-			$of(u"\u13b5\u13b9"_s)
+			$of(u"ᎵᎹ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Nome"_s),
-			$of(u"\u13c3\u13ba"_s)
+			$of(u"ᏃᎺ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Baghdad"_s),
-			$of(u"\u13c6\u13a9\u13d3\u13d7"_s)
+			$of(u"ᏆᎩᏓᏗ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Bahrain"_s),
-			$of(u"\u13c6\u13ad\u13b4\u13a2\u13c2"_s)
+			$of(u"ᏆᎭᎴᎢᏂ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Bangkok"_s),
-			$of(u"\u13c7\u13c2\u13a9\u13aa\u13a9"_s)
+			$of(u"ᏇᏂᎩᎪᎩ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Barnaul"_s),
-			$of(u"\u13c6\u13be\u13a3\u13b5"_s)
+			$of(u"ᏆᎾᎣᎵ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Bishkek"_s),
-			$of(u"\u13c7\u13cd\u13a8\u13a9"_s)
+			$of(u"ᏇᏍᎨᎩ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Colombo"_s),
-			$of(u"\u13aa\u13b6\u13bb\u13c9"_s)
+			$of(u"ᎪᎶᎻᏉ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Irkutsk"_s),
-			$of(u"\u13a2\u13ab\u13e5\u13a7"_s)
+			$of(u"ᎢᎫᏥᎧ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Jakarta"_s),
-			$of(u"\u13e3\u13a7\u13d4"_s)
+			$of(u"ᏣᎧᏔ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Karachi"_s),
-			$of(u"\u13a7\u13b3\u13e5"_s)
+			$of(u"ᎧᎳᏥ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Kuching"_s),
-			$of(u"\u13ab\u13e5\u13c2\u13a6"_s)
+			$of(u"ᎫᏥᏂᎦ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Magadan"_s),
-			$of(u"\u13b9\u13a6\u13d3\u13c2"_s)
+			$of(u"ᎹᎦᏓᏂ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Nicosia"_s),
-			$of(u"\u13c2\u13aa\u13cf\u13ef"_s)
+			$of(u"ᏂᎪᏏᏯ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Rangoon"_s),
-			$of(u"\u13b3\u13c2\u13ab\u13c2"_s)
+			$of(u"ᎳᏂᎫᏂ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Tbilisi"_s),
-			$of(u"\u13d8\u13c8\u13b5\u13cf"_s)
+			$of(u"ᏘᏈᎵᏏ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Thimphu"_s),
-			$of(u"\u13de\u13bb\u13e1"_s)
+			$of(u"ᏞᎻᏡ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Yakutsk"_s),
-			$of(u"\u13ef\u13ab\u13e5\u13a7"_s)
+			$of(u"ᏯᎫᏥᎧ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Yerevan"_s),
-			$of(u"\u13f0\u13b4\u13ea\u13c2"_s)
+			$of(u"ᏰᎴᏪᏂ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Kirov"_s),
-			$of(u"\u13a9\u13b6\u13e9"_s)
+			$of(u"ᎩᎶᏩ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Malta"_s),
-			$of(u"\u13b9\u13b5\u13d4"_s)
+			$of(u"ᎹᎵᏔ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Minsk"_s),
-			$of(u"\u13ba\u13c2\u13cd\u13a9"_s)
+			$of(u"ᎺᏂᏍᎩ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Paris"_s),
-			$of(u"\u13c7\u13eb\u13cf"_s)
+			$of(u"ᏇᏫᏏ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Sofia"_s),
-			$of(u"\u13d0\u13df\u13a0"_s)
+			$of(u"ᏐᏟᎠ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Vaduz"_s),
-			$of(u"\u13e9\u13da\u13cf"_s)
+			$of(u"ᏩᏚᏏ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Indian/Cocos"_s),
-			$of(u"\u13aa\u13aa\u13cd"_s)
+			$of(u"ᎪᎪᏍ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Pacific/Apia"_s),
-			$of(u"\u13a0\u13c8\u13a0"_s)
+			$of(u"ᎠᏈᎠ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Pacific/Fiji"_s),
-			$of(u"\u13eb\u13e5"_s)
+			$of(u"ᏫᏥ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Pacific/Guam"_s),
-			$of(u"\u13c6\u13bb"_s)
+			$of(u"ᏆᎻ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Pacific/Niue"_s),
-			$of(u"\u13c2\u13f3"_s)
+			$of(u"ᏂᏳ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Pacific/Truk"_s),
-			$of(u"\u13e7\u13a9"_s)
+			$of(u"ᏧᎩ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Pacific/Wake"_s),
-			$of(u"\u13a4\u13f0\u13e8"_s)
+			$of(u"ᎤᏰᏨ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Africa/Asmera"_s),
-			$of(u"\u13a0\u13cf\u13b9\u13b3"_s)
+			$of(u"ᎠᏏᎹᎳ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Africa/Bamako"_s),
-			$of(u"\u13c6\u13b9\u13aa"_s)
+			$of(u"ᏆᎹᎪ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Africa/Bangui"_s),
-			$of(u"\u13c7\u13c2\u13ab\u13eb"_s)
+			$of(u"ᏇᏂᎫᏫ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Africa/Banjul"_s),
-			$of(u"\u13c6\u13c2\u13e7\u13b5"_s)
+			$of(u"ᏆᏂᏧᎵ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Africa/Bissau"_s),
-			$of(u"\u13c7\u13cc\u13eb"_s)
+			$of(u"ᏇᏌᏫ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Africa/Douala"_s),
-			$of(u"\u13d9\u13a4\u13e9\u13b3"_s)
+			$of(u"ᏙᎤᏩᎳ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Africa/Harare"_s),
-			$of(u"\u13ad\u13b3\u13b4"_s)
+			$of(u"ᎭᎳᎴ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Africa/Kigali"_s),
-			$of(u"\u13a9\u13a6\u13b5"_s)
+			$of(u"ᎩᎦᎵ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Africa/Luanda"_s),
-			$of(u"\u13b7\u13e9\u13c2\u13d3"_s)
+			$of(u"ᎷᏩᏂᏓ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Africa/Lusaka"_s),
-			$of(u"\u13b5\u13cc\u13a7"_s)
+			$of(u"ᎵᏌᎧ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Africa/Malabo"_s),
-			$of(u"\u13b9\u13b3\u13c9"_s)
+			$of(u"ᎹᎳᏉ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Africa/Maputo"_s),
-			$of(u"\u13b9\u13ca\u13d9"_s)
+			$of(u"ᎹᏊᏙ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Africa/Maseru"_s),
-			$of(u"\u13b9\u13ce\u13b5"_s)
+			$of(u"ᎹᏎᎵ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Africa/Niamey"_s),
-			$of(u"\u13c2\u13ef\u13ba"_s)
+			$of(u"ᏂᏯᎺ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Aruba"_s),
-			$of(u"\u13a0\u13b7\u13c6"_s)
+			$of(u"ᎠᎷᏆ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Bahia"_s),
-			$of(u"\u13c6\u13af\u13ef"_s)
+			$of(u"ᏆᎯᏯ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Belem"_s),
-			$of(u"\u13c7\u13b4\u13bb"_s)
+			$of(u"ᏇᎴᎻ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Boise"_s),
-			$of(u"\u13c9\u13f1\u13cf"_s)
+			$of(u"ᏉᏱᏏ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Jujuy"_s),
-			$of(u"\u13e7\u13e7\u13eb"_s)
+			$of(u"ᏧᏧᏫ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Sitka"_s),
-			$of(u"\u13cf\u13d8\u13a7"_s)
+			$of(u"ᏏᏘᎧ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Thule"_s),
-			$of(u"\u13e1\u13b5"_s)
+			$of(u"ᏡᎵ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Ashgabat"_s),
-			$of(u"\u13a0\u13cd\u13a6\u13c6\u13d8"_s)
+			$of(u"ᎠᏍᎦᏆᏘ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Calcutta"_s),
-			$of(u"\u13aa\u13b5\u13a7\u13d4"_s)
+			$of(u"ᎪᎵᎧᏔ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Damascus"_s),
-			$of(u"\u13d3\u13b9\u13cd\u13ac\u13cf"_s)
+			$of(u"ᏓᎹᏍᎬᏏ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Dushanbe"_s),
-			$of(u"\u13da\u13dd\u13be\u13c7"_s)
+			$of(u"ᏚᏝᎾᏇ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Jayapura"_s),
-			$of(u"\u13e3\u13ef\u13cb\u13b3"_s)
+			$of(u"ᏣᏯᏋᎳ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Katmandu"_s),
-			$of(u"\u13a7\u13d8\u13b9\u13c2\u13da"_s)
+			$of(u"ᎧᏘᎹᏂᏚ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Khandyga"_s),
-			$of(u"\u13a7\u13c2\u13d7\u13a6"_s)
+			$of(u"ᎧᏂᏗᎦ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Makassar"_s),
-			$of(u"\u13b9\u13a7\u13cc\u13b5"_s)
+			$of(u"ᎹᎧᏌᎵ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Qostanay"_s),
-			$of(u"\u13a7\u13cd\u13d4\u13c1"_s)
+			$of(u"ᎧᏍᏔᏁ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Sakhalin"_s),
-			$of(u"\u13cc\u13a7\u13b5\u13c2"_s)
+			$of(u"ᏌᎧᎵᏂ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Shanghai"_s),
-			$of(u"\u13ce\u13c2\u13a6\u13ad\u13f1"_s)
+			$of(u"ᏎᏂᎦᎭᏱ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Tashkent"_s),
-			$of(u"\u13d4\u13cf\u13a8\u13c2\u13d8"_s)
+			$of(u"ᏔᏏᎨᏂᏘ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Ust-Nera"_s),
-			$of(u"\u13a4\u13cd\u13d4-\u13c1\u13b3"_s)
+			$of(u"ᎤᏍᏔ-ᏁᎳ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Athens"_s),
-			$of(u"\u13a0\u13d6\u13c2\u13cf"_s)
+			$of(u"ᎠᏖᏂᏏ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Berlin"_s),
-			$of(u"\u13c7\u13b5\u13c2"_s)
+			$of(u"ᏇᎵᏂ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Dublin"_s),
-			$of(u"\u13db\u13b5\u13c2"_s)
+			$of(u"ᏛᎵᏂ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Jersey"_s),
-			$of(u"\u13e8\u13b5\u13cf"_s)
+			$of(u"ᏨᎵᏏ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Lisbon"_s),
-			$of(u"\u13b5\u13cf\u13c9\u13c2"_s)
+			$of(u"ᎵᏏᏉᏂ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/London"_s),
-			$of(u"\u13b8\u13c2\u13d3\u13c2"_s)
+			$of(u"ᎸᏂᏓᏂ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Madrid"_s),
-			$of(u"\u13b9\u13df\u13d7"_s)
+			$of(u"ᎹᏟᏗ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Monaco"_s),
-			$of(u"\u13bc\u13be\u13aa"_s)
+			$of(u"ᎼᎾᎪ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Moscow"_s),
-			$of(u"\u13b9\u13cd\u13a6\u13eb"_s)
+			$of(u"ᎹᏍᎦᏫ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Prague"_s),
-			$of(u"\u13c6\u13c7"_s)
+			$of(u"ᏆᏇ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Samara"_s),
-			$of(u"\u13cc\u13b9\u13b3"_s)
+			$of(u"ᏌᎹᎳ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Skopje"_s),
-			$of(u"\u13cd\u13aa\u13e4"_s)
+			$of(u"ᏍᎪᏤ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Tirane"_s),
-			$of(u"\u13d8\u13b3\u13be"_s)
+			$of(u"ᏘᎳᎾ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Vienna"_s),
-			$of(u"\u13eb\u13f0\u13be"_s)
+			$of(u"ᏫᏰᎾ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Warsaw"_s),
-			$of(u"\u13d3\u13bf\u13e9 \u13a4\u13aa\u13b2\u13a9"_s)
+			$of(u"ᏓᎿᏩ ᎤᎪᎲᎩ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Zagreb"_s),
-			$of(u"\u13cc\u13c7\u13c8"_s)
+			$of(u"ᏌᏇᏈ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Zurich"_s),
-			$of(u"\u13d1\u13b5\u13e5"_s)
+			$of(u"ᏑᎵᏥ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Indian/Chagos"_s),
-			$of(u"\u13e3\u13aa\u13cf"_s)
+			$of(u"ᏣᎪᏏ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Indian/Comoro"_s),
-			$of(u"\u13aa\u13bc\u13b3"_s)
+			$of(u"ᎪᎼᎳ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Pacific/Efate"_s),
-			$of(u"\u13a1\u13e9\u13d6"_s)
+			$of(u"ᎡᏩᏖ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Pacific/Nauru"_s),
-			$of(u"\u13c3\u13a4\u13b7"_s)
+			$of(u"ᏃᎤᎷ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Pacific/Palau"_s),
-			$of(u"\u13c6\u13b4\u13a0\u13eb"_s)
+			$of(u"ᏆᎴᎠᏫ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("America/Argentina/Rio_Gallegos"_s),
@@ -3580,1167 +3580,1167 @@ $ObjectArray2* TimeZoneNames_chr::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Africa/Abidjan"_s),
-			$of(u"\u13a0\u13c8\u13e3\u13c2"_s)
+			$of(u"ᎠᏈᏣᏂ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Africa/Algiers"_s),
-			$of(u"\u13a0\u13b5\u13e5\u13b5"_s)
+			$of(u"ᎠᎵᏥᎵ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Africa/Conakry"_s),
-			$of(u"\u13aa\u13be\u13c8"_s)
+			$of(u"ᎪᎾᏈ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Africa/Kampala"_s),
-			$of(u"\u13a7\u13bb\u13c6\u13b3"_s)
+			$of(u"ᎧᎻᏆᎳ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Africa/Mbabane"_s),
-			$of(u"\u13c6\u13c7\u13c1"_s)
+			$of(u"ᏆᏇᏁ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Africa/Nairobi"_s),
-			$of(u"\u13be\u13f1\u13b6\u13c8"_s)
+			$of(u"ᎾᏱᎶᏈ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Africa/Tripoli"_s),
-			$of(u"\u13df\u13c9\u13b5"_s)
+			$of(u"ᏟᏉᎵ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Belize"_s),
-			$of(u"\u13c7\u13b5\u13cd"_s)
+			$of(u"ᏇᎵᏍ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Bogota"_s),
-			$of(u"\u13c9\u13aa\u13d4"_s)
+			$of(u"ᏉᎪᏔ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Cancun"_s),
-			$of(u"\u13a8\u13c2\u13ab\u13c2"_s)
+			$of(u"ᎨᏂᎫᏂ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Cayman"_s),
-			$of(u"\u13a8\u13a2\u13b9\u13c2"_s)
+			$of(u"ᎨᎢᎹᏂ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Cuiaba"_s),
-			$of(u"\u13e7\u13eb\u13c6"_s)
+			$of(u"ᏧᏫᏆ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Dawson"_s),
-			$of(u"\u13d3\u13cc\u13c2"_s)
+			$of(u"ᏓᏌᏂ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Denver"_s),
-			$of(u"\u13a6\u13b8\u13b3\u13d7 \u13a6\u13da\u13b2"_s)
+			$of(u"ᎦᎸᎳᏗ ᎦᏚᎲ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Guyana"_s),
-			$of(u"\u13a6\u13ef\u13be"_s)
+			$of(u"ᎦᏯᎾ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Havana"_s),
-			$of(u"\u13ad\u13e9\u13be"_s)
+			$of(u"ᎭᏩᎾ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Inuvik"_s),
-			$of(u"\u13a2\u13c4\u13eb\u13a9"_s)
+			$of(u"ᎢᏄᏫᎩ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Juneau"_s),
-			$of(u"\u13e7\u13c3"_s)
+			$of(u"ᏧᏃ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/La_Paz"_s),
-			$of(u"\u13d9\u13af"_s)
+			$of(u"ᏙᎯ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Maceio"_s),
-			$of(u"\u13b9\u13ce\u13f2"_s)
+			$of(u"ᎹᏎᏲ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Manaus"_s),
-			$of(u"\u13b9\u13be\u13a4\u13cf"_s)
+			$of(u"ᎹᎾᎤᏏ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Merida"_s),
-			$of(u"\u13ba\u13b5\u13d3"_s)
+			$of(u"ᎺᎵᏓ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Nassau"_s),
-			$of(u"\u13be\u13cc\u13eb"_s)
+			$of(u"ᎾᏌᏫ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Panama"_s),
-			$of(u"\u13c6\u13be\u13b9"_s)
+			$of(u"ᏆᎾᎹ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Recife"_s),
-			$of(u"\u13b4\u13cf\u13ea"_s)
+			$of(u"ᎴᏏᏪ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Regina"_s),
-			$of(u"\u13b4\u13a9\u13be"_s)
+			$of(u"ᎴᎩᎾ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Famagusta"_s),
-			$of(u"\u13c6\u13b9\u13ab\u13cd\u13d4"_s)
+			$of(u"ᏆᎹᎫᏍᏔ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Hong_Kong"_s),
-			$of(u"\u13b0\u13c2\u13a9 \u13aa\u13c2\u13a9"_s)
+			$of(u"ᎰᏂᎩ ᎪᏂᎩ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Jerusalem"_s),
-			$of(u"\u13e4\u13b7\u13cc\u13b4\u13bb"_s)
+			$of(u"ᏤᎷᏌᎴᎻ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Kamchatka"_s),
-			$of(u"\u13a7\u13bb\u13e3\u13a7"_s)
+			$of(u"ᎧᎻᏣᎧ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Pontianak"_s),
-			$of(u"\u13c6\u13c2\u13d8\u13a0\u13be\u13a9"_s)
+			$of(u"ᏆᏂᏘᎠᎾᎩ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Pyongyang"_s),
-			$of(u"\u13c8\u13ef\u13c2\u13a9\u13f0\u13c2\u13a9"_s)
+			$of(u"ᏈᏯᏂᎩᏰᏂᎩ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Qyzylorda"_s),
-			$of(u"\u13a9\u13cf\u13b6\u13b3\u13d3"_s)
+			$of(u"ᎩᏏᎶᎳᏓ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Samarkand"_s),
-			$of(u"\u13cc\u13b9\u13a7\u13c2\u13d7"_s)
+			$of(u"ᏌᎹᎧᏂᏗ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Singapore"_s),
-			$of(u"\u13cf\u13c2\u13a6\u13c9\u13b5"_s)
+			$of(u"ᏏᏂᎦᏉᎵ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Vientiane"_s),
-			$of(u"\u13eb\u13f0\u13c2\u13d8\u13ef\u13c1"_s)
+			$of(u"ᏫᏰᏂᏘᏯᏁ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Andorra"_s),
-			$of(u"\u13a0\u13c2\u13d9\u13e9"_s)
+			$of(u"ᎠᏂᏙᏩ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Saratov"_s),
-			$of(u"\u13cc\u13c6\u13d9\u13a5"_s)
+			$of(u"ᏌᏆᏙᎥ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Tallinn"_s),
-			$of(u"\u13d4\u13b5\u13c2"_s)
+			$of(u"ᏔᎵᏂ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Vatican"_s),
-			$of(u"\u13a0\u13e5\u13b3\u13c1\u13e0"_s)
+			$of(u"ᎠᏥᎳᏁᏠ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Vilnius"_s),
-			$of(u"\u13eb\u13b5\u13c2\u13f4\u13cf"_s)
+			$of(u"ᏫᎵᏂᏴᏏ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Indian/Mayotte"_s),
-			$of(u"\u13ba\u13ef\u13d6"_s)
+			$of(u"ᎺᏯᏖ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Indian/Reunion"_s),
-			$of(u"\u13b4\u13f3\u13c2\u13a0\u13c2"_s)
+			$of(u"ᎴᏳᏂᎠᏂ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Pacific/Easter"_s),
-			$of(u"\u13e5\u13cc\u13d5\u13b4\u13af\u13cc\u13c5"_s)
+			$of(u"ᏥᏌᏕᎴᎯᏌᏅ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Pacific/Kosrae"_s),
-			$of(u"\u13aa\u13cd\u13b4"_s)
+			$of(u"ᎪᏍᎴ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Pacific/Majuro"_s),
-			$of(u"\u13b9\u13e7\u13b6"_s)
+			$of(u"ᎹᏧᎶ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Pacific/Midway"_s),
-			$of(u"\u13a0\u13f0\u13df\u13f4\u13da"_s)
+			$of(u"ᎠᏰᏟᏴᏚ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Pacific/Noumea"_s),
-			$of(u"\u13c3\u13a4\u13ba\u13a0"_s)
+			$of(u"ᏃᎤᎺᎠ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Pacific/Ponape"_s),
-			$of(u"\u13c9\u13c2\u13c7"_s)
+			$of(u"ᏉᏂᏇ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Pacific/Saipan"_s),
-			$of(u"\u13cc\u13f1\u13c6\u13c2"_s)
+			$of(u"ᏌᏱᏆᏂ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Pacific/Tahiti"_s),
-			$of(u"\u13d4\u13af\u13d8"_s)
+			$of(u"ᏔᎯᏘ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Pacific/Tarawa"_s),
-			$of(u"\u13d4\u13b3\u13e9"_s)
+			$of(u"ᏔᎳᏩ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Pacific/Wallis"_s),
-			$of(u"\u13e9\u13b5\u13cd"_s)
+			$of(u"ᏩᎵᏍ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Africa/Blantyre"_s),
-			$of(u"\u13c6\u13d8\u13b4"_s)
+			$of(u"ᏆᏘᎴ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Africa/Djibouti"_s),
-			$of(u"\u13e5\u13ca\u13d7"_s)
+			$of(u"ᏥᏊᏗ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Africa/El_Aaiun"_s),
-			$of(u"\u13a1\u13b5 \u13a0\u13f1\u13f3\u13c2"_s)
+			$of(u"ᎡᎵ ᎠᏱᏳᏂ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Africa/Freetown"_s),
-			$of(u"\u13a0\u13ce\u13c7 \u13a6\u13da\u13b2"_s)
+			$of(u"ᎠᏎᏇ ᎦᏚᎲ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Africa/Gaborone"_s),
-			$of(u"\u13a6\u13c9\u13b6\u13c1"_s)
+			$of(u"ᎦᏉᎶᏁ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Africa/Khartoum"_s),
-			$of(u"\u13a7\u13da\u13bb"_s)
+			$of(u"ᎧᏚᎻ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Africa/Kinshasa"_s),
-			$of(u"\u13a8\u13c2\u13dd\u13cc"_s)
+			$of(u"ᎨᏂᏝᏌ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Africa/Monrovia"_s),
-			$of(u"\u13bc\u13c2\u13b6\u13eb\u13ef"_s)
+			$of(u"ᎼᏂᎶᏫᏯ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Africa/Ndjamena"_s),
-			$of(u"\u13be\u13e3\u13ba\u13be"_s)
+			$of(u"ᎾᏣᎺᎾ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Africa/Sao_Tome"_s),
-			$of(u"\u13cc\u13a3\u13d9\u13ba"_s)
+			$of(u"ᏌᎣᏙᎺ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Africa/Windhoek"_s),
-			$of(u"\u13ea\u13c4\u13d7\u13b0\u13a9"_s)
+			$of(u"ᏪᏄᏗᎰᎩ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Antigua"_s),
-			$of(u"\u13a4\u13ea\u13d8"_s)
+			$of(u"ᎤᏪᏘ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Caracas"_s),
-			$of(u"\u13a7\u13b3\u13a7\u13cf"_s)
+			$of(u"ᎧᎳᎧᏏ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Cayenne"_s),
-			$of(u"\u13a7\u13f0\u13c2"_s)
+			$of(u"ᎧᏰᏂ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Chicago"_s),
-			$of(u"\u13e5\u13a7\u13a9"_s)
+			$of(u"ᏥᎧᎩ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Cordoba"_s),
-			$of(u"\u13aa\u13d9\u13c6"_s)
+			$of(u"ᎪᏙᏆ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Creston"_s),
-			$of(u"\u13de\u13cd\u13d4\u13c2"_s)
+			$of(u"ᏞᏍᏔᏂ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Curacao"_s),
-			$of(u"\u13ab\u13b3\u13a8\u13a3"_s)
+			$of(u"ᎫᎳᎨᎣ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Detroit"_s),
-			$of(u"\u13d7\u13e0\u13d8"_s)
+			$of(u"ᏗᏠᏘ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Godthab"_s),
-			$of(u"\u13c4\u13a9"_s)
+			$of(u"ᏄᎩ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Grenada"_s),
-			$of(u"\u13cb\u13be\u13d3"_s)
+			$of(u"ᏋᎾᏓ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Halifax"_s),
-			$of(u"\u13ad\u13b5\u13e9\u13a7\u13cf"_s)
+			$of(u"ᎭᎵᏩᎧᏏ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Iqaluit"_s),
-			$of(u"\u13a2\u13c6\u13b7\u13f1\u13d8"_s)
+			$of(u"ᎢᏆᎷᏱᏘ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Jamaica"_s),
-			$of(u"\u13e3\u13ba\u13a2\u13a7"_s)
+			$of(u"ᏣᎺᎢᎧ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Managua"_s),
-			$of(u"\u13b9\u13be\u13c6"_s)
+			$of(u"ᎹᎾᏆ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Marigot"_s),
-			$of(u"\u13b9\u13b5\u13a6\u13d8"_s)
+			$of(u"ᎹᎵᎦᏘ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Mendoza"_s),
-			$of(u"\u13ba\u13be\u13d9\u13cc"_s)
+			$of(u"ᎺᎾᏙᏌ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Moncton"_s),
-			$of(u"\u13b9\u13be\u13d4\u13c2"_s)
+			$of(u"ᎹᎾᏔᏂ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Nipigon"_s),
-			$of(u"\u13c2\u13c8\u13aa\u13c2"_s)
+			$of(u"ᏂᏈᎪᏂ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Noronha"_s),
-			$of(u"\u13c3\u13b6\u13be\u13ad"_s)
+			$of(u"ᏃᎶᎾᎭ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Ojinaga"_s),
-			$of(u"\u13a3\u13e5\u13be\u13a6"_s)
+			$of(u"ᎣᏥᎾᎦ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Phoenix"_s),
-			$of(u"\u13e7\u13b4\u13af\u13cc\u13c5\u13af"_s)
+			$of(u"ᏧᎴᎯᏌᏅᎯ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Tijuana"_s),
-			$of(u"\u13d8\u13f3\u13e9\u13be"_s)
+			$of(u"ᏘᏳᏩᎾ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Toronto"_s),
-			$of(u"\u13d9\u13b3\u13be\u13d9"_s)
+			$of(u"ᏙᎳᎾᏙ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Tortola"_s),
-			$of(u"\u13d9\u13d9\u13b3"_s)
+			$of(u"ᏙᏙᎳ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Yakutat"_s),
-			$of(u"\u13ef\u13ab\u13d4\u13d8"_s)
+			$of(u"ᏯᎫᏔᏘ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Choibalsan"_s),
-			$of(u"\u13e6\u13f1\u13c6\u13b5\u13cc\u13c2"_s)
+			$of(u"ᏦᏱᏆᎵᏌᏂ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Phnom_Penh"_s),
-			$of(u"\u13bf\u13bb \u13c7\u13c2"_s)
+			$of(u"ᎿᎻ ᏇᏂ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Atlantic/Azores"_s),
-			$of(u"\u13a0\u13d0\u13b4\u13cf"_s)
+			$of(u"ᎠᏐᎴᏏ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Atlantic/Canary"_s),
-			$of(u"\u13e5\u13cd\u13c6"_s)
+			$of(u"ᏥᏍᏆ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Atlantic/Faeroe"_s),
-			$of(u"\u13ea\u13b6"_s)
+			$of(u"ᏪᎶ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Australia/Eucla"_s),
-			$of(u"\u13f3\u13dd"_s)
+			$of(u"ᏳᏝ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Australia/Perth"_s),
-			$of(u"\u13c7\u13b5\u13dd"_s)
+			$of(u"ᏇᎵᏝ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Belgrade"_s),
-			$of(u"\u13c7\u13b5\u13c7\u13d7"_s)
+			$of(u"ᏇᎵᏇᏗ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Brussels"_s),
-			$of(u"\u13cb\u13ce\u13b5\u13cf"_s)
+			$of(u"ᏋᏎᎵᏏ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Budapest"_s),
-			$of(u"\u13ca\u13d3\u13c7\u13cd\u13d7"_s)
+			$of(u"ᏊᏓᏇᏍᏗ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Busingen"_s),
-			$of(u"\u13ca\u13cf\u13c2\u13a8\u13c2"_s)
+			$of(u"ᏊᏏᏂᎨᏂ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Chisinau"_s),
-			$of(u"\u13e5\u13cf\u13be\u13eb"_s)
+			$of(u"ᏥᏏᎾᏫ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Guernsey"_s),
-			$of(u"\u13ac\u13c2\u13cf"_s)
+			$of(u"ᎬᏂᏏ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Helsinki"_s),
-			$of(u"\u13ae\u13b5\u13cf\u13c2\u13a9"_s)
+			$of(u"ᎮᎵᏏᏂᎩ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Istanbul"_s),
-			$of(u"\u13a2\u13cd\u13d4\u13c2\u13ca\u13b5"_s)
+			$of(u"ᎢᏍᏔᏂᏊᎵ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Sarajevo"_s),
-			$of(u"\u13cc\u13b3\u13e4\u13ec"_s)
+			$of(u"ᏌᎳᏤᏬ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Uzhgorod"_s),
-			$of(u"\u13a4\u13cd\u13aa\u13b6\u13d7"_s)
+			$of(u"ᎤᏍᎪᎶᏗ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Indian/Maldives"_s),
-			$of(u"\u13b9\u13b5\u13d7\u13eb\u13cd"_s)
+			$of(u"ᎹᎵᏗᏫᏍ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Pacific/Chatham"_s),
-			$of(u"\u13e3\u13dd\u13bb"_s)
+			$of(u"ᏣᏝᎻ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Pacific/Fakaofo"_s),
-			$of(u"\u13e9\u13a7\u13a3\u13ec"_s)
+			$of(u"ᏩᎧᎣᏬ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Pacific/Gambier"_s),
-			$of(u"\u13a6\u13bb\u13c7\u13b5"_s)
+			$of(u"ᎦᎻᏇᎵ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Pacific/Norfolk"_s),
-			$of(u"\u13c3\u13b5\u13ec\u13b5\u13a9"_s)
+			$of(u"ᏃᎵᏬᎵᎩ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Africa/Bujumbura"_s),
-			$of(u"\u13ca\u13e7\u13bb\u13ca\u13b3"_s)
+			$of(u"ᏊᏧᎻᏊᎳ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Africa/Mogadishu"_s),
-			$of(u"\u13bc\u13a6\u13d7\u13e1"_s)
+			$of(u"ᎼᎦᏗᏡ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Anguilla"_s),
-			$of(u"\u13a0\u13c2\u13a9\u13b3"_s)
+			$of(u"ᎠᏂᎩᎳ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Asuncion"_s),
-			$of(u"\u13a0\u13d1\u13cf\u13f2\u13c5"_s)
+			$of(u"ᎠᏑᏏᏲᏅ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Barbados"_s),
-			$of(u"\u13c6\u13c7\u13d9\u13cd"_s)
+			$of(u"ᏆᏇᏙᏍ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Dominica"_s),
-			$of(u"\u13d9\u13bb\u13c2\u13a7"_s)
+			$of(u"ᏙᎻᏂᎧ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Edmonton"_s),
-			$of(u"\u13a1\u13d7\u13b9\u13c2\u13d4\u13c2"_s)
+			$of(u"ᎡᏗᎹᏂᏔᏂ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Eirunepe"_s),
-			$of(u"\u13a1\u13b7\u13c1\u13c7"_s)
+			$of(u"ᎡᎷᏁᏇ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Mazatlan"_s),
-			$of(u"\u13b9\u13cc\u13dd\u13c2"_s)
+			$of(u"ᎹᏌᏝᏂ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Miquelon"_s),
-			$of(u"\u13bb\u13a8\u13b6\u13c2"_s)
+			$of(u"ᎻᎨᎶᏂ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/New_York"_s),
-			$of(u"\u13c4\u13ef\u13a9"_s)
+			$of(u"ᏄᏯᎩ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Resolute"_s),
-			$of(u"\u13b4\u13d0\u13b7\u13d8"_s)
+			$of(u"ᎴᏐᎷᏘ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Santarem"_s),
-			$of(u"\u13cc\u13c2\u13d4\u13b4\u13bb"_s)
+			$of(u"ᏌᏂᏔᎴᎻ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Santiago"_s),
-			$of(u"\u13cc\u13c2\u13d8\u13ef\u13aa"_s)
+			$of(u"ᏌᏂᏘᏯᎪ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/St_Johns"_s),
-			$of(u"\u13a4\u13d3\u13c5\u13d8 \u13e3\u13c2 \u13a4\u13e4\u13b5"_s)
+			$of(u"ᎤᏓᏅᏘ ᏣᏂ ᎤᏤᎵ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/St_Kitts"_s),
-			$of(u"\u13a4\u13d3\u13c5\u13d8 \u13a9\u13d8\u13cf"_s)
+			$of(u"ᎤᏓᏅᏘ ᎩᏘᏏ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/St_Lucia"_s),
-			$of(u"\u13a4\u13d3\u13c5\u13d8 \u13b7\u13cf\u13ef"_s)
+			$of(u"ᎤᏓᏅᏘ ᎷᏏᏯ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Winnipeg"_s),
-			$of(u"\u13eb\u13c2\u13c7\u13a9"_s)
+			$of(u"ᏫᏂᏇᎩ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Antarctica/Casey"_s),
-			$of(u"\u13a8\u13cf"_s)
+			$of(u"ᎨᏏ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Antarctica/Davis"_s),
-			$of(u"\u13d5\u13eb\u13cf"_s)
+			$of(u"ᏕᏫᏏ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Antarctica/Syowa"_s),
-			$of(u"\u13cf\u13f2\u13e9"_s)
+			$of(u"ᏏᏲᏩ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Antarctica/Troll"_s),
-			$of(u"\u13e0\u13b5"_s)
+			$of(u"ᏠᎵ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Krasnoyarsk"_s),
-			$of(u"\u13dd\u13cd\u13c3\u13ef\u13cd\u13a7"_s)
+			$of(u"ᏝᏍᏃᏯᏍᎧ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Novosibirsk"_s),
-			$of(u"\u13c3\u13ec\u13cf\u13c8\u13cd\u13a7"_s)
+			$of(u"ᏃᏬᏏᏈᏍᎧ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Ulaanbaatar"_s),
-			$of(u"\u13a4\u13b3\u13c2\u13c6\u13d4"_s)
+			$of(u"ᎤᎳᏂᏆᏔ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Vladivostok"_s),
-			$of(u"\u13ed\u13b3\u13d7\u13ec\u13cd\u13d9\u13a9"_s)
+			$of(u"ᏭᎳᏗᏬᏍᏙᎩ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Atlantic/Bermuda"_s),
-			$of(u"\u13c6\u13ca\u13d3"_s)
+			$of(u"ᏆᏊᏓ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Atlantic/Madeira"_s),
-			$of(u"\u13b9\u13d5\u13b3"_s)
+			$of(u"ᎹᏕᎳ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Atlantic/Stanley"_s),
-			$of(u"\u13cd\u13d5\u13c2\u13b5"_s)
+			$of(u"ᏍᏕᏂᎵ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Australia/Currie"_s),
-			$of(u"\u13ab\u13b5"_s)
+			$of(u"ᎫᎵ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Australia/Darwin"_s),
-			$of(u"\u13d3\u13e9\u13c2"_s)
+			$of(u"ᏓᏩᏂ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Australia/Hobart"_s),
-			$of(u"\u13b0\u13c6\u13d8"_s)
+			$of(u"ᎰᏆᏘ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Australia/Sydney"_s),
-			$of(u"\u13cf\u13d7\u13c2"_s)
+			$of(u"ᏏᏗᏂ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Amsterdam"_s),
-			$of(u"\u13a0\u13bb\u13cd\u13d5\u13d3\u13bb"_s)
+			$of(u"ᎠᎻᏍᏕᏓᎻ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Astrakhan"_s),
-			$of(u"\u13a0\u13dd\u13a7\u13c2"_s)
+			$of(u"ᎠᏝᎧᏂ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Bucharest"_s),
-			$of(u"\u13c7\u13e3\u13b4\u13cd\u13d7"_s)
+			$of(u"ᏇᏣᎴᏍᏗ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Gibraltar"_s),
-			$of(u"\u13e5\u13c6\u13b5\u13d3"_s)
+			$of(u"ᏥᏆᎵᏓ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Ljubljana"_s),
-			$of(u"\u13e7\u13e3\u13be"_s)
+			$of(u"ᏧᏣᎾ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Mariehamn"_s),
-			$of(u"\u13ba\u13b5\u13ad\u13bb"_s)
+			$of(u"ᎺᎵᎭᎻ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Podgorica"_s),
-			$of(u"\u13c9\u13aa\u13b5\u13a7"_s)
+			$of(u"ᏉᎪᎵᎧ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Stockholm"_s),
-			$of(u"\u13cd\u13d3\u13a9\u13b0\u13bb"_s)
+			$of(u"ᏍᏓᎩᎰᎻ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Ulyanovsk"_s),
-			$of(u"\u13a4\u13b5\u13ef\u13c3\u13ec\u13cd\u13a7"_s)
+			$of(u"ᎤᎵᏯᏃᏬᏍᎧ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Volgograd"_s),
-			$of(u"\u13ec\u13b6\u13aa\u13dd\u13d7"_s)
+			$of(u"ᏬᎶᎪᏝᏗ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Indian/Christmas"_s),
-			$of(u"\u13d3\u13c2\u13cd\u13d3\u13f2\u13af\u13b2"_s)
+			$of(u"ᏓᏂᏍᏓᏲᎯᎲ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Indian/Kerguelen"_s),
-			$of(u"\u13ac\u13b5\u13ab\u13f0\u13b4\u13c2"_s)
+			$of(u"ᎬᎵᎫᏰᎴᏂ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Indian/Mauritius"_s),
-			$of(u"\u13bc\u13b5\u13cf\u13a5\u13cd"_s)
+			$of(u"ᎼᎵᏏᎥᏍ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Pacific/Auckland"_s),
-			$of(u"\u13a0\u13a6\u13b3\u13be\u13d7"_s)
+			$of(u"ᎠᎦᎳᎾᏗ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Pacific/Funafuti"_s),
-			$of(u"\u13e1\u13be\u13e1\u13d8"_s)
+			$of(u"ᏡᎾᏡᏘ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Pacific/Honolulu"_s),
-			$of(u"\u13ad\u13c3\u13b7\u13b7"_s)
+			$of(u"ᎭᏃᎷᎷ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Pacific/Johnston"_s),
-			$of(u"\u13e3\u13c2\u13cf\u13c2"_s)
+			$of(u"ᏣᏂᏏᏂ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Pacific/Pitcairn"_s),
-			$of(u"\u13c8\u13a7\u13b5\u13c2\u13a4"_s)
+			$of(u"ᏈᎧᎵᏂᎤ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Africa/Casablanca"_s),
-			$of(u"\u13a4\u13c1\u13a6 \u13a6\u13b5\u13e6\u13d5"_s)
+			$of(u"ᎤᏁᎦ ᎦᎵᏦᏕ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Africa/Libreville"_s),
-			$of(u"\u13b5\u13c7\u13eb\u13b5"_s)
+			$of(u"ᎵᏇᏫᎵ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Africa/Lubumbashi"_s),
-			$of(u"\u13b7\u13ca\u13c6\u13cf"_s)
+			$of(u"ᎷᏊᏆᏏ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Africa/Nouakchott"_s),
-			$of(u"\u13be\u13ec\u13e3\u13d8"_s)
+			$of(u"ᎾᏬᏣᏘ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Africa/Porto-Novo"_s),
-			$of(u"\u13e5\u13f3\u13d7\u13d4\u13b3\u13d7\u13cd\u13d7-\u13c3\u13ec"_s)
+			$of(u"ᏥᏳᏗᏔᎳᏗᏍᏗ-ᏃᏬ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Anchorage"_s),
-			$of(u"\u13a0\u13c2\u13aa\u13b4\u13e5"_s)
+			$of(u"ᎠᏂᎪᎴᏥ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Araguaina"_s),
-			$of(u"\u13a0\u13b3\u13ab\u13e9\u13f1\u13be"_s)
+			$of(u"ᎠᎳᎫᏩᏱᎾ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Boa_Vista"_s),
-			$of(u"\u13a3\u13cd\u13d3 \u13a0\u13aa\u13b5\u13f0\u13d7"_s)
+			$of(u"ᎣᏍᏓ ᎠᎪᎵᏰᏗ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Catamarca"_s),
-			$of(u"\u13a7\u13d4\u13b9\u13a7"_s)
+			$of(u"ᎧᏔᎹᎧ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Chihuahua"_s),
-			$of(u"\u13e5\u13e9\u13e9"_s)
+			$of(u"ᏥᏩᏩ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Fortaleza"_s),
-			$of(u"\u13ec\u13d4\u13b4\u13ce"_s)
+			$of(u"ᏬᏔᎴᏎ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Glace_Bay"_s),
-			$of(u"\u13de\u13cf \u13a1\u13c9\u13c4\u13b8\u13d7"_s)
+			$of(u"ᏞᏏ ᎡᏉᏄᎸᏗ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Goose_Bay"_s),
-			$of(u"\u13cc\u13cc \u13a1\u13c9\u13c4\u13b8\u13d7"_s)
+			$of(u"ᏌᏌ ᎡᏉᏄᎸᏗ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Guatemala"_s),
-			$of(u"\u13e9\u13d4\u13b9\u13b3"_s)
+			$of(u"ᏩᏔᎹᎳ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Guayaquil"_s),
-			$of(u"\u13c6\u13ef\u13a9\u13b5"_s)
+			$of(u"ᏆᏯᎩᎵ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Matamoros"_s),
-			$of(u"\u13b9\u13d4\u13bc\u13b6\u13cf"_s)
+			$of(u"ᎹᏔᎼᎶᏏ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Menominee"_s),
-			$of(u"\u13ba\u13c3\u13bb\u13c2"_s)
+			$of(u"ᎺᏃᎻᏂ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Monterrey"_s),
-			$of(u"\u13bc\u13d6\u13b5"_s)
+			$of(u"ᎼᏖᎵ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Sao_Paulo"_s),
-			$of(u"\u13cc\u13a3 \u13c6\u13b6"_s)
+			$of(u"ᏌᎣ ᏆᎶ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/St_Thomas"_s),
-			$of(u"\u13a4\u13d3\u13c5\u13d8 \u13d9\u13b9\u13cf"_s)
+			$of(u"ᎤᏓᏅᏘ ᏙᎹᏏ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Vancouver"_s),
-			$of(u"\u13ea\u13c2\u13ab\u13ea\u13b5"_s)
+			$of(u"ᏪᏂᎫᏪᎵ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Antarctica/Mawson"_s),
-			$of(u"\u13b9\u13cc\u13c2"_s)
+			$of(u"ᎹᏌᏂ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Antarctica/Palmer"_s),
-			$of(u"\u13c6\u13b5\u13ba\u13b5"_s)
+			$of(u"ᏆᎵᎺᎵ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Antarctica/Vostok"_s),
-			$of(u"\u13ec\u13cd\u13d9\u13a7"_s)
+			$of(u"ᏬᏍᏙᎧ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Kuala_Lumpur"_s),
-			$of(u"\u13ab\u13e9\u13b3 \u13b8\u13bb\u13cb"_s)
+			$of(u"ᎫᏩᎳ ᎸᎻᏋ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Novokuznetsk"_s),
-			$of(u"\u13c3\u13ec\u13ab\u13c1\u13d6\u13cd\u13a7"_s)
+			$of(u"ᏃᏬᎫᏁᏖᏍᎧ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Bratislava"_s),
-			$of(u"\u13c6\u13d8\u13cd\u13b3\u13e9"_s)
+			$of(u"ᏆᏘᏍᎳᏩ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Copenhagen"_s),
-			$of(u"\u13aa\u13c7\u13c2\u13ae\u13a8\u13c2"_s)
+			$of(u"ᎪᏇᏂᎮᎨᏂ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Luxembourg"_s),
-			$of(u"\u13b8\u13a7\u13ce\u13cb\u13a9"_s)
+			$of(u"ᎸᎧᏎᏋᎩ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/San_Marino"_s),
-			$of(u"\u13b9\u13b5\u13c3"_s)
+			$of(u"ᎹᎵᏃ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Simferopol"_s),
-			$of(u"\u13cf\u13bb\u13ea\u13b6\u13c9\u13b5"_s)
+			$of(u"ᏏᎻᏪᎶᏉᎵ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Zaporozhye"_s),
-			$of(u"\u13cc\u13c9\u13b6\u13cc\u13f1"_s)
+			$of(u"ᏌᏉᎶᏌᏱ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Pacific/Enderbury"_s),
-			$of(u"\u13a1\u13c2\u13c7\u13b5"_s)
+			$of(u"ᎡᏂᏇᎵ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Pacific/Galapagos"_s),
-			$of(u"\u13a1\u13c6 \u13d3\u13a6\u13cf \u13a4\u13a6\u13da\u13db\u13a2"_s)
+			$of(u"ᎡᏆ ᏓᎦᏏ ᎤᎦᏚᏛᎢ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Pacific/Kwajalein"_s),
-			$of(u"\u13c6\u13e3\u13b4\u13a2\u13c2"_s)
+			$of(u"ᏆᏣᎴᎢᏂ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Pacific/Marquesas"_s),
-			$of(u"\u13b9\u13b5\u13a8\u13cc\u13cf"_s)
+			$of(u"ᎹᎵᎨᏌᏏ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Pacific/Pago_Pago"_s),
-			$of(u"\u13c6\u13aa \u13c6\u13aa"_s)
+			$of(u"ᏆᎪ ᏆᎪ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Pacific/Rarotonga"_s),
-			$of(u"\u13b3\u13b6\u13d9\u13c2\u13a6"_s)
+			$of(u"ᎳᎶᏙᏂᎦ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Pacific/Tongatapu"_s),
-			$of(u"\u13d9\u13be\u13a6\u13d4\u13ca"_s)
+			$of(u"ᏙᎾᎦᏔᏊ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Africa/Addis_Ababa"_s),
-			$of(u"\u13a1\u13d7\u13cd \u13a0\u13c6\u13c6"_s)
+			$of(u"ᎡᏗᏍ ᎠᏆᏆ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Africa/Brazzaville"_s),
-			$of(u"\u13c6\u13cc\u13e9\u13b5"_s)
+			$of(u"ᏆᏌᏩᎵ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Africa/Ouagadougou"_s),
-			$of(u"\u13a3\u13e9\u13a6\u13da\u13ab"_s)
+			$of(u"ᎣᏩᎦᏚᎫ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Costa_Rica"_s),
-			$of(u"\u13aa\u13cd\u13d3\u13b5\u13a7"_s)
+			$of(u"ᎪᏍᏓᎵᎧ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Grand_Turk"_s),
-			$of(u"\u13c4\u13ac\u13eb\u13f3\u13d2 \u13ac\u13be"_s)
+			$of(u"ᏄᎬᏫᏳᏒ ᎬᎾ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Guadeloupe"_s),
-			$of(u"\u13e9\u13d3\u13b7\u13c7"_s)
+			$of(u"ᏩᏓᎷᏇ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Hermosillo"_s),
-			$of(u"\u13ae\u13bc\u13cf\u13b6"_s)
+			$of(u"ᎮᎼᏏᎶ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Kralendijk"_s),
-			$of(u"\u13c6\u13b4\u13c2\u13d7"_s)
+			$of(u"ᏆᎴᏂᏗ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Louisville"_s),
-			$of(u"\u13b7\u13eb\u13eb\u13b5"_s)
+			$of(u"ᎷᏫᏫᎵ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Martinique"_s),
-			$of(u"\u13b9\u13d8\u13c2\u13c7"_s)
+			$of(u"ᎹᏘᏂᏇ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Metlakatla"_s),
-			$of(u"\u13ba\u13dd\u13a7\u13dd"_s)
+			$of(u"ᎺᏝᎧᏝ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Montevideo"_s),
-			$of(u"\u13bc\u13c2\u13d6\u13eb\u13d5\u13f2"_s)
+			$of(u"ᎼᏂᏖᏫᏕᏲ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Montserrat"_s),
-			$of(u"\u13b9\u13c2\u13d8\u13cc\u13b3\u13d7"_s)
+			$of(u"ᎹᏂᏘᏌᎳᏗ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Paramaribo"_s),
-			$of(u"\u13c6\u13b3\u13b9\u13b4\u13c9"_s)
+			$of(u"ᏆᎳᎹᎴᏉ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Rio_Branco"_s),
-			$of(u"\u13a4\u13c1\u13a6 \u13a4\u13ea\u13f4"_s)
+			$of(u"ᎤᏁᎦ ᎤᏪᏴ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/St_Vincent"_s),
-			$of(u"\u13a4\u13d3\u13c5\u13d8 \u13eb\u13c2\u13ce\u13d8"_s)
+			$of(u"ᎤᏓᏅᏘ ᏫᏂᏎᏘ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Whitehorse"_s),
-			$of(u"\u13a4\u13c1\u13a6 \u13d0\u13c8\u13b5"_s)
+			$of(u"ᎤᏁᎦ ᏐᏈᎵ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Antarctica/McMurdo"_s),
-			$of(u"\u13bb\u13a6\u13bd\u13d9"_s)
+			$of(u"ᎻᎦᎽᏙ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Antarctica/Rothera"_s),
-			$of(u"\u13b3\u13de\u13b3"_s)
+			$of(u"ᎳᏞᎳ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Srednekolymsk"_s),
-			$of(u"\u13cd\u13b4\u13d7\u13c1\u13aa\u13b5\u13bb\u13cd\u13a7"_s)
+			$of(u"ᏍᎴᏗᏁᎪᎵᎻᏍᎧ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Yekaterinburg"_s),
-			$of(u"\u13f0\u13a7\u13d6\u13b5\u13c2\u13ca\u13a6"_s)
+			$of(u"ᏰᎧᏖᎵᏂᏊᎦ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Atlantic/Reykjavik"_s),
-			$of(u"\u13b4\u13e3\u13eb\u13a9"_s)
+			$of(u"ᎴᏣᏫᎩ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Atlantic/St_Helena"_s),
-			$of(u"\u13a4\u13d3\u13c5\u13d8 \u13ae\u13b5\u13be"_s)
+			$of(u"ᎤᏓᏅᏘ ᎮᎵᎾ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Australia/Adelaide"_s),
-			$of(u"\u13a1\u13d5\u13b4\u13d7"_s)
+			$of(u"ᎡᏕᎴᏗ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Australia/Brisbane"_s),
-			$of(u"\u13c7\u13cd\u13c7\u13c2"_s)
+			$of(u"ᏇᏍᏇᏂ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Australia/Lindeman"_s),
-			$of(u"\u13b4\u13be\u13d5\u13b9\u13c2"_s)
+			$of(u"ᎴᎾᏕᎹᏂ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Isle_of_Man"_s),
-			$of(u"\u13a4\u13cd\u13d7\u13a4\u13a6\u13da\u13db \u13be\u13bf \u13a0\u13cd\u13a6\u13ef"_s)
+			$of(u"ᎤᏍᏗᎤᎦᏚᏛ ᎾᎿ ᎠᏍᎦᏯ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Kaliningrad"_s),
-			$of(u"\u13a7\u13b5\u13c2\u13c6\u13d7"_s)
+			$of(u"ᎧᎵᏂᏆᏗ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Pacific/Kiritimati"_s),
-			$of(u"\u13a9\u13b5\u13d8\u13b9\u13d8"_s)
+			$of(u"ᎩᎵᏘᎹᏘ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Africa/Johannesburg"_s),
-			$of(u"\u13e6\u13ad\u13c1\u13cd\u13ca\u13a6"_s)
+			$of(u"ᏦᎭᏁᏍᏊᎦ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/El_Salvador"_s),
-			$of(u"\u13a1\u13b5 \u13cc\u13b5\u13c6\u13d9\u13b5"_s)
+			$of(u"ᎡᎵ ᏌᎵᏆᏙᎵ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Fort_Nelson"_s),
-			$of(u"\u13d7\u13d0\u13f4 \u13c1\u13b5\u13cc\u13c2"_s)
+			$of(u"ᏗᏐᏴ ᏁᎵᏌᏂ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Los_Angeles"_s),
-			$of(u"\u13be\u13cd\u13a9 \u13d7\u13c2\u13a7\u13bf\u13e9\u13d7\u13d9\u13af"_s)
+			$of(u"ᎾᏍᎩ ᏗᏂᎧᎿᏩᏗᏙᎯ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Mexico_City"_s),
-			$of(u"\u13a0\u13c2\u13cd\u13c6\u13c2 \u13a6\u13da\u13b2"_s)
+			$of(u"ᎠᏂᏍᏆᏂ ᎦᏚᎲ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Pangnirtung"_s),
-			$of(u"\u13c6\u13c2\u13c2\u13da\u13c2\u13a6"_s)
+			$of(u"ᏆᏂᏂᏚᏂᎦ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Porto_Velho"_s),
-			$of(u"\u13a4\u13ea\u13d8 \u13e5\u13f3\u13d7\u13d4\u13b3\u13d7\u13cd\u13d7"_s)
+			$of(u"ᎤᏪᏘ ᏥᏳᏗᏔᎳᏗᏍᏗ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Puerto_Rico"_s),
-			$of(u"\u13c7\u13a1\u13d9 \u13b5\u13a2\u13aa"_s)
+			$of(u"ᏇᎡᏙ ᎵᎢᎪ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Rainy_River"_s),
-			$of(u"\u13a0\u13a6\u13cd\u13a6 \u13a4\u13ea\u13f4"_s)
+			$of(u"ᎠᎦᏍᎦ ᎤᏪᏴ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Tegucigalpa"_s),
-			$of(u"\u13d6\u13ab\u13cf\u13a6\u13b5\u13c6"_s)
+			$of(u"ᏖᎫᏏᎦᎵᏆ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Thunder_Bay"_s),
-			$of(u"\u13a0\u13f4\u13d3\u13c6\u13b6\u13cd\u13a6 \u13a1\u13c9\u13c4\u13b8\u13d7"_s)
+			$of(u"ᎠᏴᏓᏆᎶᏍᎦ ᎡᏉᏄᎸᏗ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Yellowknife"_s),
-			$of(u"\u13d3\u13b6\u13c2\u13a8 \u13ad\u13f0\u13cd\u13d7"_s)
+			$of(u"ᏓᎶᏂᎨ ᎭᏰᏍᏗ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Arctic/Longyearbyen"_s),
-			$of(u"\u13a6\u13c5\u13af\u13d3 \u13a4\u13d5\u13d8\u13f4\u13cc\u13d7\u13d2\u13a2 \u13a6\u13da\u13b2"_s)
+			$of(u"ᎦᏅᎯᏓ ᎤᏕᏘᏴᏌᏗᏒᎢ ᎦᏚᎲ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Atlantic/Cape_Verde"_s),
-			$of(u"\u13a2\u13ac\u13be\u13d5\u13be \u13a2\u13e4\u13f3\u13cd\u13d7"_s)
+			$of(u"ᎢᎬᎾᏕᎾ ᎢᏤᏳᏍᏗ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Australia/Lord_Howe"_s),
-			$of(u"\u13a4\u13ac\u13eb\u13f3\u13af \u13ad\u13eb"_s)
+			$of(u"ᎤᎬᏫᏳᎯ ᎭᏫ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Australia/Melbourne"_s),
-			$of(u"\u13ba\u13b5\u13c9\u13c1"_s)
+			$of(u"ᎺᎵᏉᏁ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Indian/Antananarivo"_s),
-			$of(u"\u13a0\u13c2\u13d4\u13be\u13be\u13b5\u13ec"_s)
+			$of(u"ᎠᏂᏔᎾᎾᎵᏬ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Pacific/Guadalcanal"_s),
-			$of(u"\u13c6\u13d3\u13b5\u13a7\u13be\u13b5"_s)
+			$of(u"ᏆᏓᎵᎧᎾᎵ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Africa/Dar_es_Salaam"_s),
-			$of(u"\u13d3 \u13a1\u13cf \u13cc\u13b3\u13bb"_s)
+			$of(u"Ꮣ ᎡᏏ ᏌᎳᎻ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Blanc-Sablon"_s),
-			$of(u"\u13dd\u13c2-\u13cc\u13e0\u13c2"_s)
+			$of(u"ᏝᏂ-ᏌᏠᏂ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Buenos_Aires"_s),
-			$of(u"\u13a3\u13cd\u13d3 \u13a4\u13c3\u13b4"_s)
+			$of(u"ᎣᏍᏓ ᎤᏃᎴ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Campo_Grande"_s),
-			$of(u"\u13a4\u13d4\u13be \u13e0\u13a8\u13cf"_s)
+			$of(u"ᎤᏔᎾ ᏠᎨᏏ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Danmarkshavn"_s),
-			$of(u"\u13d5\u13be\u13b9\u13a7\u13cc\u13e9\u13c2"_s)
+			$of(u"ᏕᎾᎹᎧᏌᏩᏂ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Dawson_Creek"_s),
-			$of(u"\u13d3\u13cc\u13c2 \u13a4\u13ea\u13f4"_s)
+			$of(u"ᏓᏌᏂ ᎤᏪᏴ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Indiana/Knox"_s),
-			$of(u"\u13c3\u13c8\u13cf, \u13a2\u13c2\u13d7\u13f0\u13be"_s)
+			$of(u"ᏃᏈᏏ, ᎢᏂᏗᏰᎾ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Indianapolis"_s),
-			$of(u"\u13a2\u13c2\u13d7\u13a0\u13c2\u13a0\u13c9\u13b5\u13cf"_s)
+			$of(u"ᎢᏂᏗᎠᏂᎠᏉᎵᏏ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Punta_Arenas"_s),
-			$of(u"\u13ca\u13d4 \u13a1\u13eb\u13be\u13cd"_s)
+			$of(u"ᏊᏔ ᎡᏫᎾᏍ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Rankin_Inlet"_s),
-			$of(u"\u13b4\u13c2\u13a9\u13c2 \u13a2\u13c2\u13b4\u13d8"_s)
+			$of(u"ᎴᏂᎩᏂ ᎢᏂᎴᏘ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Scoresbysund"_s),
-			$of(u"\u13a2\u13d9\u13aa\u13d9\u13bb\u13d8"_s)
+			$of(u"ᎢᏙᎪᏙᎻᏘ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Antarctica/Macquarie"_s),
-			$of(u"\u13b9\u13c7\u13b5"_s)
+			$of(u"ᎹᏇᎵ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Pacific/Bougainville"_s),
-			$of(u"\u13ca\u13a8\u13c2\u13eb\u13b5"_s)
+			$of(u"ᏊᎨᏂᏫᎵ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Pacific/Port_Moresby"_s),
-			$of(u"\u13e5\u13f3\u13d7\u13d4\u13b3\u13d7\u13cd\u13d7 \u13bc\u13b5\u13cd\u13c8"_s)
+			$of(u"ᏥᏳᏗᏔᎳᏗᏍᏗ ᎼᎵᏍᏈ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Cambridge_Bay"_s),
-			$of(u"\u13a8\u13bb\u13c8\u13e5 \u13a1\u13c9\u13c4\u13b8\u13d7"_s)
+			$of(u"ᎨᎻᏈᏥ ᎡᏉᏄᎸᏗ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Coral_Harbour"_s),
-			$of(u"\u13a0\u13d8\u13aa\u13a6\u13c2"_s)
+			$of(u"ᎠᏘᎪᎦᏂ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Indiana/Vevay"_s),
-			$of(u"\u13ea\u13ea, \u13a2\u13c2\u13d7\u13f0\u13be"_s)
+			$of(u"ᏪᏪ, ᎢᏂᏗᏰᎾ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Lower_Princes"_s),
-			$of(u"\u13a1\u13b3\u13d7 \u13d7\u13dc \u13a4\u13ac\u13eb\u13f3\u13af \u13a9\u13c4\u13d9\u13d7"_s)
+			$of(u"ᎡᎳᏗ ᏗᏜ ᎤᎬᏫᏳᎯ ᎩᏄᏙᏗ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Port_of_Spain"_s),
-			$of(u"\u13e5\u13f3\u13d7\u13d4\u13b3\u13d7\u13cd\u13d7 \u13cd\u13c6\u13c2\u13a8\u13cd\u13db"_s)
+			$of(u"ᏥᏳᏗᏔᎳᏗᏍᏗ ᏍᏆᏂᎨᏍᏛ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Santo_Domingo"_s),
-			$of(u"\u13cc\u13c2\u13d9 \u13d9\u13bb\u13aa"_s)
+			$of(u"ᏌᏂᏙ ᏙᎻᎪ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/St_Barthelemy"_s),
-			$of(u"\u13a4\u13d3\u13c5\u13d8 \u13c6\u13b5\u13de\u13b4\u13bb"_s)
+			$of(u"ᎤᏓᏅᏘ ᏆᎵᏞᎴᎻ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Swift_Current"_s),
-			$of(u"\u13a0\u13ef\u13c4\u13b5 \u13a4\u13c3\u13b4"_s)
+			$of(u"ᎠᏯᏄᎵ ᎤᏃᎴ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Australia/Broken_Hill"_s),
-			$of(u"\u13a4\u13f2\u13e8\u13af \u13a6\u13da\u13cf"_s)
+			$of(u"ᎤᏲᏨᎯ ᎦᏚᏏ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Bahia_Banderas"_s),
-			$of(u"\u13c6\u13af\u13ef \u13c6\u13c2\u13d5\u13b3\u13cf"_s)
+			$of(u"ᏆᎯᏯ ᏆᏂᏕᎳᏏ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Port-au-Prince"_s),
-			$of(u"\u13e5\u13f3\u13d7\u13d4\u13b3\u13d7\u13cd\u13d7-\u13be\u13bf-\u13a4\u13ac\u13eb\u13f3\u13af"_s)
+			$of(u"ᏥᏳᏗᏔᎳᏗᏍᏗ-ᎾᎿ-ᎤᎬᏫᏳᎯ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Atlantic/South_Georgia"_s),
-			$of(u"\u13e7\u13a6\u13be\u13ee \u13e3\u13a0\u13e5\u13a2"_s)
+			$of(u"ᏧᎦᎾᏮ ᏣᎠᏥᎢ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Argentina/Salta"_s),
-			$of(u"\u13cc\u13b3\u13d4"_s)
+			$of(u"ᏌᎳᏔ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Indiana/Marengo"_s),
-			$of(u"\u13b9\u13b4\u13c2\u13aa, \u13a2\u13c2\u13d7\u13f0\u13be"_s)
+			$of(u"ᎹᎴᏂᎪ, ᎢᏂᏗᏰᎾ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Indiana/Winamac"_s),
-			$of(u"\u13eb\u13be\u13b9\u13a9, \u13a2\u13c2\u13d7\u13f0\u13be"_s)
+			$of(u"ᏫᎾᎹᎩ, ᎢᏂᏗᏰᎾ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Argentina/Tucuman"_s),
-			$of(u"\u13da\u13ab\u13b9\u13c2"_s)
+			$of(u"ᏚᎫᎹᏂ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Argentina/Ushuaia"_s),
-			$of(u"\u13a4\u13d1\u13e9\u13ef"_s)
+			$of(u"ᎤᏑᏩᏯ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Indiana/Tell_City"_s),
-			$of(u"\u13d6\u13b5 \u13a6\u13da\u13b2, \u13a2\u13c2\u13d7\u13f0\u13be"_s)
+			$of(u"ᏖᎵ ᎦᏚᎲ, ᎢᏂᏗᏰᎾ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Indiana/Vincennes"_s),
-			$of(u"\u13eb\u13c2\u13ce\u13c1\u13cf, \u13a2\u13c2\u13d7\u13f0\u13be"_s)
+			$of(u"ᏫᏂᏎᏁᏏ, ᎢᏂᏗᏰᎾ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Antarctica/DumontDUrville"_s),
-			$of(u"\u13da\u13bc\u13be\u13d8-\u13d7\u2019\u13a4\u13b5\u13eb\u13b5"_s)
+			$of(u"ᏚᎼᎾᏘ-Ꮧ’ᎤᎵᏫᎵ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Argentina/La_Rioja"_s),
-			$of(u"\u13b3 \u13b5\u13f2\u13ad"_s)
+			$of(u"Ꮃ ᎵᏲᎭ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Argentina/San_Juan"_s),
-			$of(u"\u13cc\u13c2 \u13e9\u13c2"_s)
+			$of(u"ᏌᏂ ᏩᏂ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Argentina/San_Luis"_s),
-			$of(u"\u13a4\u13d3\u13c5\u13d7 \u13b7\u13eb\u13cf"_s)
+			$of(u"ᎤᏓᏅᏗ ᎷᏫᏏ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Indiana/Petersburg"_s),
-			$of(u"\u13c8\u13d3\u13c8\u13a6, \u13a2\u13c2\u13d7\u13f0\u13be"_s)
+			$of(u"ᏈᏓᏈᎦ, ᎢᏂᏗᏰᎾ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Kentucky/Monticello"_s),
-			$of(u"\u13b9\u13c2\u13d4\u13ce\u13b6, \u13ac\u13c5\u13d3\u13a9"_s)
+			$of(u"ᎹᏂᏔᏎᎶ, ᎬᏅᏓᎩ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/North_Dakota/Beulah"_s),
-			$of(u"\u13c7\u13f3\u13b3, \u13e7\u13f4\u13e2 \u13d3\u13aa\u13d4"_s)
+			$of(u"ᏇᏳᎳ, ᏧᏴᏢ ᏓᎪᏔ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/North_Dakota/Center"_s),
-			$of(u"\u13a0\u13f0\u13df, \u13e7\u13f4\u13e2 \u13d3\u13aa\u13d4"_s)
+			$of(u"ᎠᏰᏟ, ᏧᏴᏢ ᏓᎪᏔ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Argentina/Rio_Gallegos"_s),
-			$of(u"\u13a6\u13f0\u13aa\u13cf \u13a4\u13ea\u13f4"_s)
+			$of(u"ᎦᏰᎪᏏ ᎤᏪᏴ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/North_Dakota/New_Salem"_s),
-			$of(u"\u13a2\u13e4 \u13ce\u13b4\u13bb, \u13e7\u13f4\u13e2 \u13d3\u13aa\u13d4"_s)
+			$of(u"ᎢᏤ ᏎᎴᎻ, ᏧᏴᏢ ᏓᎪᏔ"_s)
 		})
 	}));
 	return data;

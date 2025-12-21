@@ -42,23 +42,23 @@ void TimeZoneNames_yo_BJ::init$() {
 $ObjectArray2* TimeZoneNames_yo_BJ::getContents() {
 	$useLocalCurrentObjectStackCache();
 	$var($StringArray, Cuba, $new($StringArray, {
-		u"\u00c0k\u00f3k\u00f2 \u00c0f\u025bnuk\u00f2 K\u00fab\u00e0"_s,
+		u"Àkókò Àfɛnukò Kúbà"_s,
 		""_s,
-		u"\u00c0k\u00f3k\u00f2 Oj\u00fam\u0254m\u0254 K\u00fab\u00e0"_s,
+		u"Àkókò Ojúmɔmɔ Kúbà"_s,
 		""_s,
-		u"\u00c0k\u00f3k\u00f2 K\u00fab\u00e0"_s,
+		u"Àkókò Kúbà"_s,
 		""_s
 	}));
 	$var($StringArray, China, $new($StringArray, {
-		u"\u00c0k\u00f3k\u00f2 \u00ccf\u025bnuk\u00f2s\u00ed Sh\u00e1\u00edn\u00e0"_s,
+		u"Àkókò Ìfɛnukòsí Sháínà"_s,
 		""_s,
-		u"\u00c0k\u00f3k\u00f2 Oj\u00fam\u0254m\u0254 Sh\u00e1\u00edn\u00e0"_s,
+		u"Àkókò Ojúmɔmɔ Sháínà"_s,
 		""_s,
-		u"\u00c0k\u00f3k\u00f2 Sh\u00e1\u00edn\u00e0"_s,
+		u"Àkókò Sháínà"_s,
 		""_s
 	}));
 	$var($StringArray, ETC_UTC, $new($StringArray, {
-		u"\u00c0pap\u0254\u0300 \u00c0k\u00f3k\u00f2 \u00c0gb\u00e1y\u00e9"_s,
+		u"Àpapɔ̀ Àkókò Àgbáyé"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -66,135 +66,135 @@ $ObjectArray2* TimeZoneNames_yo_BJ::getContents() {
 		""_s
 	}));
 	$var($StringArray, Atlantic, $new($StringArray, {
-		u"\u00c0k\u00f3k\u00f2 \u00e0sik\u00f2 \u00c0t\u00ecl\u00e1\u0144t\u00ed\u00eck\u00ec"_s,
+		u"Àkókò àsikò Àtìláńtíìkì"_s,
 		""_s,
-		u"\u00c0k\u00f3k\u00f2 \u00ccy\u00e1l\u025bta \u00c0t\u00ecl\u00e1\u0144t\u00ed\u00eck\u00ec"_s,
+		u"Àkókò Ìyálɛta Àtìláńtíìkì"_s,
 		""_s,
-		u"\u00c0k\u00f3k\u00f2 \u00c0t\u00ecl\u00e1\u0144t\u00ed\u00eck\u00ec"_s,
+		u"Àkókò Àtìláńtíìkì"_s,
 		""_s
 	}));
 	$var($StringArray, Argentina, $new($StringArray, {
-		u"Aago \u00e0s\u00eck\u00f2 Argentina"_s,
+		u"Aago àsìkò Argentina"_s,
 		""_s,
 		"Aago Soma Argentina"_s,
 		""_s,
-		u"Aago Aj\u025bnt\u00ecn\u00e0"_s,
+		u"Aago Ajɛntìnà"_s,
 		""_s
 	}));
 	$var($StringArray, Newfoundland, $new($StringArray, {
-		u"\u00c0k\u00f3k\u00f2 \u00c0f\u025bnuk\u00f2 Newfoundland"_s,
+		u"Àkókò Àfɛnukò Newfoundland"_s,
 		""_s,
-		u"\u00c0k\u00f3k\u00f2 Oj\u00fam\u0254m\u0254 Newfoundland"_s,
+		u"Àkókò Ojúmɔmɔ Newfoundland"_s,
 		""_s,
-		u"\u00c0k\u00f3k\u00f2 Newfoundland"_s,
+		u"Àkókò Newfoundland"_s,
 		""_s
 	}));
 	$var($StringArray, Europe_Central, $new($StringArray, {
-		u"\u00c0k\u00f3k\u00f2 \u00c0\u00e1rin \u00e0sik\u00f2 Europe"_s,
+		u"Àkókò Àárin àsikò Europe"_s,
 		""_s,
-		u"\u00c0k\u00f3k\u00f2 \u00c0\u00e1rin S\u0254m\u00e0 Europe"_s,
+		u"Àkókò Àárin Sɔmà Europe"_s,
 		""_s,
-		u"\u00c0k\u00f3k\u00f2 \u00c0\u00e1rin Europe"_s,
+		u"Àkókò Àárin Europe"_s,
 		""_s
 	}));
 	$var($StringArray, Europe_Eastern, $new($StringArray, {
-		u"\u00c0k\u00f3k\u00f2 \u00e0sik\u00f2 \u00cch\u00e0 \u00ccl\u00e0 O\u00f2r\u00f9n Europe"_s,
+		u"Àkókò àsikò Ìhà Ìlà Oòrùn Europe"_s,
 		""_s,
-		u"\u00c0k\u00f3k\u00f2 S\u0254m\u00e0 \u00ccha \u00ccl\u00e0 O\u00f2r\u00f9n Europe"_s,
+		u"Àkókò Sɔmà Ìha Ìlà Oòrùn Europe"_s,
 		""_s,
-		u"\u00c0k\u00f3k\u00f2 \u00cch\u00e0 \u00ccl\u00e0 O\u00f2r\u00f9n Europe"_s,
+		u"Àkókò Ìhà Ìlà Oòrùn Europe"_s,
 		""_s
 	}));
 	$var($StringArray, Europe_Western, $new($StringArray, {
-		u"\u00c0k\u00f3k\u00f2 \u00e0sik\u00f2 \u00ccw\u0254 O\u00f2r\u00f9n Europe"_s,
+		u"Àkókò àsikò Ìwɔ Oòrùn Europe"_s,
 		""_s,
-		u"\u00c0k\u00f3k\u00f2 S\u0254m\u00e0 \u00cch\u00e0 \u00ccw\u0254 O\u00f2r\u00f9n Europe"_s,
+		u"Àkókò Sɔmà Ìhà Ìwɔ Oòrùn Europe"_s,
 		""_s,
-		u"\u00c0k\u00f3k\u00f2 \u00ccw\u0254 O\u00f2r\u00f9n Europe"_s,
+		u"Àkókò Ìwɔ Oòrùn Europe"_s,
 		""_s
 	}));
 	$var($StringArray, Mexico_Pacific, $new($StringArray, {
-		u"\u00c0k\u00f3k\u00f2 \u00c0f\u025bnuk\u00f2 P\u00e1s\u00edf\u00ed\u00eck\u00ec M\u025b\u0301s\u00edk\u00f2"_s,
+		u"Àkókò Àfɛnukò Pásífíìkì Mɛ́síkò"_s,
 		""_s,
-		u"\u00c0k\u00f3k\u00f2 Oj\u00fam\u0254m\u0254 P\u00e1s\u00edf\u00ed\u00eck\u00ec M\u025b\u0301s\u00edk\u00f2"_s,
+		u"Àkókò Ojúmɔmɔ Pásífíìkì Mɛ́síkò"_s,
 		""_s,
-		u"\u00c0k\u00f3k\u00f2 P\u00e1s\u00edf\u00ed\u00eck\u00ec M\u025b\u0301sh\u00edk\u00f2"_s,
+		u"Àkókò Pásífíìkì Mɛ́shíkò"_s,
 		""_s
 	}));
 	$var($StringArray, America_Central, $new($StringArray, {
-		u"\u00e0k\u00f3k\u00f2 asiko \u00e0\u00e1r\u00edn gb\u00f9ngb\u00f9n"_s,
+		u"àkókò asiko àárín gbùngbùn"_s,
 		""_s,
-		u"Ak\u00f3k\u00f2 \u00e0\u00e1r\u00edn gb\u00f9ngb\u00f9n oj\u00fam\u0254m\u0254"_s,
+		u"Akókò àárín gbùngbùn ojúmɔmɔ"_s,
 		""_s,
-		u"\u00e0k\u00f3k\u00f2 \u00e0\u00e1r\u00edn gb\u00f9ngb\u00f9n"_s,
+		u"àkókò àárín gbùngbùn"_s,
 		""_s
 	}));
 	$var($StringArray, America_Eastern, $new($StringArray, {
-		u"Ak\u00f3k\u00f2 \u00c0sik\u00f2 \u00ccha \u00ccla O\u00f2r\u00f9n"_s,
+		u"Akókò Àsikò Ìha Ìla Oòrùn"_s,
 		""_s,
-		u"\u00c0k\u00f3k\u00f2 oj\u00fam\u0254m\u0254 \u00cch\u00e0 \u00ccl\u00e0 O\u00f2run"_s,
+		u"Àkókò ojúmɔmɔ Ìhà Ìlà Oòrun"_s,
 		""_s,
-		u"\u00c0k\u00f3k\u00f2 \u00ech\u00e0 \u00ecl\u00e0 o\u00f2r\u00f9n"_s,
+		u"Àkókò ìhà ìlà oòrùn"_s,
 		""_s
 	}));
 	$var($StringArray, America_Pacific, $new($StringArray, {
-		u"\u00c0k\u00f3k\u00f2 \u00e0sik\u00f2 P\u00e0s\u00edf\u00ed\u00eck\u00ec"_s,
+		u"Àkókò àsikò Pàsífíìkì"_s,
 		""_s,
-		u"\u00c0k\u00f3k\u00f2 \u00ccy\u00e1l\u025bta P\u00e0s\u00edf\u00ed\u00eck\u00ec"_s,
+		u"Àkókò Ìyálɛta Pàsífíìkì"_s,
 		""_s,
-		u"\u00c0k\u00f3k\u00f2 P\u00e0s\u00edf\u00ed\u00eck\u00ec"_s,
+		u"Àkókò Pàsífíìkì"_s,
 		""_s
 	}));
 	$var($StringArray, Hawaii_Aleutian, $new($StringArray, {
-		u"\u00c0k\u00f3k\u00f2 \u00c0f\u025bnuk\u00f2 Hawaii-Aleutian"_s,
+		u"Àkókò Àfɛnukò Hawaii-Aleutian"_s,
 		""_s,
-		u"\u00c0k\u00f3k\u00f2 Oj\u00fam\u0254m\u0254 Hawaii-Aleutian"_s,
+		u"Àkókò Ojúmɔmɔ Hawaii-Aleutian"_s,
 		""_s,
-		u"\u00c0k\u00f3k\u00f2 Hawaii-Aleutian"_s,
+		u"Àkókò Hawaii-Aleutian"_s,
 		""_s
 	}));
 	$var($StringArray, Pierre_Miquelon, $new($StringArray, {
-		u"\u00c0k\u00f3k\u00f2 \u00c0f\u025bnuk\u00f2 Pierre & Miquelon"_s,
+		u"Àkókò Àfɛnukò Pierre & Miquelon"_s,
 		""_s,
-		u"\u00c0k\u00f3k\u00f2 Oj\u00fam\u0254m\u0254 Pierre & Miquelon"_s,
+		u"Àkókò Ojúmɔmɔ Pierre & Miquelon"_s,
 		""_s,
-		u"\u00c0k\u00f3k\u00f2 Pierre & Miquelon"_s,
+		u"Àkókò Pierre & Miquelon"_s,
 		""_s
 	}));
 	$var($StringArray, America_Mountain, $new($StringArray, {
-		u"\u00c0k\u00f3k\u00f2 asiko \u00f2k\u00e8"_s,
+		u"Àkókò asiko òkè"_s,
 		""_s,
-		u"\u00c0k\u00f3k\u00f2 oj\u00fam\u0254m\u0254 Ori-\u00f2k\u00e8"_s,
+		u"Àkókò ojúmɔmɔ Ori-òkè"_s,
 		""_s,
-		u"\u00c0k\u00f3k\u00f2 \u00f2k\u00e8"_s,
+		u"Àkókò òkè"_s,
 		""_s
 	}));
 	$var($StringArray, Mexico_Northwest, $new($StringArray, {
-		u"\u00c0k\u00f3k\u00f2 \u00c0f\u025bnuk\u00f2 Ap\u00e1 \u00ccw\u0254\u0300 Oor\u00f9n M\u025b\u0301sh\u00edk\u00f2"_s,
+		u"Àkókò Àfɛnukò Apá Ìwɔ̀ Oorùn Mɛ́shíkò"_s,
 		""_s,
-		u"\u00c0k\u00f3k\u00f2 Oj\u00fam\u0254m\u0254 Ap\u00e1 \u00ccw\u0254\u0300 Oor\u00f9n M\u025b\u0301sh\u00edk\u00f2"_s,
+		u"Àkókò Ojúmɔmɔ Apá Ìwɔ̀ Oorùn Mɛ́shíkò"_s,
 		""_s,
-		u"\u00c0k\u00f3k\u00f2 Ap\u00e1 \u00ccw\u0254\u0300 Oor\u00f9n M\u025b\u0301sh\u00edk\u00f2"_s,
+		u"Àkókò Apá Ìwɔ̀ Oorùn Mɛ́shíkò"_s,
 		""_s
 	}));
 	$var($StringArray, Greenland_Eastern, $new($StringArray, {
-		u"\u00c0k\u00f3k\u00f2 \u00ccw\u0254\u0300 \u00ccf\u025bnuk\u00f2 oor\u00f9n Greenland"_s,
+		u"Àkókò Ìwɔ̀ Ìfɛnukò oorùn Greenland"_s,
 		""_s,
-		u"\u00c0k\u00f3k\u00f2 \u00ecgb\u00e0 Ooru Greenland"_s,
+		u"Àkókò ìgbà Ooru Greenland"_s,
 		""_s,
-		u"\u00c0k\u00f3k\u00f2 \u00ccl\u00e0 oor\u00f9n Greenland"_s,
+		u"Àkókò Ìlà oorùn Greenland"_s,
 		""_s
 	}));
 	$var($StringArray, Greenland_Western, $new($StringArray, {
-		u"\u00c0k\u00f3k\u00f2 \u00c0f\u025bnuk\u00f2 \u00ccw\u0254\u0300 O\u00f2r\u00f9n Greenland"_s,
+		u"Àkókò Àfɛnukò Ìwɔ̀ Oòrùn Greenland"_s,
 		""_s,
-		u"\u00c0k\u00f3k\u00f2 \u00c0f\u025bnuk\u00f2 \u00ccgba O\u00f2ru Greenland"_s,
+		u"Àkókò Àfɛnukò Ìgba Oòru Greenland"_s,
 		""_s,
-		u"\u00c0k\u00f3k\u00f2 \u00ccw\u0254\u0300 oor\u00f9n Greenland"_s,
+		u"Àkókò Ìwɔ̀ oorùn Greenland"_s,
 		""_s
 	}));
 	$var($StringArray, Indonesia_Western, $new($StringArray, {
-		u"\u00c0k\u00f3k\u00f2 \u00ccw\u0254\u0300 oor\u00f9n Indonesia"_s,
+		u"Àkókò Ìwɔ̀ oorùn Indonesia"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -1032,11 +1032,11 @@ $ObjectArray2* TimeZoneNames_yo_BJ::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Etc/Unknown"_s),
-			$of(u"\u00ccl\u00fa \u00c0\u00ecm\u0254\u0300"_s)
+			$of(u"Ìlú Àìmɔ̀"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Boise"_s),
-			$of(u"\u00ecl\u00fa B\u0254\u0301is\u00e8"_s)
+			$of(u"ìlú Bɔ́isè"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("America/Argentina/Rio_Gallegos"_s),
@@ -1048,83 +1048,83 @@ $ObjectArray2* TimeZoneNames_yo_BJ::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Belize"_s),
-			$of(u"\u00ecl\u00fa B\u025b\u0300l\u00ed\u00ecs\u00ec"_s)
+			$of(u"ìlú Bɛ̀líìsì"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Creston"_s),
-			$of(u"\u00ecl\u00fa K\u00edr\u025bst\u0254\u0301\u0254\u0300n\u00f9"_s)
+			$of(u"ìlú Kírɛstɔ́ɔ̀nù"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Curacao"_s),
-			$of(u"\u00ecl\u00fa Kurashao"_s)
+			$of(u"ìlú Kurashao"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Marigot"_s),
-			$of(u"\u00ecl\u00fa Marig\u0254\u0301\u0254\u0300t\u00ec"_s)
+			$of(u"ìlú Marigɔ́ɔ̀tì"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Barbados"_s),
-			$of(u"\u00ecl\u00fa B\u00e1b\u00e1d\u0254\u0301\u0254\u0300s\u00ec"_s)
+			$of(u"ìlú Bábádɔ́ɔ̀sì"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Miquelon"_s),
-			$of(u"\u00ecl\u00fa Mikul\u0254\u0301n\u00ec"_s)
+			$of(u"ìlú Mikulɔ́nì"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/St_Johns"_s),
-			$of(u"\u00ecl\u00fa St J\u0254\u0301\u0254\u0300n\u00f9"_s)
+			$of(u"ìlú St Jɔ́ɔ̀nù"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Atlantic/Bermuda"_s),
-			$of(u"\u00ecl\u00fa B\u025b\u0300m\u00fad\u00e0"_s)
+			$of(u"ìlú Bɛ̀múdà"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Anchorage"_s),
-			$of(u"\u00ecl\u00fa Ank\u0254\u0301r\u00e9\u00e8j\u00ec"_s)
+			$of(u"ìlú Ankɔ́réèjì"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Chihuahua"_s),
-			$of(u"\u00ecl\u00fa Shihuahua"_s)
+			$of(u"ìlú Shihuahua"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/St_Thomas"_s),
-			$of(u"\u00ecl\u00fa St T\u0254\u0301m\u00e0s\u00ec"_s)
+			$of(u"ìlú St Tɔ́màsì"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Kralendijk"_s),
-			$of(u"\u00ecl\u00fa K\u00edral\u025b\u0301nd\u00e1ik\u00ec"_s)
+			$of(u"ìlú Kíralɛ́ndáikì"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Mexico_City"_s),
-			$of(u"\u00ecl\u00fa M\u025b\u0301s\u00edk\u00f2"_s)
+			$of(u"ìlú Mɛ́síkò"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Blanc-Sablon"_s),
-			$of(u"\u00ecl\u00fa Blank Sabul\u0254\u0301\u0254\u0300n\u00ec"_s)
+			$of(u"ìlú Blank Sabulɔ́ɔ̀nì"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Indiana/Knox"_s),
-			$of(u"\u00ecl\u00fa n\u0254\u0301s\u00ec"_s)
+			$of(u"ìlú nɔ́sì"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Coral_Harbour"_s),
-			$of(u"\u00ecl\u00fa \u00e0tik\u0254k\u00e0n"_s)
+			$of(u"ìlú àtikɔkàn"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Swift_Current"_s),
-			$of(u"\u00ecl\u00fa S\u00faf\u00edt\u00f9 K\u0254\u0300rent\u00ec"_s)
+			$of(u"ìlú Súfítù Kɔ̀rentì"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Bahia_Banderas"_s),
-			$of(u"\u00ecl\u00fa B\u00e1h\u00ec B\u00e1nd\u025b\u0301r\u00e1s\u00ec"_s)
+			$of(u"ìlú Báhì Bándɛ́rásì"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Indiana/Marengo"_s),
-			$of(u"\u00ecl\u00fa Mar\u025b\u0301ngo"_s)
+			$of(u"ìlú Marɛ́ngo"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Kentucky/Monticello"_s),
-			$of(u"\u00ecl\u00fa Montis\u025b\u0301l\u00f2"_s)
+			$of(u"ìlú Montisɛ́lò"_s)
 		})
 	}));
 	return data;

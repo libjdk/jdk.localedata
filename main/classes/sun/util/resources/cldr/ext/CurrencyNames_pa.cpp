@@ -594,7 +594,7 @@ $ObjectArray2* CurrencyNames_pa::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("THB"_s),
-			$of(u"\u0e3f"_s)
+			$of(u"฿"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("TJS"_s),
@@ -718,747 +718,747 @@ $ObjectArray2* CurrencyNames_pa::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("aed"_s),
-			$of(u"\u0a38\u0a70\u0a2f\u0a41\u0a15\u0a24 \u0a05\u0a30\u0a2c \u0a05\u0a2e\u0a40\u0a30\u0a3e\u0a24 \u0a26\u0a3f\u0a30\u0a39\u0a3e\u0a2e"_s)
+			$of(u"ਸੰਯੁਕਤ ਅਰਬ ਅਮੀਰਾਤ ਦਿਰਹਾਮ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("afn"_s),
-			$of(u"\u0a05\u0a2b\u0a3c\u0a17\u0a3e\u0a28 \u0a05\u0a2b\u0a3c\u0a17\u0a3e\u0a28\u0a40"_s)
+			$of(u"ਅਫ਼ਗਾਨ ਅਫ਼ਗਾਨੀ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("all"_s),
-			$of(u"\u0a05\u0a32\u0a2c\u0a3e\u0a28\u0a40\u0a06\u0a08 \u0a32\u0a47\u0a15"_s)
+			$of(u"ਅਲਬਾਨੀਆਈ ਲੇਕ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("amd"_s),
-			$of(u"\u0a05\u0a30\u0a2e\u0a40\u0a28\u0a40\u0a06\u0a08 \u0a26\u0a30\u0a3e\u0a2e"_s)
+			$of(u"ਅਰਮੀਨੀਆਈ ਦਰਾਮ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ang"_s),
-			$of(u"\u0a28\u0a40\u0a26\u0a30\u0a32\u0a48\u0a02\u0a21\u0a38 \u0a10\u0a02\u0a1f\u0a40\u0a32\u0a40\u0a05\u0a28 \u0a17\u0a3f\u0a32\u0a21\u0a30"_s)
+			$of(u"ਨੀਦਰਲੈਂਡਸ ਐਂਟੀਲੀਅਨ ਗਿਲਡਰ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("aoa"_s),
-			$of(u"\u0a05\u0a70\u0a17\u0a4b\u0a32\u0a3e \u0a15\u0a35\u0a3e\u0a02\u0a1c\u0a3e"_s)
+			$of(u"ਅੰਗੋਲਾ ਕਵਾਂਜਾ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ara"_s),
-			$of(u"\u0a05\u0a30\u0a1c\u0a28\u0a1f\u0a40\u0a28\u0a40 \u0a05\u0a38\u0a1f\u0a30\u0a3e\u0a32"_s)
+			$of(u"ਅਰਜਨਟੀਨੀ ਅਸਟਰਾਲ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("arl"_s),
-			$of(u"\u0a05\u0a30\u0a1c\u0a28\u0a1f\u0a40\u0a28\u0a40 \u0a2a\u0a47\u0a38\u0a4b \u0a32\u0a47 (1970\u20131983)"_s)
+			$of(u"ਅਰਜਨਟੀਨੀ ਪੇਸੋ ਲੇ (1970–1983)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("arm"_s),
-			$of(u"\u0a05\u0a30\u0a1c\u0a28\u0a1f\u0a40\u0a28\u0a40 \u0a2a\u0a47\u0a38\u0a4b (1881\u20131970)"_s)
+			$of(u"ਅਰਜਨਟੀਨੀ ਪੇਸੋ (1881–1970)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("arp"_s),
-			$of(u"\u0a05\u0a30\u0a1c\u0a28\u0a1f\u0a40\u0a28\u0a40 \u0a2a\u0a47\u0a38\u0a4b (1983\u20131985)"_s)
+			$of(u"ਅਰਜਨਟੀਨੀ ਪੇਸੋ (1983–1985)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ars"_s),
-			$of(u"\u0a05\u0a30\u0a1c\u0a28\u0a1f\u0a40\u0a28\u0a40 \u0a2a\u0a47\u0a38\u0a4b"_s)
+			$of(u"ਅਰਜਨਟੀਨੀ ਪੇਸੋ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("aud"_s),
-			$of(u"\u0a06\u0a38\u0a1f\u0a4d\u0a30\u0a47\u0a32\u0a40\u0a06\u0a08 \u0a21\u0a3e\u0a32\u0a30"_s)
+			$of(u"ਆਸਟ੍ਰੇਲੀਆਈ ਡਾਲਰ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("awg"_s),
-			$of(u"\u0a05\u0a30\u0a42\u0a2c\u0a28 \u0a2b\u0a32\u0a4b\u0a30\u0a3f\u0a28"_s)
+			$of(u"ਅਰੂਬਨ ਫਲੋਰਿਨ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("azn"_s),
-			$of(u"\u0a05\u0a1c\u0a3c\u0a30\u0a2c\u0a3e\u0a08\u0a1c\u0a3e\u0a28 \u0a2e\u0a3e\u0a28\u0a24"_s)
+			$of(u"ਅਜ਼ਰਬਾਈਜਾਨ ਮਾਨਤ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bam"_s),
-			$of(u"\u0a2c\u0a4b\u0a38\u0a28\u0a40\u0a06-\u0a39\u0a30\u0a1c\u0a3c\u0a47\u0a17\u0a4b\u0a35\u0a40\u0a28\u0a3e \u0a2c\u0a26\u0a32\u0a23\u0a2f\u0a4b\u0a17 \u0a2e\u0a3e\u0a30\u0a15"_s)
+			$of(u"ਬੋਸਨੀਆ-ਹਰਜ਼ੇਗੋਵੀਨਾ ਬਦਲਣਯੋਗ ਮਾਰਕ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bbd"_s),
-			$of(u"\u0a2c\u0a3e\u0a30\u0a2c\u0a3e\u0a21\u0a40\u0a05\u0a28 \u0a21\u0a3e\u0a32\u0a30"_s)
+			$of(u"ਬਾਰਬਾਡੀਅਨ ਡਾਲਰ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bdt"_s),
-			$of(u"\u0a2c\u0a70\u0a17\u0a32\u0a3e\u0a26\u0a47\u0a38\u0a3c\u0a40 \u0a1f\u0a15\u0a3e"_s)
+			$of(u"ਬੰਗਲਾਦੇਸ਼ੀ ਟਕਾ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bgn"_s),
-			$of(u"\u0a2c\u0a41\u0a32\u0a17\u0a3e\u0a30\u0a40\u0a06\u0a08 \u0a32\u0a47\u0a35"_s)
+			$of(u"ਬੁਲਗਾਰੀਆਈ ਲੇਵ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bhd"_s),
-			$of(u"\u0a2c\u0a39\u0a3f\u0a30\u0a40\u0a28\u0a40 \u0a26\u0a3f\u0a28\u0a3e\u0a30"_s)
+			$of(u"ਬਹਿਰੀਨੀ ਦਿਨਾਰ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bif"_s),
-			$of(u"\u0a2c\u0a41\u0a30\u0a41\u0a70\u0a21\u0a40\u0a06\u0a08 \u0a2b\u0a4d\u0a30\u0a48\u0a02\u0a15"_s)
+			$of(u"ਬੁਰੁੰਡੀਆਈ ਫ੍ਰੈਂਕ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bmd"_s),
-			$of(u"\u0a2c\u0a30\u0a2e\u0a42\u0a21\u0a3e \u0a21\u0a3e\u0a32\u0a30"_s)
+			$of(u"ਬਰਮੂਡਾ ਡਾਲਰ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bnd"_s),
-			$of(u"\u0a2c\u0a30\u0a42\u0a28\u0a47\u0a08 \u0a21\u0a3e\u0a32\u0a30"_s)
+			$of(u"ਬਰੂਨੇਈ ਡਾਲਰ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bob"_s),
-			$of(u"\u0a2c\u0a4b\u0a32\u0a40\u0a35\u0a40\u0a05\u0a28 \u0a2c\u0a4b\u0a32\u0a40\u0a35\u0a40\u0a05\u0a28\u0a4b"_s)
+			$of(u"ਬੋਲੀਵੀਅਨ ਬੋਲੀਵੀਅਨੋ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bol"_s),
-			$of(u"\u0a2c\u0a4b\u0a32\u0a40\u0a35\u0a40\u0a06\u0a08 \u0a2c\u0a4b\u0a32\u0a40\u0a35\u0a40\u0a05\u0a28\u0a4b (1863\u20131963)"_s)
+			$of(u"ਬੋਲੀਵੀਆਈ ਬੋਲੀਵੀਅਨੋ (1863–1963)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bop"_s),
-			$of(u"\u0a2c\u0a4b\u0a32\u0a40\u0a35\u0a40\u0a06\u0a08 \u0a2a\u0a47\u0a38\u0a4b"_s)
+			$of(u"ਬੋਲੀਵੀਆਈ ਪੇਸੋ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bov"_s),
-			$of(u"\u0a2c\u0a4b\u0a32\u0a40\u0a35\u0a40\u0a06\u0a08 \u0a2e\u0a35\u0a21\u0a4b\u0a32"_s)
+			$of(u"ਬੋਲੀਵੀਆਈ ਮਵਡੋਲ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("brb"_s),
-			$of(u"\u0a2c\u0a4d\u0a30\u0a3e\u0a1c\u0a3c\u0a40\u0a32\u0a40\u0a06\u0a08 \u0a28\u0a3f\u0a0a \u0a15\u0a30\u0a41\u0a1c\u0a3c\u0a3f\u0a30\u0a4b\u0a38 (1967\u20131986)"_s)
+			$of(u"ਬ੍ਰਾਜ਼ੀਲੀਆਈ ਨਿਊ ਕਰੁਜ਼ਿਰੋਸ (1967–1986)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("brc"_s),
-			$of(u"\u0a2c\u0a4d\u0a30\u0a3e\u0a1c\u0a3c\u0a40\u0a32\u0a40\u0a06\u0a08 \u0a15\u0a30\u0a41\u0a1c\u0a3c\u0a3e\u0a21\u0a42 (1986\u20131989)"_s)
+			$of(u"ਬ੍ਰਾਜ਼ੀਲੀਆਈ ਕਰੁਜ਼ਾਡੂ (1986–1989)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bre"_s),
-			$of(u"\u0a2c\u0a4d\u0a30\u0a3e\u0a1c\u0a3c\u0a40\u0a32\u0a40\u0a06\u0a08 \u0a15\u0a30\u0a41\u0a1c\u0a3c\u0a3f\u0a30\u0a4b\u0a38 (1990\u20131993)"_s)
+			$of(u"ਬ੍ਰਾਜ਼ੀਲੀਆਈ ਕਰੁਜ਼ਿਰੋਸ (1990–1993)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("brl"_s),
-			$of(u"\u0a2c\u0a4d\u0a30\u0a3e\u0a1c\u0a3c\u0a40\u0a32\u0a40\u0a06\u0a08 \u0a30\u0a40\u0a05\u0a32"_s)
+			$of(u"ਬ੍ਰਾਜ਼ੀਲੀਆਈ ਰੀਅਲ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("brn"_s),
-			$of(u"\u0a2c\u0a4d\u0a30\u0a3e\u0a1c\u0a3c\u0a40\u0a32\u0a40\u0a06\u0a08 \u0a28\u0a3f\u0a0a \u0a15\u0a30\u0a41\u0a1c\u0a3c\u0a3e\u0a21\u0a42 (1989\u20131990)"_s)
+			$of(u"ਬ੍ਰਾਜ਼ੀਲੀਆਈ ਨਿਊ ਕਰੁਜ਼ਾਡੂ (1989–1990)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("brr"_s),
-			$of(u"\u0a2c\u0a4d\u0a30\u0a3e\u0a1c\u0a3c\u0a40\u0a32\u0a40\u0a06\u0a08 \u0a15\u0a30\u0a41\u0a1c\u0a3c\u0a3f\u0a30\u0a4b\u0a38 (1993\u20131994)"_s)
+			$of(u"ਬ੍ਰਾਜ਼ੀਲੀਆਈ ਕਰੁਜ਼ਿਰੋਸ (1993–1994)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("brz"_s),
-			$of(u"\u0a2c\u0a4d\u0a30\u0a3e\u0a1c\u0a3c\u0a40\u0a32\u0a40\u0a06\u0a08 \u0a15\u0a30\u0a41\u0a1c\u0a3c\u0a3f\u0a30\u0a4b\u0a38 (1942\u20131967)"_s)
+			$of(u"ਬ੍ਰਾਜ਼ੀਲੀਆਈ ਕਰੁਜ਼ਿਰੋਸ (1942–1967)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bsd"_s),
-			$of(u"\u0a2c\u0a3e\u0a39\u0a3e\u0a2e\u0a40\u0a05\u0a28 \u0a21\u0a3e\u0a32\u0a30"_s)
+			$of(u"ਬਾਹਾਮੀਅਨ ਡਾਲਰ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("btn"_s),
-			$of(u"\u0a2d\u0a42\u0a1f\u0a3e\u0a28\u0a40 \u0a10\u0a02\u0a17\u0a32\u0a1f\u0a4d\u0a30\u0a2e"_s)
+			$of(u"ਭੂਟਾਨੀ ਐਂਗਲਟ੍ਰਮ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bwp"_s),
-			$of(u"\u0a2c\u0a4b\u0a1f\u0a38\u0a35\u0a3e\u0a28\u0a3e \u0a2a\u0a41\u0a32\u0a3e"_s)
+			$of(u"ਬੋਟਸਵਾਨਾ ਪੁਲਾ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("byn"_s),
-			$of(u"\u0a2c\u0a47\u0a32\u0a3e\u0a30\u0a42\u0a38\u0a40 \u0a30\u0a42\u0a2c\u0a32"_s)
+			$of(u"ਬੇਲਾਰੂਸੀ ਰੂਬਲ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("byr"_s),
-			$of(u"\u0a2c\u0a47\u0a32\u0a3e\u0a30\u0a42\u0a38\u0a40 \u0a30\u0a42\u0a2c\u0a32 (2000\u20132016)"_s)
+			$of(u"ਬੇਲਾਰੂਸੀ ਰੂਬਲ (2000–2016)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bzd"_s),
-			$of(u"\u0a2c\u0a47\u0a32\u0a40\u0a1c\u0a3c \u0a21\u0a3e\u0a32\u0a30"_s)
+			$of(u"ਬੇਲੀਜ਼ ਡਾਲਰ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cad"_s),
-			$of(u"\u0a15\u0a47\u0a28\u0a47\u0a21\u0a3f\u0a06\u0a08 \u0a21\u0a3e\u0a32\u0a30"_s)
+			$of(u"ਕੇਨੇਡਿਆਈ ਡਾਲਰ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cdf"_s),
-			$of(u"\u0a15\u0a3e\u0a02\u0a17\u0a4b\u0a32\u0a40\u0a1c\u0a3c \u0a2b\u0a4d\u0a30\u0a48\u0a02\u0a15"_s)
+			$of(u"ਕਾਂਗੋਲੀਜ਼ ਫ੍ਰੈਂਕ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("chf"_s),
-			$of(u"\u0a38\u0a35\u0a3f\u0a38 \u0a2b\u0a4d\u0a30\u0a48\u0a02\u0a15"_s)
+			$of(u"ਸਵਿਸ ਫ੍ਰੈਂਕ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("clp"_s),
-			$of(u"\u0a1a\u0a3f\u0a32\u0a40 \u0a2a\u0a47\u0a38\u0a4b"_s)
+			$of(u"ਚਿਲੀ ਪੇਸੋ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cnh"_s),
-			$of(u"\u0a1a\u0a40\u0a28\u0a40 \u0a2f\u0a41\u0a06\u0a28 (\u0a14\u0a2b\u0a3c\u0a38\u0a3c\u0a4b\u0a30)"_s)
+			$of(u"ਚੀਨੀ ਯੁਆਨ (ਔਫ਼ਸ਼ੋਰ)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cny"_s),
-			$of(u"\u0a1a\u0a40\u0a28\u0a40 \u0a2f\u0a41\u0a06\u0a28"_s)
+			$of(u"ਚੀਨੀ ਯੁਆਨ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cop"_s),
-			$of(u"\u0a15\u0a4b\u0a32\u0a70\u0a2c\u0a3f\u0a06\u0a08 \u0a2a\u0a47\u0a38\u0a4b"_s)
+			$of(u"ਕੋਲੰਬਿਆਈ ਪੇਸੋ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("crc"_s),
-			$of(u"\u0a15\u0a4b\u0a38\u0a1f\u0a3e \u0a30\u0a40\u0a15\u0a28 \u0a15\u0a4b\u0a32\u0a28"_s)
+			$of(u"ਕੋਸਟਾ ਰੀਕਨ ਕੋਲਨ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cuc"_s),
-			$of(u"\u0a15\u0a3f\u0a0a\u0a2c\u0a28 \u0a2c\u0a26\u0a32\u0a23\u0a2f\u0a4b\u0a17 \u0a2a\u0a47\u0a38\u0a4b"_s)
+			$of(u"ਕਿਊਬਨ ਬਦਲਣਯੋਗ ਪੇਸੋ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cup"_s),
-			$of(u"\u0a15\u0a3f\u0a0a\u0a2c\u0a28 \u0a2a\u0a47\u0a38\u0a4b"_s)
+			$of(u"ਕਿਊਬਨ ਪੇਸੋ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cve"_s),
-			$of(u"\u0a15\u0a47\u0a2a \u0a35\u0a30\u0a21\u0a40\u0a05\u0a28 \u0a38\u0a15\u0a42\u0a21\u0a4b"_s)
+			$of(u"ਕੇਪ ਵਰਡੀਅਨ ਸਕੂਡੋ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("czk"_s),
-			$of(u"\u0a1a\u0a48\u0a15 \u0a17\u0a23\u0a30\u0a3e\u0a1c \u0a15\u0a4b\u0a30\u0a41\u0a28\u0a3e"_s)
+			$of(u"ਚੈਕ ਗਣਰਾਜ ਕੋਰੁਨਾ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("dem"_s),
-			$of(u"\u0a1c\u0a30\u0a2e\u0a28 \u0a2e\u0a3e\u0a30\u0a15"_s)
+			$of(u"ਜਰਮਨ ਮਾਰਕ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("djf"_s),
-			$of(u"\u0a1c\u0a3c\u0a40\u0a2c\u0a42\u0a24\u0a40\u0a05\u0a28 \u0a2b\u0a4d\u0a30\u0a48\u0a02\u0a15"_s)
+			$of(u"ਜ਼ੀਬੂਤੀਅਨ ਫ੍ਰੈਂਕ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("dkk"_s),
-			$of(u"\u0a21\u0a48\u0a28\u0a3f\u0a38\u0a3c \u0a15\u0a30\u0a4c\u0a28"_s)
+			$of(u"ਡੈਨਿਸ਼ ਕਰੌਨ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("dop"_s),
-			$of(u"\u0a21\u0a4c\u0a2e\u0a3f\u0a28\u0a3f\u0a15\u0a28 \u0a2a\u0a47\u0a38\u0a4b"_s)
+			$of(u"ਡੌਮਿਨਿਕਨ ਪੇਸੋ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("dzd"_s),
-			$of(u"\u0a05\u0a32\u0a1c\u0a40\u0a30\u0a3f\u0a06\u0a08 \u0a26\u0a3f\u0a28\u0a3e\u0a30"_s)
+			$of(u"ਅਲਜੀਰਿਆਈ ਦਿਨਾਰ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("egp"_s),
-			$of(u"\u0a2e\u0a3f\u0a38\u0a30\u0a40 \u0a2a\u0a4c\u0a02\u0a21"_s)
+			$of(u"ਮਿਸਰੀ ਪੌਂਡ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ern"_s),
-			$of(u"\u0a07\u0a30\u0a40\u0a1f\u0a4d\u0a30\u0a3f\u0a06\u0a08 \u0a28\u0a3e\u0a2b\u0a3c\u0a3e"_s)
+			$of(u"ਇਰੀਟ੍ਰਿਆਈ ਨਾਫ਼ਾ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("etb"_s),
-			$of(u"\u0a07\u0a25\u0a4b\u0a2a\u0a40\u0a06\u0a08 \u0a2c\u0a3f\u0a30"_s)
+			$of(u"ਇਥੋਪੀਆਈ ਬਿਰ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("eur"_s),
-			$of(u"\u0a2f\u0a42\u0a30\u0a4b"_s)
+			$of(u"ਯੂਰੋ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("fjd"_s),
-			$of(u"\u0a2b\u0a3c\u0a3f\u0a1c\u0a3c\u0a40 \u0a21\u0a3e\u0a32\u0a30"_s)
+			$of(u"ਫ਼ਿਜ਼ੀ ਡਾਲਰ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("fkp"_s),
-			$of(u"\u0a2b\u0a3c\u0a3e\u0a15\u0a32\u0a48\u0a02\u0a21 \u0a06\u0a08\u0a32\u0a48\u0a02\u0a21\u0a38 \u0a2a\u0a4c\u0a02\u0a21"_s)
+			$of(u"ਫ਼ਾਕਲੈਂਡ ਆਈਲੈਂਡਸ ਪੌਂਡ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gbp"_s),
-			$of(u"\u0a2c\u0a4d\u0a30\u0a3f\u0a1f\u0a3f\u0a38\u0a3c \u0a2a\u0a4c\u0a02\u0a21"_s)
+			$of(u"ਬ੍ਰਿਟਿਸ਼ ਪੌਂਡ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gel"_s),
-			$of(u"\u0a1c\u0a3e\u0a30\u0a1c\u0a40\u0a06\u0a08 \u0a32\u0a3e\u0a30\u0a40"_s)
+			$of(u"ਜਾਰਜੀਆਈ ਲਾਰੀ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ghs"_s),
-			$of(u"\u0a18\u0a3e\u0a28\u0a3e\u0a08 \u0a38\u0a47\u0a21\u0a40"_s)
+			$of(u"ਘਾਨਾਈ ਸੇਡੀ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gip"_s),
-			$of(u"\u0a1c\u0a3f\u0a2c\u0a30\u0a3e\u0a32\u0a1f\u0a30 \u0a2a\u0a4c\u0a02\u0a21"_s)
+			$of(u"ਜਿਬਰਾਲਟਰ ਪੌਂਡ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gmd"_s),
-			$of(u"\u0a17\u0a48\u0a02\u0a2c\u0a40\u0a06\u0a08 \u0a26\u0a32\u0a3e\u0a38\u0a40"_s)
+			$of(u"ਗੈਂਬੀਆਈ ਦਲਾਸੀ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gnf"_s),
-			$of(u"\u0a17\u0a3f\u0a28\u0a40 \u0a2b\u0a4d\u0a30\u0a48\u0a02\u0a15"_s)
+			$of(u"ਗਿਨੀ ਫ੍ਰੈਂਕ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gtq"_s),
-			$of(u"\u0a17\u0a41\u0a06\u0a1f\u0a47\u0a2e\u0a3e\u0a32\u0a3e \u0a15\u0a41\u0a0f\u0a1f\u0a1c\u0a3c\u0a32"_s)
+			$of(u"ਗੁਆਟੇਮਾਲਾ ਕੁਏਟਜ਼ਲ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gyd"_s),
-			$of(u"\u0a17\u0a41\u0a06\u0a28\u0a3e\u0a06\u0a08 \u0a21\u0a3e\u0a32\u0a30"_s)
+			$of(u"ਗੁਆਨਾਆਈ ਡਾਲਰ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("hkd"_s),
-			$of(u"\u0a39\u0a3e\u0a02\u0a17 \u0a15\u0a3e\u0a02\u0a17 \u0a21\u0a3e\u0a32\u0a30"_s)
+			$of(u"ਹਾਂਗ ਕਾਂਗ ਡਾਲਰ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("hnl"_s),
-			$of(u"\u0a39\u0a3e\u0a28\u0a21\u0a42\u0a30\u0a28 \u0a32\u0a47\u0a2e\u0a2a\u0a3f\u0a30\u0a3e"_s)
+			$of(u"ਹਾਨਡੂਰਨ ਲੇਮਪਿਰਾ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("hrk"_s),
-			$of(u"\u0a15\u0a30\u0a4b\u0a0f\u0a38\u0a3c\u0a40\u0a06\u0a08 \u0a15\u0a41\u0a28\u0a3e"_s)
+			$of(u"ਕਰੋਏਸ਼ੀਆਈ ਕੁਨਾ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("htg"_s),
-			$of(u"\u0a39\u0a48\u0a24\u0a40 \u0a17\u0a4c\u0a30\u0a21\u0a47"_s)
+			$of(u"ਹੈਤੀ ਗੌਰਡੇ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("huf"_s),
-			$of(u"\u0a39\u0a70\u0a17\u0a30\u0a40 \u0a2b\u0a4b\u0a30\u0a3f\u0a70\u0a1f"_s)
+			$of(u"ਹੰਗਰੀ ਫੋਰਿੰਟ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("idr"_s),
-			$of(u"\u0a07\u0a70\u0a21\u0a4b\u0a28\u0a47\u0a38\u0a3c\u0a40\u0a06\u0a08 \u0a30\u0a41\u0a2a\u0a3f\u0a06\u0a39"_s)
+			$of(u"ਇੰਡੋਨੇਸ਼ੀਆਈ ਰੁਪਿਆਹ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("iep"_s),
-			$of(u"\u0a06\u0a07\u0a30\u0a3f\u0a38\u0a3c \u0a2a\u0a4c\u0a02\u0a21"_s)
+			$of(u"ਆਇਰਿਸ਼ ਪੌਂਡ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ilp"_s),
-			$of(u"\u0a07\u0a1c\u0a3c\u0a30\u0a3e\u0a08\u0a32\u0a40 \u0a2a\u0a4c\u0a02\u0a21"_s)
+			$of(u"ਇਜ਼ਰਾਈਲੀ ਪੌਂਡ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ils"_s),
-			$of(u"\u0a07\u0a1c\u0a3c\u0a30\u0a3e\u0a08\u0a32\u0a40 \u0a28\u0a35\u0a40\u0a02 \u0a38\u0a3c\u0a47\u0a15\u0a47\u0a32"_s)
+			$of(u"ਇਜ਼ਰਾਈਲੀ ਨਵੀਂ ਸ਼ੇਕੇਲ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("inr"_s),
-			$of(u"\u0a2d\u0a3e\u0a30\u0a24\u0a40 \u0a30\u0a41\u0a2a\u0a07\u0a06"_s)
+			$of(u"ਭਾਰਤੀ ਰੁਪਇਆ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("iqd"_s),
-			$of(u"\u0a07\u0a30\u0a3e\u0a15\u0a40 \u0a26\u0a3f\u0a28\u0a3e\u0a30"_s)
+			$of(u"ਇਰਾਕੀ ਦਿਨਾਰ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("irr"_s),
-			$of(u"\u0a08\u0a30\u0a3e\u0a28\u0a40 \u0a30\u0a3f\u0a06\u0a32"_s)
+			$of(u"ਈਰਾਨੀ ਰਿਆਲ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("isk"_s),
-			$of(u"\u0a06\u0a08\u0a38\u0a32\u0a48\u0a02\u0a21\u0a40 \u0a15\u0a30\u0a4b\u0a28\u0a3e"_s)
+			$of(u"ਆਈਸਲੈਂਡੀ ਕਰੋਨਾ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("jmd"_s),
-			$of(u"\u0a1c\u0a2e\u0a3e\u0a07\u0a15\u0a28 \u0a21\u0a3e\u0a32\u0a30"_s)
+			$of(u"ਜਮਾਇਕਨ ਡਾਲਰ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("jod"_s),
-			$of(u"\u0a1c\u0a3e\u0a30\u0a21\u0a28 \u0a26\u0a3f\u0a28\u0a3e\u0a30"_s)
+			$of(u"ਜਾਰਡਨ ਦਿਨਾਰ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("jpy"_s),
-			$of(u"\u0a1c\u0a2a\u0a3e\u0a28\u0a40 \u0a2f\u0a47\u0a28"_s)
+			$of(u"ਜਪਾਨੀ ਯੇਨ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kes"_s),
-			$of(u"\u0a15\u0a40\u0a28\u0a40\u0a06\u0a08 \u0a38\u0a3c\u0a3f\u0a32\u0a3f\u0a70\u0a17"_s)
+			$of(u"ਕੀਨੀਆਈ ਸ਼ਿਲਿੰਗ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kgs"_s),
-			$of(u"\u0a15\u0a3f\u0a30\u0a17\u0a3f\u0a38\u0a24\u0a3e\u0a28\u0a40 \u0a38\u0a4b\u0a2e"_s)
+			$of(u"ਕਿਰਗਿਸਤਾਨੀ ਸੋਮ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("khr"_s),
-			$of(u"\u0a15\u0a70\u0a2c\u0a4b\u0a21\u0a40\u0a06\u0a08 \u0a30\u0a40\u0a05\u0a32"_s)
+			$of(u"ਕੰਬੋਡੀਆਈ ਰੀਅਲ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kmf"_s),
-			$of(u"\u0a15\u0a4b\u0a2e\u0a4b\u0a30\u0a40\u0a05\u0a28 \u0a2b\u0a4d\u0a30\u0a48\u0a02\u0a15"_s)
+			$of(u"ਕੋਮੋਰੀਅਨ ਫ੍ਰੈਂਕ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kpw"_s),
-			$of(u"\u0a09\u0a71\u0a24\u0a30\u0a40 \u0a15\u0a4b\u0a30\u0a40\u0a06\u0a08 \u0a35\u0a4b\u0a28"_s)
+			$of(u"ਉੱਤਰੀ ਕੋਰੀਆਈ ਵੋਨ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("krw"_s),
-			$of(u"\u0a26\u0a71\u0a16\u0a23\u0a40 \u0a15\u0a4b\u0a30\u0a40\u0a06\u0a08 \u0a35\u0a4b\u0a28"_s)
+			$of(u"ਦੱਖਣੀ ਕੋਰੀਆਈ ਵੋਨ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kwd"_s),
-			$of(u"\u0a15\u0a41\u0a35\u0a48\u0a24\u0a40 \u0a26\u0a3f\u0a28\u0a3e\u0a30"_s)
+			$of(u"ਕੁਵੈਤੀ ਦਿਨਾਰ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kyd"_s),
-			$of(u"\u0a15\u0a47\u0a2e\u0a48\u0a28 \u0a06\u0a08\u0a32\u0a48\u0a02\u0a21\u0a38 \u0a21\u0a3e\u0a32\u0a30"_s)
+			$of(u"ਕੇਮੈਨ ਆਈਲੈਂਡਸ ਡਾਲਰ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kzt"_s),
-			$of(u"\u0a15\u0a1c\u0a3c\u0a3e\u0a16\u0a38\u0a24\u0a3e\u0a28\u0a40 \u0a24\u0a47\u0a02\u0a17\u0a47"_s)
+			$of(u"ਕਜ਼ਾਖਸਤਾਨੀ ਤੇਂਗੇ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lak"_s),
-			$of(u"\u0a32\u0a3e\u0a13\u0a1f\u0a3f\u0a06\u0a08 \u0a15\u0a3f\u0a2a"_s)
+			$of(u"ਲਾਓਟਿਆਈ ਕਿਪ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lbp"_s),
-			$of(u"\u0a32\u0a48\u0a2c\u0a28\u0a3e\u0a28\u0a40 \u0a2a\u0a4c\u0a02\u0a21"_s)
+			$of(u"ਲੈਬਨਾਨੀ ਪੌਂਡ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lkr"_s),
-			$of(u"\u0a38\u0a4d\u0a30\u0a40\u0a32\u0a70\u0a15\u0a3e\u0a08 \u0a30\u0a41\u0a2a\u0a07\u0a06"_s)
+			$of(u"ਸ੍ਰੀਲੰਕਾਈ ਰੁਪਇਆ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lrd"_s),
-			$of(u"\u0a32\u0a3e\u0a08\u0a2c\u0a40\u0a30\u0a40\u0a06\u0a08 \u0a21\u0a3e\u0a32\u0a30"_s)
+			$of(u"ਲਾਈਬੀਰੀਆਈ ਡਾਲਰ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ltl"_s),
-			$of(u"\u0a32\u0a3f\u0a25\u0a41\u0a06\u0a28\u0a40\u0a06\u0a08 \u0a32\u0a3f\u0a24\u0a3e\u0a38"_s)
+			$of(u"ਲਿਥੁਆਨੀਆਈ ਲਿਤਾਸ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lvl"_s),
-			$of(u"\u0a32\u0a3e\u0a1f\u0a35\u0a3f\u0a06\u0a08 \u0a32\u0a3e\u0a1f\u0a38"_s)
+			$of(u"ਲਾਟਵਿਆਈ ਲਾਟਸ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lyd"_s),
-			$of(u"\u0a32\u0a40\u0a2c\u0a40\u0a06\u0a08 \u0a26\u0a3f\u0a28\u0a3e\u0a30"_s)
+			$of(u"ਲੀਬੀਆਈ ਦਿਨਾਰ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mad"_s),
-			$of(u"\u0a2e\u0a4b\u0a30\u0a71\u0a15\u0a28 \u0a26\u0a3f\u0a30\u0a39\u0a3e\u0a2e"_s)
+			$of(u"ਮੋਰੱਕਨ ਦਿਰਹਾਮ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mdl"_s),
-			$of(u"\u0a2e\u0a4b\u0a32\u0a21\u0a4b\u0a35\u0a28 \u0a32\u0a47\u0a09"_s)
+			$of(u"ਮੋਲਡੋਵਨ ਲੇਉ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mga"_s),
-			$of(u"\u0a2e\u0a3e\u0a32\u0a3e\u0a17\u0a3e\u0a38\u0a40 \u0a05\u0a30\u0a3e\u0a07\u0a30\u0a40"_s)
+			$of(u"ਮਾਲਾਗਾਸੀ ਅਰਾਇਰੀ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mkd"_s),
-			$of(u"\u0a2e\u0a48\u0a15\u0a21\u0a4b\u0a28\u0a40\u0a06\u0a08 \u0a21\u0a47\u0a28\u0a3e\u0a30"_s)
+			$of(u"ਮੈਕਡੋਨੀਆਈ ਡੇਨਾਰ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mmk"_s),
-			$of(u"\u0a2e\u0a3f\u0a06\u0a02\u0a2e\u0a3e\u0a30 \u0a15\u0a3f\u0a06\u0a24"_s)
+			$of(u"ਮਿਆਂਮਾਰ ਕਿਆਤ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mnt"_s),
-			$of(u"\u0a2e\u0a70\u0a17\u0a4b\u0a32\u0a40\u0a06\u0a08 \u0a24\u0a41\u0a17\u0a30\u0a3f\u0a15"_s)
+			$of(u"ਮੰਗੋਲੀਆਈ ਤੁਗਰਿਕ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mop"_s),
-			$of(u"\u0a2e\u0a47\u0a15\u0a3e\u0a28\u0a40 \u0a2a\u0a1f\u0a3e\u0a15\u0a3e"_s)
+			$of(u"ਮੇਕਾਨੀ ਪਟਾਕਾ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mro"_s),
-			$of(u"\u0a2e\u0a4b\u0a30\u0a3f\u0a1f\u0a3e\u0a28\u0a40\u0a06\u0a08 \u0a0a\u0a17\u0a40\u0a06 (1973\u20132017)"_s)
+			$of(u"ਮੋਰਿਟਾਨੀਆਈ ਊਗੀਆ (1973–2017)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mru"_s),
-			$of(u"\u0a2e\u0a4b\u0a30\u0a3f\u0a1f\u0a3e\u0a28\u0a40\u0a06\u0a08 \u0a0a\u0a17\u0a40\u0a06"_s)
+			$of(u"ਮੋਰਿਟਾਨੀਆਈ ਊਗੀਆ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mur"_s),
-			$of(u"\u0a2e\u0a4c\u0a30\u0a3f\u0a38\u0a3c\u0a40\u0a06\u0a08 \u0a30\u0a41\u0a2a\u0a07\u0a06"_s)
+			$of(u"ਮੌਰਿਸ਼ੀਆਈ ਰੁਪਇਆ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mvr"_s),
-			$of(u"\u0a2e\u0a3e\u0a32\u0a26\u0a40\u0a35\u0a40 \u0a30\u0a41\u0a2b\u0a40\u0a06"_s)
+			$of(u"ਮਾਲਦੀਵੀ ਰੁਫੀਆ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mwk"_s),
-			$of(u"\u0a2e\u0a3e\u0a32\u0a3e\u0a35\u0a40\u0a06\u0a08 \u0a15\u0a35\u0a3e\u0a1a\u0a3e"_s)
+			$of(u"ਮਾਲਾਵੀਆਈ ਕਵਾਚਾ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mxn"_s),
-			$of(u"\u0a2e\u0a48\u0a15\u0a38\u0a40\u0a15\u0a28 \u0a2a\u0a47\u0a38\u0a4b"_s)
+			$of(u"ਮੈਕਸੀਕਨ ਪੇਸੋ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("myr"_s),
-			$of(u"\u0a2e\u0a32\u0a47\u0a38\u0a3c\u0a40\u0a06\u0a08 \u0a30\u0a3f\u0a70\u0a17\u0a3f\u0a1f"_s)
+			$of(u"ਮਲੇਸ਼ੀਆਈ ਰਿੰਗਿਟ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mzn"_s),
-			$of(u"\u0a2e\u0a4b\u0a1c\u0a3c\u0a3e\u0a2e\u0a2c\u0a40\u0a15\u0a28 \u0a2e\u0a48\u0a1f\u0a40\u0a15\u0a32"_s)
+			$of(u"ਮੋਜ਼ਾਮਬੀਕਨ ਮੈਟੀਕਲ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("nad"_s),
-			$of(u"\u0a28\u0a3e\u0a2e\u0a40\u0a2c\u0a40\u0a06\u0a08 \u0a21\u0a3e\u0a32\u0a30"_s)
+			$of(u"ਨਾਮੀਬੀਆਈ ਡਾਲਰ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ngn"_s),
-			$of(u"\u0a28\u0a3e\u0a07\u0a1c\u0a40\u0a30\u0a40\u0a06\u0a08 \u0a28\u0a3e\u0a07\u0a30\u0a3e"_s)
+			$of(u"ਨਾਇਜੀਰੀਆਈ ਨਾਇਰਾ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("nio"_s),
-			$of(u"\u0a28\u0a3f\u0a15\u0a3e\u0a30\u0a3e\u0a17\u0a41\u0a06\u0a08 \u0a15\u0a4b\u0a30\u0a21\u0a4b\u0a2c\u0a3e"_s)
+			$of(u"ਨਿਕਾਰਾਗੁਆਈ ਕੋਰਡੋਬਾ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("nok"_s),
-			$of(u"\u0a28\u0a3e\u0a30\u0a35\u0a47\u0a1c\u0a40\u0a06\u0a08 \u0a15\u0a30\u0a4c\u0a28"_s)
+			$of(u"ਨਾਰਵੇਜੀਆਈ ਕਰੌਨ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("npr"_s),
-			$of(u"\u0a28\u0a47\u0a2a\u0a3e\u0a32\u0a40 \u0a30\u0a41\u0a2a\u0a07\u0a06"_s)
+			$of(u"ਨੇਪਾਲੀ ਰੁਪਇਆ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("nzd"_s),
-			$of(u"\u0a28\u0a3f\u0a0a\u0a1c\u0a3c\u0a40\u0a32\u0a48\u0a02\u0a21 \u0a21\u0a3e\u0a32\u0a30"_s)
+			$of(u"ਨਿਊਜ਼ੀਲੈਂਡ ਡਾਲਰ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("omr"_s),
-			$of(u"\u0a13\u0a2e\u0a3e\u0a28\u0a40 \u0a30\u0a3f\u0a06\u0a32"_s)
+			$of(u"ਓਮਾਨੀ ਰਿਆਲ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pab"_s),
-			$of(u"\u0a2a\u0a28\u0a3e\u0a2e\u0a47\u0a28\u0a40\u0a05\u0a28 \u0a2c\u0a3e\u0a32\u0a2c\u0a4b\u0a06"_s)
+			$of(u"ਪਨਾਮੇਨੀਅਨ ਬਾਲਬੋਆ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pen"_s),
-			$of(u"\u0a2a\u0a47\u0a30\u0a42\u0a35\u0a40\u0a05\u0a28 \u0a38\u0a4b\u0a32"_s)
+			$of(u"ਪੇਰੂਵੀਅਨ ਸੋਲ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pgk"_s),
-			$of(u"\u0a2a\u0a3e\u0a2a\u0a42\u0a06 \u0a28\u0a3f\u0a0a \u0a17\u0a3f\u0a28\u0a40\u0a06\u0a08 \u0a15\u0a40\u0a28\u0a3e"_s)
+			$of(u"ਪਾਪੂਆ ਨਿਊ ਗਿਨੀਆਈ ਕੀਨਾ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("php"_s),
-			$of(u"\u0a2b\u0a3f\u0a32\u0a3f\u0a2a\u0a40\u0a28\u0a40 \u0a2a\u0a47\u0a38\u0a4b"_s)
+			$of(u"ਫਿਲਿਪੀਨੀ ਪੇਸੋ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pkr"_s),
-			$of(u"\u0a2a\u0a3e\u0a15\u0a3f\u0a38\u0a24\u0a3e\u0a28\u0a40 \u0a30\u0a41\u0a2a\u0a07\u0a06"_s)
+			$of(u"ਪਾਕਿਸਤਾਨੀ ਰੁਪਇਆ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pln"_s),
-			$of(u"\u0a2a\u0a4b\u0a32\u0a48\u0a02\u0a21\u0a40 \u0a1c\u0a3c\u0a32\u0a4c\u0a1f\u0a40"_s)
+			$of(u"ਪੋਲੈਂਡੀ ਜ਼ਲੌਟੀ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pyg"_s),
-			$of(u"\u0a2a\u0a48\u0a30\u0a3e\u0a17\u0a41\u0a35\u0a3e\u0a07\u0a28 \u0a17\u0a41\u0a06\u0a30\u0a3e\u0a28\u0a40"_s)
+			$of(u"ਪੈਰਾਗੁਵਾਇਨ ਗੁਆਰਾਨੀ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("qar"_s),
-			$of(u"\u0a15\u0a24\u0a30\u0a40 \u0a30\u0a3f\u0a06\u0a32"_s)
+			$of(u"ਕਤਰੀ ਰਿਆਲ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ron"_s),
-			$of(u"\u0a30\u0a4b\u0a2e\u0a3e\u0a28\u0a40\u0a06\u0a08 \u0a32\u0a47\u0a09"_s)
+			$of(u"ਰੋਮਾਨੀਆਈ ਲੇਉ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("rsd"_s),
-			$of(u"\u0a38\u0a30\u0a2c\u0a40\u0a06\u0a08 \u0a26\u0a3f\u0a28\u0a3e\u0a30"_s)
+			$of(u"ਸਰਬੀਆਈ ਦਿਨਾਰ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("rub"_s),
-			$of(u"\u0a30\u0a42\u0a38\u0a40 \u0a30\u0a42\u0a2c\u0a32"_s)
+			$of(u"ਰੂਸੀ ਰੂਬਲ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("rwf"_s),
-			$of(u"\u0a30\u0a35\u0a3e\u0a02\u0a21\u0a28 \u0a2b\u0a4d\u0a30\u0a48\u0a02\u0a15"_s)
+			$of(u"ਰਵਾਂਡਨ ਫ੍ਰੈਂਕ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sar"_s),
-			$of(u"\u0a38\u0a3e\u0a0a\u0a26\u0a40 \u0a30\u0a3f\u0a06\u0a32"_s)
+			$of(u"ਸਾਊਦੀ ਰਿਆਲ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sbd"_s),
-			$of(u"\u0a38\u0a4b\u0a32\u0a4b\u0a2e\u0a28 \u0a06\u0a08\u0a32\u0a48\u0a02\u0a21\u0a38 \u0a21\u0a3e\u0a32\u0a30"_s)
+			$of(u"ਸੋਲੋਮਨ ਆਈਲੈਂਡਸ ਡਾਲਰ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("scr"_s),
-			$of(u"\u0a38\u0a47\u0a38\u0a3c\u0a32\u0a38 \u0a30\u0a41\u0a2a\u0a07\u0a06"_s)
+			$of(u"ਸੇਸ਼ਲਸ ਰੁਪਇਆ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sdg"_s),
-			$of(u"\u0a38\u0a42\u0a21\u0a3e\u0a28\u0a40 \u0a2a\u0a4c\u0a02\u0a21"_s)
+			$of(u"ਸੂਡਾਨੀ ਪੌਂਡ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sek"_s),
-			$of(u"\u0a38\u0a35\u0a40\u0a21\u0a3f\u0a38\u0a3c \u0a15\u0a30\u0a4b\u0a28\u0a3e"_s)
+			$of(u"ਸਵੀਡਿਸ਼ ਕਰੋਨਾ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sgd"_s),
-			$of(u"\u0a38\u0a3f\u0a70\u0a17\u0a3e\u0a2a\u0a41\u0a30 \u0a21\u0a3e\u0a32\u0a30"_s)
+			$of(u"ਸਿੰਗਾਪੁਰ ਡਾਲਰ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("shp"_s),
-			$of(u"\u0a38\u0a47\u0a02\u0a1f \u0a39\u0a47\u0a32\u0a47\u0a28\u0a3e \u0a2a\u0a4c\u0a02\u0a21"_s)
+			$of(u"ਸੇਂਟ ਹੇਲੇਨਾ ਪੌਂਡ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sll"_s),
-			$of(u"\u0a38\u0a3f\u0a0f\u0a30\u0a3e \u0a32\u0a3f\u0a13\u0a28\u0a40\u0a05\u0a28 \u0a32\u0a3f\u0a13\u0a28"_s)
+			$of(u"ਸਿਏਰਾ ਲਿਓਨੀਅਨ ਲਿਓਨ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sos"_s),
-			$of(u"\u0a38\u0a4b\u0a2e\u0a3e\u0a32\u0a40 \u0a38\u0a3c\u0a3f\u0a32\u0a3f\u0a70\u0a17"_s)
+			$of(u"ਸੋਮਾਲੀ ਸ਼ਿਲਿੰਗ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("srd"_s),
-			$of(u"\u0a38\u0a42\u0a30\u0a40\u0a28\u0a3e\u0a2e\u0a40 \u0a21\u0a3e\u0a32\u0a30"_s)
+			$of(u"ਸੂਰੀਨਾਮੀ ਡਾਲਰ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ssp"_s),
-			$of(u"\u0a26\u0a71\u0a16\u0a23\u0a40 \u0a38\u0a42\u0a21\u0a3e\u0a28\u0a40 \u0a2a\u0a4c\u0a02\u0a21"_s)
+			$of(u"ਦੱਖਣੀ ਸੂਡਾਨੀ ਪੌਂਡ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("std"_s),
-			$of(u"\u0a38\u0a3e\u0a09 \u0a1f\u0a4b\u0a2e\u0a40 \u0a10\u0a02\u0a21 \u0a2a\u0a4d\u0a30\u0a3f\u0a70\u0a38\u0a2a\u0a40 \u0a21\u0a4b\u0a2c\u0a30\u0a3e (1977\u20132017)"_s)
+			$of(u"ਸਾਉ ਟੋਮੀ ਐਂਡ ਪ੍ਰਿੰਸਪੀ ਡੋਬਰਾ (1977–2017)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("stn"_s),
-			$of(u"\u0a38\u0a3e\u0a09 \u0a1f\u0a4b\u0a2e\u0a40 \u0a10\u0a02\u0a21 \u0a2a\u0a4d\u0a30\u0a3f\u0a70\u0a38\u0a2a\u0a40 \u0a21\u0a4b\u0a2c\u0a30\u0a3e"_s)
+			$of(u"ਸਾਉ ਟੋਮੀ ਐਂਡ ਪ੍ਰਿੰਸਪੀ ਡੋਬਰਾ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sur"_s),
-			$of(u"\u0a38\u0a4b\u0a35\u0a40\u0a05\u0a24 \u0a30\u0a42\u0a2c\u0a32"_s)
+			$of(u"ਸੋਵੀਅਤ ਰੂਬਲ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("syp"_s),
-			$of(u"\u0a38\u0a40\u0a30\u0a40\u0a06\u0a08 \u0a2a\u0a4c\u0a02\u0a21"_s)
+			$of(u"ਸੀਰੀਆਈ ਪੌਂਡ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("szl"_s),
-			$of(u"\u0a38\u0a35\u0a3e\u0a1c\u0a3c\u0a40 \u0a32\u0a3e\u0a07\u0a32\u0a48\u0a02\u0a17\u0a28\u0a40"_s)
+			$of(u"ਸਵਾਜ਼ੀ ਲਾਇਲੈਂਗਨੀ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("thb"_s),
-			$of(u"\u0a25\u0a3e\u0a08 \u0a2c\u0a3e\u0a39\u0a24"_s)
+			$of(u"ਥਾਈ ਬਾਹਤ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("tjs"_s),
-			$of(u"\u0a24\u0a3e\u0a1c\u0a3f\u0a15\u0a3f\u0a38\u0a24\u0a3e\u0a28\u0a40 \u0a38\u0a4b\u0a2e\u0a4b\u0a28\u0a40"_s)
+			$of(u"ਤਾਜਿਕਿਸਤਾਨੀ ਸੋਮੋਨੀ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("tmt"_s),
-			$of(u"\u0a24\u0a41\u0a30\u0a15\u0a2e\u0a47\u0a28\u0a3f\u0a38\u0a24\u0a3e\u0a28\u0a40 \u0a2e\u0a3e\u0a28\u0a24"_s)
+			$of(u"ਤੁਰਕਮੇਨਿਸਤਾਨੀ ਮਾਨਤ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("tnd"_s),
-			$of(u"\u0a1f\u0a3f\u0a09\u0a28\u0a40\u0a38\u0a3c\u0a40\u0a06\u0a08 \u0a26\u0a3f\u0a28\u0a3e\u0a30"_s)
+			$of(u"ਟਿਉਨੀਸ਼ੀਆਈ ਦਿਨਾਰ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("top"_s),
-			$of(u"\u0a1f\u0a4c\u0a02\u0a17\u0a28 \u0a2a\u0a48\u0a02\u0a17\u0a3e"_s)
+			$of(u"ਟੌਂਗਨ ਪੈਂਗਾ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("try"_s),
-			$of(u"\u0a24\u0a41\u0a30\u0a15\u0a40 \u0a32\u0a40\u0a30\u0a3e"_s)
+			$of(u"ਤੁਰਕੀ ਲੀਰਾ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ttd"_s),
-			$of(u"\u0a1f\u0a4d\u0a30\u0a3f\u0a28\u0a40\u0a21\u0a3e\u0a21 \u0a05\u0a24\u0a47 \u0a1f\u0a4b\u0a2c\u0a3e\u0a17\u0a4b \u0a21\u0a3e\u0a32\u0a30"_s)
+			$of(u"ਟ੍ਰਿਨੀਡਾਡ ਅਤੇ ਟੋਬਾਗੋ ਡਾਲਰ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("twd"_s),
-			$of(u"\u0a28\u0a35\u0a3e\u0a02 \u0a24\u0a3e\u0a07\u0a35\u0a3e\u0a28 \u0a21\u0a3e\u0a32\u0a30"_s)
+			$of(u"ਨਵਾਂ ਤਾਇਵਾਨ ਡਾਲਰ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("tzs"_s),
-			$of(u"\u0a24\u0a28\u0a1c\u0a3c\u0a3e\u0a28\u0a40\u0a06\u0a08 \u0a38\u0a3c\u0a3f\u0a32\u0a3f\u0a70\u0a17"_s)
+			$of(u"ਤਨਜ਼ਾਨੀਆਈ ਸ਼ਿਲਿੰਗ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("uah"_s),
-			$of(u"\u0a2f\u0a42\u0a15\u0a30\u0a47\u0a28\u0a40\u0a06\u0a08 \u0a30\u0a3f\u0a35\u0a28\u0a3f\u0a06"_s)
+			$of(u"ਯੂਕਰੇਨੀਆਈ ਰਿਵਨਿਆ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ugx"_s),
-			$of(u"\u0a2f\u0a42\u0a17\u0a3e\u0a02\u0a21\u0a40\u0a06\u0a08 \u0a38\u0a3c\u0a3f\u0a32\u0a3f\u0a70\u0a17"_s)
+			$of(u"ਯੂਗਾਂਡੀਆਈ ਸ਼ਿਲਿੰਗ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("usd"_s),
-			$of(u"\u0a2f\u0a42.\u0a10\u0a38. \u0a21\u0a3e\u0a32\u0a30"_s)
+			$of(u"ਯੂ.ਐਸ. ਡਾਲਰ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("uyp"_s),
-			$of(u"\u0a09\u0a30\u0a42\u0a17\u0a41\u0a35\u0a3e\u0a07\u0a28 \u0a2a\u0a47\u0a38\u0a4b (1975\u20131993)"_s)
+			$of(u"ਉਰੂਗੁਵਾਇਨ ਪੇਸੋ (1975–1993)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("uyu"_s),
-			$of(u"\u0a09\u0a30\u0a42\u0a17\u0a41\u0a35\u0a3e\u0a07\u0a28 \u0a2a\u0a47\u0a38\u0a4b"_s)
+			$of(u"ਉਰੂਗੁਵਾਇਨ ਪੇਸੋ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("uzs"_s),
-			$of(u"\u0a09\u0a1c\u0a3c\u0a2c\u0a47\u0a15\u0a3f\u0a38\u0a24\u0a3e\u0a28 \u0a38\u0a4b\u0a2e"_s)
+			$of(u"ਉਜ਼ਬੇਕਿਸਤਾਨ ਸੋਮ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("veb"_s),
-			$of(u"\u0a35\u0a47\u0a28\u0a47\u0a1c\u0a3c\u0a42\u0a0f\u0a32\u0a28 \u0a2c\u0a4b\u0a32\u0a40\u0a35\u0a30 (1871\u20132008)"_s)
+			$of(u"ਵੇਨੇਜ਼ੂਏਲਨ ਬੋਲੀਵਰ (1871–2008)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("vef"_s),
-			$of(u"\u0a35\u0a47\u0a28\u0a47\u0a1c\u0a3c\u0a42\u0a0f\u0a32\u0a28 \u0a2c\u0a4b\u0a32\u0a40\u0a35\u0a30 (2008\u20132018)"_s)
+			$of(u"ਵੇਨੇਜ਼ੂਏਲਨ ਬੋਲੀਵਰ (2008–2018)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ves"_s),
-			$of(u"\u0a35\u0a47\u0a28\u0a47\u0a1c\u0a3c\u0a42\u0a0f\u0a32\u0a28 \u0a2c\u0a4b\u0a32\u0a40\u0a35\u0a30"_s)
+			$of(u"ਵੇਨੇਜ਼ੂਏਲਨ ਬੋਲੀਵਰ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("vnd"_s),
-			$of(u"\u0a35\u0a40\u0a05\u0a24\u0a28\u0a3e\u0a2e\u0a40 \u0a21\u0a4b\u0a02\u0a17"_s)
+			$of(u"ਵੀਅਤਨਾਮੀ ਡੋਂਗ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("vnn"_s),
-			$of(u"\u0a35\u0a40\u0a05\u0a24\u0a28\u0a3e\u0a2e\u0a40 \u0a21\u0a4b\u0a02\u0a17 (1978\u20131985)"_s)
+			$of(u"ਵੀਅਤਨਾਮੀ ਡੋਂਗ (1978–1985)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("vuv"_s),
-			$of(u"\u0a35\u0a3e\u0a28\u0a42\u0a06\u0a1f\u0a42 \u0a35\u0a3e\u0a1f\u0a42"_s)
+			$of(u"ਵਾਨੂਆਟੂ ਵਾਟੂ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("wst"_s),
-			$of(u"\u0a38\u0a3e\u0a2e\u0a4b\u0a06\u0a08 \u0a24\u0a3e\u0a32\u0a3e"_s)
+			$of(u"ਸਾਮੋਆਈ ਤਾਲਾ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xaf"_s),
-			$of(u"\u0a15\u0a47\u0a02\u0a26\u0a30\u0a40 \u0a05\u0a2b\u0a3c\u0a30\u0a40\u0a15\u0a40 [CFA] \u0a2b\u0a4d\u0a30\u0a48\u0a02\u0a15"_s)
+			$of(u"ਕੇਂਦਰੀ ਅਫ਼ਰੀਕੀ [CFA] ਫ੍ਰੈਂਕ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xag"_s),
-			$of(u"\u0a1a\u0a3e\u0a02\u0a26\u0a40"_s)
+			$of(u"ਚਾਂਦੀ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xau"_s),
-			$of(u"\u0a38\u0a4b\u0a28\u0a3e"_s)
+			$of(u"ਸੋਨਾ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xbb"_s),
-			$of(u"\u0a2f\u0a42\u0a30\u0a2a\u0a40 \u0a35\u0a3f\u0a71\u0a24\u0a40 \u0a07\u0a15\u0a3e\u0a08"_s)
+			$of(u"ਯੂਰਪੀ ਵਿੱਤੀ ਇਕਾਈ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xcd"_s),
-			$of(u"\u0a2a\u0a42\u0a30\u0a2c\u0a40 \u0a15\u0a48\u0a30\u0a47\u0a2c\u0a40\u0a05\u0a28 \u0a21\u0a3e\u0a32\u0a30"_s)
+			$of(u"ਪੂਰਬੀ ਕੈਰੇਬੀਅਨ ਡਾਲਰ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xeu"_s),
-			$of(u"\u0a2f\u0a42\u0a30\u0a2a\u0a40 \u0a2e\u0a41\u0a26\u0a30\u0a3e \u0a07\u0a15\u0a3e\u0a08"_s)
+			$of(u"ਯੂਰਪੀ ਮੁਦਰਾ ਇਕਾਈ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xof"_s),
-			$of(u"\u0a2a\u0a71\u0a1b\u0a2e\u0a40 \u0a05\u0a2b\u0a3c\u0a30\u0a40\u0a15\u0a40 (CFA) \u0a2b\u0a4d\u0a30\u0a48\u0a02\u0a15"_s)
+			$of(u"ਪੱਛਮੀ ਅਫ਼ਰੀਕੀ (CFA) ਫ੍ਰੈਂਕ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xpf"_s),
-			$of(u"\u0a2b\u0a4d\u0a30\u0a48\u0a02\u0a15 (CFP)"_s)
+			$of(u"ਫ੍ਰੈਂਕ (CFP)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xxx"_s),
-			$of(u"\u0a05\u0a17\u0a3f\u0a06\u0a24 \u0a2e\u0a41\u0a26\u0a30\u0a3e"_s)
+			$of(u"ਅਗਿਆਤ ਮੁਦਰਾ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("yer"_s),
-			$of(u"\u0a2f\u0a2e\u0a28\u0a40 \u0a30\u0a3f\u0a06\u0a32"_s)
+			$of(u"ਯਮਨੀ ਰਿਆਲ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("zar"_s),
-			$of(u"\u0a26\u0a71\u0a16\u0a23\u0a40 \u0a05\u0a2b\u0a30\u0a40\u0a15\u0a40 \u0a30\u0a48\u0a02\u0a21"_s)
+			$of(u"ਦੱਖਣੀ ਅਫਰੀਕੀ ਰੈਂਡ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("zmw"_s),
-			$of(u"\u0a1c\u0a3c\u0a3e\u0a2e\u0a2c\u0a40\u0a06\u0a08 \u0a15\u0a35\u0a3e\u0a1a\u0a3e"_s)
+			$of(u"ਜ਼ਾਮਬੀਆਈ ਕਵਾਚਾ"_s)
 		})
 	}));
 	return data;

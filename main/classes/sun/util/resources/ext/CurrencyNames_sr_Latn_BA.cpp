@@ -45,11 +45,11 @@ $ObjectArray2* CurrencyNames_sr_Latn_BA::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("EUR"_s),
-			$of(u"\u20ac"_s)
+			$of(u"€"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bam"_s),
-			$of(u"Bosansko-Hercegova\u010dka konvertibilna marka"_s)
+			$of(u"Bosansko-Hercegovačka konvertibilna marka"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("eur"_s),

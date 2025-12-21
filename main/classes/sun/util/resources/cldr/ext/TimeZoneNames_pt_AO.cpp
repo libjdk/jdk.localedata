@@ -42,12 +42,12 @@ void TimeZoneNames_pt_AO::init$() {
 $ObjectArray2* TimeZoneNames_pt_AO::getContents() {
 	$useLocalCurrentObjectStackCache();
 	$var($StringArray, Azores, $new($StringArray, {
-		u"Hora padr\u00e3o dos A\u00e7ores"_s,
-		u"\u2205\u2205\u2205"_s,
-		u"Hora de ver\u00e3o dos A\u00e7ores"_s,
-		u"\u2205\u2205\u2205"_s,
-		u"Hora dos A\u00e7ores"_s,
-		u"\u2205\u2205\u2205"_s
+		u"Hora padrão dos Açores"_s,
+		u"∅∅∅"_s,
+		u"Hora de verão dos Açores"_s,
+		u"∅∅∅"_s,
+		u"Hora dos Açores"_s,
+		u"∅∅∅"_s
 	}));
 	$var($StringArray, EMPTY_ZONE, $new($StringArray, {
 		""_s,
@@ -58,28 +58,28 @@ $ObjectArray2* TimeZoneNames_pt_AO::getContents() {
 		""_s
 	}));
 	$var($StringArray, Europe_Central, $new($StringArray, {
-		u"Hora padr\u00e3o da Europa Central"_s,
-		u"\u2205\u2205\u2205"_s,
-		u"Hora de ver\u00e3o da Europa Central"_s,
-		u"\u2205\u2205\u2205"_s,
+		u"Hora padrão da Europa Central"_s,
+		u"∅∅∅"_s,
+		u"Hora de verão da Europa Central"_s,
+		u"∅∅∅"_s,
 		"Hora da Europa Central"_s,
-		u"\u2205\u2205\u2205"_s
+		u"∅∅∅"_s
 	}));
 	$var($StringArray, Europe_Eastern, $new($StringArray, {
-		u"Hora padr\u00e3o da Europa Oriental"_s,
-		u"\u2205\u2205\u2205"_s,
-		u"Hora de ver\u00e3o da Europa Oriental"_s,
-		u"\u2205\u2205\u2205"_s,
+		u"Hora padrão da Europa Oriental"_s,
+		u"∅∅∅"_s,
+		u"Hora de verão da Europa Oriental"_s,
+		u"∅∅∅"_s,
 		"Hora da Europa Oriental"_s,
-		u"\u2205\u2205\u2205"_s
+		u"∅∅∅"_s
 	}));
 	$var($StringArray, Europe_Western, $new($StringArray, {
-		u"Hora padr\u00e3o da Europa Ocidental"_s,
-		u"\u2205\u2205\u2205"_s,
-		u"Hora de ver\u00e3o da Europa Ocidental"_s,
-		u"\u2205\u2205\u2205"_s,
+		u"Hora padrão da Europa Ocidental"_s,
+		u"∅∅∅"_s,
+		u"Hora de verão da Europa Ocidental"_s,
+		u"∅∅∅"_s,
 		"Hora da Europa Ocidental"_s,
-		u"\u2205\u2205\u2205"_s
+		u"∅∅∅"_s
 	}));
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {

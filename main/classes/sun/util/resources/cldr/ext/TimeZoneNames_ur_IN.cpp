@@ -43,7 +43,7 @@ void TimeZoneNames_ur_IN::init$() {
 $ObjectArray2* TimeZoneNames_ur_IN::getContents() {
 	$useLocalCurrentObjectStackCache();
 	$var($StringArray, GMT, $new($StringArray, {
-		u"\u06af\u0631\u06cc\u0646 \u0648\u0686 \u0645\u06cc\u0646 \u0679\u0627\u0626\u0645"_s,
+		u"گرین وچ مین ٹائم"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -51,7 +51,7 @@ $ObjectArray2* TimeZoneNames_ur_IN::getContents() {
 		""_s
 	}));
 	$var($StringArray, Gulf, $new($StringArray, {
-		u"\u062e\u0644\u06cc\u062c \u0633\u0679\u06cc\u0646\u0688\u0631\u0688 \u0679\u0627\u0626\u0645"_s,
+		u"خلیج سٹینڈرڈ ٹائم"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -59,31 +59,31 @@ $ObjectArray2* TimeZoneNames_ur_IN::getContents() {
 		""_s
 	}));
 	$var($StringArray, Iran, $new($StringArray, {
-		u"\u0627\u06cc\u0631\u0627\u0646 \u0633\u0679\u06cc\u0646\u0688\u0631\u0688 \u0679\u0627\u0626\u0645"_s,
+		u"ایران سٹینڈرڈ ٹائم"_s,
 		""_s,
-		u"\u0627\u06cc\u0631\u0627\u0646 \u0688\u06d2 \u0644\u0627\u0626\u0679 \u0679\u0627\u0626\u0645"_s,
+		u"ایران ڈے لائٹ ٹائم"_s,
 		""_s,
-		u"\u0627\u06cc\u0631\u0627\u0646 \u0679\u0627\u0626\u0645"_s,
+		u"ایران ٹائم"_s,
 		""_s
 	}));
 	$var($StringArray, Peru, $new($StringArray, {
-		u"\u067e\u06cc\u0631\u0648 \u0633\u0679\u06cc\u0646\u0688\u0631\u0688 \u0679\u0627\u0626\u0645"_s,
+		u"پیرو سٹینڈرڈ ٹائم"_s,
 		""_s,
-		u"\u067e\u06cc\u0631\u0648 \u0633\u0645\u0631 \u0679\u0627\u0626\u0645"_s,
+		u"پیرو سمر ٹائم"_s,
 		""_s,
-		u"\u067e\u06cc\u0631\u0648 \u0679\u0627\u0626\u0645"_s,
+		u"پیرو ٹائم"_s,
 		""_s
 	}));
 	$var($StringArray, Chile, $new($StringArray, {
-		u"\u0686\u0644\u06cc \u0633\u0679\u06cc\u0646\u0688\u0631\u0688 \u0679\u0627\u0626\u0645"_s,
+		u"چلی سٹینڈرڈ ٹائم"_s,
 		""_s,
-		u"\u0686\u0644\u06cc \u0633\u0645\u0631 \u0679\u0627\u0626\u0645"_s,
+		u"چلی سمر ٹائم"_s,
 		""_s,
-		u"\u0686\u0644\u06cc \u0679\u0627\u0626\u0645"_s,
+		u"چلی ٹائم"_s,
 		""_s
 	}));
 	$var($StringArray, India, $new($StringArray, {
-		u"\u0627\u0646\u0688\u06cc\u0627 \u0633\u0679\u06cc\u0646\u0688\u0631\u0688 \u0679\u0627\u0626\u0645"_s,
+		u"انڈیا سٹینڈرڈ ٹائم"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -91,7 +91,7 @@ $ObjectArray2* TimeZoneNames_ur_IN::getContents() {
 		""_s
 	}));
 	$var($StringArray, Nepal, $new($StringArray, {
-		u"\u0646\u06cc\u067e\u0627\u0644 \u0679\u0627\u0626\u0645"_s,
+		u"نیپال ٹائم"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -99,15 +99,15 @@ $ObjectArray2* TimeZoneNames_ur_IN::getContents() {
 		""_s
 	}));
 	$var($StringArray, Amazon, $new($StringArray, {
-		u"\u0627\u06cc\u0645\u06cc\u0632\u0648\u0646 \u0633\u0679\u06cc\u0646\u0688\u0631\u0688 \u0679\u0627\u0626\u0645"_s,
+		u"ایمیزون سٹینڈرڈ ٹائم"_s,
 		""_s,
-		u"\u0627\u06cc\u0645\u06cc\u0632\u0648\u0646 \u0633\u0645\u0631 \u0679\u0627\u0626\u0645"_s,
+		u"ایمیزون سمر ٹائم"_s,
 		""_s,
-		u"\u0627\u06cc\u0645\u06cc\u0632\u0648\u0646 \u0679\u0627\u0626\u0645"_s,
+		u"ایمیزون ٹائم"_s,
 		""_s
 	}));
 	$var($StringArray, Bhutan, $new($StringArray, {
-		u"\u0628\u06be\u0648\u0679\u0627\u0646 \u0679\u0627\u0626\u0645"_s,
+		u"بھوٹان ٹائم"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -115,15 +115,15 @@ $ObjectArray2* TimeZoneNames_ur_IN::getContents() {
 		""_s
 	}));
 	$var($StringArray, Easter, $new($StringArray, {
-		u"\u0627\u06cc\u0633\u0679\u0631 \u0622\u0626\u0644\u06cc\u0646\u0688 \u0633\u0679\u06cc\u0646\u0688\u0631\u0688 \u0679\u0627\u0626\u0645"_s,
+		u"ایسٹر آئلینڈ سٹینڈرڈ ٹائم"_s,
 		""_s,
-		u"\u0627\u06cc\u0633\u0679\u0631 \u0622\u0626\u0644\u06cc\u0646\u0688 \u0633\u0645\u0631 \u0679\u0627\u0626\u0645"_s,
+		u"ایسٹر آئلینڈ سمر ٹائم"_s,
 		""_s,
-		u"\u0627\u06cc\u0633\u0679\u0631 \u0622\u0626\u0644\u06cc\u0646\u0688 \u0679\u0627\u0626\u0645"_s,
+		u"ایسٹر آئلینڈ ٹائم"_s,
 		""_s
 	}));
 	$var($StringArray, Guyana, $new($StringArray, {
-		u"\u06af\u06cc\u0627\u0646\u0627 \u0679\u0627\u0626\u0645"_s,
+		u"گیانا ٹائم"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -131,15 +131,15 @@ $ObjectArray2* TimeZoneNames_ur_IN::getContents() {
 		""_s
 	}));
 	$var($StringArray, Israel, $new($StringArray, {
-		u"\u0627\u0633\u0631\u0627\u0626\u06cc\u0644 \u0633\u0679\u06cc\u0646\u0688\u0631\u0688 \u0679\u0627\u0626\u0645"_s,
+		u"اسرائیل سٹینڈرڈ ٹائم"_s,
 		""_s,
-		u"\u0627\u0633\u0631\u0627\u0626\u06cc\u0644 \u0688\u06d2 \u0644\u0627\u0626\u0679 \u0679\u0627\u0626\u0645"_s,
+		u"اسرائیل ڈے لائٹ ٹائم"_s,
 		""_s,
-		u"\u0627\u0633\u0631\u0627\u0626\u06cc\u0644 \u0679\u0627\u0626\u0645"_s,
+		u"اسرائیل ٹائم"_s,
 		""_s
 	}));
 	$var($StringArray, Vostok, $new($StringArray, {
-		u"\u0648\u0648\u0633\u0679\u0627\u06a9 \u0679\u0627\u0626\u0645"_s,
+		u"ووسٹاک ٹائم"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -147,23 +147,23 @@ $ObjectArray2* TimeZoneNames_ur_IN::getContents() {
 		""_s
 	}));
 	$var($StringArray, Arabian, $new($StringArray, {
-		u"\u0639\u0631\u0628 \u0633\u0679\u06cc\u0646\u0688\u0631\u0688 \u0679\u0627\u0626\u0645"_s,
+		u"عرب سٹینڈرڈ ٹائم"_s,
 		""_s,
-		u"\u0639\u0631\u0628 \u0688\u06d2 \u0644\u0627\u0626\u0679 \u0679\u0627\u0626\u0645"_s,
+		u"عرب ڈے لائٹ ٹائم"_s,
 		""_s,
-		u"\u0639\u0631\u0628 \u0679\u0627\u0626\u0645"_s,
+		u"عرب ٹائم"_s,
 		""_s
 	}));
 	$var($StringArray, Armenia, $new($StringArray, {
-		u"\u0622\u0631\u0645\u06cc\u0646\u06cc\u0627 \u0633\u0679\u06cc\u0646\u0688\u0631\u0688 \u0679\u0627\u0626\u0645"_s,
+		u"آرمینیا سٹینڈرڈ ٹائم"_s,
 		""_s,
-		u"\u0622\u0631\u0645\u06cc\u0646\u06cc\u0627 \u0633\u0645\u0631 \u0679\u0627\u0626\u0645"_s,
+		u"آرمینیا سمر ٹائم"_s,
 		""_s,
-		u"\u0622\u0631\u0645\u06cc\u0646\u06cc\u0627 \u0679\u0627\u0626\u0645"_s,
+		u"آرمینیا ٹائم"_s,
 		""_s
 	}));
 	$var($StringArray, Bolivia, $new($StringArray, {
-		u"\u0628\u0648\u0644\u06cc\u0648\u06cc\u0627 \u0679\u0627\u0626\u0645"_s,
+		u"بولیویا ٹائم"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -171,7 +171,7 @@ $ObjectArray2* TimeZoneNames_ur_IN::getContents() {
 		""_s
 	}));
 	$var($StringArray, Ecuador, $new($StringArray, {
-		u"\u0627\u06cc\u06a9\u0648\u0627\u0688\u0648\u0631 \u0679\u0627\u0626\u0645"_s,
+		u"ایکواڈور ٹائم"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -179,23 +179,23 @@ $ObjectArray2* TimeZoneNames_ur_IN::getContents() {
 		""_s
 	}));
 	$var($StringArray, Georgia, $new($StringArray, {
-		u"\u062c\u0627\u0631\u062c\u06cc\u0627 \u0633\u0679\u06cc\u0646\u0688\u0631\u0688 \u0679\u0627\u0626\u0645"_s,
+		u"جارجیا سٹینڈرڈ ٹائم"_s,
 		""_s,
-		u"\u062c\u0627\u0631\u062c\u06cc\u0627 \u0633\u0645\u0631 \u0679\u0627\u0626\u0645"_s,
+		u"جارجیا سمر ٹائم"_s,
 		""_s,
-		u"\u062c\u0627\u0631\u062c\u06cc\u0627 \u0679\u0627\u0626\u0645"_s,
+		u"جارجیا ٹائم"_s,
 		""_s
 	}));
 	$var($StringArray, Noronha, $new($StringArray, {
-		u"\u0641\u0631\u0646\u0627\u0646\u0688\u0648 \u0688\u06cc \u0646\u0648\u0631\u0646\u06c1\u0627 \u0633\u0679\u06cc\u0646\u0688\u0631\u0688 \u0679\u0627\u0626\u0645"_s,
+		u"فرنانڈو ڈی نورنہا سٹینڈرڈ ٹائم"_s,
 		""_s,
-		u"\u0641\u0631\u0646\u0627\u0646\u0688\u0648 \u0688\u06cc \u0646\u0648\u0631\u0648\u0646\u06c1\u0627 \u0633\u0645\u0631 \u0679\u0627\u0626\u0645"_s,
+		u"فرنانڈو ڈی نورونہا سمر ٹائم"_s,
 		""_s,
-		u"\u0641\u0631\u0646\u0627\u0646\u0688\u0648 \u0688\u06cc \u0646\u0648\u0631\u0646\u06c1\u0627 \u0679\u0627\u0626\u0645"_s,
+		u"فرنانڈو ڈی نورنہا ٹائم"_s,
 		""_s
 	}));
 	$var($StringArray, Rothera, $new($StringArray, {
-		u"\u0631\u0648\u062a\u06be\u06cc\u0631\u0627 \u0679\u0627\u0626\u0645"_s,
+		u"روتھیرا ٹائم"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -203,39 +203,39 @@ $ObjectArray2* TimeZoneNames_ur_IN::getContents() {
 		""_s
 	}));
 	$var($StringArray, Uruguay, $new($StringArray, {
-		u"\u06cc\u0648\u0631\u0648\u06af\u0648\u0626\u06d2 \u0633\u0679\u06cc\u0646\u0688\u0631\u0688 \u0679\u0627\u0626\u0645"_s,
+		u"یوروگوئے سٹینڈرڈ ٹائم"_s,
 		""_s,
-		u"\u06cc\u0648\u0631\u0648\u06af\u0648\u0626\u06d2 \u0633\u0645\u0631 \u0679\u0627\u0626\u0645"_s,
+		u"یوروگوئے سمر ٹائم"_s,
 		""_s,
-		u"\u06cc\u0648\u0631\u0648\u06af\u0648\u0626\u06d2 \u0679\u0627\u0626\u0645"_s,
+		u"یوروگوئے ٹائم"_s,
 		""_s
 	}));
 	$var($StringArray, Brasilia, $new($StringArray, {
-		u"\u0628\u0631\u0627\u0632\u06cc\u0644\u06cc\u0627 \u0633\u0679\u06cc\u0646\u0688\u0631\u0688 \u0679\u0627\u0626\u0645"_s,
+		u"برازیلیا سٹینڈرڈ ٹائم"_s,
 		""_s,
-		u"\u0628\u0631\u0627\u0632\u06cc\u0644\u06cc\u0627 \u0633\u0645\u0631 \u0679\u0627\u0626\u0645"_s,
+		u"برازیلیا سمر ٹائم"_s,
 		""_s,
-		u"\u0628\u0631\u0627\u0632\u06cc\u0644\u06cc\u0627 \u0679\u0627\u0626\u0645"_s,
+		u"برازیلیا ٹائم"_s,
 		""_s
 	}));
 	$var($StringArray, Colombia, $new($StringArray, {
-		u"\u06a9\u0648\u0644\u0645\u0628\u06cc\u0627 \u0633\u0679\u06cc\u0646\u0688\u0631\u0688 \u0679\u0627\u0626\u0645"_s,
+		u"کولمبیا سٹینڈرڈ ٹائم"_s,
 		""_s,
-		u"\u06a9\u0648\u0644\u0645\u0628\u06cc\u0627 \u0633\u0645\u0631 \u0679\u0627\u0626\u0645"_s,
+		u"کولمبیا سمر ٹائم"_s,
 		""_s,
-		u"\u06a9\u0648\u0644\u0645\u0628\u06cc\u0627 \u0679\u0627\u0626\u0645"_s,
+		u"کولمبیا ٹائم"_s,
 		""_s
 	}));
 	$var($StringArray, Falkland, $new($StringArray, {
-		u"\u0641\u0627\u06a9 \u0644\u06cc\u0646\u0688 \u0622\u0626\u0644\u06cc\u0646\u0688\u0632 \u0633\u0679\u06cc\u0646\u0688\u0631\u0688 \u0679\u0627\u0626\u0645"_s,
+		u"فاک لینڈ آئلینڈز سٹینڈرڈ ٹائم"_s,
 		""_s,
-		u"\u0641\u0627\u06a9 \u0644\u06cc\u0646\u0688 \u0622\u0626\u0644\u06cc\u0646\u0688\u0632 \u0633\u0645\u0631 \u0679\u0627\u0626\u0645"_s,
+		u"فاک لینڈ آئلینڈز سمر ٹائم"_s,
 		""_s,
-		u"\u0641\u0627\u06a9 \u0644\u06cc\u0646\u0688 \u0622\u0626\u0644\u06cc\u0646\u0688\u0632 \u0679\u0627\u0626\u0645"_s,
+		u"فاک لینڈ آئلینڈز ٹائم"_s,
 		""_s
 	}));
 	$var($StringArray, Maldives, $new($StringArray, {
-		u"\u0645\u0627\u0644\u062f\u06cc\u067e \u0679\u0627\u0626\u0645"_s,
+		u"مالدیپ ٹائم"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -243,23 +243,23 @@ $ObjectArray2* TimeZoneNames_ur_IN::getContents() {
 		""_s
 	}));
 	$var($StringArray, Pakistan, $new($StringArray, {
-		u"\u067e\u0627\u06a9\u0633\u062a\u0627\u0646 \u0633\u0679\u06cc\u0646\u0688\u0631\u0688 \u0679\u0627\u0626\u0645"_s,
+		u"پاکستان سٹینڈرڈ ٹائم"_s,
 		""_s,
-		u"\u067e\u0627\u06a9\u0633\u062a\u0627\u0646 \u0633\u0645\u0631 \u0679\u0627\u0626\u0645"_s,
+		u"پاکستان سمر ٹائم"_s,
 		""_s,
-		u"\u067e\u0627\u06a9\u0633\u062a\u0627\u0646 \u0679\u0627\u0626\u0645"_s,
+		u"پاکستان ٹائم"_s,
 		""_s
 	}));
 	$var($StringArray, Paraguay, $new($StringArray, {
-		u"\u067e\u06cc\u0631\u0627\u06af\u0648\u0626\u06d2 \u0633\u0679\u06cc\u0646\u0688\u0631\u0688 \u0679\u0627\u0626\u0645"_s,
+		u"پیراگوئے سٹینڈرڈ ٹائم"_s,
 		""_s,
-		u"\u067e\u06cc\u0631\u0627\u06af\u0648\u0626\u06d2 \u0633\u0645\u0631 \u0679\u0627\u0626\u0645"_s,
+		u"پیراگوئے سمر ٹائم"_s,
 		""_s,
-		u"\u067e\u06cc\u0631\u0627\u06af\u0648\u0626\u06d2 \u0679\u0627\u0626\u0645"_s,
+		u"پیراگوئے ٹائم"_s,
 		""_s
 	}));
 	$var($StringArray, Suriname, $new($StringArray, {
-		u"\u0633\u0648\u0631\u06cc\u0646\u0627\u0645 \u0679\u0627\u0626\u0645"_s,
+		u"سورینام ٹائم"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -267,7 +267,7 @@ $ObjectArray2* TimeZoneNames_ur_IN::getContents() {
 		""_s
 	}));
 	$var($StringArray, Galapagos, $new($StringArray, {
-		u"\u06af\u0627\u0644\u0627\u067e\u0627\u06af\u0648\u0632 \u0679\u0627\u0626\u0645"_s,
+		u"گالاپاگوز ٹائم"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -275,7 +275,7 @@ $ObjectArray2* TimeZoneNames_ur_IN::getContents() {
 		""_s
 	}));
 	$var($StringArray, Kyrgystan, $new($StringArray, {
-		u"\u06a9\u0631\u063a\u0633\u062a\u0627\u0646 \u0679\u0627\u0626\u0645"_s,
+		u"کرغستان ٹائم"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -283,7 +283,7 @@ $ObjectArray2* TimeZoneNames_ur_IN::getContents() {
 		""_s
 	}));
 	$var($StringArray, Venezuela, $new($StringArray, {
-		u"\u0648\u06cc\u0646\u0632\u0648\u0626\u06cc\u0644\u0627 \u0679\u0627\u0626\u0645"_s,
+		u"وینزوئیلا ٹائم"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -291,19 +291,19 @@ $ObjectArray2* TimeZoneNames_ur_IN::getContents() {
 		""_s
 	}));
 	$var($StringArray, Azerbaijan, $new($StringArray, {
-		u"\u0622\u0630\u0631\u0628\u0627\u0626\u06cc\u062c\u0627\u0646 \u0633\u0679\u06cc\u0646\u0688\u0631\u0688 \u0679\u0627\u0626\u0645"_s,
+		u"آذربائیجان سٹینڈرڈ ٹائم"_s,
 		""_s,
-		u"\u0622\u0630\u0631\u0628\u0627\u0626\u06cc\u062c\u0627\u0646 \u0633\u0645\u0631 \u0679\u0627\u0626\u0645"_s,
+		u"آذربائیجان سمر ٹائم"_s,
 		""_s,
-		u"\u0622\u0630\u0631\u0628\u0627\u0626\u06cc\u062c\u0627\u0646 \u0679\u0627\u0626\u0645"_s,
+		u"آذربائیجان ٹائم"_s,
 		""_s
 	}));
 	$var($StringArray, Bangladesh, $new($StringArray, {
-		u"\u0628\u0646\u06af\u0644\u06c1 \u062f\u06cc\u0634 \u0633\u0679\u06cc\u0646\u0688\u0631\u0688 \u0679\u0627\u0626\u0645"_s,
+		u"بنگلہ دیش سٹینڈرڈ ٹائم"_s,
 		""_s,
-		u"\u0628\u0646\u06af\u0644\u06c1 \u062f\u06cc\u0634 \u0633\u0645\u0631 \u0679\u0627\u0626\u0645"_s,
+		u"بنگلہ دیش سمر ٹائم"_s,
 		""_s,
-		u"\u0628\u0646\u06af\u0644\u06c1 \u062f\u06cc\u0634 \u0679\u0627\u0626\u0645"_s,
+		u"بنگلہ دیش ٹائم"_s,
 		""_s
 	}));
 	$var($StringArray, EMPTY_ZONE, $new($StringArray, {
@@ -315,7 +315,7 @@ $ObjectArray2* TimeZoneNames_ur_IN::getContents() {
 		""_s
 	}));
 	$var($StringArray, Tajikistan, $new($StringArray, {
-		u"\u062a\u0627\u062c\u06a9\u0633\u062a\u0627\u0646 \u0679\u0627\u0626\u0645"_s,
+		u"تاجکستان ٹائم"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -323,15 +323,15 @@ $ObjectArray2* TimeZoneNames_ur_IN::getContents() {
 		""_s
 	}));
 	$var($StringArray, Uzbekistan, $new($StringArray, {
-		u"\u0627\u0632\u0628\u06a9\u0633\u062a\u0627\u0646 \u0633\u0679\u06cc\u0646\u0688\u0631\u0688 \u0679\u0627\u0626\u0645"_s,
+		u"ازبکستان سٹینڈرڈ ٹائم"_s,
 		""_s,
-		u"\u0627\u0632\u0628\u06a9\u0633\u062a\u0627\u0646 \u0633\u0645\u0631 \u0679\u0627\u0626\u0645"_s,
+		u"ازبکستان سمر ٹائم"_s,
 		""_s,
-		u"\u0627\u0632\u0628\u06a9\u0633\u062a\u0627\u0646 \u0679\u0627\u0626\u0645"_s,
+		u"ازبکستان ٹائم"_s,
 		""_s
 	}));
 	$var($StringArray, Afghanistan, $new($StringArray, {
-		u"\u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646 \u0679\u0627\u0626\u0645"_s,
+		u"افغانستان ٹائم"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -339,23 +339,23 @@ $ObjectArray2* TimeZoneNames_ur_IN::getContents() {
 		""_s
 	}));
 	$var($StringArray, New_Zealand, $new($StringArray, {
-		u"\u0646\u06cc\u0648\u0632\u06cc \u0644\u06cc\u0646\u0688 \u0633\u0679\u06cc\u0646\u0688\u0631\u0688 \u0679\u0627\u0626\u0645"_s,
+		u"نیوزی لینڈ سٹینڈرڈ ٹائم"_s,
 		""_s,
-		u"\u0646\u06cc\u0648\u0632\u06cc \u0644\u06cc\u0646\u0688 \u0688\u06d2 \u0644\u0627\u0626\u0679 \u0679\u0627\u0626\u0645"_s,
+		u"نیوزی لینڈ ڈے لائٹ ٹائم"_s,
 		""_s,
-		u"\u0646\u06cc\u0648\u0632\u06cc \u0644\u06cc\u0646\u0688 \u0679\u0627\u0626\u0645"_s,
+		u"نیوزی لینڈ ٹائم"_s,
 		""_s
 	}));
 	$var($StringArray, Turkmenistan, $new($StringArray, {
-		u"\u062a\u0631\u06a9\u0645\u0627\u0646\u0633\u062a\u0627\u0646 \u0633\u0679\u06cc\u0646\u0688\u0631\u0688 \u0679\u0627\u0626\u0645"_s,
+		u"ترکمانستان سٹینڈرڈ ٹائم"_s,
 		""_s,
-		u"\u062a\u0631\u06a9\u0645\u0627\u0646\u0633\u062a\u0627\u0646 \u0633\u0645\u0631 \u0679\u0627\u0626\u0645"_s,
+		u"ترکمانستان سمر ٹائم"_s,
 		""_s,
-		u"\u062a\u0631\u06a9\u0645\u0627\u0646\u0633\u062a\u0627\u0646 \u0679\u0627\u0626\u0645"_s,
+		u"ترکمانستان ٹائم"_s,
 		""_s
 	}));
 	$var($StringArray, French_Guiana, $new($StringArray, {
-		u"\u0641\u0631\u06cc\u0646\u0686 \u06af\u06cc\u0627\u0646\u0627 \u0679\u0627\u0626\u0645"_s,
+		u"فرینچ گیانا ٹائم"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -363,15 +363,15 @@ $ObjectArray2* TimeZoneNames_ur_IN::getContents() {
 		""_s
 	}));
 	$var($StringArray, Europe_Central, $new($StringArray, {
-		u"\u0648\u0633\u0637\u06cc \u06cc\u0648\u0631\u067e \u06a9\u0627 \u0645\u0639\u06cc\u0627\u0631\u06cc \u0648\u0642\u062a"_s,
+		u"وسطی یورپ کا معیاری وقت"_s,
 		""_s,
-		u"\u0648\u0633\u0637\u06cc \u06cc\u0648\u0631\u067e \u06a9\u0627 \u0645\u0648\u0633\u0645 \u06af\u0631\u0645\u0627 \u06a9\u0627 \u0648\u0642\u062a"_s,
+		u"وسطی یورپ کا موسم گرما کا وقت"_s,
 		""_s,
-		u"\u0648\u0633\u0637\u06cc \u06cc\u0648\u0631\u067e \u06a9\u0627 \u0648\u0642\u062a"_s,
+		u"وسطی یورپ کا وقت"_s,
 		""_s
 	}));
 	$var($StringArray, Kazakhstan_Eastern, $new($StringArray, {
-		u"\u0645\u0634\u0631\u0642\u06cc \u0642\u0632\u0627\u062e\u0633\u062a\u0627\u0646 \u0679\u0627\u0626\u0645"_s,
+		u"مشرقی قزاخستان ٹائم"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -379,7 +379,7 @@ $ObjectArray2* TimeZoneNames_ur_IN::getContents() {
 		""_s
 	}));
 	$var($StringArray, Kazakhstan_Western, $new($StringArray, {
-		u"\u0645\u063a\u0631\u0628\u06cc \u0642\u0632\u0627\u062e\u0633\u062a\u0627\u0646 \u0679\u0627\u0626\u0645"_s,
+		u"مغربی قزاخستان ٹائم"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -929,35 +929,35 @@ $ObjectArray2* TimeZoneNames_ur_IN::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Africa/Accra"_s),
-			$of(u"\u0627\u06a9\u0631\u0627"_s)
+			$of(u"اکرا"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Thule"_s),
-			$of(u"\u062a\u06be\u0648\u0644\u06d2"_s)
+			$of(u"تھولے"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Budapest"_s),
-			$of(u"\u0628\u0648\u0688\u0627\u067e\u06cc\u0633\u0679"_s)
+			$of(u"بوڈاپیسٹ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Glace_Bay"_s),
-			$of(u"\u06af\u0644\u06cc\u0633 \u0628\u06d2"_s)
+			$of(u"گلیس بے"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Goose_Bay"_s),
-			$of(u"\u06af\u0648\u0633 \u0628\u06d2"_s)
+			$of(u"گوس بے"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Grand_Turk"_s),
-			$of(u"\u06af\u0631\u06cc\u0646\u0688 \u062a\u0631\u06a9"_s)
+			$of(u"گرینڈ ترک"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Scoresbysund"_s),
-			$of(u"\u0627\u062a\u062a\u0648\u0642\u0642\u0648\u0631\u062a\u0648\u0631\u0645\u06cc\u062a"_s)
+			$of(u"اتتوققورتورمیت"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Cambridge_Bay"_s),
-			$of(u"\u06a9\u06cc\u0645\u0628\u0631\u062c \u0628\u06d2"_s)
+			$of(u"کیمبرج بے"_s)
 		})
 	}));
 	return data;

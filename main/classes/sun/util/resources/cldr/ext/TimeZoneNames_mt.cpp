@@ -59,11 +59,11 @@ $ObjectArray2* TimeZoneNames_mt::getContents() {
 		""_s
 	}));
 	$var($StringArray, Europe_Central, $new($StringArray, {
-		u"\u0126in \u010aentrali Ewropew Standard"_s,
+		u"Ħin Ċentrali Ewropew Standard"_s,
 		"CET"_s,
-		u"\u0126in \u010aentrali Ewropew tas-Sajf"_s,
+		u"Ħin Ċentrali Ewropew tas-Sajf"_s,
 		"CEST"_s,
-		u"\u0126in \u010aentrali Ewropew"_s,
+		u"Ħin Ċentrali Ewropew"_s,
 		"CET"_s
 	}));
 	$var($StringArray, Europe_Eastern, $new($StringArray, {
@@ -577,7 +577,7 @@ $ObjectArray2* TimeZoneNames_mt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Etc/Unknown"_s),
-			$of(u"Belt Mhux Mag\u0127ruf"_s)
+			$of(u"Belt Mhux Magħruf"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Kiev"_s),
@@ -713,7 +713,7 @@ $ObjectArray2* TimeZoneNames_mt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Paris"_s),
-			$of(u"Pari\u0121i"_s)
+			$of(u"Pariġi"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Sofia"_s),
@@ -949,7 +949,7 @@ $ObjectArray2* TimeZoneNames_mt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Africa/Algiers"_s),
-			$of(u"l-Al\u0121ier"_s)
+			$of(u"l-Alġier"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Africa/Conakry"_s),
@@ -1029,7 +1029,7 @@ $ObjectArray2* TimeZoneNames_mt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Jerusalem"_s),
-			$of(u"\u0120erusalemm"_s)
+			$of(u"Ġerusalemm"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Kamchatka"_s),
@@ -1189,7 +1189,7 @@ $ObjectArray2* TimeZoneNames_mt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Jamaica"_s),
-			$of(u"il-\u0120amajka"_s)
+			$of(u"il-Ġamajka"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Managua"_s),
@@ -1441,7 +1441,7 @@ $ObjectArray2* TimeZoneNames_mt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Gibraltar"_s),
-			$of(u"\u0120ibilt\u00e0"_s)
+			$of(u"Ġibiltà"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Ljubljana"_s),

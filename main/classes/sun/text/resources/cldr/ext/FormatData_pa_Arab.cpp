@@ -40,38 +40,38 @@ void FormatData_pa_Arab::init$() {
 $ObjectArray2* FormatData_pa_Arab::getContents() {
 	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_MonthNames, $new($StringArray, {
-		u"\u062c\u0646\u0648\u0631\u06cc"_s,
-		u"\u0641\u0631\u0648\u0631\u06cc"_s,
-		u"\u0645\u0627\u0631\u0686"_s,
-		u"\u0627\u067e\u0631\u06cc\u0644"_s,
-		u"\u0645\u0626"_s,
-		u"\u062c\u0648\u0646"_s,
-		u"\u062c\u0648\u0644\u0627\u0626\u06cc"_s,
-		u"\u0627\u06af\u0633\u062a"_s,
-		u"\u0633\u062a\u0645\u0628\u0631"_s,
-		u"\u0627\u06a9\u062a\u0648\u0628\u0631"_s,
-		u"\u0646\u0648\u0645\u0628\u0631"_s,
-		u"\u062f\u0633\u0645\u0628\u0631"_s,
+		u"جنوری"_s,
+		u"فروری"_s,
+		u"مارچ"_s,
+		u"اپریل"_s,
+		u"مئ"_s,
+		u"جون"_s,
+		u"جولائی"_s,
+		u"اگست"_s,
+		u"ستمبر"_s,
+		u"اکتوبر"_s,
+		u"نومبر"_s,
+		u"دسمبر"_s,
 		""_s
 	}));
 	$var($StringArray, metaValue_DayNames, $new($StringArray, {
-		u"\u0627\u062a\u0648\u0627\u0631"_s,
-		u"\u067e\u06cc\u0631"_s,
-		u"\u0645\u0646\u06af\u0644"_s,
-		u"\u0628\u064f\u062f\u06be"_s,
-		u"\u062c\u0645\u0639\u0631\u0627\u062a"_s,
-		u"\u062c\u0645\u0639\u06c1"_s,
-		u"\u06c1\u0641\u062a\u06c1"_s
+		u"اتوار"_s,
+		u"پیر"_s,
+		u"منگل"_s,
+		u"بُدھ"_s,
+		u"جمعرات"_s,
+		u"جمعہ"_s,
+		u"ہفتہ"_s
 	}));
 	$var($StringArray, metaValue_QuarterNames, $new($StringArray, {
-		u"\u0686\u0648\u062a\u06be\u0627\u064a \u067e\u06c1\u0644\u0627\u06ba"_s,
-		u"\u0686\u0648\u062a\u06be\u0627\u064a \u062f\u0648\u062c\u0627"_s,
-		u"\u0686\u0648\u062a\u06be\u0627\u064a \u062a\u064a\u062c\u0627"_s,
-		u"\u0686\u0648\u062a\u06be\u0627\u064a \u0686\u0648\u062a\u06be\u0627"_s
+		u"چوتھاي پہلاں"_s,
+		u"چوتھاي دوجا"_s,
+		u"چوتھاي تيجا"_s,
+		u"چوتھاي چوتھا"_s
 	}));
 	$var($StringArray, metaValue_long_Eras, $new($StringArray, {
-		u"\u0627\u064a\u0633\u0627\u067e\u0648\u0631\u0648"_s,
-		u"\u0633\u06ba"_s
+		u"ايساپورو"_s,
+		u"سں"_s
 	}));
 	$var($StringArray, metaValue_TimePatterns, $new($StringArray, {
 		"h:mm:ss a zzzz"_s,
@@ -93,7 +93,7 @@ $ObjectArray2* FormatData_pa_Arab::getContents() {
 	}));
 	$var($StringArray, metaValue_arabext_NumberPatterns, $new($StringArray, {
 		"#,##0.###"_s,
-		u"\u00a4\u00a0#,##0.00"_s,
+		u"¤ #,##0.00"_s,
 		"#,##0%"_s,
 		""_s
 	}));
@@ -104,21 +104,21 @@ $ObjectArray2* FormatData_pa_Arab::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.year"_s),
-			$of(u"\u0648\u0631\u06be\u0627"_s)
+			$of(u"ورھا"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("arabext.NumberElements"_s),
 			$of($$new($StringArray, {
-				u"\u066b"_s,
-				u"\u066c"_s,
-				u"\u061b"_s,
-				u"\u066a"_s,
-				u"\u06f0"_s,
+				u"٫"_s,
+				u"٬"_s,
+				u"؛"_s,
+				u"٪"_s,
+				u"۰"_s,
 				"#"_s,
 				u"\u200e-\u200e"_s,
-				u"\u00d7\u06f1\u06f0^"_s,
-				u"\u0609"_s,
-				u"\u221e"_s,
+				u"×۱۰^"_s,
+				u"؉"_s,
+				u"∞"_s,
 				"NaN"_s,
 				""_s,
 				""_s
@@ -138,7 +138,7 @@ $ObjectArray2* FormatData_pa_Arab::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.zone"_s),
-			$of(u"\u0679\u067e\u06c1"_s)
+			$of(u"ٹپہ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("japanese.TimePatterns"_s),
@@ -190,7 +190,7 @@ $ObjectArray2* FormatData_pa_Arab::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.weekday"_s),
-			$of(u"\u06c1\u0641\u062a\u06d2 \u062f\u0627 \u062f\u0646"_s)
+			$of(u"ہفتے دا دن"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("buddhist.MonthNames"_s),
@@ -207,8 +207,8 @@ $ObjectArray2* FormatData_pa_Arab::getContents() {
 				"#"_s,
 				u"\u200e-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
+				u"‰"_s,
+				u"∞"_s,
 				"NaN"_s,
 				""_s,
 				""_s
@@ -228,7 +228,7 @@ $ObjectArray2* FormatData_pa_Arab::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.minute"_s),
-			$of(u"\u0645\u0646\u0679"_s)
+			$of(u"منٹ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("islamic.DayAbbreviations"_s),
@@ -256,7 +256,7 @@ $ObjectArray2* FormatData_pa_Arab::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.month"_s),
-			$of(u"\u0645\u06c1\u064a\u0646\u0627"_s)
+			$of(u"مہينا"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("buddhist.DatePatterns"_s),
@@ -272,7 +272,7 @@ $ObjectArray2* FormatData_pa_Arab::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.week"_s),
-			$of(u"\u06c1\u0641\u062a\u06c1"_s)
+			$of(u"ہفتہ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("DayAbbreviations"_s),
@@ -321,7 +321,7 @@ $ObjectArray2* FormatData_pa_Arab::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.hour"_s),
-			$of(u"\u06af\u06be\u0646\u0679\u0627"_s)
+			$of(u"گھنٹا"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("buddhist.TimePatterns"_s),

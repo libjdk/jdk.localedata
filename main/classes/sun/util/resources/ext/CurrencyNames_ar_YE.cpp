@@ -39,7 +39,7 @@ void CurrencyNames_ar_YE::init$() {
 $ObjectArray2* CurrencyNames_ar_YE::getContents() {
 	return $new($ObjectArray2, {$$new($ObjectArray, {
 		$of("YER"_s),
-		$of(u"\u0631.\u064a.\u200f"_s)
+		$of(u"ر.ي.\u200f"_s)
 	})});
 }
 

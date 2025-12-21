@@ -47,9 +47,9 @@ $ObjectArray2* FormatData_tzm::getContents() {
 		"Mayyu"_s,
 		"Yunyu"_s,
 		"Yulyuz"_s,
-		u"\u0194uct"_s,
+		u"Ɣuct"_s,
 		"Cutanbir"_s,
-		u"K\u1e6duber"_s,
+		u"Kṭuber"_s,
 		"Nwanbir"_s,
 		"Dujanbir"_s,
 		""_s
@@ -62,9 +62,9 @@ $ObjectArray2* FormatData_tzm::getContents() {
 		"May"_s,
 		"Yun"_s,
 		"Yul"_s,
-		u"\u0194uc"_s,
+		u"Ɣuc"_s,
 		"Cut"_s,
-		u"K\u1e6du"_s,
+		u"Kṭu"_s,
 		"Nwa"_s,
 		"Duj"_s,
 		""_s
@@ -77,7 +77,7 @@ $ObjectArray2* FormatData_tzm::getContents() {
 		"M"_s,
 		"Y"_s,
 		"Y"_s,
-		u"\u0194"_s,
+		u"Ɣ"_s,
 		"C"_s,
 		"K"_s,
 		"N"_s,
@@ -91,7 +91,7 @@ $ObjectArray2* FormatData_tzm::getContents() {
 		"Akras"_s,
 		"Akwas"_s,
 		"Asimwas"_s,
-		u"Asi\u1e0dyas"_s
+		u"Asiḍyas"_s
 	}));
 	$var($StringArray, metaValue_DayAbbreviations, $new($StringArray, {
 		"Asa"_s,
@@ -100,7 +100,7 @@ $ObjectArray2* FormatData_tzm::getContents() {
 		"Akr"_s,
 		"Akw"_s,
 		"Asm"_s,
-		u"As\u1e0d"_s
+		u"Asḍ"_s
 	}));
 	$var($StringArray, metaValue_DayNarrows, $new($StringArray, {
 		"A"_s,
@@ -125,7 +125,7 @@ $ObjectArray2* FormatData_tzm::getContents() {
 	}));
 	$var($StringArray, metaValue_AmPmMarkers, $new($StringArray, {
 		"Zdat azal"_s,
-		u"\u1e0ceffir aza"_s,
+		u"Ḍeffir aza"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -138,8 +138,8 @@ $ObjectArray2* FormatData_tzm::getContents() {
 		""_s
 	}));
 	$var($StringArray, metaValue_Eras, $new($StringArray, {
-		u"Z\u0190"_s,
-		u"\u1e0c\u0190"_s
+		u"ZƐ"_s,
+		u"ḌƐ"_s
 	}));
 	$var($StringArray, metaValue_java_time_buddhist_DatePatterns, $new($StringArray, {
 		"EEEE, d MMMM y G"_s,
@@ -257,8 +257,8 @@ $ObjectArray2* FormatData_tzm::getContents() {
 		$$new($ObjectArray, {
 			$of("long.Eras"_s),
 			$of($$new($StringArray, {
-				u"Zdat \u0190isa (TA\u0194)"_s,
-				u"\u1e0ceffir \u0190isa (TA\u0194)"_s
+				u"Zdat Ɛisa (TAƔ)"_s,
+				u"Ḍeffir Ɛisa (TAƔ)"_s
 			}))
 		}),
 		$$new($ObjectArray, {
@@ -289,15 +289,15 @@ $ObjectArray2* FormatData_tzm::getContents() {
 			$of("latn.NumberElements"_s),
 			$of($$new($StringArray, {
 				","_s,
-				u"\u00a0"_s,
+				u" "_s,
 				";"_s,
 				"%"_s,
 				"0"_s,
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
+				u"‰"_s,
+				u"∞"_s,
 				"NaN"_s,
 				""_s,
 				""_s
@@ -464,7 +464,7 @@ $ObjectArray2* FormatData_tzm::getContents() {
 			$of("latn.NumberPatterns"_s),
 			$of($$new($StringArray, {
 				"#,##0.###"_s,
-				u"#,##0.00\u00a0\u00a4"_s,
+				u"#,##0.00 ¤"_s,
 				"#,##0%"_s,
 				""_s
 			}))

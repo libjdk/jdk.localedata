@@ -40,41 +40,41 @@ void FormatData_jgo::init$() {
 $ObjectArray2* FormatData_jgo::getContents() {
 	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_MonthNames, $new($StringArray, {
-		u"Ndu\u014bmbi Sa\u014b"_s,
-		u"P\u025bsa\u014b P\u025b\u0301p\u00e1"_s,
-		u"P\u025bsa\u014b P\u025b\u0301t\u00e1t"_s,
-		u"P\u025bsa\u014b P\u025b\u0301n\u025b\u0301kwa"_s,
-		u"P\u025bsa\u014b Pataa"_s,
-		u"P\u025bsa\u014b P\u025b\u0301n\u025b\u0301nt\u00fak\u00fa"_s,
-		u"P\u025bsa\u014b Saamb\u00e1"_s,
-		u"P\u025bsa\u014b P\u025b\u0301n\u025b\u0301f\u0254m"_s,
-		u"P\u025bsa\u014b P\u025b\u0301n\u025b\u0301pf\u00fa\ua78b\u00fa"_s,
-		u"P\u025bsa\u014b N\u025bg\u025b\u0301m"_s,
-		u"P\u025bsa\u014b Nts\u0254\u030cpm\u0254\u0301"_s,
-		u"P\u025bsa\u014b Nts\u0254\u030cpp\u00e1"_s,
+		u"Nduŋmbi Saŋ"_s,
+		u"Pɛsaŋ Pɛ́pá"_s,
+		u"Pɛsaŋ Pɛ́tát"_s,
+		u"Pɛsaŋ Pɛ́nɛ́kwa"_s,
+		u"Pɛsaŋ Pataa"_s,
+		u"Pɛsaŋ Pɛ́nɛ́ntúkú"_s,
+		u"Pɛsaŋ Saambá"_s,
+		u"Pɛsaŋ Pɛ́nɛ́fɔm"_s,
+		u"Pɛsaŋ Pɛ́nɛ́pfúꞋú"_s,
+		u"Pɛsaŋ Nɛgɛ́m"_s,
+		u"Pɛsaŋ Ntsɔ̌pmɔ́"_s,
+		u"Pɛsaŋ Ntsɔ̌ppá"_s,
 		""_s
 	}));
 	$var($StringArray, metaValue_DayNames, $new($StringArray, {
-		u"S\u0254\u0301ndi"_s,
-		u"M\u0254\u0301ndi"_s,
-		u"\u00c1pta M\u0254\u0301ndi"_s,
-		u"W\u025b\u0301n\u025bs\u025bd\u025b"_s,
-		u"T\u0254\u0301s\u025bd\u025b"_s,
-		u"F\u025bl\u00e2y\u025bd\u025b"_s,
-		u"S\u00e1sid\u025b"_s
+		u"Sɔ́ndi"_s,
+		u"Mɔ́ndi"_s,
+		u"Ápta Mɔ́ndi"_s,
+		u"Wɛ́nɛsɛdɛ"_s,
+		u"Tɔ́sɛdɛ"_s,
+		u"Fɛlâyɛdɛ"_s,
+		u"Sásidɛ"_s
 	}));
 	$var($StringArray, metaValue_DayNarrows, $new($StringArray, {
-		u"S\u0254\u0301"_s,
-		u"M\u0254\u0301"_s,
-		u"\u00c1M"_s,
-		u"W\u025b\u0301"_s,
-		u"T\u0254\u0301"_s,
-		u"F\u025b"_s,
-		u"S\u00e1"_s
+		u"Sɔ́"_s,
+		u"Mɔ́"_s,
+		u"ÁM"_s,
+		u"Wɛ́"_s,
+		u"Tɔ́"_s,
+		u"Fɛ"_s,
+		u"Sá"_s
 	}));
 	$var($StringArray, metaValue_AmPmMarkers, $new($StringArray, {
-		u"mba\ua78cmba\ua78c"_s,
-		u"\u014bka mb\u0254\u0301t nji"_s,
+		u"mbaꞌmbaꞌ"_s,
+		u"ŋka mbɔ́t nji"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -119,7 +119,7 @@ $ObjectArray2* FormatData_jgo::getContents() {
 		"GGGG y MMM d"_s,
 		"G y-MM-dd"_s
 	}));
-	$var($String, metaValue_calendarname_gregorian, u"m\u025bl\u025b\u0301\ua78c-m\u025bk\u00e1t"_s);
+	$var($String, metaValue_calendarname_gregorian, u"mɛlɛ́ꞌ-mɛkát"_s);
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("MonthNames"_s),
@@ -211,8 +211,8 @@ $ObjectArray2* FormatData_jgo::getContents() {
 		$$new($ObjectArray, {
 			$of("long.Eras"_s),
 			$of($$new($StringArray, {
-				u"ts\u025btts\u025bt m\u025b\u014bgu\ua78c mi \u025b\u0301 l\u025b\u025bn\u025b K\u025bl\u00eds\u025bt\u0254 g\u0254 \u0144\u0254\u0301"_s,
-				u"ts\u025btts\u025bt m\u025b\u014bgu\ua78c mi \u025b\u0301 f\u00fan\u025b K\u025bl\u00eds\u025bt\u0254 t\u0254\u0301 m\u0254\u0301"_s
+				u"tsɛttsɛt mɛŋguꞌ mi ɛ́ lɛɛnɛ Kɛlísɛtɔ gɔ ńɔ́"_s,
+				u"tsɛttsɛt mɛŋguꞌ mi ɛ́ fúnɛ Kɛlísɛtɔ tɔ́ mɔ́"_s
 			}))
 		}),
 		$$new($ObjectArray, {
@@ -255,8 +255,8 @@ $ObjectArray2* FormatData_jgo::getContents() {
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
+				u"‰"_s,
+				u"∞"_s,
 				"NaN"_s,
 				""_s,
 				""_s
@@ -387,7 +387,7 @@ $ObjectArray2* FormatData_jgo::getContents() {
 			$of("latn.NumberPatterns"_s),
 			$of($$new($StringArray, {
 				"#,##0.###"_s,
-				u"\u00a4\u00a0#,##0.00"_s,
+				u"¤ #,##0.00"_s,
 				"#,##0%"_s,
 				""_s
 			}))

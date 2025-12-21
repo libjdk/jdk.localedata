@@ -222,7 +222,7 @@ $ObjectArray2* LocaleNames_lg::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("CV"_s),
-			$of(u"Bizinga by\u2019e Kepu Veredi"_s)
+			$of(u"Bizinga by’e Kepu Veredi"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("CY"_s),
@@ -290,7 +290,7 @@ $ObjectArray2* LocaleNames_lg::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("FK"_s),
-			$of(u"Bizinga by\u2019eFalikalandi"_s)
+			$of(u"Bizinga by’eFalikalandi"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("FM"_s),
@@ -346,7 +346,7 @@ $ObjectArray2* LocaleNames_lg::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("GQ"_s),
-			$of(u"Gayana ey\u2019oku ekweta"_s)
+			$of(u"Gayana ey’oku ekweta"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("GR"_s),
@@ -402,7 +402,7 @@ $ObjectArray2* LocaleNames_lg::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("IO"_s),
-			$of(u"Bizinga by\u2019eCago"_s)
+			$of(u"Bizinga by’eCago"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("IQ"_s),
@@ -450,7 +450,7 @@ $ObjectArray2* LocaleNames_lg::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("KM"_s),
-			$of(u"Bizinga by\u2019eKomoro"_s)
+			$of(u"Bizinga by’eKomoro"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("KN"_s),
@@ -458,11 +458,11 @@ $ObjectArray2* LocaleNames_lg::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("KP"_s),
-			$of(u"Koreya ey\u2019omumambuka"_s)
+			$of(u"Koreya ey’omumambuka"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("KR"_s),
-			$of(u"Koreya ey\u2019omumaserengeta"_s)
+			$of(u"Koreya ey’omumaserengeta"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("KW"_s),
@@ -554,7 +554,7 @@ $ObjectArray2* LocaleNames_lg::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("MP"_s),
-			$of(u"Bizinga bya Mariyana eby\u2019omumambuka"_s)
+			$of(u"Bizinga bya Mariyana eby’omumambuka"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("MQ"_s),
@@ -578,7 +578,7 @@ $ObjectArray2* LocaleNames_lg::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("MV"_s),
-			$of(u"Bizinga by\u2019eMalidive"_s)
+			$of(u"Bizinga by’eMalidive"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("MW"_s),
@@ -610,7 +610,7 @@ $ObjectArray2* LocaleNames_lg::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("NF"_s),
-			$of(u"Kizinga ky\u2019eNorofoko"_s)
+			$of(u"Kizinga ky’eNorofoko"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("NG"_s),
@@ -730,7 +730,7 @@ $ObjectArray2* LocaleNames_lg::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("SB"_s),
-			$of(u"Bizanga by\u2019eSolomooni"_s)
+			$of(u"Bizanga by’eSolomooni"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("SC"_s),
@@ -798,7 +798,7 @@ $ObjectArray2* LocaleNames_lg::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("TC"_s),
-			$of(u"Bizinga by\u2019eTaaka ne Kayikosi"_s)
+			$of(u"Bizinga by’eTaaka ne Kayikosi"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("TD"_s),
@@ -894,7 +894,7 @@ $ObjectArray2* LocaleNames_lg::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("VI"_s),
-			$of(u"Bizinga bya Virigini eby\u2019Amerika"_s)
+			$of(u"Bizinga bya Virigini eby’Amerika"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("VN"_s),

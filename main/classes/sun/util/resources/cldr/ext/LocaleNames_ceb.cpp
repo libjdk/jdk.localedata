@@ -440,7 +440,7 @@ $ObjectArray2* LocaleNames_ceb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("CI"_s),
-			$of(u"Cote d\u2019Ivoire"_s)
+			$of(u"Cote d’Ivoire"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("SY"_s),

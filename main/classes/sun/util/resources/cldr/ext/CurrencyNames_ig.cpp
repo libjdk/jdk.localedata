@@ -42,11 +42,11 @@ $ObjectArray2* CurrencyNames_ig::getContents() {
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("JPY"_s),
-			$of(u"\u00a5"_s)
+			$of(u"¥"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("NGN"_s),
-			$of(u"\u20a6"_s)
+			$of(u"₦"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("USD"_s),
@@ -170,7 +170,7 @@ $ObjectArray2* CurrencyNames_ig::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("cnh"_s),
-			$of(u"Ego Yuan Obodo China (nd\u1ecb bi na mmiri)"_s)
+			$of(u"Ego Yuan Obodo China (ndị bi na mmiri)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cny"_s),
@@ -182,11 +182,11 @@ $ObjectArray2* CurrencyNames_ig::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("crc"_s),
-			$of(u"Ego Col\u00f3n obodo Costa Rica"_s)
+			$of(u"Ego Colón obodo Costa Rica"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cuc"_s),
-			$of(u"Ego Peso e nwere ike \u1ecbgbanwe nke obodo Cuba"_s)
+			$of(u"Ego Peso e nwere ike ịgbanwe nke obodo Cuba"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cup"_s),
@@ -298,7 +298,7 @@ $ObjectArray2* CurrencyNames_ig::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ils"_s),
-			$of(u"Ego Shekel \u1ecdh\u1ee5r\u1ee5 obodo Israel"_s)
+			$of(u"Ego Shekel ọhụrụ obodo Israel"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("inr"_s),
@@ -314,7 +314,7 @@ $ObjectArray2* CurrencyNames_ig::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("isk"_s),
-			$of(u"Ego Kr\u00f3na obodo Iceland"_s)
+			$of(u"Ego Króna obodo Iceland"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("jmd"_s),
@@ -410,7 +410,7 @@ $ObjectArray2* CurrencyNames_ig::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("mop"_s),
-			$of(u"Ego Pataca nd\u1ecb Obodo Macanese"_s)
+			$of(u"Ego Pataca ndị Obodo Macanese"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mru"_s),
@@ -446,11 +446,11 @@ $ObjectArray2* CurrencyNames_ig::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ngn"_s),
-			$of(u"Na\u1ecbra"_s)
+			$of(u"Naịra"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("nio"_s),
-			$of(u"Ego C\u00f3rodoba obodo Nicaragua"_s)
+			$of(u"Ego Córodoba obodo Nicaragua"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("nok"_s),
@@ -562,7 +562,7 @@ $ObjectArray2* CurrencyNames_ig::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("stn"_s),
-			$of(u"Ego Dobra nke obodo S\u0101o Tom\u00e9 na Principe"_s)
+			$of(u"Ego Dobra nke obodo Sāo Tomé na Principe"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("syp"_s),
@@ -590,7 +590,7 @@ $ObjectArray2* CurrencyNames_ig::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("top"_s),
-			$of(u"Ego pa\u02bbanga obodo Tonga"_s)
+			$of(u"Ego paʻanga obodo Tonga"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("try"_s),
@@ -662,7 +662,7 @@ $ObjectArray2* CurrencyNames_ig::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("xxx"_s),
-			$of(u"Ego Amagh\u1ecb"_s)
+			$of(u"Ego Amaghị"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("yer"_s),

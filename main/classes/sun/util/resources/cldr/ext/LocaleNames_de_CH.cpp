@@ -58,7 +58,7 @@ $ObjectArray2* LocaleNames_de_CH::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("QO"_s),
-			$of(u"\u00c4usseres Ozeanien"_s)
+			$of(u"Äusseres Ozeanien"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("SB"_s),

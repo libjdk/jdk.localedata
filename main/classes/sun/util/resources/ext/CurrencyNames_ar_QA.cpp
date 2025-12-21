@@ -39,7 +39,7 @@ void CurrencyNames_ar_QA::init$() {
 $ObjectArray2* CurrencyNames_ar_QA::getContents() {
 	return $new($ObjectArray2, {$$new($ObjectArray, {
 		$of("QAR"_s),
-		$of(u"\u0631.\u0642.\u200f"_s)
+		$of(u"ر.ق.\u200f"_s)
 	})});
 }
 

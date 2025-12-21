@@ -506,7 +506,7 @@ $ObjectArray2* CurrencyNames_zu::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("THB"_s),
-			$of(u"\u0e3f"_s)
+			$of(u"฿"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("TJS"_s),
@@ -678,7 +678,7 @@ $ObjectArray2* CurrencyNames_zu::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("byr"_s),
-			$of(u"i-Belarusian Ruble (2000\u20132016)"_s)
+			$of(u"i-Belarusian Ruble (2000–2016)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bzd"_s),
@@ -714,7 +714,7 @@ $ObjectArray2* CurrencyNames_zu::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("crc"_s),
-			$of(u"i-Costa Rican Col\u00f3n"_s)
+			$of(u"i-Costa Rican Colón"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cuc"_s),
@@ -846,7 +846,7 @@ $ObjectArray2* CurrencyNames_zu::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("isk"_s),
-			$of(u"i-Icelandic Kr\u00f3na"_s)
+			$of(u"i-Icelandic Króna"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("jmd"_s),
@@ -958,7 +958,7 @@ $ObjectArray2* CurrencyNames_zu::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("mro"_s),
-			$of(u"i-Mauritanian Ouguiya (1973\u20132017)"_s)
+			$of(u"i-Mauritanian Ouguiya (1973–2017)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mru"_s),
@@ -998,7 +998,7 @@ $ObjectArray2* CurrencyNames_zu::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("nio"_s),
-			$of(u"i-Nicaraguan C\u00f3rdoba"_s)
+			$of(u"i-Nicaraguan Córdoba"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("nok"_s),
@@ -1110,11 +1110,11 @@ $ObjectArray2* CurrencyNames_zu::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("std"_s),
-			$of(u"i-S\u00e3o Tom\u00e9 kanye ne-Pr\u00edncipe Dobra (1977\u20132017)"_s)
+			$of(u"i-São Tomé kanye ne-Príncipe Dobra (1977–2017)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("stn"_s),
-			$of(u"i-S\u00e3o Tom\u00e9 kanye ne-Pr\u00edncipe Dobra"_s)
+			$of(u"i-São Tomé kanye ne-Príncipe Dobra"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("syp"_s),
@@ -1142,7 +1142,7 @@ $ObjectArray2* CurrencyNames_zu::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("top"_s),
-			$of(u"i-Tongan Pa\u02bbanga"_s)
+			$of(u"i-Tongan Paʻanga"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("try"_s),
@@ -1182,11 +1182,11 @@ $ObjectArray2* CurrencyNames_zu::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("vef"_s),
-			$of(u"i-Venezuelan Bol\u00edvar (2008\u20132018)"_s)
+			$of(u"i-Venezuelan Bolívar (2008–2018)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ves"_s),
-			$of(u"i-Venezuelan Bol\u00edvar"_s)
+			$of(u"i-Venezuelan Bolívar"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("vnd"_s),
@@ -1230,7 +1230,7 @@ $ObjectArray2* CurrencyNames_zu::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("zmk"_s),
-			$of(u"i-Zambian Kwacha (1968\u20132012)"_s)
+			$of(u"i-Zambian Kwacha (1968–2012)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("zmw"_s),

@@ -39,7 +39,7 @@ void CurrencyNames_hi_IN::init$() {
 $ObjectArray2* CurrencyNames_hi_IN::getContents() {
 	return $new($ObjectArray2, {$$new($ObjectArray, {
 		$of("INR"_s),
-		$of(u"\u0930\u0942"_s)
+		$of(u"रू"_s)
 	})});
 }
 

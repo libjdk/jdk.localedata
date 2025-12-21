@@ -43,13 +43,13 @@ $ObjectArray2* FormatData_rm::getContents() {
 		"da schaner"_s,
 		"da favrer"_s,
 		"da mars"_s,
-		u"d\u2019avrigl"_s,
+		u"d’avrigl"_s,
 		"da matg"_s,
 		"da zercladur"_s,
 		"da fanadur"_s,
-		u"d\u2019avust"_s,
+		u"d’avust"_s,
 		"da settember"_s,
-		u"d\u2019october"_s,
+		u"d’october"_s,
 		"da november"_s,
 		"da december"_s,
 		""_s
@@ -267,15 +267,15 @@ $ObjectArray2* FormatData_rm::getContents() {
 			$of("latn.NumberElements"_s),
 			$of($$new($StringArray, {
 				"."_s,
-				u"\u2019"_s,
+				u"’"_s,
 				";"_s,
 				"%"_s,
 				"0"_s,
 				"#"_s,
-				u"\u2212"_s,
+				u"−"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
+				u"‰"_s,
+				u"∞"_s,
 				"NaN"_s,
 				""_s,
 				""_s
@@ -411,7 +411,7 @@ $ObjectArray2* FormatData_rm::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.zone"_s),
-			$of(u"zona d\u2019urari"_s)
+			$of(u"zona d’urari"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("japanese.QuarterAbbreviations"_s),
@@ -439,7 +439,7 @@ $ObjectArray2* FormatData_rm::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.weekday"_s),
-			$of(u"di da l\u2019emna"_s)
+			$of(u"di da l’emna"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("japanese.MonthAbbreviations"_s),
@@ -576,9 +576,9 @@ $ObjectArray2* FormatData_rm::getContents() {
 			$of("latn.NumberPatterns"_s),
 			$of($$new($StringArray, {
 				"#,##0.###"_s,
-				u"#,##0.00\u00a0\u00a4"_s,
-				u"#,##0\u00a0%"_s,
-				u"#,##0.00\u00a0\u00a4"_s
+				u"#,##0.00 ¤"_s,
+				u"#,##0 %"_s,
+				u"#,##0.00 ¤"_s
 			}))
 		}),
 		$$new($ObjectArray, {

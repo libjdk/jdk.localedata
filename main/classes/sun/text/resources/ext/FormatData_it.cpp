@@ -133,11 +133,11 @@ $ObjectArray2* FormatData_it::getContents() {
 			$of("DayNames"_s),
 			$of($$new($StringArray, {
 				"domenica"_s,
-				u"luned\u00ec"_s,
-				u"marted\u00ec"_s,
-				u"mercoled\u00ec"_s,
-				u"gioved\u00ec"_s,
-				u"venerd\u00ec"_s,
+				u"lunedì"_s,
+				u"martedì"_s,
+				u"mercoledì"_s,
+				u"giovedì"_s,
+				u"venerdì"_s,
 				"sabato"_s
 			}))
 		}),
@@ -145,11 +145,11 @@ $ObjectArray2* FormatData_it::getContents() {
 			$of("standalone.DayNames"_s),
 			$of($$new($StringArray, {
 				"Domenica"_s,
-				u"Luned\u00ec"_s,
-				u"Marted\u00ec"_s,
-				u"Mercoled\u00ec"_s,
-				u"Gioved\u00ec"_s,
-				u"Venerd\u00ec"_s,
+				u"Lunedì"_s,
+				u"Martedì"_s,
+				u"Mercoledì"_s,
+				u"Giovedì"_s,
+				u"Venerdì"_s,
 				"Sabato"_s
 			}))
 		}),
@@ -202,9 +202,9 @@ $ObjectArray2* FormatData_it::getContents() {
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
-				u"\ufffd"_s
+				u"‰"_s,
+				u"∞"_s,
+				u"�"_s
 			}))
 		}),
 		$$new($ObjectArray, {

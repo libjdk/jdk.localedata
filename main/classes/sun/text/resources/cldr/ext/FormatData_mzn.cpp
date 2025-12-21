@@ -40,23 +40,23 @@ void FormatData_mzn::init$() {
 $ObjectArray2* FormatData_mzn::getContents() {
 	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_MonthNames, $new($StringArray, {
-		u"\u0698\u0627\u0646\u0648\u06cc\u0647"_s,
-		u"\u0641\u0648\u0631\u06cc\u0647"_s,
-		u"\u0645\u0627\u0631\u0633"_s,
-		u"\u0622\u0648\u0631\u06cc\u0644"_s,
-		u"\u0645\u0647"_s,
-		u"\u0698\u0648\u0626\u0646"_s,
-		u"\u0698\u0648\u0626\u06cc\u0647"_s,
-		u"\u0627\u0648\u062a"_s,
-		u"\u0633\u067e\u062a\u0627\u0645\u0628\u0631"_s,
-		u"\u0627\u06a9\u062a\u0628\u0631"_s,
-		u"\u0646\u0648\u0627\u0645\u0628\u0631"_s,
-		u"\u062f\u0633\u0627\u0645\u0628\u0631"_s,
+		u"ژانویه"_s,
+		u"فوریه"_s,
+		u"مارس"_s,
+		u"آوریل"_s,
+		u"مه"_s,
+		u"ژوئن"_s,
+		u"ژوئیه"_s,
+		u"اوت"_s,
+		u"سپتامبر"_s,
+		u"اکتبر"_s,
+		u"نوامبر"_s,
+		u"دسامبر"_s,
 		""_s
 	}));
 	$var($StringArray, metaValue_Eras, $new($StringArray, {
-		u"\u067e.\u0645"_s,
-		u"\u0645."_s
+		u"پ.م"_s,
+		u"م."_s
 	}));
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
@@ -65,21 +65,21 @@ $ObjectArray2* FormatData_mzn::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.year"_s),
-			$of(u"\u0633\u0627\u0644"_s)
+			$of(u"سال"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("arabext.NumberElements"_s),
 			$of($$new($StringArray, {
-				u"\u066b"_s,
-				u"\u066c"_s,
-				u"\u061b"_s,
-				u"\u066a"_s,
-				u"\u06f0"_s,
+				u"٫"_s,
+				u"٬"_s,
+				u"؛"_s,
+				u"٪"_s,
+				u"۰"_s,
 				"#"_s,
 				u"\u200e-\u200e"_s,
-				u"\u00d7\u06f1\u06f0^"_s,
-				u"\u0609"_s,
-				u"\u221e"_s,
+				u"×۱۰^"_s,
+				u"؉"_s,
+				u"∞"_s,
 				"NaN"_s,
 				""_s,
 				""_s
@@ -87,24 +87,24 @@ $ObjectArray2* FormatData_mzn::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.zone"_s),
-			$of(u"\u0632\u0645\u0648\u0646\u06cc \u0645\u0646\u0642\u0637\u0647"_s)
+			$of(u"زمونی منقطه"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("field.month"_s),
-			$of(u"\u0645\u0627\u0647"_s)
+			$of(u"ماه"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("arabext.NumberPatterns"_s),
 			$of($$new($StringArray, {
 				"#,##0.###"_s,
-				u"\u00a4\u00a0#,##0.00"_s,
+				u"¤ #,##0.00"_s,
 				"#,##0%"_s,
 				""_s
 			}))
 		}),
 		$$new($ObjectArray, {
 			$of("field.second"_s),
-			$of(u"\u062b\u0627\u0646\u06cc\u0647"_s)
+			$of(u"ثانیه"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("roc.MonthNames"_s),
@@ -116,7 +116,7 @@ $ObjectArray2* FormatData_mzn::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.week"_s),
-			$of(u"\u0647\u0641\u062a\u0647"_s)
+			$of(u"هفته"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("DefaultNumberingSystem"_s),
@@ -137,8 +137,8 @@ $ObjectArray2* FormatData_mzn::getContents() {
 		$$new($ObjectArray, {
 			$of("long.Eras"_s),
 			$of($$new($StringArray, {
-				u"\u0642\u0628\u0644 \u0645\u06cc\u0644\u0627\u062f"_s,
-				u"\u0628\u0639\u062f \u0645\u06cc\u0644\u0627\u062f"_s
+				u"قبل میلاد"_s,
+				u"بعد میلاد"_s
 			}))
 		}),
 		$$new($ObjectArray, {
@@ -147,7 +147,7 @@ $ObjectArray2* FormatData_mzn::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.weekday"_s),
-			$of(u"\u0647\u0641\u062a\u0647\u200c\u06cc \u0650\u0631\u0648\u0632"_s)
+			$of(u"هفته\u200cی ِروز"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("MonthAbbreviations"_s),
@@ -159,7 +159,7 @@ $ObjectArray2* FormatData_mzn::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.hour"_s),
-			$of(u"\u0633\u0627\u0639\u0650\u062a"_s)
+			$of(u"ساعِت"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("japanese.MonthAbbreviations"_s),
@@ -167,11 +167,11 @@ $ObjectArray2* FormatData_mzn::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.minute"_s),
-			$of(u"\u062f\u0642\u06cc\u0642\u0647"_s)
+			$of(u"دقیقه"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("field.era"_s),
-			$of(u"\u062a\u0642\u0648\u06cc\u0645"_s)
+			$of(u"تقویم"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("standalone.MonthNames"_s),
@@ -183,7 +183,7 @@ $ObjectArray2* FormatData_mzn::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.dayperiod"_s),
-			$of(u"\u0635\u0648\u0627\u062d\u06cc/\u0638\u064f\u0631"_s)
+			$of(u"صواحی/ظُر"_s)
 		})
 	}));
 	return data;

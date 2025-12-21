@@ -40,18 +40,18 @@ void FormatData_yav::init$() {
 $ObjectArray2* FormatData_yav::getContents() {
 	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_MonthNames, $new($StringArray, {
-		u"pik\u00edt\u00edk\u00edtie, o\u00f3l\u00ed \u00fa kut\u00faan"_s,
-		u"si\u025by\u025b\u0301, o\u00f3li \u00fa k\u00e1nd\u00ed\u025b"_s,
-		u"\u0254ns\u00famb\u0254l, o\u00f3li \u00fa k\u00e1t\u00e1t\u00fa\u025b"_s,
-		u"mesi\u014b, o\u00f3li \u00fa k\u00e9nie"_s,
-		u"ensil, o\u00f3li \u00fa k\u00e1t\u00e1nu\u025b"_s,
-		u"\u0254s\u0254n"_s,
+		u"pikítíkítie, oólí ú kutúan"_s,
+		u"siɛyɛ́, oóli ú kándíɛ"_s,
+		u"ɔnsúmbɔl, oóli ú kátátúɛ"_s,
+		u"mesiŋ, oóli ú kénie"_s,
+		u"ensil, oóli ú kátánuɛ"_s,
+		u"ɔsɔn"_s,
 		"efute"_s,
-		u"pisuy\u00fa"_s,
-		u"im\u025b\u014b i pu\u0254s"_s,
-		u"im\u025b\u014b i put\u00fak,o\u00f3li \u00fa k\u00e1t\u00ed\u025b"_s,
-		u"makandik\u025b"_s,
-		u"pil\u0254nd\u0254\u0301"_s,
+		u"pisuyú"_s,
+		u"imɛŋ i puɔs"_s,
+		u"imɛŋ i putúk,oóli ú kátíɛ"_s,
+		u"makandikɛ"_s,
+		u"pilɔndɔ́"_s,
 		""_s
 	}));
 	$var($StringArray, metaValue_MonthAbbreviations, $new($StringArray, {
@@ -70,13 +70,13 @@ $ObjectArray2* FormatData_yav::getContents() {
 		""_s
 	}));
 	$var($StringArray, metaValue_DayNames, $new($StringArray, {
-		u"s\u0254\u0301ndi\u025b"_s,
-		u"m\u00f3ndie"_s,
-		u"mu\u00e1ny\u00e1\u014bm\u00f3ndie"_s,
-		u"met\u00fakp\u00ed\u00e1p\u025b"_s,
-		u"k\u00fap\u00e9limet\u00fakpiap\u025b"_s,
-		u"fel\u00e9te"_s,
-		u"s\u00e9sel\u00e9"_s
+		u"sɔ́ndiɛ"_s,
+		u"móndie"_s,
+		u"muányáŋmóndie"_s,
+		u"metúkpíápɛ"_s,
+		u"kúpélimetúkpiapɛ"_s,
+		u"feléte"_s,
+		u"séselé"_s
 	}));
 	$var($StringArray, metaValue_DayAbbreviations, $new($StringArray, {
 		"sd"_s,
@@ -97,10 +97,10 @@ $ObjectArray2* FormatData_yav::getContents() {
 		"s"_s
 	}));
 	$var($StringArray, metaValue_QuarterNames, $new($StringArray, {
-		u"nd\u00e1t\u00fa\u025b 1"_s,
-		u"nd\u00e1t\u00fa\u025b 2"_s,
-		u"nd\u00e1t\u00fa\u025b 3"_s,
-		u"nd\u00e1t\u00fa\u025b 4"_s
+		u"ndátúɛ 1"_s,
+		u"ndátúɛ 2"_s,
+		u"ndátúɛ 3"_s,
+		u"ndátúɛ 4"_s
 	}));
 	$var($StringArray, metaValue_standalone_QuarterAbbreviations, $new($StringArray, {
 		"Q1"_s,
@@ -109,8 +109,8 @@ $ObjectArray2* FormatData_yav::getContents() {
 		"Q4"_s
 	}));
 	$var($StringArray, metaValue_AmPmMarkers, $new($StringArray, {
-		u"ki\u025bm\u025b\u0301\u025bm"_s,
-		u"kis\u025b\u0301nd\u025b"_s,
+		u"kiɛmɛ́ɛm"_s,
+		u"kisɛ́ndɛ"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -151,7 +151,7 @@ $ObjectArray2* FormatData_yav::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.year"_s),
-			$of(u"y\u0254\u0254\u014b"_s)
+			$of(u"yɔɔŋ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("islamic.QuarterAbbreviations"_s),
@@ -195,7 +195,7 @@ $ObjectArray2* FormatData_yav::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.zone"_s),
-			$of(u"kin\u00faki kisik\u025bl \u0254\u0301 pit\u0254\u014b"_s)
+			$of(u"kinúki kisikɛl ɔ́ pitɔŋ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("japanese.QuarterAbbreviations"_s),
@@ -256,8 +256,8 @@ $ObjectArray2* FormatData_yav::getContents() {
 		$$new($ObjectArray, {
 			$of("long.Eras"_s),
 			$of($$new($StringArray, {
-				u"katikup\u00eden Y\u00e9suse"_s,
-				u"\u00e9k\u00e9l\u00e9mk\u00fanup\u00ed\u00e9n n"_s
+				u"katikupíen Yésuse"_s,
+				u"ékélémkúnupíén n"_s
 			}))
 		}),
 		$$new($ObjectArray, {
@@ -274,7 +274,7 @@ $ObjectArray2* FormatData_yav::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.weekday"_s),
-			$of(u"met\u00fak m\u0254\u0301s\u0254\u0301ndi\u025b"_s)
+			$of(u"metúk mɔ́sɔ́ndiɛ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("buddhist.MonthNames"_s),
@@ -288,15 +288,15 @@ $ObjectArray2* FormatData_yav::getContents() {
 			$of("latn.NumberElements"_s),
 			$of($$new($StringArray, {
 				","_s,
-				u"\u00a0"_s,
+				u" "_s,
 				";"_s,
 				"%"_s,
 				"0"_s,
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
+				u"‰"_s,
+				u"∞"_s,
 				"NaN"_s,
 				""_s,
 				""_s
@@ -316,11 +316,11 @@ $ObjectArray2* FormatData_yav::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.minute"_s),
-			$of(u"min\u00edt"_s)
+			$of(u"minít"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("field.era"_s),
-			$of(u"kip\u00e9\u014b\u00e9n"_s)
+			$of(u"kipéŋén"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("islamic.DayAbbreviations"_s),
@@ -332,7 +332,7 @@ $ObjectArray2* FormatData_yav::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.dayperiod"_s),
-			$of(u"ki\u025bm\u025b\u0301\u025bm,kis\u025b\u0301nd\u025b"_s)
+			$of(u"kiɛmɛ́ɛm,kisɛ́ndɛ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("japanese.QuarterNames"_s),
@@ -364,7 +364,7 @@ $ObjectArray2* FormatData_yav::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.month"_s),
-			$of(u"o\u00f3li"_s)
+			$of(u"oóli"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("buddhist.DatePatterns"_s),
@@ -372,7 +372,7 @@ $ObjectArray2* FormatData_yav::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.second"_s),
-			$of(u"s\u00edk\u025bn"_s)
+			$of(u"síkɛn"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("roc.MonthNames"_s),
@@ -380,7 +380,7 @@ $ObjectArray2* FormatData_yav::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.week"_s),
-			$of(u"s\u0254\u0301ndi\u025b"_s)
+			$of(u"sɔ́ndiɛ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("DayAbbreviations"_s),
@@ -441,7 +441,7 @@ $ObjectArray2* FormatData_yav::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.hour"_s),
-			$of(u"kisik\u025bl,"_s)
+			$of(u"kisikɛl,"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("buddhist.TimePatterns"_s),
@@ -459,9 +459,9 @@ $ObjectArray2* FormatData_yav::getContents() {
 			$of("latn.NumberPatterns"_s),
 			$of($$new($StringArray, {
 				"#,##0.###"_s,
-				u"#,##0.00\u00a0\u00a4"_s,
+				u"#,##0.00 ¤"_s,
 				"#,##0%"_s,
-				u"#,##0.00\u00a0\u00a4;(#,##0.00\u00a0\u00a4)"_s
+				u"#,##0.00 ¤;(#,##0.00 ¤)"_s
 			}))
 		}),
 		$$new($ObjectArray, {

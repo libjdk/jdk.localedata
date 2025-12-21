@@ -41,11 +41,11 @@ $ObjectArray2* LocaleNames_ro::getContents() {
 	return $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("RO"_s),
-			$of(u"Rom\u00e2nia"_s)
+			$of(u"România"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ro"_s),
-			$of(u"rom\u00e2n\u0103"_s)
+			$of(u"română"_s)
 		})
 	});
 }

@@ -42,29 +42,29 @@ $ObjectArray2* FormatData_wae::getContents() {
 	$var($StringArray, metaValue_MonthNames, $new($StringArray, {
 		"Jenner"_s,
 		"Hornig"_s,
-		u"M\u00e4rze"_s,
+		u"Märze"_s,
 		"Abrille"_s,
 		"Meije"_s,
-		u"Br\u00e1\u010det"_s,
+		u"Bráčet"_s,
 		"Heiwet"_s,
-		u"\u00d6ig\u0161te"_s,
-		u"Herb\u0161tm\u00e1net"_s,
-		u"W\u00edm\u00e1net"_s,
-		u"Winterm\u00e1net"_s,
-		u"Chri\u0161tm\u00e1net"_s,
+		u"Öigšte"_s,
+		u"Herbštmánet"_s,
+		u"Wímánet"_s,
+		u"Wintermánet"_s,
+		u"Chrištmánet"_s,
 		""_s
 	}));
 	$var($StringArray, metaValue_MonthAbbreviations, $new($StringArray, {
 		"Jen"_s,
 		"Hor"_s,
-		u"M\u00e4r"_s,
+		u"Mär"_s,
 		"Abr"_s,
 		"Mei"_s,
-		u"Br\u00e1"_s,
+		u"Brá"_s,
 		"Hei"_s,
-		u"\u00d6ig"_s,
+		u"Öig"_s,
 		"Her"_s,
-		u"W\u00edm"_s,
+		u"Wím"_s,
 		"Win"_s,
 		"Chr"_s,
 		""_s
@@ -77,7 +77,7 @@ $ObjectArray2* FormatData_wae::getContents() {
 		"M"_s,
 		"B"_s,
 		"H"_s,
-		u"\u00d6"_s,
+		u"Ö"_s,
 		"H"_s,
 		"W"_s,
 		"W"_s,
@@ -86,19 +86,19 @@ $ObjectArray2* FormatData_wae::getContents() {
 	}));
 	$var($StringArray, metaValue_DayNames, $new($StringArray, {
 		"Sunntag"_s,
-		u"M\u00e4ntag"_s,
-		u"Zi\u0161tag"_s,
-		u"Mittwu\u010d"_s,
-		u"Fr\u00f3ntag"_s,
+		u"Mäntag"_s,
+		u"Zištag"_s,
+		u"Mittwuč"_s,
+		u"Fróntag"_s,
 		"Fritag"_s,
-		u"Sam\u0161tag"_s
+		u"Samštag"_s
 	}));
 	$var($StringArray, metaValue_DayAbbreviations, $new($StringArray, {
 		"Sun"_s,
-		u"M\u00e4n"_s,
-		u"Zi\u0161"_s,
+		u"Män"_s,
+		u"Ziš"_s,
 		"Mit"_s,
-		u"Fr\u00f3"_s,
+		u"Fró"_s,
 		"Fri"_s,
 		"Sam"_s
 	}));
@@ -145,7 +145,7 @@ $ObjectArray2* FormatData_wae::getContents() {
 		"d. MMM y GGGG"_s,
 		""_s
 	}));
-	$var($String, metaValue_calendarname_gregorian, u"Gregoriani\u0161\u00e4 Kal\u00e4nder"_s);
+	$var($String, metaValue_calendarname_gregorian, u"Gregorianišä Kaländer"_s);
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("MonthNames"_s),
@@ -153,7 +153,7 @@ $ObjectArray2* FormatData_wae::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.year"_s),
-			$of(u"J\u00e1r"_s)
+			$of(u"Jár"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("islamic.QuarterAbbreviations"_s),
@@ -185,7 +185,7 @@ $ObjectArray2* FormatData_wae::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.zone"_s),
-			$of(u"Zitz\u00f3na"_s)
+			$of(u"Zitzóna"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("roc.MonthNarrows"_s),
@@ -245,7 +245,7 @@ $ObjectArray2* FormatData_wae::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.weekday"_s),
-			$of(u"Wu\u010detag"_s)
+			$of(u"Wučetag"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("buddhist.MonthNames"_s),
@@ -255,15 +255,15 @@ $ObjectArray2* FormatData_wae::getContents() {
 			$of("latn.NumberElements"_s),
 			$of($$new($StringArray, {
 				","_s,
-				u"\u2019"_s,
+				u"’"_s,
 				";"_s,
 				"%"_s,
 				"0"_s,
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
+				u"‰"_s,
+				u"∞"_s,
 				"NaN"_s,
 				""_s,
 				""_s
@@ -287,11 +287,11 @@ $ObjectArray2* FormatData_wae::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.minute"_s),
-			$of(u"M\u00edn\u00fctta"_s)
+			$of(u"Mínütta"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("field.era"_s),
-			$of(u"Epo\u010da"_s)
+			$of(u"Epoča"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("islamic.DayAbbreviations"_s),
@@ -339,7 +339,7 @@ $ObjectArray2* FormatData_wae::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.month"_s),
-			$of(u"M\u00e1net"_s)
+			$of(u"Mánet"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("buddhist.DatePatterns"_s),
@@ -355,7 +355,7 @@ $ObjectArray2* FormatData_wae::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.week"_s),
-			$of(u"Wu\u010da"_s)
+			$of(u"Wuča"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("DayAbbreviations"_s),
@@ -442,7 +442,7 @@ $ObjectArray2* FormatData_wae::getContents() {
 			$of("latn.NumberPatterns"_s),
 			$of($$new($StringArray, {
 				"#,##0.###"_s,
-				u"\u00a4\u00a0#,##0.00"_s,
+				u"¤ #,##0.00"_s,
 				"#,##0%"_s,
 				""_s
 			}))

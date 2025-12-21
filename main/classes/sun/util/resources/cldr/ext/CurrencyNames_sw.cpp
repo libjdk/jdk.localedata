@@ -530,7 +530,7 @@ $ObjectArray2* CurrencyNames_sw::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("THB"_s),
-			$of(u"\u0e3f"_s)
+			$of(u"฿"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("TJS"_s),
@@ -702,7 +702,7 @@ $ObjectArray2* CurrencyNames_sw::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("byr"_s),
-			$of(u"Ruble ya Belarusi (2000\u20132016)"_s)
+			$of(u"Ruble ya Belarusi (2000–2016)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bzd"_s),
@@ -990,7 +990,7 @@ $ObjectArray2* CurrencyNames_sw::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("mro"_s),
-			$of(u"Ouguiya ya Mauritania (1973\u20132017)"_s)
+			$of(u"Ouguiya ya Mauritania (1973–2017)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mru"_s),
@@ -1018,7 +1018,7 @@ $ObjectArray2* CurrencyNames_sw::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("mzm"_s),
-			$of(u"Metikali ya Msumbiji (1980\u20132006)"_s)
+			$of(u"Metikali ya Msumbiji (1980–2006)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mzn"_s),
@@ -1118,7 +1118,7 @@ $ObjectArray2* CurrencyNames_sw::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("sdp"_s),
-			$of(u"Pauni ya Sudani (1957\u20131998)"_s)
+			$of(u"Pauni ya Sudani (1957–1998)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sek"_s),
@@ -1150,7 +1150,7 @@ $ObjectArray2* CurrencyNames_sw::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("std"_s),
-			$of(u"Dobra ya Sao Tome na Principe (1977\u20132017)"_s)
+			$of(u"Dobra ya Sao Tome na Principe (1977–2017)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("stn"_s),
@@ -1182,7 +1182,7 @@ $ObjectArray2* CurrencyNames_sw::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("top"_s),
-			$of(u"Pa\u02bbanga ya Tonga"_s)
+			$of(u"Paʻanga ya Tonga"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("try"_s),
@@ -1222,7 +1222,7 @@ $ObjectArray2* CurrencyNames_sw::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("vef"_s),
-			$of(u"Bolivar ya Venezuela (2008\u20132018)"_s)
+			$of(u"Bolivar ya Venezuela (2008–2018)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ves"_s),
@@ -1270,7 +1270,7 @@ $ObjectArray2* CurrencyNames_sw::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("zmk"_s),
-			$of(u"Kwacha ya Zambia (1968\u20132012)"_s)
+			$of(u"Kwacha ya Zambia (1968–2012)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("zmw"_s),

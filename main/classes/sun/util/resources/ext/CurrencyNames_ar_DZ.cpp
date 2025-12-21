@@ -39,7 +39,7 @@ void CurrencyNames_ar_DZ::init$() {
 $ObjectArray2* CurrencyNames_ar_DZ::getContents() {
 	return $new($ObjectArray2, {$$new($ObjectArray, {
 		$of("DZD"_s),
-		$of(u"\u062f.\u062c.\u200f"_s)
+		$of(u"د.ج.\u200f"_s)
 	})});
 }
 

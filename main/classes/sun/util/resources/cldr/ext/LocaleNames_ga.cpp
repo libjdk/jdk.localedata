@@ -50,15 +50,15 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("003"_s),
-			$of(u"Meirice\u00e1 Thuaidh"_s)
+			$of(u"Meiriceá Thuaidh"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("005"_s),
-			$of(u"Meirice\u00e1 Theas"_s)
+			$of(u"Meiriceá Theas"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("009"_s),
-			$of(u"an Aig\u00e9ine"_s)
+			$of(u"an Aigéine"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("011"_s),
@@ -66,7 +66,7 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("013"_s),
-			$of(u"Meirice\u00e1 L\u00e1ir"_s)
+			$of(u"Meiriceá Láir"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("014"_s),
@@ -78,7 +78,7 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("017"_s),
-			$of(u"an Afraic L\u00e1ir"_s)
+			$of(u"an Afraic Láir"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("018"_s),
@@ -86,11 +86,11 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("019"_s),
-			$of(u"Cr\u00edocha Mheirice\u00e1"_s)
+			$of(u"Críocha Mheiriceá"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("021"_s),
-			$of(u"Tuaisceart Mheirice\u00e1"_s)
+			$of(u"Tuaisceart Mheiriceá"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("029"_s),
@@ -98,15 +98,15 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("030"_s),
-			$of(u"Oirthear na h\u00c1ise"_s)
+			$of(u"Oirthear na hÁise"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("034"_s),
-			$of(u"Deisceart na h\u00c1ise"_s)
+			$of(u"Deisceart na hÁise"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("035"_s),
-			$of(u"Oirdheisceart na h\u00c1ise"_s)
+			$of(u"Oirdheisceart na hÁise"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("039"_s),
@@ -114,31 +114,31 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("053"_s),
-			$of(u"an Astral\u00e1ise"_s)
+			$of(u"an Astraláise"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("054"_s),
-			$of(u"an Mheilin\u00e9is"_s)
+			$of(u"an Mheilinéis"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("057"_s),
-			$of(u"an R\u00e9igi\u00fan Micrin\u00e9iseach"_s)
+			$of(u"an Réigiún Micrinéiseach"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("061"_s),
-			$of(u"an Pholain\u00e9is"_s)
+			$of(u"an Pholainéis"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("142"_s),
-			$of(u"an \u00c1ise"_s)
+			$of(u"an Áise"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("143"_s),
-			$of(u"an \u00c1ise L\u00e1ir"_s)
+			$of(u"an Áise Láir"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("145"_s),
-			$of(u"Iarthar na h\u00c1ise"_s)
+			$of(u"Iarthar na hÁise"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("150"_s),
@@ -158,47 +158,47 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("202"_s),
-			$of(u"an Afraic fho-Shah\u00e1rach"_s)
+			$of(u"an Afraic fho-Shahárach"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("419"_s),
-			$of(u"Meirice\u00e1 Laidineach"_s)
+			$of(u"Meiriceá Laidineach"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("AC"_s),
-			$of(u"Oile\u00e1n na Deascabh\u00e1la"_s)
+			$of(u"Oileán na Deascabhála"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("AD"_s),
-			$of(u"And\u00f3ra"_s)
+			$of(u"Andóra"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("AE"_s),
-			$of(u"Aontas na n\u00c9im\u00edr\u00edochta\u00ed Arabacha"_s)
+			$of(u"Aontas na nÉimíríochtaí Arabacha"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("AF"_s),
-			$of(u"an Afganast\u00e1in"_s)
+			$of(u"an Afganastáin"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("AG"_s),
-			$of(u"Antigua agus Barb\u00fada"_s)
+			$of(u"Antigua agus Barbúda"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("AI"_s),
-			$of(u"Anga\u00edle"_s)
+			$of(u"Angaíle"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("AL"_s),
-			$of(u"an Alb\u00e1in"_s)
+			$of(u"an Albáin"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("AM"_s),
-			$of(u"an Airm\u00e9in"_s)
+			$of(u"an Airméin"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("AO"_s),
-			$of(u"Ang\u00f3la"_s)
+			$of(u"Angóla"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("AQ"_s),
@@ -206,11 +206,11 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("AR"_s),
-			$of(u"an Airgint\u00edn"_s)
+			$of(u"an Airgintín"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("AS"_s),
-			$of(u"Sam\u00f3 Mheirice\u00e1"_s)
+			$of(u"Samó Mheiriceá"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("AT"_s),
@@ -218,31 +218,31 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("AU"_s),
-			$of(u"an Astr\u00e1il"_s)
+			$of(u"an Astráil"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("AW"_s),
-			$of(u"Ar\u00faba"_s)
+			$of(u"Arúba"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("AX"_s),
-			$of(u"Oile\u00e1in \u00c5land"_s)
+			$of(u"Oileáin Åland"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("AZ"_s),
-			$of(u"an Asarbaise\u00e1in"_s)
+			$of(u"an Asarbaiseáin"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("BA"_s),
-			$of(u"an Bhoisnia agus an Heirseagaiv\u00e9in"_s)
+			$of(u"an Bhoisnia agus an Heirseagaivéin"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("BB"_s),
-			$of(u"Barbad\u00f3s"_s)
+			$of(u"Barbadós"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("BD"_s),
-			$of(u"an Bhanglaid\u00e9is"_s)
+			$of(u"an Bhanglaidéis"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("BE"_s),
@@ -250,19 +250,19 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("BF"_s),
-			$of(u"Buirc\u00edne Fas\u00f3"_s)
+			$of(u"Buircíne Fasó"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("BG"_s),
-			$of(u"an Bhulg\u00e1ir"_s)
+			$of(u"an Bhulgáir"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("BH"_s),
-			$of(u"Bair\u00e9in"_s)
+			$of(u"Bairéin"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("BI"_s),
-			$of(u"an Bhur\u00fain"_s)
+			$of(u"an Bhurúin"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("BJ"_s),
@@ -270,15 +270,15 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("BL"_s),
-			$of(u"Saint Barth\u00e9lemy"_s)
+			$of(u"Saint Barthélemy"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("BM"_s),
-			$of(u"Beirmi\u00fada"_s)
+			$of(u"Beirmiúda"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("BN"_s),
-			$of(u"Br\u00fain\u00e9"_s)
+			$of(u"Brúiné"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("BO"_s),
@@ -286,35 +286,35 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("BQ"_s),
-			$of(u"an \u00cdsilt\u00edr Chairibeach"_s)
+			$of(u"an Ísiltír Chairibeach"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("BR"_s),
-			$of(u"an Bhrasa\u00edl"_s)
+			$of(u"an Bhrasaíl"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("BS"_s),
-			$of(u"na Bah\u00e1ma\u00ed"_s)
+			$of(u"na Bahámaí"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("BT"_s),
-			$of(u"an Bh\u00fat\u00e1in"_s)
+			$of(u"an Bhútáin"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("BV"_s),
-			$of(u"Oile\u00e1n Bouvet"_s)
+			$of(u"Oileán Bouvet"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("BW"_s),
-			$of(u"an Bhotsu\u00e1in"_s)
+			$of(u"an Bhotsuáin"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("BY"_s),
-			$of(u"an Bhealar\u00fais"_s)
+			$of(u"an Bhealarúis"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("BZ"_s),
-			$of(u"an Bheil\u00eds"_s)
+			$of(u"an Bheilís"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("CA"_s),
@@ -322,31 +322,31 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("CC"_s),
-			$of(u"Oile\u00e1in Cocos (Keeling)"_s)
+			$of(u"Oileáin Cocos (Keeling)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("CD"_s),
-			$of(u"Poblacht Dhaonlathach an Chong\u00f3"_s)
+			$of(u"Poblacht Dhaonlathach an Chongó"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("CF"_s),
-			$of(u"Poblacht na hAfraice L\u00e1ir"_s)
+			$of(u"Poblacht na hAfraice Láir"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("CG"_s),
-			$of(u"an Cong\u00f3"_s)
+			$of(u"an Congó"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("CH"_s),
-			$of(u"an Eilv\u00e9is"_s)
+			$of(u"an Eilvéis"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("CI"_s),
-			$of(u"an C\u00f3sta Eabhair"_s)
+			$of(u"an Cósta Eabhair"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("CK"_s),
-			$of(u"Oile\u00e1in Cook"_s)
+			$of(u"Oileáin Cook"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("CL"_s),
@@ -354,27 +354,27 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("CM"_s),
-			$of(u"Camar\u00fan"_s)
+			$of(u"Camarún"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("CN"_s),
-			$of(u"an tS\u00edn"_s)
+			$of(u"an tSín"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("CO"_s),
-			$of(u"an Chol\u00f3im"_s)
+			$of(u"an Cholóim"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("CP"_s),
-			$of(u"Oile\u00e1n Clipperton"_s)
+			$of(u"Oileán Clipperton"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("CR"_s),
-			$of(u"C\u00f3sta R\u00edce"_s)
+			$of(u"Cósta Ríce"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("CU"_s),
-			$of(u"C\u00faba"_s)
+			$of(u"Cúba"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("CV"_s),
@@ -382,11 +382,11 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("CW"_s),
-			$of(u"Cura\u00e7ao"_s)
+			$of(u"Curaçao"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("CX"_s),
-			$of(u"Oile\u00e1n na Nollag"_s)
+			$of(u"Oileán na Nollag"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("CY"_s),
@@ -398,7 +398,7 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("DE"_s),
-			$of(u"an Ghearm\u00e1in"_s)
+			$of(u"an Ghearmáin"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("DG"_s),
@@ -422,7 +422,7 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("DZ"_s),
-			$of(u"an Ailg\u00e9ir"_s)
+			$of(u"an Ailgéir"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("EA"_s),
@@ -430,31 +430,31 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("EC"_s),
-			$of(u"Eacuad\u00f3r"_s)
+			$of(u"Eacuadór"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("EE"_s),
-			$of(u"an East\u00f3in"_s)
+			$of(u"an Eastóin"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("EG"_s),
-			$of(u"an \u00c9igipt"_s)
+			$of(u"an Éigipt"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("EH"_s),
-			$of(u"an Sah\u00e1ra Thiar"_s)
+			$of(u"an Sahára Thiar"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ER"_s),
-			$of(u"an Eiritr\u00e9"_s)
+			$of(u"an Eiritré"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ES"_s),
-			$of(u"an Sp\u00e1inn"_s)
+			$of(u"an Spáinn"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ET"_s),
-			$of(u"an Aet\u00f3ip"_s)
+			$of(u"an Aetóip"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("EU"_s),
@@ -462,7 +462,7 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("EZ"_s),
-			$of(u"Limist\u00e9ar an euro"_s)
+			$of(u"Limistéar an euro"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("FI"_s),
@@ -470,19 +470,19 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("FJ"_s),
-			$of(u"Fids\u00ed"_s)
+			$of(u"Fidsí"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("FK"_s),
-			$of(u"Oile\u00e1in Fh\u00e1clainne"_s)
+			$of(u"Oileáin Fháclainne"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("FM"_s),
-			$of(u"an Mhicrin\u00e9is"_s)
+			$of(u"an Mhicrinéis"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("FO"_s),
-			$of(u"Oile\u00e1in Fhar\u00f3"_s)
+			$of(u"Oileáin Fharó"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("FR"_s),
@@ -490,15 +490,15 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("GA"_s),
-			$of(u"an Ghab\u00fain"_s)
+			$of(u"an Ghabúin"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("GB"_s),
-			$of(u"an R\u00edocht Aontaithe"_s)
+			$of(u"an Ríocht Aontaithe"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("GD"_s),
-			$of(u"Grean\u00e1da"_s)
+			$of(u"Greanáda"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("GE"_s),
@@ -506,19 +506,19 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("GF"_s),
-			$of(u"Gu\u00e1in na Fraince"_s)
+			$of(u"Guáin na Fraince"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("GG"_s),
-			$of(u"Geansa\u00ed"_s)
+			$of(u"Geansaí"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("GH"_s),
-			$of(u"G\u00e1na"_s)
+			$of(u"Gána"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("GI"_s),
-			$of(u"Giobr\u00e1ltar"_s)
+			$of(u"Giobráltar"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("GL"_s),
@@ -534,19 +534,19 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("GP"_s),
-			$of(u"Guadal\u00faip"_s)
+			$of(u"Guadalúip"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("GQ"_s),
-			$of(u"an Ghuine Mhe\u00e1nchiorclach"_s)
+			$of(u"an Ghuine Mheánchiorclach"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("GR"_s),
-			$of(u"an Ghr\u00e9ig"_s)
+			$of(u"an Ghréig"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("GS"_s),
-			$of(u"an tSeoirsia Theas agus Oile\u00e1in Sandwich Theas"_s)
+			$of(u"an tSeoirsia Theas agus Oileáin Sandwich Theas"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("GT"_s),
@@ -562,43 +562,43 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("GY"_s),
-			$of(u"an Ghu\u00e1in"_s)
+			$of(u"an Ghuáin"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("HK"_s),
-			$of(u"S.R.R. na S\u00edne Hong Cong"_s)
+			$of(u"S.R.R. na Síne Hong Cong"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("HM"_s),
-			$of(u"Oile\u00e1n Heard agus Oile\u00e1in McDonald"_s)
+			$of(u"Oileán Heard agus Oileáin McDonald"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("HN"_s),
-			$of(u"Hond\u00faras"_s)
+			$of(u"Hondúras"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("HR"_s),
-			$of(u"an Chr\u00f3it"_s)
+			$of(u"an Chróit"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("HT"_s),
-			$of(u"H\u00e1\u00edt\u00ed"_s)
+			$of(u"Háítí"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("HU"_s),
-			$of(u"an Ung\u00e1ir"_s)
+			$of(u"an Ungáir"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("IC"_s),
-			$of(u"na hOile\u00e1in Chan\u00e1racha"_s)
+			$of(u"na hOileáin Chanáracha"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ID"_s),
-			$of(u"an Indin\u00e9is"_s)
+			$of(u"an Indinéis"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("IE"_s),
-			$of(u"\u00c9ire"_s)
+			$of(u"Éire"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("IL"_s),
@@ -606,7 +606,7 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("IM"_s),
-			$of(u"Oile\u00e1n Mhanann"_s)
+			$of(u"Oileán Mhanann"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("IN"_s),
@@ -614,83 +614,83 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("IO"_s),
-			$of(u"Cr\u00edoch Aig\u00e9an Indiach na Breataine"_s)
+			$of(u"Críoch Aigéan Indiach na Breataine"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("IQ"_s),
-			$of(u"an Iar\u00e1ic"_s)
+			$of(u"an Iaráic"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("IR"_s),
-			$of(u"an Iar\u00e1in"_s)
+			$of(u"an Iaráin"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("IS"_s),
-			$of(u"an \u00cdoslainn"_s)
+			$of(u"an Íoslainn"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("IT"_s),
-			$of(u"an Iod\u00e1il"_s)
+			$of(u"an Iodáil"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("JE"_s),
-			$of(u"Geirs\u00ed"_s)
+			$of(u"Geirsí"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("JM"_s),
-			$of(u"Iam\u00e1ice"_s)
+			$of(u"Iamáice"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("JO"_s),
-			$of(u"an Iord\u00e1in"_s)
+			$of(u"an Iordáin"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("JP"_s),
-			$of(u"an tSeap\u00e1in"_s)
+			$of(u"an tSeapáin"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("KE"_s),
-			$of(u"an Ch\u00e9inia"_s)
+			$of(u"an Chéinia"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("KG"_s),
-			$of(u"an Chirgeast\u00e1in"_s)
+			$of(u"an Chirgeastáin"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("KH"_s),
-			$of(u"an Chamb\u00f3id"_s)
+			$of(u"an Chambóid"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("KI"_s),
-			$of(u"Cireabait\u00ed"_s)
+			$of(u"Cireabaití"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("KM"_s),
-			$of(u"Oile\u00e1in Chom\u00f3ra"_s)
+			$of(u"Oileáin Chomóra"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("KN"_s),
-			$of(u"San Cr\u00edost\u00f3ir-Nimheas"_s)
+			$of(u"San Críostóir-Nimheas"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("KP"_s),
-			$of(u"an Ch\u00f3ir\u00e9 Thuaidh"_s)
+			$of(u"an Chóiré Thuaidh"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("KR"_s),
-			$of(u"an Ch\u00f3ir\u00e9 Theas"_s)
+			$of(u"an Chóiré Theas"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("KW"_s),
-			$of(u"Cu\u00e1it"_s)
+			$of(u"Cuáit"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("KY"_s),
-			$of(u"Oile\u00e1in Cayman"_s)
+			$of(u"Oileáin Cayman"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("KZ"_s),
-			$of(u"an Chasacst\u00e1in"_s)
+			$of(u"an Chasacstáin"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("LA"_s),
@@ -698,7 +698,7 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("LB"_s),
-			$of(u"an Liob\u00e1in"_s)
+			$of(u"an Liobáin"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("LC"_s),
@@ -706,23 +706,23 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("LI"_s),
-			$of(u"Lichtinst\u00e9in"_s)
+			$of(u"Lichtinstéin"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("LK"_s),
-			$of(u"Sr\u00ed Lanca"_s)
+			$of(u"Srí Lanca"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("LR"_s),
-			$of(u"an Lib\u00e9ir"_s)
+			$of(u"an Libéir"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("LS"_s),
-			$of(u"Leos\u00f3ta"_s)
+			$of(u"Leosóta"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("LT"_s),
-			$of(u"an Liotu\u00e1in"_s)
+			$of(u"an Liotuáin"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("LU"_s),
@@ -738,19 +738,19 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("MA"_s),
-			$of(u"Marac\u00f3"_s)
+			$of(u"Maracó"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("MC"_s),
-			$of(u"Monac\u00f3"_s)
+			$of(u"Monacó"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("MD"_s),
-			$of(u"an Mhold\u00f3iv"_s)
+			$of(u"an Mholdóiv"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ME"_s),
-			$of(u"Montain\u00e9agr\u00f3"_s)
+			$of(u"Montainéagró"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("MF"_s),
@@ -762,15 +762,15 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("MH"_s),
-			$of(u"Oile\u00e1in Marshall"_s)
+			$of(u"Oileáin Marshall"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("MK"_s),
-			$of(u"an Mhacad\u00f3in Thuaidh"_s)
+			$of(u"an Mhacadóin Thuaidh"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ML"_s),
-			$of(u"Mail\u00ed"_s)
+			$of(u"Mailí"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("MM"_s),
@@ -778,15 +778,15 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("MN"_s),
-			$of(u"an Mhong\u00f3il"_s)
+			$of(u"an Mhongóil"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("MO"_s),
-			$of(u"S.R.R. na S\u00edne Macao"_s)
+			$of(u"S.R.R. na Síne Macao"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("MP"_s),
-			$of(u"na hOile\u00e1in Mh\u00e1irianacha Thuaidh"_s)
+			$of(u"na hOileáin Mháirianacha Thuaidh"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("MQ"_s),
@@ -794,7 +794,7 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("MR"_s),
-			$of(u"an Mh\u00e1rat\u00e1in"_s)
+			$of(u"an Mháratáin"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("MS"_s),
@@ -802,19 +802,19 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("MT"_s),
-			$of(u"M\u00e1lta"_s)
+			$of(u"Málta"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("MU"_s),
-			$of(u"Oile\u00e1n Mhuir\u00eds"_s)
+			$of(u"Oileán Mhuirís"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("MV"_s),
-			$of(u"Oile\u00e1in Mhaild\u00edve"_s)
+			$of(u"Oileáin Mhaildíve"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("MW"_s),
-			$of(u"an Mhal\u00e1iv"_s)
+			$of(u"an Mhaláiv"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("MX"_s),
@@ -826,7 +826,7 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("MZ"_s),
-			$of(u"M\u00f3saimb\u00edc"_s)
+			$of(u"Mósaimbíc"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("NA"_s),
@@ -834,19 +834,19 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("NC"_s),
-			$of(u"an Nua-Chalad\u00f3in"_s)
+			$of(u"an Nua-Chaladóin"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("NE"_s),
-			$of(u"an N\u00edgir"_s)
+			$of(u"an Nígir"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("NF"_s),
-			$of(u"Oile\u00e1n Norfolk"_s)
+			$of(u"Oileán Norfolk"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("NG"_s),
-			$of(u"an Nig\u00e9ir"_s)
+			$of(u"an Nigéir"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("NI"_s),
@@ -854,7 +854,7 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("NL"_s),
-			$of(u"an \u00cdsilt\u00edr"_s)
+			$of(u"an Ísiltír"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("NO"_s),
@@ -866,7 +866,7 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("NR"_s),
-			$of(u"N\u00e1r\u00fa"_s)
+			$of(u"Nárú"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("NU"_s),
@@ -874,11 +874,11 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("NZ"_s),
-			$of(u"an Nua-Sh\u00e9alainn"_s)
+			$of(u"an Nua-Shéalainn"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("OM"_s),
-			$of(u"\u00d3man"_s)
+			$of(u"Óman"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("PA"_s),
@@ -886,11 +886,11 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("PE"_s),
-			$of(u"Peiri\u00fa"_s)
+			$of(u"Peiriú"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("PF"_s),
-			$of(u"Polain\u00e9is na Fraince"_s)
+			$of(u"Polainéis na Fraince"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("PG"_s),
@@ -898,11 +898,11 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("PH"_s),
-			$of(u"na hOile\u00e1in Fhilip\u00edneacha"_s)
+			$of(u"na hOileáin Fhilipíneacha"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("PK"_s),
-			$of(u"an Phacast\u00e1in"_s)
+			$of(u"an Phacastáin"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("PL"_s),
@@ -914,23 +914,23 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("PN"_s),
-			$of(u"Oile\u00e1in Pitcairn"_s)
+			$of(u"Oileáin Pitcairn"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("PR"_s),
-			$of(u"P\u00f3rt\u00f3 R\u00edce"_s)
+			$of(u"Pórtó Ríce"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("PS"_s),
-			$of(u"na Cr\u00edocha Palaist\u00edneacha"_s)
+			$of(u"na Críocha Palaistíneacha"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("PT"_s),
-			$of(u"an Phortaing\u00e9il"_s)
+			$of(u"an Phortaingéil"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("PW"_s),
-			$of(u"Oile\u00e1in Palau"_s)
+			$of(u"Oileáin Palau"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("PY"_s),
@@ -942,15 +942,15 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("QO"_s),
-			$of(u"an Aig\u00e9ine Imeallach"_s)
+			$of(u"an Aigéine Imeallach"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("RE"_s),
-			$of(u"R\u00e9union"_s)
+			$of(u"Réunion"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("RO"_s),
-			$of(u"an R\u00f3m\u00e1in"_s)
+			$of(u"an Rómáin"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("RS"_s),
@@ -958,7 +958,7 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("RU"_s),
-			$of(u"an R\u00fais"_s)
+			$of(u"an Rúis"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("RW"_s),
@@ -966,19 +966,19 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("SA"_s),
-			$of(u"an Araib Sh\u00e1dach"_s)
+			$of(u"an Araib Shádach"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("SB"_s),
-			$of(u"Oile\u00e1in Sholom\u00f3n"_s)
+			$of(u"Oileáin Sholomón"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("SC"_s),
-			$of(u"na S\u00e9is\u00e9il"_s)
+			$of(u"na Séiséil"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("SD"_s),
-			$of(u"an tS\u00fad\u00e1in"_s)
+			$of(u"an tSúdáin"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("SE"_s),
@@ -986,15 +986,15 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("SG"_s),
-			$of(u"Singeap\u00f3r"_s)
+			$of(u"Singeapór"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("SH"_s),
-			$of(u"San H\u00e9ilin"_s)
+			$of(u"San Héilin"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("SI"_s),
-			$of(u"an tSl\u00f3iv\u00e9in"_s)
+			$of(u"an tSlóivéin"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("SJ"_s),
@@ -1002,7 +1002,7 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("SK"_s),
-			$of(u"an tSl\u00f3vaic"_s)
+			$of(u"an tSlóvaic"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("SL"_s),
@@ -1010,15 +1010,15 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("SM"_s),
-			$of(u"San Mair\u00edne"_s)
+			$of(u"San Mairíne"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("SN"_s),
-			$of(u"an tSeineag\u00e1il"_s)
+			$of(u"an tSeineagáil"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("SO"_s),
-			$of(u"an tSom\u00e1il"_s)
+			$of(u"an tSomáil"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("SR"_s),
@@ -1026,15 +1026,15 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("SS"_s),
-			$of(u"an tS\u00fad\u00e1in Theas"_s)
+			$of(u"an tSúdáin Theas"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ST"_s),
-			$of(u"S\u00e3o Tom\u00e9 agus Pr\u00edncipe"_s)
+			$of(u"São Tomé agus Príncipe"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("SV"_s),
-			$of(u"an tSalvad\u00f3ir"_s)
+			$of(u"an tSalvadóir"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("SX"_s),
@@ -1046,7 +1046,7 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("SZ"_s),
-			$of(u"eSuait\u00edn\u00ed"_s)
+			$of(u"eSuaitíní"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("TA"_s),
@@ -1054,7 +1054,7 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("TC"_s),
-			$of(u"Oile\u00e1in na dTurcach agus Caicos"_s)
+			$of(u"Oileáin na dTurcach agus Caicos"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("TD"_s),
@@ -1062,35 +1062,35 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("TF"_s),
-			$of(u"Cr\u00edocha Francacha Dheisceart an Domhain"_s)
+			$of(u"Críocha Francacha Dheisceart an Domhain"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("TG"_s),
-			$of(u"T\u00f3ga"_s)
+			$of(u"Tóga"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("TH"_s),
-			$of(u"an T\u00e9alainn"_s)
+			$of(u"an Téalainn"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("TJ"_s),
-			$of(u"an T\u00e1ids\u00edceast\u00e1in"_s)
+			$of(u"an Táidsíceastáin"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("TK"_s),
-			$of(u"T\u00f3cal\u00e1"_s)
+			$of(u"Tócalá"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("TL"_s),
-			$of(u"T\u00edom\u00f3r Thoir"_s)
+			$of(u"Tíomór Thoir"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("TM"_s),
-			$of(u"an Tuircm\u00e9anast\u00e1in"_s)
+			$of(u"an Tuircméanastáin"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("TN"_s),
-			$of(u"an T\u00fain\u00e9is"_s)
+			$of(u"an Túinéis"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("TO"_s),
@@ -1102,7 +1102,7 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("TT"_s),
-			$of(u"Oile\u00e1n na Tr\u00edon\u00f3ide agus Tob\u00e1ga"_s)
+			$of(u"Oileán na Tríonóide agus Tobága"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("TV"_s),
@@ -1110,15 +1110,15 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("TW"_s),
-			$of(u"an T\u00e9av\u00e1in"_s)
+			$of(u"an Téaváin"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("TZ"_s),
-			$of(u"an Tans\u00e1in"_s)
+			$of(u"an Tansáin"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("UA"_s),
-			$of(u"an \u00dacr\u00e1in"_s)
+			$of(u"an Úcráin"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("UG"_s),
@@ -1126,15 +1126,15 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("UM"_s),
-			$of(u"Oile\u00e1in Imeallacha S.A.M."_s)
+			$of(u"Oileáin Imeallacha S.A.M."_s)
 		}),
 		$$new($ObjectArray, {
 			$of("UN"_s),
-			$of(u"na N\u00e1isi\u00fain Aontaithe"_s)
+			$of(u"na Náisiúin Aontaithe"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("US"_s),
-			$of(u"St\u00e1it Aontaithe Mheirice\u00e1"_s)
+			$of(u"Stáit Aontaithe Mheiriceá"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("UY"_s),
@@ -1142,51 +1142,51 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("UZ"_s),
-			$of(u"an \u00daisb\u00e9iceast\u00e1in"_s)
+			$of(u"an Úisbéiceastáin"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("VA"_s),
-			$of(u"Cathair na Vatac\u00e1ine"_s)
+			$of(u"Cathair na Vatacáine"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("VC"_s),
-			$of(u"San Uinseann agus na Grean\u00e1id\u00edn\u00ed"_s)
+			$of(u"San Uinseann agus na Greanáidíní"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("VE"_s),
-			$of(u"Veinis\u00e9ala"_s)
+			$of(u"Veiniséala"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("VG"_s),
-			$of(u"Oile\u00e1in Bhriotanacha na Maighdean"_s)
+			$of(u"Oileáin Bhriotanacha na Maighdean"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("VI"_s),
-			$of(u"Oile\u00e1in Mheirice\u00e1nacha na Maighdean"_s)
+			$of(u"Oileáin Mheiriceánacha na Maighdean"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("VN"_s),
-			$of(u"V\u00edtneam"_s)
+			$of(u"Vítneam"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("VU"_s),
-			$of(u"Vanuat\u00fa"_s)
+			$of(u"Vanuatú"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("WF"_s),
-			$of(u"Vail\u00eds agus Fut\u00fana"_s)
+			$of(u"Vailís agus Futúna"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("WS"_s),
-			$of(u"Sam\u00f3"_s)
+			$of(u"Samó"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("XA"_s),
-			$of(u"Br\u00e9agdhiaicritic\u00ed"_s)
+			$of(u"Bréagdhiaicriticí"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("XB"_s),
-			$of(u"Br\u00e9ag-Bidi"_s)
+			$of(u"Bréag-Bidi"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("XK"_s),
@@ -1194,7 +1194,7 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("YE"_s),
-			$of(u"\u00c9imin"_s)
+			$of(u"Éimin"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("YT"_s),
@@ -1210,39 +1210,39 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ZW"_s),
-			$of(u"an tSiomb\u00e1ib"_s)
+			$of(u"an tSiombáib"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ZZ"_s),
-			$of(u"R\u00e9igi\u00fan Anaithnid"_s)
+			$of(u"Réigiún Anaithnid"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("aa"_s),
-			$of(u"Af\u00e1iris"_s)
+			$of(u"Afáiris"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ab"_s),
-			$of(u"Abc\u00e1isis"_s)
+			$of(u"Abcáisis"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ae"_s),
-			$of(u"Aiv\u00e9istis"_s)
+			$of(u"Aivéistis"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("af"_s),
-			$of(u"Afrac\u00e1inis"_s)
+			$of(u"Afracáinis"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ak"_s),
-			$of(u"Ac\u00e1inis"_s)
+			$of(u"Acáinis"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("am"_s),
-			$of(u"Am\u00e1iris"_s)
+			$of(u"Amáiris"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("an"_s),
-			$of(u"Arag\u00f3inis"_s)
+			$of(u"Aragóinis"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ar"_s),
@@ -1254,7 +1254,7 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("av"_s),
-			$of(u"Av\u00e1iris"_s)
+			$of(u"Aváiris"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ay"_s),
@@ -1262,19 +1262,19 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("az"_s),
-			$of(u"Asarbaise\u00e1inis"_s)
+			$of(u"Asarbaiseáinis"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ba"_s),
-			$of(u"Baisc\u00edris"_s)
+			$of(u"Baiscíris"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("be"_s),
-			$of(u"Bealar\u00faisis"_s)
+			$of(u"Bealarúisis"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bg"_s),
-			$of(u"Bulg\u00e1iris"_s)
+			$of(u"Bulgáiris"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bi"_s),
@@ -1286,15 +1286,15 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("bn"_s),
-			$of(u"Beang\u00e1ilis"_s)
+			$of(u"Beangáilis"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bo"_s),
-			$of(u"Tib\u00e9idis"_s)
+			$of(u"Tibéidis"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("br"_s),
-			$of(u"Briot\u00e1inis"_s)
+			$of(u"Briotáinis"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bs"_s),
@@ -1302,7 +1302,7 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ca"_s),
-			$of(u"Catal\u00f3inis"_s)
+			$of(u"Catalóinis"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ce"_s),
@@ -1310,7 +1310,7 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ch"_s),
-			$of(u"Seam\u00f3iris"_s)
+			$of(u"Seamóiris"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("co"_s),
@@ -1318,7 +1318,7 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("cr"_s),
-			$of(u"Cra\u00eds"_s)
+			$of(u"Craís"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cs"_s),
@@ -1342,11 +1342,11 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("de"_s),
-			$of(u"Gearm\u00e1inis"_s)
+			$of(u"Gearmáinis"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("dv"_s),
-			$of(u"Div\u00e9ihis"_s)
+			$of(u"Divéihis"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("dz"_s),
@@ -1354,15 +1354,15 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ee"_s),
-			$of(u"\u00c9abhais"_s)
+			$of(u"Éabhais"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("el"_s),
-			$of(u"Gr\u00e9igis"_s)
+			$of(u"Gréigis"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("en"_s),
-			$of(u"B\u00e9arla"_s)
+			$of(u"Béarla"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("eo"_s),
@@ -1370,11 +1370,11 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("es"_s),
-			$of(u"Sp\u00e1innis"_s)
+			$of(u"Spáinnis"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("et"_s),
-			$of(u"East\u00f3inis"_s)
+			$of(u"Eastóinis"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("eu"_s),
@@ -1386,7 +1386,7 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ff"_s),
-			$of(u"Ful\u00e1inis"_s)
+			$of(u"Fuláinis"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("fi"_s),
@@ -1398,7 +1398,7 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("fo"_s),
-			$of(u"Far\u00f3is"_s)
+			$of(u"Faróis"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("fr"_s),
@@ -1418,15 +1418,15 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("gl"_s),
-			$of(u"Gail\u00edsis"_s)
+			$of(u"Gailísis"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gn"_s),
-			$of(u"Guar\u00e1inis"_s)
+			$of(u"Guaráinis"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gu"_s),
-			$of(u"G\u00faisear\u00e1itis"_s)
+			$of(u"Gúisearáitis"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gv"_s),
@@ -1434,7 +1434,7 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ha"_s),
-			$of(u"H\u00e1sais"_s)
+			$of(u"Hásais"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("he"_s),
@@ -1442,31 +1442,31 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("hi"_s),
-			$of(u"Hiond\u00fais"_s)
+			$of(u"Hiondúis"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ho"_s),
-			$of(u"Mot\u00fais H\u00edr\u00ed"_s)
+			$of(u"Motúis Hírí"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("hr"_s),
-			$of(u"Cr\u00f3itis"_s)
+			$of(u"Cróitis"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ht"_s),
-			$of(u"Cri\u00f3l H\u00e1\u00edt\u00edoch"_s)
+			$of(u"Criól Háítíoch"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("hu"_s),
-			$of(u"Ung\u00e1iris"_s)
+			$of(u"Ungáiris"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("hy"_s),
-			$of(u"Airm\u00e9inis"_s)
+			$of(u"Airméinis"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("hz"_s),
-			$of(u"Heir\u00e9iris"_s)
+			$of(u"Heiréiris"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ia"_s),
@@ -1474,7 +1474,7 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("id"_s),
-			$of(u"Indin\u00e9isis"_s)
+			$of(u"Indinéisis"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ie"_s),
@@ -1482,15 +1482,15 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ig"_s),
-			$of(u"\u00cdogb\u00f3is"_s)
+			$of(u"Íogbóis"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ii"_s),
-			$of(u"\u00cds Shichuan"_s)
+			$of(u"Ís Shichuan"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ik"_s),
-			$of(u"Ini\u00faipiaicis"_s)
+			$of(u"Iniúipiaicis"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("io"_s),
@@ -1498,23 +1498,23 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("is"_s),
-			$of(u"\u00cdoslainnis"_s)
+			$of(u"Íoslainnis"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("it"_s),
-			$of(u"Iod\u00e1ilis"_s)
+			$of(u"Iodáilis"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("iu"_s),
-			$of(u"Ion\u00faitis"_s)
+			$of(u"Ionúitis"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ja"_s),
-			$of(u"Seap\u00e1inis"_s)
+			$of(u"Seapáinis"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("jv"_s),
-			$of(u"I\u00e1ivis"_s)
+			$of(u"Iáivis"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ka"_s),
@@ -1522,15 +1522,15 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("kg"_s),
-			$of(u"Cong\u00f3is"_s)
+			$of(u"Congóis"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ki"_s),
-			$of(u"Cioc\u00fais"_s)
+			$of(u"Ciocúis"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kj"_s),
-			$of(u"Cuaini\u00e1imis"_s)
+			$of(u"Cuainiáimis"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kk"_s),
@@ -1542,7 +1542,7 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("km"_s),
-			$of(u"Cim\u00e9iris"_s)
+			$of(u"Ciméiris"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kn"_s),
@@ -1550,15 +1550,15 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ko"_s),
-			$of(u"C\u00f3ir\u00e9is"_s)
+			$of(u"Cóiréis"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kr"_s),
-			$of(u"Can\u00fairis"_s)
+			$of(u"Canúiris"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ks"_s),
-			$of(u"Caism\u00edris"_s)
+			$of(u"Caismíris"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ku"_s),
@@ -1594,7 +1594,7 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ln"_s),
-			$of(u"Liong\u00e1ilis"_s)
+			$of(u"Liongáilis"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lo"_s),
@@ -1602,11 +1602,11 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("lt"_s),
-			$of(u"Liotu\u00e1inis"_s)
+			$of(u"Liotuáinis"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lu"_s),
-			$of(u"L\u00faba-Cataingis"_s)
+			$of(u"Lúba-Cataingis"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lv"_s),
@@ -1614,7 +1614,7 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("mg"_s),
-			$of(u"Malag\u00e1isis"_s)
+			$of(u"Malagáisis"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mh"_s),
@@ -1626,15 +1626,15 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("mk"_s),
-			$of(u"Macad\u00f3inis"_s)
+			$of(u"Macadóinis"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ml"_s),
-			$of(u"Mail\u00e9alaimis"_s)
+			$of(u"Mailéalaimis"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mn"_s),
-			$of(u"Mong\u00f3ilis"_s)
+			$of(u"Mongóilis"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mr"_s),
@@ -1646,7 +1646,7 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("mt"_s),
-			$of(u"M\u00e1ltais"_s)
+			$of(u"Máltais"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("my"_s),
@@ -1654,15 +1654,15 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("na"_s),
-			$of(u"N\u00e1r\u00fais"_s)
+			$of(u"Nárúis"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("nb"_s),
-			$of(u"Ioruais Bokm\u00e5l"_s)
+			$of(u"Ioruais Bokmål"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("nd"_s),
-			$of(u"Ndeib\u00e9ilis an Tuaiscirt"_s)
+			$of(u"Ndeibéilis an Tuaiscirt"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ne"_s),
@@ -1686,23 +1686,23 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("nr"_s),
-			$of(u"Ndeib\u00e9ilis an Deiscirt"_s)
+			$of(u"Ndeibéilis an Deiscirt"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("nv"_s),
-			$of(u"Navach\u00f3is"_s)
+			$of(u"Navachóis"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ny"_s),
-			$of(u"Sis\u00e9ivis"_s)
+			$of(u"Siséivis"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("oc"_s),
-			$of(u"Ocsat\u00e1inis"_s)
+			$of(u"Ocsatáinis"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("oj"_s),
-			$of(u"\u00d3isibis"_s)
+			$of(u"Óisibis"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("om"_s),
@@ -1710,19 +1710,19 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("or"_s),
-			$of(u"Oir\u00edsis"_s)
+			$of(u"Oirísis"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("os"_s),
-			$of(u"Ois\u00e9itis"_s)
+			$of(u"Oiséitis"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pa"_s),
-			$of(u"Puinse\u00e1ibis"_s)
+			$of(u"Puinseáibis"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pi"_s),
-			$of(u"P\u00e1ilis"_s)
+			$of(u"Páilis"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pl"_s),
@@ -1734,7 +1734,7 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("pt"_s),
-			$of(u"Portaing\u00e9ilis"_s)
+			$of(u"Portaingéilis"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("qu"_s),
@@ -1742,19 +1742,19 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("rm"_s),
-			$of(u"R\u00f3mainis"_s)
+			$of(u"Rómainis"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("rn"_s),
-			$of(u"R\u00faindis"_s)
+			$of(u"Rúindis"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ro"_s),
-			$of(u"R\u00f3m\u00e1inis"_s)
+			$of(u"Rómáinis"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ru"_s),
-			$of(u"R\u00faisis"_s)
+			$of(u"Rúisis"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("rw"_s),
@@ -1766,7 +1766,7 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("sc"_s),
-			$of(u"Saird\u00ednis"_s)
+			$of(u"Sairdínis"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sd"_s),
@@ -1774,31 +1774,31 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("se"_s),
-			$of(u"S\u00e1imis Thuaidh"_s)
+			$of(u"Sáimis Thuaidh"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sg"_s),
-			$of(u"Sang\u00f3is"_s)
+			$of(u"Sangóis"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sh"_s),
-			$of(u"Seirbea-Chr\u00f3itis"_s)
+			$of(u"Seirbea-Chróitis"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("si"_s),
-			$of(u"Siol\u00f3inis"_s)
+			$of(u"Siolóinis"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sk"_s),
-			$of(u"Sl\u00f3vaicis"_s)
+			$of(u"Slóvaicis"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sl"_s),
-			$of(u"Sl\u00f3iv\u00e9inis"_s)
+			$of(u"Slóivéinis"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sm"_s),
-			$of(u"Sam\u00f3is"_s)
+			$of(u"Samóis"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sn"_s),
@@ -1806,11 +1806,11 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("so"_s),
-			$of(u"Som\u00e1ilis"_s)
+			$of(u"Somáilis"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sq"_s),
-			$of(u"Alb\u00e1inis"_s)
+			$of(u"Albáinis"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sr"_s),
@@ -1822,7 +1822,7 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("st"_s),
-			$of(u"Seas\u00f3itis"_s)
+			$of(u"Seasóitis"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("su"_s),
@@ -1834,7 +1834,7 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("sw"_s),
-			$of(u"Svaha\u00edlis"_s)
+			$of(u"Svahaílis"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ta"_s),
@@ -1842,15 +1842,15 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("te"_s),
-			$of(u"Teileag\u00fais"_s)
+			$of(u"Teileagúis"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("tg"_s),
-			$of(u"T\u00e1ids\u00edcis"_s)
+			$of(u"Táidsícis"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("th"_s),
-			$of(u"T\u00e9alainnis"_s)
+			$of(u"Téalainnis"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ti"_s),
@@ -1858,15 +1858,15 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("tk"_s),
-			$of(u"Tuircm\u00e9inis"_s)
+			$of(u"Tuircméinis"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("tl"_s),
-			$of(u"Tag\u00e1laigis"_s)
+			$of(u"Tagálaigis"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("tn"_s),
-			$of(u"Su\u00e1inis"_s)
+			$of(u"Suáinis"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("to"_s),
@@ -1886,27 +1886,27 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("tw"_s),
-			$of(u"T\u00edbhis"_s)
+			$of(u"Tíbhis"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ty"_s),
-			$of(u"Taih\u00edtis"_s)
+			$of(u"Taihítis"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ug"_s),
-			$of(u"Uigi\u00fairis"_s)
+			$of(u"Uigiúiris"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("uk"_s),
-			$of(u"\u00dacr\u00e1inis"_s)
+			$of(u"Úcráinis"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ur"_s),
-			$of(u"Urd\u00fais"_s)
+			$of(u"Urdúis"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("uz"_s),
-			$of(u"\u00daisb\u00e9iceast\u00e1inis"_s)
+			$of(u"Úisbéiceastáinis"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ve"_s),
@@ -1914,15 +1914,15 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("vi"_s),
-			$of(u"V\u00edtneaimis"_s)
+			$of(u"Vítneaimis"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("vo"_s),
-			$of(u"Volap\u00fck"_s)
+			$of(u"Volapük"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("wa"_s),
-			$of(u"Vall\u00fanais"_s)
+			$of(u"Vallúnais"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("wo"_s),
@@ -1930,43 +1930,43 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("xh"_s),
-			$of(u"C\u00f3isis"_s)
+			$of(u"Cóisis"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("yi"_s),
-			$of(u"Gi\u00fadais"_s)
+			$of(u"Giúdais"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("yo"_s),
-			$of(u"Iar\u00faibis"_s)
+			$of(u"Iarúibis"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("za"_s),
-			$of(u"Siu\u00e1ingis"_s)
+			$of(u"Siuáingis"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("zh"_s),
-			$of(u"S\u00ednis"_s)
+			$of(u"Sínis"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("zu"_s),
-			$of(u"S\u00fal\u00fais"_s)
+			$of(u"Súlúis"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ady"_s),
-			$of(u"Adaig\u00e9is"_s)
+			$of(u"Adaigéis"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ain"_s),
-			$of(u"Aidhni\u00fais"_s)
+			$of(u"Aidhniúis"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("akk"_s),
-			$of(u"Ac\u00e1idis"_s)
+			$of(u"Acáidis"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ang"_s),
-			$of(u"Sean-Bh\u00e9arla"_s)
+			$of(u"Sean-Bhéarla"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("arc"_s),
@@ -1974,23 +1974,23 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("arn"_s),
-			$of(u"Map\u00faitsis"_s)
+			$of(u"Mapúitsis"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ast"_s),
-			$of(u"Ast\u00fairis"_s)
+			$of(u"Astúiris"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ban"_s),
-			$of(u"Bail\u00eds"_s)
+			$of(u"Bailís"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bar"_s),
-			$of(u"Bav\u00e1iris"_s)
+			$of(u"Baváiris"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bas"_s),
-			$of(u"Bas\u00e1is"_s)
+			$of(u"Basáis"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bem"_s),
@@ -1998,15 +1998,15 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("bez"_s),
-			$of(u"B\u00e9inis"_s)
+			$of(u"Béinis"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("brx"_s),
-			$of(u"B\u00f3d\u00f3is"_s)
+			$of(u"Bódóis"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bua"_s),
-			$of(u"Buiri\u00e1itis"_s)
+			$of(u"Buiriáitis"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bug"_s),
@@ -2018,11 +2018,11 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ceb"_s),
-			$of(u"Seab\u00fa\u00e1inis"_s)
+			$of(u"Seabúáinis"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cgg"_s),
-			$of(u"C\u00edgis"_s)
+			$of(u"Cígis"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("chm"_s),
@@ -2034,7 +2034,7 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ckb"_s),
-			$of(u"Coirdis L\u00e1rnach"_s)
+			$of(u"Coirdis Lárnach"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cop"_s),
@@ -2042,11 +2042,11 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("crs"_s),
-			$of(u"Cri\u00f3l Fraincise Seselwa"_s)
+			$of(u"Criól Fraincise Seselwa"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("csb"_s),
-			$of(u"Caisi\u00faibis"_s)
+			$of(u"Caisiúibis"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("dav"_s),
@@ -2058,7 +2058,7 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("dsb"_s),
-			$of(u"Sorbais \u00cdochtarach"_s)
+			$of(u"Sorbais Íochtarach"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("dua"_s),
@@ -2066,31 +2066,31 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("dum"_s),
-			$of(u"Me\u00e1n-Ollainnis"_s)
+			$of(u"Meán-Ollainnis"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("dyo"_s),
-			$of(u"I\u00f3la-Fain\u00eds"_s)
+			$of(u"Ióla-Fainís"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ebu"_s),
-			$of(u"Eamb\u00fais"_s)
+			$of(u"Eambúis"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("egy"_s),
-			$of(u"Sean-\u00c9igiptis"_s)
+			$of(u"Sean-Éigiptis"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("enm"_s),
-			$of(u"Me\u00e1n-Bh\u00e9arla"_s)
+			$of(u"Meán-Bhéarla"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ewo"_s),
-			$of(u"\u00c9abhand\u00f3is"_s)
+			$of(u"Éabhandóis"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("fil"_s),
-			$of(u"Filip\u00ednis"_s)
+			$of(u"Filipínis"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("fon"_s),
@@ -2098,7 +2098,7 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("frm"_s),
-			$of(u"Me\u00e1n-Fhraincis"_s)
+			$of(u"Meán-Fhraincis"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("fro"_s),
@@ -2110,15 +2110,15 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("fur"_s),
-			$of(u"Fri\u00failis"_s)
+			$of(u"Friúilis"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gan"_s),
-			$of(u"S\u00ednis Gan"_s)
+			$of(u"Sínis Gan"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gez"_s),
-			$of(u"Aet\u00f3ipis"_s)
+			$of(u"Aetóipis"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gil"_s),
@@ -2126,43 +2126,43 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("gmh"_s),
-			$of(u"Me\u00e1n-Ard-Ghearm\u00e1inis"_s)
+			$of(u"Meán-Ard-Ghearmáinis"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("goh"_s),
-			$of(u"Sean-Ard-Ghearm\u00e1inis"_s)
+			$of(u"Sean-Ard-Ghearmáinis"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("grc"_s),
-			$of(u"Sean-Ghr\u00e9igis"_s)
+			$of(u"Sean-Ghréigis"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gsw"_s),
-			$of(u"Gearm\u00e1inis Eilv\u00e9iseach"_s)
+			$of(u"Gearmáinis Eilvéiseach"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("guc"_s),
-			$of(u"Ua\u00fais"_s)
+			$of(u"Uaúis"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("guz"_s),
-			$of(u"G\u00faisis"_s)
+			$of(u"Gúisis"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("hak"_s),
-			$of(u"Haic\u00e9is"_s)
+			$of(u"Haicéis"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("haw"_s),
-			$of(u"Hav\u00e1is"_s)
+			$of(u"Haváis"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("hif"_s),
-			$of(u"Hiond\u00fais Fhids\u00ed"_s)
+			$of(u"Hiondúis Fhidsí"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("hil"_s),
-			$of(u"Hilgean\u00f3inis"_s)
+			$of(u"Hilgeanóinis"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("hit"_s),
@@ -2178,11 +2178,11 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("hsn"_s),
-			$of(u"S\u00ednis Xiang"_s)
+			$of(u"Sínis Xiang"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("hup"_s),
-			$of(u"H\u00faipis"_s)
+			$of(u"Húipis"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ibb"_s),
@@ -2190,7 +2190,7 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("inh"_s),
-			$of(u"Iong\u00fais"_s)
+			$of(u"Iongúis"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("jbo"_s),
@@ -2206,15 +2206,15 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("jut"_s),
-			$of(u"I\u00fatlainnis"_s)
+			$of(u"Iútlainnis"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kaa"_s),
-			$of(u"Cara-Chalp\u00e1is"_s)
+			$of(u"Cara-Chalpáis"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kab"_s),
-			$of(u"Caib\u00edlis"_s)
+			$of(u"Caibílis"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kam"_s),
@@ -2226,7 +2226,7 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("kea"_s),
-			$of(u"Cri\u00f3l Cabo Verde"_s)
+			$of(u"Criól Cabo Verde"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("khq"_s),
@@ -2234,7 +2234,7 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("kkj"_s),
-			$of(u"Cac\u00f3is"_s)
+			$of(u"Cacóis"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kln"_s),
@@ -2242,15 +2242,15 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("kok"_s),
-			$of(u"Conc\u00e1inis"_s)
+			$of(u"Concáinis"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("krl"_s),
-			$of(u"Cair\u00e9ilis"_s)
+			$of(u"Cairéilis"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kru"_s),
-			$of(u"Cur\u00faicis"_s)
+			$of(u"Curúicis"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ksb"_s),
@@ -2266,27 +2266,27 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("lad"_s),
-			$of(u"Laid\u00ednis"_s)
+			$of(u"Laidínis"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lag"_s),
-			$of(u"L\u00e1ingis"_s)
+			$of(u"Láingis"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lah"_s),
-			$of(u"Puinse\u00e1ibis Iartharach"_s)
+			$of(u"Puinseáibis Iartharach"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lij"_s),
-			$of(u"Liog\u00fairis"_s)
+			$of(u"Liogúiris"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("liv"_s),
-			$of(u"Liov\u00f3inis"_s)
+			$of(u"Liovóinis"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lkt"_s),
-			$of(u"Lac\u00f3tais"_s)
+			$of(u"Lacótais"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lmo"_s),
@@ -2298,7 +2298,7 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("luo"_s),
-			$of(u"L\u00fa\u00f3is"_s)
+			$of(u"Lúóis"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("luy"_s),
@@ -2310,7 +2310,7 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("mas"_s),
-			$of(u"M\u00e1sais"_s)
+			$of(u"Másais"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("men"_s),
@@ -2326,7 +2326,7 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("mga"_s),
-			$of(u"Me\u00e1n-Ghaeilge"_s)
+			$of(u"Meán-Ghaeilge"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mgh"_s),
@@ -2334,15 +2334,15 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("mgo"_s),
-			$of(u"Meta\u02bc"_s)
+			$of(u"Metaʼ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mni"_s),
-			$of(u"Manap\u00fairis"_s)
+			$of(u"Manapúiris"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("moh"_s),
-			$of(u"M\u00f3h\u00e1icis"_s)
+			$of(u"Móháicis"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mrj"_s),
@@ -2358,7 +2358,7 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("mwl"_s),
-			$of(u"Mioraind\u00e9is"_s)
+			$of(u"Mioraindéis"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mwr"_s),
@@ -2366,15 +2366,15 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("mzn"_s),
-			$of(u"M\u00e1zandar\u00e1inis"_s)
+			$of(u"Mázandaráinis"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("nan"_s),
-			$of(u"S\u00ednis Min Nan"_s)
+			$of(u"Sínis Min Nan"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("nap"_s),
-			$of(u"Nap\u00f3ilis"_s)
+			$of(u"Napóilis"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("naq"_s),
@@ -2382,11 +2382,11 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("nds"_s),
-			$of(u"Gearm\u00e1inis \u00cdochtarach"_s)
+			$of(u"Gearmáinis Íochtarach"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("niu"_s),
-			$of(u"N\u00edobhais"_s)
+			$of(u"Níobhais"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("nmg"_s),
@@ -2402,7 +2402,7 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("nso"_s),
-			$of(u"S\u00fat\u00fais an Tuaiscirt"_s)
+			$of(u"Sútúis an Tuaiscirt"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("nus"_s),
@@ -2410,11 +2410,11 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("nyn"_s),
-			$of(u"Nianc\u00f3ilis"_s)
+			$of(u"Niancóilis"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pcm"_s),
-			$of(u"pidsean na Nig\u00e9ire"_s)
+			$of(u"pidsean na Nigéire"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("peo"_s),
@@ -2422,11 +2422,11 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("prg"_s),
-			$of(u"Pr\u00faisis"_s)
+			$of(u"Prúisis"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("quc"_s),
-			$of(u"Cuits\u00e9is"_s)
+			$of(u"Cuitséis"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("rof"_s),
@@ -2438,7 +2438,7 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("rup"_s),
-			$of(u"Ar\u00f3m\u00e1inis"_s)
+			$of(u"Arómáinis"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("rwk"_s),
@@ -2450,7 +2450,7 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("sam"_s),
-			$of(u"Aramais Sham\u00e1rach"_s)
+			$of(u"Aramais Shamárach"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("saq"_s),
@@ -2458,7 +2458,7 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("sat"_s),
-			$of(u"Sant\u00e1ilis"_s)
+			$of(u"Santáilis"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sbp"_s),
@@ -2490,31 +2490,31 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("sma"_s),
-			$of(u"S\u00e1imis Theas"_s)
+			$of(u"Sáimis Theas"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("smj"_s),
-			$of(u"S\u00e1imis Lule"_s)
+			$of(u"Sáimis Lule"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("smn"_s),
-			$of(u"S\u00e1imis Inari"_s)
+			$of(u"Sáimis Inari"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sms"_s),
-			$of(u"S\u00e1imis Skolt"_s)
+			$of(u"Sáimis Skolt"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sog"_s),
-			$of(u"Sogd\u00e1nais"_s)
+			$of(u"Sogdánais"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sux"_s),
-			$of(u"Suim\u00e9iris"_s)
+			$of(u"Suiméiris"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("swb"_s),
-			$of(u"Com\u00f3iris"_s)
+			$of(u"Comóiris"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("syr"_s),
@@ -2522,7 +2522,7 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("szl"_s),
-			$of(u"Sil\u00e9isis"_s)
+			$of(u"Siléisis"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("teo"_s),
@@ -2542,7 +2542,7 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("tzm"_s),
-			$of(u"Tamazight Atlais L\u00e1ir"_s)
+			$of(u"Tamazight Atlais Láir"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("udm"_s),
@@ -2558,11 +2558,11 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("vec"_s),
-			$of(u"Vein\u00e9isis"_s)
+			$of(u"Veinéisis"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("vls"_s),
-			$of(u"Pl\u00e9imeannais Iartharach"_s)
+			$of(u"Pléimeannais Iartharach"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("vun"_s),
@@ -2574,7 +2574,7 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("xal"_s),
-			$of(u"Cailm\u00edcis"_s)
+			$of(u"Cailmícis"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xog"_s),
@@ -2590,19 +2590,19 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("zea"_s),
-			$of(u"S\u00e9alainnis"_s)
+			$of(u"Séalainnis"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("zgh"_s),
-			$of(u"Tamaisis Chaighde\u00e1nach Mharac\u00f3"_s)
+			$of(u"Tamaisis Chaighdeánach Mharacó"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("zun"_s),
-			$of(u"Z\u00fainis"_s)
+			$of(u"Zúinis"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("zxx"_s),
-			$of(u"Gan \u00e1bhar teangeola\u00edoch"_s)
+			$of(u"Gan ábhar teangeolaíoch"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Adlm"_s),
@@ -2610,7 +2610,7 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("Aghb"_s),
-			$of(u"Alb\u00e1nach Cugasach"_s)
+			$of(u"Albánach Cugasach"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Ahom"_s),
@@ -2622,19 +2622,19 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("Armi"_s),
-			$of(u"Aramach Impiri\u00fail"_s)
+			$of(u"Aramach Impiriúil"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Armn"_s),
-			$of(u"Airm\u00e9anach"_s)
+			$of(u"Airméanach"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Avst"_s),
-			$of(u"Aiv\u00e9isteach"_s)
+			$of(u"Aivéisteach"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Bali"_s),
-			$of(u"Bail\u00edoch"_s)
+			$of(u"Bailíoch"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Batk"_s),
@@ -2642,7 +2642,7 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("Beng"_s),
-			$of(u"Beang\u00e1lach"_s)
+			$of(u"Beangálach"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Bopo"_s),
@@ -2662,11 +2662,11 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("Cans"_s),
-			$of(u"Siollach Bund\u00fachasach Ceanadach Aontaithe"_s)
+			$of(u"Siollach Bundúchasach Ceanadach Aontaithe"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Cher"_s),
-			$of(u"Seiric\u00edoch"_s)
+			$of(u"Seiricíoch"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Copt"_s),
@@ -2682,27 +2682,27 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("Deva"_s),
-			$of(u"D\u00e9ivean\u00e1grach"_s)
+			$of(u"Déiveanágrach"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Dupl"_s),
-			$of(u"Gearrscr\u00edobh Duployan"_s)
+			$of(u"Gearrscríobh Duployan"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Egyd"_s),
-			$of(u"\u00c9igipteach coiteann"_s)
+			$of(u"Éigipteach coiteann"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Egyh"_s),
-			$of(u"\u00c9igipteach cliar\u00fail"_s)
+			$of(u"Éigipteach cliarúil"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Egyp"_s),
-			$of(u"Iairiglif\u00ed \u00c9igipteacha"_s)
+			$of(u"Iairiglifí Éigipteacha"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Ethi"_s),
-			$of(u"Aet\u00f3pach"_s)
+			$of(u"Aetópach"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Geor"_s),
@@ -2718,15 +2718,15 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("Grek"_s),
-			$of(u"Gr\u00e9agach"_s)
+			$of(u"Gréagach"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Gujr"_s),
-			$of(u"G\u00faisear\u00e1tach"_s)
+			$of(u"Gúisearátach"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Guru"_s),
-			$of(u"Gurm\u00facach"_s)
+			$of(u"Gurmúcach"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Hanb"_s),
@@ -2742,7 +2742,7 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("Hano"_s),
-			$of(u"Hanan\u00fais"_s)
+			$of(u"Hananúis"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Hans"_s),
@@ -2750,7 +2750,7 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("Hant"_s),
-			$of(u"Traidisi\u00fanta"_s)
+			$of(u"Traidisiúnta"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Hebr"_s),
@@ -2758,43 +2758,43 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("Hira"_s),
-			$of(u"Hireag\u00e1nach"_s)
+			$of(u"Hireagánach"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Hluw"_s),
-			$of(u"Iairiglif\u00ed Anat\u00f3lacha"_s)
+			$of(u"Iairiglifí Anatólacha"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Hrkt"_s),
-			$of(u"Siollabra\u00ed Seap\u00e1nacha"_s)
+			$of(u"Siollabraí Seapánacha"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Hung"_s),
-			$of(u"Sean-Ung\u00e1rach"_s)
+			$of(u"Sean-Ungárach"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Ital"_s),
-			$of(u"Sean-Iod\u00e1ilic"_s)
+			$of(u"Sean-Iodáilic"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Jamo"_s),
-			$of(u"Seam\u00f3"_s)
+			$of(u"Seamó"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Java"_s),
-			$of(u"I\u00e1vach"_s)
+			$of(u"Iávach"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Jpan"_s),
-			$of(u"Seap\u00e1nach"_s)
+			$of(u"Seapánach"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Kana"_s),
-			$of(u"Catac\u00e1nach"_s)
+			$of(u"Catacánach"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Khmr"_s),
-			$of(u"Cim\u00e9arach"_s)
+			$of(u"Ciméarach"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Knda"_s),
@@ -2802,7 +2802,7 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("Kore"_s),
-			$of(u"C\u00f3ir\u00e9ach"_s)
+			$of(u"Cóiréach"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Laoo"_s),
@@ -2810,7 +2810,7 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("Latg"_s),
-			$of(u"Cl\u00f3 Gaelach"_s)
+			$of(u"Cló Gaelach"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Latn"_s),
@@ -2818,15 +2818,15 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("Limb"_s),
-			$of(u"Liomb\u00fach"_s)
+			$of(u"Liombúch"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Lina"_s),
-			$of(u"L\u00edneach A"_s)
+			$of(u"Líneach A"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Linb"_s),
-			$of(u"L\u00edneach B"_s)
+			$of(u"Líneach B"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Lisu"_s),
@@ -2842,15 +2842,15 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("Mahj"_s),
-			$of(u"Mahas\u00e1nach"_s)
+			$of(u"Mahasánach"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Mani"_s),
-			$of(u"Mainic\u00e9asach"_s)
+			$of(u"Mainicéasach"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Maya"_s),
-			$of(u"Iairiglif\u00ed M\u00e1igheacha"_s)
+			$of(u"Iairiglifí Máigheacha"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Mend"_s),
@@ -2858,11 +2858,11 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("Mlym"_s),
-			$of(u"Mail\u00e9alamach"_s)
+			$of(u"Mailéalamach"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Mong"_s),
-			$of(u"Mong\u00f3lach"_s)
+			$of(u"Mongólach"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Mult"_s),
@@ -2882,7 +2882,7 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("Nkoo"_s),
-			$of(u"N-c\u00f3is"_s)
+			$of(u"N-cóis"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Ogam"_s),
@@ -2890,11 +2890,11 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("Orya"_s),
-			$of(u"Oir\u00edseach"_s)
+			$of(u"Oiríseach"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Osge"_s),
-			$of(u"\u00d3s\u00e1is"_s)
+			$of(u"Ósáis"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Perm"_s),
@@ -2902,7 +2902,7 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("Phnx"_s),
-			$of(u"F\u00e9in\u00edceach"_s)
+			$of(u"Féiníceach"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Plrd"_s),
@@ -2910,15 +2910,15 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("Prti"_s),
-			$of(u"Pairtiach Inscr\u00edbhinni\u00fail"_s)
+			$of(u"Pairtiach Inscríbhinniúil"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Runr"_s),
-			$of(u"R\u00fanach"_s)
+			$of(u"Rúnach"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Samr"_s),
-			$of(u"Sam\u00e1rach"_s)
+			$of(u"Samárach"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Sarb"_s),
@@ -2926,7 +2926,7 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("Sgnw"_s),
-			$of(u"Litritheoireacht Comhartha\u00ed"_s)
+			$of(u"Litritheoireacht Comharthaí"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Shaw"_s),
@@ -2934,11 +2934,11 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("Sinh"_s),
-			$of(u"Siol\u00f3nach"_s)
+			$of(u"Siolónach"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Sund"_s),
-			$of(u"Sundain\u00e9is"_s)
+			$of(u"Sundainéis"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Syrc"_s),
@@ -2958,7 +2958,7 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("Telu"_s),
-			$of(u"Teileag\u00fach"_s)
+			$of(u"Teileagúch"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Tfng"_s),
@@ -2966,23 +2966,23 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("Tglg"_s),
-			$of(u"Tag\u00e1lagach"_s)
+			$of(u"Tagálagach"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Thaa"_s),
-			$of(u"T\u00e1nach"_s)
+			$of(u"Tánach"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Thai"_s),
-			$of(u"T\u00e9alannach"_s)
+			$of(u"Téalannach"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Tibt"_s),
-			$of(u"Tib\u00e9adach"_s)
+			$of(u"Tibéadach"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Ugar"_s),
-			$of(u"\u00dagair\u00edteach"_s)
+			$of(u"Úgairíteach"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Vaii"_s),
@@ -2994,11 +2994,11 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("Xsux"_s),
-			$of(u"Dingchruthach Suim\u00e9ar-Ac\u00e1dach"_s)
+			$of(u"Dingchruthach Suiméar-Acádach"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Yiii"_s),
-			$of(u"\u00cds"_s)
+			$of(u"Ís"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Zinh"_s),
@@ -3006,7 +3006,7 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("Zmth"_s),
-			$of(u"Nodaireacht Mhatamaitici\u00fail"_s)
+			$of(u"Nodaireacht Mhatamaiticiúil"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Zsye"_s),
@@ -3014,11 +3014,11 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("Zsym"_s),
-			$of(u"Siombail\u00ed"_s)
+			$of(u"Siombailí"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Zxxx"_s),
-			$of(u"Gan Scr\u00edobh"_s)
+			$of(u"Gan Scríobh"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Zyyy"_s),
@@ -3030,35 +3030,35 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("de_AT"_s),
-			$of(u"Gearm\u00e1inis Ostarach"_s)
+			$of(u"Gearmáinis Ostarach"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("de_CH"_s),
-			$of(u"Ard-Ghearm\u00e1inis Eilv\u00e9iseach"_s)
+			$of(u"Ard-Ghearmáinis Eilvéiseach"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("en_AU"_s),
-			$of(u"B\u00e9arla Astr\u00e1lach"_s)
+			$of(u"Béarla Astrálach"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("en_CA"_s),
-			$of(u"B\u00e9arla Ceanadach"_s)
+			$of(u"Béarla Ceanadach"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("en_GB"_s),
-			$of(u"B\u00e9arla Briotanach"_s)
+			$of(u"Béarla Briotanach"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("en_US"_s),
-			$of(u"B\u00e9arla Meirice\u00e1nach"_s)
+			$of(u"Béarla Meiriceánach"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("es_ES"_s),
-			$of(u"Sp\u00e1innis Eorpach"_s)
+			$of(u"Spáinnis Eorpach"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("es_MX"_s),
-			$of(u"Sp\u00e1innis Mheicsiceach"_s)
+			$of(u"Spáinnis Mheicsiceach"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("fa_AF"_s),
@@ -3070,59 +3070,59 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("fr_CH"_s),
-			$of(u"Fraincis Eilv\u00e9iseach"_s)
+			$of(u"Fraincis Eilvéiseach"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("nl_BE"_s),
-			$of(u"Pl\u00e9imeannais"_s)
+			$of(u"Pléimeannais"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pt_BR"_s),
-			$of(u"Portaing\u00e9ilis Bhrasa\u00edleach"_s)
+			$of(u"Portaingéilis Bhrasaíleach"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pt_PT"_s),
-			$of(u"Portaing\u00e9ilis Ib\u00e9arach"_s)
+			$of(u"Portaingéilis Ibéarach"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ro_MD"_s),
-			$of(u"Mold\u00e1ivis"_s)
+			$of(u"Moldáivis"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sw_CD"_s),
-			$of(u"Svaha\u00edlis an Chong\u00f3"_s)
+			$of(u"Svahaílis an Chongó"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("%%1901"_s),
-			$of(u"Litri\u00fa Traidisi\u00fanta na Gearm\u00e1inise"_s)
+			$of(u"Litriú Traidisiúnta na Gearmáinise"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("%%1994"_s),
-			$of(u"Ortagrafa\u00edocht Resian Chaighde\u00e1naithe"_s)
+			$of(u"Ortagrafaíocht Resian Chaighdeánaithe"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("%%1996"_s),
-			$of(u"Ortagrafa\u00edocht na Gearm\u00e1inise in 1996"_s)
+			$of(u"Ortagrafaíocht na Gearmáinise in 1996"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ar_001"_s),
-			$of(u"Araibis Chaighde\u00e1nach"_s)
+			$of(u"Araibis Chaighdeánach"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("es_419"_s),
-			$of(u"Sp\u00e1innis Mheirice\u00e1 Laidinigh"_s)
+			$of(u"Spáinnis Mheiriceá Laidinigh"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("key.ca"_s),
-			$of(u"F\u00e9ilire"_s)
+			$of(u"Féilire"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("key.cf"_s),
-			$of(u"Form\u00e1id Airgeadra"_s)
+			$of(u"Formáid Airgeadra"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("key.co"_s),
-			$of(u"Ord S\u00f3rt\u00e1la"_s)
+			$of(u"Ord Sórtála"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("key.cu"_s),
@@ -3134,11 +3134,11 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("key.lb"_s),
-			$of(u"St\u00edl Briseadh L\u00edne"_s)
+			$of(u"Stíl Briseadh Líne"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("key.ms"_s),
-			$of(u"C\u00f3ras Tomhais"_s)
+			$of(u"Córas Tomhais"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("key.nu"_s),
@@ -3146,19 +3146,19 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("nds_NL"_s),
-			$of(u"Sacsainis \u00cdochtarach"_s)
+			$of(u"Sacsainis Íochtarach"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("%%ALUKU"_s),
-			$of(u"Can\u00faint Aluku"_s)
+			$of(u"Canúint Aluku"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("%%BARLA"_s),
-			$of(u"Gr\u00fapa can\u00fana Barlavento de Kabuverdianu"_s)
+			$of(u"Grúpa canúna Barlavento de Kabuverdianu"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("%%BISKE"_s),
-			$of(u"Can\u00faint San Giorgo/Bila"_s)
+			$of(u"Canúint San Giorgo/Bila"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("%%BOONT"_s),
@@ -3166,7 +3166,7 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("%%CORNU"_s),
-			$of(u"B\u00e9arla an Choirn"_s)
+			$of(u"Béarla an Choirn"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("%%JAUER"_s),
@@ -3174,35 +3174,35 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("%%KKCOR"_s),
-			$of(u"Gn\u00e1th-Litri\u00fa"_s)
+			$of(u"Gnáth-Litriú"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("%%KSCOR"_s),
-			$of(u"Litri\u00fa Caighde\u00e1nach"_s)
+			$of(u"Litriú Caighdeánach"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("%%LIPAW"_s),
-			$of(u"Can\u00faint Lipovaz de Resian"_s)
+			$of(u"Canúint Lipovaz de Resian"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("%%NEDIS"_s),
-			$of(u"Can\u00faint Natisone"_s)
+			$of(u"Canúint Natisone"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("%%NJIVA"_s),
-			$of(u"Can\u00faint Gniva/Njiva"_s)
+			$of(u"Canúint Gniva/Njiva"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("%%NULIK"_s),
-			$of(u"Volap\u00fck Nua-Aimseartha"_s)
+			$of(u"Volapük Nua-Aimseartha"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("%%OSOJS"_s),
-			$of(u"Can\u00faint Oseacco/Osojane"_s)
+			$of(u"Canúint Oseacco/Osojane"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("%%POSIX"_s),
-			$of(u"R\u00edomhaire"_s)
+			$of(u"Ríomhaire"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("%%PUTER"_s),
@@ -3210,7 +3210,7 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("%%RIGIK"_s),
-			$of(u"Volap\u00fck Clasaiceach"_s)
+			$of(u"Volapük Clasaiceach"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("%%ROZAJ"_s),
@@ -3226,99 +3226,99 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("%%SOLBA"_s),
-			$of(u"Can\u00faint Stolvizza/Solbica"_s)
+			$of(u"Canúint Stolvizza/Solbica"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("%%SOTAV"_s),
-			$of(u"Gr\u00fapa can\u00fana Sotavento de Kabuverdianu"_s)
+			$of(u"Grúpa canúna Sotavento de Kabuverdianu"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("%%UCCOR"_s),
-			$of(u"Litri\u00fa Comhaontaithe"_s)
+			$of(u"Litriú Comhaontaithe"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("zh_Hans"_s),
-			$of(u"S\u00ednis Shimplithe"_s)
+			$of(u"Sínis Shimplithe"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("zh_Hant"_s),
-			$of(u"S\u00ednis Thraidisi\u00fanta"_s)
+			$of(u"Sínis Thraidisiúnta"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("%%AO1990"_s),
-			$of(u"Comhaont\u00fa Ortagrafa\u00edochta Theanga na Portaing\u00e9ilise, 1990"_s)
+			$of(u"Comhaontú Ortagrafaíochta Theanga na Portaingéilise, 1990"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("%%DAJNKO"_s),
-			$of(u"Aib\u00edtir Dajnko"_s)
+			$of(u"Aibítir Dajnko"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("%%EKAVSK"_s),
-			$of(u"Seirbis le fuaimni\u00fa Ekavian"_s)
+			$of(u"Seirbis le fuaimniú Ekavian"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("%%FONIPA"_s),
-			$of(u"Fogharscr\u00edobh IPA"_s)
+			$of(u"Fogharscríobh IPA"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("%%FONUPA"_s),
-			$of(u"Fogharscr\u00edobh UPA"_s)
+			$of(u"Fogharscríobh UPA"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("%%NDYUKA"_s),
-			$of(u"Can\u00faint Ndyuka"_s)
+			$of(u"Canúint Ndyuka"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("%%PAMAKA"_s),
-			$of(u"Can\u00faint Pamaka"_s)
+			$of(u"Canúint Pamaka"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("%%PINYIN"_s),
-			$of(u"R\u00f3mh\u00e1n\u00fa Pinyin"_s)
+			$of(u"Rómhánú Pinyin"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("%%SCOUSE"_s),
-			$of(u"B\u00e9arla Learphoill"_s)
+			$of(u"Béarla Learphoill"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("%%SIMPLE"_s),
-			$of(u"Simpl\u00ed"_s)
+			$of(u"Simplí"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("%%TARASK"_s),
-			$of(u"Ortografa\u00edocht Taraskievica"_s)
+			$of(u"Ortografaíocht Taraskievica"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("%%UCRCOR"_s),
-			$of(u"Litri\u00fa Comhaontaithe Athbhreithnithe"_s)
+			$of(u"Litriú Comhaontaithe Athbhreithnithe"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("%%ULSTER"_s),
-			$of(u"C\u00faige Uladh"_s)
+			$of(u"Cúige Uladh"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("%%UNIFON"_s),
-			$of(u"Aib\u00edtir foghra\u00edochta Unifon"_s)
+			$of(u"Aibítir foghraíochta Unifon"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("%%ABL1943"_s),
-			$of(u"Foirmi\u00fa ortagrafa\u00edochta in 1943"_s)
+			$of(u"Foirmiú ortagrafaíochta in 1943"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("%%ALALC97"_s),
-			$of(u"R\u00f3mh\u00e1n\u00fa ALA-LC, eagr\u00e1n 1997"_s)
+			$of(u"Rómhánú ALA-LC, eagrán 1997"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("%%AREVELA"_s),
-			$of(u"Airm\u00e9inis an Oirthir"_s)
+			$of(u"Airméinis an Oirthir"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("%%AREVMDA"_s),
-			$of(u"Airm\u00e9inis an Iarthair"_s)
+			$of(u"Airméinis an Iarthair"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("%%BALANKA"_s),
-			$of(u"Can\u00faint Balanka de Anii"_s)
+			$of(u"Canúint Balanka de Anii"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("%%BAUDDHA"_s),
@@ -3326,11 +3326,11 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("%%BOHORIC"_s),
-			$of(u"Aib\u00edtir Bohori\u010d"_s)
+			$of(u"Aibítir Bohorič"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("%%EMODENG"_s),
-			$of(u"Nua-Bh\u00e9arla Moch"_s)
+			$of(u"Nua-Bhéarla Moch"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("%%FONNAPA"_s),
@@ -3338,7 +3338,7 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("%%HEPBURN"_s),
-			$of(u"R\u00f3mh\u00e1n\u00fa Hepburn"_s)
+			$of(u"Rómhánú Hepburn"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("%%ITIHASA"_s),
@@ -3350,7 +3350,7 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("%%METELKO"_s),
-			$of(u"Aib\u00edtir Metelko"_s)
+			$of(u"Aibítir Metelko"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("%%MONOTON"_s),
@@ -3374,7 +3374,7 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("%%REVISED"_s),
-			$of(u"Litri\u00fa Athbhreithnithe"_s)
+			$of(u"Litriú Athbhreithnithe"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("%%SURSILV"_s),
@@ -3386,11 +3386,11 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("%%VAIDIKA"_s),
-			$of(u"V\u00e9ideach"_s)
+			$of(u"Véideach"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("%%1606NICT"_s),
-			$of(u"Fraincis Dh\u00e9anach Mhe\u00e1nach go 1606"_s)
+			$of(u"Fraincis Dhéanach Mheánach go 1606"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("%%1694ACAD"_s),
@@ -3398,23 +3398,23 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("%%1959ACAD"_s),
-			$of(u"Acad\u00fail"_s)
+			$of(u"Acadúil"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("%%BAKU1926"_s),
-			$of(u"Ab\u00edtir Laidine Tuircice Aontaithe"_s)
+			$of(u"Abítir Laidine Tuircice Aontaithe"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("%%BASICENG"_s),
-			$of(u"Bun-Bh\u00e9arla"_s)
+			$of(u"Bun-Bhéarla"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("%%BISCAYAN"_s),
-			$of(u"BIOSC\u00c1NACH"_s)
+			$of(u"BIOSCÁNACH"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("%%COLB1945"_s),
-			$of(u"Coinbhinsi\u00fan Ortagrafa\u00edochta na Portaing\u00e9ilise na Brasa\u00edle, 1945"_s)
+			$of(u"Coinbhinsiún Ortagrafaíochta na Portaingéilise na Brasaíle, 1945"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("%%FONXSAMP"_s),
@@ -3430,7 +3430,7 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("%%IJEKAVSK"_s),
-			$of(u"Seirbis le fuaimni\u00fa Ijekavach"_s)
+			$of(u"Seirbis le fuaimniú Ijekavach"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("%%JYUTPING"_s),
@@ -3446,11 +3446,11 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("%%NEWFOUND"_s),
-			$of(u"Talamh an \u00c9isc"_s)
+			$of(u"Talamh an Éisc"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("%%OXENDICT"_s),
-			$of(u"Litri\u00fa OED"_s)
+			$of(u"Litriú OED"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("%%PETR1708"_s),
@@ -3458,7 +3458,7 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("%%SCOTLAND"_s),
-			$of(u"B\u00e9arla Caighde\u00e1nach na hAlban"_s)
+			$of(u"Béarla Caighdeánach na hAlban"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("%%SPANGLIS"_s),
@@ -3478,7 +3478,7 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("%%WADEGILE"_s),
-			$of(u"R\u00f3mh\u00e1n\u00fa Wade-Giles"_s)
+			$of(u"Rómhánú Wade-Giles"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("%%XSISTEMO"_s),
@@ -3486,7 +3486,7 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("type.ca.roc"_s),
-			$of(u"F\u00e9ilire T\u00e9av\u00e1nach"_s)
+			$of(u"Féilire Téavánach"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.co.eor"_s),
@@ -3494,51 +3494,51 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("type.hc.h11"_s),
-			$of(u"C\u00f3ras 12 Uair (0\u201311)"_s)
+			$of(u"Córas 12 Uair (0–11)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.hc.h12"_s),
-			$of(u"C\u00f3ras 12 Uair (1\u201312)"_s)
+			$of(u"Córas 12 Uair (1–12)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.hc.h23"_s),
-			$of(u"C\u00f3ras 24 Uair (0\u201323)"_s)
+			$of(u"Córas 24 Uair (0–23)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.hc.h24"_s),
-			$of(u"C\u00f3ras 24 Uair (1\u201324)"_s)
+			$of(u"Córas 24 Uair (1–24)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.ahom"_s),
-			$of(u"Digit\u00ed Ahom"_s)
+			$of(u"Digití Ahom"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.arab"_s),
-			$of(u"Digit\u00ed Ind-Arabacha"_s)
+			$of(u"Digití Ind-Arabacha"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.armn"_s),
-			$of(u"Uimhreacha Airm\u00e9anacha"_s)
+			$of(u"Uimhreacha Airméanacha"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.bali"_s),
-			$of(u"Digit\u00ed Bail\u00edocha"_s)
+			$of(u"Digití Bailíocha"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.beng"_s),
-			$of(u"Digit\u00ed Beang\u00e1lacha"_s)
+			$of(u"Digití Beangálacha"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.brah"_s),
-			$of(u"Digit\u00ed Brahmi"_s)
+			$of(u"Digití Brahmi"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.cakm"_s),
-			$of(u"Digit\u00ed Chakma"_s)
+			$of(u"Digití Chakma"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.cham"_s),
-			$of(u"Digit\u00ed Cham"_s)
+			$of(u"Digití Cham"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.cyrl"_s),
@@ -3546,11 +3546,11 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.deva"_s),
-			$of(u"Digit\u00ed D\u00e9ivean\u00e1gracha"_s)
+			$of(u"Digití Déiveanágracha"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.ethi"_s),
-			$of(u"Uimhreacha Aet\u00f3ipice"_s)
+			$of(u"Uimhreacha Aetóipice"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.geor"_s),
@@ -3558,27 +3558,27 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.gonm"_s),
-			$of(u"Digit\u00ed Masaram Gondi"_s)
+			$of(u"Digití Masaram Gondi"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.grek"_s),
-			$of(u"Uimhreacha Gr\u00e9agacha"_s)
+			$of(u"Uimhreacha Gréagacha"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.gujr"_s),
-			$of(u"Digit\u00ed G\u00faisear\u00e1tacha"_s)
+			$of(u"Digití Gúisearátacha"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.guru"_s),
-			$of(u"Digit\u00ed Gurm\u00facacha"_s)
+			$of(u"Digití Gurmúcacha"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.hans"_s),
-			$of(u"Uimhreacha sa tS\u00ednis Shimplithe"_s)
+			$of(u"Uimhreacha sa tSínis Shimplithe"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.hant"_s),
-			$of(u"Uimhreacha sa tS\u00ednis Thraidisi\u00fanta"_s)
+			$of(u"Uimhreacha sa tSínis Thraidisiúnta"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.hebr"_s),
@@ -3586,387 +3586,387 @@ $ObjectArray2* LocaleNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.hmng"_s),
-			$of(u"Digit\u00ed Pahawh Hmong"_s)
+			$of(u"Digití Pahawh Hmong"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.java"_s),
-			$of(u"Digit\u00ed I\u00e1vacha"_s)
+			$of(u"Digití Iávacha"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.jpan"_s),
-			$of(u"Uimhreacha Seap\u00e1nacha"_s)
+			$of(u"Uimhreacha Seapánacha"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.kali"_s),
-			$of(u"Digit\u00ed Kayah Li"_s)
+			$of(u"Digití Kayah Li"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.khmr"_s),
-			$of(u"Digit\u00ed Cim\u00e9aracha"_s)
+			$of(u"Digití Ciméaracha"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.knda"_s),
-			$of(u"Digit\u00ed Cannadacha"_s)
+			$of(u"Digití Cannadacha"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.lana"_s),
-			$of(u"Digit\u00ed Tai Tham Hora"_s)
+			$of(u"Digití Tai Tham Hora"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.laoo"_s),
-			$of(u"Digit\u00ed Laosacha"_s)
+			$of(u"Digití Laosacha"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.latn"_s),
-			$of(u"Digit\u00ed Iartharacha"_s)
+			$of(u"Digití Iartharacha"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.lepc"_s),
-			$of(u"Digit\u00ed Lepcha"_s)
+			$of(u"Digití Lepcha"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.limb"_s),
-			$of(u"Digit\u00ed Limbu"_s)
+			$of(u"Digití Limbu"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.mlym"_s),
-			$of(u"Digit\u00ed Mail\u00e9alamacha"_s)
+			$of(u"Digití Mailéalamacha"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.modi"_s),
-			$of(u"Digit\u00ed Modi"_s)
+			$of(u"Digití Modi"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.mong"_s),
-			$of(u"Digit\u00ed Mong\u00f3lacha"_s)
+			$of(u"Digití Mongólacha"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.mroo"_s),
-			$of(u"Digit\u00ed Mro"_s)
+			$of(u"Digití Mro"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.mtei"_s),
-			$of(u"Digit\u00ed Meetei Mayek"_s)
+			$of(u"Digití Meetei Mayek"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.mymr"_s),
-			$of(u"Digit\u00ed Maenmaracha"_s)
+			$of(u"Digití Maenmaracha"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.nkoo"_s),
-			$of(u"Digit\u00ed N\u2019ko"_s)
+			$of(u"Digití N’ko"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.olck"_s),
-			$of(u"Digit\u00ed Ol Chiki"_s)
+			$of(u"Digití Ol Chiki"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.orya"_s),
-			$of(u"Digit\u00ed Oir\u00edseacha"_s)
+			$of(u"Digití Oiríseacha"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.osma"_s),
-			$of(u"Digit\u00ed Osmanya"_s)
+			$of(u"Digití Osmanya"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.saur"_s),
-			$of(u"Digit\u00ed Saurashtra"_s)
+			$of(u"Digití Saurashtra"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.shrd"_s),
-			$of(u"Digit\u00ed Sharada"_s)
+			$of(u"Digití Sharada"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.sind"_s),
-			$of(u"Digit\u00ed Khudawadi"_s)
+			$of(u"Digití Khudawadi"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.sinh"_s),
-			$of(u"Digit\u00ed Sinhala Lith"_s)
+			$of(u"Digití Sinhala Lith"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.sora"_s),
-			$of(u"Digit\u00ed Sora Sompeng"_s)
+			$of(u"Digití Sora Sompeng"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.sund"_s),
-			$of(u"Digit\u00ed Sundain\u00e9ise"_s)
+			$of(u"Digití Sundainéise"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.takr"_s),
-			$of(u"Digit\u00ed Takri"_s)
+			$of(u"Digití Takri"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.talu"_s),
-			$of(u"Digit\u00ed Tai Lue Nua"_s)
+			$of(u"Digití Tai Lue Nua"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.taml"_s),
-			$of(u"Uimhreacha Traidisi\u00fanta Tamalacha"_s)
+			$of(u"Uimhreacha Traidisiúnta Tamalacha"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.telu"_s),
-			$of(u"Digit\u00ed Teileag\u00facha"_s)
+			$of(u"Digití Teileagúcha"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.thai"_s),
-			$of(u"Digit\u00ed T\u00e9alannacha"_s)
+			$of(u"Digití Téalannacha"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.tibt"_s),
-			$of(u"Digit\u00ed Tib\u00e9adacha"_s)
+			$of(u"Digití Tibéadacha"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.tirh"_s),
-			$of(u"Digit\u00ed Tirhuta"_s)
+			$of(u"Digití Tirhuta"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.vaii"_s),
-			$of(u"Digit\u00ed Vai"_s)
+			$of(u"Digití Vai"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.wara"_s),
-			$of(u"Digit\u00ed Warang Citi"_s)
+			$of(u"Digití Warang Citi"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.ca.dangi"_s),
-			$of(u"F\u00e9ilire Dangi"_s)
+			$of(u"Féilire Dangi"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.co.ducet"_s),
-			$of(u"Ord S\u00f3rt\u00e1la R\u00e9amhshocraithe Unicode"_s)
+			$of(u"Ord Sórtála Réamhshocraithe Unicode"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.co.emoji"_s),
-			$of(u"Ord S\u00f3rt\u00e1la Emoji"_s)
+			$of(u"Ord Sórtála Emoji"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.lb.loose"_s),
-			$of(u"St\u00edl Briseadh L\u00edne Scaoilte"_s)
+			$of(u"Stíl Briseadh Líne Scaoilte"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.roman"_s),
-			$of(u"Uimhreacha R\u00f3mh\u00e1nacha"_s)
+			$of(u"Uimhreacha Rómhánacha"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.ca.coptic"_s),
-			$of(u"F\u00e9ilire Coptach"_s)
+			$of(u"Féilire Coptach"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.ca.hebrew"_s),
-			$of(u"F\u00e9ilire na nEabhrach"_s)
+			$of(u"Féilire na nEabhrach"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.ca.indian"_s),
-			$of(u"F\u00e9ilire N\u00e1isi\u00fanta na hIndia"_s)
+			$of(u"Féilire Náisiúnta na hIndia"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.co.compat"_s),
-			$of(u"Ord S\u00f3rt\u00e1la Roimhe Seo, ar son na comhoiri\u00fanachta"_s)
+			$of(u"Ord Sórtála Roimhe Seo, ar son na comhoiriúnachta"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.co.pinyin"_s),
-			$of(u"Ord s\u00f3rt\u00e1la pinyin"_s)
+			$of(u"Ord sórtála pinyin"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.co.search"_s),
-			$of(u"Cuardach Ilfh\u00f3inteach"_s)
+			$of(u"Cuardach Ilfhóinteach"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.co.stroke"_s),
-			$of(u"Ord s\u00f3rt\u00e1la str\u00edce"_s)
+			$of(u"Ord sórtála stríce"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.co.unihan"_s),
-			$of(u"Ord S\u00f3rt\u00e1la Str\u00edce Radaca\u00ed"_s)
+			$of(u"Ord Sórtála Stríce Radacaí"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.co.zhuyin"_s),
-			$of(u"Ord S\u00f3rt\u00e1la Zhuyin"_s)
+			$of(u"Ord Sórtála Zhuyin"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.lb.normal"_s),
-			$of(u"St\u00edl Gn\u00e1thbhriseadh L\u00edne"_s)
+			$of(u"Stíl Gnáthbhriseadh Líne"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.lb.strict"_s),
-			$of(u"St\u00edl Briseadh L\u00edne Docht"_s)
+			$of(u"Stíl Briseadh Líne Docht"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.ms.metric"_s),
-			$of(u"C\u00f3ras M\u00e9adrach"_s)
+			$of(u"Córas Méadrach"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.ca.chinese"_s),
-			$of(u"F\u00e9ilire S\u00edneach"_s)
+			$of(u"Féilire Síneach"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.ca.islamic"_s),
-			$of(u"F\u00e9ilire Ioslamach"_s)
+			$of(u"Féilire Ioslamach"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.ca.iso8601"_s),
-			$of(u"F\u00e9ilire ISO-8601"_s)
+			$of(u"Féilire ISO-8601"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.ca.persian"_s),
-			$of(u"F\u00e9ilire Peirseach"_s)
+			$of(u"Féilire Peirseach"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.cf.account"_s),
-			$of(u"Form\u00e1id Airgeadra don Chuntasa\u00edocht"_s)
+			$of(u"Formáid Airgeadra don Chuntasaíocht"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.co.big5han"_s),
-			$of(u"Ord s\u00f3rt\u00e1la S\u00edneach traidisi\u00fanta - Big5"_s)
+			$of(u"Ord sórtála Síneach traidisiúnta - Big5"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.arabext"_s),
-			$of(u"Digit\u00ed Ind-Arabacha Breisithe"_s)
+			$of(u"Digití Ind-Arabacha Breisithe"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.armnlow"_s),
-			$of(u"Uimhreacha C\u00e1s \u00cdochtair Airm\u00e9anacha"_s)
+			$of(u"Uimhreacha Cás Íochtair Airméanacha"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.greklow"_s),
-			$of(u"Uimhreacha C\u00e1s \u00cdochtair Gr\u00e9agacha"_s)
+			$of(u"Uimhreacha Cás Íochtair Gréagacha"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.hanidec"_s),
-			$of(u"Uimhreacha Deach\u00falacha S\u00edneacha"_s)
+			$of(u"Uimhreacha Deachúlacha Síneacha"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.hansfin"_s),
-			$of(u"Uimhreacha Airgead\u00fala sa tS\u00ednis Shimplithe"_s)
+			$of(u"Uimhreacha Airgeadúla sa tSínis Shimplithe"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.hantfin"_s),
-			$of(u"Uimhreacha Airgead\u00fala sa tS\u00ednis Thraidisi\u00fanta"_s)
+			$of(u"Uimhreacha Airgeadúla sa tSínis Thraidisiúnta"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.jpanfin"_s),
-			$of(u"Uimhreacha Airgead\u00fala Seap\u00e1nacha"_s)
+			$of(u"Uimhreacha Airgeadúla Seapánacha"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.mathdbl"_s),
-			$of(u"Digit\u00ed Str\u00edce D\u00fabailte Matamaitici\u00fala"_s)
+			$of(u"Digití Stríce Dúbailte Matamaiticiúla"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.tamldec"_s),
-			$of(u"Digit\u00ed Tamalacha"_s)
+			$of(u"Digití Tamalacha"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.ca.buddhist"_s),
-			$of(u"F\u00e9ilire B\u00fada\u00edoch"_s)
+			$of(u"Féilire Búdaíoch"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.ca.ethiopic"_s),
-			$of(u"F\u00e9ilire Aet\u00f3ipice"_s)
+			$of(u"Féilire Aetóipice"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.ca.japanese"_s),
-			$of(u"F\u00e9ilire Seap\u00e1nach"_s)
+			$of(u"Féilire Seapánach"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.cf.standard"_s),
-			$of(u"Form\u00e1id Airgeadra Caighde\u00e1nach"_s)
+			$of(u"Formáid Airgeadra Caighdeánach"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.co.reformed"_s),
-			$of(u"Ord S\u00f3rt\u00e1la Athfhoirmithe"_s)
+			$of(u"Ord Sórtála Athfhoirmithe"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.co.searchjl"_s),
-			$of(u"Cuardach de r\u00e9ir Consan Tosaigh Hangul"_s)
+			$of(u"Cuardach de réir Consan Tosaigh Hangul"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.co.standard"_s),
-			$of(u"Ord S\u00f3rt\u00e1la Caighde\u00e1nach"_s)
+			$of(u"Ord Sórtála Caighdeánach"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.ms.uksystem"_s),
-			$of(u"C\u00f3ras Tomhais Reacht\u00fail"_s)
+			$of(u"Córas Tomhais Reachtúil"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.ms.ussystem"_s),
-			$of(u"C\u00f3ras Tomhais SAM"_s)
+			$of(u"Córas Tomhais SAM"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.fullwide"_s),
-			$of(u"Digit\u00ed L\u00e1nleithid"_s)
+			$of(u"Digití Lánleithid"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.lanatham"_s),
-			$of(u"Digit\u00ed Tai Tham Tham"_s)
+			$of(u"Digití Tai Tham Tham"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.mathbold"_s),
-			$of(u"Digit\u00ed Troma Matamaitici\u00fala"_s)
+			$of(u"Digití Troma Matamaiticiúla"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.mathmono"_s),
-			$of(u"Digit\u00ed Aonsp\u00e1is Matamaitici\u00fala"_s)
+			$of(u"Digití Aonspáis Matamaiticiúla"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.mathsanb"_s),
-			$of(u"Digit\u00ed Troma Sans-Serif Matamaitici\u00fala"_s)
+			$of(u"Digití Troma Sans-Serif Matamaiticiúla"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.mathsans"_s),
-			$of(u"Digit\u00ed Sans-Serif Matamaitici\u00fala"_s)
+			$of(u"Digití Sans-Serif Matamaiticiúla"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.mymrshan"_s),
-			$of(u"Digit\u00ed Myanmar Shan"_s)
+			$of(u"Digití Myanmar Shan"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.mymrtlng"_s),
-			$of(u"Digit\u00ed Myanmar Tai Laing"_s)
+			$of(u"Digití Myanmar Tai Laing"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.romanlow"_s),
-			$of(u"Uimhreacha C\u00e1s \u00cdochtair R\u00f3mh\u00e1nacha"_s)
+			$of(u"Uimhreacha Cás Íochtair Rómhánacha"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.ca.gregorian"_s),
-			$of(u"F\u00e9ilire Ghr\u00e9ag\u00f3ra"_s)
+			$of(u"Féilire Ghréagóra"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.co.gb2312han"_s),
-			$of(u"Ord s\u00f3rt\u00e1la S\u00edneach simplithe - GB 2312"_s)
+			$of(u"Ord sórtála Síneach simplithe - GB 2312"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.co.phonebook"_s),
-			$of(u"Ord s\u00f3rt\u00e1la an eolaire teileaf\u00f3in"_s)
+			$of(u"Ord sórtála an eolaire teileafóin"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.co.dictionary"_s),
-			$of(u"Ord S\u00f3rt\u00e1la Focl\u00f3ir\u00ed"_s)
+			$of(u"Ord Sórtála Foclóirí"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.co.traditional"_s),
-			$of(u"Ord s\u00f3rt\u00e1la traidisi\u00fanta"_s)
+			$of(u"Ord sórtála traidisiúnta"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.ca.islamic-rgsa"_s),
-			$of(u"F\u00e9ilire Ioslamach (an Araib Sh\u00e1dach, dearcadh)"_s)
+			$of(u"Féilire Ioslamach (an Araib Shádach, dearcadh)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.ca.islamic-tbla"_s),
-			$of(u"F\u00e9ilire Ioslamach (t\u00e1blach, seanr\u00e9 r\u00e9alteola\u00edoch)"_s)
+			$of(u"Féilire Ioslamach (táblach, seanré réalteolaíoch)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.ca.islamic-civil"_s),
-			$of(u"F\u00e9ilire Ioslamach (t\u00e1blach, seanr\u00e9 shibhialta)"_s)
+			$of(u"Féilire Ioslamach (táblach, seanré shibhialta)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.ca.islamic-umalqura"_s),
-			$of(u"F\u00e9ilire Ioslamach (Umm al-Qura)"_s)
+			$of(u"Féilire Ioslamach (Umm al-Qura)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.ca.ethiopic-amete-alem"_s),
-			$of(u"F\u00e9ilire Aet\u00f3ipice Amete Alem"_s)
+			$of(u"Féilire Aetóipice Amete Alem"_s)
 		})
 	}));
 	return data;

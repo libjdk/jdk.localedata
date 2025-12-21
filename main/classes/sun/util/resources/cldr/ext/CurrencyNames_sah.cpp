@@ -42,15 +42,15 @@ $ObjectArray2* CurrencyNames_sah::getContents() {
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("RUB"_s),
-			$of(u"\u20bd"_s)
+			$of(u"₽"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("rub"_s),
-			$of(u"\u0410\u0440\u0430\u0441\u0441\u044b\u044b\u0439\u0430 \u0441\u043e\u043b\u043a\u0443\u043e\u0431\u0430\u0439\u0430"_s)
+			$of(u"Арассыыйа солкуобайа"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("usd"_s),
-			$of(u"\u0410\u0425\u0428 \u0434\u0443\u043e\u043b\u043b\u0430\u0440\u0430"_s)
+			$of(u"АХШ дуоллара"_s)
 		})
 	}));
 	return data;

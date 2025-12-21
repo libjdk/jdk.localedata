@@ -41,11 +41,11 @@ $ObjectArray2* LocaleNames_mk::getContents() {
 	return $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("MK"_s),
-			$of(u"\u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0438\u0458\u0430"_s)
+			$of(u"Македонија"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mk"_s),
-			$of(u"\u043c\u0430\u043a\u0435\u0434\u043e\u043d\u0441\u043a\u0438"_s)
+			$of(u"македонски"_s)
 		})
 	});
 }

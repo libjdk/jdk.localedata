@@ -50,7 +50,7 @@ $ObjectArray2* CurrencyNames_es_VE::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ves"_s),
-			$of(u"bol\u00edvar soberano"_s)
+			$of(u"bolívar soberano"_s)
 		})
 	}));
 	return data;

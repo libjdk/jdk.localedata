@@ -42,11 +42,11 @@ $ObjectArray2* LocaleNames_bn_IN::getContents() {
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("UM"_s),
-			$of(u"\u09ae\u09be\u09b0\u09cd\u0995\u09bf\u09a8 \u09af\u09c1\u0995\u09cd\u09a4\u09b0\u09be\u09b7\u09cd\u099f\u09cd\u09b0\u09c7\u09b0 \u09aa\u09be\u09b0\u09cd\u09b6\u09cd\u09ac\u09ac\u09b0\u09cd\u09a4\u09c0 \u09a6\u09cd\u09ac\u09c0\u09aa\u09aa\u09c1\u099e\u09cd\u099c"_s)
+			$of(u"মার্কিন যুক্তরাষ্ট্রের পার্শ্ববর্তী দ্বীপপুঞ্জ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ksh"_s),
-			$of(u"\u0995\u09cb\u09b2\u09cb\u09a8\u09bf\u09af\u09bc\u09be\u09a8"_s)
+			$of(u"কোলোনিয়ান"_s)
 		})
 	}));
 	return data;

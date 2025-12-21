@@ -538,7 +538,7 @@ $ObjectArray2* CurrencyNames_af::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("THB"_s),
-			$of(u"\u0e3f"_s)
+			$of(u"฿"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("TJS"_s),
@@ -714,7 +714,7 @@ $ObjectArray2* CurrencyNames_af::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("byr"_s),
-			$of(u"Belo-Russiese roebel (2000\u20132016)"_s)
+			$of(u"Belo-Russiese roebel (2000–2016)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bzd"_s),
@@ -750,7 +750,7 @@ $ObjectArray2* CurrencyNames_af::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("crc"_s),
-			$of(u"Costa Ricaanse col\u00f3n"_s)
+			$of(u"Costa Ricaanse colón"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cuc"_s),
@@ -818,7 +818,7 @@ $ObjectArray2* CurrencyNames_af::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ghc"_s),
-			$of(u"Ghanese cedi (1979\u20132007)"_s)
+			$of(u"Ghanese cedi (1979–2007)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ghs"_s),
@@ -862,7 +862,7 @@ $ObjectArray2* CurrencyNames_af::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("htg"_s),
-			$of(u"Ha\u00eftiaanse gourde"_s)
+			$of(u"Haïtiaanse gourde"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("huf"_s),
@@ -1006,7 +1006,7 @@ $ObjectArray2* CurrencyNames_af::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("mro"_s),
-			$of(u"Mauritaniese ouguiya (1973\u20132017)"_s)
+			$of(u"Mauritaniese ouguiya (1973–2017)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mru"_s),
@@ -1034,7 +1034,7 @@ $ObjectArray2* CurrencyNames_af::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("mzm"_s),
-			$of(u"Mosambiekse metical (1980\u20132006)"_s)
+			$of(u"Mosambiekse metical (1980–2006)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mzn"_s),
@@ -1050,7 +1050,7 @@ $ObjectArray2* CurrencyNames_af::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("nio"_s),
-			$of(u"Nicaraguaanse c\u00f3rdoba"_s)
+			$of(u"Nicaraguaanse córdoba"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("nok"_s),
@@ -1134,7 +1134,7 @@ $ObjectArray2* CurrencyNames_af::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("sdp"_s),
-			$of(u"Soedannese pond (1957\u20131998)"_s)
+			$of(u"Soedannese pond (1957–1998)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sek"_s),
@@ -1166,11 +1166,11 @@ $ObjectArray2* CurrencyNames_af::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("std"_s),
-			$of(u"S\u00e3o Tom\u00e9 en Pr\u00edncipe dobra (1977\u20132017)"_s)
+			$of(u"São Tomé en Príncipe dobra (1977–2017)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("stn"_s),
-			$of(u"S\u00e3o Tom\u00e9 en Pr\u00edncipe-dobra"_s)
+			$of(u"São Tomé en Príncipe-dobra"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("syp"_s),
@@ -1198,11 +1198,11 @@ $ObjectArray2* CurrencyNames_af::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("top"_s),
-			$of(u"Tongaanse pa\u2019anga"_s)
+			$of(u"Tongaanse pa’anga"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("trl"_s),
-			$of(u"Turkse lier (1922\u20132005)"_s)
+			$of(u"Turkse lier (1922–2005)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("try"_s),
@@ -1222,7 +1222,7 @@ $ObjectArray2* CurrencyNames_af::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("uah"_s),
-			$of(u"Oekra\u00efnse hriwna"_s)
+			$of(u"Oekraïnse hriwna"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ugx"_s),
@@ -1246,11 +1246,11 @@ $ObjectArray2* CurrencyNames_af::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ves"_s),
-			$of(u"Venezolaanse bol\u00edvar"_s)
+			$of(u"Venezolaanse bolívar"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("vnd"_s),
-			$of(u"Vi\u00ebtnamese dong"_s)
+			$of(u"Viëtnamese dong"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("vuv"_s),
@@ -1290,7 +1290,7 @@ $ObjectArray2* CurrencyNames_af::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("zmk"_s),
-			$of(u"Zambiese kwacha (1968\u20132012)"_s)
+			$of(u"Zambiese kwacha (1968–2012)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("zmw"_s),

@@ -222,7 +222,7 @@ $ObjectArray2* CurrencyNames_ka::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("GEL"_s),
-			$of(u"\u20be"_s)
+			$of(u"₾"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("GHS"_s),
@@ -646,987 +646,987 @@ $ObjectArray2* CurrencyNames_ka::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("adp"_s),
-			$of(u"\u10d0\u10dc\u10d3\u10dd\u10e0\u10e3\u10da\u10d8 \u10de\u10d4\u10e1\u10d4\u10e2\u10d0"_s)
+			$of(u"ანდორული პესეტა"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("aed"_s),
-			$of(u"\u10d0\u10e0\u10d0\u10d1\u10d7\u10d0 \u10d2\u10d0\u10d4\u10e0\u10d7\u10d8\u10d0\u10dc\u10d4\u10d1\u10e3\u10da\u10d8 \u10e1\u10d0\u10d0\u10db\u10d8\u10e0\u10dd\u10d4\u10d1\u10d8\u10e1 \u10d3\u10d8\u10e0\u10f0\u10d0\u10db\u10d8"_s)
+			$of(u"არაბთა გაერთიანებული საამიროების დირჰამი"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("afa"_s),
-			$of(u"\u10d0\u10d5\u10e6\u10d0\u10dc\u10d8 (1927\u20132002)"_s)
+			$of(u"ავღანი (1927–2002)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("afn"_s),
-			$of(u"\u10d0\u10d5\u10e6\u10d0\u10dc\u10e3\u10e0\u10d8 \u10d0\u10d5\u10e6\u10d0\u10dc\u10d8"_s)
+			$of(u"ავღანური ავღანი"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("all"_s),
-			$of(u"\u10d0\u10da\u10d1\u10d0\u10dc\u10e3\u10e0\u10d8 \u10da\u10d4\u10d9\u10d8"_s)
+			$of(u"ალბანური ლეკი"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("amd"_s),
-			$of(u"\u10e1\u10dd\u10db\u10ee\u10e3\u10e0\u10d8 \u10d3\u10e0\u10d0\u10db\u10d8"_s)
+			$of(u"სომხური დრამი"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ang"_s),
-			$of(u"\u10dc\u10d8\u10d3\u10d4\u10e0\u10da\u10d0\u10dc\u10d3\u10d4\u10d1\u10d8\u10e1 \u10d0\u10dc\u10e2\u10d8\u10da\u10d4\u10d1\u10d8\u10e1 \u10d2\u10e3\u10da\u10d3\u10d4\u10dc\u10d8"_s)
+			$of(u"ნიდერლანდების ანტილების გულდენი"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("aoa"_s),
-			$of(u"\u10d0\u10dc\u10d2\u10dd\u10da\u10e3\u10e0\u10d8 \u10d9\u10d5\u10d0\u10dc\u10d6\u10d0"_s)
+			$of(u"ანგოლური კვანზა"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("aok"_s),
-			$of(u"\u10d0\u10dc\u10d2\u10dd\u10da\u10e3\u10e0\u10d8 \u10d9\u10d5\u10d0\u10dc\u10d6\u10d0 (1977\u20131990)"_s)
+			$of(u"ანგოლური კვანზა (1977–1990)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("aon"_s),
-			$of(u"\u10d0\u10dc\u10d2\u10dd\u10da\u10e3\u10e0\u10d8 \u10d0\u10ee\u10d0\u10da\u10d8 \u10d9\u10d5\u10d0\u10dc\u10d6\u10d0 (1990\u20132000)"_s)
+			$of(u"ანგოლური ახალი კვანზა (1990–2000)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("aor"_s),
-			$of(u"\u10d0\u10dc\u10d2\u10dd\u10da\u10e3\u10e0\u10d8 \u10db\u10d8\u10e2\u10dd\u10da\u10d4\u10d1\u10e3\u10da\u10d8 \u10d9\u10d5\u10d0\u10dc\u10d6\u10d0 (1995\u20131999)"_s)
+			$of(u"ანგოლური მიტოლებული კვანზა (1995–1999)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ara"_s),
-			$of(u"\u10d0\u10e0\u10d2\u10d4\u10dc\u10e2\u10d8\u10dc\u10e3\u10da\u10d8 \u10d0\u10e3\u10e1\u10e2\u10e0\u10d0\u10da\u10d8"_s)
+			$of(u"არგენტინული აუსტრალი"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("arp"_s),
-			$of(u"\u10d0\u10e0\u10d2\u10d4\u10dc\u10e2\u10d8\u10dc\u10e3\u10da\u10d8 \u10de\u10d4\u10e1\u10dd (1983\u20131985)"_s)
+			$of(u"არგენტინული პესო (1983–1985)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ars"_s),
-			$of(u"\u10d0\u10e0\u10d2\u10d4\u10dc\u10e2\u10d8\u10dc\u10e3\u10da\u10d8 \u10de\u10d4\u10e1\u10dd"_s)
+			$of(u"არგენტინული პესო"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ats"_s),
-			$of(u"\u10d0\u10d5\u10e1\u10e2\u10e0\u10d8\u10e3\u10da\u10d8 \u10e8\u10d8\u10da\u10d8\u10dc\u10d2\u10d8"_s)
+			$of(u"ავსტრიული შილინგი"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("aud"_s),
-			$of(u"\u10d0\u10d5\u10e1\u10e2\u10e0\u10d0\u10da\u10d8\u10e3\u10e0\u10d8 \u10d3\u10dd\u10da\u10d0\u10e0\u10d8"_s)
+			$of(u"ავსტრალიური დოლარი"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("awg"_s),
-			$of(u"\u10d0\u10e0\u10e3\u10d1\u10d0\u10dc\u10e3\u10da\u10d8 \u10d2\u10e3\u10da\u10d3\u10d4\u10dc\u10d8"_s)
+			$of(u"არუბანული გულდენი"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("azm"_s),
-			$of(u"\u10d0\u10d6\u10d4\u10e0\u10d1\u10d0\u10d8\u10ef\u10d0\u10dc\u10e3\u10da\u10d8 \u10db\u10d0\u10dc\u10d0\u10d7\u10d8 (1993\u20132006)"_s)
+			$of(u"აზერბაიჯანული მანათი (1993–2006)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("azn"_s),
-			$of(u"\u10d0\u10d6\u10d4\u10e0\u10d1\u10d0\u10d8\u10ef\u10d0\u10dc\u10e3\u10da\u10d8 \u10db\u10d0\u10dc\u10d0\u10d7\u10d8"_s)
+			$of(u"აზერბაიჯანული მანათი"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bad"_s),
-			$of(u"\u10d1\u10dd\u10e1\u10dc\u10d8\u10d0-\u10f0\u10d4\u10e0\u10ea\u10dd\u10d2\u10dd\u10d5\u10d8\u10dc\u10d0\u10e1 \u10d3\u10d8\u10dc\u10d0\u10e0\u10d8"_s)
+			$of(u"ბოსნია-ჰერცოგოვინას დინარი"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bam"_s),
-			$of(u"\u10d1\u10dd\u10e1\u10dc\u10d8\u10d0 \u10d3\u10d0 \u10f0\u10d4\u10e0\u10ea\u10dd\u10d2\u10dd\u10d5\u10d8\u10dc\u10d0\u10e1 \u10d9\u10dd\u10dc\u10d5\u10d4\u10e0\u10e2\u10d8\u10e0\u10d4\u10d1\u10d0\u10d3\u10d8 \u10db\u10d0\u10e0\u10d9\u10d0"_s)
+			$of(u"ბოსნია და ჰერცოგოვინას კონვერტირებადი მარკა"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bbd"_s),
-			$of(u"\u10d1\u10d0\u10e0\u10d1\u10d0\u10d3\u10dd\u10e1\u10e3\u10da\u10d8 \u10d3\u10dd\u10da\u10d0\u10e0\u10d8"_s)
+			$of(u"ბარბადოსული დოლარი"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bdt"_s),
-			$of(u"\u10d1\u10d0\u10dc\u10d2\u10da\u10d0\u10d3\u10d4\u10e8\u10e3\u10e0\u10d8 \u10e2\u10d0\u10d9\u10d0"_s)
+			$of(u"ბანგლადეშური ტაკა"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bec"_s),
-			$of(u"\u10d1\u10d4\u10da\u10d2\u10d8\u10e3\u10e0\u10d8 \u10e4\u10e0\u10d0\u10dc\u10d9\u10d8 (\u10d9\u10dd\u10d5\u10d4\u10e0\u10e2\u10d8\u10e0\u10d4\u10d1\u10d0\u10d3\u10d8)"_s)
+			$of(u"ბელგიური ფრანკი (კოვერტირებადი)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bef"_s),
-			$of(u"\u10d1\u10d4\u10da\u10d2\u10d8\u10e3\u10e0\u10d8 \u10e4\u10e0\u10d0\u10dc\u10d9\u10d8"_s)
+			$of(u"ბელგიური ფრანკი"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bel"_s),
-			$of(u"\u10d1\u10d4\u10da\u10d2\u10d8\u10e3\u10e0\u10d8 \u10e4\u10e0\u10d0\u10dc\u10d9\u10d8 (\u10e4\u10d8\u10dc\u10d0\u10dc\u10e1\u10e3\u10e0\u10d8)"_s)
+			$of(u"ბელგიური ფრანკი (ფინანსური)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bgl"_s),
-			$of(u"\u10d1\u10e3\u10da\u10d2\u10d0\u10e0\u10e3\u10da\u10d8 \u10db\u10e7\u10d0\u10e0\u10d8 \u10da\u10d4\u10d5\u10d8"_s)
+			$of(u"ბულგარული მყარი ლევი"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bgn"_s),
-			$of(u"\u10d1\u10e3\u10da\u10d2\u10d0\u10e0\u10e3\u10da\u10d8 \u10da\u10d4\u10d5\u10d8"_s)
+			$of(u"ბულგარული ლევი"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bhd"_s),
-			$of(u"\u10d1\u10d0\u10f0\u10e0\u10d4\u10d8\u10dc\u10e3\u10da\u10d8 \u10d3\u10d8\u10dc\u10d0\u10e0\u10d8"_s)
+			$of(u"ბაჰრეინული დინარი"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bif"_s),
-			$of(u"\u10d1\u10e3\u10e0\u10e3\u10dc\u10d3\u10d8\u10e3\u10da\u10d8 \u10e4\u10e0\u10d0\u10dc\u10d9\u10d8"_s)
+			$of(u"ბურუნდიული ფრანკი"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bmd"_s),
-			$of(u"\u10d1\u10d4\u10e0\u10db\u10e3\u10d3\u10e3\u10da\u10d8 \u10d3\u10dd\u10da\u10d0\u10e0\u10d8"_s)
+			$of(u"ბერმუდული დოლარი"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bnd"_s),
-			$of(u"\u10d1\u10e0\u10e3\u10dc\u10d4\u10e3\u10da\u10d8 \u10d3\u10dd\u10da\u10d0\u10e0\u10d8"_s)
+			$of(u"ბრუნეული დოლარი"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bob"_s),
-			$of(u"\u10d1\u10dd\u10da\u10d8\u10d5\u10d8\u10e3\u10e0\u10d8 \u10d1\u10dd\u10da\u10d8\u10d5\u10d8\u10d0\u10dc\u10dd"_s)
+			$of(u"ბოლივიური ბოლივიანო"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bop"_s),
-			$of(u"\u10d1\u10dd\u10da\u10d8\u10d5\u10d8\u10e3\u10e0\u10d8 \u10de\u10d4\u10e1\u10dd"_s)
+			$of(u"ბოლივიური პესო"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("brb"_s),
-			$of(u"\u10d1\u10e0\u10d0\u10d6\u10d8\u10da\u10d8\u10e3\u10e0\u10d8 \u10d9\u10e0\u10e3\u10d6\u10d4\u10d8\u10e0\u10dd \u10dc\u10dd\u10d5\u10dd (1967\u20131986)"_s)
+			$of(u"ბრაზილიური კრუზეირო ნოვო (1967–1986)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("brc"_s),
-			$of(u"\u10d1\u10e0\u10d0\u10d6\u10d8\u10da\u10d8\u10e3\u10e0\u10d8 \u10d9\u10e0\u10e3\u10d6\u10d0\u10d3\u10dd"_s)
+			$of(u"ბრაზილიური კრუზადო"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bre"_s),
-			$of(u"\u10d1\u10e0\u10d0\u10d6\u10d8\u10da\u10d8\u10e3\u10e0\u10d8 \u10d9\u10e0\u10e3\u10d6\u10d4\u10d8\u10e0\u10dd (1990\u20131993)"_s)
+			$of(u"ბრაზილიური კრუზეირო (1990–1993)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("brl"_s),
-			$of(u"\u10d1\u10e0\u10d0\u10d6\u10d8\u10da\u10d8\u10e3\u10e0\u10d8 \u10e0\u10d4\u10d0\u10da\u10d8"_s)
+			$of(u"ბრაზილიური რეალი"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("brn"_s),
-			$of(u"\u10d1\u10e0\u10d0\u10d6\u10d8\u10da\u10d8\u10e3\u10e0\u10d8 \u10d9\u10e0\u10e3\u10d6\u10d0\u10d3\u10dd \u10dc\u10dd\u10d5\u10dd"_s)
+			$of(u"ბრაზილიური კრუზადო ნოვო"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("brr"_s),
-			$of(u"\u10d1\u10e0\u10d0\u10d6\u10d8\u10da\u10d8\u10e3\u10e0\u10d8 \u10d9\u10e0\u10e3\u10d6\u10d4\u10d8\u10e0\u10dd"_s)
+			$of(u"ბრაზილიური კრუზეირო"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bsd"_s),
-			$of(u"\u10d1\u10d0\u10f0\u10d0\u10db\u10e3\u10e0\u10d8 \u10d3\u10dd\u10da\u10d0\u10e0\u10d8"_s)
+			$of(u"ბაჰამური დოლარი"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("btn"_s),
-			$of(u"\u10d1\u10e3\u10e2\u10d0\u10dc\u10e3\u10e0\u10d8 \u10dc\u10d2\u10e3\u10da\u10e2\u10e0\u10e3\u10db\u10d8"_s)
+			$of(u"ბუტანური ნგულტრუმი"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bwp"_s),
-			$of(u"\u10d1\u10dd\u10ea\u10d5\u10d0\u10dc\u10e3\u10e0\u10d8 \u10de\u10e3\u10da\u10d0"_s)
+			$of(u"ბოცვანური პულა"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("byb"_s),
-			$of(u"\u10d0\u10ee\u10d0\u10da\u10d8 \u10d1\u10d4\u10da\u10d0\u10e0\u10e3\u10e1\u10d8\u10e3\u10da\u10d8 \u10e0\u10e3\u10d1\u10da\u10d8 (1994\u20131999)"_s)
+			$of(u"ახალი ბელარუსიული რუბლი (1994–1999)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("byn"_s),
-			$of(u"\u10d1\u10d4\u10da\u10dd\u10e0\u10e3\u10e1\u10e3\u10da\u10d8 \u10e0\u10e3\u10d1\u10da\u10d8"_s)
+			$of(u"ბელორუსული რუბლი"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("byr"_s),
-			$of(u"\u10d1\u10d4\u10da\u10dd\u10e0\u10e3\u10e1\u10e3\u10da\u10d8 \u10e0\u10e3\u10d1\u10da\u10d8 (2000\u20132016)"_s)
+			$of(u"ბელორუსული რუბლი (2000–2016)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bzd"_s),
-			$of(u"\u10d1\u10d4\u10da\u10d8\u10d6\u10d8\u10e1 \u10d3\u10dd\u10da\u10d0\u10e0\u10d8"_s)
+			$of(u"ბელიზის დოლარი"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cad"_s),
-			$of(u"\u10d9\u10d0\u10dc\u10d0\u10d3\u10e3\u10e0\u10d8 \u10d3\u10dd\u10da\u10d0\u10e0\u10d8"_s)
+			$of(u"კანადური დოლარი"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cdf"_s),
-			$of(u"\u10d9\u10dd\u10dc\u10d2\u10dd\u10e1 \u10e4\u10e0\u10d0\u10dc\u10d9\u10d8"_s)
+			$of(u"კონგოს ფრანკი"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("chf"_s),
-			$of(u"\u10e8\u10d5\u10d4\u10d8\u10ea\u10d0\u10e0\u10d8\u10e3\u10da\u10d8 \u10e4\u10e0\u10d0\u10dc\u10d9\u10d8"_s)
+			$of(u"შვეიცარიული ფრანკი"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("clp"_s),
-			$of(u"\u10e9\u10d8\u10da\u10d4\u10e1 \u10de\u10d4\u10e1\u10dd"_s)
+			$of(u"ჩილეს პესო"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cnh"_s),
-			$of(u"\u10e9\u10d8\u10dc\u10e3\u10e0\u10d8 \u10d8\u10e3\u10d0\u10dc\u10d8 (\u10dd\u10e4\u10e8\u10dd\u10e0\u10d8)"_s)
+			$of(u"ჩინური იუანი (ოფშორი)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cny"_s),
-			$of(u"\u10e9\u10d8\u10dc\u10e3\u10e0\u10d8 \u10d8\u10e3\u10d0\u10dc\u10d8"_s)
+			$of(u"ჩინური იუანი"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cop"_s),
-			$of(u"\u10d9\u10dd\u10da\u10e3\u10db\u10d1\u10d8\u10e3\u10e0\u10d8 \u10de\u10d4\u10e1\u10dd"_s)
+			$of(u"კოლუმბიური პესო"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("crc"_s),
-			$of(u"\u10d9\u10dd\u10e1\u10e2\u10d0-\u10e0\u10d8\u10d9\u10e3\u10da\u10d8 \u10d9\u10dd\u10da\u10dd\u10dc\u10d8"_s)
+			$of(u"კოსტა-რიკული კოლონი"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("csd"_s),
-			$of(u"\u10eb\u10d5\u10d4\u10da\u10d8 \u10e1\u10d4\u10e0\u10d1\u10d8\u10e3\u10da\u10d8 \u10d3\u10d8\u10dc\u10d0\u10e0\u10d8"_s)
+			$of(u"ძველი სერბიული დინარი"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("csk"_s),
-			$of(u"\u10e9\u10d4\u10ee\u10dd\u10e1\u10da\u10dd\u10d5\u10d0\u10d9\u10d8\u10d8\u10e1 \u10db\u10e7\u10d0\u10e0\u10d8 \u10d9\u10e0\u10dd\u10dc\u10d0"_s)
+			$of(u"ჩეხოსლოვაკიის მყარი კრონა"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cuc"_s),
-			$of(u"\u10d9\u10e3\u10d1\u10e3\u10e0\u10d8 \u10d9\u10dd\u10dc\u10d5\u10d4\u10e0\u10e2\u10d8\u10e0\u10d4\u10d1\u10d0\u10d3\u10d8 \u10de\u10d4\u10e1\u10dd"_s)
+			$of(u"კუბური კონვერტირებადი პესო"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cup"_s),
-			$of(u"\u10d9\u10e3\u10d1\u10e3\u10e0\u10d8 \u10de\u10d4\u10e1\u10dd"_s)
+			$of(u"კუბური პესო"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cve"_s),
-			$of(u"\u10d9\u10d0\u10d1\u10dd-\u10d5\u10d4\u10e0\u10d3\u10d4\u10e1 \u10d4\u10e1\u10d9\u10e3\u10d3\u10dd"_s)
+			$of(u"კაბო-ვერდეს ესკუდო"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cyp"_s),
-			$of(u"\u10d9\u10d5\u10d8\u10de\u10e0\u10dd\u10e1\u10d8\u10e1 \u10d2\u10d8\u10e0\u10d5\u10d0\u10dc\u10e5\u10d0"_s)
+			$of(u"კვიპროსის გირვანქა"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("czk"_s),
-			$of(u"\u10e9\u10d4\u10ee\u10e3\u10e0\u10d8 \u10d9\u10e0\u10dd\u10dc\u10d0"_s)
+			$of(u"ჩეხური კრონა"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ddm"_s),
-			$of(u"\u10d0\u10e6\u10db\u10dd\u10e1\u10d0\u10d5\u10da\u10d4\u10d7 \u10d2\u10d4\u10e0\u10db\u10d0\u10dc\u10e3\u10da\u10d8 \u10db\u10d0\u10e0\u10d9\u10d0"_s)
+			$of(u"აღმოსავლეთ გერმანული მარკა"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("dem"_s),
-			$of(u"\u10d2\u10d4\u10e0\u10db\u10d0\u10dc\u10e3\u10da\u10d8 \u10db\u10d0\u10e0\u10d9\u10d0"_s)
+			$of(u"გერმანული მარკა"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("djf"_s),
-			$of(u"\u10ef\u10d8\u10d1\u10e3\u10e2\u10d8\u10e1 \u10e4\u10e0\u10d0\u10dc\u10d9\u10d8"_s)
+			$of(u"ჯიბუტის ფრანკი"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("dkk"_s),
-			$of(u"\u10d3\u10d0\u10dc\u10d8\u10e3\u10e0\u10d8 \u10d9\u10e0\u10dd\u10dc\u10d0"_s)
+			$of(u"დანიური კრონა"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("dop"_s),
-			$of(u"\u10d3\u10dd\u10db\u10d8\u10dc\u10d8\u10d9\u10e3\u10e0\u10d8 \u10de\u10d4\u10e1\u10dd"_s)
+			$of(u"დომინიკური პესო"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("dzd"_s),
-			$of(u"\u10d0\u10da\u10df\u10d8\u10e0\u10e3\u10da\u10d8 \u10d3\u10d8\u10dc\u10d0\u10e0\u10d8"_s)
+			$of(u"ალჟირული დინარი"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("eek"_s),
-			$of(u"\u10d4\u10e1\u10e2\u10dd\u10dc\u10e3\u10e0\u10d8 \u10d9\u10e0\u10e3\u10dc\u10d0"_s)
+			$of(u"ესტონური კრუნა"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("egp"_s),
-			$of(u"\u10d4\u10d2\u10d5\u10d8\u10de\u10e2\u10e3\u10e0\u10d8 \u10d2\u10d8\u10e0\u10d5\u10d0\u10dc\u10e5\u10d0"_s)
+			$of(u"ეგვიპტური გირვანქა"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ern"_s),
-			$of(u"\u10d4\u10e0\u10d8\u10e2\u10e0\u10d4\u10d8\u10e1 \u10dc\u10d0\u10d9\u10e4\u10d0"_s)
+			$of(u"ერიტრეის ნაკფა"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("esp"_s),
-			$of(u"\u10d4\u10e1\u10de\u10d0\u10dc\u10e3\u10e0\u10d8 \u10de\u10d4\u10e1\u10d4\u10e2\u10d0"_s)
+			$of(u"ესპანური პესეტა"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("etb"_s),
-			$of(u"\u10d4\u10d7\u10d8\u10dd\u10de\u10d8\u10e3\u10e0\u10d8 \u10d1\u10d8\u10e0\u10d8"_s)
+			$of(u"ეთიოპიური ბირი"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("eur"_s),
-			$of(u"\u10d4\u10d5\u10e0\u10dd"_s)
+			$of(u"ევრო"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("fim"_s),
-			$of(u"\u10e4\u10d8\u10dc\u10e3\u10e0\u10d8 \u10db\u10d0\u10e0\u10d9\u10d0"_s)
+			$of(u"ფინური მარკა"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("fjd"_s),
-			$of(u"\u10e4\u10d8\u10ef\u10d8\u10e1 \u10d3\u10dd\u10da\u10d0\u10e0\u10d8"_s)
+			$of(u"ფიჯის დოლარი"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("fkp"_s),
-			$of(u"\u10e4\u10dd\u10da\u10d9\u10da\u10d4\u10dc\u10d3\u10d8\u10e1 \u10d9\u10e3\u10dc\u10eb\u10e3\u10da\u10d4\u10d1\u10d8\u10e1 \u10e4\u10e3\u10dc\u10e2\u10d8"_s)
+			$of(u"ფოლკლენდის კუნძულების ფუნტი"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("frf"_s),
-			$of(u"\u10e4\u10e0\u10d0\u10dc\u10d2\u10e3\u10da\u10d8 \u10e4\u10e0\u10d0\u10dc\u10d9\u10d8"_s)
+			$of(u"ფრანგული ფრანკი"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gbp"_s),
-			$of(u"\u10d1\u10e0\u10d8\u10e2\u10d0\u10dc\u10e3\u10da\u10d8 \u10d2\u10d8\u10e0\u10d5\u10d0\u10dc\u10e5\u10d0 \u10e1\u10e2\u10d4\u10e0\u10da\u10d8\u10dc\u10d2\u10d8"_s)
+			$of(u"ბრიტანული გირვანქა სტერლინგი"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gek"_s),
-			$of(u"\u10e5\u10d0\u10e0\u10d7\u10e3\u10da\u10d8 \u10d9\u10e3\u10de\u10dd\u10dc\u10d8 \u10da\u10d0\u10e0\u10d8\u10d7"_s)
+			$of(u"ქართული კუპონი ლარით"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gel"_s),
-			$of(u"\u10e5\u10d0\u10e0\u10d7\u10e3\u10da\u10d8 \u10da\u10d0\u10e0\u10d8"_s)
+			$of(u"ქართული ლარი"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ghs"_s),
-			$of(u"\u10d2\u10d0\u10dc\u10e3\u10e0\u10d8 \u10e1\u10d4\u10d3\u10d8"_s)
+			$of(u"განური სედი"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gip"_s),
-			$of(u"\u10d2\u10d8\u10d1\u10e0\u10d0\u10da\u10e2\u10d0\u10e0\u10e3\u10da\u10d8 \u10e4\u10e3\u10dc\u10e2\u10d8"_s)
+			$of(u"გიბრალტარული ფუნტი"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gmd"_s),
-			$of(u"\u10d2\u10d0\u10db\u10d1\u10d8\u10e3\u10e0\u10d8 \u10d3\u10d0\u10da\u10d0\u10e1\u10d8"_s)
+			$of(u"გამბიური დალასი"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gnf"_s),
-			$of(u"\u10d2\u10d5\u10d8\u10dc\u10d4\u10e3\u10e0\u10d8 \u10e4\u10e0\u10d0\u10dc\u10d9\u10d8"_s)
+			$of(u"გვინეური ფრანკი"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("grd"_s),
-			$of(u"\u10d1\u10d4\u10e0\u10eb\u10dc\u10e3\u10da\u10d8 \u10d3\u10e0\u10d0\u10f0\u10db\u10d0"_s)
+			$of(u"ბერძნული დრაჰმა"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gtq"_s),
-			$of(u"\u10d2\u10d5\u10d0\u10e2\u10d4\u10db\u10d0\u10da\u10e3\u10e0\u10d8 \u10d9\u10d4\u10e2\u10e1\u10d0\u10da\u10d8"_s)
+			$of(u"გვატემალური კეტსალი"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gwe"_s),
-			$of(u"\u10de\u10dd\u10e0\u10e2\u10e3\u10d2\u10d0\u10da\u10d8\u10e3\u10e0\u10d8 \u10d2\u10d8\u10dc\u10d4\u10d0 \u10d4\u10e1\u10d9\u10e3\u10d3\u10dd"_s)
+			$of(u"პორტუგალიური გინეა ესკუდო"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gyd"_s),
-			$of(u"\u10d2\u10d0\u10d8\u10d0\u10dc\u10e3\u10e0\u10d8 \u10d3\u10dd\u10da\u10d0\u10e0\u10d8"_s)
+			$of(u"გაიანური დოლარი"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("hkd"_s),
-			$of(u"\u10f0\u10dd\u10dc\u10d9\u10dd\u10dc\u10d2\u10d8\u10e1 \u10d3\u10dd\u10da\u10d0\u10e0\u10d8"_s)
+			$of(u"ჰონკონგის დოლარი"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("hnl"_s),
-			$of(u"\u10f0\u10dd\u10dc\u10d3\u10e3\u10e0\u10d0\u10e1\u10e3\u10da\u10d8 \u10da\u10d4\u10db\u10de\u10d8\u10e0\u10d0"_s)
+			$of(u"ჰონდურასული ლემპირა"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("hrd"_s),
-			$of(u"\u10ee\u10dd\u10e0\u10d5\u10d0\u10e2\u10d8\u10e3\u10da\u10d8 \u10d3\u10d8\u10dc\u10d0\u10e0\u10d8"_s)
+			$of(u"ხორვატიული დინარი"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("hrk"_s),
-			$of(u"\u10ee\u10dd\u10e0\u10d5\u10d0\u10e2\u10e3\u10da\u10d8 \u10d9\u10e3\u10dc\u10d0"_s)
+			$of(u"ხორვატული კუნა"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("htg"_s),
-			$of(u"\u10f0\u10d0\u10d8\u10e2\u10e3\u10e0\u10d8 \u10d2\u10e3\u10e0\u10d3\u10d8"_s)
+			$of(u"ჰაიტური გურდი"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("huf"_s),
-			$of(u"\u10e3\u10dc\u10d2\u10e0\u10e3\u10da\u10d8 \u10e4\u10dd\u10e0\u10d8\u10dc\u10e2\u10d8"_s)
+			$of(u"უნგრული ფორინტი"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("idr"_s),
-			$of(u"\u10d8\u10dc\u10d3\u10dd\u10dc\u10d4\u10d6\u10d8\u10e3\u10e0\u10d8 \u10e0\u10e3\u10de\u10d8\u10d0"_s)
+			$of(u"ინდონეზიური რუპია"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("iep"_s),
-			$of(u"\u10d8\u10e0\u10da\u10d0\u10dc\u10d3\u10d8\u10e3\u10e0\u10d8 \u10d2\u10d8\u10e0\u10d5\u10d0\u10dc\u10e5\u10d0"_s)
+			$of(u"ირლანდიური გირვანქა"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ils"_s),
-			$of(u"\u10d8\u10e1\u10e0\u10d0\u10d4\u10da\u10d8\u10e1 \u10d0\u10ee\u10d0\u10da\u10d8 \u10e8\u10d4\u10d9\u10d4\u10da\u10d8"_s)
+			$of(u"ისრაელის ახალი შეკელი"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("inr"_s),
-			$of(u"\u10d8\u10dc\u10d3\u10e3\u10e0\u10d8 \u10e0\u10e3\u10de\u10d8\u10d0"_s)
+			$of(u"ინდური რუპია"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("iqd"_s),
-			$of(u"\u10d4\u10e0\u10d0\u10e7\u10e3\u10da\u10d8 \u10d3\u10d8\u10dc\u10d0\u10e0\u10d8"_s)
+			$of(u"ერაყული დინარი"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("irr"_s),
-			$of(u"\u10d8\u10e0\u10d0\u10dc\u10e3\u10da\u10d8 \u10e0\u10d8\u10d0\u10da\u10d8"_s)
+			$of(u"ირანული რიალი"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("isk"_s),
-			$of(u"\u10d8\u10e1\u10da\u10d0\u10dc\u10d3\u10d8\u10e3\u10e0\u10d8 \u10d9\u10e0\u10dd\u10dc\u10d0"_s)
+			$of(u"ისლანდიური კრონა"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("itl"_s),
-			$of(u"\u10d8\u10e2\u10d0\u10da\u10d8\u10e3\u10e0\u10d8 \u10da\u10d8\u10e0\u10d0"_s)
+			$of(u"იტალიური ლირა"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("jmd"_s),
-			$of(u"\u10d8\u10d0\u10db\u10d0\u10d8\u10d9\u10e3\u10e0\u10d8 \u10d3\u10dd\u10da\u10d0\u10e0\u10d8"_s)
+			$of(u"იამაიკური დოლარი"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("jod"_s),
-			$of(u"\u10d8\u10dd\u10e0\u10d3\u10d0\u10dc\u10d8\u10e3\u10da\u10d8 \u10d3\u10dd\u10da\u10d0\u10e0\u10d8"_s)
+			$of(u"იორდანიული დოლარი"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("jpy"_s),
-			$of(u"\u10d8\u10d0\u10de\u10dd\u10dc\u10e3\u10e0\u10d8 \u10d8\u10d4\u10dc\u10d8"_s)
+			$of(u"იაპონური იენი"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kes"_s),
-			$of(u"\u10d9\u10d4\u10dc\u10d8\u10e3\u10e0\u10d8 \u10e8\u10d8\u10da\u10d8\u10dc\u10d2\u10d8"_s)
+			$of(u"კენიური შილინგი"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kgs"_s),
-			$of(u"\u10e7\u10d8\u10e0\u10d2\u10d8\u10d6\u10e3\u10da\u10d8 \u10e1\u10dd\u10db\u10d8"_s)
+			$of(u"ყირგიზული სომი"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("khr"_s),
-			$of(u"\u10d9\u10d0\u10db\u10d1\u10dd\u10ef\u10e3\u10e0\u10d8 \u10e0\u10d8\u10d4\u10da\u10d8"_s)
+			$of(u"კამბოჯური რიელი"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kmf"_s),
-			$of(u"\u10d9\u10dd\u10db\u10dd\u10e0\u10e3\u10da\u10d8 \u10e4\u10e0\u10d0\u10dc\u10d9\u10d8"_s)
+			$of(u"კომორული ფრანკი"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kpw"_s),
-			$of(u"\u10e9\u10e0\u10d3\u10d8\u10da\u10dd\u10d4\u10d7 \u10d9\u10dd\u10e0\u10d4\u10e3\u10da\u10d8 \u10d5\u10dd\u10dc\u10d8"_s)
+			$of(u"ჩრდილოეთ კორეული ვონი"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("krw"_s),
-			$of(u"\u10e1\u10d0\u10db\u10ee\u10e0\u10d4\u10d7 \u10d9\u10dd\u10e0\u10d4\u10e3\u10da\u10d8 \u10d5\u10dd\u10dc\u10d8"_s)
+			$of(u"სამხრეთ კორეული ვონი"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kwd"_s),
-			$of(u"\u10e5\u10e3\u10d5\u10d4\u10d8\u10d7\u10e3\u10e0\u10d8 \u10d3\u10d8\u10dc\u10d0\u10e0\u10d8"_s)
+			$of(u"ქუვეითური დინარი"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kyd"_s),
-			$of(u"\u10d9\u10d0\u10d8\u10db\u10d0\u10dc\u10d8\u10e1 \u10d9\u10e3\u10dc\u10eb\u10e3\u10da\u10d4\u10d1\u10d8\u10e1 \u10d3\u10dd\u10da\u10d0\u10e0\u10d8"_s)
+			$of(u"კაიმანის კუნძულების დოლარი"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kzt"_s),
-			$of(u"\u10e7\u10d0\u10d6\u10d0\u10ee\u10e3\u10e0\u10d8 \u10e2\u10d4\u10dc\u10d2\u10d4"_s)
+			$of(u"ყაზახური ტენგე"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lak"_s),
-			$of(u"\u10da\u10d0\u10dd\u10e1\u10e3\u10e0\u10d8 \u10d9\u10d8\u10de\u10d8"_s)
+			$of(u"ლაოსური კიპი"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lbp"_s),
-			$of(u"\u10da\u10d8\u10d1\u10d0\u10dc\u10e3\u10e0\u10d8 \u10e4\u10e3\u10dc\u10e2\u10d8"_s)
+			$of(u"ლიბანური ფუნტი"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lkr"_s),
-			$of(u"\u10e8\u10e0\u10d8-\u10da\u10d0\u10dc\u10d9\u10e3\u10e0\u10d8 \u10e0\u10e3\u10de\u10d8\u10d0"_s)
+			$of(u"შრი-ლანკური რუპია"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lrd"_s),
-			$of(u"\u10da\u10d8\u10d1\u10d4\u10e0\u10d8\u10e3\u10da\u10d8 \u10d3\u10dd\u10da\u10d0\u10e0\u10d8"_s)
+			$of(u"ლიბერიული დოლარი"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ltl"_s),
-			$of(u"\u10da\u10d8\u10e2\u10d5\u10e3\u10e0\u10d8 \u10da\u10d8\u10e2\u10d0"_s)
+			$of(u"ლიტვური ლიტა"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ltt"_s),
-			$of(u"\u10da\u10d8\u10e2\u10d5\u10e3\u10e0\u10d8 \u10e2\u10d0\u10da\u10dd\u10dc\u10d8"_s)
+			$of(u"ლიტვური ტალონი"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("luc"_s),
-			$of(u"\u10da\u10e3\u10e5\u10e1\u10d4\u10db\u10d1\u10e3\u10e0\u10d2\u10d8\u10e1 \u10d9\u10dd\u10dc\u10d5\u10d4\u10e0\u10e2\u10d8\u10e0\u10d4\u10d1\u10d0\u10d3\u10d8 \u10e4\u10e0\u10d0\u10dc\u10d9\u10d8"_s)
+			$of(u"ლუქსემბურგის კონვერტირებადი ფრანკი"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("luf"_s),
-			$of(u"\u10da\u10e3\u10e5\u10e1\u10d4\u10db\u10d1\u10e3\u10e0\u10d2\u10d8\u10e1 \u10e4\u10e0\u10d0\u10dc\u10d9\u10d8"_s)
+			$of(u"ლუქსემბურგის ფრანკი"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lul"_s),
-			$of(u"\u10da\u10e3\u10e5\u10e1\u10d4\u10db\u10d1\u10e3\u10e0\u10d2\u10d8\u10e1 \u10e4\u10d8\u10dc\u10d0\u10dc\u10e1\u10e3\u10e0\u10d8 \u10e4\u10e0\u10d0\u10dc\u10d9\u10d8"_s)
+			$of(u"ლუქსემბურგის ფინანსური ფრანკი"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lvl"_s),
-			$of(u"\u10da\u10d0\u10e2\u10d5\u10d8\u10e3\u10e0\u10d8 \u10da\u10d0\u10e2\u10d8"_s)
+			$of(u"ლატვიური ლატი"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lvr"_s),
-			$of(u"\u10da\u10d0\u10e2\u10d5\u10d8\u10e3\u10e0\u10d8 \u10e0\u10e3\u10d1\u10da\u10d8"_s)
+			$of(u"ლატვიური რუბლი"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lyd"_s),
-			$of(u"\u10da\u10d8\u10d1\u10d8\u10e3\u10e0\u10d8 \u10d3\u10d8\u10dc\u10d0\u10e0\u10d8"_s)
+			$of(u"ლიბიური დინარი"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mad"_s),
-			$of(u"\u10db\u10d0\u10e0\u10dd\u10d9\u10dd\u10e1 \u10d3\u10d8\u10e0\u10f0\u10d0\u10db\u10d8"_s)
+			$of(u"მაროკოს დირჰამი"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("maf"_s),
-			$of(u"\u10db\u10d0\u10e0\u10dd\u10d9\u10dd\u10e1 \u10e4\u10e0\u10d0\u10dc\u10d9\u10d8"_s)
+			$of(u"მაროკოს ფრანკი"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mdl"_s),
-			$of(u"\u10db\u10dd\u10da\u10d3\u10dd\u10d5\u10e3\u10e0\u10d8 \u10da\u10d4\u10e3"_s)
+			$of(u"მოლდოვური ლეუ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mga"_s),
-			$of(u"\u10db\u10d0\u10d3\u10d0\u10d2\u10d0\u10e1\u10d9\u10d0\u10e0\u10d8\u10e1 \u10d0\u10e0\u10d8\u10d0\u10e0\u10d8"_s)
+			$of(u"მადაგასკარის არიარი"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mgf"_s),
-			$of(u"\u10db\u10d0\u10d3\u10d0\u10d2\u10d0\u10e1\u10d9\u10d0\u10e0\u10d8\u10e1 \u10e4\u10e0\u10d0\u10dc\u10d9\u10d8"_s)
+			$of(u"მადაგასკარის ფრანკი"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mkd"_s),
-			$of(u"\u10db\u10d0\u10d9\u10d4\u10d3\u10dd\u10dc\u10d8\u10e3\u10e0\u10d8 \u10d3\u10d8\u10dc\u10d0\u10e0\u10d8"_s)
+			$of(u"მაკედონიური დინარი"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mlf"_s),
-			$of(u"\u10db\u10d0\u10da\u10d8\u10e1 \u10e4\u10e0\u10d0\u10dc\u10d9\u10d8"_s)
+			$of(u"მალის ფრანკი"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mmk"_s),
-			$of(u"\u10db\u10d8\u10d0\u10dc\u10db\u10d0\u10e0\u10d8\u10e1 \u10d9\u10d8\u10d0\u10e2\u10d8"_s)
+			$of(u"მიანმარის კიატი"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mnt"_s),
-			$of(u"\u10db\u10dd\u10dc\u10e6\u10dd\u10da\u10e3\u10e0\u10d8 \u10e2\u10e3\u10d2\u10e0\u10d8\u10d9\u10d8"_s)
+			$of(u"მონღოლური ტუგრიკი"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mop"_s),
-			$of(u"\u10db\u10d0\u10d9\u10d0\u10e3\u10e1 \u10de\u10d0\u10e2\u10d0\u10d9\u10d0"_s)
+			$of(u"მაკაუს პატაკა"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mro"_s),
-			$of(u"\u10db\u10d0\u10d5\u10e0\u10d8\u10e2\u10d0\u10dc\u10e3\u10da\u10d8 \u10e3\u10d2\u10d8\u10d0 (1973\u20132017)"_s)
+			$of(u"მავრიტანული უგია (1973–2017)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mru"_s),
-			$of(u"\u10db\u10d0\u10d5\u10e0\u10d8\u10e2\u10d0\u10dc\u10e3\u10da\u10d8 \u10e3\u10d2\u10d8\u10d0"_s)
+			$of(u"მავრიტანული უგია"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mtl"_s),
-			$of(u"\u10db\u10d0\u10da\u10e2\u10d8\u10e1 \u10da\u10d8\u10e0\u10d0"_s)
+			$of(u"მალტის ლირა"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mtp"_s),
-			$of(u"\u10db\u10d0\u10da\u10e2\u10d8\u10e1 \u10d2\u10d8\u10e0\u10d5\u10d0\u10dc\u10e5\u10d0"_s)
+			$of(u"მალტის გირვანქა"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mur"_s),
-			$of(u"\u10db\u10d0\u10d5\u10e0\u10d8\u10e2\u10d0\u10dc\u10e3\u10da\u10d8 \u10e0\u10e3\u10de\u10d8\u10d0"_s)
+			$of(u"მავრიტანული რუპია"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mvr"_s),
-			$of(u"\u10db\u10d0\u10da\u10d3\u10d8\u10d5\u10e3\u10e0\u10d8 \u10e0\u10e3\u10e4\u10d8\u10d0"_s)
+			$of(u"მალდივური რუფია"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mwk"_s),
-			$of(u"\u10db\u10d0\u10da\u10d0\u10d5\u10d8\u10e3\u10e0\u10d8 \u10d9\u10d5\u10d0\u10e9\u10d0"_s)
+			$of(u"მალავიური კვაჩა"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mxn"_s),
-			$of(u"\u10db\u10d4\u10e5\u10e1\u10d8\u10d9\u10e3\u10e0\u10d8 \u10de\u10d4\u10e1\u10dd"_s)
+			$of(u"მექსიკური პესო"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mxp"_s),
-			$of(u"\u10db\u10d4\u10e5\u10e1\u10d8\u10d9\u10e3\u10e0\u10d8 \u10d5\u10d4\u10e0\u10ea\u10ee\u10da\u10d8\u10e1 \u10de\u10d4\u10e1\u10dd (1861\u20131992)"_s)
+			$of(u"მექსიკური ვერცხლის პესო (1861–1992)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("myr"_s),
-			$of(u"\u10db\u10d0\u10da\u10d0\u10d8\u10d6\u10d8\u10e3\u10e0\u10d8 \u10e0\u10d8\u10dc\u10d2\u10d8\u10e2\u10d8"_s)
+			$of(u"მალაიზიური რინგიტი"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mze"_s),
-			$of(u"\u10db\u10dd\u10d6\u10d0\u10db\u10d1\u10d8\u10d9\u10e3\u10e0\u10d8 \u10d4\u10e1\u10d9\u10e3\u10d3\u10dd"_s)
+			$of(u"მოზამბიკური ესკუდო"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mzm"_s),
-			$of(u"\u10eb\u10d5\u10d4\u10da\u10d8 \u10db\u10dd\u10d6\u10d0\u10db\u10d1\u10d8\u10d9\u10e3\u10e0\u10d8 \u10db\u10d4\u10e2\u10d8\u10d9\u10d0\u10da\u10d8"_s)
+			$of(u"ძველი მოზამბიკური მეტიკალი"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mzn"_s),
-			$of(u"\u10db\u10dd\u10d6\u10d0\u10db\u10d1\u10d8\u10d9\u10e3\u10e0\u10d8 \u10db\u10d4\u10e2\u10d8\u10d9\u10d0\u10da\u10d8"_s)
+			$of(u"მოზამბიკური მეტიკალი"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("nad"_s),
-			$of(u"\u10dc\u10d0\u10db\u10d8\u10d1\u10d8\u10e3\u10e0\u10d8 \u10d3\u10dd\u10da\u10d0\u10e0\u10d8"_s)
+			$of(u"ნამიბიური დოლარი"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ngn"_s),
-			$of(u"\u10dc\u10d8\u10d2\u10d4\u10e0\u10d8\u10e3\u10da\u10d8 \u10dc\u10d0\u10d8\u10e0\u10d0"_s)
+			$of(u"ნიგერიული ნაირა"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("nic"_s),
-			$of(u"\u10dc\u10d8\u10d9\u10d0\u10e0\u10d0\u10d2\u10e3\u10d0\u10e1 \u10d9\u10dd\u10e0\u10d3\u10dd\u10d1\u10d0"_s)
+			$of(u"ნიკარაგუას კორდობა"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("nio"_s),
-			$of(u"\u10dc\u10d8\u10d9\u10d0\u10e0\u10d0\u10d2\u10e3\u10d0\u10e1 \u10dd\u10e5\u10e0\u10dd\u10e1 \u10d9\u10dd\u10e0\u10d3\u10dd\u10d1\u10d0"_s)
+			$of(u"ნიკარაგუას ოქროს კორდობა"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("nlg"_s),
-			$of(u"\u10f0\u10dd\u10da\u10d0\u10dc\u10d3\u10d8\u10e3\u10e0\u10d8 \u10d2\u10e3\u10da\u10d3\u10d4\u10dc\u10d8"_s)
+			$of(u"ჰოლანდიური გულდენი"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("nok"_s),
-			$of(u"\u10dc\u10dd\u10e0\u10d5\u10d4\u10d2\u10d8\u10e3\u10da\u10d8 \u10d9\u10e0\u10dd\u10dc\u10d0"_s)
+			$of(u"ნორვეგიული კრონა"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("npr"_s),
-			$of(u"\u10dc\u10d4\u10de\u10d0\u10da\u10e3\u10e0\u10d8 \u10e0\u10e3\u10de\u10d8\u10d0"_s)
+			$of(u"ნეპალური რუპია"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("nzd"_s),
-			$of(u"\u10d0\u10ee\u10d0\u10da\u10d8 \u10d6\u10d4\u10da\u10d0\u10dc\u10d3\u10d8\u10d8\u10e1 \u10d3\u10dd\u10da\u10d0\u10e0\u10d8"_s)
+			$of(u"ახალი ზელანდიის დოლარი"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("omr"_s),
-			$of(u"\u10dd\u10db\u10d0\u10dc\u10d8\u10e1 \u10e0\u10d8\u10d0\u10da\u10d8"_s)
+			$of(u"ომანის რიალი"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pab"_s),
-			$of(u"\u10de\u10d0\u10dc\u10d0\u10db\u10e3\u10e0\u10d8 \u10d1\u10d0\u10da\u10d1\u10dd\u10d0"_s)
+			$of(u"პანამური ბალბოა"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pei"_s),
-			$of(u"\u10de\u10d4\u10e0\u10e3\u10e1 \u10d8\u10dc\u10e2\u10d8"_s)
+			$of(u"პერუს ინტი"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pen"_s),
-			$of(u"\u10de\u10d4\u10e0\u10e3\u10e1 \u10e1\u10dd\u10da\u10d8"_s)
+			$of(u"პერუს სოლი"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pes"_s),
-			$of(u"\u10de\u10d4\u10e0\u10e3\u10e1 \u10e1\u10dd\u10da\u10d8 (1863\u20131965)"_s)
+			$of(u"პერუს სოლი (1863–1965)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pgk"_s),
-			$of(u"\u10de\u10d0\u10de\u10e3\u10d0-\u10d0\u10ee\u10d0\u10da\u10d8 \u10d2\u10d5\u10d8\u10dc\u10d4\u10d8\u10e1 \u10d9\u10d8\u10dc\u10d0"_s)
+			$of(u"პაპუა-ახალი გვინეის კინა"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("php"_s),
-			$of(u"\u10e4\u10d8\u10da\u10d8\u10de\u10d8\u10dc\u10e3\u10e0\u10d8 \u10de\u10d4\u10e1\u10dd"_s)
+			$of(u"ფილიპინური პესო"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pkr"_s),
-			$of(u"\u10de\u10d0\u10d9\u10d8\u10e1\u10e2\u10d0\u10dc\u10e3\u10e0\u10d8 \u10e0\u10e3\u10de\u10d8\u10d0"_s)
+			$of(u"პაკისტანური რუპია"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pln"_s),
-			$of(u"\u10de\u10dd\u10da\u10dd\u10dc\u10e3\u10e0\u10d8 \u10d6\u10da\u10dd\u10e2\u10d8"_s)
+			$of(u"პოლონური ზლოტი"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("plz"_s),
-			$of(u"\u10de\u10dd\u10da\u10dd\u10dc\u10e3\u10e0\u10d8 \u10d6\u10da\u10dd\u10e2\u10d8 (1950\u20131995)"_s)
+			$of(u"პოლონური ზლოტი (1950–1995)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pte"_s),
-			$of(u"\u10de\u10dd\u10e0\u10e2\u10e3\u10d2\u10d0\u10da\u10d8\u10e3\u10e0\u10d8 \u10d4\u10e1\u10d9\u10e3\u10d3\u10dd"_s)
+			$of(u"პორტუგალიური ესკუდო"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pyg"_s),
-			$of(u"\u10de\u10d0\u10e0\u10d0\u10d2\u10d5\u10d0\u10e3\u10da\u10d8 \u10d2\u10e3\u10d0\u10e0\u10d0\u10dc\u10d8"_s)
+			$of(u"პარაგვაული გუარანი"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("qar"_s),
-			$of(u"\u10d9\u10d0\u10e2\u10d0\u10e0\u10d8\u10e1 \u10e0\u10d8\u10d0\u10da\u10d8"_s)
+			$of(u"კატარის რიალი"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("rhd"_s),
-			$of(u"\u10e0\u10dd\u10d3\u10d4\u10d6\u10d8\u10e3\u10da\u10d8 \u10d3\u10dd\u10da\u10d0\u10e0\u10d8"_s)
+			$of(u"როდეზიული დოლარი"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("rol"_s),
-			$of(u"\u10eb\u10d5\u10d4\u10da\u10d8 \u10e0\u10e3\u10db\u10d8\u10dc\u10e3\u10da\u10d8 \u10da\u10d4\u10e3"_s)
+			$of(u"ძველი რუმინული ლეუ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ron"_s),
-			$of(u"\u10e0\u10e3\u10db\u10d8\u10dc\u10e3\u10da\u10d8 \u10da\u10d4\u10e3"_s)
+			$of(u"რუმინული ლეუ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("rsd"_s),
-			$of(u"\u10e1\u10d4\u10e0\u10d1\u10e3\u10da\u10d8 \u10d3\u10d8\u10dc\u10d0\u10e0\u10d8"_s)
+			$of(u"სერბული დინარი"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("rub"_s),
-			$of(u"\u10e0\u10e3\u10e1\u10e3\u10da\u10d8 \u10e0\u10e3\u10d1\u10da\u10d8"_s)
+			$of(u"რუსული რუბლი"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("rur"_s),
-			$of(u"\u10e0\u10e3\u10e1\u10e3\u10da\u10d8 \u10e0\u10e3\u10d1\u10da\u10d8 (1991\u20131998)"_s)
+			$of(u"რუსული რუბლი (1991–1998)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("rwf"_s),
-			$of(u"\u10e0\u10e3\u10d0\u10dc\u10d3\u10e3\u10da\u10d8 \u10e4\u10e0\u10d0\u10dc\u10d9\u10d8"_s)
+			$of(u"რუანდული ფრანკი"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sar"_s),
-			$of(u"\u10e1\u10d0\u10e3\u10d3\u10d8\u10e1 \u10d0\u10e0\u10d0\u10d1\u10d4\u10d7\u10d8\u10e1 \u10e0\u10d8\u10d0\u10da\u10d8"_s)
+			$of(u"საუდის არაბეთის რიალი"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sbd"_s),
-			$of(u"\u10e1\u10dd\u10da\u10dd\u10db\u10dd\u10dc\u10d8\u10e1 \u10d9\u10e3\u10dc\u10eb\u10e3\u10da\u10d4\u10d1\u10d8\u10e1 \u10d3\u10dd\u10da\u10d0\u10e0\u10d8"_s)
+			$of(u"სოლომონის კუნძულების დოლარი"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("scr"_s),
-			$of(u"\u10e1\u10d4\u10d8\u10e8\u10d4\u10da\u10e3\u10e0\u10d8 \u10e0\u10e3\u10de\u10d8\u10d0"_s)
+			$of(u"სეიშელური რუპია"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sdd"_s),
-			$of(u"\u10e1\u10e3\u10d3\u10d0\u10dc\u10d8\u10e1 \u10d3\u10d8\u10dc\u10d0\u10e0\u10d8"_s)
+			$of(u"სუდანის დინარი"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sdg"_s),
-			$of(u"\u10e1\u10e3\u10d3\u10d0\u10dc\u10e3\u10e0\u10d8 \u10e4\u10e3\u10dc\u10e2\u10d8"_s)
+			$of(u"სუდანური ფუნტი"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sdp"_s),
-			$of(u"\u10e1\u10e3\u10d3\u10d0\u10dc\u10d8\u10e1 \u10d2\u10d8\u10e0\u10d5\u10d0\u10dc\u10e5\u10d0"_s)
+			$of(u"სუდანის გირვანქა"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sek"_s),
-			$of(u"\u10e8\u10d5\u10d4\u10d3\u10e3\u10e0\u10d8 \u10d9\u10e0\u10dd\u10dc\u10d0"_s)
+			$of(u"შვედური კრონა"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sgd"_s),
-			$of(u"\u10e1\u10d8\u10dc\u10d2\u10d0\u10de\u10e3\u10e0\u10d8\u10e1 \u10d3\u10dd\u10da\u10d0\u10e0\u10d8"_s)
+			$of(u"სინგაპურის დოლარი"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("shp"_s),
-			$of(u"\u10ec\u10db. \u10d4\u10da\u10d4\u10dc\u10d4\u10e1 \u10d9\u10e3\u10dc\u10eb\u10e3\u10da\u10d8\u10e1 \u10e4\u10e3\u10dc\u10e2\u10d8"_s)
+			$of(u"წმ. ელენეს კუნძულის ფუნტი"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sll"_s),
-			$of(u"\u10e1\u10d8\u10d4\u10e0\u10d0-\u10da\u10d4\u10dd\u10dc\u10d4\u10e1 \u10da\u10d4\u10dd\u10dc\u10d4"_s)
+			$of(u"სიერა-ლეონეს ლეონე"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sos"_s),
-			$of(u"\u10e1\u10dd\u10db\u10d0\u10da\u10e3\u10e0\u10d8 \u10e8\u10d8\u10da\u10d8\u10dc\u10d2\u10d8"_s)
+			$of(u"სომალური შილინგი"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("srd"_s),
-			$of(u"\u10e1\u10e3\u10e0\u10d8\u10dc\u10d0\u10db\u10e3\u10da\u10d8 \u10d3\u10dd\u10da\u10d0\u10e0\u10d8"_s)
+			$of(u"სურინამული დოლარი"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("srg"_s),
-			$of(u"\u10e1\u10e3\u10e0\u10d8\u10dc\u10d0\u10db\u10d8\u10e1 \u10d2\u10e3\u10da\u10d3\u10d4\u10dc\u10d8"_s)
+			$of(u"სურინამის გულდენი"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ssp"_s),
-			$of(u"\u10e1\u10d0\u10db\u10ee\u10e0\u10d4\u10d7 \u10e1\u10e3\u10d3\u10d0\u10dc\u10e3\u10e0\u10d8 \u10e4\u10e3\u10dc\u10e2\u10d8"_s)
+			$of(u"სამხრეთ სუდანური ფუნტი"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("std"_s),
-			$of(u"\u10e1\u10d0\u10dc-\u10e2\u10dd\u10db\u10d4 \u10d3\u10d0 \u10de\u10e0\u10d8\u10dc\u10e1\u10d8\u10de\u10d8\u10e1 \u10d3\u10dd\u10d1\u10e0\u10d0 (1977\u20132017)"_s)
+			$of(u"სან-ტომე და პრინსიპის დობრა (1977–2017)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("stn"_s),
-			$of(u"\u10e1\u10d0\u10dc-\u10e2\u10dd\u10db\u10d4 \u10d3\u10d0 \u10de\u10e0\u10d8\u10dc\u10e1\u10d8\u10de\u10d8\u10e1 \u10d3\u10dd\u10d1\u10e0\u10d0"_s)
+			$of(u"სან-ტომე და პრინსიპის დობრა"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sur"_s),
-			$of(u"\u10e1\u10d0\u10d1\u10ed\u10dd\u10d7\u10d0 \u10e0\u10e3\u10d1\u10da\u10d8"_s)
+			$of(u"საბჭოთა რუბლი"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("syp"_s),
-			$of(u"\u10e1\u10d8\u10e0\u10d8\u10e3\u10da\u10d8 \u10e4\u10e3\u10dc\u10e2\u10d8"_s)
+			$of(u"სირიული ფუნტი"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("szl"_s),
-			$of(u"\u10e1\u10d5\u10d0\u10d6\u10d8\u10da\u10d4\u10dc\u10d3\u10d8\u10e1 \u10da\u10d8\u10da\u10d0\u10dc\u10d2\u10d4\u10dc\u10d8"_s)
+			$of(u"სვაზილენდის ლილანგენი"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("thb"_s),
-			$of(u"\u10e2\u10d0\u10d8\u10da\u10d0\u10dc\u10d3\u10e3\u10e0\u10d8 \u10d1\u10d0\u10e2\u10d8"_s)
+			$of(u"ტაილანდური ბატი"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("tjr"_s),
-			$of(u"\u10e2\u10d0\u10ef\u10d8\u10d9\u10e3\u10e0\u10d8 \u10e0\u10e3\u10d1\u10da\u10d8"_s)
+			$of(u"ტაჯიკური რუბლი"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("tjs"_s),
-			$of(u"\u10e2\u10d0\u10ef\u10d8\u10d9\u10e3\u10e0\u10d8 \u10e1\u10dd\u10db\u10dd\u10dc\u10d8"_s)
+			$of(u"ტაჯიკური სომონი"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("tmm"_s),
-			$of(u"\u10d7\u10e3\u10e0\u10e5\u10db\u10d4\u10dc\u10e3\u10da\u10d8 \u10db\u10d0\u10dc\u10d0\u10d7\u10d8"_s)
+			$of(u"თურქმენული მანათი"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("tmt"_s),
-			$of(u"\u10d7\u10e3\u10e0\u10e5\u10db\u10d4\u10dc\u10d4\u10d7\u10d8\u10e1 \u10db\u10d0\u10dc\u10d0\u10d7\u10d8"_s)
+			$of(u"თურქმენეთის მანათი"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("tnd"_s),
-			$of(u"\u10e2\u10e3\u10dc\u10d8\u10e1\u10e3\u10e0\u10d8 \u10d3\u10d8\u10dc\u10d0\u10e0\u10d8"_s)
+			$of(u"ტუნისური დინარი"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("top"_s),
-			$of(u"\u10e2\u10dd\u10dc\u10d2\u10d0\u10dc\u10e3\u10e0\u10d8 \u10de\u10d0\u10d0\u10dc\u10d2\u10d0"_s)
+			$of(u"ტონგანური პაანგა"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("trl"_s),
-			$of(u"\u10d7\u10e3\u10e0\u10e5\u10e3\u10da\u10d8 \u10da\u10d8\u10e0\u10d0"_s)
+			$of(u"თურქული ლირა"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("try"_s),
-			$of(u"\u10d0\u10ee\u10d0\u10da\u10d8 \u10d7\u10e3\u10e0\u10e5\u10e3\u10da\u10d8 \u10da\u10d8\u10e0\u10d0"_s)
+			$of(u"ახალი თურქული ლირა"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ttd"_s),
-			$of(u"\u10e2\u10e0\u10d8\u10dc\u10d8\u10d3\u10d0\u10d3 \u10d3\u10d0 \u10e2\u10dd\u10d1\u10d0\u10d2\u10dd\u10e1 \u10d3\u10dd\u10da\u10d0\u10e0\u10d8"_s)
+			$of(u"ტრინიდად და ტობაგოს დოლარი"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("twd"_s),
-			$of(u"\u10e2\u10d0\u10d8\u10d5\u10d0\u10dc\u10e3\u10e0\u10d8 \u10d0\u10ee\u10d0\u10da\u10d8 \u10d3\u10dd\u10da\u10d0\u10e0\u10d8"_s)
+			$of(u"ტაივანური ახალი დოლარი"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("tzs"_s),
-			$of(u"\u10e2\u10d0\u10dc\u10d6\u10d0\u10dc\u10d8\u10e3\u10e0\u10d8 \u10e8\u10d8\u10da\u10d8\u10dc\u10d2\u10d8"_s)
+			$of(u"ტანზანიური შილინგი"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("uah"_s),
-			$of(u"\u10e3\u10d9\u10e0\u10d0\u10d8\u10dc\u10e3\u10da\u10d8 \u10d2\u10e0\u10d8\u10d5\u10dc\u10d0"_s)
+			$of(u"უკრაინული გრივნა"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("uak"_s),
-			$of(u"\u10e3\u10d9\u10e0\u10d0\u10d8\u10dc\u10e3\u10da\u10d8 \u10d9\u10d0\u10e0\u10d1\u10dd\u10d5\u10d0\u10dc\u10d4\u10ea\u10d8"_s)
+			$of(u"უკრაინული კარბოვანეცი"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ugs"_s),
-			$of(u"\u10e3\u10d2\u10d0\u10dc\u10d3\u10e3\u10e0\u10d8 \u10e8\u10d8\u10da\u10d8\u10dc\u10d2\u10d8 (1966\u20131987)"_s)
+			$of(u"უგანდური შილინგი (1966–1987)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ugx"_s),
-			$of(u"\u10e3\u10d2\u10d0\u10dc\u10d3\u10e3\u10e0\u10d8 \u10e8\u10d8\u10da\u10d8\u10dc\u10d2\u10d8"_s)
+			$of(u"უგანდური შილინგი"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("usd"_s),
-			$of(u"\u10d0\u10e8\u10e8 \u10d3\u10dd\u10da\u10d0\u10e0\u10d8"_s)
+			$of(u"აშშ დოლარი"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("usn"_s),
-			$of(u"\u10d0\u10e8\u10e8 \u10d3\u10dd\u10da\u10d0\u10e0\u10d8 (\u10e8\u10d4\u10db\u10d3\u10d4\u10d2\u10d8 \u10d3\u10e6\u10d4)"_s)
+			$of(u"აშშ დოლარი (შემდეგი დღე)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("uss"_s),
-			$of(u"\u10d0\u10e8\u10e8 \u10d3\u10dd\u10da\u10d0\u10e0\u10d8 (\u10d8\u10d2\u10d8\u10d5\u10d4 \u10d3\u10e6\u10d4)"_s)
+			$of(u"აშშ დოლარი (იგივე დღე)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("uyp"_s),
-			$of(u"\u10e3\u10e0\u10e3\u10d2\u10d5\u10d0\u10d8\u10e1 \u10de\u10d4\u10e1\u10dd (1975\u20131993)"_s)
+			$of(u"ურუგვაის პესო (1975–1993)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("uyu"_s),
-			$of(u"\u10e3\u10e0\u10e3\u10d2\u10d5\u10d0\u10d8\u10e1 \u10de\u10d4\u10e1\u10dd"_s)
+			$of(u"ურუგვაის პესო"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("uzs"_s),
-			$of(u"\u10e3\u10d6\u10d1\u10d4\u10d9\u10e3\u10e0\u10d8 \u10e1\u10e3\u10db\u10d8"_s)
+			$of(u"უზბეკური სუმი"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("veb"_s),
-			$of(u"\u10d5\u10d4\u10dc\u10d4\u10e1\u10e3\u10d4\u10da\u10d8\u10e1 \u10d1\u10dd\u10da\u10d8\u10d5\u10d0\u10e0\u10d8 (1871\u20132008)"_s)
+			$of(u"ვენესუელის ბოლივარი (1871–2008)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("vef"_s),
-			$of(u"\u10d5\u10d4\u10dc\u10d4\u10e1\u10e3\u10d4\u10da\u10d8\u10e1 \u10d1\u10dd\u10da\u10d8\u10d5\u10d0\u10e0\u10d8 (2008\u20132018)"_s)
+			$of(u"ვენესუელის ბოლივარი (2008–2018)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ves"_s),
-			$of(u"\u10d5\u10d4\u10dc\u10d4\u10e1\u10e3\u10d4\u10da\u10d8\u10e1 \u10d1\u10dd\u10da\u10d8\u10d5\u10d0\u10e0\u10d8"_s)
+			$of(u"ვენესუელის ბოლივარი"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("vnd"_s),
-			$of(u"\u10d5\u10d8\u10d4\u10e2\u10dc\u10d0\u10db\u10e3\u10e0\u10d8 \u10d3\u10dd\u10dc\u10d2\u10d8"_s)
+			$of(u"ვიეტნამური დონგი"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("vuv"_s),
-			$of(u"\u10d5\u10d0\u10dc\u10e3\u10d0\u10e2\u10e3\u10e1 \u10d5\u10d0\u10e2\u10e3"_s)
+			$of(u"ვანუატუს ვატუ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("wst"_s),
-			$of(u"\u10e1\u10d0\u10db\u10dd\u10e3\u10e0\u10d8 \u10e2\u10d0\u10da\u10d0"_s)
+			$of(u"სამოური ტალა"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xaf"_s),
-			$of(u"\u10ea\u10d4\u10dc\u10e2\u10e0\u10d0\u10da\u10e3\u10e0 \u10d0\u10e4\u10e0\u10d8\u10d9\u10e3\u10da\u10d8 CFA \u10e4\u10e0\u10d0\u10dc\u10d9\u10d8"_s)
+			$of(u"ცენტრალურ აფრიკული CFA ფრანკი"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xag"_s),
-			$of(u"\u10d5\u10d4\u10e0\u10ea\u10ee\u10da\u10d8"_s)
+			$of(u"ვერცხლი"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xba"_s),
-			$of(u"\u10d4\u10d5\u10e0\u10dd\u10de\u10e3\u10da\u10d8 \u10d9\u10dd\u10db\u10de\u10de\u10dd\u10d6\u10d8\u10e2\u10e3\u10e0\u10d8 \u10d4\u10e0\u10d7\u10d4\u10e3\u10da\u10d8"_s)
+			$of(u"ევროპული კომპპოზიტური ერთეული"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xbb"_s),
-			$of(u"\u10d4\u10d5\u10e0\u10dd\u10de\u10e3\u10da\u10d8 \u10e4\u10e3\u10da\u10d0\u10d3\u10d8 \u10d4\u10e0\u10d7\u10d4\u10e3\u10da\u10d8"_s)
+			$of(u"ევროპული ფულადი ერთეული"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xcd"_s),
-			$of(u"\u10d0\u10e6\u10db\u10dd\u10e1\u10d0\u10d5\u10da\u10d4\u10d7 \u10d9\u10d0\u10e0\u10d8\u10d1\u10d8\u10e3\u10da\u10d8 \u10d3\u10dd\u10da\u10d0\u10e0\u10d8"_s)
+			$of(u"აღმოსავლეთ კარიბიული დოლარი"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xeu"_s),
-			$of(u"\u10d4\u10d5\u10e0\u10dd\u10de\u10e3\u10da\u10d8 \u10e1\u10d0\u10d5\u10d0\u10da\u10e3\u10e2\u10dd \u10d4\u10e0\u10d7\u10d4\u10e3\u10da\u10d8"_s)
+			$of(u"ევროპული სავალუტო ერთეული"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xfo"_s),
-			$of(u"\u10e4\u10e0\u10d0\u10dc\u10d2\u10e3\u10da\u10d8 \u10dd\u10e5\u10e0\u10dd\u10e1 \u10e4\u10e0\u10d0\u10dc\u10d9\u10d8"_s)
+			$of(u"ფრანგული ოქროს ფრანკი"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xof"_s),
-			$of(u"\u10d3\u10d0\u10e1\u10d0\u10d5\u10da\u10d4\u10d7 \u10d0\u10e4\u10e0\u10d8\u10d9\u10e3\u10da\u10d8 CFA \u10e4\u10e0\u10d0\u10dc\u10d9\u10d8"_s)
+			$of(u"დასავლეთ აფრიკული CFA ფრანკი"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xpf"_s),
-			$of(u"CFP \u10e4\u10e0\u10d0\u10dc\u10d9\u10d8"_s)
+			$of(u"CFP ფრანკი"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xxx"_s),
-			$of(u"\u10e3\u10ea\u10dc\u10dd\u10d1\u10d8 \u10d5\u10d0\u10da\u10e3\u10e2\u10d0"_s)
+			$of(u"უცნობი ვალუტა"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ydd"_s),
-			$of(u"\u10d8\u10d4\u10db\u10d4\u10dc\u10d8\u10e1 \u10d3\u10d8\u10dc\u10d0\u10e0\u10d8"_s)
+			$of(u"იემენის დინარი"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("yer"_s),
-			$of(u"\u10d8\u10d4\u10db\u10d4\u10dc\u10d8\u10e1 \u10e0\u10d4\u10d0\u10da\u10d8"_s)
+			$of(u"იემენის რეალი"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("yud"_s),
-			$of(u"\u10d8\u10e3\u10d2\u10dd\u10e1\u10da\u10d0\u10d5\u10d8\u10e3\u10e0\u10d8 \u10db\u10e7\u10d0\u10e0\u10d8 \u10d3\u10d8\u10dc\u10d0\u10e0\u10d8"_s)
+			$of(u"იუგოსლავიური მყარი დინარი"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("yum"_s),
-			$of(u"\u10d8\u10e3\u10d2\u10dd\u10e1\u10da\u10d0\u10d5\u10d8\u10e3\u10e0\u10d8 \u10d0\u10ee\u10d0\u10da\u10d8 \u10d3\u10d8\u10dc\u10d0\u10e0\u10d8"_s)
+			$of(u"იუგოსლავიური ახალი დინარი"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("yun"_s),
-			$of(u"\u10d8\u10e3\u10d2\u10dd\u10e1\u10da\u10d0\u10d5\u10d8\u10e3\u10e0\u10d8 \u10d9\u10dd\u10dc\u10d5\u10d4\u10e0\u10e2\u10d8\u10e0\u10d4\u10d1\u10d0\u10d3\u10d8 \u10d3\u10d8\u10dc\u10d0\u10e0\u10d8"_s)
+			$of(u"იუგოსლავიური კონვერტირებადი დინარი"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("zar"_s),
-			$of(u"\u10e1\u10d0\u10db\u10ee\u10e0\u10d4\u10d7 \u10d0\u10e4\u10e0\u10d8\u10d9\u10e3\u10da\u10d8 \u10e0\u10d0\u10dc\u10d3\u10d8"_s)
+			$of(u"სამხრეთ აფრიკული რანდი"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("zmk"_s),
-			$of(u"\u10d6\u10d0\u10db\u10d1\u10d8\u10e3\u10e0\u10d8 \u10d9\u10d5\u10d0\u10ed\u10d0 (1968\u20132012)"_s)
+			$of(u"ზამბიური კვაჭა (1968–2012)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("zmw"_s),
-			$of(u"\u10d6\u10d0\u10db\u10d1\u10d8\u10e3\u10e0\u10d8 \u10d9\u10d5\u10d0\u10ed\u10d0"_s)
+			$of(u"ზამბიური კვაჭა"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("zrn"_s),
-			$of(u"\u10d6\u10d0\u10d8\u10e0\u10d8\u10e1 \u10d0\u10ee\u10d0\u10da\u10d8 \u10d6\u10d0\u10d8\u10e0\u10d8"_s)
+			$of(u"ზაირის ახალი ზაირი"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("zrz"_s),
-			$of(u"\u10d6\u10d0\u10d8\u10e0\u10d8\u10e1 \u10d6\u10d0\u10d8\u10e0\u10d8"_s)
+			$of(u"ზაირის ზაირი"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("zwd"_s),
-			$of(u"\u10d6\u10d8\u10db\u10d1\u10d0\u10d1\u10d5\u10d4\u10e1 \u10d3\u10dd\u10da\u10d0\u10e0\u10d8"_s)
+			$of(u"ზიმბაბვეს დოლარი"_s)
 		})
 	}));
 	return data;

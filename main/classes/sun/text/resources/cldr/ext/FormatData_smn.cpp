@@ -40,33 +40,33 @@ void FormatData_smn::init$() {
 $ObjectArray2* FormatData_smn::getContents() {
 	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_MonthNames, $new($StringArray, {
-		u"u\u0111\u0111\u00e2ivem\u00e1\u00e1nu"_s,
-		u"kuov\u00e2m\u00e1\u00e1nu"_s,
-		u"njuh\u010d\u00e2m\u00e1\u00e1nu"_s,
-		u"cu\u00e1\u014buim\u00e1\u00e1nu"_s,
-		u"vyesim\u00e1\u00e1nu"_s,
-		u"kesim\u00e1\u00e1nu"_s,
-		u"syeinim\u00e1\u00e1nu"_s,
-		u"porgem\u00e1\u00e1nu"_s,
-		u"\u010doh\u010d\u00e2m\u00e1\u00e1nu"_s,
-		u"roovv\u00e2dm\u00e1\u00e1nu"_s,
-		u"skamm\u00e2m\u00e1\u00e1nu"_s,
-		u"juovl\u00e2m\u00e1\u00e1nu"_s,
+		u"uđđâivemáánu"_s,
+		u"kuovâmáánu"_s,
+		u"njuhčâmáánu"_s,
+		u"cuáŋuimáánu"_s,
+		u"vyesimáánu"_s,
+		u"kesimáánu"_s,
+		u"syeinimáánu"_s,
+		u"porgemáánu"_s,
+		u"čohčâmáánu"_s,
+		u"roovvâdmáánu"_s,
+		u"skammâmáánu"_s,
+		u"juovlâmáánu"_s,
 		""_s
 	}));
 	$var($StringArray, metaValue_MonthAbbreviations, $new($StringArray, {
-		u"u\u0111iv"_s,
-		u"kuov\u00e2"_s,
-		u"njuh\u010d\u00e2"_s,
-		u"cu\u00e1\u014bui"_s,
+		u"uđiv"_s,
+		u"kuovâ"_s,
+		u"njuhčâ"_s,
+		u"cuáŋui"_s,
 		"vyesi"_s,
 		"kesi"_s,
 		"syeini"_s,
 		"porge"_s,
-		u"\u010doh\u010d\u00e2"_s,
-		u"roovv\u00e2d"_s,
-		u"skamm\u00e2"_s,
-		u"juovl\u00e2"_s,
+		u"čohčâ"_s,
+		u"roovvâd"_s,
+		u"skammâ"_s,
+		u"juovlâ"_s,
 		""_s
 	}));
 	$var($StringArray, metaValue_MonthNarrows, $new($StringArray, {
@@ -78,7 +78,7 @@ $ObjectArray2* FormatData_smn::getContents() {
 		"K"_s,
 		"S"_s,
 		"P"_s,
-		u"\u010c"_s,
+		u"Č"_s,
 		"R"_s,
 		"S"_s,
 		"J"_s,
@@ -86,12 +86,12 @@ $ObjectArray2* FormatData_smn::getContents() {
 	}));
 	$var($StringArray, metaValue_DayNames, $new($StringArray, {
 		"pasepeeivi"_s,
-		u"vuossaarg\u00e2"_s,
-		u"majebaarg\u00e2"_s,
+		u"vuossaargâ"_s,
+		u"majebaargâ"_s,
 		"koskoho"_s,
-		u"tuor\u00e2stuv"_s,
-		u"v\u00e1stuppeeivi"_s,
-		u"l\u00e1vurduv"_s
+		u"tuorâstuv"_s,
+		u"vástuppeeivi"_s,
+		u"lávurduv"_s
 	}));
 	$var($StringArray, metaValue_DayAbbreviations, $new($StringArray, {
 		"pas"_s,
@@ -99,8 +99,8 @@ $ObjectArray2* FormatData_smn::getContents() {
 		"maj"_s,
 		"kos"_s,
 		"tuo"_s,
-		u"v\u00e1s"_s,
-		u"l\u00e1v"_s
+		u"vás"_s,
+		u"láv"_s
 	}));
 	$var($StringArray, metaValue_DayNarrows, $new($StringArray, {
 		"p"_s,
@@ -112,16 +112,16 @@ $ObjectArray2* FormatData_smn::getContents() {
 		"L"_s
 	}));
 	$var($StringArray, metaValue_QuarterNames, $new($StringArray, {
-		u"1. ni\u00e4lj\u00e1d\u00e2s"_s,
-		u"2. ni\u00e4lj\u00e1d\u00e2s"_s,
-		u"3. ni\u00e4lj\u00e1d\u00e2s"_s,
-		u"4. ni\u00e4lj\u00e1d\u00e2s"_s
+		u"1. niäljádâs"_s,
+		u"2. niäljádâs"_s,
+		u"3. niäljádâs"_s,
+		u"4. niäljádâs"_s
 	}));
 	$var($StringArray, metaValue_QuarterAbbreviations, $new($StringArray, {
-		u"1. ni\u00e4lj."_s,
-		u"2. ni\u00e4lj."_s,
-		u"3. ni\u00e4lj."_s,
-		u"4. ni\u00e4lj."_s
+		u"1. niälj."_s,
+		u"2. niälj."_s,
+		u"3. niälj."_s,
+		u"4. niälj."_s
 	}));
 	$var($StringArray, metaValue_AmPmMarkers, $new($StringArray, {
 		"ip."_s,
@@ -277,8 +277,8 @@ $ObjectArray2* FormatData_smn::getContents() {
 		$$new($ObjectArray, {
 			$of("long.Eras"_s),
 			$of($$new($StringArray, {
-				u"Ovdil Kristus \u0161odd\u00e2m"_s,
-				u"ma\u014ba Kristus \u0161odd\u00e2m"_s
+				u"Ovdil Kristus šoddâm"_s,
+				u"maŋa Kristus šoddâm"_s
 			}))
 		}),
 		$$new($ObjectArray, {
@@ -318,15 +318,15 @@ $ObjectArray2* FormatData_smn::getContents() {
 			$of("latn.NumberElements"_s),
 			$of($$new($StringArray, {
 				","_s,
-				u"\u00a0"_s,
+				u" "_s,
 				";"_s,
 				"%"_s,
 				"0"_s,
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
+				u"‰"_s,
+				u"∞"_s,
 				"epiloho"_s,
 				""_s,
 				""_s
@@ -474,12 +474,12 @@ $ObjectArray2* FormatData_smn::getContents() {
 			$of("standalone.DayNames"_s),
 			$of($$new($StringArray, {
 				"pasepeivi"_s,
-				u"vuossarg\u00e2"_s,
-				u"majebarg\u00e2"_s,
+				u"vuossargâ"_s,
+				u"majebargâ"_s,
 				"koskokko"_s,
-				u"tuor\u00e2st\u00e2h"_s,
-				u"v\u00e1stuppeivi"_s,
-				u"l\u00e1vurd\u00e2h"_s
+				u"tuorâstâh"_s,
+				u"vástuppeivi"_s,
+				u"lávurdâh"_s
 			}))
 		}),
 		$$new($ObjectArray, {
@@ -506,9 +506,9 @@ $ObjectArray2* FormatData_smn::getContents() {
 			$of("latn.NumberPatterns"_s),
 			$of($$new($StringArray, {
 				"#,##0.###"_s,
-				u"#,##0.00\u00a0\u00a4"_s,
-				u"#,##0\u00a0%"_s,
-				u"#,##0.00\u00a0\u00a4"_s
+				u"#,##0.00 ¤"_s,
+				u"#,##0 %"_s,
+				u"#,##0.00 ¤"_s
 			}))
 		}),
 		$$new($ObjectArray, {
@@ -517,9 +517,9 @@ $ObjectArray2* FormatData_smn::getContents() {
 				""_s,
 				""_s,
 				""_s,
-				u"{one:0\' \'tuhh\u00e1\u00e1t two:0\' \'tuhh\u00e1\u00e1t other:0\' \'tuhh\u00e1\u00e1t}"_s,
-				u"{one:00\' \'tuhh\u00e1\u00e1t two:00\' \'tuhh\u00e1\u00e1t other:00\' \'tuhh\u00e1\u00e1t}"_s,
-				u"{one:000\' \'tuhh\u00e1\u00e1t two:000\' \'tuhh\u00e1\u00e1t other:000\' \'tuhh\u00e1\u00e1t}"_s,
+				u"{one:0\' \'tuhháát two:0\' \'tuhháát other:0\' \'tuhháát}"_s,
+				u"{one:00\' \'tuhháát two:00\' \'tuhháát other:00\' \'tuhháát}"_s,
+				u"{one:000\' \'tuhháát two:000\' \'tuhháát other:000\' \'tuhháát}"_s,
 				"{one:0\' \'miljovn two:0\' \'miljovn other:0\' \'miljovn}"_s,
 				"{one:00\' \'miljovn two:00\' \'miljovn other:00\' \'miljovn}"_s,
 				"{one:000\' \'miljovn two:000\' \'miljovn other:000\' \'miljovn}"_s,

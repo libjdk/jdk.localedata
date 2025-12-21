@@ -41,7 +41,7 @@ $ObjectArray2* CurrencyNames_es_PH::getContents() {
 	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {$$new($ObjectArray, {
 		$of("PHP"_s),
-		$of(u"\u20b1"_s)
+		$of(u"₱"_s)
 	})}));
 	return data;
 }

@@ -86,15 +86,15 @@ $ObjectArray2* CurrencyNames_so::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("arl"_s),
-			$of(u"Beesada Ley ee Arjentiin (1970\u20131983)"_s)
+			$of(u"Beesada Ley ee Arjentiin (1970–1983)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("arm"_s),
-			$of(u"Beesada Ley ee Arjentiin (1881\u20131970)"_s)
+			$of(u"Beesada Ley ee Arjentiin (1881–1970)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("arp"_s),
-			$of(u"Beesada Ley ee Arjentiin (1883\u20131985)"_s)
+			$of(u"Beesada Ley ee Arjentiin (1883–1985)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ars"_s),
@@ -114,7 +114,7 @@ $ObjectArray2* CurrencyNames_so::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("bad"_s),
-			$of(u"Diinaarka BBosnia-Hersogofina 1.00 konfatibal maakta Bosnia-Hersogofina 1 konfatibal maaka Bosnia-Hersogofina (1992\u20131994)"_s)
+			$of(u"Diinaarka BBosnia-Hersogofina 1.00 konfatibal maakta Bosnia-Hersogofina 1 konfatibal maaka Bosnia-Hersogofina (1992–1994)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bam"_s),
@@ -154,7 +154,7 @@ $ObjectArray2* CurrencyNames_so::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("bol"_s),
-			$of(u"Bolifiyaabka Bolifiyaano(1863\u20131963)"_s)
+			$of(u"Bolifiyaabka Bolifiyaano(1863–1963)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("brl"_s),
@@ -458,7 +458,7 @@ $ObjectArray2* CurrencyNames_so::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("mro"_s),
-			$of(u"Oogiya Mawritaniya (1973\u20132017)"_s)
+			$of(u"Oogiya Mawritaniya (1973–2017)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mru"_s),
@@ -638,7 +638,7 @@ $ObjectArray2* CurrencyNames_so::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("top"_s),
-			$of(u"Ba\u2019angada Tonga"_s)
+			$of(u"Ba’angada Tonga"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("try"_s),
@@ -678,7 +678,7 @@ $ObjectArray2* CurrencyNames_so::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("vef"_s),
-			$of(u"Bolifar Fenesuala (2008\u20132018)"_s)
+			$of(u"Bolifar Fenesuala (2008–2018)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ves"_s),

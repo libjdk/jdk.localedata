@@ -43,7 +43,7 @@ $ObjectArray2* FormatData_ff::getContents() {
 		"siilo"_s,
 		"colte"_s,
 		"mbooy"_s,
-		u"see\u0257to"_s,
+		u"seeɗto"_s,
 		"duujal"_s,
 		"korse"_s,
 		"morso"_s,
@@ -86,7 +86,7 @@ $ObjectArray2* FormatData_ff::getContents() {
 	}));
 	$var($StringArray, metaValue_DayNames, $new($StringArray, {
 		"dewo"_s,
-		u"aa\u0253nde"_s,
+		u"aaɓnde"_s,
 		"mawbaare"_s,
 		"njeslaare"_s,
 		"naasaande"_s,
@@ -95,7 +95,7 @@ $ObjectArray2* FormatData_ff::getContents() {
 	}));
 	$var($StringArray, metaValue_DayAbbreviations, $new($StringArray, {
 		"dew"_s,
-		u"aa\u0253"_s,
+		u"aaɓ"_s,
 		"maw"_s,
 		"nje"_s,
 		"naa"_s,
@@ -125,7 +125,7 @@ $ObjectArray2* FormatData_ff::getContents() {
 	}));
 	$var($StringArray, metaValue_AmPmMarkers, $new($StringArray, {
 		"subaka"_s,
-		u"kikii\u0257e"_s,
+		u"kikiiɗe"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -289,7 +289,7 @@ $ObjectArray2* FormatData_ff::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.weekday"_s),
-			$of(u"\u00d1al\u0257i yontere"_s)
+			$of(u"Ñalɗi yontere"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("buddhist.MonthNames"_s),
@@ -303,15 +303,15 @@ $ObjectArray2* FormatData_ff::getContents() {
 			$of("latn.NumberElements"_s),
 			$of($$new($StringArray, {
 				","_s,
-				u"\u00a0"_s,
+				u" "_s,
 				";"_s,
 				"%"_s,
 				"0"_s,
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
+				u"‰"_s,
+				u"∞"_s,
 				"NaN"_s,
 				""_s,
 				""_s
@@ -335,7 +335,7 @@ $ObjectArray2* FormatData_ff::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.minute"_s),
-			$of(u"Ho\u01b4om"_s)
+			$of(u"Hoƴom"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("field.era"_s),
@@ -486,7 +486,7 @@ $ObjectArray2* FormatData_ff::getContents() {
 			$of("latn.NumberPatterns"_s),
 			$of($$new($StringArray, {
 				"#,##0.###"_s,
-				u"#,##0.00\u00a0\u00a4"_s,
+				u"#,##0.00 ¤"_s,
 				"#,##0%"_s,
 				""_s
 			}))

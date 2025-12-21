@@ -310,8 +310,8 @@ $ObjectArray2* FormatData_id::getContents() {
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
+				u"‰"_s,
+				u"∞"_s,
 				"NaN"_s,
 				""_s,
 				""_s
@@ -655,18 +655,18 @@ $ObjectArray2* FormatData_id::getContents() {
 				""_s,
 				""_s,
 				""_s,
-				u"{other:0\u00a0rb}"_s,
-				u"{other:00\u00a0rb}"_s,
-				u"{other:000\u00a0rb}"_s,
-				u"{other:0\u00a0jt}"_s,
-				u"{other:00\u00a0jt}"_s,
-				u"{other:000\u00a0jt}"_s,
-				u"{other:0\u00a0M}"_s,
-				u"{other:00\u00a0M}"_s,
-				u"{other:000\u00a0M}"_s,
-				u"{other:0\u00a0T}"_s,
-				u"{other:00\u00a0T}"_s,
-				u"{other:000\u00a0T}"_s
+				u"{other:0 rb}"_s,
+				u"{other:00 rb}"_s,
+				u"{other:000 rb}"_s,
+				u"{other:0 jt}"_s,
+				u"{other:00 jt}"_s,
+				u"{other:000 jt}"_s,
+				u"{other:0 M}"_s,
+				u"{other:00 M}"_s,
+				u"{other:000 M}"_s,
+				u"{other:0 T}"_s,
+				u"{other:00 T}"_s,
+				u"{other:000 T}"_s
 			}))
 		}),
 		$$new($ObjectArray, {
@@ -740,9 +740,9 @@ $ObjectArray2* FormatData_id::getContents() {
 			$of("latn.NumberPatterns"_s),
 			$of($$new($StringArray, {
 				"#,##0.###"_s,
-				u"\u00a4#,##0.00"_s,
+				u"¤#,##0.00"_s,
 				"#,##0%"_s,
-				u"\u00a4#,##0.00"_s
+				u"¤#,##0.00"_s
 			}))
 		}),
 		$$new($ObjectArray, {

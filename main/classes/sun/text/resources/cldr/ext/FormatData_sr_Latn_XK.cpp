@@ -57,29 +57,29 @@ $ObjectArray2* FormatData_sr_Latn_XK::getContents() {
 	$var($StringArray, metaValue_AmPmMarkers, $new($StringArray, {
 		"pre podne"_s,
 		"po podne"_s,
-		u"pono\u0107"_s,
+		u"ponoć"_s,
 		"podne"_s,
 		"jutro"_s,
 		""_s,
 		"po pod."_s,
 		""_s,
-		u"uve\u010de"_s,
+		u"uveče"_s,
 		""_s,
-		u"no\u0107u"_s,
+		u"noću"_s,
 		""_s
 	}));
 	$var($StringArray, metaValue_narrow_AmPmMarkers, $new($StringArray, {
 		"a"_s,
 		"p"_s,
-		u"pono\u0107"_s,
+		u"ponoć"_s,
 		"podne"_s,
 		"jutro"_s,
 		""_s,
 		"po pod."_s,
 		""_s,
-		u"ve\u010de"_s,
+		u"veče"_s,
 		""_s,
-		u"no\u0107"_s,
+		u"noć"_s,
 		""_s
 	}));
 	$var($ObjectArray2, data, $new($ObjectArray2, {

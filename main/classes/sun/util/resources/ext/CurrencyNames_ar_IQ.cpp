@@ -39,7 +39,7 @@ void CurrencyNames_ar_IQ::init$() {
 $ObjectArray2* CurrencyNames_ar_IQ::getContents() {
 	return $new($ObjectArray2, {$$new($ObjectArray, {
 		$of("IQD"_s),
-		$of(u"\u062f.\u0639.\u200f"_s)
+		$of(u"د.ع.\u200f"_s)
 	})});
 }
 

@@ -40,134 +40,134 @@ void FormatData_am::init$() {
 $ObjectArray2* FormatData_am::getContents() {
 	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_MonthNames, $new($StringArray, {
-		u"\u1303\u1295\u12e9\u12c8\u122a"_s,
-		u"\u134c\u1265\u1229\u12c8\u122a"_s,
-		u"\u121b\u122d\u127d"_s,
-		u"\u12a4\u1355\u122a\u120d"_s,
-		u"\u121c\u12ed"_s,
-		u"\u1301\u1295"_s,
-		u"\u1301\u120b\u12ed"_s,
-		u"\u12a6\u1308\u1235\u1275"_s,
-		u"\u1234\u1355\u1274\u121d\u1260\u122d"_s,
-		u"\u12a6\u12ad\u1276\u1260\u122d"_s,
-		u"\u1296\u126c\u121d\u1260\u122d"_s,
-		u"\u12f2\u1234\u121d\u1260\u122d"_s,
+		u"ጃንዩወሪ"_s,
+		u"ፌብሩወሪ"_s,
+		u"ማርች"_s,
+		u"ኤፕሪል"_s,
+		u"ሜይ"_s,
+		u"ጁን"_s,
+		u"ጁላይ"_s,
+		u"ኦገስት"_s,
+		u"ሴፕቴምበር"_s,
+		u"ኦክቶበር"_s,
+		u"ኖቬምበር"_s,
+		u"ዲሴምበር"_s,
 		""_s
 	}));
 	$var($StringArray, metaValue_MonthAbbreviations, $new($StringArray, {
-		u"\u1303\u1295\u12e9"_s,
-		u"\u134c\u1265\u1229"_s,
-		u"\u121b\u122d\u127d"_s,
-		u"\u12a4\u1355\u122a"_s,
-		u"\u121c\u12ed"_s,
-		u"\u1301\u1295"_s,
-		u"\u1301\u120b\u12ed"_s,
-		u"\u12a6\u1308\u1235"_s,
-		u"\u1234\u1355\u1274"_s,
-		u"\u12a6\u12ad\u1276"_s,
-		u"\u1296\u126c\u121d"_s,
-		u"\u12f2\u1234\u121d"_s,
+		u"ጃንዩ"_s,
+		u"ፌብሩ"_s,
+		u"ማርች"_s,
+		u"ኤፕሪ"_s,
+		u"ሜይ"_s,
+		u"ጁን"_s,
+		u"ጁላይ"_s,
+		u"ኦገስ"_s,
+		u"ሴፕቴ"_s,
+		u"ኦክቶ"_s,
+		u"ኖቬም"_s,
+		u"ዲሴም"_s,
 		""_s
 	}));
 	$var($StringArray, metaValue_MonthNarrows, $new($StringArray, {
-		u"\u1303"_s,
-		u"\u134c"_s,
-		u"\u121b"_s,
-		u"\u12a4"_s,
-		u"\u121c"_s,
-		u"\u1301"_s,
-		u"\u1301"_s,
-		u"\u12a6"_s,
-		u"\u1234"_s,
-		u"\u12a6"_s,
-		u"\u1296"_s,
-		u"\u12f2"_s,
+		u"ጃ"_s,
+		u"ፌ"_s,
+		u"ማ"_s,
+		u"ኤ"_s,
+		u"ሜ"_s,
+		u"ጁ"_s,
+		u"ጁ"_s,
+		u"ኦ"_s,
+		u"ሴ"_s,
+		u"ኦ"_s,
+		u"ኖ"_s,
+		u"ዲ"_s,
 		""_s
 	}));
 	$var($StringArray, metaValue_DayNames, $new($StringArray, {
-		u"\u12a5\u1211\u12f5"_s,
-		u"\u1230\u129e"_s,
-		u"\u121b\u12ad\u1230\u129e"_s,
-		u"\u1228\u1261\u12d5"_s,
-		u"\u1210\u1219\u1235"_s,
-		u"\u12d3\u122d\u1265"_s,
-		u"\u1245\u12f3\u121c"_s
+		u"እሑድ"_s,
+		u"ሰኞ"_s,
+		u"ማክሰኞ"_s,
+		u"ረቡዕ"_s,
+		u"ሐሙስ"_s,
+		u"ዓርብ"_s,
+		u"ቅዳሜ"_s
 	}));
 	$var($StringArray, metaValue_DayAbbreviations, $new($StringArray, {
-		u"\u12a5\u1211\u12f5"_s,
-		u"\u1230\u129e"_s,
-		u"\u121b\u12ad\u1230"_s,
-		u"\u1228\u1261\u12d5"_s,
-		u"\u1210\u1219\u1235"_s,
-		u"\u12d3\u122d\u1265"_s,
-		u"\u1245\u12f3\u121c"_s
+		u"እሑድ"_s,
+		u"ሰኞ"_s,
+		u"ማክሰ"_s,
+		u"ረቡዕ"_s,
+		u"ሐሙስ"_s,
+		u"ዓርብ"_s,
+		u"ቅዳሜ"_s
 	}));
 	$var($StringArray, metaValue_DayNarrows, $new($StringArray, {
-		u"\u12a5"_s,
-		u"\u1230"_s,
-		u"\u121b"_s,
-		u"\u1228"_s,
-		u"\u1210"_s,
-		u"\u12d3"_s,
-		u"\u1245"_s
+		u"እ"_s,
+		u"ሰ"_s,
+		u"ማ"_s,
+		u"ረ"_s,
+		u"ሐ"_s,
+		u"ዓ"_s,
+		u"ቅ"_s
 	}));
 	$var($StringArray, metaValue_QuarterNames, $new($StringArray, {
-		u"1\u129b\u12cd \u1229\u1265"_s,
-		u"2\u129b\u12cd \u1229\u1265"_s,
-		u"3\u129b\u12cd \u1229\u1265"_s,
-		u"4\u129b\u12cd \u1229\u1265"_s
+		u"1ኛው ሩብ"_s,
+		u"2ኛው ሩብ"_s,
+		u"3ኛው ሩብ"_s,
+		u"4ኛው ሩብ"_s
 	}));
 	$var($StringArray, metaValue_QuarterAbbreviations, $new($StringArray, {
-		u"\u1229\u12651"_s,
-		u"\u1229\u12652"_s,
-		u"\u1229\u12653"_s,
-		u"\u1229\u12654"_s
+		u"ሩብ1"_s,
+		u"ሩብ2"_s,
+		u"ሩብ3"_s,
+		u"ሩብ4"_s
 	}));
 	$var($StringArray, metaValue_AmPmMarkers, $new($StringArray, {
-		u"\u1325\u12cb\u1275"_s,
-		u"\u12a8\u1230\u12d3\u1275"_s,
-		u"\u12a5\u12a9\u1208 \u120c\u120a\u1275"_s,
-		u"\u1240\u1275\u122d"_s,
-		u"\u1325\u12cb\u12751"_s,
+		u"ጥዋት"_s,
+		u"ከሰዓት"_s,
+		u"እኩለ ሌሊት"_s,
+		u"ቀትር"_s,
+		u"ጥዋት1"_s,
 		""_s,
-		u"\u12a8\u1230\u12d3\u1275 7 \u1230\u12d3\u1275"_s,
+		u"ከሰዓት 7 ሰዓት"_s,
 		""_s,
-		u"\u121b\u12731"_s,
+		u"ማታ1"_s,
 		""_s,
-		u"\u120c\u120a\u12751"_s,
+		u"ሌሊት1"_s,
 		""_s
 	}));
 	$var($StringArray, metaValue_narrow_AmPmMarkers, $new($StringArray, {
-		u"\u1320"_s,
-		u"\u12a8"_s,
-		u"\u12a5\u12a9\u1208 \u120c\u120a\u1275"_s,
-		u"\u1240"_s,
-		u"\u1325\u12cb\u12751"_s,
+		u"ጠ"_s,
+		u"ከ"_s,
+		u"እኩለ ሌሊት"_s,
+		u"ቀ"_s,
+		u"ጥዋት1"_s,
 		""_s,
-		u"\u12a8\u1230\u12d3\u12751"_s,
+		u"ከሰዓት1"_s,
 		""_s,
-		u"\u121b\u12731"_s,
+		u"ማታ1"_s,
 		""_s,
-		u"\u120c\u120a\u12751"_s,
+		u"ሌሊት1"_s,
 		""_s
 	}));
 	$var($StringArray, metaValue_abbreviated_AmPmMarkers, $new($StringArray, {
-		u"\u1325\u12cb\u1275"_s,
-		u"\u12a8\u1230\u12d3\u1275"_s,
-		u"\u12a5\u12a9\u1208 \u120c\u120a\u1275"_s,
-		u"\u1240\u1275\u122d"_s,
-		u"\u1325\u12cb\u12751"_s,
+		u"ጥዋት"_s,
+		u"ከሰዓት"_s,
+		u"እኩለ ሌሊት"_s,
+		u"ቀትር"_s,
+		u"ጥዋት1"_s,
 		""_s,
-		u"\u12a8\u1230\u12d3\u1275 7"_s,
+		u"ከሰዓት 7"_s,
 		""_s,
-		u"\u121b\u12731"_s,
+		u"ማታ1"_s,
 		""_s,
-		u"\u120c\u120a\u12751"_s,
+		u"ሌሊት1"_s,
 		""_s
 	}));
 	$var($StringArray, metaValue_Eras, $new($StringArray, {
-		u"\u12d3/\u12d3"_s,
-		u"\u12d3/\u121d"_s
+		u"ዓ/ዓ"_s,
+		u"ዓ/ም"_s
 	}));
 	$var($StringArray, metaValue_TimePatterns, $new($StringArray, {
 		"h:mm:ss a zzzz"_s,
@@ -192,18 +192,18 @@ $ObjectArray2* FormatData_am::getContents() {
 		"BE"_s
 	}));
 	$var($StringArray, metaValue_java_time_buddhist_DatePatterns, $new($StringArray, {
-		u"EEEE\u1363 d MMMM y G"_s,
+		u"EEEE፣ d MMMM y G"_s,
 		"d MMMM y G"_s,
 		"d MMM y G"_s,
 		"dd/MM/y GGGGG"_s
 	}));
 	$var($StringArray, metaValue_buddhist_DatePatterns, $new($StringArray, {
-		u"EEEE\u1363 d MMMM y GGGG"_s,
+		u"EEEE፣ d MMMM y GGGG"_s,
 		"d MMMM y GGGG"_s,
 		"d MMM y GGGG"_s,
 		"dd/MM/y G"_s
 	}));
-	$var($String, metaValue_calendarname_gregorian, u"\u12e8\u130d\u122a\u130e\u122a\u12eb\u1295 \u12e8\u1240\u1295 \u12a0\u1246\u1323\u1320\u122d"_s);
+	$var($String, metaValue_calendarname_gregorian, u"የግሪጎሪያን የቀን አቆጣጠር"_s);
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("MonthNames"_s),
@@ -211,7 +211,7 @@ $ObjectArray2* FormatData_am::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.year"_s),
-			$of(u"\u12d3\u1218\u1275"_s)
+			$of(u"ዓመት"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("japanese.AmPmMarkers"_s),
@@ -227,7 +227,7 @@ $ObjectArray2* FormatData_am::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.gmtFormat"_s),
-			$of(u"\u1302 \u12a4\u121d \u1272{0}"_s)
+			$of(u"ጂ ኤም ቲ{0}"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("java.time.japanese.DatePatterns"_s),
@@ -247,7 +247,7 @@ $ObjectArray2* FormatData_am::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.islamic-civil"_s),
-			$of(u"\u12e8\u12a5\u1235\u120b\u121d \u1205\u12dd\u1263\u12ca \u12e8\u1240\u1295 \u12a0\u1246\u1323\u1320\u122d"_s)
+			$of(u"የእስላም ህዝባዊ የቀን አቆጣጠር"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("islamic.narrow.AmPmMarkers"_s),
@@ -267,7 +267,7 @@ $ObjectArray2* FormatData_am::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.regionFormat.standard"_s),
-			$of(u"{0} \u1218\u12f0\u1260\u129b \u1230\u12d3\u1275"_s)
+			$of(u"{0} መደበኛ ሰዓት"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("japanese.abbreviated.AmPmMarkers"_s),
@@ -275,11 +275,11 @@ $ObjectArray2* FormatData_am::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.japanese"_s),
-			$of(u"\u12e8\u1303\u1353\u1295 \u12e8\u1240\u1295 \u12a0\u1246\u1323\u1320\u122d"_s)
+			$of(u"የጃፓን የቀን አቆጣጠር"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.gmtZeroFormat"_s),
-			$of(u"\u1302 \u12a4\u121d \u1272"_s)
+			$of(u"ጂ ኤም ቲ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("japanese.MonthNames"_s),
@@ -296,8 +296,8 @@ $ObjectArray2* FormatData_am::getContents() {
 		$$new($ObjectArray, {
 			$of("long.Eras"_s),
 			$of($$new($StringArray, {
-				u"\u12d3\u1218\u1270 \u12d3\u1208\u121d"_s,
-				u"\u12d3\u1218\u1270 \u121d\u1215\u1228\u1275"_s
+				u"ዓመተ ዓለም"_s,
+				u"ዓመተ ምሕረት"_s
 			}))
 		}),
 		$$new($ObjectArray, {
@@ -335,8 +335,8 @@ $ObjectArray2* FormatData_am::getContents() {
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
+				u"‰"_s,
+				u"∞"_s,
 				"NaN"_s,
 				""_s,
 				""_s
@@ -356,11 +356,11 @@ $ObjectArray2* FormatData_am::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.minute"_s),
-			$of(u"\u12f0\u1242\u1243"_s)
+			$of(u"ደቂቃ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("field.era"_s),
-			$of(u"\u12d8\u1218\u1295"_s)
+			$of(u"ዘመን"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("buddhist.AmPmMarkers"_s),
@@ -368,7 +368,7 @@ $ObjectArray2* FormatData_am::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.dayperiod"_s),
-			$of(u"\u1325\u12cb\u1275/\u12a8\u1230\u12d3\u1275"_s)
+			$of(u"ጥዋት/ከሰዓት"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("standalone.MonthNarrows"_s),
@@ -380,7 +380,7 @@ $ObjectArray2* FormatData_am::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.roc"_s),
-			$of(u"\u12e8\u121a\u1295\u1309 \u12e8\u1240\u1295 \u12a0\u1246\u1323\u1320\u122d"_s)
+			$of(u"የሚንጉ የቀን አቆጣጠር"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("islamic.DatePatterns"_s),
@@ -392,11 +392,11 @@ $ObjectArray2* FormatData_am::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.month"_s),
-			$of(u"\u12c8\u122d"_s)
+			$of(u"ወር"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("field.second"_s),
-			$of(u"\u1230\u12a8\u1295\u12f5"_s)
+			$of(u"ሰከንድ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("DayAbbreviations"_s),
@@ -412,7 +412,7 @@ $ObjectArray2* FormatData_am::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.islamic"_s),
-			$of(u"\u12a5\u1235\u120b\u121b\u12ca \u12e8\u1240\u1295 \u12a0\u1246\u1323\u1320\u122d"_s)
+			$of(u"እስላማዊ የቀን አቆጣጠር"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("DayPeriodRules"_s),
@@ -432,7 +432,7 @@ $ObjectArray2* FormatData_am::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.regionFormat"_s),
-			$of(u"{0} \u130a\u12dc"_s)
+			$of(u"{0} ጊዜ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("long.CompactNumberPatterns"_s),
@@ -440,18 +440,18 @@ $ObjectArray2* FormatData_am::getContents() {
 				""_s,
 				""_s,
 				""_s,
-				u"{one:0\' \'\u123a other:0\' \'\u123a}"_s,
-				u"{one:00\' \'\u123a other:00\' \'\u123a}"_s,
-				u"{one:000\' \'\u123a other:000\' \'\u123a}"_s,
-				u"{one:0\' \'\u121a\u120a\u12ee\u1295 other:0\' \'\u121a\u120a\u12ee\u1295}"_s,
-				u"{one:00\' \'\u121a\u120a\u12ee\u1295 other:00\' \'\u121a\u120a\u12ee\u1295}"_s,
-				u"{one:000\' \'\u121a\u120a\u12ee\u1295 other:000\' \'\u121a\u120a\u12ee\u1295}"_s,
-				u"{one:0\' \'\u1262\u120a\u12ee\u1295 other:0\' \'\u1262\u120a\u12ee\u1295}"_s,
-				u"{one:00\' \'\u1262\u120a\u12ee\u1295 other:00\' \'\u1262\u120a\u12ee\u1295}"_s,
-				u"{one:000\' \'\u1262\u120a\u12ee\u1295 other:000\' \'\u1262\u120a\u12ee\u1295}"_s,
-				u"{one:0\' \'\u1275\u122a\u120a\u12ee\u1295 other:0\' \'\u1275\u122a\u120a\u12ee\u1295}"_s,
-				u"{one:00\' \'\u1275\u122a\u120a\u12ee\u1295 other:00\' \'\u1275\u122a\u120a\u12ee\u1295}"_s,
-				u"{one:000\' \'\u1275\u122a\u120a\u12ee\u1295 other:000\' \'\u1275\u122a\u120a\u12ee\u1295}"_s
+				u"{one:0\' \'ሺ other:0\' \'ሺ}"_s,
+				u"{one:00\' \'ሺ other:00\' \'ሺ}"_s,
+				u"{one:000\' \'ሺ other:000\' \'ሺ}"_s,
+				u"{one:0\' \'ሚሊዮን other:0\' \'ሚሊዮን}"_s,
+				u"{one:00\' \'ሚሊዮን other:00\' \'ሚሊዮን}"_s,
+				u"{one:000\' \'ሚሊዮን other:000\' \'ሚሊዮን}"_s,
+				u"{one:0\' \'ቢሊዮን other:0\' \'ቢሊዮን}"_s,
+				u"{one:00\' \'ቢሊዮን other:00\' \'ቢሊዮን}"_s,
+				u"{one:000\' \'ቢሊዮን other:000\' \'ቢሊዮን}"_s,
+				u"{one:0\' \'ትሪሊዮን other:0\' \'ትሪሊዮን}"_s,
+				u"{one:00\' \'ትሪሊዮን other:00\' \'ትሪሊዮን}"_s,
+				u"{one:000\' \'ትሪሊዮን other:000\' \'ትሪሊዮን}"_s
 			}))
 		}),
 		$$new($ObjectArray, {
@@ -504,7 +504,7 @@ $ObjectArray2* FormatData_am::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.zone"_s),
-			$of(u"\u12e8\u1230\u12d3\u1275 \u1230\u1245"_s)
+			$of(u"የሰዓት ሰቅ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("japanese.QuarterAbbreviations"_s),
@@ -540,7 +540,7 @@ $ObjectArray2* FormatData_am::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.weekday"_s),
-			$of(u"\u12a0\u12d8\u1266\u1275"_s)
+			$of(u"አዘቦት"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("japanese.MonthAbbreviations"_s),
@@ -592,7 +592,7 @@ $ObjectArray2* FormatData_am::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.week"_s),
-			$of(u"\u1233\u121d\u1295\u1275"_s)
+			$of(u"ሳምንት"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("buddhist.DateTimePatterns"_s),
@@ -632,18 +632,18 @@ $ObjectArray2* FormatData_am::getContents() {
 				""_s,
 				""_s,
 				""_s,
-				u"{one:0\u00a0\u123a other:0\u00a0\u123a}"_s,
-				u"{one:00\u00a0\u123a other:00\u00a0\u123a}"_s,
-				u"{one:000\u00a0\u123a other:000\u00a0\u123a}"_s,
-				u"{one:0\u00a0\u121a other:0\u00a0\u121a}"_s,
-				u"{one:00\u00a0\u121a other:00\u00a0\u121a}"_s,
-				u"{one:000\u00a0\u121a other:000\u00a0\u121a}"_s,
-				u"{one:0\u00a0\u1262 other:0\u00a0\u1262}"_s,
-				u"{one:00\u00a0\u1262 other:00\u00a0\u1262}"_s,
-				u"{one:000\u00a0\u1262 other:000\u00a0\u1262}"_s,
-				u"{one:0\u00a0\u1275 other:0\u00a0\u1275}"_s,
-				u"{one:00\u00a0\u1275 other:00\u00a0\u1275}"_s,
-				u"{one:000\u00a0\u1275 other:000\u00a0\u1275}"_s
+				u"{one:0 ሺ other:0 ሺ}"_s,
+				u"{one:00 ሺ other:00 ሺ}"_s,
+				u"{one:000 ሺ other:000 ሺ}"_s,
+				u"{one:0 ሚ other:0 ሚ}"_s,
+				u"{one:00 ሚ other:00 ሚ}"_s,
+				u"{one:000 ሚ other:000 ሚ}"_s,
+				u"{one:0 ቢ other:0 ቢ}"_s,
+				u"{one:00 ቢ other:00 ቢ}"_s,
+				u"{one:000 ቢ other:000 ቢ}"_s,
+				u"{one:0 ት other:0 ት}"_s,
+				u"{one:00 ት other:00 ት}"_s,
+				u"{one:000 ት other:000 ት}"_s
 			}))
 		}),
 		$$new($ObjectArray, {
@@ -656,7 +656,7 @@ $ObjectArray2* FormatData_am::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.regionFormat.daylight"_s),
-			$of(u"{0} \u12e8\u1240\u1295 \u1265\u122d\u1203\u1295 \u1230\u12d3\u1275"_s)
+			$of(u"{0} የቀን ብርሃን ሰዓት"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("DatePatterns"_s),
@@ -689,11 +689,11 @@ $ObjectArray2* FormatData_am::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.hour"_s),
-			$of(u"\u1230\u12d3\u1275"_s)
+			$of(u"ሰዓት"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.buddhist"_s),
-			$of(u"\u12e8\u1261\u12f2\u1235\u1275 \u1240\u1295 \u12a0\u1246\u1323\u1320\u122d"_s)
+			$of(u"የቡዲስት ቀን አቆጣጠር"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("standalone.MonthNames"_s),
@@ -703,9 +703,9 @@ $ObjectArray2* FormatData_am::getContents() {
 			$of("latn.NumberPatterns"_s),
 			$of($$new($StringArray, {
 				"#,##0.###"_s,
-				u"\u00a4#,##0.00"_s,
+				u"¤#,##0.00"_s,
 				"#,##0%"_s,
-				u"\u00a4#,##0.00;(\u00a4#,##0.00)"_s
+				u"¤#,##0.00;(¤#,##0.00)"_s
 			}))
 		}),
 		$$new($ObjectArray, {

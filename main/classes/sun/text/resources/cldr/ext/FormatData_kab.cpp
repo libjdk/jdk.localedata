@@ -41,32 +41,32 @@ $ObjectArray2* FormatData_kab::getContents() {
 	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_MonthNames, $new($StringArray, {
 		"Yennayer"_s,
-		u"Fu\u1e5bar"_s,
-		u"Me\u0263res"_s,
+		u"Fuṛar"_s,
+		u"Meɣres"_s,
 		"Yebrir"_s,
 		"Mayyu"_s,
 		"Yunyu"_s,
 		"Yulyu"_s,
-		u"\u0194uct"_s,
-		u"Ctembe\u1e5b"_s,
-		u"Tube\u1e5b"_s,
-		u"Nunembe\u1e5b"_s,
-		u"Du\u01e7embe\u1e5b"_s,
+		u"Ɣuct"_s,
+		u"Ctembeṛ"_s,
+		u"Tubeṛ"_s,
+		u"Nunembeṛ"_s,
+		u"Duǧembeṛ"_s,
 		""_s
 	}));
 	$var($StringArray, metaValue_MonthAbbreviations, $new($StringArray, {
 		"Yen"_s,
 		"Fur"_s,
-		u"Me\u0263"_s,
+		u"Meɣ"_s,
 		"Yeb"_s,
 		"May"_s,
 		"Yun"_s,
 		"Yul"_s,
-		u"\u0194uc"_s,
+		u"Ɣuc"_s,
 		"Cte"_s,
 		"Tub"_s,
 		"Nun"_s,
-		u"Du\u01e7"_s,
+		u"Duǧ"_s,
 		""_s
 	}));
 	$var($StringArray, metaValue_MonthNarrows, $new($StringArray, {
@@ -77,7 +77,7 @@ $ObjectArray2* FormatData_kab::getContents() {
 		"M"_s,
 		"Y"_s,
 		"Y"_s,
-		u"\u0194"_s,
+		u"Ɣ"_s,
 		"C"_s,
 		"T"_s,
 		"N"_s,
@@ -87,19 +87,19 @@ $ObjectArray2* FormatData_kab::getContents() {
 	$var($StringArray, metaValue_DayNames, $new($StringArray, {
 		"Yanass"_s,
 		"Sanass"_s,
-		u"Kra\u1e0dass"_s,
-		u"Ku\u1e93ass"_s,
+		u"Kraḍass"_s,
+		u"Kuẓass"_s,
 		"Samass"_s,
-		u"S\u1e0disass"_s,
+		u"Sḍisass"_s,
 		"Sayass"_s
 	}));
 	$var($StringArray, metaValue_DayAbbreviations, $new($StringArray, {
 		"Yan"_s,
 		"San"_s,
-		u"Kra\u1e0d"_s,
-		u"Ku\u1e93"_s,
+		u"Kraḍ"_s,
+		u"Kuẓ"_s,
 		"Sam"_s,
-		u"S\u1e0dis"_s,
+		u"Sḍis"_s,
 		"Say"_s
 	}));
 	$var($StringArray, metaValue_DayNarrows, $new($StringArray, {
@@ -112,16 +112,16 @@ $ObjectArray2* FormatData_kab::getContents() {
 		"S"_s
 	}));
 	$var($StringArray, metaValue_QuarterNames, $new($StringArray, {
-		u"akra\u1e0daggur amenzu"_s,
-		u"akra\u1e0daggur wis-sin"_s,
-		u"akra\u1e0daggur wis-kra\u1e0d"_s,
-		u"akra\u1e0daggur wis-ku\u1e93"_s
+		u"akraḍaggur amenzu"_s,
+		u"akraḍaggur wis-sin"_s,
+		u"akraḍaggur wis-kraḍ"_s,
+		u"akraḍaggur wis-kuẓ"_s
 	}));
 	$var($StringArray, metaValue_QuarterAbbreviations, $new($StringArray, {
-		u"K\u1e0dg1"_s,
-		u"K\u1e0dg2"_s,
-		u"K\u1e0dg3"_s,
-		u"K\u1e0dg4"_s
+		u"Kḍg1"_s,
+		u"Kḍg2"_s,
+		u"Kḍg3"_s,
+		u"Kḍg4"_s
 	}));
 	$var($StringArray, metaValue_AmPmMarkers, $new($StringArray, {
 		"n tufat"_s,
@@ -138,8 +138,8 @@ $ObjectArray2* FormatData_kab::getContents() {
 		""_s
 	}));
 	$var($StringArray, metaValue_Eras, $new($StringArray, {
-		u"snd. T.\u0190"_s,
-		u"sld. T.\u0190"_s
+		u"snd. T.Ɛ"_s,
+		u"sld. T.Ɛ"_s
 	}));
 	$var($StringArray, metaValue_TimePatterns, $new($StringArray, {
 		"h:mm:ss a zzzz"_s,
@@ -271,8 +271,8 @@ $ObjectArray2* FormatData_kab::getContents() {
 		$$new($ObjectArray, {
 			$of("long.Eras"_s),
 			$of($$new($StringArray, {
-				u"send talalit n \u0190isa"_s,
-				u"seld talalit n \u0190isa"_s
+				u"send talalit n Ɛisa"_s,
+				u"seld talalit n Ɛisa"_s
 			}))
 		}),
 		$$new($ObjectArray, {
@@ -303,15 +303,15 @@ $ObjectArray2* FormatData_kab::getContents() {
 			$of("latn.NumberElements"_s),
 			$of($$new($StringArray, {
 				","_s,
-				u"\u00a0"_s,
+				u" "_s,
 				";"_s,
 				"%"_s,
 				"0"_s,
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
+				u"‰"_s,
+				u"∞"_s,
 				"NaN"_s,
 				""_s,
 				""_s
@@ -486,7 +486,7 @@ $ObjectArray2* FormatData_kab::getContents() {
 			$of("latn.NumberPatterns"_s),
 			$of($$new($StringArray, {
 				"#,##0.###"_s,
-				u"#,##0.00\u00a4"_s,
+				u"#,##0.00¤"_s,
 				"#,##0%"_s,
 				""_s
 			}))

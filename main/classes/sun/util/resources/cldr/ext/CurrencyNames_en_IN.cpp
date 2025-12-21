@@ -46,7 +46,7 @@ $ObjectArray2* CurrencyNames_en_IN::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("vef"_s),
-			$of(u"Venezuelan Bol\u00edvar"_s)
+			$of(u"Venezuelan Bolívar"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ves"_s),

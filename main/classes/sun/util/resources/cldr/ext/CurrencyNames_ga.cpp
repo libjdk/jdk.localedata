@@ -274,7 +274,7 @@ $ObjectArray2* CurrencyNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("JPY"_s),
-			$of(u"\u00a5"_s)
+			$of(u"¥"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("KRH"_s),
@@ -426,7 +426,7 @@ $ObjectArray2* CurrencyNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("THB"_s),
-			$of(u"\u0e3f"_s)
+			$of(u"฿"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("TJR"_s),
@@ -586,67 +586,67 @@ $ObjectArray2* CurrencyNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("adp"_s),
-			$of(u"Peseta And\u00f3ra"_s)
+			$of(u"Peseta Andóra"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("aed"_s),
-			$of(u"Dirham Aontas na n\u00c9im\u00edr\u00edochta\u00ed Arabacha"_s)
+			$of(u"Dirham Aontas na nÉimíríochtaí Arabacha"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("afa"_s),
-			$of(u"Afgain\u00ed (1927\u20132002)"_s)
+			$of(u"Afgainí (1927–2002)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("afn"_s),
-			$of(u"Afghani na hAfganast\u00e1ine"_s)
+			$of(u"Afghani na hAfganastáine"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("alk"_s),
-			$of(u"Lek na hAlb\u00e1ine (1946\u20131965)"_s)
+			$of(u"Lek na hAlbáine (1946–1965)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("all"_s),
-			$of(u"Lek na hAlb\u00e1ine"_s)
+			$of(u"Lek na hAlbáine"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("amd"_s),
-			$of(u"Dram na hAirm\u00e9ine"_s)
+			$of(u"Dram na hAirméine"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ang"_s),
-			$of(u"Gildear Aintill\u00ed na h\u00cdsilt\u00edre"_s)
+			$of(u"Gildear Aintillí na hÍsiltíre"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("aoa"_s),
-			$of(u"Kwanza Ang\u00f3la"_s)
+			$of(u"Kwanza Angóla"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("aok"_s),
-			$of(u"Kwanza Ang\u00f3lach (1977\u20131990)"_s)
+			$of(u"Kwanza Angólach (1977–1990)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("aon"_s),
-			$of(u"Kwanza Nua Ang\u00f3lach (1990\u20132000)"_s)
+			$of(u"Kwanza Nua Angólach (1990–2000)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("aor"_s),
-			$of(u"Kwanza Reajustado Ang\u00f3lach (1995\u20131999)"_s)
+			$of(u"Kwanza Reajustado Angólach (1995–1999)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ara"_s),
-			$of(u"Austral Airgint\u00edneach"_s)
+			$of(u"Austral Airgintíneach"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("arm"_s),
-			$of(u"Peso na hAirgint\u00edne (1881\u20131970)"_s)
+			$of(u"Peso na hAirgintíne (1881–1970)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("arp"_s),
-			$of(u"Peso na hAirgint\u00edne (1983\u20131985)"_s)
+			$of(u"Peso na hAirgintíne (1983–1985)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ars"_s),
-			$of(u"Peso na hAirgint\u00edne"_s)
+			$of(u"Peso na hAirgintíne"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ats"_s),
@@ -654,35 +654,35 @@ $ObjectArray2* CurrencyNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("aud"_s),
-			$of(u"Dollar na hAstr\u00e1ile"_s)
+			$of(u"Dollar na hAstráile"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("awg"_s),
-			$of(u"Fl\u00f3ir\u00edn Ar\u00faba"_s)
+			$of(u"Flóirín Arúba"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("azm"_s),
-			$of(u"Manat na hAsarbaise\u00e1ine (1993\u20132006)"_s)
+			$of(u"Manat na hAsarbaiseáine (1993–2006)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("azn"_s),
-			$of(u"Manat na hAsarbaise\u00e1ine"_s)
+			$of(u"Manat na hAsarbaiseáine"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bad"_s),
-			$of(u"D\u00ednear Bhoisnia-Heirseagaiv\u00e9in (1992\u20131994)"_s)
+			$of(u"Dínear Bhoisnia-Heirseagaivéin (1992–1994)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bam"_s),
-			$of(u"Marg Inmhalartaithe na Boisnia-Heirseagaiv\u00e9ine"_s)
+			$of(u"Marg Inmhalartaithe na Boisnia-Heirseagaivéine"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bbd"_s),
-			$of(u"Dollar Bharbad\u00f3s"_s)
+			$of(u"Dollar Bharbadós"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bdt"_s),
-			$of(u"Taka na Banglaid\u00e9ise"_s)
+			$of(u"Taka na Banglaidéise"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bec"_s),
@@ -698,31 +698,31 @@ $ObjectArray2* CurrencyNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("bgl"_s),
-			$of(u"Lev Crua na Bulg\u00e1ire"_s)
+			$of(u"Lev Crua na Bulgáire"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bgn"_s),
-			$of(u"Lev na Bulg\u00e1ire"_s)
+			$of(u"Lev na Bulgáire"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bgo"_s),
-			$of(u"Lev na Bulg\u00e1ire (1879\u20131952)"_s)
+			$of(u"Lev na Bulgáire (1879–1952)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bhd"_s),
-			$of(u"Dinar Bhair\u00e9in"_s)
+			$of(u"Dinar Bhairéin"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bif"_s),
-			$of(u"Franc na Bur\u00faine"_s)
+			$of(u"Franc na Burúine"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bmd"_s),
-			$of(u"Dollar Bheirmi\u00fada"_s)
+			$of(u"Dollar Bheirmiúda"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bnd"_s),
-			$of(u"Dollar Bhr\u00fain\u00e9"_s)
+			$of(u"Dollar Bhrúiné"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bob"_s),
@@ -738,39 +738,39 @@ $ObjectArray2* CurrencyNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("brb"_s),
-			$of(u"Cruzeiro Nua na Brasa\u00edle (1967\u20131986)"_s)
+			$of(u"Cruzeiro Nua na Brasaíle (1967–1986)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("brc"_s),
-			$of(u"Cruzado na Brasa\u00edle (1986\u20131989)"_s)
+			$of(u"Cruzado na Brasaíle (1986–1989)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bre"_s),
-			$of(u"Cruzeiro na Brasa\u00edle (1990\u20131993)"_s)
+			$of(u"Cruzeiro na Brasaíle (1990–1993)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("brl"_s),
-			$of(u"Real na Brasa\u00edle"_s)
+			$of(u"Real na Brasaíle"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("brn"_s),
-			$of(u"Cruzado Nua na Brasa\u00edle (1989\u20131990)"_s)
+			$of(u"Cruzado Nua na Brasaíle (1989–1990)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("brr"_s),
-			$of(u"Cruzeiro na Brasa\u00edle (1993\u20131994)"_s)
+			$of(u"Cruzeiro na Brasaíle (1993–1994)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("brz"_s),
-			$of(u"Cruzeiro na Brasa\u00edle (1942\u20131967)"_s)
+			$of(u"Cruzeiro na Brasaíle (1942–1967)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bsd"_s),
-			$of(u"Dollar na mBah\u00e1ma\u00ed"_s)
+			$of(u"Dollar na mBahámaí"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("btn"_s),
-			$of(u"Ngultrum na B\u00fat\u00e1ine"_s)
+			$of(u"Ngultrum na Bútáine"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("buk"_s),
@@ -778,23 +778,23 @@ $ObjectArray2* CurrencyNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("bwp"_s),
-			$of(u"Pula na Botsu\u00e1ine"_s)
+			$of(u"Pula na Botsuáine"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("byb"_s),
-			$of(u"R\u00fabal Nua na Bealar\u00faise (1994\u20131999)"_s)
+			$of(u"Rúbal Nua na Bealarúise (1994–1999)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("byn"_s),
-			$of(u"R\u00fabal na Bealar\u00faise"_s)
+			$of(u"Rúbal na Bealarúise"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("byr"_s),
-			$of(u"R\u00fabal na Bealar\u00faise (2000\u20132016)"_s)
+			$of(u"Rúbal na Bealarúise (2000–2016)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bzd"_s),
-			$of(u"Dollar na Beil\u00edse"_s)
+			$of(u"Dollar na Beilíse"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cad"_s),
@@ -802,11 +802,11 @@ $ObjectArray2* CurrencyNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("cdf"_s),
-			$of(u"Franc an Chong\u00f3"_s)
+			$of(u"Franc an Chongó"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("chf"_s),
-			$of(u"Franc na hEilv\u00e9ise"_s)
+			$of(u"Franc na hEilvéise"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cle"_s),
@@ -822,35 +822,35 @@ $ObjectArray2* CurrencyNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("cnh"_s),
-			$of(u"Yuan na S\u00edne (seachairgeadra)"_s)
+			$of(u"Yuan na Síne (seachairgeadra)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cny"_s),
-			$of(u"Yuan na S\u00edne"_s)
+			$of(u"Yuan na Síne"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cop"_s),
-			$of(u"Peso na Col\u00f3ime"_s)
+			$of(u"Peso na Colóime"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("crc"_s),
-			$of(u"Col\u00f3n Ch\u00f3sta R\u00edce"_s)
+			$of(u"Colón Chósta Ríce"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("csd"_s),
-			$of(u"Dinar na Seirbia (2002\u20132006)"_s)
+			$of(u"Dinar na Seirbia (2002–2006)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("csk"_s),
-			$of(u"Koruna Crua na Seicsl\u00f3vaice"_s)
+			$of(u"Koruna Crua na Seicslóvaice"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cuc"_s),
-			$of(u"Peso Inmhalartaithe Ch\u00faba"_s)
+			$of(u"Peso Inmhalartaithe Chúba"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cup"_s),
-			$of(u"Peso Ch\u00faba"_s)
+			$of(u"Peso Chúba"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cve"_s),
@@ -866,7 +866,7 @@ $ObjectArray2* CurrencyNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ddm"_s),
-			$of(u"Marc Ghearm\u00e1in an Oirthir"_s)
+			$of(u"Marc Ghearmáin an Oirthir"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("dem"_s),
@@ -878,43 +878,43 @@ $ObjectArray2* CurrencyNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("dkk"_s),
-			$of(u"Cor\u00f3in na Danmhairge"_s)
+			$of(u"Coróin na Danmhairge"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("dop"_s),
-			$of(u"Peso na Poblachta Doiminic\u00ed"_s)
+			$of(u"Peso na Poblachta Doiminicí"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("dzd"_s),
-			$of(u"Dinar na hAilg\u00e9ire"_s)
+			$of(u"Dinar na hAilgéire"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ecs"_s),
-			$of(u"Sucre Eacuad\u00f3ir"_s)
+			$of(u"Sucre Eacuadóir"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ecv"_s),
-			$of(u"Unidad de Valor Constante (UVC) Eacuad\u00f3ir"_s)
+			$of(u"Unidad de Valor Constante (UVC) Eacuadóir"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("eek"_s),
-			$of(u"Kroon na hEast\u00f3ine"_s)
+			$of(u"Kroon na hEastóine"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("egp"_s),
-			$of(u"Punt na h\u00c9igipte"_s)
+			$of(u"Punt na hÉigipte"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ern"_s),
-			$of(u"Nakfa na hEiritr\u00e9"_s)
+			$of(u"Nakfa na hEiritré"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("esp"_s),
-			$of(u"Peseta na Sp\u00e1inne"_s)
+			$of(u"Peseta na Spáinne"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("etb"_s),
-			$of(u"Birr na hAet\u00f3ipe"_s)
+			$of(u"Birr na hAetóipe"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("eur"_s),
@@ -926,11 +926,11 @@ $ObjectArray2* CurrencyNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("fjd"_s),
-			$of(u"Dollar Fhids\u00ed"_s)
+			$of(u"Dollar Fhidsí"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("fkp"_s),
-			$of(u"Punt Oile\u00e1in Fh\u00e1clainne"_s)
+			$of(u"Punt Oileáin Fháclainne"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("frf"_s),
@@ -942,7 +942,7 @@ $ObjectArray2* CurrencyNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("gek"_s),
-			$of(u"Kupon Larit na Gr\u00faise"_s)
+			$of(u"Kupon Larit na Grúise"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gel"_s),
@@ -950,15 +950,15 @@ $ObjectArray2* CurrencyNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ghc"_s),
-			$of(u"Cedi Gh\u00e1na (1979\u20132007)"_s)
+			$of(u"Cedi Ghána (1979–2007)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ghs"_s),
-			$of(u"Cedi Gh\u00e1na"_s)
+			$of(u"Cedi Ghána"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gip"_s),
-			$of(u"Punt Ghiobr\u00e1ltar"_s)
+			$of(u"Punt Ghiobráltar"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gmd"_s),
@@ -974,11 +974,11 @@ $ObjectArray2* CurrencyNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("gqe"_s),
-			$of(u"Ekwele Guineana na Guine Me\u00e1nchiorcla\u00ed"_s)
+			$of(u"Ekwele Guineana na Guine Meánchiorclaí"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("grd"_s),
-			$of(u"Drachma Gr\u00e9agach"_s)
+			$of(u"Drachma Gréagach"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gtq"_s),
@@ -986,7 +986,7 @@ $ObjectArray2* CurrencyNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("gwe"_s),
-			$of(u"Escudo na Guine Portaing\u00e9ala\u00ed"_s)
+			$of(u"Escudo na Guine Portaingéalaí"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gwp"_s),
@@ -994,7 +994,7 @@ $ObjectArray2* CurrencyNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("gyd"_s),
-			$of(u"Dollar na Gu\u00e1ine"_s)
+			$of(u"Dollar na Guáine"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("hkd"_s),
@@ -1002,31 +1002,31 @@ $ObjectArray2* CurrencyNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("hnl"_s),
-			$of(u"Lempira Hond\u00faras"_s)
+			$of(u"Lempira Hondúras"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("hrd"_s),
-			$of(u"D\u00ednear na Cr\u00f3ite"_s)
+			$of(u"Dínear na Cróite"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("hrk"_s),
-			$of(u"Kuna na Cr\u00f3ite"_s)
+			$of(u"Kuna na Cróite"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("htg"_s),
-			$of(u"Gourde H\u00e1\u00edt\u00ed"_s)
+			$of(u"Gourde Háítí"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("huf"_s),
-			$of(u"Forint na hUng\u00e1ire"_s)
+			$of(u"Forint na hUngáire"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("idr"_s),
-			$of(u"Rupiah na hIndin\u00e9ise"_s)
+			$of(u"Rupiah na hIndinéise"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("iep"_s),
-			$of(u"Punt \u00c9ireannach"_s)
+			$of(u"Punt Éireannach"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ilp"_s),
@@ -1038,71 +1038,71 @@ $ObjectArray2* CurrencyNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("inr"_s),
-			$of(u"R\u00faip\u00ed na hIndia"_s)
+			$of(u"Rúipí na hIndia"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("iqd"_s),
-			$of(u"Dinar na hIar\u00e1ice"_s)
+			$of(u"Dinar na hIaráice"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("irr"_s),
-			$of(u"Rial na hIar\u00e1ine"_s)
+			$of(u"Rial na hIaráine"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("isk"_s),
-			$of(u"Kr\u00f3na na h\u00cdoslainne"_s)
+			$of(u"Króna na hÍoslainne"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("itl"_s),
-			$of(u"Lira na hIod\u00e1ile"_s)
+			$of(u"Lira na hIodáile"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("jmd"_s),
-			$of(u"Dollar na hIam\u00e1ice"_s)
+			$of(u"Dollar na hIamáice"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("jod"_s),
-			$of(u"Dinar na hIord\u00e1ine"_s)
+			$of(u"Dinar na hIordáine"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("jpy"_s),
-			$of(u"Yen na Seap\u00e1ine"_s)
+			$of(u"Yen na Seapáine"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kes"_s),
-			$of(u"Scilling na C\u00e9inia"_s)
+			$of(u"Scilling na Céinia"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kgs"_s),
-			$of(u"Som na Cirgeast\u00e1ine"_s)
+			$of(u"Som na Cirgeastáine"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("khr"_s),
-			$of(u"Riel na Camb\u00f3ide"_s)
+			$of(u"Riel na Cambóide"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kmf"_s),
-			$of(u"Franc Oile\u00e1in Chom\u00f3ra"_s)
+			$of(u"Franc Oileáin Chomóra"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kpw"_s),
-			$of(u"Won na C\u00f3ir\u00e9 Thuaidh"_s)
+			$of(u"Won na Cóiré Thuaidh"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("krw"_s),
-			$of(u"Won na C\u00f3ir\u00e9 Theas"_s)
+			$of(u"Won na Cóiré Theas"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kwd"_s),
-			$of(u"Dinar Chu\u00e1it"_s)
+			$of(u"Dinar Chuáit"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kyd"_s),
-			$of(u"Dollar Oile\u00e1in Cayman"_s)
+			$of(u"Dollar Oileáin Cayman"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kzt"_s),
-			$of(u"Tenge na Casacst\u00e1ine"_s)
+			$of(u"Tenge na Casacstáine"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lak"_s),
@@ -1110,27 +1110,27 @@ $ObjectArray2* CurrencyNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("lbp"_s),
-			$of(u"Punt na Liob\u00e1ine"_s)
+			$of(u"Punt na Liobáine"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lkr"_s),
-			$of(u"R\u00faip\u00ed Shr\u00ed Lanca"_s)
+			$of(u"Rúipí Shrí Lanca"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lrd"_s),
-			$of(u"Dollar na Lib\u00e9ire"_s)
+			$of(u"Dollar na Libéire"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lsl"_s),
-			$of(u"Loti Leos\u00f3ta"_s)
+			$of(u"Loti Leosóta"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ltl"_s),
-			$of(u"Litas na Liotu\u00e1ine"_s)
+			$of(u"Litas na Liotuáine"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ltt"_s),
-			$of(u"Talonas Liotu\u00e1nach"_s)
+			$of(u"Talonas Liotuánach"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("luc"_s),
@@ -1146,7 +1146,7 @@ $ObjectArray2* CurrencyNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("lvr"_s),
-			$of(u"R\u00fabal na Laitvia"_s)
+			$of(u"Rúbal na Laitvia"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lyd"_s),
@@ -1154,15 +1154,15 @@ $ObjectArray2* CurrencyNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("mad"_s),
-			$of(u"Dirham Mharac\u00f3"_s)
+			$of(u"Dirham Mharacó"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("maf"_s),
-			$of(u"Franc Mharac\u00f3"_s)
+			$of(u"Franc Mharacó"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mdl"_s),
-			$of(u"Leu na Mold\u00f3ive"_s)
+			$of(u"Leu na Moldóive"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mga"_s),
@@ -1174,11 +1174,11 @@ $ObjectArray2* CurrencyNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("mkd"_s),
-			$of(u"Denar na Macad\u00f3ine"_s)
+			$of(u"Denar na Macadóine"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mlf"_s),
-			$of(u"Franc Mhail\u00ed"_s)
+			$of(u"Franc Mhailí"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mmk"_s),
@@ -1186,7 +1186,7 @@ $ObjectArray2* CurrencyNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("mnt"_s),
-			$of(u"Tugrik na Mong\u00f3ile"_s)
+			$of(u"Tugrik na Mongóile"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mop"_s),
@@ -1194,35 +1194,35 @@ $ObjectArray2* CurrencyNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("mro"_s),
-			$of(u"Ouguiya na M\u00e1rat\u00e1ine (1973\u20132017)"_s)
+			$of(u"Ouguiya na Máratáine (1973–2017)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mru"_s),
-			$of(u"Ouguiya na M\u00e1rat\u00e1ine"_s)
+			$of(u"Ouguiya na Máratáine"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mtl"_s),
-			$of(u"Lira Mh\u00e1lta"_s)
+			$of(u"Lira Mhálta"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mtp"_s),
-			$of(u"Punt Mh\u00e1lta"_s)
+			$of(u"Punt Mhálta"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mur"_s),
-			$of(u"R\u00faip\u00ed Oile\u00e1n Mhuir\u00eds"_s)
+			$of(u"Rúipí Oileán Mhuirís"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mvp"_s),
-			$of(u"R\u00faip\u00ed Oile\u00e1in Mhaild\u00edve"_s)
+			$of(u"Rúipí Oileáin Mhaildíve"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mvr"_s),
-			$of(u"Rufiyaa Oile\u00e1in Mhaild\u00edve"_s)
+			$of(u"Rufiyaa Oileáin Mhaildíve"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mwk"_s),
-			$of(u"Kwacha na Mal\u00e1ive"_s)
+			$of(u"Kwacha na Maláive"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mxn"_s),
@@ -1230,11 +1230,11 @@ $ObjectArray2* CurrencyNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("mxp"_s),
-			$of(u"Peso Airgid Mheicsiceo (1861\u20131992)"_s)
+			$of(u"Peso Airgid Mheicsiceo (1861–1992)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mxv"_s),
-			$of(u"Aonad Infheist\u00edochta Meicsiceach"_s)
+			$of(u"Aonad Infheistíochta Meicsiceach"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("myr"_s),
@@ -1242,15 +1242,15 @@ $ObjectArray2* CurrencyNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("mze"_s),
-			$of(u"Escudo M\u00f3saimb\u00edce"_s)
+			$of(u"Escudo Mósaimbíce"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mzm"_s),
-			$of(u"Metical M\u00f3saimb\u00edce"_s)
+			$of(u"Metical Mósaimbíce"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mzn"_s),
-			$of(u"Metical Mh\u00f3saimb\u00edc"_s)
+			$of(u"Metical Mhósaimbíc"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("nad"_s),
@@ -1258,35 +1258,35 @@ $ObjectArray2* CurrencyNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ngn"_s),
-			$of(u"Naira na Nig\u00e9ire"_s)
+			$of(u"Naira na Nigéire"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("nic"_s),
-			$of(u"C\u00f3rdoba Nicearagua (1988\u20131991)"_s)
+			$of(u"Córdoba Nicearagua (1988–1991)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("nio"_s),
-			$of(u"C\u00f3rdoba Nicearagua"_s)
+			$of(u"Córdoba Nicearagua"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("nlg"_s),
-			$of(u"Guilder \u00cdsilt\u00edreach"_s)
+			$of(u"Guilder Ísiltíreach"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("nok"_s),
-			$of(u"Cor\u00f3in na hIorua"_s)
+			$of(u"Coróin na hIorua"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("npr"_s),
-			$of(u"R\u00faip\u00ed Neipeal"_s)
+			$of(u"Rúipí Neipeal"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("nzd"_s),
-			$of(u"Dollar na Nua-Sh\u00e9alainne"_s)
+			$of(u"Dollar na Nua-Shéalainne"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("omr"_s),
-			$of(u"Rial \u00d3man"_s)
+			$of(u"Rial Óman"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pab"_s),
@@ -1294,15 +1294,15 @@ $ObjectArray2* CurrencyNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("pei"_s),
-			$of(u"Inti Pheiri\u00fa"_s)
+			$of(u"Inti Pheiriú"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pen"_s),
-			$of(u"Sol Pheiri\u00fa"_s)
+			$of(u"Sol Pheiriú"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pes"_s),
-			$of(u"Sol Pheiri\u00fa (1863\u20131965)"_s)
+			$of(u"Sol Pheiriú (1863–1965)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pgk"_s),
@@ -1310,11 +1310,11 @@ $ObjectArray2* CurrencyNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("php"_s),
-			$of(u"Peso na nOile\u00e1n Filip\u00edneach"_s)
+			$of(u"Peso na nOileán Filipíneach"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pkr"_s),
-			$of(u"R\u00faip\u00ed na Pacast\u00e1ine"_s)
+			$of(u"Rúipí na Pacastáine"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pln"_s),
@@ -1322,15 +1322,15 @@ $ObjectArray2* CurrencyNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("plz"_s),
-			$of(u"Zloty Polannach (1950\u20131995)"_s)
+			$of(u"Zloty Polannach (1950–1995)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pte"_s),
-			$of(u"Escudo na Portaing\u00e9ile"_s)
+			$of(u"Escudo na Portaingéile"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pyg"_s),
-			$of(u"Guaran\u00ed Pharagua"_s)
+			$of(u"Guaraní Pharagua"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("qar"_s),
@@ -1338,11 +1338,11 @@ $ObjectArray2* CurrencyNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("rol"_s),
-			$of(u"Leu na R\u00f3m\u00e1ine (1952\u20132006)"_s)
+			$of(u"Leu na Rómáine (1952–2006)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ron"_s),
-			$of(u"Leu na R\u00f3m\u00e1ine"_s)
+			$of(u"Leu na Rómáine"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("rsd"_s),
@@ -1350,11 +1350,11 @@ $ObjectArray2* CurrencyNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("rub"_s),
-			$of(u"R\u00fabal na R\u00faise"_s)
+			$of(u"Rúbal na Rúise"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("rur"_s),
-			$of(u"R\u00fabal na R\u00faise (1991\u20131998)"_s)
+			$of(u"Rúbal na Rúise (1991–1998)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("rwf"_s),
@@ -1362,47 +1362,47 @@ $ObjectArray2* CurrencyNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("sar"_s),
-			$of(u"Riyal na hAraibe S\u00e1da\u00ed"_s)
+			$of(u"Riyal na hAraibe Sádaí"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sbd"_s),
-			$of(u"Dollar Oile\u00e1in Sholom\u00f3n"_s)
+			$of(u"Dollar Oileáin Sholomón"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("scr"_s),
-			$of(u"R\u00faip\u00ed na S\u00e9is\u00e9al"_s)
+			$of(u"Rúipí na Séiséal"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sdd"_s),
-			$of(u"Dinar na S\u00fad\u00e1ine (1992\u20132007)"_s)
+			$of(u"Dinar na Súdáine (1992–2007)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sdg"_s),
-			$of(u"Punt na S\u00fad\u00e1ine"_s)
+			$of(u"Punt na Súdáine"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sdp"_s),
-			$of(u"Punt na S\u00fad\u00e1ine (1957\u20131998)"_s)
+			$of(u"Punt na Súdáine (1957–1998)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sek"_s),
-			$of(u"Cor\u00f3in na Sualainne"_s)
+			$of(u"Coróin na Sualainne"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sgd"_s),
-			$of(u"Dollar Shingeap\u00f3r"_s)
+			$of(u"Dollar Shingeapór"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("shp"_s),
-			$of(u"Punt San H\u00e9ilin"_s)
+			$of(u"Punt San Héilin"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sit"_s),
-			$of(u"Tolar na Sl\u00f3iv\u00e9ine"_s)
+			$of(u"Tolar na Slóivéine"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("skk"_s),
-			$of(u"Koruna na Sl\u00f3vaice"_s)
+			$of(u"Koruna na Slóvaice"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sll"_s),
@@ -1410,7 +1410,7 @@ $ObjectArray2* CurrencyNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("sos"_s),
-			$of(u"Scilling na Som\u00e1ile"_s)
+			$of(u"Scilling na Somáile"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("srd"_s),
@@ -1422,23 +1422,23 @@ $ObjectArray2* CurrencyNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ssp"_s),
-			$of(u"Punt na S\u00fad\u00e1ine Theas"_s)
+			$of(u"Punt na Súdáine Theas"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("std"_s),
-			$of(u"Dobra S\u00e3o Tom\u00e9 agus Pr\u00edncipe (1977\u20132017)"_s)
+			$of(u"Dobra São Tomé agus Príncipe (1977–2017)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("stn"_s),
-			$of(u"Dobra S\u00e3o Tom\u00e9 agus Pr\u00edncipe"_s)
+			$of(u"Dobra São Tomé agus Príncipe"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sur"_s),
-			$of(u"R\u00fabal an Aontais Sh\u00f3iv\u00e9adaigh"_s)
+			$of(u"Rúbal an Aontais Shóivéadaigh"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("svc"_s),
-			$of(u"Col\u00f3n na Salvad\u00f3ire"_s)
+			$of(u"Colón na Salvadóire"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("syp"_s),
@@ -1450,39 +1450,39 @@ $ObjectArray2* CurrencyNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("thb"_s),
-			$of(u"Baht na T\u00e9alainne"_s)
+			$of(u"Baht na Téalainne"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("tjr"_s),
-			$of(u"R\u00fabal na T\u00e1ids\u00edceast\u00e1ine"_s)
+			$of(u"Rúbal na Táidsíceastáine"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("tjs"_s),
-			$of(u"Somoni na T\u00e1ids\u00edceast\u00e1ine"_s)
+			$of(u"Somoni na Táidsíceastáine"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("tmm"_s),
-			$of(u"Manat na Tuircm\u00e9anast\u00e1ine (1993\u20132009)"_s)
+			$of(u"Manat na Tuircméanastáine (1993–2009)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("tmt"_s),
-			$of(u"Manat na Tuircm\u00e9anast\u00e1ine"_s)
+			$of(u"Manat na Tuircméanastáine"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("tnd"_s),
-			$of(u"Dinar na T\u00fain\u00e9ise"_s)
+			$of(u"Dinar na Túinéise"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("top"_s),
-			$of(u"Pa\u02bbanga Thonga"_s)
+			$of(u"Paʻanga Thonga"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("tpe"_s),
-			$of(u"Escudo T\u00edom\u00f3ir"_s)
+			$of(u"Escudo Tíomóir"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("trl"_s),
-			$of(u"Lira na Tuirce (1922\u20132005)"_s)
+			$of(u"Lira na Tuirce (1922–2005)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("try"_s),
@@ -1490,27 +1490,27 @@ $ObjectArray2* CurrencyNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ttd"_s),
-			$of(u"Dollar Oile\u00e1n na Tr\u00edon\u00f3ide agus Tob\u00e1ga"_s)
+			$of(u"Dollar Oileán na Tríonóide agus Tobága"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("twd"_s),
-			$of(u"Dollar Nua na T\u00e9av\u00e1ine"_s)
+			$of(u"Dollar Nua na Téaváine"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("tzs"_s),
-			$of(u"Scilling na Tans\u00e1ine"_s)
+			$of(u"Scilling na Tansáine"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("uah"_s),
-			$of(u"Hryvnia na h\u00dacr\u00e1ine"_s)
+			$of(u"Hryvnia na hÚcráine"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("uak"_s),
-			$of(u"Karbovanets \u00dacr\u00e1nach"_s)
+			$of(u"Karbovanets Úcránach"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ugs"_s),
-			$of(u"Scilling Uganda (1966\u20131987)"_s)
+			$of(u"Scilling Uganda (1966–1987)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ugx"_s),
@@ -1522,15 +1522,15 @@ $ObjectArray2* CurrencyNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("usn"_s),
-			$of(u"Dollar S.A.M. (an ch\u00e9ad l\u00e1 eile)"_s)
+			$of(u"Dollar S.A.M. (an chéad lá eile)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("uss"_s),
-			$of(u"Dollar S.A.M. (an l\u00e1 c\u00e9anna)"_s)
+			$of(u"Dollar S.A.M. (an lá céanna)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("uyp"_s),
-			$of(u"Peso Uragua (1975\u20131993)"_s)
+			$of(u"Peso Uragua (1975–1993)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("uyu"_s),
@@ -1538,39 +1538,39 @@ $ObjectArray2* CurrencyNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("uzs"_s),
-			$of(u"Sum na h\u00daisb\u00e9iceast\u00e1ine"_s)
+			$of(u"Sum na hÚisbéiceastáine"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("veb"_s),
-			$of(u"Bol\u00edvar Veinis\u00e9ala (1871\u20132008)"_s)
+			$of(u"Bolívar Veiniséala (1871–2008)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("vef"_s),
-			$of(u"Bol\u00edvar Veinis\u00e9ala (2008\u20132018)"_s)
+			$of(u"Bolívar Veiniséala (2008–2018)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ves"_s),
-			$of(u"Bol\u00edvar Veinis\u00e9ala"_s)
+			$of(u"Bolívar Veiniséala"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("vnd"_s),
-			$of(u"Dong V\u00edtneam"_s)
+			$of(u"Dong Vítneam"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("vnn"_s),
-			$of(u"Dong V\u00edtneam (1978\u20131985)"_s)
+			$of(u"Dong Vítneam (1978–1985)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("vuv"_s),
-			$of(u"Vatu Vanuat\u00fa"_s)
+			$of(u"Vatu Vanuatú"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("wst"_s),
-			$of(u"Tala Sham\u00f3"_s)
+			$of(u"Tala Shamó"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xaf"_s),
-			$of(u"Franc CFA na hAfraice L\u00e1ir"_s)
+			$of(u"Franc CFA na hAfraice Láir"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xag"_s),
@@ -1578,7 +1578,7 @@ $ObjectArray2* CurrencyNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("xau"_s),
-			$of(u"\u00d3r"_s)
+			$of(u"Ór"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xba"_s),
@@ -1586,7 +1586,7 @@ $ObjectArray2* CurrencyNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("xbb"_s),
-			$of(u"Aonad Airgeada\u00edochta Eorpach"_s)
+			$of(u"Aonad Airgeadaíochta Eorpach"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xbc"_s),
@@ -1610,7 +1610,7 @@ $ObjectArray2* CurrencyNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("xfo"_s),
-			$of(u"Franc \u00d3r Francach"_s)
+			$of(u"Franc Ór Francach"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xfu"_s),
@@ -1638,27 +1638,27 @@ $ObjectArray2* CurrencyNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ydd"_s),
-			$of(u"D\u00ednear \u00c9imin"_s)
+			$of(u"Dínear Éimin"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("yer"_s),
-			$of(u"Rial \u00c9imin"_s)
+			$of(u"Rial Éimin"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("yud"_s),
-			$of(u"D\u00ednear Crua I\u00fagslavach (1966\u20131990)"_s)
+			$of(u"Dínear Crua Iúgslavach (1966–1990)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("yum"_s),
-			$of(u"D\u00ednear Nua I\u00fagslavach (1994\u20132002)"_s)
+			$of(u"Dínear Nua Iúgslavach (1994–2002)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("yun"_s),
-			$of(u"Dinar Inmhalartaithe I\u00fagslavach (1990\u20131992)"_s)
+			$of(u"Dinar Inmhalartaithe Iúgslavach (1990–1992)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("zal"_s),
-			$of(u"Rand na hAfraice Theas (airgead\u00fail)"_s)
+			$of(u"Rand na hAfraice Theas (airgeadúil)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("zar"_s),
@@ -1666,7 +1666,7 @@ $ObjectArray2* CurrencyNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("zmk"_s),
-			$of(u"Kwacha Saimbiach (1968\u20132012)"_s)
+			$of(u"Kwacha Saimbiach (1968–2012)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("zmw"_s),
@@ -1674,15 +1674,15 @@ $ObjectArray2* CurrencyNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("zrn"_s),
-			$of(u"Zaire Nua S\u00e1\u00edreach"_s)
+			$of(u"Zaire Nua Sáíreach"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("zrz"_s),
-			$of(u"Zaire S\u00e1\u00edreach"_s)
+			$of(u"Zaire Sáíreach"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("zwd"_s),
-			$of(u"Dollar Siomb\u00e1bach (1980\u20132008)"_s)
+			$of(u"Dollar Siombábach (1980–2008)"_s)
 		})
 	}));
 	return data;

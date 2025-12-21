@@ -50,7 +50,7 @@ $ObjectArray2* CurrencyNames_sq::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ALL"_s),
-			$of(u"Lek\u00eb"_s)
+			$of(u"Lekë"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("AMD"_s),
@@ -530,7 +530,7 @@ $ObjectArray2* CurrencyNames_sq::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("THB"_s),
-			$of(u"\u0e3f"_s)
+			$of(u"฿"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("TJS"_s),
@@ -606,7 +606,7 @@ $ObjectArray2* CurrencyNames_sq::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("aed"_s),
-			$of(u"Dirhami i Emirateve t\u00eb Bashkuara Arabe"_s)
+			$of(u"Dirhami i Emirateve të Bashkuara Arabe"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("afn"_s),
@@ -626,7 +626,7 @@ $ObjectArray2* CurrencyNames_sq::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("aoa"_s),
-			$of(u"Kuanza e Angol\u00ebs"_s)
+			$of(u"Kuanza e Angolës"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ars"_s),
@@ -646,7 +646,7 @@ $ObjectArray2* CurrencyNames_sq::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("bam"_s),
-			$of(u"Marka e Bosnj\u00eb-Hercegovin\u00ebs [e shk\u00ebmbyeshme]"_s)
+			$of(u"Marka e Bosnjë-Hercegovinës [e shkëmbyeshme]"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bbd"_s),
@@ -678,7 +678,7 @@ $ObjectArray2* CurrencyNames_sq::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("bob"_s),
-			$of(u"Boliviani i Bolivis\u00eb"_s)
+			$of(u"Boliviani i Bolivisë"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("brl"_s),
@@ -702,7 +702,7 @@ $ObjectArray2* CurrencyNames_sq::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("byr"_s),
-			$of(u"Rubla bjelloruse (2000\u20132016)"_s)
+			$of(u"Rubla bjelloruse (2000–2016)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bzd"_s),
@@ -726,7 +726,7 @@ $ObjectArray2* CurrencyNames_sq::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("cnh"_s),
-			$of(u"Juani kinez (p\u00ebr treg t\u00eb jasht\u00ebm)"_s)
+			$of(u"Juani kinez (për treg të jashtëm)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cny"_s),
@@ -742,7 +742,7 @@ $ObjectArray2* CurrencyNames_sq::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("cuc"_s),
-			$of(u"Pesoja kubaneze e shk\u00ebmbyeshme"_s)
+			$of(u"Pesoja kubaneze e shkëmbyeshme"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cup"_s),
@@ -750,11 +750,11 @@ $ObjectArray2* CurrencyNames_sq::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("cve"_s),
-			$of(u"Eskudoja e Kepit t\u00eb Gjelb\u00ebr"_s)
+			$of(u"Eskudoja e Kepit të Gjelbër"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("czk"_s),
-			$of(u"Koruna e \u00c7ekis\u00eb"_s)
+			$of(u"Koruna e Çekisë"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("djf"_s),
@@ -778,7 +778,7 @@ $ObjectArray2* CurrencyNames_sq::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ern"_s),
-			$of(u"Nakfa e Eritres\u00eb"_s)
+			$of(u"Nakfa e Eritresë"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("etb"_s),
@@ -794,7 +794,7 @@ $ObjectArray2* CurrencyNames_sq::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("fkp"_s),
-			$of(u"St\u00ebrlina e Ishujve Falkland"_s)
+			$of(u"Stërlina e Ishujve Falkland"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gbp"_s),
@@ -822,7 +822,7 @@ $ObjectArray2* CurrencyNames_sq::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("gtq"_s),
-			$of(u"Kuecali i Guatemal\u00ebs"_s)
+			$of(u"Kuecali i Guatemalës"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gyd"_s),
@@ -930,7 +930,7 @@ $ObjectArray2* CurrencyNames_sq::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("lkr"_s),
-			$of(u"Rupia e Sri-Lank\u00ebs"_s)
+			$of(u"Rupia e Sri-Lankës"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lrd"_s),
@@ -978,7 +978,7 @@ $ObjectArray2* CurrencyNames_sq::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("mro"_s),
-			$of(u"Ugija mauritane (1973\u20132017)"_s)
+			$of(u"Ugija mauritane (1973–2017)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mru"_s),
@@ -994,7 +994,7 @@ $ObjectArray2* CurrencyNames_sq::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("mwk"_s),
-			$of(u"Kua\u00e7a malaviane"_s)
+			$of(u"Kuaça malaviane"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mxn"_s),
@@ -1010,7 +1010,7 @@ $ObjectArray2* CurrencyNames_sq::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("nad"_s),
-			$of(u"Dollari i Namibis\u00eb"_s)
+			$of(u"Dollari i Namibisë"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ngn"_s),
@@ -1030,7 +1030,7 @@ $ObjectArray2* CurrencyNames_sq::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("nzd"_s),
-			$of(u"Dollari i Zeland\u00ebs s\u00eb Re"_s)
+			$of(u"Dollari i Zelandës së Re"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("omr"_s),
@@ -1046,7 +1046,7 @@ $ObjectArray2* CurrencyNames_sq::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("pgk"_s),
-			$of(u"Kina e Guines\u00eb s\u00eb Re-Papua"_s)
+			$of(u"Kina e Guinesë së Re-Papua"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("php"_s),
@@ -1090,11 +1090,11 @@ $ObjectArray2* CurrencyNames_sq::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("sbd"_s),
-			$of(u"Dollari i Ishujve Solomon\u00eb"_s)
+			$of(u"Dollari i Ishujve Solomonë"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("scr"_s),
-			$of(u"Rupia e Ishujve Sishel\u00eb"_s)
+			$of(u"Rupia e Ishujve Sishelë"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sdg"_s),
@@ -1110,7 +1110,7 @@ $ObjectArray2* CurrencyNames_sq::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("shp"_s),
-			$of(u"Sterlina e Ishullit t\u00eb Sh\u00ebn-Helen\u00ebs"_s)
+			$of(u"Sterlina e Ishullit të Shën-Helenës"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sll"_s),
@@ -1130,7 +1130,7 @@ $ObjectArray2* CurrencyNames_sq::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("std"_s),
-			$of(u"Dobra e Sao-Tomes dhe Prinsipes (1977\u20132017)"_s)
+			$of(u"Dobra e Sao-Tomes dhe Prinsipes (1977–2017)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("stn"_s),
@@ -1142,7 +1142,7 @@ $ObjectArray2* CurrencyNames_sq::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("szl"_s),
-			$of(u"Lilangeni i Suaziland\u00ebs"_s)
+			$of(u"Lilangeni i Suazilandës"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("thb"_s),
@@ -1178,7 +1178,7 @@ $ObjectArray2* CurrencyNames_sq::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("tzs"_s),
-			$of(u"Shilinga e Tanzanis\u00eb"_s)
+			$of(u"Shilinga e Tanzanisë"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("uah"_s),
@@ -1202,7 +1202,7 @@ $ObjectArray2* CurrencyNames_sq::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("vef"_s),
-			$of(u"Bolivari venezuelian (2008\u20132018)"_s)
+			$of(u"Bolivari venezuelian (2008–2018)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ves"_s),
@@ -1214,7 +1214,7 @@ $ObjectArray2* CurrencyNames_sq::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("vuv"_s),
-			$of(u"Vatuja e Vanuatus\u00eb"_s)
+			$of(u"Vatuja e Vanuatusë"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("wst"_s),
@@ -1230,15 +1230,15 @@ $ObjectArray2* CurrencyNames_sq::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("xof"_s),
-			$of(u"Franga e Bregut t\u00eb Fildisht\u00eb"_s)
+			$of(u"Franga e Bregut të Fildishtë"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xpf"_s),
-			$of(u"Franga franceze e Polinezis\u00eb"_s)
+			$of(u"Franga franceze e Polinezisë"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xxx"_s),
-			$of(u"Valut\u00eb e panjohur"_s)
+			$of(u"Valutë e panjohur"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("yer"_s),
@@ -1250,7 +1250,7 @@ $ObjectArray2* CurrencyNames_sq::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("zmw"_s),
-			$of(u"Kua\u00e7a e Zambikut"_s)
+			$of(u"Kuaça e Zambikut"_s)
 		})
 	}));
 	return data;

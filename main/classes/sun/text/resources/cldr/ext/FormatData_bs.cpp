@@ -89,7 +89,7 @@ $ObjectArray2* FormatData_bs::getContents() {
 		"ponedjeljak"_s,
 		"utorak"_s,
 		"srijeda"_s,
-		u"\u010detvrtak"_s,
+		u"četvrtak"_s,
 		"petak"_s,
 		"subota"_s
 	}));
@@ -98,7 +98,7 @@ $ObjectArray2* FormatData_bs::getContents() {
 		"pon"_s,
 		"uto"_s,
 		"sri"_s,
-		u"\u010det"_s,
+		u"čet"_s,
 		"pet"_s,
 		"sub"_s
 	}));
@@ -107,15 +107,15 @@ $ObjectArray2* FormatData_bs::getContents() {
 		"P"_s,
 		"U"_s,
 		"S"_s,
-		u"\u010c"_s,
+		u"Č"_s,
 		"P"_s,
 		"S"_s
 	}));
 	$var($StringArray, metaValue_QuarterNames, $new($StringArray, {
 		"Prvi kvartal"_s,
 		"Drugi kvartal"_s,
-		u"Tre\u0107i kvartal"_s,
-		u"\u010cetvrti kvartal"_s
+		u"Treći kvartal"_s,
+		u"Četvrti kvartal"_s
 	}));
 	$var($StringArray, metaValue_QuarterAbbreviations, $new($StringArray, {
 		"KV1"_s,
@@ -132,29 +132,29 @@ $ObjectArray2* FormatData_bs::getContents() {
 	$var($StringArray, metaValue_AmPmMarkers, $new($StringArray, {
 		"prijepodne"_s,
 		"popodne"_s,
-		u"pono\u0107"_s,
+		u"ponoć"_s,
 		"podne"_s,
 		"ujutro"_s,
 		""_s,
 		"poslijepodne"_s,
 		""_s,
-		u"nave\u010der"_s,
+		u"navečer"_s,
 		""_s,
-		u"po no\u0107i"_s,
+		u"po noći"_s,
 		""_s
 	}));
 	$var($StringArray, metaValue_abbreviated_AmPmMarkers, $new($StringArray, {
 		"AM"_s,
 		"PM"_s,
-		u"pono\u0107"_s,
+		u"ponoć"_s,
 		"podne"_s,
 		"ujutro"_s,
 		""_s,
 		"poslijepodne"_s,
 		""_s,
-		u"nave\u010der"_s,
+		u"navečer"_s,
 		""_s,
-		u"po no\u0107i"_s,
+		u"po noći"_s,
 		""_s
 	}));
 	$var($StringArray, metaValue_TimePatterns, $new($StringArray, {
@@ -331,8 +331,8 @@ $ObjectArray2* FormatData_bs::getContents() {
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
+				u"‰"_s,
+				u"∞"_s,
 				"NaN"_s,
 				""_s,
 				""_s
@@ -375,16 +375,16 @@ $ObjectArray2* FormatData_bs::getContents() {
 			$of($$new($StringArray, {
 				"muharem"_s,
 				"safer"_s,
-				u"rabi\u02bb i"_s,
-				u"rabi\u02bb ii"_s,
-				u"d\u017eumade i"_s,
-				u"d\u017eumade ii"_s,
-				u"red\u017eeb"_s,
-				u"Sha\u02bbban"_s,
+				u"rabiʻ i"_s,
+				u"rabiʻ ii"_s,
+				u"džumade i"_s,
+				u"džumade ii"_s,
+				u"redžeb"_s,
+				u"Shaʻban"_s,
 				"ramazan"_s,
-				u"\u0161eval"_s,
+				u"ševal"_s,
 				"zul-kade"_s,
-				u"zul-hid\u017ee"_s,
+				u"zul-hidže"_s,
 				""_s
 			}))
 		}),
@@ -520,7 +520,7 @@ $ObjectArray2* FormatData_bs::getContents() {
 				"p"_s,
 				"u"_s,
 				"s"_s,
-				u"\u010d"_s,
+				u"č"_s,
 				"p"_s,
 				"s"_s
 			}))
@@ -699,18 +699,18 @@ $ObjectArray2* FormatData_bs::getContents() {
 				""_s,
 				""_s,
 				""_s,
-				u"{one:0\u00a0hilj\'.\' few:0\u00a0hilj\'.\' other:0\u00a0hilj\'.\'}"_s,
-				u"{one:00\u00a0hilj\'.\' few:00\u00a0hilj\'.\' other:00\u00a0hilj\'.\'}"_s,
-				u"{one:000\u00a0hilj\'.\' few:000\u00a0hilj\'.\' other:000\u00a0hilj\'.\'}"_s,
-				u"{one:0\u00a0mil\'.\' few:0\u00a0mil\'.\' other:0\u00a0mil\'.\'}"_s,
-				u"{one:00\u00a0mil\'.\' few:00\u00a0mil\'.\' other:00\u00a0mil\'.\'}"_s,
-				u"{one:000\u00a0mil\'.\' few:000\u00a0mil\'.\' other:000\u00a0mil\'.\'}"_s,
-				u"{one:0\u00a0mlr\'.\' few:0\u00a0mlr\'.\' other:0\u00a0mlr\'.\'}"_s,
-				u"{one:00\u00a0mlr\'.\' few:00\u00a0mlr\'.\' other:00\u00a0mlr\'.\'}"_s,
-				u"{one:000\u00a0mlr\'.\' few:000\u00a0mlr\'.\' other:000\u00a0mlr\'.\'}"_s,
-				u"{one:0\u00a0bil\'.\' few:0\u00a0bil\'.\' other:0\u00a0bil\'.\'}"_s,
-				u"{one:00\u00a0bil\'.\' few:00\u00a0bil\'.\' other:00\u00a0bil\'.\'}"_s,
-				u"{one:000\u00a0bil\'.\' few:000\u00a0bil\'.\' other:000\u00a0bil\'.\'}"_s
+				u"{one:0 hilj\'.\' few:0 hilj\'.\' other:0 hilj\'.\'}"_s,
+				u"{one:00 hilj\'.\' few:00 hilj\'.\' other:00 hilj\'.\'}"_s,
+				u"{one:000 hilj\'.\' few:000 hilj\'.\' other:000 hilj\'.\'}"_s,
+				u"{one:0 mil\'.\' few:0 mil\'.\' other:0 mil\'.\'}"_s,
+				u"{one:00 mil\'.\' few:00 mil\'.\' other:00 mil\'.\'}"_s,
+				u"{one:000 mil\'.\' few:000 mil\'.\' other:000 mil\'.\'}"_s,
+				u"{one:0 mlr\'.\' few:0 mlr\'.\' other:0 mlr\'.\'}"_s,
+				u"{one:00 mlr\'.\' few:00 mlr\'.\' other:00 mlr\'.\'}"_s,
+				u"{one:000 mlr\'.\' few:000 mlr\'.\' other:000 mlr\'.\'}"_s,
+				u"{one:0 bil\'.\' few:0 bil\'.\' other:0 bil\'.\'}"_s,
+				u"{one:00 bil\'.\' few:00 bil\'.\' other:00 bil\'.\'}"_s,
+				u"{one:000 bil\'.\' few:000 bil\'.\' other:000 bil\'.\'}"_s
 			}))
 		}),
 		$$new($ObjectArray, {
@@ -765,12 +765,12 @@ $ObjectArray2* FormatData_bs::getContents() {
 				"saf."_s,
 				"Rab. I"_s,
 				"rab. ii"_s,
-				u"d\u017eum. i"_s,
-				u"d\u017eum. ii"_s,
-				u"red\u017e."_s,
-				u"\u0161a."_s,
+				u"džum. i"_s,
+				u"džum. ii"_s,
+				u"redž."_s,
+				u"ša."_s,
 				"ram."_s,
-				u"\u0161e."_s,
+				u"še."_s,
 				"zul-k."_s,
 				"zul-h."_s,
 				""_s
@@ -782,7 +782,7 @@ $ObjectArray2* FormatData_bs::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.buddhist"_s),
-			$of(u"budisti\u010dki kalendar"_s)
+			$of(u"budistički kalendar"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("standalone.MonthNames"_s),
@@ -792,9 +792,9 @@ $ObjectArray2* FormatData_bs::getContents() {
 			$of("latn.NumberPatterns"_s),
 			$of($$new($StringArray, {
 				"#,##0.###"_s,
-				u"#,##0.00\u00a0\u00a4"_s,
-				u"#,##0\u00a0%"_s,
-				u"#,##0.00\u00a0\u00a4"_s
+				u"#,##0.00 ¤"_s,
+				u"#,##0 %"_s,
+				u"#,##0.00 ¤"_s
 			}))
 		}),
 		$$new($ObjectArray, {

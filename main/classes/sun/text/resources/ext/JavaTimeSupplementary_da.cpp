@@ -57,22 +57,22 @@ $ObjectArray2* JavaTimeSupplementary_da::getContents() {
 		"d/M/y"_s
 	}));
 	$var($StringArray, sharedDayAbbreviations, $new($StringArray, {
-		u"s\u00f8n."_s,
+		u"søn."_s,
 		"man."_s,
 		"tir."_s,
 		"ons."_s,
 		"tor."_s,
 		"fre."_s,
-		u"l\u00f8r."_s
+		u"lør."_s
 	}));
 	$var($StringArray, sharedDayNames, $new($StringArray, {
-		u"s\u00f8ndag"_s,
+		u"søndag"_s,
 		"mandag"_s,
 		"tirsdag"_s,
 		"onsdag"_s,
 		"torsdag"_s,
 		"fredag"_s,
-		u"l\u00f8rdag"_s
+		u"lørdag"_s
 	}));
 	$var($StringArray, sharedDayNarrows, $new($StringArray, {
 		"S"_s,
@@ -154,7 +154,7 @@ $ObjectArray2* JavaTimeSupplementary_da::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.era"_s),
-			$of(u"\u00e6ra"_s)
+			$of(u"æra"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("field.hour"_s),
@@ -166,7 +166,7 @@ $ObjectArray2* JavaTimeSupplementary_da::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.month"_s),
-			$of(u"m\u00e5ned"_s)
+			$of(u"måned"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("field.second"_s),
@@ -182,7 +182,7 @@ $ObjectArray2* JavaTimeSupplementary_da::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.year"_s),
-			$of(u"\u00e5r"_s)
+			$of(u"år"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("field.zone"_s),

@@ -40,32 +40,32 @@ void FormatData_nnh::init$() {
 $ObjectArray2* FormatData_nnh::getContents() {
 	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_MonthNames, $new($StringArray, {
-		u"sa\u014b tsets\u025b\u0300\u025b l\u00f9m"_s,
-		u"sa\u014b k\u00e0g ngw\u00f3\u014b"_s,
-		u"sa\u014b lepy\u00e8 sh\u00fam"_s,
-		u"sa\u014b c\u00ff\u00f3"_s,
-		u"sa\u014b ts\u025b\u0300\u025b c\u00ff\u00f3"_s,
-		u"sa\u014b nj\u00ffol\u00e1\u02bc"_s,
-		u"sa\u014b ty\u025b\u0300b ty\u025b\u0300b mb\u0289\u0300\u014b"_s,
-		u"sa\u014b mb\u0289\u0300\u014b"_s,
-		u"sa\u014b ngw\u0254\u0300\u02bc mb\u00ff\u025b"_s,
-		u"sa\u014b t\u00e0\u014ba tsets\u00e1\u02bc"_s,
-		u"sa\u014b mejwo\u014b\u00f3"_s,
-		u"sa\u014b l\u00f9m"_s,
+		u"saŋ tsetsɛ̀ɛ lùm"_s,
+		u"saŋ kàg ngwóŋ"_s,
+		u"saŋ lepyè shúm"_s,
+		u"saŋ cÿó"_s,
+		u"saŋ tsɛ̀ɛ cÿó"_s,
+		u"saŋ njÿoláʼ"_s,
+		u"saŋ tyɛ̀b tyɛ̀b mbʉ̀ŋ"_s,
+		u"saŋ mbʉ̀ŋ"_s,
+		u"saŋ ngwɔ̀ʼ mbÿɛ"_s,
+		u"saŋ tàŋa tsetsáʼ"_s,
+		u"saŋ mejwoŋó"_s,
+		u"saŋ lùm"_s,
 		""_s
 	}));
 	$var($StringArray, metaValue_DayNames, $new($StringArray, {
-		u"ly\u025b\u02bc\u025b\u0301 s\u1e85\u00ed\u014bt\u00e8"_s,
-		u"mvf\u00f2 ly\u025b\u030c\u02bc"_s,
-		u"mb\u0254\u0301\u0254nt\u00e8 mvf\u00f2 ly\u025b\u030c\u02bc"_s,
-		u"ts\u00e8ts\u025b\u0300\u025b ly\u025b\u030c\u02bc"_s,
-		u"mb\u0254\u0301\u0254nt\u00e8 tsets\u025b\u0300\u025b ly\u025b\u030c\u02bc"_s,
-		u"mvf\u00f2 m\u00e0ga ly\u025b\u030c\u02bc"_s,
-		u"m\u00e0ga ly\u025b\u030c\u02bc"_s
+		u"lyɛʼɛ́ sẅíŋtè"_s,
+		u"mvfò lyɛ̌ʼ"_s,
+		u"mbɔ́ɔntè mvfò lyɛ̌ʼ"_s,
+		u"tsètsɛ̀ɛ lyɛ̌ʼ"_s,
+		u"mbɔ́ɔntè tsetsɛ̀ɛ lyɛ̌ʼ"_s,
+		u"mvfò màga lyɛ̌ʼ"_s,
+		u"màga lyɛ̌ʼ"_s
 	}));
 	$var($StringArray, metaValue_AmPmMarkers, $new($StringArray, {
-		u"mba\u02bc\u00e1mba\u02bc"_s,
-		u"ncw\u00f2nz\u00e9m"_s,
+		u"mbaʼámbaʼ"_s,
+		u"ncwònzém"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -82,14 +82,14 @@ $ObjectArray2* FormatData_nnh::getContents() {
 		"m.g.n.Y."_s
 	}));
 	$var($StringArray, metaValue_java_time_buddhist_DatePatterns, $new($StringArray, {
-		u"EEEE , \'ly\u025b\'\u030c\u02bc d \'na\' MMMM, y G"_s,
-		u"\'ly\u025b\'\u030c\u02bc d \'na\' MMMM, y G"_s,
+		u"EEEE , \'lyɛ\'̌ʼ d \'na\' MMMM, y G"_s,
+		u"\'lyɛ\'̌ʼ d \'na\' MMMM, y G"_s,
 		"d MMM, y G"_s,
 		"dd/MM/yy GGGGG"_s
 	}));
 	$var($StringArray, metaValue_buddhist_DatePatterns, $new($StringArray, {
-		u"EEEE , \'ly\u025b\'\u030c\u02bc d \'na\' MMMM, y GGGG"_s,
-		u"\'ly\u025b\'\u030c\u02bc d \'na\' MMMM, y GGGG"_s,
+		u"EEEE , \'lyɛ\'̌ʼ d \'na\' MMMM, y GGGG"_s,
+		u"\'lyɛ\'̌ʼ d \'na\' MMMM, y GGGG"_s,
 		"d MMM, y GGGG"_s,
 		"dd/MM/yy G"_s
 	}));
@@ -100,7 +100,7 @@ $ObjectArray2* FormatData_nnh::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.year"_s),
-			$of(u"ng\u00f9\u02bc"_s)
+			$of(u"ngùʼ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("roc.DayAbbreviations"_s),
@@ -169,8 +169,8 @@ $ObjectArray2* FormatData_nnh::getContents() {
 		$$new($ObjectArray, {
 			$of("long.Eras"_s),
 			$of($$new($StringArray, {
-				u"m\u00e9 zy\u00e9 Y\u011bs\u00f4"_s,
-				u"m\u00e9 g\u00ffo \u0144zy\u00e9 Y\u011bs\u00f4"_s
+				u"mé zyé Yěsô"_s,
+				u"mé gÿo ńzyé Yěsô"_s
 			}))
 		}),
 		$$new($ObjectArray, {
@@ -187,7 +187,7 @@ $ObjectArray2* FormatData_nnh::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.weekday"_s),
-			$of(u"ng\u00e0ba l\u00e1\u02bc"_s)
+			$of(u"ngàba láʼ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("buddhist.MonthNames"_s),
@@ -217,8 +217,8 @@ $ObjectArray2* FormatData_nnh::getContents() {
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
+				u"‰"_s,
+				u"∞"_s,
 				"NaN"_s,
 				""_s,
 				""_s
@@ -238,7 +238,7 @@ $ObjectArray2* FormatData_nnh::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.era"_s),
-			$of(u"ts\u0254\u0301 f\u0289\u0300\u02bc"_s)
+			$of(u"tsɔ́ fʉ̀ʼ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("islamic.DayAbbreviations"_s),
@@ -295,8 +295,8 @@ $ObjectArray2* FormatData_nnh::getContents() {
 		$$new($ObjectArray, {
 			$of("DatePatterns"_s),
 			$of($$new($StringArray, {
-				u"EEEE , \'ly\u025b\'\u030c\u02bc d \'na\' MMMM, y"_s,
-				u"\'ly\u025b\'\u030c\u02bc d \'na\' MMMM, y"_s,
+				u"EEEE , \'lyɛ\'̌ʼ d \'na\' MMMM, y"_s,
+				u"\'lyɛ\'̌ʼ d \'na\' MMMM, y"_s,
 				"d MMM, y"_s,
 				"dd/MM/yy"_s
 			}))
@@ -319,7 +319,7 @@ $ObjectArray2* FormatData_nnh::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.hour"_s),
-			$of(u"f\u0289\u0300\u02bc n\u00e8m"_s)
+			$of(u"fʉ̀ʼ nèm"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("standalone.MonthNames"_s),
@@ -333,7 +333,7 @@ $ObjectArray2* FormatData_nnh::getContents() {
 			$of("latn.NumberPatterns"_s),
 			$of($$new($StringArray, {
 				"#,##0.###"_s,
-				u"\u00a4\u00a0#,##0.00"_s,
+				u"¤ #,##0.00"_s,
 				"#,##0%"_s,
 				""_s
 			}))

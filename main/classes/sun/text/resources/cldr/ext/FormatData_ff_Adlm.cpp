@@ -280,15 +280,15 @@ $ObjectArray2* FormatData_ff_Adlm::getContents() {
 			$of("latn.NumberElements"_s),
 			$of($$new($StringArray, {
 				"."_s,
-				u"\u2e41"_s,
+				u"⹁"_s,
 				";"_s,
 				"%"_s,
 				"0"_s,
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
+				u"‰"_s,
+				u"∞"_s,
 				$cstr({0x1E90F, 0x1E92E, 0x1E908}),
 				""_s,
 				""_s
@@ -662,7 +662,7 @@ $ObjectArray2* FormatData_ff_Adlm::getContents() {
 			$of("latn.NumberPatterns"_s),
 			$of($$new($StringArray, {
 				"#,##0.###"_s,
-				u"\u00a4\u00a0#,##0.00"_s,
+				u"¤ #,##0.00"_s,
 				"#,##0%"_s,
 				""_s
 			}))

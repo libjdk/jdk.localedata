@@ -41,7 +41,7 @@ $ObjectArray2* LocaleNames_no::getContents() {
 	return $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("%%B"_s),
-			$of(u"bokm\u00e5l"_s)
+			$of(u"bokmål"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("%%NY"_s),
@@ -53,7 +53,7 @@ $ObjectArray2* LocaleNames_no::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("nb"_s),
-			$of(u"bokm\u00e5l"_s)
+			$of(u"bokmål"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("nn"_s),

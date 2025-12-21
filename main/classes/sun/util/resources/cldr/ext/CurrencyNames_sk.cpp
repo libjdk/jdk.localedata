@@ -1226,7 +1226,7 @@ $ObjectArray2* CurrencyNames_sk::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("adp"_s),
-			$of(u"andorrsk\u00e1 peseta"_s)
+			$of(u"andorrská peseta"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("aed"_s),
@@ -1234,367 +1234,367 @@ $ObjectArray2* CurrencyNames_sk::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("afa"_s),
-			$of(u"afgansk\u00fd afg\u00e1n\u00ed (1927 \u2013 2002)"_s)
+			$of(u"afganský afgání (1927 – 2002)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("afn"_s),
-			$of(u"afgansk\u00fd afg\u00e1n\u00ed"_s)
+			$of(u"afganský afgání"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("alk"_s),
-			$of(u"alb\u00e1nsky lek (1946 \u2013 1965)"_s)
+			$of(u"albánsky lek (1946 – 1965)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("all"_s),
-			$of(u"alb\u00e1nsky lek"_s)
+			$of(u"albánsky lek"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("amd"_s),
-			$of(u"arm\u00e9nsky dram"_s)
+			$of(u"arménsky dram"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ang"_s),
-			$of(u"antilsk\u00fd gulden"_s)
+			$of(u"antilský gulden"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("aoa"_s),
-			$of(u"angolsk\u00e1 kwanza"_s)
+			$of(u"angolská kwanza"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("aok"_s),
-			$of(u"angolsk\u00e1 kwanza (1977 \u2013 1990)"_s)
+			$of(u"angolská kwanza (1977 – 1990)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("aon"_s),
-			$of(u"angolsk\u00e1 nov\u00e1 kwanza (1990 \u2013 2000)"_s)
+			$of(u"angolská nová kwanza (1990 – 2000)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("aor"_s),
-			$of(u"angolsk\u00e1 upraven\u00e1 kwanza (1995 \u2013 1999)"_s)
+			$of(u"angolská upravená kwanza (1995 – 1999)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ara"_s),
-			$of(u"argent\u00ednsky austral"_s)
+			$of(u"argentínsky austral"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("arl"_s),
-			$of(u"argent\u00ednske peso ley (1970 \u2013 1983)"_s)
+			$of(u"argentínske peso ley (1970 – 1983)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("arm"_s),
-			$of(u"argent\u00ednske peso (1881 \u2013 1970)"_s)
+			$of(u"argentínske peso (1881 – 1970)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("arp"_s),
-			$of(u"argent\u00ednske peso (1983 \u2013 1985)"_s)
+			$of(u"argentínske peso (1983 – 1985)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ars"_s),
-			$of(u"argent\u00ednske peso"_s)
+			$of(u"argentínske peso"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ats"_s),
-			$of(u"rak\u00fasky \u0161iling"_s)
+			$of(u"rakúsky šiling"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("aud"_s),
-			$of(u"austr\u00e1lsky dol\u00e1r"_s)
+			$of(u"austrálsky dolár"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("awg"_s),
-			$of(u"arubsk\u00fd gulden"_s)
+			$of(u"arubský gulden"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("azm"_s),
-			$of(u"azerbajd\u017eansk\u00fd manat (1993\u20132006)"_s)
+			$of(u"azerbajdžanský manat (1993–2006)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("azn"_s),
-			$of(u"azerbajd\u017eansk\u00fd manat"_s)
+			$of(u"azerbajdžanský manat"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bad"_s),
-			$of(u"bosniansko-hercegovinsk\u00fd din\u00e1r (1992 \u2013 1994)"_s)
+			$of(u"bosniansko-hercegovinský dinár (1992 – 1994)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bam"_s),
-			$of(u"bosniansko-hercegovinsk\u00e1 konvertibiln\u00e1 marka"_s)
+			$of(u"bosniansko-hercegovinská konvertibilná marka"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ban"_s),
-			$of(u"bosniansko-hercegovinsk\u00fd nov\u00fd din\u00e1r (1994 \u2013 1997)"_s)
+			$of(u"bosniansko-hercegovinský nový dinár (1994 – 1997)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bbd"_s),
-			$of(u"barbadosk\u00fd dol\u00e1r"_s)
+			$of(u"barbadoský dolár"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bdt"_s),
-			$of(u"banglad\u00e9\u0161ska taka"_s)
+			$of(u"bangladéšska taka"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bec"_s),
-			$of(u"belgick\u00fd frank (konvertibiln\u00fd)"_s)
+			$of(u"belgický frank (konvertibilný)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bef"_s),
-			$of(u"belgick\u00fd frank"_s)
+			$of(u"belgický frank"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bel"_s),
-			$of(u"belgick\u00fd frank (finan\u010dn\u00fd)"_s)
+			$of(u"belgický frank (finančný)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bgl"_s),
-			$of(u"bulharsk\u00fd tvrd\u00fd lev"_s)
+			$of(u"bulharský tvrdý lev"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bgm"_s),
-			$of(u"bulharsk\u00fd socialistick\u00fd lev"_s)
+			$of(u"bulharský socialistický lev"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bgn"_s),
-			$of(u"bulharsk\u00fd lev"_s)
+			$of(u"bulharský lev"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bgo"_s),
-			$of(u"bulharsk\u00fd lev (1879 \u2013 1952)"_s)
+			$of(u"bulharský lev (1879 – 1952)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bhd"_s),
-			$of(u"bahrajnsk\u00fd din\u00e1r"_s)
+			$of(u"bahrajnský dinár"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bif"_s),
-			$of(u"burundsk\u00fd frank"_s)
+			$of(u"burundský frank"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bmd"_s),
-			$of(u"bermudsk\u00fd dol\u00e1r"_s)
+			$of(u"bermudský dolár"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bnd"_s),
-			$of(u"brunejsk\u00fd dol\u00e1r"_s)
+			$of(u"brunejský dolár"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bob"_s),
-			$of(u"bol\u00edvijsk\u00e9 boliviano"_s)
+			$of(u"bolívijské boliviano"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bol"_s),
-			$of(u"bol\u00edvijsk\u00e9 boliviano (1863 \u2013 1963)"_s)
+			$of(u"bolívijské boliviano (1863 – 1963)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bop"_s),
-			$of(u"bol\u00edvijsk\u00e9 peso"_s)
+			$of(u"bolívijské peso"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bov"_s),
-			$of(u"bol\u00edvijsk\u00e9 MVDOL"_s)
+			$of(u"bolívijské MVDOL"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("brb"_s),
-			$of(u"braz\u00edlske nov\u00e9 cruzeiro (1967 \u2013 1986)"_s)
+			$of(u"brazílske nové cruzeiro (1967 – 1986)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("brc"_s),
-			$of(u"braz\u00edlske cruzado (1986 \u2013 1989)"_s)
+			$of(u"brazílske cruzado (1986 – 1989)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bre"_s),
-			$of(u"braz\u00edlske cruzeiro (1990 \u2013 1993)"_s)
+			$of(u"brazílske cruzeiro (1990 – 1993)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("brl"_s),
-			$of(u"braz\u00edlsky real"_s)
+			$of(u"brazílsky real"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("brn"_s),
-			$of(u"braz\u00edlske nov\u00e9 cruzado (1989 \u2013 1990)"_s)
+			$of(u"brazílske nové cruzado (1989 – 1990)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("brr"_s),
-			$of(u"Braz\u00edlske cruzeiro"_s)
+			$of(u"Brazílske cruzeiro"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("brz"_s),
-			$of(u"braz\u00edlske cruzeiro (1942 \u2013 1967)"_s)
+			$of(u"brazílske cruzeiro (1942 – 1967)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bsd"_s),
-			$of(u"bahamsk\u00fd dol\u00e1r"_s)
+			$of(u"bahamský dolár"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("btn"_s),
-			$of(u"bhut\u00e1nsky ngultrum"_s)
+			$of(u"bhutánsky ngultrum"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("buk"_s),
-			$of(u"barmsk\u00fd kyat"_s)
+			$of(u"barmský kyat"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bwp"_s),
-			$of(u"botswansk\u00e1 pula"_s)
+			$of(u"botswanská pula"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("byb"_s),
-			$of(u"bielorusk\u00fd rube\u013e (1994 \u2013 1999)"_s)
+			$of(u"bieloruský rubeľ (1994 – 1999)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("byn"_s),
-			$of(u"bielorusk\u00fd rube\u013e"_s)
+			$of(u"bieloruský rubeľ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("byr"_s),
-			$of(u"bielorusk\u00fd rube\u013e (2000\u20132016)"_s)
+			$of(u"bieloruský rubeľ (2000–2016)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bzd"_s),
-			$of(u"belizsk\u00fd dol\u00e1r"_s)
+			$of(u"belizský dolár"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cad"_s),
-			$of(u"kanadsk\u00fd dol\u00e1r"_s)
+			$of(u"kanadský dolár"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cdf"_s),
-			$of(u"kon\u017esk\u00fd frank"_s)
+			$of(u"konžský frank"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("che"_s),
-			$of(u"\u0161vaj\u010diarske WIR euro"_s)
+			$of(u"švajčiarske WIR euro"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("chf"_s),
-			$of(u"\u0161vaj\u010diarsky frank"_s)
+			$of(u"švajčiarsky frank"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("chw"_s),
-			$of(u"\u0161vaj\u010diarsky WIR frank"_s)
+			$of(u"švajčiarsky WIR frank"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cle"_s),
-			$of(u"\u010dilsk\u00e9 escudo"_s)
+			$of(u"čilské escudo"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("clf"_s),
-			$of(u"\u010dilsk\u00e1 \u00fa\u010dtovn\u00e1 jednotka (UF)"_s)
+			$of(u"čilská účtovná jednotka (UF)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("clp"_s),
-			$of(u"\u010dilsk\u00e9 peso"_s)
+			$of(u"čilské peso"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cnh"_s),
-			$of(u"\u010d\u00ednsky j\u00fcan (pobre\u017en\u00fd)"_s)
+			$of(u"čínsky jüan (pobrežný)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cnx"_s),
-			$of(u"\u010d\u00ednsky dol\u00e1r \u010c\u013dB"_s)
+			$of(u"čínsky dolár ČĽB"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cny"_s),
-			$of(u"\u010d\u00ednsky j\u00fcan"_s)
+			$of(u"čínsky jüan"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cop"_s),
-			$of(u"kolumbijsk\u00e9 peso"_s)
+			$of(u"kolumbijské peso"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cou"_s),
-			$of(u"kolumbijsk\u00e1 jednotka re\u00e1lnej hodnoty"_s)
+			$of(u"kolumbijská jednotka reálnej hodnoty"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("crc"_s),
-			$of(u"kostarick\u00fd col\u00f3n"_s)
+			$of(u"kostarický colón"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("csd"_s),
-			$of(u"srbsk\u00fd din\u00e1r (2002 \u2013 2006)"_s)
+			$of(u"srbský dinár (2002 – 2006)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("csk"_s),
-			$of(u"\u010deskoslovensk\u00e1 koruna"_s)
+			$of(u"československá koruna"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cuc"_s),
-			$of(u"kub\u00e1nske konvertibiln\u00e9 peso"_s)
+			$of(u"kubánske konvertibilné peso"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cup"_s),
-			$of(u"kub\u00e1nske peso"_s)
+			$of(u"kubánske peso"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cve"_s),
-			$of(u"kapverdsk\u00e9 escudo"_s)
+			$of(u"kapverdské escudo"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cyp"_s),
-			$of(u"cypersk\u00e1 libra"_s)
+			$of(u"cyperská libra"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("czk"_s),
-			$of(u"\u010desk\u00e1 koruna"_s)
+			$of(u"česká koruna"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ddm"_s),
-			$of(u"v\u00fdchodonemeck\u00e1 marka"_s)
+			$of(u"východonemecká marka"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("dem"_s),
-			$of(u"nemeck\u00e1 marka"_s)
+			$of(u"nemecká marka"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("djf"_s),
-			$of(u"d\u017eibutsk\u00fd frank"_s)
+			$of(u"džibutský frank"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("dkk"_s),
-			$of(u"d\u00e1nska koruna"_s)
+			$of(u"dánska koruna"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("dop"_s),
-			$of(u"dominik\u00e1nske peso"_s)
+			$of(u"dominikánske peso"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("dzd"_s),
-			$of(u"al\u017e\u00edrsky din\u00e1r"_s)
+			$of(u"alžírsky dinár"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ecs"_s),
-			$of(u"ekv\u00e1dorsk\u00fd sucre"_s)
+			$of(u"ekvádorský sucre"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ecv"_s),
-			$of(u"ekv\u00e1dorsk\u00e1 jednotka kon\u0161tantnej hodnoty"_s)
+			$of(u"ekvádorská jednotka konštantnej hodnoty"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("eek"_s),
-			$of(u"est\u00f3nska koruna"_s)
+			$of(u"estónska koruna"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("egp"_s),
-			$of(u"egyptsk\u00e1 libra"_s)
+			$of(u"egyptská libra"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ern"_s),
-			$of(u"eritrejsk\u00e1 nakfa"_s)
+			$of(u"eritrejská nakfa"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("esa"_s),
-			$of(u"\u0161panielska peseta (\u00fa\u010det A)"_s)
+			$of(u"španielska peseta (účet A)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("esb"_s),
-			$of(u"\u0161panielska peseta (konvertibiln\u00fd \u00fa\u010det)"_s)
+			$of(u"španielska peseta (konvertibilný účet)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("esp"_s),
-			$of(u"\u0161panielska peseta"_s)
+			$of(u"španielska peseta"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("etb"_s),
-			$of(u"eti\u00f3psky birr"_s)
+			$of(u"etiópsky birr"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("eur"_s),
@@ -1602,695 +1602,695 @@ $ObjectArray2* CurrencyNames_sk::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("fim"_s),
-			$of(u"f\u00ednska marka"_s)
+			$of(u"fínska marka"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("fjd"_s),
-			$of(u"fid\u017eijsk\u00fd dol\u00e1r"_s)
+			$of(u"fidžijský dolár"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("fkp"_s),
-			$of(u"falklandsk\u00e1 libra"_s)
+			$of(u"falklandská libra"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("frf"_s),
-			$of(u"franc\u00fazsky frank"_s)
+			$of(u"francúzsky frank"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gbp"_s),
-			$of(u"britsk\u00e1 libra"_s)
+			$of(u"britská libra"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gek"_s),
-			$of(u"gruz\u00ednske kup\u00f3nov\u00e9 lari"_s)
+			$of(u"gruzínske kupónové lari"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gel"_s),
-			$of(u"gruz\u00ednske lari"_s)
+			$of(u"gruzínske lari"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ghc"_s),
-			$of(u"ghansk\u00e9 cedi (1979 \u2013 2007)"_s)
+			$of(u"ghanské cedi (1979 – 2007)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ghs"_s),
-			$of(u"ghansk\u00e9 cedi"_s)
+			$of(u"ghanské cedi"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gip"_s),
-			$of(u"gibralt\u00e1rska libra"_s)
+			$of(u"gibraltárska libra"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gmd"_s),
-			$of(u"gambijsk\u00e9 dalasi"_s)
+			$of(u"gambijské dalasi"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gnf"_s),
-			$of(u"guinejsk\u00fd frank"_s)
+			$of(u"guinejský frank"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gns"_s),
-			$of(u"guinejsk\u00e9 syli"_s)
+			$of(u"guinejské syli"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gqe"_s),
-			$of(u"rovn\u00edkovoguinejsk\u00fd ekwele"_s)
+			$of(u"rovníkovoguinejský ekwele"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("grd"_s),
-			$of(u"gr\u00e9cka drachma"_s)
+			$of(u"grécka drachma"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gtq"_s),
-			$of(u"guatemalsk\u00fd quetzal"_s)
+			$of(u"guatemalský quetzal"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gwe"_s),
-			$of(u"portugalsko-guinejsk\u00e9 escudo"_s)
+			$of(u"portugalsko-guinejské escudo"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gwp"_s),
-			$of(u"guinejsko-bissausk\u00e9 peso"_s)
+			$of(u"guinejsko-bissauské peso"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gyd"_s),
-			$of(u"guyansk\u00fd dol\u00e1r"_s)
+			$of(u"guyanský dolár"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("hkd"_s),
-			$of(u"hongkonsk\u00fd dol\u00e1r"_s)
+			$of(u"hongkonský dolár"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("hnl"_s),
-			$of(u"hondurask\u00e1 lempira"_s)
+			$of(u"honduraská lempira"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("hrd"_s),
-			$of(u"chorv\u00e1tsky din\u00e1r"_s)
+			$of(u"chorvátsky dinár"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("hrk"_s),
-			$of(u"chorv\u00e1tska kuna"_s)
+			$of(u"chorvátska kuna"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("htg"_s),
-			$of(u"haitsk\u00e9 gourde"_s)
+			$of(u"haitské gourde"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("huf"_s),
-			$of(u"ma\u010farsk\u00fd forint"_s)
+			$of(u"maďarský forint"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("idr"_s),
-			$of(u"indon\u00e9zska rupia"_s)
+			$of(u"indonézska rupia"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("iep"_s),
-			$of(u"\u00edrska libra"_s)
+			$of(u"írska libra"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ilp"_s),
-			$of(u"izraelsk\u00e1 libra"_s)
+			$of(u"izraelská libra"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ilr"_s),
-			$of(u"izraelsk\u00fd \u0161ekel (1980 \u2013 1985)"_s)
+			$of(u"izraelský šekel (1980 – 1985)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ils"_s),
-			$of(u"izraelsk\u00fd \u0161ekel"_s)
+			$of(u"izraelský šekel"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("inr"_s),
-			$of(u"indick\u00e1 rupia"_s)
+			$of(u"indická rupia"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("iqd"_s),
-			$of(u"irack\u00fd din\u00e1r"_s)
+			$of(u"iracký dinár"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("irr"_s),
-			$of(u"ir\u00e1nsky rial"_s)
+			$of(u"iránsky rial"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("isj"_s),
-			$of(u"islandsk\u00e1 koruna (1918 \u2013 1981)"_s)
+			$of(u"islandská koruna (1918 – 1981)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("isk"_s),
-			$of(u"islandsk\u00e1 koruna"_s)
+			$of(u"islandská koruna"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("itl"_s),
-			$of(u"talianska l\u00edra"_s)
+			$of(u"talianska líra"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("jmd"_s),
-			$of(u"jamajsk\u00fd dol\u00e1r"_s)
+			$of(u"jamajský dolár"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("jod"_s),
-			$of(u"jord\u00e1nsky din\u00e1r"_s)
+			$of(u"jordánsky dinár"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("jpy"_s),
-			$of(u"japonsk\u00fd jen"_s)
+			$of(u"japonský jen"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kes"_s),
-			$of(u"kensk\u00fd \u0161iling"_s)
+			$of(u"kenský šiling"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kgs"_s),
-			$of(u"kirgizsk\u00fd som"_s)
+			$of(u"kirgizský som"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("khr"_s),
-			$of(u"kambod\u017esk\u00fd riel"_s)
+			$of(u"kambodžský riel"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kmf"_s),
-			$of(u"komorsk\u00fd frank"_s)
+			$of(u"komorský frank"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kpw"_s),
-			$of(u"severok\u00f3rejsk\u00fd won"_s)
+			$of(u"severokórejský won"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("krh"_s),
-			$of(u"juhok\u00f3rejsk\u00fd hwan (1953 \u2013 1962)"_s)
+			$of(u"juhokórejský hwan (1953 – 1962)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kro"_s),
-			$of(u"juhok\u00f3rejsk\u00fd won (1945 \u2013 1953)"_s)
+			$of(u"juhokórejský won (1945 – 1953)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("krw"_s),
-			$of(u"juhok\u00f3rejsk\u00fd won"_s)
+			$of(u"juhokórejský won"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kwd"_s),
-			$of(u"kuvajtsk\u00fd din\u00e1r"_s)
+			$of(u"kuvajtský dinár"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kyd"_s),
-			$of(u"kajmansk\u00fd dol\u00e1r"_s)
+			$of(u"kajmanský dolár"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kzt"_s),
-			$of(u"kaza\u0161sk\u00e9 tenge"_s)
+			$of(u"kazašské tenge"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lak"_s),
-			$of(u"laosk\u00fd kip"_s)
+			$of(u"laoský kip"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lbp"_s),
-			$of(u"libanonsk\u00e1 libra"_s)
+			$of(u"libanonská libra"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lkr"_s),
-			$of(u"sr\u00edlansk\u00e1 rupia"_s)
+			$of(u"srílanská rupia"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lrd"_s),
-			$of(u"lib\u00e9rijsk\u00fd dol\u00e1r"_s)
+			$of(u"libérijský dolár"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lsl"_s),
-			$of(u"lesothsk\u00fd loti"_s)
+			$of(u"lesothský loti"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ltl"_s),
-			$of(u"litovsk\u00fd litas"_s)
+			$of(u"litovský litas"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ltt"_s),
-			$of(u"litovsk\u00fd talonas"_s)
+			$of(u"litovský talonas"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("luc"_s),
-			$of(u"luxembursk\u00fd frank (konvertibiln\u00fd)"_s)
+			$of(u"luxemburský frank (konvertibilný)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("luf"_s),
-			$of(u"luxembursk\u00fd frank"_s)
+			$of(u"luxemburský frank"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lul"_s),
-			$of(u"luxembursk\u00fd frank (finan\u010dn\u00fd)"_s)
+			$of(u"luxemburský frank (finančný)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lvl"_s),
-			$of(u"loty\u0161sk\u00fd lat"_s)
+			$of(u"lotyšský lat"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lvr"_s),
-			$of(u"loty\u0161sk\u00fd rube\u013e"_s)
+			$of(u"lotyšský rubeľ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lyd"_s),
-			$of(u"l\u00edbyjsk\u00fd din\u00e1r"_s)
+			$of(u"líbyjský dinár"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mad"_s),
-			$of(u"marock\u00fd dirham"_s)
+			$of(u"marocký dirham"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("maf"_s),
-			$of(u"marock\u00fd frank"_s)
+			$of(u"marocký frank"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mcf"_s),
-			$of(u"monack\u00fd frank"_s)
+			$of(u"monacký frank"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mdc"_s),
-			$of(u"moldavsk\u00fd kup\u00f3n"_s)
+			$of(u"moldavský kupón"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mdl"_s),
-			$of(u"moldavsk\u00fd lei"_s)
+			$of(u"moldavský lei"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mga"_s),
-			$of(u"malga\u0161sk\u00fd ariary"_s)
+			$of(u"malgašský ariary"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mgf"_s),
-			$of(u"madagaskarsk\u00fd frank"_s)
+			$of(u"madagaskarský frank"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mkd"_s),
-			$of(u"maced\u00f3nsky den\u00e1r"_s)
+			$of(u"macedónsky denár"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mkn"_s),
-			$of(u"maced\u00f3nsky den\u00e1r (1992 \u2013 1993)"_s)
+			$of(u"macedónsky denár (1992 – 1993)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mlf"_s),
-			$of(u"malijsk\u00fd frank"_s)
+			$of(u"malijský frank"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mmk"_s),
-			$of(u"mjanmarsk\u00fd kyat"_s)
+			$of(u"mjanmarský kyat"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mnt"_s),
-			$of(u"mongolsk\u00fd tugrik"_s)
+			$of(u"mongolský tugrik"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mop"_s),
-			$of(u"macajsk\u00e1 pataca"_s)
+			$of(u"macajská pataca"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mro"_s),
-			$of(u"maurit\u00e1nska ukija (1973\u20132017)"_s)
+			$of(u"mauritánska ukija (1973–2017)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mru"_s),
-			$of(u"maurit\u00e1nska ukija"_s)
+			$of(u"mauritánska ukija"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mtl"_s),
-			$of(u"maltsk\u00e1 l\u00edra"_s)
+			$of(u"maltská líra"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mtp"_s),
-			$of(u"maltsk\u00e1 libra"_s)
+			$of(u"maltská libra"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mur"_s),
-			$of(u"maur\u00edcijsk\u00e1 rupia"_s)
+			$of(u"maurícijská rupia"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mvp"_s),
-			$of(u"maldivsk\u00e1 rupia (1947 \u2013 1981)"_s)
+			$of(u"maldivská rupia (1947 – 1981)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mvr"_s),
-			$of(u"maldivsk\u00e1 rupia"_s)
+			$of(u"maldivská rupia"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mwk"_s),
-			$of(u"malawijsk\u00e1 kwacha"_s)
+			$of(u"malawijská kwacha"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mxn"_s),
-			$of(u"mexick\u00e9 peso"_s)
+			$of(u"mexické peso"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mxp"_s),
-			$of(u"mexick\u00e9 strieborn\u00e9 peso (1861 \u2013 1992)"_s)
+			$of(u"mexické strieborné peso (1861 – 1992)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mxv"_s),
-			$of(u"mexick\u00e1 investi\u010dn\u00e1 jednotka"_s)
+			$of(u"mexická investičná jednotka"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("myr"_s),
-			$of(u"malajzijsk\u00fd ringgit"_s)
+			$of(u"malajzijský ringgit"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mze"_s),
-			$of(u"mozambick\u00e9 escudo"_s)
+			$of(u"mozambické escudo"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mzm"_s),
-			$of(u"mozambick\u00fd metical (1980 \u2013 2006)"_s)
+			$of(u"mozambický metical (1980 – 2006)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mzn"_s),
-			$of(u"mozambick\u00fd metical"_s)
+			$of(u"mozambický metical"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("nad"_s),
-			$of(u"nam\u00edbijsk\u00fd dol\u00e1r"_s)
+			$of(u"namíbijský dolár"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ngn"_s),
-			$of(u"nig\u00e9rijsk\u00e1 naira"_s)
+			$of(u"nigérijská naira"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("nic"_s),
-			$of(u"nikaragujsk\u00e1 c\u00f3rdoba (1988 \u2013 1991)"_s)
+			$of(u"nikaragujská córdoba (1988 – 1991)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("nio"_s),
-			$of(u"nikaragujsk\u00e1 c\u00f3rdoba"_s)
+			$of(u"nikaragujská córdoba"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("nlg"_s),
-			$of(u"holandsk\u00fd gulden"_s)
+			$of(u"holandský gulden"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("nok"_s),
-			$of(u"n\u00f3rska koruna"_s)
+			$of(u"nórska koruna"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("npr"_s),
-			$of(u"nep\u00e1lska rupia"_s)
+			$of(u"nepálska rupia"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("nzd"_s),
-			$of(u"novoz\u00e9landsk\u00fd dol\u00e1r"_s)
+			$of(u"novozélandský dolár"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("omr"_s),
-			$of(u"om\u00e1nsky rial"_s)
+			$of(u"ománsky rial"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pab"_s),
-			$of(u"panamsk\u00e1 balboa"_s)
+			$of(u"panamská balboa"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pei"_s),
-			$of(u"peru\u00e1nsky inti"_s)
+			$of(u"peruánsky inti"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pen"_s),
-			$of(u"peru\u00e1nsky sol"_s)
+			$of(u"peruánsky sol"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pes"_s),
-			$of(u"peru\u00e1nsky sol (1863 \u2013 1965)"_s)
+			$of(u"peruánsky sol (1863 – 1965)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pgk"_s),
-			$of(u"papu\u00e1nska kina"_s)
+			$of(u"papuánska kina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("php"_s),
-			$of(u"filip\u00ednske peso"_s)
+			$of(u"filipínske peso"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pkr"_s),
-			$of(u"pakistansk\u00e1 rupia"_s)
+			$of(u"pakistanská rupia"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pln"_s),
-			$of(u"po\u013esk\u00fd zlot\u00fd"_s)
+			$of(u"poľský zlotý"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("plz"_s),
-			$of(u"po\u013esk\u00fd zlot\u00fd (1950 \u2013 1995)"_s)
+			$of(u"poľský zlotý (1950 – 1995)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pte"_s),
-			$of(u"portugalsk\u00e9 escudo"_s)
+			$of(u"portugalské escudo"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pyg"_s),
-			$of(u"paraguajsk\u00e9 guaran\u00ed"_s)
+			$of(u"paraguajské guaraní"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("qar"_s),
-			$of(u"katarsk\u00fd rial"_s)
+			$of(u"katarský rial"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("rhd"_s),
-			$of(u"rod\u00e9zsky dol\u00e1r"_s)
+			$of(u"rodézsky dolár"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("rol"_s),
-			$of(u"rumunsk\u00fd lei (1952 \u2013 2006)"_s)
+			$of(u"rumunský lei (1952 – 2006)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ron"_s),
-			$of(u"rumunsk\u00fd lei"_s)
+			$of(u"rumunský lei"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("rsd"_s),
-			$of(u"srbsk\u00fd din\u00e1r"_s)
+			$of(u"srbský dinár"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("rub"_s),
-			$of(u"rusk\u00fd rube\u013e"_s)
+			$of(u"ruský rubeľ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("rur"_s),
-			$of(u"rusk\u00fd rube\u013e (1991 \u2013 1998)"_s)
+			$of(u"ruský rubeľ (1991 – 1998)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("rwf"_s),
-			$of(u"rwandsk\u00fd frank"_s)
+			$of(u"rwandský frank"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sar"_s),
-			$of(u"saudskoarabsk\u00fd rial"_s)
+			$of(u"saudskoarabský rial"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sbd"_s),
-			$of(u"\u0161alam\u00fansky dol\u00e1r"_s)
+			$of(u"šalamúnsky dolár"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("scr"_s),
-			$of(u"seychelsk\u00e1 rupia"_s)
+			$of(u"seychelská rupia"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sdd"_s),
-			$of(u"sud\u00e1nsky din\u00e1r (1992 \u2013 2007)"_s)
+			$of(u"sudánsky dinár (1992 – 2007)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sdg"_s),
-			$of(u"sud\u00e1nska libra"_s)
+			$of(u"sudánska libra"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sdp"_s),
-			$of(u"sud\u00e1nska libra (1957 \u2013 1998)"_s)
+			$of(u"sudánska libra (1957 – 1998)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sek"_s),
-			$of(u"\u0161v\u00e9dska koruna"_s)
+			$of(u"švédska koruna"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sgd"_s),
-			$of(u"singapursk\u00fd dol\u00e1r"_s)
+			$of(u"singapurský dolár"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("shp"_s),
-			$of(u"sv\u00e4tohelensk\u00e1 libra"_s)
+			$of(u"svätohelenská libra"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sit"_s),
-			$of(u"slovinsk\u00fd toliar"_s)
+			$of(u"slovinský toliar"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("skk"_s),
-			$of(u"slovensk\u00e1 koruna"_s)
+			$of(u"slovenská koruna"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sll"_s),
-			$of(u"sierraleonsk\u00fd leone"_s)
+			$of(u"sierraleonský leone"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sos"_s),
-			$of(u"som\u00e1lsky \u0161iling"_s)
+			$of(u"somálsky šiling"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("srd"_s),
-			$of(u"surinamsk\u00fd dol\u00e1r"_s)
+			$of(u"surinamský dolár"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("srg"_s),
-			$of(u"surinamsk\u00fd zlat\u00fd"_s)
+			$of(u"surinamský zlatý"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ssp"_s),
-			$of(u"juhosud\u00e1nska libra"_s)
+			$of(u"juhosudánska libra"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("std"_s),
-			$of(u"sv\u00e4totom\u00e1\u0161ska dobra (1977\u20132017)"_s)
+			$of(u"svätotomášska dobra (1977–2017)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("stn"_s),
-			$of(u"sv\u00e4totom\u00e1\u0161ska dobra"_s)
+			$of(u"svätotomášska dobra"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sur"_s),
-			$of(u"sovietsky rube\u013e"_s)
+			$of(u"sovietsky rubeľ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("svc"_s),
-			$of(u"salv\u00e1dorsk\u00fd col\u00f3n"_s)
+			$of(u"salvádorský colón"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("syp"_s),
-			$of(u"s\u00fdrska libra"_s)
+			$of(u"sýrska libra"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("szl"_s),
-			$of(u"svazijsk\u00e9 lilangeni"_s)
+			$of(u"svazijské lilangeni"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("thb"_s),
-			$of(u"thajsk\u00fd baht"_s)
+			$of(u"thajský baht"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("tjr"_s),
-			$of(u"tad\u017eick\u00fd rube\u013e"_s)
+			$of(u"tadžický rubeľ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("tjs"_s),
-			$of(u"tad\u017eick\u00e9 somoni"_s)
+			$of(u"tadžické somoni"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("tmm"_s),
-			$of(u"turkm\u00e9nsky manat (1993 \u2013 2009)"_s)
+			$of(u"turkménsky manat (1993 – 2009)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("tmt"_s),
-			$of(u"turkm\u00e9nsky manat"_s)
+			$of(u"turkménsky manat"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("tnd"_s),
-			$of(u"tunisk\u00fd din\u00e1r"_s)
+			$of(u"tuniský dinár"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("top"_s),
-			$of(u"tongsk\u00e1 pa\u02bbanga"_s)
+			$of(u"tongská paʻanga"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("tpe"_s),
-			$of(u"timorsk\u00e9 escudo"_s)
+			$of(u"timorské escudo"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("trl"_s),
-			$of(u"tureck\u00e1 l\u00edra (1922 \u2013 2005)"_s)
+			$of(u"turecká líra (1922 – 2005)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("try"_s),
-			$of(u"tureck\u00e1 l\u00edra"_s)
+			$of(u"turecká líra"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ttd"_s),
-			$of(u"trinidadsko-toba\u017esk\u00fd dol\u00e1r"_s)
+			$of(u"trinidadsko-tobažský dolár"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("twd"_s),
-			$of(u"nov\u00fd taiwansk\u00fd dol\u00e1r"_s)
+			$of(u"nový taiwanský dolár"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("tzs"_s),
-			$of(u"tanz\u00e1nsky \u0161iling"_s)
+			$of(u"tanzánsky šiling"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("uah"_s),
-			$of(u"ukrajinsk\u00e1 hrivna"_s)
+			$of(u"ukrajinská hrivna"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("uak"_s),
-			$of(u"ukrajinsk\u00fd karbovanec"_s)
+			$of(u"ukrajinský karbovanec"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ugs"_s),
-			$of(u"ugandsk\u00fd \u0161iling (1966 \u2013 1987)"_s)
+			$of(u"ugandský šiling (1966 – 1987)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ugx"_s),
-			$of(u"ugandsk\u00fd \u0161iling"_s)
+			$of(u"ugandský šiling"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("usd"_s),
-			$of(u"americk\u00fd dol\u00e1r"_s)
+			$of(u"americký dolár"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("usn"_s),
-			$of(u"americk\u00fd dol\u00e1r (\u010fal\u0161\u00ed de\u0148)"_s)
+			$of(u"americký dolár (ďalší deň)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("uss"_s),
-			$of(u"americk\u00fd dol\u00e1r (rovnak\u00fd de\u0148)"_s)
+			$of(u"americký dolár (rovnaký deň)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("uyi"_s),
-			$of(u"uruguajsk\u00e9 peso (v indexovan\u00fdch jednotk\u00e1ch)"_s)
+			$of(u"uruguajské peso (v indexovaných jednotkách)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("uyp"_s),
-			$of(u"uruguajsk\u00e9 peso (1975 \u2013 1993)"_s)
+			$of(u"uruguajské peso (1975 – 1993)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("uyu"_s),
-			$of(u"uruguajsk\u00e9 peso"_s)
+			$of(u"uruguajské peso"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("uzs"_s),
-			$of(u"uzbeck\u00fd sum"_s)
+			$of(u"uzbecký sum"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("veb"_s),
-			$of(u"venezuelsk\u00fd bol\u00edvar (1871 \u2013 2008)"_s)
+			$of(u"venezuelský bolívar (1871 – 2008)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("vef"_s),
-			$of(u"venezuelsk\u00fd bol\u00edvar (2008\u20132018)"_s)
+			$of(u"venezuelský bolívar (2008–2018)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ves"_s),
-			$of(u"venezuelsk\u00fd bol\u00edvar"_s)
+			$of(u"venezuelský bolívar"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("vnd"_s),
-			$of(u"vietnamsk\u00fd dong"_s)
+			$of(u"vietnamský dong"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("vnn"_s),
-			$of(u"vietnamsk\u00fd dong (1978 \u2013 1985)"_s)
+			$of(u"vietnamský dong (1978 – 1985)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("vuv"_s),
-			$of(u"vanuatsk\u00e9 vatu"_s)
+			$of(u"vanuatské vatu"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("wst"_s),
-			$of(u"samojsk\u00e1 tala"_s)
+			$of(u"samojská tala"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xaf"_s),
-			$of(u"stredoafrick\u00fd frank"_s)
+			$of(u"stredoafrický frank"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xag"_s),
@@ -2302,23 +2302,23 @@ $ObjectArray2* CurrencyNames_sk::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("xba"_s),
-			$of(u"eur\u00f3pska zmie\u0161an\u00e1 jednotka"_s)
+			$of(u"európska zmiešaná jednotka"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xbb"_s),
-			$of(u"eur\u00f3pska pe\u0148a\u017en\u00e1 jednotka"_s)
+			$of(u"európska peňažná jednotka"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xbc"_s),
-			$of(u"eur\u00f3pska jednotka \u00fa\u010dtu 9 (XBC)"_s)
+			$of(u"európska jednotka účtu 9 (XBC)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xbd"_s),
-			$of(u"eur\u00f3pska jednotka \u00fa\u010dtu 17 (XBC)"_s)
+			$of(u"európska jednotka účtu 17 (XBC)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xcd"_s),
-			$of(u"v\u00fdchodokaribsk\u00fd dol\u00e1r"_s)
+			$of(u"východokaribský dolár"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xdr"_s),
@@ -2326,23 +2326,23 @@ $ObjectArray2* CurrencyNames_sk::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("xeu"_s),
-			$of(u"eur\u00f3pska menov\u00e1 jednotka"_s)
+			$of(u"európska menová jednotka"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xfo"_s),
-			$of(u"franc\u00fazsky zlat\u00fd frank"_s)
+			$of(u"francúzsky zlatý frank"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xfu"_s),
-			$of(u"franc\u00fazsky UIC frank"_s)
+			$of(u"francúzsky UIC frank"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xof"_s),
-			$of(u"z\u00e1padoafrick\u00fd frank"_s)
+			$of(u"západoafrický frank"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xpd"_s),
-			$of(u"pal\u00e1dium"_s)
+			$of(u"paládium"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xpf"_s),
@@ -2362,75 +2362,75 @@ $ObjectArray2* CurrencyNames_sk::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("xts"_s),
-			$of(u"k\u00f3d testovacej meny"_s)
+			$of(u"kód testovacej meny"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xua"_s),
-			$of(u"jednotka \u00fa\u010dtu ADB"_s)
+			$of(u"jednotka účtu ADB"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xxx"_s),
-			$of(u"nezn\u00e1ma mena"_s)
+			$of(u"neznáma mena"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ydd"_s),
-			$of(u"jemensk\u00fd din\u00e1r"_s)
+			$of(u"jemenský dinár"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("yer"_s),
-			$of(u"jemensk\u00fd rial"_s)
+			$of(u"jemenský rial"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("yud"_s),
-			$of(u"Juhosl\u00e1vsky din\u00e1r [YUD]"_s)
+			$of(u"Juhoslávsky dinár [YUD]"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("yum"_s),
-			$of(u"juhoslovansk\u00fd nov\u00fd din\u00e1r (1994 \u2013 2002)"_s)
+			$of(u"juhoslovanský nový dinár (1994 – 2002)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("yun"_s),
-			$of(u"juhoslovansk\u00fd konvertibiln\u00fd din\u00e1r (1990 \u2013 1992)"_s)
+			$of(u"juhoslovanský konvertibilný dinár (1990 – 1992)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("yur"_s),
-			$of(u"juhoslovansk\u00fd reformovan\u00fd din\u00e1r (1992 \u2013 1993)"_s)
+			$of(u"juhoslovanský reformovaný dinár (1992 – 1993)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("zal"_s),
-			$of(u"juhoafrick\u00fd rand (finan\u010dn\u00fd)"_s)
+			$of(u"juhoafrický rand (finančný)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("zar"_s),
-			$of(u"juhoafrick\u00fd rand"_s)
+			$of(u"juhoafrický rand"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("zmk"_s),
-			$of(u"zambijsk\u00e1 kwacha (1968 \u2013 2012)"_s)
+			$of(u"zambijská kwacha (1968 – 2012)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("zmw"_s),
-			$of(u"zambijsk\u00e1 kwacha"_s)
+			$of(u"zambijská kwacha"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("zrn"_s),
-			$of(u"zairsk\u00fd nov\u00fd zaire (1993 \u2013 1998)"_s)
+			$of(u"zairský nový zaire (1993 – 1998)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("zrz"_s),
-			$of(u"zairsk\u00fd zaire (1971 \u2013 1993)"_s)
+			$of(u"zairský zaire (1971 – 1993)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("zwd"_s),
-			$of(u"zimbabwiansky dol\u00e1r (1980 \u2013 2008)"_s)
+			$of(u"zimbabwiansky dolár (1980 – 2008)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("zwl"_s),
-			$of(u"zimbabwiansky dol\u00e1r (2009)"_s)
+			$of(u"zimbabwiansky dolár (2009)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("zwr"_s),
-			$of(u"zimbabwiansky dol\u00e1r (2008)"_s)
+			$of(u"zimbabwiansky dolár (2008)"_s)
 		})
 	}));
 	return data;

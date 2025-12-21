@@ -45,10 +45,10 @@ $ObjectArray2* JavaTimeSupplementary_pt::getContents() {
 		"T4"_s
 	}));
 	$var($StringArray, sharedQuarterNames, $new($StringArray, {
-		u"1\u00ba trimestre"_s,
-		u"2\u00ba trimestre"_s,
-		u"3\u00ba trimestre"_s,
-		u"4\u00ba trimestre"_s
+		u"1º trimestre"_s,
+		u"2º trimestre"_s,
+		u"3º trimestre"_s,
+		u"4º trimestre"_s
 	}));
 	$var($StringArray, sharedDatePatterns, $new($StringArray, {
 		"EEEE, d \'de\' MMMM \'de\' y GGGG"_s,
@@ -63,16 +63,16 @@ $ObjectArray2* JavaTimeSupplementary_pt::getContents() {
 		"qua"_s,
 		"qui"_s,
 		"sex"_s,
-		u"s\u00e1b"_s
+		u"sáb"_s
 	}));
 	$var($StringArray, sharedDayNames, $new($StringArray, {
 		"domingo"_s,
 		"segunda-feira"_s,
-		u"ter\u00e7a-feira"_s,
+		u"terça-feira"_s,
 		"quarta-feira"_s,
 		"quinta-feira"_s,
 		"sexta-feira"_s,
-		u"s\u00e1bado"_s
+		u"sábado"_s
 	}));
 	$var($StringArray, sharedDayNarrows, $new($StringArray, {
 		"D"_s,
@@ -108,31 +108,31 @@ $ObjectArray2* JavaTimeSupplementary_pt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.buddhist"_s),
-			$of(u"Calend\u00e1rio Budista"_s)
+			$of(u"Calendário Budista"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.gregorian"_s),
-			$of(u"Calend\u00e1rio Gregoriano"_s)
+			$of(u"Calendário Gregoriano"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.gregory"_s),
-			$of(u"Calend\u00e1rio Gregoriano"_s)
+			$of(u"Calendário Gregoriano"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.islamic"_s),
-			$of(u"Calend\u00e1rio Isl\u00e2mico"_s)
+			$of(u"Calendário Islâmico"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.islamic-civil"_s),
-			$of(u"Calend\u00e1rio Civil Isl\u00e2mico"_s)
+			$of(u"Calendário Civil Islâmico"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.japanese"_s),
-			$of(u"Calend\u00e1rio Japon\u00eas"_s)
+			$of(u"Calendário Japonês"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.roc"_s),
-			$of(u"Calend\u00e1rio da Rep\u00fablica da China"_s)
+			$of(u"Calendário da República da China"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("field.dayperiod"_s),
@@ -152,7 +152,7 @@ $ObjectArray2* JavaTimeSupplementary_pt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.month"_s),
-			$of(u"m\u00eas"_s)
+			$of(u"mês"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("field.second"_s),
@@ -172,7 +172,7 @@ $ObjectArray2* JavaTimeSupplementary_pt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.zone"_s),
-			$of(u"fuso hor\u00e1rio"_s)
+			$of(u"fuso horário"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("islamic.AmPmMarkers"_s),
@@ -289,7 +289,7 @@ $ObjectArray2* JavaTimeSupplementary_pt::getContents() {
 			$of($$new($StringArray, {
 				"janeiro"_s,
 				"fevereiro"_s,
-				u"mar\u00e7o"_s,
+				u"março"_s,
 				"abril"_s,
 				"maio"_s,
 				"junho"_s,

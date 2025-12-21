@@ -95,7 +95,7 @@ $ObjectArray2* JavaTimeSupplementary_fr::getContents() {
 	}));
 	$var($StringArray, sharedJavaTimeLongEras, $new($StringArray, {
 		"BC"_s,
-		u"\u00e8re bouddhiste"_s
+		u"ère bouddhiste"_s
 	}));
 	$var($StringArray, sharedEras, $new($StringArray, {
 		"avant RdC"_s,
@@ -116,11 +116,11 @@ $ObjectArray2* JavaTimeSupplementary_fr::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.gregorian"_s),
-			$of(u"calendrier gr\u00e9gorien"_s)
+			$of(u"calendrier grégorien"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.gregory"_s),
-			$of(u"calendrier gr\u00e9gorien"_s)
+			$of(u"calendrier grégorien"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.islamic"_s),
@@ -128,7 +128,7 @@ $ObjectArray2* JavaTimeSupplementary_fr::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.islamic-civil"_s),
-			$of(u"calendrier musulman (tabulaire, \u00e9poque civile)"_s)
+			$of(u"calendrier musulman (tabulaire, époque civile)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.japanese"_s),
@@ -136,7 +136,7 @@ $ObjectArray2* JavaTimeSupplementary_fr::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.roc"_s),
-			$of(u"calendrier r\u00e9publicain chinois"_s)
+			$of(u"calendrier républicain chinois"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("field.dayperiod"_s),
@@ -144,7 +144,7 @@ $ObjectArray2* JavaTimeSupplementary_fr::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.era"_s),
-			$of(u"\u00e8re"_s)
+			$of(u"ère"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("field.hour"_s),
@@ -172,7 +172,7 @@ $ObjectArray2* JavaTimeSupplementary_fr::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.year"_s),
-			$of(u"ann\u00e9e"_s)
+			$of(u"année"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("field.zone"_s),
@@ -269,8 +269,8 @@ $ObjectArray2* JavaTimeSupplementary_fr::getContents() {
 		$$new($ObjectArray, {
 			$of("java.time.long.Eras"_s),
 			$of($$new($StringArray, {
-				u"avant J\u00e9sus-Christ"_s,
-				u"apr\u00e8s J\u00e9sus-Christ"_s
+				u"avant Jésus-Christ"_s,
+				u"après Jésus-Christ"_s
 			}))
 		}),
 		$$new($ObjectArray, {
@@ -308,17 +308,17 @@ $ObjectArray2* JavaTimeSupplementary_fr::getContents() {
 			$of("roc.MonthAbbreviations"_s),
 			$of($$new($StringArray, {
 				"janv."_s,
-				u"f\u00e9vr."_s,
+				u"févr."_s,
 				"mars"_s,
 				"avr."_s,
 				"mai"_s,
 				"juin"_s,
 				"juil."_s,
-				u"ao\u00fbt"_s,
+				u"août"_s,
 				"sept."_s,
 				"oct."_s,
 				"nov."_s,
-				u"d\u00e9c."_s,
+				u"déc."_s,
 				""_s
 			}))
 		}),
@@ -326,17 +326,17 @@ $ObjectArray2* JavaTimeSupplementary_fr::getContents() {
 			$of("roc.MonthNames"_s),
 			$of($$new($StringArray, {
 				"janvier"_s,
-				u"f\u00e9vrier"_s,
+				u"février"_s,
 				"mars"_s,
 				"avril"_s,
 				"mai"_s,
 				"juin"_s,
 				"juillet"_s,
-				u"ao\u00fbt"_s,
+				u"août"_s,
 				"septembre"_s,
 				"octobre"_s,
 				"novembre"_s,
-				u"d\u00e9cembre"_s,
+				u"décembre"_s,
 				""_s
 			}))
 		}),
@@ -384,7 +384,7 @@ $ObjectArray2* JavaTimeSupplementary_fr::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.hourFormat"_s),
-			$of(u"+HH:mm;\u2212HH:mm"_s)
+			$of(u"+HH:mm;−HH:mm"_s)
 		})
 	});
 }

@@ -42,11 +42,11 @@ $ObjectArray2* CurrencyNames_mgo::getContents() {
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("xaf"_s),
-			$of(u"shir\u00e8"_s)
+			$of(u"shirè"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xxx"_s),
-			$of(u"iku ikap m\u0254\u02bc\u0254"_s)
+			$of(u"iku ikap mɔʼɔ"_s)
 		})
 	}));
 	return data;

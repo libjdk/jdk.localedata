@@ -42,7 +42,7 @@ $ObjectArray2* CurrencyNames_sr_Latn_BA::getContents() {
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("bam"_s),
-			$of(u"Bosanskohercegova\u010dka konvertibilna marka"_s)
+			$of(u"Bosanskohercegovačka konvertibilna marka"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("byn"_s),

@@ -282,7 +282,7 @@ $ObjectArray2* CurrencyNames_vi::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("JPY"_s),
-			$of(u"\u00a5"_s)
+			$of(u"¥"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("KES"_s),
@@ -518,7 +518,7 @@ $ObjectArray2* CurrencyNames_vi::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("THB"_s),
-			$of(u"\u0e3f"_s)
+			$of(u"฿"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("TJS"_s),
@@ -594,7 +594,7 @@ $ObjectArray2* CurrencyNames_vi::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("adp"_s),
-			$of(u"\u0110\u1ed3ng Peseta c\u1ee7a Andora"_s)
+			$of(u"Đồng Peseta của Andora"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("aed"_s),
@@ -602,7 +602,7 @@ $ObjectArray2* CurrencyNames_vi::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("afa"_s),
-			$of(u"\u0110\u1ed3ng Afghani c\u1ee7a Afghanistan (1927\u20132002)"_s)
+			$of(u"Đồng Afghani của Afghanistan (1927–2002)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("afn"_s),
@@ -618,7 +618,7 @@ $ObjectArray2* CurrencyNames_vi::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ang"_s),
-			$of(u"Guilder Antille H\u00e0 Lan"_s)
+			$of(u"Guilder Antille Hà Lan"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("aoa"_s),
@@ -626,31 +626,31 @@ $ObjectArray2* CurrencyNames_vi::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("aok"_s),
-			$of(u"\u0110\u1ed3ng Kwanza c\u1ee7a Angola (1977\u20131991)"_s)
+			$of(u"Đồng Kwanza của Angola (1977–1991)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("aon"_s),
-			$of(u"\u0110\u1ed3ng Kwanza M\u1edbi c\u1ee7a Angola (1990\u20132000)"_s)
+			$of(u"Đồng Kwanza Mới của Angola (1990–2000)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("aor"_s),
-			$of(u"\u0110\u1ed3ng Kwanza \u0110i\u1ec1u ch\u1ec9nh l\u1ea1i c\u1ee7a Angola (1995\u20131999)"_s)
+			$of(u"Đồng Kwanza Điều chỉnh lại của Angola (1995–1999)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ara"_s),
-			$of(u"\u0110\u1ed3ng Austral c\u1ee7a Argentina"_s)
+			$of(u"Đồng Austral của Argentina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("arl"_s),
-			$of(u"\u0110\u1ed3ng Peso Ley c\u1ee7a Argentina (1970\u20131983)"_s)
+			$of(u"Đồng Peso Ley của Argentina (1970–1983)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("arm"_s),
-			$of(u"\u0110\u1ed3ng Peso Argentina (1881\u20131970)"_s)
+			$of(u"Đồng Peso Argentina (1881–1970)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("arp"_s),
-			$of(u"\u0110\u1ed3ng Peso Argentina (1983\u20131985)"_s)
+			$of(u"Đồng Peso Argentina (1983–1985)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ars"_s),
@@ -658,11 +658,11 @@ $ObjectArray2* CurrencyNames_vi::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ats"_s),
-			$of(u"\u0110\u1ed3ng Schiling \u00c1o"_s)
+			$of(u"Đồng Schiling Áo"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("aud"_s),
-			$of(u"\u0110\u00f4 la Australia"_s)
+			$of(u"Đô la Australia"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("awg"_s),
@@ -670,7 +670,7 @@ $ObjectArray2* CurrencyNames_vi::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("azm"_s),
-			$of(u"\u0110\u1ed3ng Manat c\u1ee7a Azerbaijan (1993\u20132006)"_s)
+			$of(u"Đồng Manat của Azerbaijan (1993–2006)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("azn"_s),
@@ -678,19 +678,19 @@ $ObjectArray2* CurrencyNames_vi::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("bad"_s),
-			$of(u"\u0110\u1ed3ng Dinar c\u1ee7a Bosnia-Herzegovina (1992\u20131994)"_s)
+			$of(u"Đồng Dinar của Bosnia-Herzegovina (1992–1994)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bam"_s),
-			$of(u"Mark Bosnia-Herzegovina c\u00f3 th\u1ec3 chuy\u1ec3n \u0111\u1ed5i"_s)
+			$of(u"Mark Bosnia-Herzegovina có thể chuyển đổi"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ban"_s),
-			$of(u"\u0110\u1ed3ng Dinar M\u1edbi c\u1ee7a Bosnia-Herzegovina (1994\u20131997)"_s)
+			$of(u"Đồng Dinar Mới của Bosnia-Herzegovina (1994–1997)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bbd"_s),
-			$of(u"\u0110\u00f4 la Barbados"_s)
+			$of(u"Đô la Barbados"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bdt"_s),
@@ -698,23 +698,23 @@ $ObjectArray2* CurrencyNames_vi::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("bec"_s),
-			$of(u"\u0110\u1ed3ng Franc B\u1ec9 (c\u00f3 th\u1ec3 chuy\u1ec3n \u0111\u1ed5i)"_s)
+			$of(u"Đồng Franc Bỉ (có thể chuyển đổi)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bef"_s),
-			$of(u"\u0110\u1ed3ng Franc B\u1ec9"_s)
+			$of(u"Đồng Franc Bỉ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bel"_s),
-			$of(u"\u0110\u1ed3ng Franc B\u1ec9 (t\u00e0i ch\u00ednh)"_s)
+			$of(u"Đồng Franc Bỉ (tài chính)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bgl"_s),
-			$of(u"\u0110\u1ed3ng Lev Xu c\u1ee7a Bun-ga-ri"_s)
+			$of(u"Đồng Lev Xu của Bun-ga-ri"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bgm"_s),
-			$of(u"\u0110\u1ed3ng Lev X\u00e3 h\u1ed9i ch\u1ee7 ngh\u0129a c\u1ee7a Bun-ga-ri"_s)
+			$of(u"Đồng Lev Xã hội chủ nghĩa của Bun-ga-ri"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bgn"_s),
@@ -722,7 +722,7 @@ $ObjectArray2* CurrencyNames_vi::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("bgo"_s),
-			$of(u"\u0110\u1ed3ng Lev c\u1ee7a Bun-ga-ri (1879\u20131952)"_s)
+			$of(u"Đồng Lev của Bun-ga-ri (1879–1952)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bhd"_s),
@@ -734,11 +734,11 @@ $ObjectArray2* CurrencyNames_vi::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("bmd"_s),
-			$of(u"\u0110\u00f4 la Bermuda"_s)
+			$of(u"Đô la Bermuda"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bnd"_s),
-			$of(u"\u0110\u00f4 la Brunei"_s)
+			$of(u"Đô la Brunei"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bob"_s),
@@ -746,27 +746,27 @@ $ObjectArray2* CurrencyNames_vi::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("bol"_s),
-			$of(u"\u0110\u1ed3ng Boliviano c\u1ee7a Bolivia (1863\u20131963)"_s)
+			$of(u"Đồng Boliviano của Bolivia (1863–1963)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bop"_s),
-			$of(u"\u0110\u1ed3ng Peso Bolivia"_s)
+			$of(u"Đồng Peso Bolivia"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bov"_s),
-			$of(u"\u0110\u1ed3ng Mvdol Bolivia"_s)
+			$of(u"Đồng Mvdol Bolivia"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("brb"_s),
-			$of(u"\u0110\u1ed3ng Cruzerio M\u1edbi c\u1ee7a Braxin (1967\u20131986)"_s)
+			$of(u"Đồng Cruzerio Mới của Braxin (1967–1986)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("brc"_s),
-			$of(u"\u0110\u1ed3ng Cruzado c\u1ee7a Braxin (1986\u20131989)"_s)
+			$of(u"Đồng Cruzado của Braxin (1986–1989)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bre"_s),
-			$of(u"\u0110\u1ed3ng Cruzerio c\u1ee7a Braxin (1990\u20131993)"_s)
+			$of(u"Đồng Cruzerio của Braxin (1990–1993)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("brl"_s),
@@ -774,19 +774,19 @@ $ObjectArray2* CurrencyNames_vi::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("brn"_s),
-			$of(u"\u0110\u1ed3ng Cruzado M\u1edbi c\u1ee7a Braxin (1989\u20131990)"_s)
+			$of(u"Đồng Cruzado Mới của Braxin (1989–1990)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("brr"_s),
-			$of(u"\u0110\u1ed3ng Cruzeiro c\u1ee7a Braxin (1993\u20131994)"_s)
+			$of(u"Đồng Cruzeiro của Braxin (1993–1994)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("brz"_s),
-			$of(u"\u0110\u1ed3ng Cruzeiro c\u1ee7a Braxin (1942\u20131967)"_s)
+			$of(u"Đồng Cruzeiro của Braxin (1942–1967)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bsd"_s),
-			$of(u"\u0110\u00f4 la Bahamas"_s)
+			$of(u"Đô la Bahamas"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("btn"_s),
@@ -794,7 +794,7 @@ $ObjectArray2* CurrencyNames_vi::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("buk"_s),
-			$of(u"\u0110\u1ed3ng Kyat Mi\u1ebfn \u0110i\u1ec7n"_s)
+			$of(u"Đồng Kyat Miến Điện"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bwp"_s),
@@ -802,23 +802,23 @@ $ObjectArray2* CurrencyNames_vi::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("byb"_s),
-			$of(u"\u0110\u1ed3ng R\u00fap M\u1edbi c\u1ee7a Belarus (1994\u20131999)"_s)
+			$of(u"Đồng Rúp Mới của Belarus (1994–1999)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("byn"_s),
-			$of(u"R\u00fap Belarus"_s)
+			$of(u"Rúp Belarus"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("byr"_s),
-			$of(u"R\u00fap Belarus (2000\u20132016)"_s)
+			$of(u"Rúp Belarus (2000–2016)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bzd"_s),
-			$of(u"\u0110\u00f4 la Belize"_s)
+			$of(u"Đô la Belize"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cad"_s),
-			$of(u"\u0110\u00f4 la Canada"_s)
+			$of(u"Đô la Canada"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cdf"_s),
@@ -826,23 +826,23 @@ $ObjectArray2* CurrencyNames_vi::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("che"_s),
-			$of(u"\u0110\u1ed3ng Euro WIR"_s)
+			$of(u"Đồng Euro WIR"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("chf"_s),
-			$of(u"Franc Th\u1ee5y s\u0129"_s)
+			$of(u"Franc Thụy sĩ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("chw"_s),
-			$of(u"\u0110\u1ed3ng France WIR"_s)
+			$of(u"Đồng France WIR"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cle"_s),
-			$of(u"\u0110\u1ed3ng Escudo c\u1ee7a Chile"_s)
+			$of(u"Đồng Escudo của Chile"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("clf"_s),
-			$of(u"\u0110\u01a1n v\u1ecb K\u1ebf to\u00e1n c\u1ee7a Chile (UF)"_s)
+			$of(u"Đơn vị Kế toán của Chile (UF)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("clp"_s),
@@ -850,11 +850,11 @@ $ObjectArray2* CurrencyNames_vi::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("cnh"_s),
-			$of(u"Nh\u00e2n d\u00e2n t\u1ec7 (h\u1ea3i ngo\u1ea1i)"_s)
+			$of(u"Nhân dân tệ (hải ngoại)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cny"_s),
-			$of(u"Nh\u00e2n d\u00e2n t\u1ec7"_s)
+			$of(u"Nhân dân tệ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cop"_s),
@@ -862,23 +862,23 @@ $ObjectArray2* CurrencyNames_vi::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("cou"_s),
-			$of(u"\u0110\u01a1n v\u1ecb Gi\u00e1 tr\u1ecb Th\u1ef1c c\u1ee7a Colombia"_s)
+			$of(u"Đơn vị Giá trị Thực của Colombia"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("crc"_s),
-			$of(u"Col\u00f3n Costa Rica"_s)
+			$of(u"Colón Costa Rica"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("csd"_s),
-			$of(u"\u0110\u1ed3ng Dinar c\u1ee7a Serbia (2002\u20132006)"_s)
+			$of(u"Đồng Dinar của Serbia (2002–2006)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("csk"_s),
-			$of(u"\u0110\u1ed3ng Koruna Xu c\u1ee7a Czechoslovakia"_s)
+			$of(u"Đồng Koruna Xu của Czechoslovakia"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cuc"_s),
-			$of(u"Peso Cuba c\u00f3 th\u1ec3 chuy\u1ec3n \u0111\u1ed5i"_s)
+			$of(u"Peso Cuba có thể chuyển đổi"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cup"_s),
@@ -890,19 +890,19 @@ $ObjectArray2* CurrencyNames_vi::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("cyp"_s),
-			$of(u"\u0110\u1ed3ng B\u1ea3ng S\u00edp"_s)
+			$of(u"Đồng Bảng Síp"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("czk"_s),
-			$of(u"Koruna C\u1ed9ng h\u00f2a S\u00e9c"_s)
+			$of(u"Koruna Cộng hòa Séc"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ddm"_s),
-			$of(u"\u0110\u1ed3ng Mark \u0110\u00f4ng \u0110\u1ee9c"_s)
+			$of(u"Đồng Mark Đông Đức"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("dem"_s),
-			$of(u"\u0110\u1ed3ng Mark \u0110\u1ee9c"_s)
+			$of(u"Đồng Mark Đức"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("djf"_s),
@@ -910,7 +910,7 @@ $ObjectArray2* CurrencyNames_vi::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("dkk"_s),
-			$of(u"Krone \u0110an M\u1ea1ch"_s)
+			$of(u"Krone Đan Mạch"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("dop"_s),
@@ -922,19 +922,19 @@ $ObjectArray2* CurrencyNames_vi::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ecs"_s),
-			$of(u"\u0110\u1ed3ng Scure Ecuador"_s)
+			$of(u"Đồng Scure Ecuador"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ecv"_s),
-			$of(u"\u0110\u01a1n v\u1ecb Gi\u00e1 tr\u1ecb Kh\u00f4ng \u0111\u1ed5i c\u1ee7a Ecuador"_s)
+			$of(u"Đơn vị Giá trị Không đổi của Ecuador"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("eek"_s),
-			$of(u"Crun Ext\u00f4nia"_s)
+			$of(u"Crun Extônia"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("egp"_s),
-			$of(u"B\u1ea3ng Ai C\u1eadp"_s)
+			$of(u"Bảng Ai Cập"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ern"_s),
@@ -942,15 +942,15 @@ $ObjectArray2* CurrencyNames_vi::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("esa"_s),
-			$of(u"\u0110\u1ed3ng Peseta T\u00e2y Ban Nha (T\u00e0i kho\u1ea3n)"_s)
+			$of(u"Đồng Peseta Tây Ban Nha (Tài khoản)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("esb"_s),
-			$of(u"\u0110\u1ed3ng Peseta T\u00e2y Ban Nha (t\u00e0i kho\u1ea3n c\u00f3 th\u1ec3 chuy\u1ec3n \u0111\u1ed5i)"_s)
+			$of(u"Đồng Peseta Tây Ban Nha (tài khoản có thể chuyển đổi)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("esp"_s),
-			$of(u"\u0110\u1ed3ng Peseta T\u00e2y Ban Nha"_s)
+			$of(u"Đồng Peseta Tây Ban Nha"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("etb"_s),
@@ -962,27 +962,27 @@ $ObjectArray2* CurrencyNames_vi::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("fim"_s),
-			$of(u"\u0110\u1ed3ng Markka Ph\u1ea7n Lan"_s)
+			$of(u"Đồng Markka Phần Lan"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("fjd"_s),
-			$of(u"\u0110\u00f4 la Fiji"_s)
+			$of(u"Đô la Fiji"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("fkp"_s),
-			$of(u"B\u1ea3ng Qu\u1ea7n \u0111\u1ea3o Falkland"_s)
+			$of(u"Bảng Quần đảo Falkland"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("frf"_s),
-			$of(u"Franc Ph\u00e1p"_s)
+			$of(u"Franc Pháp"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gbp"_s),
-			$of(u"B\u1ea3ng Anh"_s)
+			$of(u"Bảng Anh"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gek"_s),
-			$of(u"\u0110\u1ed3ng Kupon Larit c\u1ee7a Georgia"_s)
+			$of(u"Đồng Kupon Larit của Georgia"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gel"_s),
@@ -990,7 +990,7 @@ $ObjectArray2* CurrencyNames_vi::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ghc"_s),
-			$of(u"Cedi Ghana (1979\u20132007)"_s)
+			$of(u"Cedi Ghana (1979–2007)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ghs"_s),
@@ -998,7 +998,7 @@ $ObjectArray2* CurrencyNames_vi::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("gip"_s),
-			$of(u"B\u1ea3ng Gibraltar"_s)
+			$of(u"Bảng Gibraltar"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gmd"_s),
@@ -1014,11 +1014,11 @@ $ObjectArray2* CurrencyNames_vi::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("gqe"_s),
-			$of(u"\u0110\u1ed3ng Ekwele c\u1ee7a Guinea X\u00edch \u0110\u1ea1o"_s)
+			$of(u"Đồng Ekwele của Guinea Xích Đạo"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("grd"_s),
-			$of(u"Drachma Hy L\u1ea1p"_s)
+			$of(u"Drachma Hy Lạp"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gtq"_s),
@@ -1026,7 +1026,7 @@ $ObjectArray2* CurrencyNames_vi::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("gwe"_s),
-			$of(u"\u0110\u1ed3ng Guinea Escudo B\u1ed3 \u0110\u00e0o Nha"_s)
+			$of(u"Đồng Guinea Escudo Bồ Đào Nha"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gwp"_s),
@@ -1034,11 +1034,11 @@ $ObjectArray2* CurrencyNames_vi::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("gyd"_s),
-			$of(u"\u0110\u00f4 la Guyana"_s)
+			$of(u"Đô la Guyana"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("hkd"_s),
-			$of(u"\u0110\u00f4 la H\u1ed3ng K\u00f4ng"_s)
+			$of(u"Đô la Hồng Kông"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("hnl"_s),
@@ -1046,7 +1046,7 @@ $ObjectArray2* CurrencyNames_vi::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("hrd"_s),
-			$of(u"\u0110\u1ed3ng Dinar Croatia"_s)
+			$of(u"Đồng Dinar Croatia"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("hrk"_s),
@@ -1074,11 +1074,11 @@ $ObjectArray2* CurrencyNames_vi::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ils"_s),
-			$of(u"Sheqel Israel m\u1edbi"_s)
+			$of(u"Sheqel Israel mới"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("inr"_s),
-			$of(u"Rupee \u1ea4n \u0110\u1ed9"_s)
+			$of(u"Rupee Ấn Độ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("iqd"_s),
@@ -1090,15 +1090,15 @@ $ObjectArray2* CurrencyNames_vi::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("isk"_s),
-			$of(u"Kr\u00f3na Iceland"_s)
+			$of(u"Króna Iceland"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("itl"_s),
-			$of(u"Lia \u00dd"_s)
+			$of(u"Lia Ý"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("jmd"_s),
-			$of(u"\u0110\u00f4 la Jamaica"_s)
+			$of(u"Đô la Jamaica"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("jod"_s),
@@ -1106,7 +1106,7 @@ $ObjectArray2* CurrencyNames_vi::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("jpy"_s),
-			$of(u"Y\u00ean Nh\u1eadt"_s)
+			$of(u"Yên Nhật"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kes"_s),
@@ -1126,19 +1126,19 @@ $ObjectArray2* CurrencyNames_vi::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("kpw"_s),
-			$of(u"Won Tri\u1ec1u Ti\u00ean"_s)
+			$of(u"Won Triều Tiên"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("krh"_s),
-			$of(u"\u0110\u1ed3ng Hwan H\u00e0n Qu\u1ed1c (1953\u20131962)"_s)
+			$of(u"Đồng Hwan Hàn Quốc (1953–1962)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kro"_s),
-			$of(u"\u0110\u1ed3ng Won H\u00e0n Qu\u1ed1c (1945\u20131953)"_s)
+			$of(u"Đồng Won Hàn Quốc (1945–1953)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("krw"_s),
-			$of(u"Won H\u00e0n Qu\u1ed1c"_s)
+			$of(u"Won Hàn Quốc"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kwd"_s),
@@ -1146,7 +1146,7 @@ $ObjectArray2* CurrencyNames_vi::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("kyd"_s),
-			$of(u"\u0110\u00f4 la Qu\u1ea7n \u0111\u1ea3o Cayman"_s)
+			$of(u"Đô la Quần đảo Cayman"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kzt"_s),
@@ -1154,11 +1154,11 @@ $ObjectArray2* CurrencyNames_vi::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("lak"_s),
-			$of(u"Kip L\u00e0o"_s)
+			$of(u"Kip Lào"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lbp"_s),
-			$of(u"B\u1ea3ng Li-b\u0103ng"_s)
+			$of(u"Bảng Li-băng"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lkr"_s),
@@ -1166,7 +1166,7 @@ $ObjectArray2* CurrencyNames_vi::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("lrd"_s),
-			$of(u"\u0110\u00f4 la Liberia"_s)
+			$of(u"Đô la Liberia"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lsl"_s),
@@ -1174,23 +1174,23 @@ $ObjectArray2* CurrencyNames_vi::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ltl"_s),
-			$of(u"Litas L\u00edt-va"_s)
+			$of(u"Litas Lít-va"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ltt"_s),
-			$of(u"\u0110\u1ed3ng Talonas Litva"_s)
+			$of(u"Đồng Talonas Litva"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("luc"_s),
-			$of(u"\u0110\u1ed3ng Franc Luxembourg c\u00f3 th\u1ec3 chuy\u1ec3n \u0111\u1ed5i"_s)
+			$of(u"Đồng Franc Luxembourg có thể chuyển đổi"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("luf"_s),
-			$of(u"\u0110\u1ed3ng Franc Luxembourg"_s)
+			$of(u"Đồng Franc Luxembourg"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lul"_s),
-			$of(u"\u0110\u1ed3ng Franc Luxembourg t\u00e0i ch\u00ednh"_s)
+			$of(u"Đồng Franc Luxembourg tài chính"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lvl"_s),
@@ -1198,7 +1198,7 @@ $ObjectArray2* CurrencyNames_vi::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("lvr"_s),
-			$of(u"\u0110\u1ed3ng R\u00fap Latvia"_s)
+			$of(u"Đồng Rúp Latvia"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lyd"_s),
@@ -1206,19 +1206,19 @@ $ObjectArray2* CurrencyNames_vi::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("mad"_s),
-			$of(u"Dirham Ma-r\u1ed1c"_s)
+			$of(u"Dirham Ma-rốc"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("maf"_s),
-			$of(u"\u0110\u1ed3ng Franc Ma-r\u1ed1c"_s)
+			$of(u"Đồng Franc Ma-rốc"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mcf"_s),
-			$of(u"\u0110\u1ed3ng Franc Monegasque"_s)
+			$of(u"Đồng Franc Monegasque"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mdc"_s),
-			$of(u"\u0110\u1ed3ng Cupon Moldova"_s)
+			$of(u"Đồng Cupon Moldova"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mdl"_s),
@@ -1230,7 +1230,7 @@ $ObjectArray2* CurrencyNames_vi::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("mgf"_s),
-			$of(u"\u0110\u1ed3ng Franc Magalasy"_s)
+			$of(u"Đồng Franc Magalasy"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mkd"_s),
@@ -1238,11 +1238,11 @@ $ObjectArray2* CurrencyNames_vi::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("mkn"_s),
-			$of(u"\u0110\u1ed3ng Denar Macedonia (1992\u20131993)"_s)
+			$of(u"Đồng Denar Macedonia (1992–1993)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mlf"_s),
-			$of(u"\u0110\u1ed3ng Franc Mali"_s)
+			$of(u"Đồng Franc Mali"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mmk"_s),
@@ -1250,7 +1250,7 @@ $ObjectArray2* CurrencyNames_vi::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("mnt"_s),
-			$of(u"Tugrik M\u00f4ng C\u1ed5"_s)
+			$of(u"Tugrik Mông Cổ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mop"_s),
@@ -1258,7 +1258,7 @@ $ObjectArray2* CurrencyNames_vi::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("mro"_s),
-			$of(u"Ouguiya Mauritania (1973\u20132017)"_s)
+			$of(u"Ouguiya Mauritania (1973–2017)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mru"_s),
@@ -1266,11 +1266,11 @@ $ObjectArray2* CurrencyNames_vi::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("mtl"_s),
-			$of(u"Lia x\u1ee9 Man-t\u01a1"_s)
+			$of(u"Lia xứ Man-tơ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mtp"_s),
-			$of(u"\u0110\u1ed3ng B\u1ea3ng Malta"_s)
+			$of(u"Đồng Bảng Malta"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mur"_s),
@@ -1290,11 +1290,11 @@ $ObjectArray2* CurrencyNames_vi::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("mxp"_s),
-			$of(u"\u0110\u1ed3ng Peso B\u1ea1c M\u00ea-hi-c\u00f4 (1861\u20131992)"_s)
+			$of(u"Đồng Peso Bạc Mê-hi-cô (1861–1992)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mxv"_s),
-			$of(u"\u0110\u01a1n v\u1ecb \u0110\u1ea7u t\u01b0 M\u00ea-hi-c\u00f4"_s)
+			$of(u"Đơn vị Đầu tư Mê-hi-cô"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("myr"_s),
@@ -1306,7 +1306,7 @@ $ObjectArray2* CurrencyNames_vi::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("mzm"_s),
-			$of(u"\u0110\u1ed3ng Metical Mozambique (1980\u20132006)"_s)
+			$of(u"Đồng Metical Mozambique (1980–2006)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mzn"_s),
@@ -1314,7 +1314,7 @@ $ObjectArray2* CurrencyNames_vi::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("nad"_s),
-			$of(u"\u0110\u00f4 la Namibia"_s)
+			$of(u"Đô la Namibia"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ngn"_s),
@@ -1322,15 +1322,15 @@ $ObjectArray2* CurrencyNames_vi::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("nic"_s),
-			$of(u"\u0110\u1ed3ng C\u00f3rdoba Nicaragua (1988\u20131991)"_s)
+			$of(u"Đồng Córdoba Nicaragua (1988–1991)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("nio"_s),
-			$of(u"C\u00f3rdoba Nicaragua"_s)
+			$of(u"Córdoba Nicaragua"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("nlg"_s),
-			$of(u"\u0110\u1ed3ng Guilder H\u00e0 Lan"_s)
+			$of(u"Đồng Guilder Hà Lan"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("nok"_s),
@@ -1342,7 +1342,7 @@ $ObjectArray2* CurrencyNames_vi::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("nzd"_s),
-			$of(u"\u0110\u00f4 la New Zealand"_s)
+			$of(u"Đô la New Zealand"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("omr"_s),
@@ -1354,7 +1354,7 @@ $ObjectArray2* CurrencyNames_vi::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("pei"_s),
-			$of(u"\u0110\u1ed3ng Inti Peru"_s)
+			$of(u"Đồng Inti Peru"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pen"_s),
@@ -1362,7 +1362,7 @@ $ObjectArray2* CurrencyNames_vi::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("pes"_s),
-			$of(u"\u0110\u1ed3ng Sol Peru (1863\u20131965)"_s)
+			$of(u"Đồng Sol Peru (1863–1965)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pgk"_s),
@@ -1382,11 +1382,11 @@ $ObjectArray2* CurrencyNames_vi::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("plz"_s),
-			$of(u"\u0110\u1ed3ng Zloty Ba Lan (1950\u20131995)"_s)
+			$of(u"Đồng Zloty Ba Lan (1950–1995)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pte"_s),
-			$of(u"\u0110\u1ed3ng Escudo B\u1ed3 \u0110\u00e0o Nha"_s)
+			$of(u"Đồng Escudo Bồ Đào Nha"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pyg"_s),
@@ -1398,11 +1398,11 @@ $ObjectArray2* CurrencyNames_vi::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("rhd"_s),
-			$of(u"\u0110\u1ed3ng \u0110\u00f4 la Rhode"_s)
+			$of(u"Đồng Đô la Rhode"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("rol"_s),
-			$of(u"\u0110\u1ed3ng Leu Rumani (1952\u20132006)"_s)
+			$of(u"Đồng Leu Rumani (1952–2006)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ron"_s),
@@ -1414,11 +1414,11 @@ $ObjectArray2* CurrencyNames_vi::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("rub"_s),
-			$of(u"R\u00fap Nga"_s)
+			$of(u"Rúp Nga"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("rur"_s),
-			$of(u"\u0110\u1ed3ng R\u00fap Nga (1991\u20131998)"_s)
+			$of(u"Đồng Rúp Nga (1991–1998)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("rwf"_s),
@@ -1426,11 +1426,11 @@ $ObjectArray2* CurrencyNames_vi::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("sar"_s),
-			$of(u"Riyal \u1ea2 R\u1eadp X\u00ea-\u00fat"_s)
+			$of(u"Riyal Ả Rập Xê-út"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sbd"_s),
-			$of(u"\u0110\u00f4 la qu\u1ea7n \u0111\u1ea3o Solomon"_s)
+			$of(u"Đô la quần đảo Solomon"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("scr"_s),
@@ -1438,35 +1438,35 @@ $ObjectArray2* CurrencyNames_vi::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("sdd"_s),
-			$of(u"\u0110\u1ed3ng Dinar Sudan (1992\u20132007)"_s)
+			$of(u"Đồng Dinar Sudan (1992–2007)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sdg"_s),
-			$of(u"B\u1ea3ng Sudan"_s)
+			$of(u"Bảng Sudan"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sdp"_s),
-			$of(u"\u0110\u1ed3ng B\u1ea3ng Sudan (1957\u20131998)"_s)
+			$of(u"Đồng Bảng Sudan (1957–1998)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sek"_s),
-			$of(u"Krona Th\u1ee5y \u0110i\u1ec3n"_s)
+			$of(u"Krona Thụy Điển"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sgd"_s),
-			$of(u"\u0110\u00f4 la Singapore"_s)
+			$of(u"Đô la Singapore"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("shp"_s),
-			$of(u"B\u1ea3ng St. Helena"_s)
+			$of(u"Bảng St. Helena"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sit"_s),
-			$of(u"T\u00f4la Xl\u00f4v\u00eania"_s)
+			$of(u"Tôla Xlôvênia"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("skk"_s),
-			$of(u"Cuaron Xl\u00f4v\u00e1c"_s)
+			$of(u"Cuaron Xlôvác"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sll"_s),
@@ -1478,35 +1478,35 @@ $ObjectArray2* CurrencyNames_vi::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("srd"_s),
-			$of(u"\u0110\u00f4 la Suriname"_s)
+			$of(u"Đô la Suriname"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("srg"_s),
-			$of(u"\u0110\u1ed3ng Guilder Surinam"_s)
+			$of(u"Đồng Guilder Surinam"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ssp"_s),
-			$of(u"B\u1ea3ng Nam Sudan"_s)
+			$of(u"Bảng Nam Sudan"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("std"_s),
-			$of(u"Dobra S\u00e3o Tom\u00e9 v\u00e0 Pr\u00edncipe (1977\u20132017)"_s)
+			$of(u"Dobra São Tomé và Príncipe (1977–2017)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("stn"_s),
-			$of(u"Dobra S\u00e3o Tom\u00e9 v\u00e0 Pr\u00edncipe"_s)
+			$of(u"Dobra São Tomé và Príncipe"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sur"_s),
-			$of(u"\u0110\u1ed3ng R\u00fap S\u00f4 vi\u1ebft"_s)
+			$of(u"Đồng Rúp Sô viết"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("svc"_s),
-			$of(u"Col\u00f3n El Salvador"_s)
+			$of(u"Colón El Salvador"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("syp"_s),
-			$of(u"B\u1ea3ng Syria"_s)
+			$of(u"Bảng Syria"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("szl"_s),
@@ -1514,11 +1514,11 @@ $ObjectArray2* CurrencyNames_vi::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("thb"_s),
-			$of(u"B\u1ea1t Th\u00e1i Lan"_s)
+			$of(u"Bạt Thái Lan"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("tjr"_s),
-			$of(u"\u0110\u1ed3ng R\u00fap Tajikistan"_s)
+			$of(u"Đồng Rúp Tajikistan"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("tjs"_s),
@@ -1526,7 +1526,7 @@ $ObjectArray2* CurrencyNames_vi::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("tmm"_s),
-			$of(u"\u0110\u1ed3ng Manat Turkmenistan (1993\u20132009)"_s)
+			$of(u"Đồng Manat Turkmenistan (1993–2009)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("tmt"_s),
@@ -1538,27 +1538,27 @@ $ObjectArray2* CurrencyNames_vi::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("top"_s),
-			$of(u"Pa\u02bbanga Tonga"_s)
+			$of(u"Paʻanga Tonga"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("tpe"_s),
-			$of(u"\u0110\u1ed3ng Escudo Timor"_s)
+			$of(u"Đồng Escudo Timor"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("trl"_s),
-			$of(u"Lia Th\u1ed5 Nh\u0129 K\u1ef3 (1922\u20132005)"_s)
+			$of(u"Lia Thổ Nhĩ Kỳ (1922–2005)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("try"_s),
-			$of(u"Lia Th\u1ed5 Nh\u0129 K\u1ef3"_s)
+			$of(u"Lia Thổ Nhĩ Kỳ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ttd"_s),
-			$of(u"\u0110\u00f4 la Trinidad v\u00e0 Tobago"_s)
+			$of(u"Đô la Trinidad và Tobago"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("twd"_s),
-			$of(u"\u0110\u00f4 la \u0110\u00e0i Loan m\u1edbi"_s)
+			$of(u"Đô la Đài Loan mới"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("tzs"_s),
@@ -1570,11 +1570,11 @@ $ObjectArray2* CurrencyNames_vi::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("uak"_s),
-			$of(u"\u0110\u1ed3ng Karbovanets Ucraina"_s)
+			$of(u"Đồng Karbovanets Ucraina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ugs"_s),
-			$of(u"\u0110\u1ed3ng Shilling Uganda (1966\u20131987)"_s)
+			$of(u"Đồng Shilling Uganda (1966–1987)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ugx"_s),
@@ -1582,23 +1582,23 @@ $ObjectArray2* CurrencyNames_vi::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("usd"_s),
-			$of(u"\u0110\u00f4 la M\u1ef9"_s)
+			$of(u"Đô la Mỹ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("usn"_s),
-			$of(u"\u0110\u00f4 la M\u1ef9 (Ng\u00e0y ti\u1ebfp theo)"_s)
+			$of(u"Đô la Mỹ (Ngày tiếp theo)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("uss"_s),
-			$of(u"\u0110\u00f4 la M\u1ef9 (C\u00f9ng ng\u00e0y)"_s)
+			$of(u"Đô la Mỹ (Cùng ngày)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("uyi"_s),
-			$of(u"\u0110\u1ed3ng Peso Uruguay (\u0110\u01a1n v\u1ecb Theo ch\u1ec9 s\u1ed1)"_s)
+			$of(u"Đồng Peso Uruguay (Đơn vị Theo chỉ số)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("uyp"_s),
-			$of(u"\u0110\u1ed3ng Peso Uruguay (1975\u20131993)"_s)
+			$of(u"Đồng Peso Uruguay (1975–1993)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("uyu"_s),
@@ -1610,23 +1610,23 @@ $ObjectArray2* CurrencyNames_vi::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("veb"_s),
-			$of(u"\u0110\u1ed3ng bol\u00edvar c\u1ee7a Venezuela (1871\u20132008)"_s)
+			$of(u"Đồng bolívar của Venezuela (1871–2008)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("vef"_s),
-			$of(u"Bol\u00edvar Venezuela (2008\u20132018)"_s)
+			$of(u"Bolívar Venezuela (2008–2018)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ves"_s),
-			$of(u"Bol\u00edvar Venezuela"_s)
+			$of(u"Bolívar Venezuela"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("vnd"_s),
-			$of(u"\u0110\u1ed3ng Vi\u1ec7t Nam"_s)
+			$of(u"Đồng Việt Nam"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("vnn"_s),
-			$of(u"\u0110\u1ed3ng Vi\u1ec7t Nam (1978\u20131985)"_s)
+			$of(u"Đồng Việt Nam (1978–1985)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("vuv"_s),
@@ -1642,51 +1642,51 @@ $ObjectArray2* CurrencyNames_vi::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("xag"_s),
-			$of(u"B\u1ea1c"_s)
+			$of(u"Bạc"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xau"_s),
-			$of(u"V\u00e0ng"_s)
+			$of(u"Vàng"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xba"_s),
-			$of(u"\u0110\u01a1n v\u1ecb T\u1ed5ng h\u1ee3p Ch\u00e2u \u00c2u"_s)
+			$of(u"Đơn vị Tổng hợp Châu Âu"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xbb"_s),
-			$of(u"\u0110\u01a1n v\u1ecb Ti\u1ec1n t\u1ec7 Ch\u00e2u \u00c2u"_s)
+			$of(u"Đơn vị Tiền tệ Châu Âu"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xbc"_s),
-			$of(u"\u0110\u01a1n v\u1ecb K\u1ebf to\u00e1n Ch\u00e2u \u00c2u (XBC)"_s)
+			$of(u"Đơn vị Kế toán Châu Âu (XBC)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xbd"_s),
-			$of(u"\u0110\u01a1n v\u1ecb K\u1ebf to\u00e1n Ch\u00e2u \u00c2u (XBD)"_s)
+			$of(u"Đơn vị Kế toán Châu Âu (XBD)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xcd"_s),
-			$of(u"\u0110\u00f4 la \u0110\u00f4ng Carib\u00ea"_s)
+			$of(u"Đô la Đông Caribê"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xdr"_s),
-			$of(u"Quy\u1ec1n R\u00fat v\u1ed1n \u0110\u1eb7c bi\u1ec7t"_s)
+			$of(u"Quyền Rút vốn Đặc biệt"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xeu"_s),
-			$of(u"\u0110\u01a1n v\u1ecb Ti\u1ec1n Ch\u00e2u \u00c2u"_s)
+			$of(u"Đơn vị Tiền Châu Âu"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xfo"_s),
-			$of(u"\u0110\u1ed3ng France Ph\u00e1p V\u00e0ng"_s)
+			$of(u"Đồng France Pháp Vàng"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xfu"_s),
-			$of(u"\u0110\u1ed3ng UIC-Franc Ph\u00e1p"_s)
+			$of(u"Đồng UIC-Franc Pháp"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xof"_s),
-			$of(u"Franc CFA T\u00e2y Phi"_s)
+			$of(u"Franc CFA Tây Phi"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xpd"_s),
@@ -1698,23 +1698,23 @@ $ObjectArray2* CurrencyNames_vi::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("xpt"_s),
-			$of(u"B\u1ea1ch kim"_s)
+			$of(u"Bạch kim"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xre"_s),
-			$of(u"Qu\u1ef9 RINET"_s)
+			$of(u"Quỹ RINET"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xts"_s),
-			$of(u"M\u00e3 Ti\u1ec1n t\u1ec7 Ki\u1ec3m tra"_s)
+			$of(u"Mã Tiền tệ Kiểm tra"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xxx"_s),
-			$of(u"Ti\u1ec1n t\u1ec7 ch\u01b0a bi\u1ebft"_s)
+			$of(u"Tiền tệ chưa biết"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ydd"_s),
-			$of(u"\u0110\u1ed3ng Dinar Yemen"_s)
+			$of(u"Đồng Dinar Yemen"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("yer"_s),
@@ -1722,23 +1722,23 @@ $ObjectArray2* CurrencyNames_vi::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("yud"_s),
-			$of(u"\u0110\u1ed3ng Dinar Nam T\u01b0 Xu (1966\u20131990)"_s)
+			$of(u"Đồng Dinar Nam Tư Xu (1966–1990)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("yum"_s),
-			$of(u"\u0110\u1ed3ng Dinar Nam T\u01b0 M\u1edbi (1994\u20132002)"_s)
+			$of(u"Đồng Dinar Nam Tư Mới (1994–2002)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("yun"_s),
-			$of(u"\u0110\u1ed3ng Dinar Nam T\u01b0 C\u00f3 th\u1ec3 chuy\u1ec3n \u0111\u1ed5i (1990\u20131992)"_s)
+			$of(u"Đồng Dinar Nam Tư Có thể chuyển đổi (1990–1992)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("yur"_s),
-			$of(u"\u0110\u1ed3ng Dinar Nam T\u01b0 T\u00e1i c\u01a1 c\u1ea5u (1992\u20131993)"_s)
+			$of(u"Đồng Dinar Nam Tư Tái cơ cấu (1992–1993)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("zal"_s),
-			$of(u"\u0110\u1ed3ng Rand Nam Phi (t\u00e0i ch\u00ednh)"_s)
+			$of(u"Đồng Rand Nam Phi (tài chính)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("zar"_s),
@@ -1746,7 +1746,7 @@ $ObjectArray2* CurrencyNames_vi::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("zmk"_s),
-			$of(u"\u0110\u1ed3ng kwacha c\u1ee7a Zambia (1968\u20132012)"_s)
+			$of(u"Đồng kwacha của Zambia (1968–2012)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("zmw"_s),
@@ -1754,23 +1754,23 @@ $ObjectArray2* CurrencyNames_vi::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("zrn"_s),
-			$of(u"\u0110\u1ed3ng Zaire M\u1edbi (1993\u20131998)"_s)
+			$of(u"Đồng Zaire Mới (1993–1998)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("zrz"_s),
-			$of(u"\u0110\u1ed3ng Zaire (1971\u20131993)"_s)
+			$of(u"Đồng Zaire (1971–1993)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("zwd"_s),
-			$of(u"\u0110\u1ed3ng \u0110\u00f4 la Zimbabwe (1980\u20132008)"_s)
+			$of(u"Đồng Đô la Zimbabwe (1980–2008)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("zwl"_s),
-			$of(u"\u0110\u1ed3ng \u0110\u00f4 la Zimbabwe (2009)"_s)
+			$of(u"Đồng Đô la Zimbabwe (2009)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("zwr"_s),
-			$of(u"\u0110\u1ed3ng \u0110\u00f4 la Zimbabwe (2008)"_s)
+			$of(u"Đồng Đô la Zimbabwe (2008)"_s)
 		})
 	}));
 	return data;

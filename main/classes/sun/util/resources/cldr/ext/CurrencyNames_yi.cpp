@@ -46,59 +46,59 @@ $ObjectArray2* CurrencyNames_yi::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("brl"_s),
-			$of(u"\u05d1\u05e8\u05d0\u05d6\u05d9\u05dc \u05e8\u05e2\u05d0\u05dc"_s)
+			$of(u"בראזיל רעאל"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bzd"_s),
-			$of(u"\u05d1\u05e2\u05dc\u05d9\u05d6 \u05d3\u05d0\u05dc\u05d0\u05b7\u05e8"_s)
+			$of(u"בעליז דאלאַר"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("chf"_s),
-			$of(u"\u05e9\u05d5\u05d5\u05d9\u05d9\u05e6\u05e2\u05e8 \u05e4\u05bf\u05e8\u05d0\u05b7\u05e0\u05e7"_s)
+			$of(u"שווייצער פֿראַנק"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cny"_s),
-			$of(u"\u05db\u05d9\u05e0\u05e2\u05d6\u05d9\u05e9\u05e2\u05e8 \u05d9\u05d5\u05d0\u05df"_s)
+			$of(u"כינעזישער יואן"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("eur"_s),
-			$of(u"\u05d0\u05d9\u05d9\u05e8\u05d0"_s)
+			$of(u"איירא"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gbp"_s),
-			$of(u"\u05e4\u05bf\u05d5\u05e0\u05d8 \u05e9\u05d8\u05e2\u05e8\u05dc\u05d9\u05e0\u05d2"_s)
+			$of(u"פֿונט שטערלינג"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("inr"_s),
-			$of(u"\u05d0\u05d9\u05e0\u05d3\u05d9\u05e9\u05e2\u05e8 \u05e8\u05d5\u05e4\u05d9"_s)
+			$of(u"אינדישער רופי"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("jpy"_s),
-			$of(u"\u05d9\u05d0\u05e4\u05d0\u05e0\u05e2\u05d6\u05d9\u05e9\u05e2\u05e8 \u05d9\u05e2\u05df"_s)
+			$of(u"יאפאנעזישער יען"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("rub"_s),
-			$of(u"\u05e8\u05d5\u05e1\u05d9\u05e9\u05e2\u05e8 \u05e8\u05d5\u05d1\u05dc"_s)
+			$of(u"רוסישער רובל"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sek"_s),
-			$of(u"\u05e9\u05d5\u05d5\u05e2\u05d3\u05d9\u05e9\u05e2 \u05e7\u05e8\u05d0\u05e0\u05e2"_s)
+			$of(u"שוועדישע קראנע"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("usd"_s),
-			$of(u"\u05d0\u05de\u05e2\u05e8\u05d9\u05e7\u05d0\u05e0\u05e2\u05e8 \u05d3\u05d0\u05dc\u05d0\u05e8"_s)
+			$of(u"אמעריקאנער דאלאר"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xag"_s),
-			$of(u"\u05d6\u05d9\u05dc\u05d1\u05e2\u05e8"_s)
+			$of(u"זילבער"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xau"_s),
-			$of(u"\u05d2\u05d0\u05dc\u05d3"_s)
+			$of(u"גאלד"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xxx"_s),
-			$of(u"\u05d0\u05d5\u05de\u05d1\u05d0\u05b7\u05d5\u05d5\u05d0\u05d5\u05e1\u05d8\u05e2 \u05d5\u05d5\u05d0\u05b7\u05dc\u05d5\u05d8\u05e2"_s)
+			$of(u"אומבאַוואוסטע וואַלוטע"_s)
 		})
 	}));
 	return data;

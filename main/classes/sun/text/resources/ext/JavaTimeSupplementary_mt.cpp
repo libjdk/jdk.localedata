@@ -48,44 +48,44 @@ $ObjectArray2* JavaTimeSupplementary_mt::getContents() {
 		"1el kwart"_s,
 		"2ni kwart"_s,
 		"3et kwart"_s,
-		u"4ba\u2019 kwart"_s
+		u"4ba’ kwart"_s
 	}));
 	$var($StringArray, sharedDatePatterns, $new($StringArray, {
-		u"EEEE, d \'ta\'\u2019 MMMM y GGGG"_s,
-		u"d \'ta\'\u2019 MMMM y GGGG"_s,
+		u"EEEE, d \'ta\'’ MMMM y GGGG"_s,
+		u"d \'ta\'’ MMMM y GGGG"_s,
 		"dd MMM y GGGG"_s,
 		"dd/MM/y G"_s
 	}));
 	$var($StringArray, sharedDayAbbreviations, $new($StringArray, {
-		u"\u0126ad"_s,
+		u"Ħad"_s,
 		"Tne"_s,
 		"Tli"_s,
 		"Erb"_s,
-		u"\u0126am"_s,
-		u"\u0120im"_s,
+		u"Ħam"_s,
+		u"Ġim"_s,
 		"Sib"_s
 	}));
 	$var($StringArray, sharedDayNames, $new($StringArray, {
-		u"Il-\u0126add"_s,
+		u"Il-Ħadd"_s,
 		"It-Tnejn"_s,
 		"It-Tlieta"_s,
-		u"L-Erbg\u0127a"_s,
-		u"Il-\u0126amis"_s,
-		u"Il-\u0120img\u0127a"_s,
+		u"L-Erbgħa"_s,
+		u"Il-Ħamis"_s,
+		u"Il-Ġimgħa"_s,
 		"Is-Sibt"_s
 	}));
 	$var($StringArray, sharedDayNarrows, $new($StringArray, {
-		u"\u0126"_s,
+		u"Ħ"_s,
 		"T"_s,
 		"T"_s,
 		"E"_s,
-		u"\u0126"_s,
-		u"\u0120"_s,
+		u"Ħ"_s,
+		u"Ġ"_s,
 		"S"_s
 	}));
 	$var($StringArray, sharedJavaTimeDatePatterns, $new($StringArray, {
-		u"EEEE, d \'ta\'\u2019 MMMM y G"_s,
-		u"d \'ta\'\u2019 MMMM y G"_s,
+		u"EEEE, d \'ta\'’ MMMM y G"_s,
+		u"d \'ta\'’ MMMM y G"_s,
 		"dd MMM y G"_s,
 		"dd/MM/y GGGGG"_s
 	}));
@@ -112,15 +112,15 @@ $ObjectArray2* JavaTimeSupplementary_mt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.islamic"_s),
-			$of(u"Kalendarju I\u017clamiku"_s)
+			$of(u"Kalendarju Iżlamiku"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.islamic-civil"_s),
-			$of(u"Kalendarju Islamiku-\u010aivili"_s)
+			$of(u"Kalendarju Islamiku-Ċivili"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.japanese"_s),
-			$of(u"Kalendarju \u0120appuni\u017c"_s)
+			$of(u"Kalendarju Ġappuniż"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("field.era"_s),
@@ -128,7 +128,7 @@ $ObjectArray2* JavaTimeSupplementary_mt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.hour"_s),
-			$of(u"Sieg\u0127a"_s)
+			$of(u"Siegħa"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("field.minute"_s),
@@ -144,11 +144,11 @@ $ObjectArray2* JavaTimeSupplementary_mt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.week"_s),
-			$of(u"\u0120img\u0127a"_s)
+			$of(u"Ġimgħa"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("field.weekday"_s),
-			$of(u"Jum tal-\u0120img\u0127a"_s)
+			$of(u"Jum tal-Ġimgħa"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("field.year"_s),
@@ -156,7 +156,7 @@ $ObjectArray2* JavaTimeSupplementary_mt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.zone"_s),
-			$of(u"\u017bona"_s)
+			$of(u"Żona"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("islamic.AmPmMarkers"_s),
@@ -243,13 +243,13 @@ $ObjectArray2* JavaTimeSupplementary_mt::getContents() {
 				"Mar"_s,
 				"Apr"_s,
 				"Mej"_s,
-				u"\u0120un"_s,
+				u"Ġun"_s,
 				"Lul"_s,
 				"Aww"_s,
 				"Set"_s,
 				"Ott"_s,
 				"Nov"_s,
-				u"Di\u010b"_s,
+				u"Diċ"_s,
 				""_s
 			}))
 		}),
@@ -261,13 +261,13 @@ $ObjectArray2* JavaTimeSupplementary_mt::getContents() {
 				"Marzu"_s,
 				"April"_s,
 				"Mejju"_s,
-				u"\u0120unju"_s,
+				u"Ġunju"_s,
 				"Lulju"_s,
 				"Awwissu"_s,
 				"Settembru"_s,
 				"Ottubru"_s,
 				"Novembru"_s,
-				u"Di\u010bembru"_s,
+				u"Diċembru"_s,
 				""_s
 			}))
 		}),
@@ -279,7 +279,7 @@ $ObjectArray2* JavaTimeSupplementary_mt::getContents() {
 				"M"_s,
 				"A"_s,
 				"M"_s,
-				u"\u0120"_s,
+				u"Ġ"_s,
 				"L"_s,
 				"A"_s,
 				"S"_s,

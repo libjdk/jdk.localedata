@@ -62,7 +62,7 @@ $ObjectArray2* CurrencyNames_fur::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("bif"_s),
-			$of(u"Franc burund\u00eas"_s)
+			$of(u"Franc burundês"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bnd"_s),
@@ -74,15 +74,15 @@ $ObjectArray2* CurrencyNames_fur::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("byn"_s),
-			$of(u"Rubli bielor\u00f9s"_s)
+			$of(u"Rubli bielorùs"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("byr"_s),
-			$of(u"Rubli bielor\u00f9s (2000\u20132016)"_s)
+			$of(u"Rubli bielorùs (2000–2016)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cad"_s),
-			$of(u"dolar canad\u00eas"_s)
+			$of(u"dolar canadês"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("chf"_s),
@@ -90,7 +90,7 @@ $ObjectArray2* CurrencyNames_fur::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("cny"_s),
-			$of(u"yuan cin\u00eas"_s)
+			$of(u"yuan cinês"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("csd"_s),
@@ -122,7 +122,7 @@ $ObjectArray2* CurrencyNames_fur::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("frf"_s),
-			$of(u"Franc franc\u00eas"_s)
+			$of(u"Franc francês"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gbp"_s),
@@ -158,7 +158,7 @@ $ObjectArray2* CurrencyNames_fur::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("jpy"_s),
-			$of(u"yen gjapon\u00eas"_s)
+			$of(u"yen gjaponês"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("krw"_s),
@@ -178,7 +178,7 @@ $ObjectArray2* CurrencyNames_fur::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("nio"_s),
-			$of(u"C\u00f3rdoba oro nicaraguan"_s)
+			$of(u"Córdoba oro nicaraguan"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("nok"_s),
@@ -186,7 +186,7 @@ $ObjectArray2* CurrencyNames_fur::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("nzd"_s),
-			$of(u"Dollar neozeland\u00eas"_s)
+			$of(u"Dollar neozelandês"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pkr"_s),
@@ -222,7 +222,7 @@ $ObjectArray2* CurrencyNames_fur::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("thb"_s),
-			$of(u"baht tailand\u00eas"_s)
+			$of(u"baht tailandês"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("trl"_s),
@@ -234,7 +234,7 @@ $ObjectArray2* CurrencyNames_fur::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("twd"_s),
-			$of(u"gn\u00fbf dolar taiwan\u00eas"_s)
+			$of(u"gnûf dolar taiwanês"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("usd"_s),
@@ -258,31 +258,31 @@ $ObjectArray2* CurrencyNames_fur::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("xba"_s),
-			$of(u"Unit\u00e2t composite europeane"_s)
+			$of(u"Unitât composite europeane"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xbb"_s),
-			$of(u"Unit\u00e2t monetarie europeane"_s)
+			$of(u"Unitât monetarie europeane"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xbc"_s),
-			$of(u"Unit\u00e2t di acont europeane (XBC)"_s)
+			$of(u"Unitât di acont europeane (XBC)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xbd"_s),
-			$of(u"Unit\u00e2t di acont europeane (XBD)"_s)
+			$of(u"Unitât di acont europeane (XBD)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xdr"_s),
-			$of(u"Dirits speci\u00e2i di incas"_s)
+			$of(u"Dirits speciâi di incas"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xfo"_s),
-			$of(u"Franc aur franc\u00eas"_s)
+			$of(u"Franc aur francês"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xfu"_s),
-			$of(u"Franc UIC franc\u00eas"_s)
+			$of(u"Franc UIC francês"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xpd"_s),
@@ -298,7 +298,7 @@ $ObjectArray2* CurrencyNames_fur::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("xts"_s),
-			$of(u"codi\u00e7 di verifiche de monede"_s)
+			$of(u"codiç di verifiche de monede"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xxx"_s),

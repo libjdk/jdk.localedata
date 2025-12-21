@@ -39,7 +39,7 @@ void CurrencyNames_cs_CZ::init$() {
 $ObjectArray2* CurrencyNames_cs_CZ::getContents() {
 	return $new($ObjectArray2, {$$new($ObjectArray, {
 		$of("CZK"_s),
-		$of(u"K\u010d"_s)
+		$of(u"Kč"_s)
 	})});
 }
 

@@ -40,15 +40,15 @@ $ObjectArray2* JavaTimeSupplementary_es_MX::getContents() {
 	$useLocalCurrentObjectStackCache();
 	$var($StringArray, sharedQuarterAbbreviations, $new($StringArray, {
 		"1er. trim."_s,
-		u"2\u00ba. trim."_s,
+		u"2º. trim."_s,
 		"3er. trim."_s,
-		u"4\u00ba trim."_s
+		u"4º trim."_s
 	}));
 	$var($StringArray, sharedQuarterNames, $new($StringArray, {
 		"1er. trimestre"_s,
-		u"2\u00ba. trimestre"_s,
+		u"2º. trimestre"_s,
 		"3er. trimestre"_s,
-		u"4\u00ba trimestre"_s
+		u"4º trimestre"_s
 	}));
 	$var($StringArray, sharedQuarterNarrows, $new($StringArray, {
 		"1T"_s,

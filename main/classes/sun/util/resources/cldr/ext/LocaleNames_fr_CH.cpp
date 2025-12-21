@@ -50,7 +50,7 @@ $ObjectArray2* LocaleNames_fr_CH::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("sdh"_s),
-			$of(u"kurde m\u00e9ridional"_s)
+			$of(u"kurde méridional"_s)
 		})
 	}));
 	return data;

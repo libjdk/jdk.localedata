@@ -41,7 +41,7 @@ $ObjectArray2* LocaleNames_ko_KP::getContents() {
 	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {$$new($ObjectArray, {
 		$of("KP"_s),
-		$of(u"\uc870\uc120\ubbfc\uc8fc\uc8fc\uc758\uc778\ubbfc\uacf5\ud654\uad6d"_s)
+		$of(u"조선민주주의인민공화국"_s)
 	})}));
 	return data;
 }

@@ -39,24 +39,24 @@ void LocaleNames_ig::init$() {
 
 $ObjectArray2* LocaleNames_ig::getContents() {
 	$useLocalCurrentObjectStackCache();
-	$var($String, metaValue_DE, u"Jaman\u1ecb"_s);
+	$var($String, metaValue_DE, u"Jamanị"_s);
 	$var($String, metaValue_RO, "Romania"_s);
-	$var($String, metaValue_lo, u"La\u1ecd"_s);
-	$var($String, metaValue_or, u"\u1eccd\u1ecba"_s);
+	$var($String, metaValue_lo, u"Laọ"_s);
+	$var($String, metaValue_or, u"Ọdịa"_s);
 	$var($String, metaValue_si, "Sinhala"_s);
-	$var($String, metaValue_te, u"Tel\u1ee5g\u1ee5"_s);
+	$var($String, metaValue_te, u"Telụgụ"_s);
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("sbp"_s),
-			$of(u"Sang\u1ee5"_s)
+			$of(u"Sangụ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ksh"_s),
-			$of(u"Cologn\u1ecban"_s)
+			$of(u"Colognịan"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("nyn"_s),
-			$of(u"Nyak\u1ecdle"_s)
+			$of(u"Nyakọle"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Zsym"_s),
@@ -64,7 +64,7 @@ $ObjectArray2* LocaleNames_ig::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("fil"_s),
-			$of(u"F\u1ecbl\u1ecbp\u1ecbn\u1ecd"_s)
+			$of(u"Fịlịpịnọ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("hmn"_s),
@@ -72,7 +72,7 @@ $ObjectArray2* LocaleNames_ig::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("Zsye"_s),
-			$of(u"Emoj\u1ecb"_s)
+			$of(u"Emojị"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ccp"_s),
@@ -80,15 +80,15 @@ $ObjectArray2* LocaleNames_ig::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("luy"_s),
-			$of(u"L\u1ee5y\u1ecba"_s)
+			$of(u"Lụyịa"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("es_ES"_s),
-			$of(u"Spanishi nd\u1ecb Europe"_s)
+			$of(u"Spanishi ndị Europe"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("teo"_s),
-			$of(u"Tes\u1ecd"_s)
+			$of(u"Tesọ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("AC"_s),
@@ -116,7 +116,7 @@ $ObjectArray2* LocaleNames_ig::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("type.ca.ethiopic"_s),
-			$of(u"Kal\u1ecbnda Etop\u1ecba"_s)
+			$of(u"Kalịnda Etopịa"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("AI"_s),
@@ -136,11 +136,11 @@ $ObjectArray2* LocaleNames_ig::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("am"_s),
-			$of(u"Amariik\u1ecb"_s)
+			$of(u"Amariikị"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Arab"_s),
-			$of(u"Mkp\u1ee5r\u1ee5 Okwu Arabic"_s)
+			$of(u"Mkpụrụ Okwu Arabic"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("AO"_s),
@@ -160,11 +160,11 @@ $ObjectArray2* LocaleNames_ig::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ar"_s),
-			$of(u"Arabiik\u1ecb"_s)
+			$of(u"Arabiikị"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Hrkt"_s),
-			$of(u"mkp\u1ee5r\u1ee5 \u1ecdkw\u1ee5 Japan\u1ecbs\u1ecb"_s)
+			$of(u"mkpụrụ ọkwụ Japanịsị"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("AS"_s),
@@ -184,7 +184,7 @@ $ObjectArray2* LocaleNames_ig::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("en_US"_s),
-			$of(u"Bekee nd\u1ecb America"_s)
+			$of(u"Bekee ndị America"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("AX"_s),
@@ -196,7 +196,7 @@ $ObjectArray2* LocaleNames_ig::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("az"_s),
-			$of(u"Azerbajan\u1ecb"_s)
+			$of(u"Azerbajanị"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("BA"_s),
@@ -208,7 +208,7 @@ $ObjectArray2* LocaleNames_ig::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ceb"_s),
-			$of(u"Ceb\u1ee5an\u1ecd"_s)
+			$of(u"Cebụanọ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("BD"_s),
@@ -220,7 +220,7 @@ $ObjectArray2* LocaleNames_ig::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("be"_s),
-			$of(u"Belarusian\u1ee5"_s)
+			$of(u"Belarusianụ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("BF"_s),
@@ -232,7 +232,7 @@ $ObjectArray2* LocaleNames_ig::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("bg"_s),
-			$of(u"B\u1ecdl\u1ee5gar\u1ecba"_s)
+			$of(u"Bọlụgarịa"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("BH"_s),
@@ -248,7 +248,7 @@ $ObjectArray2* LocaleNames_ig::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("BL"_s),
-			$of(u"Barth\u00e9lemy D\u1ecb ns\u1ecd"_s)
+			$of(u"Barthélemy Dị nsọ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("BM"_s),
@@ -296,7 +296,7 @@ $ObjectArray2* LocaleNames_ig::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("xog"_s),
-			$of(u"S\u1ecdga"_s)
+			$of(u"Sọga"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("BT"_s),
@@ -316,7 +316,7 @@ $ObjectArray2* LocaleNames_ig::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.laoo"_s),
-			$of(u"\u1eccn\u1ee5 \u1ecdg\u1ee5g\u1ee5 La\u1ecd"_s)
+			$of(u"Ọnụ ọgụgụ Laọ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("BY"_s),
@@ -332,11 +332,11 @@ $ObjectArray2* LocaleNames_ig::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("type.ca.persian"_s),
-			$of(u"Kal\u1ecbnda Persian"_s)
+			$of(u"Kalịnda Persian"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.hebr"_s),
-			$of(u"\u1eccn\u1ee5 \u1ecdg\u1ee5g\u1ee5 Hebrew"_s)
+			$of(u"Ọnụ ọgụgụ Hebrew"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("CA"_s),
@@ -352,11 +352,11 @@ $ObjectArray2* LocaleNames_ig::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("mzn"_s),
-			$of(u"Mazandaran\u1ecb"_s)
+			$of(u"Mazandaranị"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ses"_s),
-			$of(u"K\u1ecdyraboro Sen\u1ecb"_s)
+			$of(u"Kọyraboro Senị"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("CD"_s),
@@ -380,7 +380,7 @@ $ObjectArray2* LocaleNames_ig::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("CI"_s),
-			$of(u"C\u00f4te d\u2019Ivoire"_s)
+			$of(u"Côte d’Ivoire"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("CK"_s),
@@ -404,7 +404,7 @@ $ObjectArray2* LocaleNames_ig::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("co"_s),
-			$of(u"K\u1ecds\u1ecban"_s)
+			$of(u"Kọsịan"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("CP"_s),
@@ -420,7 +420,7 @@ $ObjectArray2* LocaleNames_ig::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("cs"_s),
-			$of(u"Cheek\u1ecb"_s)
+			$of(u"Cheekị"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("CU"_s),
@@ -456,15 +456,15 @@ $ObjectArray2* LocaleNames_ig::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.ethi"_s),
-			$of(u"\u1eccn\u1ee5 \u1ecdg\u1ee5g\u1ee5 Et\u1ecdp\u1ecba"_s)
+			$of(u"Ọnụ ọgụgụ Etọpịa"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("da"_s),
-			$of(u"Dan\u1ecbsh"_s)
+			$of(u"Danịsh"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pt_PT"_s),
-			$of(u"As\u1ee5s\u1ee5 Portuguese nd\u1ecb Europe"_s)
+			$of(u"Asụsụ Portuguese ndị Europe"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("de"_s),
@@ -480,11 +480,11 @@ $ObjectArray2* LocaleNames_ig::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("type.cf.standard"_s),
-			$of(u"\u1ee4s\u1ecdr\u1ecd eg\u1ecd nz\u1ee5gbe"_s)
+			$of(u"Ụsọrọ egọ nzụgbe"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.deva"_s),
-			$of(u"\u1eccn\u1ee5 \u1ecdg\u1ee5g\u1ee5 Devanagar\u1ecb"_s)
+			$of(u"Ọnụ ọgụgụ Devanagarị"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("DJ"_s),
@@ -496,7 +496,7 @@ $ObjectArray2* LocaleNames_ig::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("Brai"_s),
-			$of(u"Bra\u1ecblle"_s)
+			$of(u"Braịlle"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("DM"_s),
@@ -504,7 +504,7 @@ $ObjectArray2* LocaleNames_ig::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.armnlow"_s),
-			$of(u"\u1ecdbere \u1ecdn\u1ee5 \u1ecdg\u1ee5g\u1ee5 Armen\u1ecban"_s)
+			$of(u"ọbere ọnụ ọgụgụ Armenịan"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("DO"_s),
@@ -512,7 +512,7 @@ $ObjectArray2* LocaleNames_ig::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("es_419"_s),
-			$of(u"Spanishi nd\u1ecb Latin America"_s)
+			$of(u"Spanishi ndị Latin America"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("DZ"_s),
@@ -520,7 +520,7 @@ $ObjectArray2* LocaleNames_ig::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("dz"_s),
-			$of(u"D\u1ecdzng\u1ecdka"_s)
+			$of(u"Dọzngọka"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bez"_s),
@@ -528,7 +528,7 @@ $ObjectArray2* LocaleNames_ig::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("type.ca.chinese"_s),
-			$of(u"Kal\u1ecbnda Chinese"_s)
+			$of(u"Kalịnda Chinese"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("EA"_s),
@@ -544,7 +544,7 @@ $ObjectArray2* LocaleNames_ig::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.grek"_s),
-			$of(u"\u1eccn\u1ee5 \u1ecdg\u1ee5g\u1ee5 Greek"_s)
+			$of(u"Ọnụ ọgụgụ Greek"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("EE"_s),
@@ -556,7 +556,7 @@ $ObjectArray2* LocaleNames_ig::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("type.lb.normal"_s),
-			$of(u"Akara akanka nkw\u1ee5s\u1ecb kwes\u1ecbr\u1ecb"_s)
+			$of(u"Akara akanka nkwụsị kwesịrị"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("EG"_s),
@@ -564,11 +564,11 @@ $ObjectArray2* LocaleNames_ig::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("EH"_s),
-			$of(u"\u1eccd\u1ecbda Anyanw\u1ee5 Sahara"_s)
+			$of(u"Ọdịda Anyanwụ Sahara"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("el"_s),
-			$of(u"Giriik\u1ecb"_s)
+			$of(u"Giriikị"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("en"_s),
@@ -576,7 +576,7 @@ $ObjectArray2* LocaleNames_ig::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("eo"_s),
-			$of(u"Nd\u1ecb Esperant\u1ecd"_s)
+			$of(u"Ndị Esperantọ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("chr"_s),
@@ -600,7 +600,7 @@ $ObjectArray2* LocaleNames_ig::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("et"_s),
-			$of(u"Nd\u1ecb Est\u1ecdn\u1ecba"_s)
+			$of(u"Ndị Estọnịa"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Hanb"_s),
@@ -608,7 +608,7 @@ $ObjectArray2* LocaleNames_ig::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("EU"_s),
-			$of(u"Otu nzuk\u1ecd mba Europe"_s)
+			$of(u"Otu nzukọ mba Europe"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("eu"_s),
@@ -616,7 +616,7 @@ $ObjectArray2* LocaleNames_ig::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("Hang"_s),
-			$of(u"Mkp\u1ee5r\u1ee5 \u1ecdkw\u1ee5 Hang\u1ee5l"_s)
+			$of(u"Mkpụrụ ọkwụ Hangụl"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.ca.gregorian"_s),
@@ -628,31 +628,31 @@ $ObjectArray2* LocaleNames_ig::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("shi"_s),
-			$of(u"Tach\u1ecbk\u1ecbt"_s)
+			$of(u"Tachịkịt"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.gujr"_s),
-			$of(u"\u1eccn\u1ee5 \u1ecdg\u1ee5g\u1ee5 G\u1ee5jarat\u1ecb"_s)
+			$of(u"Ọnụ ọgụgụ Gụjaratị"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("hsb"_s),
-			$of(u"\u1ee4pa S\u1ecdrb\u1ecba"_s)
+			$of(u"Ụpa Sọrbịa"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Hani"_s),
-			$of(u"Mkp\u1ee5r\u1ee5 \u1ecdkw\u1ee5 Han"_s)
+			$of(u"Mkpụrụ ọkwụ Han"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("fa"_s),
-			$of(u"Peshian\u1ee5"_s)
+			$of(u"Peshianụ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Hans"_s),
-			$of(u"Nke d\u1ecb mfe"_s)
+			$of(u"Nke dị mfe"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.latn"_s),
-			$of(u"\u1eccn\u1ee5 \u1eccg\u1ee5g\u1ee5 Mpaghara \u1eccd\u1ecbda Anyanw\u1ee5"_s)
+			$of(u"Ọnụ Ọgụgụ Mpaghara Ọdịda Anyanwụ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Hant"_s),
@@ -668,7 +668,7 @@ $ObjectArray2* LocaleNames_ig::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("fi"_s),
-			$of(u"F\u1ecbn\u1ecbsh"_s)
+			$of(u"Fịnịsh"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("FJ"_s),
@@ -684,7 +684,7 @@ $ObjectArray2* LocaleNames_ig::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("yue"_s),
-			$of(u"Kat\u1ecdn\u1ecbse"_s)
+			$of(u"Katọnịse"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("FO"_s),
@@ -692,11 +692,11 @@ $ObjectArray2* LocaleNames_ig::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("fo"_s),
-			$of(u"Far\u1ecdse"_s)
+			$of(u"Farọse"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Taml"_s),
-			$of(u"Tam\u1ecbl"_s)
+			$of(u"Tamịl"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("FR"_s),
@@ -704,11 +704,11 @@ $ObjectArray2* LocaleNames_ig::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("fr"_s),
-			$of(u"F\u1ee5rench\u1ecb"_s)
+			$of(u"Fụrenchị"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("fy"_s),
-			$of(u"Westan Fr\u1ecbs\u1ecban"_s)
+			$of(u"Westan Frịsịan"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("GA"_s),
@@ -716,7 +716,7 @@ $ObjectArray2* LocaleNames_ig::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ga"_s),
-			$of(u"\u1ecar\u1ecbsh"_s)
+			$of(u"Ịrịsh"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("GB"_s),
@@ -724,7 +724,7 @@ $ObjectArray2* LocaleNames_ig::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("pcm"_s),
-			$of(u"Pidg\u1ecbn"_s)
+			$of(u"Pidgịn"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("GD"_s),
@@ -732,7 +732,7 @@ $ObjectArray2* LocaleNames_ig::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("gd"_s),
-			$of(u"S\u1ee5k\u1ecdt\u1ecbs Gel\u1ecb"_s)
+			$of(u"Sụkọtịs Gelị"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("GE"_s),
@@ -760,7 +760,7 @@ $ObjectArray2* LocaleNames_ig::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("gl"_s),
-			$of(u"Gal\u1ecbc\u1ecban"_s)
+			$of(u"Galịcịan"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("GM"_s),
@@ -780,7 +780,7 @@ $ObjectArray2* LocaleNames_ig::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("und"_s),
-			$of(u"As\u1ee5s\u1ee5 amagh\u1ecb"_s)
+			$of(u"Asụsụ amaghị"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("GR"_s),
@@ -800,11 +800,11 @@ $ObjectArray2* LocaleNames_ig::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("gu"_s),
-			$of(u"G\u1ee5arat\u1ecb"_s)
+			$of(u"Gụaratị"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gv"_s),
-			$of(u"Mans\u1ecb"_s)
+			$of(u"Mansị"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("GW"_s),
@@ -820,7 +820,7 @@ $ObjectArray2* LocaleNames_ig::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("zxx"_s),
-			$of(u"Nd\u1ecb \u1ecdz\u1ecd ab\u1ee5gh\u1ecb as\u1ee5s\u1ee5"_s)
+			$of(u"Ndị ọzọ abụghị asụsụ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("he"_s),
@@ -828,11 +828,11 @@ $ObjectArray2* LocaleNames_ig::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("hi"_s),
-			$of(u"Hind\u1ecb"_s)
+			$of(u"Hindị"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("de_AT"_s),
-			$of(u"Jaman nd\u1ecb Austria"_s)
+			$of(u"Jaman ndị Austria"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("HK"_s),
@@ -852,7 +852,7 @@ $ObjectArray2* LocaleNames_ig::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("hr"_s),
-			$of(u"K\u1ecdr\u1ecdt\u1ecban"_s)
+			$of(u"Kọrọtịan"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("agq"_s),
@@ -868,7 +868,7 @@ $ObjectArray2* LocaleNames_ig::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ht"_s),
-			$of(u"Ha\u1ecbt\u1ecban nd\u1ecb Cer\u1ecdle"_s)
+			$of(u"Haịtịan ndị Cerọle"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("HU"_s),
@@ -876,19 +876,19 @@ $ObjectArray2* LocaleNames_ig::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("hu"_s),
-			$of(u"H\u1ee5ngarian"_s)
+			$of(u"Hụngarian"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ia"_s),
-			$of(u"Intal\u1ecbg\u1ee5a"_s)
+			$of(u"Intalịgụa"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("IC"_s),
-			$of(u"Agwaetiti Kanar\u1ecb"_s)
+			$of(u"Agwaetiti Kanarị"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Jamo"_s),
-			$of(u"Jam\u1ecd"_s)
+			$of(u"Jamọ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ID"_s),
@@ -900,7 +900,7 @@ $ObjectArray2* LocaleNames_ig::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.tibt"_s),
-			$of(u"\u1eccn\u1ee5 \u1ecdg\u1ee5g\u1ee5 T\u1ecbbeta"_s)
+			$of(u"Ọnụ ọgụgụ Tịbeta"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("IE"_s),
@@ -916,7 +916,7 @@ $ObjectArray2* LocaleNames_ig::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ii"_s),
-			$of(u"S\u1ecbch\u1ee5ay\u1ecb"_s)
+			$of(u"Sịchụayị"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("IL"_s),
@@ -948,7 +948,7 @@ $ObjectArray2* LocaleNames_ig::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("is"_s),
-			$of(u"Ic\u1ecbland\u1ecbk"_s)
+			$of(u"Icịlandịk"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("IT"_s),
@@ -956,19 +956,19 @@ $ObjectArray2* LocaleNames_ig::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("it"_s),
-			$of(u"Ital\u1ecbanu"_s)
+			$of(u"Italịanu"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Zmth"_s),
-			$of(u"Mkp\u1ee5r\u1ee5 \u1ecdkw\u1ee5 Mgbak\u1ecd"_s)
+			$of(u"Mkpụrụ ọkwụ Mgbakọ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.thai"_s),
-			$of(u"\u1eccn\u1ee5 \u1ecdg\u1ee5g\u1ee5 Ta\u1ecb"_s)
+			$of(u"Ọnụ ọgụgụ Taị"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.beng"_s),
-			$of(u"\u1eccn\u1ee5 \u1ecdg\u1ee5g\u1ee5 Bang"_s)
+			$of(u"Ọnụ ọgụgụ Bang"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ja"_s),
@@ -984,7 +984,7 @@ $ObjectArray2* LocaleNames_ig::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("type.ca.islamic"_s),
-			$of(u"Kal\u1ecbnda Islam"_s)
+			$of(u"Kalịnda Islam"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("JM"_s),
@@ -992,7 +992,7 @@ $ObjectArray2* LocaleNames_ig::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("Beng"_s),
-			$of(u"Mkp\u1ee5r\u1ee5 \u1ecdkw\u1ee5 Bangla"_s)
+			$of(u"Mkpụrụ ọkwụ Bangla"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("JO"_s),
@@ -1008,31 +1008,31 @@ $ObjectArray2* LocaleNames_ig::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("guz"_s),
-			$of(u"G\u1ee5sh\u1ecb"_s)
+			$of(u"Gụshị"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.knda"_s),
-			$of(u"\u1eccn\u1ee5 \u1ecdg\u1ee5g\u1ee5 Kanada"_s)
+			$of(u"Ọnụ ọgụgụ Kanada"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("de_CH"_s),
-			$of(u"Jaman Izugbe nd\u1ecb Switzerland"_s)
+			$of(u"Jaman Izugbe ndị Switzerland"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mai"_s),
-			$of(u"Ma\u1ecbt\u1ecbl\u1ecb"_s)
+			$of(u"Maịtịlị"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("smn"_s),
-			$of(u"Inar\u1ecb Sam\u1ecb"_s)
+			$of(u"Inarị Samị"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ka"_s),
-			$of(u"Ge\u1ecdj\u1ecban"_s)
+			$of(u"Geọjịan"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.ca.buddhist"_s),
-			$of(u"Kal\u1ecbnda B\u1ee5dd\u1ecbst"_s)
+			$of(u"Kalịnda Bụddịst"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("KE"_s),
@@ -1056,11 +1056,11 @@ $ObjectArray2* LocaleNames_ig::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ki"_s),
-			$of(u"K\u1ecbk\u1ee5y\u1ee5"_s)
+			$of(u"Kịkụyụ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mas"_s),
-			$of(u"Masa\u1ecb"_s)
+			$of(u"Masaị"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kk"_s),
@@ -1068,7 +1068,7 @@ $ObjectArray2* LocaleNames_ig::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("kl"_s),
-			$of(u"Kalaal\u1ecbs\u1ee5t"_s)
+			$of(u"Kalaalịsụt"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("KM"_s),
@@ -1080,7 +1080,7 @@ $ObjectArray2* LocaleNames_ig::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("KN"_s),
-			$of(u"Kitts na Nevis D\u1ecb ns\u1ecd"_s)
+			$of(u"Kitts na Nevis Dị nsọ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kn"_s),
@@ -1092,11 +1092,11 @@ $ObjectArray2* LocaleNames_ig::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("fr_CA"_s),
-			$of(u"F\u1ee5rench nd\u1ecb Canada"_s)
+			$of(u"Fụrench ndị Canada"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ko"_s),
-			$of(u"Kor\u1ecba"_s)
+			$of(u"Korịa"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("KP"_s),
@@ -1108,15 +1108,15 @@ $ObjectArray2* LocaleNames_ig::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ks"_s),
-			$of(u"Kashm\u1ecbr\u1ecb"_s)
+			$of(u"Kashmịrị"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ku"_s),
-			$of(u"Nd\u1ecb K\u1ee5rd\u1ecbsh"_s)
+			$of(u"Ndị Kụrdịsh"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("fr_CH"_s),
-			$of(u"F\u1ee5rench nd\u1ecb Switzerland"_s)
+			$of(u"Fụrench ndị Switzerland"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("KW"_s),
@@ -1124,7 +1124,7 @@ $ObjectArray2* LocaleNames_ig::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("kw"_s),
-			$of(u"K\u1ecdn\u1ecbsh"_s)
+			$of(u"Kọnịsh"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("KY"_s),
@@ -1140,7 +1140,7 @@ $ObjectArray2* LocaleNames_ig::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("Cyrl"_s),
-			$of(u"Mkp\u1ee5r\u1ee5 Okwu Cyrillic"_s)
+			$of(u"Mkpụrụ Okwu Cyrillic"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("LA"_s),
@@ -1148,7 +1148,7 @@ $ObjectArray2* LocaleNames_ig::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("la"_s),
-			$of(u"Lat\u1ecbn"_s)
+			$of(u"Latịn"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("LB"_s),
@@ -1156,15 +1156,15 @@ $ObjectArray2* LocaleNames_ig::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("lb"_s),
-			$of(u"L\u1ee5xenb\u1ecd\u1ee5g\u1ecbsh"_s)
+			$of(u"Lụxenbọụgịsh"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("LC"_s),
-			$of(u"Lucia D\u1ecb ns\u1ecd"_s)
+			$of(u"Lucia Dị nsọ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.mlym"_s),
-			$of(u"\u1eccn\u1ee5 \u1ecdg\u1ee5g\u1ee5 Malayala"_s)
+			$of(u"Ọnụ ọgụgụ Malayala"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lg"_s),
@@ -1184,15 +1184,15 @@ $ObjectArray2* LocaleNames_ig::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("Tibt"_s),
-			$of(u"T\u1ecbbeta"_s)
+			$of(u"Tịbeta"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ln"_s),
-			$of(u"L\u1ecbngala"_s)
+			$of(u"Lịngala"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("fur"_s),
-			$of(u"Fr\u1ee5l\u1ecban"_s)
+			$of(u"Frụlịan"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lo"_s),
@@ -1200,7 +1200,7 @@ $ObjectArray2* LocaleNames_ig::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("type.ms.uksystem"_s),
-			$of(u"\u1ee4s\u1ecdr\u1ecd Mmesh\u1ecd \u1ecbmper\u1ecba"_s)
+			$of(u"Ụsọrọ Mmeshọ ịmperịa"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("LR"_s),
@@ -1224,7 +1224,7 @@ $ObjectArray2* LocaleNames_ig::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("lu"_s),
-			$of(u"L\u1ecbba-Katanga"_s)
+			$of(u"Lịba-Katanga"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("LV"_s),
@@ -1244,11 +1244,11 @@ $ObjectArray2* LocaleNames_ig::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("vun"_s),
-			$of(u"V\u1ee5nj\u1ecd"_s)
+			$of(u"Vụnjọ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lag"_s),
-			$of(u"Lang\u1ecb"_s)
+			$of(u"Langị"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Thaa"_s),
@@ -1272,7 +1272,7 @@ $ObjectArray2* LocaleNames_ig::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("MF"_s),
-			$of(u"Martin D\u1ecb ns\u1ecd"_s)
+			$of(u"Martin Dị nsọ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("MG"_s),
@@ -1280,7 +1280,7 @@ $ObjectArray2* LocaleNames_ig::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("mg"_s),
-			$of(u"Malagas\u1ecb"_s)
+			$of(u"Malagasị"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("MH"_s),
@@ -1288,7 +1288,7 @@ $ObjectArray2* LocaleNames_ig::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("mi"_s),
-			$of(u"Ma\u1ecdr\u1ecb"_s)
+			$of(u"Maọrị"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("MK"_s),
@@ -1296,7 +1296,7 @@ $ObjectArray2* LocaleNames_ig::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("mk"_s),
-			$of(u"Mased\u1ecdn\u1ecba"_s)
+			$of(u"Masedọnịa"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ML"_s),
@@ -1316,7 +1316,7 @@ $ObjectArray2* LocaleNames_ig::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("mn"_s),
-			$of(u"M\u1ecdngol\u1ecban"_s)
+			$of(u"Mọngolịan"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("MO"_s),
@@ -1336,7 +1336,7 @@ $ObjectArray2* LocaleNames_ig::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("mr"_s),
-			$of(u"Marat\u1ecb"_s)
+			$of(u"Maratị"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("MS"_s),
@@ -1352,7 +1352,7 @@ $ObjectArray2* LocaleNames_ig::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("mt"_s),
-			$of(u"Mat\u1ecbse"_s)
+			$of(u"Matịse"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("MU"_s),
@@ -1372,7 +1372,7 @@ $ObjectArray2* LocaleNames_ig::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("type.ca.japanese"_s),
-			$of(u"Kal\u1ecbnda Japanese"_s)
+			$of(u"Kalịnda Japanese"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("MY"_s),
@@ -1380,7 +1380,7 @@ $ObjectArray2* LocaleNames_ig::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("my"_s),
-			$of(u"B\u1ee5rmese"_s)
+			$of(u"Bụrmese"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("MZ"_s),
@@ -1388,11 +1388,11 @@ $ObjectArray2* LocaleNames_ig::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("Armn"_s),
-			$of(u"Mkp\u1ee5r\u1ee5 \u1ecdkw\u1ee5 Armen\u1ecban"_s)
+			$of(u"Mkpụrụ ọkwụ Armenịan"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("dsb"_s),
-			$of(u"Lowa Sorb\u1ecban"_s)
+			$of(u"Lowa Sorbịan"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("NA"_s),
@@ -1400,19 +1400,19 @@ $ObjectArray2* LocaleNames_ig::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("type.co.search"_s),
-			$of(u"\u1eccch\u1ee5ch\u1ee5 n\u1ecble"_s)
+			$of(u"Ọchụchụ nịle"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("202"_s),
-			$of(u"Sub-Saharan Afr\u1ecbka"_s)
+			$of(u"Sub-Saharan Afrịka"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("nb"_s),
-			$of(u"N\u1ecdrwey\u1ecban B\u1ecdkmal"_s)
+			$of(u"Nọrweyịan Bọkmal"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.ca.hebrew"_s),
-			$of(u"Kal\u1ecbnda Hebrew"_s)
+			$of(u"Kalịnda Hebrew"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("NC"_s),
@@ -1420,7 +1420,7 @@ $ObjectArray2* LocaleNames_ig::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("nd"_s),
-			$of(u"N\u1ecdrt\u1ee5 Ndabede"_s)
+			$of(u"Nọrtụ Ndabede"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("NE"_s),
@@ -1436,7 +1436,7 @@ $ObjectArray2* LocaleNames_ig::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("NG"_s),
-			$of(u"Na\u1ecbj\u1ecbr\u1ecba"_s)
+			$of(u"Naịjịrịa"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("NI"_s),
@@ -1448,11 +1448,11 @@ $ObjectArray2* LocaleNames_ig::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("nl"_s),
-			$of(u"D\u1ecdch\u1ecb"_s)
+			$of(u"Dọchị"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("nn"_s),
-			$of(u"N\u1ecdrwey\u1ecban Nynersk"_s)
+			$of(u"Nọrweyịan Nynersk"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("NO"_s),
@@ -1472,7 +1472,7 @@ $ObjectArray2* LocaleNames_ig::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("rof"_s),
-			$of(u"R\u1ecdmb\u1ecd"_s)
+			$of(u"Rọmbọ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ny"_s),
@@ -1492,11 +1492,11 @@ $ObjectArray2* LocaleNames_ig::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("mer"_s),
-			$of(u"Mer\u1ee5"_s)
+			$of(u"Merụ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.armn"_s),
-			$of(u"\u1eccn\u1ee5 \u1ecdg\u1ee5g\u1ee5 Armen\u1ecban"_s)
+			$of(u"Ọnụ ọgụgụ Armenịan"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("OM"_s),
@@ -1504,7 +1504,7 @@ $ObjectArray2* LocaleNames_ig::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("om"_s),
-			$of(u"\u1eccromo"_s)
+			$of(u"Ọromo"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("or"_s),
@@ -1516,7 +1516,7 @@ $ObjectArray2* LocaleNames_ig::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("mfe"_s),
-			$of(u"M\u1ecdr\u1ecbsye"_s)
+			$of(u"Mọrịsye"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("PA"_s),
@@ -1528,11 +1528,11 @@ $ObjectArray2* LocaleNames_ig::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("dua"_s),
-			$of(u"D\u1ee5ala"_s)
+			$of(u"Dụala"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("en_GB"_s),
-			$of(u"Bekee nd\u1ecb United Kingdom"_s)
+			$of(u"Bekee ndị United Kingdom"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("PE"_s),
@@ -1564,11 +1564,11 @@ $ObjectArray2* LocaleNames_ig::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ewo"_s),
-			$of(u"Ew\u1ecdnd\u1ecd"_s)
+			$of(u"Ewọndọ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("PM"_s),
-			$of(u"Pierre na Miquelon D\u1ecb ns\u1ecd"_s)
+			$of(u"Pierre na Miquelon Dị nsọ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("PN"_s),
@@ -1576,7 +1576,7 @@ $ObjectArray2* LocaleNames_ig::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("type.ca.dangi"_s),
-			$of(u"Kal\u1ecbnda Dang"_s)
+			$of(u"Kalịnda Dang"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("PR"_s),
@@ -1588,7 +1588,7 @@ $ObjectArray2* LocaleNames_ig::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ps"_s),
-			$of(u"Pash\u1ecd"_s)
+			$of(u"Pashọ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("PT"_s),
@@ -1596,11 +1596,11 @@ $ObjectArray2* LocaleNames_ig::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("pt"_s),
-			$of(u"P\u1ecdrt\u1ee5g\u1ee5ese"_s)
+			$of(u"Pọrtụgụese"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("key.co"_s),
-			$of(u"\u1ee4s\u1ecdr\u1ecd Nhaz\u1ecb"_s)
+			$of(u"Ụsọrọ Nhazị"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("PW"_s),
@@ -1608,7 +1608,7 @@ $ObjectArray2* LocaleNames_ig::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.greklow"_s),
-			$of(u"\u1eccbere \u1ecdn\u1ee5 \u1ecdg\u1ee5g\u1ee5 Greek"_s)
+			$of(u"Ọbere ọnụ ọgụgụ Greek"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("PY"_s),
@@ -1616,19 +1616,19 @@ $ObjectArray2* LocaleNames_ig::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("pt_BR"_s),
-			$of(u"P\u1ecdrt\u1ee5g\u1ee5ese nd\u1ecb Brazil"_s)
+			$of(u"Pọrtụgụese ndị Brazil"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mgh"_s),
-			$of(u"Mak\u1ee5wa Met\u1ecd"_s)
+			$of(u"Makụwa Metọ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Hebr"_s),
-			$of(u"Mkp\u1ee5r\u1ee5 \u1ecdkw\u1ee5 Hebrew"_s)
+			$of(u"Mkpụrụ ọkwụ Hebrew"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("key.cf"_s),
-			$of(u"\u1ee4s\u1ecdr\u1ecd eg\u1ecd"_s)
+			$of(u"Ụsọrọ egọ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("QA"_s),
@@ -1636,7 +1636,7 @@ $ObjectArray2* LocaleNames_ig::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("key.ca"_s),
-			$of(u"Kal\u1ecbnda"_s)
+			$of(u"Kalịnda"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Laoo"_s),
@@ -1648,15 +1648,15 @@ $ObjectArray2* LocaleNames_ig::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("type.hc.h23"_s),
-			$of(u"\u1ee4s\u1ecdr\u1ecd Oge ok\u1ecbr\u1ecbk\u1ecbr\u1ecb 24"_s)
+			$of(u"Ụsọrọ Oge okịrịkịrị 24"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.hc.h24"_s),
-			$of(u"\u1ee4s\u1ecdr\u1ecd \u1eccge ok\u1ecbr\u1ecbk\u1ecbr\u1ecb 24"_s)
+			$of(u"Ụsọrọ Ọge okịrịkịrị 24"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.mymr"_s),
-			$of(u"\u1eccn\u1ee5 \u1ecdg\u1ee5g\u1ee5 Myamar"_s)
+			$of(u"Ọnụ ọgụgụ Myamar"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("QO"_s),
@@ -1664,15 +1664,15 @@ $ObjectArray2* LocaleNames_ig::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("qu"_s),
-			$of(u"Q\u1ee5ech\u1ee5a"_s)
+			$of(u"Qụechụa"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("brx"_s),
-			$of(u"B\u1ecdd\u1ecd"_s)
+			$of(u"Bọdọ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kde"_s),
-			$of(u"Mak\u1ecdnde"_s)
+			$of(u"Makọnde"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("001"_s),
@@ -1680,7 +1680,7 @@ $ObjectArray2* LocaleNames_ig::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("Ethi"_s),
-			$of(u"Mkp\u1ee5r\u1ee5 \u1ecdkw\u1ee5 Et\u1ecdp\u1ecba"_s)
+			$of(u"Mkpụrụ ọkwụ Etọpịa"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("002"_s),
@@ -1688,15 +1688,15 @@ $ObjectArray2* LocaleNames_ig::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("003"_s),
-			$of(u"Mpaghara Ugwu Amer\u1ecbka"_s)
+			$of(u"Mpaghara Ugwu Amerịka"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("RE"_s),
-			$of(u"R\u00e9union"_s)
+			$of(u"Réunion"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.hc.h12"_s),
-			$of(u"\u1ee4s\u1ecdr\u1ecd Oge ok\u1ecbr\u1ecbk\u1ecbri 12"_s)
+			$of(u"Ụsọrọ Oge okịrịkịri 12"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("005"_s),
@@ -1704,7 +1704,7 @@ $ObjectArray2* LocaleNames_ig::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("type.hc.h11"_s),
-			$of(u"\u1ee4s\u1ecdr\u1ecd \u1eccge \u1ecdk\u1ecbr\u1ecbk\u1ecbri 12"_s)
+			$of(u"Ụsọrọ Ọge ọkịrịkịri 12"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("009"_s),
@@ -1712,15 +1712,15 @@ $ObjectArray2* LocaleNames_ig::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("rm"_s),
-			$of(u"R\u1ecdmans\u1ecb"_s)
+			$of(u"Rọmansị"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("rn"_s),
-			$of(u"R\u1ee5nd\u1ecb"_s)
+			$of(u"Rụndị"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("key.cu"_s),
-			$of(u"Eg\u1ecd"_s)
+			$of(u"Egọ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ro"_s),
@@ -1736,19 +1736,19 @@ $ObjectArray2* LocaleNames_ig::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.orya"_s),
-			$of(u"\u1eccn\u1ee5 \u1ecdg\u1ee5g\u1ee5 \u1eccd\u1ecba"_s)
+			$of(u"Ọnụ ọgụgụ Ọdịa"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.hanidec"_s),
-			$of(u"\u1eccn\u1ee5 \u1ecdg\u1ee5g\u1ee5 nt\u1ee5p\u1ecd Ch\u1ecbnese"_s)
+			$of(u"Ọnụ ọgụgụ ntụpọ Chịnese"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("RU"_s),
-			$of(u"R\u1ee5ss\u1ecba"_s)
+			$of(u"Rụssịa"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ru"_s),
-			$of(u"R\u1ecdshian"_s)
+			$of(u"Rọshian"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("RW"_s),
@@ -1760,11 +1760,11 @@ $ObjectArray2* LocaleNames_ig::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("kea"_s),
-			$of(u"Kab\u1ee5verd\u1ecban\u1ee5"_s)
+			$of(u"Kabụverdịanụ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("en_AU"_s),
-			$of(u"Bekee nd\u1ecb Australia"_s)
+			$of(u"Bekee ndị Australia"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("SA"_s),
@@ -1772,7 +1772,7 @@ $ObjectArray2* LocaleNames_ig::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("sa"_s),
-			$of(u"Sans\u1ecbk\u1ecbt"_s)
+			$of(u"Sansịkịt"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("SB"_s),
@@ -1784,7 +1784,7 @@ $ObjectArray2* LocaleNames_ig::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("011"_s),
-			$of(u"Mpaghara \u1eccd\u1ecbda Anyanw\u1ee5 Afr\u1ecbka"_s)
+			$of(u"Mpaghara Ọdịda Anyanwụ Afrịka"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("SC"_s),
@@ -1796,7 +1796,7 @@ $ObjectArray2* LocaleNames_ig::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("sd"_s),
-			$of(u"S\u1ecbndh"_s)
+			$of(u"Sịndh"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("013"_s),
@@ -1808,15 +1808,15 @@ $ObjectArray2* LocaleNames_ig::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("se"_s),
-			$of(u"N\u1ecdrtan Sam\u1ecb"_s)
+			$of(u"Nọrtan Samị"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("014"_s),
-			$of(u"Mpaghara \u1eccw\u1ee5wa Anyanw\u1ee5 Afr\u1ecbka"_s)
+			$of(u"Mpaghara Ọwụwa Anyanwụ Afrịka"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("015"_s),
-			$of(u"Mpaghara Ugwu Afr\u1ecbka"_s)
+			$of(u"Mpaghara Ugwu Afrịka"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("SG"_s),
@@ -1824,7 +1824,7 @@ $ObjectArray2* LocaleNames_ig::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("sg"_s),
-			$of(u"Sang\u1ecd"_s)
+			$of(u"Sangọ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("SH"_s),
@@ -1832,7 +1832,7 @@ $ObjectArray2* LocaleNames_ig::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("type.lb.strict"_s),
-			$of(u"Akara akanka nkw\u1ee5s\u1ecb s\u1ecbr\u1ecb \u1ecbke"_s)
+			$of(u"Akara akanka nkwụsị sịrị ịke"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("si"_s),
@@ -1840,7 +1840,7 @@ $ObjectArray2* LocaleNames_ig::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("017"_s),
-			$of(u"Etiti Afr\u1ecbka"_s)
+			$of(u"Etiti Afrịka"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("SI"_s),
@@ -1848,7 +1848,7 @@ $ObjectArray2* LocaleNames_ig::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("018"_s),
-			$of(u"Mpaghara Mgbada Ugwu Afr\u1ecbka"_s)
+			$of(u"Mpaghara Mgbada Ugwu Afrịka"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("SJ"_s),
@@ -1856,7 +1856,7 @@ $ObjectArray2* LocaleNames_ig::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("019"_s),
-			$of(u"Amer\u1ecbka"_s)
+			$of(u"Amerịka"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("SK"_s),
@@ -1872,7 +1872,7 @@ $ObjectArray2* LocaleNames_ig::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("sl"_s),
-			$of(u"Slov\u1ecban"_s)
+			$of(u"Slovịan"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("SM"_s),
@@ -1880,7 +1880,7 @@ $ObjectArray2* LocaleNames_ig::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("sm"_s),
-			$of(u"Sam\u1ecda"_s)
+			$of(u"Samọa"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("SN"_s),
@@ -1888,7 +1888,7 @@ $ObjectArray2* LocaleNames_ig::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("sn"_s),
-			$of(u"Sh\u1ecdna"_s)
+			$of(u"Shọna"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("SO"_s),
@@ -1900,11 +1900,11 @@ $ObjectArray2* LocaleNames_ig::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.arab"_s),
-			$of(u"\u1eccn\u1ee5 \u1ecdg\u1ee5g\u1ee5 Arab na Ind\u1ecb"_s)
+			$of(u"Ọnụ ọgụgụ Arab na Indị"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.taml"_s),
-			$of(u"\u1eccn\u1ee5 \u1ecdg\u1ee5g\u1ee5 \u1ecdd\u1ecbnala Tam\u1ecbl"_s)
+			$of(u"Ọnụ ọgụgụ ọdịnala Tamịl"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("SR"_s),
@@ -1912,7 +1912,7 @@ $ObjectArray2* LocaleNames_ig::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("sr"_s),
-			$of(u"Seb\u1ecban"_s)
+			$of(u"Sebịan"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("SS"_s),
@@ -1920,15 +1920,15 @@ $ObjectArray2* LocaleNames_ig::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("type.cf.account"_s),
-			$of(u"\u1ee4s\u1ecdr\u1ecd akant\u1ee5 eg\u1ecd"_s)
+			$of(u"Ụsọrọ akantụ egọ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ST"_s),
-			$of(u"S\u00e3o Tom\u00e9 & Pr\u00edncipe"_s)
+			$of(u"São Tomé & Príncipe"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("st"_s),
-			$of(u"S\u1ecd\u1ee5th Soto"_s)
+			$of(u"Sọụth Soto"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("SV"_s),
@@ -1936,7 +1936,7 @@ $ObjectArray2* LocaleNames_ig::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("sv"_s),
-			$of(u"S\u1ee5widiishi"_s)
+			$of(u"Sụwidiishi"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("SX"_s),
@@ -1948,7 +1948,7 @@ $ObjectArray2* LocaleNames_ig::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.hantfin"_s),
-			$of(u"\u1eccn\u1ee5 \u1ecdg\u1ee5g\u1ee5 akant\u1ee5 \u1ecdd\u1ecbnala Chinese"_s)
+			$of(u"Ọnụ ọgụgụ akantụ ọdịnala Chinese"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("SZ"_s),
@@ -1964,11 +1964,11 @@ $ObjectArray2* LocaleNames_ig::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("asa"_s),
-			$of(u"As\u1ee5"_s)
+			$of(u"Asụ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.ms.ussystem"_s),
-			$of(u"\u1ee4s\u1ecdr\u1ecd Mmesh\u1ecd US"_s)
+			$of(u"Ụsọrọ Mmeshọ US"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("021"_s),
@@ -2000,11 +2000,11 @@ $ObjectArray2* LocaleNames_ig::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("145"_s),
-			$of(u"Mpaghara \u1eccd\u1ecbda Anyanw\u1ee5 Asia"_s)
+			$of(u"Mpaghara Ọdịda Anyanwụ Asia"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("TF"_s),
-			$of(u"\u1ee4m\u1ee5 ngalaba Frenchi Southern"_s)
+			$of(u"Ụmụ ngalaba Frenchi Southern"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("TG"_s),
@@ -2012,7 +2012,7 @@ $ObjectArray2* LocaleNames_ig::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("tg"_s),
-			$of(u"Taj\u1ecbk"_s)
+			$of(u"Tajịk"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("TH"_s),
@@ -2020,11 +2020,11 @@ $ObjectArray2* LocaleNames_ig::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("th"_s),
-			$of(u"Ta\u1ecb"_s)
+			$of(u"Taị"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ti"_s),
-			$of(u"T\u1ecbgr\u1ecbnya"_s)
+			$of(u"Tịgrịnya"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("TJ"_s),
@@ -2032,7 +2032,7 @@ $ObjectArray2* LocaleNames_ig::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("en_CA"_s),
-			$of(u"Bekee nd\u1ecb Canada"_s)
+			$of(u"Bekee ndị Canada"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("029"_s),
@@ -2044,7 +2044,7 @@ $ObjectArray2* LocaleNames_ig::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("tk"_s),
-			$of(u"Turk\u1ecbs"_s)
+			$of(u"Turkịs"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("TL"_s),
@@ -2064,15 +2064,15 @@ $ObjectArray2* LocaleNames_ig::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("to"_s),
-			$of(u"T\u1ecdngan"_s)
+			$of(u"Tọngan"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("dyo"_s),
-			$of(u"J\u1ecdla-F\u1ecdny\u1ecb"_s)
+			$of(u"Jọla-Fọnyị"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.jpan"_s),
-			$of(u"\u1eccn\u1ee5 \u1ecdg\u1ee5g\u1ee5 Japanese"_s)
+			$of(u"Ọnụ ọgụgụ Japanese"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("TR"_s),
@@ -2080,7 +2080,7 @@ $ObjectArray2* LocaleNames_ig::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("tr"_s),
-			$of(u"T\u1ecdkiishi"_s)
+			$of(u"Tọkiishi"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("TT"_s),
@@ -2104,11 +2104,11 @@ $ObjectArray2* LocaleNames_ig::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("nmg"_s),
-			$of(u"Kwas\u1ecb\u1ecd"_s)
+			$of(u"Kwasịọ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Zzzz"_s),
-			$of(u"Mkp\u1ee5r\u1ee5 okwu amagh\u1ecb"_s)
+			$of(u"Mkpụrụ okwu amaghị"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("150"_s),
@@ -2120,11 +2120,11 @@ $ObjectArray2* LocaleNames_ig::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("030"_s),
-			$of(u"Mpaghara \u1eccw\u1ee5wa Anyanw\u1ee5 Asia"_s)
+			$of(u"Mpaghara Ọwụwa Anyanwụ Asia"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("151"_s),
-			$of(u"Mpaghara \u1eccw\u1ee5wa Anyanw\u1ee5 Europe"_s)
+			$of(u"Mpaghara Ọwụwa Anyanwụ Europe"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("154"_s),
@@ -2136,11 +2136,11 @@ $ObjectArray2* LocaleNames_ig::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("155"_s),
-			$of(u"Mpaghara \u1eccd\u1ecbda Anyanw\u1ee5 Europe"_s)
+			$of(u"Mpaghara Ọdịda Anyanwụ Europe"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("035"_s),
-			$of(u"Mpaghara Mgbada Ugwu Asia d\u1ecb na \u1eccw\u1ee5wa Anyanw\u1ee5"_s)
+			$of(u"Mpaghara Mgbada Ugwu Asia dị na Ọwụwa Anyanwụ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("UG"_s),
@@ -2148,7 +2148,7 @@ $ObjectArray2* LocaleNames_ig::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ug"_s),
-			$of(u"\u1ee4ygh\u1ee5r"_s)
+			$of(u"Ụyghụr"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Kore"_s),
@@ -2156,7 +2156,7 @@ $ObjectArray2* LocaleNames_ig::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("Zyyy"_s),
-			$of(u"k\u1ecdm\u1ecdn"_s)
+			$of(u"kọmọn"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("039"_s),
@@ -2164,7 +2164,7 @@ $ObjectArray2* LocaleNames_ig::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("uk"_s),
-			$of(u"Ukureen\u1ecb"_s)
+			$of(u"Ukureenị"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Sinh"_s),
@@ -2172,15 +2172,15 @@ $ObjectArray2* LocaleNames_ig::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("UM"_s),
-			$of(u"Obere Agwaetiti D\u1ecb Na Mp\u1ee5ga U.S"_s)
+			$of(u"Obere Agwaetiti Dị Na Mpụga U.S"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("UN"_s),
-			$of(u"Mba \u1ee4wa Jik\u1ecdr\u1ecd \u1eccn\u1ee5"_s)
+			$of(u"Mba Ụwa Jikọrọ Ọnụ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ur"_s),
-			$of(u"Urd\u1ee5"_s)
+			$of(u"Urdụ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("US"_s),
@@ -2188,7 +2188,7 @@ $ObjectArray2* LocaleNames_ig::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("haw"_s),
-			$of(u"Hawa\u1ecbl\u1ecban"_s)
+			$of(u"Hawaịlịan"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("UY"_s),
@@ -2196,7 +2196,7 @@ $ObjectArray2* LocaleNames_ig::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("prg"_s),
-			$of(u"Pr\u1ee5ss\u1ecban"_s)
+			$of(u"Prụssịan"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("UZ"_s),
@@ -2204,11 +2204,11 @@ $ObjectArray2* LocaleNames_ig::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("uz"_s),
-			$of(u"\u1ee4zbek"_s)
+			$of(u"Ụzbek"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("nnh"_s),
-			$of(u"Nglemb\u1ecdn"_s)
+			$of(u"Nglembọn"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("VA"_s),
@@ -2216,7 +2216,7 @@ $ObjectArray2* LocaleNames_ig::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("VC"_s),
-			$of(u"Vincent na Grenadines D\u1ecb ns\u1ecd"_s)
+			$of(u"Vincent na Grenadines Dị nsọ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("VE"_s),
@@ -2224,7 +2224,7 @@ $ObjectArray2* LocaleNames_ig::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("type.ca.roc"_s),
-			$of(u"Kal\u1ecbnda rep\u1ee5blic nke China"_s)
+			$of(u"Kalịnda repụblic nke China"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("VG"_s),
@@ -2240,11 +2240,11 @@ $ObjectArray2* LocaleNames_ig::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("khq"_s),
-			$of(u"K\u1ecdyra Ch\u1ecbn\u1ecb"_s)
+			$of(u"Kọyra Chịnị"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("key.hc"_s),
-			$of(u"\u1eccge \u1ecdk\u1ecbr\u1ecbk\u1ecbr\u1ecb"_s)
+			$of(u"Ọge ọkịrịkịrị"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("VN"_s),
@@ -2252,7 +2252,7 @@ $ObjectArray2* LocaleNames_ig::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("vo"_s),
-			$of(u"Volap\u1ee5"_s)
+			$of(u"Volapụ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("VU"_s),
@@ -2276,7 +2276,7 @@ $ObjectArray2* LocaleNames_ig::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("Grek"_s),
-			$of(u"Mkp\u1ee5r\u1ee5 \u1ecdkw\u1ee5 gr\u1ecbk"_s)
+			$of(u"Mkpụrụ ọkwụ grịk"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("057"_s),
@@ -2284,11 +2284,11 @@ $ObjectArray2* LocaleNames_ig::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("jgo"_s),
-			$of(u"Ng\u1ecdmba"_s)
+			$of(u"Ngọmba"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("wo"_s),
-			$of(u"Wol\u1ecdf"_s)
+			$of(u"Wolọf"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("wae"_s),
@@ -2296,7 +2296,7 @@ $ObjectArray2* LocaleNames_ig::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ar_001"_s),
-			$of(u"\u1ee4d\u1ecb Arabiik\u1ecb nke oge a"_s)
+			$of(u"Ụdị Arabiikị nke oge a"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("WS"_s),
@@ -2304,7 +2304,7 @@ $ObjectArray2* LocaleNames_ig::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("Mong"_s),
-			$of(u"M\u1ecdng\u1ecdl\u1ecban"_s)
+			$of(u"Mọngọlịan"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("XA"_s),
@@ -2312,7 +2312,7 @@ $ObjectArray2* LocaleNames_ig::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("mni"_s),
-			$of(u"Man\u1ecbp\u1ee5r\u1ecb"_s)
+			$of(u"Manịpụrị"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("XB"_s),
@@ -2328,15 +2328,15 @@ $ObjectArray2* LocaleNames_ig::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.hans"_s),
-			$of(u"\u1eccn\u1ee5 \u1ecdg\u1ee5g\u1ee5 mfe Ch\u1ecbnese"_s)
+			$of(u"Ọnụ ọgụgụ mfe Chịnese"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.hant"_s),
-			$of(u"\u1eccn\u1ee5 \u1ecdg\u1ee5g\u1ee5 \u1ecddinala chinese"_s)
+			$of(u"Ọnụ ọgụgụ ọdinala chinese"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xh"_s),
-			$of(u"Xh\u1ecdsa"_s)
+			$of(u"Xhọsa"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("XK"_s),
@@ -2344,19 +2344,19 @@ $ObjectArray2* LocaleNames_ig::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.romanlow"_s),
-			$of(u"\u1eccbere \u1eccn\u1ee5 \u1ecdg\u1ee5g\u1ee5 Roman"_s)
+			$of(u"Ọbere Ọnụ ọgụgụ Roman"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Gujr"_s),
-			$of(u"Mkp\u1ee5r\u1ee5 \u1ecdkw\u1ee5 G\u1ee5jarat\u1ecb"_s)
+			$of(u"Mkpụrụ ọkwụ Gụjaratị"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Zxxx"_s),
-			$of(u"Edegh\u1ecb ede"_s)
+			$of(u"Edeghị ede"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kkj"_s),
-			$of(u"Kak\u1ecd"_s)
+			$of(u"Kakọ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("YE"_s),
@@ -2368,7 +2368,7 @@ $ObjectArray2* LocaleNames_ig::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("yi"_s),
-			$of(u"Y\u1ecbd\u1ecbsh"_s)
+			$of(u"Yịdịsh"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("yo"_s),
@@ -2376,7 +2376,7 @@ $ObjectArray2* LocaleNames_ig::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("es_MX"_s),
-			$of(u"Spanishi nd\u1ecb Mexico"_s)
+			$of(u"Spanishi ndị Mexico"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("YT"_s),
@@ -2392,15 +2392,15 @@ $ObjectArray2* LocaleNames_ig::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("type.lb.loose"_s),
-			$of(u"Akara akanka nkw\u1ee5s\u1ecb es\u1ecbgh\u1ecb \u1ecbke"_s)
+			$of(u"Akara akanka nkwụsị esịghị ịke"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kln"_s),
-			$of(u"Kalenj\u1ecbn"_s)
+			$of(u"Kalenjịn"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Deva"_s),
-			$of(u"Mkp\u1ee5r\u1ee5 \u1ecdkw\u1ee5 Devangar\u1ecb"_s)
+			$of(u"Mkpụrụ ọkwụ Devangarị"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("zh"_s),
@@ -2408,11 +2408,11 @@ $ObjectArray2* LocaleNames_ig::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.geor"_s),
-			$of(u"\u1eccn\u1ee5 \u1ecdg\u1ee5g\u1ee5 Ge\u1ecdj\u1ecban"_s)
+			$of(u"Ọnụ ọgụgụ Geọjịan"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Hira"_s),
-			$of(u"Mkp\u1ee5r\u1ee5 okw\u1ee5 H\u1ecbragana"_s)
+			$of(u"Mkpụrụ okwụ Hịragana"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ZM"_s),
@@ -2420,11 +2420,11 @@ $ObjectArray2* LocaleNames_ig::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("Bopo"_s),
-			$of(u"Mkp\u1ee5r\u1ee5 \u1ecdkw\u1ee5 Bopomofo"_s)
+			$of(u"Mkpụrụ ọkwụ Bopomofo"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("key.lb"_s),
-			$of(u"Akara akanka nkw\u1ee5s\u1ecb"_s)
+			$of(u"Akara akanka nkwụsị"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("zu"_s),
@@ -2436,15 +2436,15 @@ $ObjectArray2* LocaleNames_ig::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ZZ"_s),
-			$of(u"Mpaghara Amagh\u1ecb"_s)
+			$of(u"Mpaghara Amaghị"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Geor"_s),
-			$of(u"Mkp\u1ee5r\u1ee5 \u1ecdkw\u1ee5 Ge\u1ecdj\u1ecban"_s)
+			$of(u"Mkpụrụ ọkwụ Geọjịan"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.ms.metric"_s),
-			$of(u"\u1ee4s\u1ecdr\u1ecd Met\u1ecbr\u1ecbk"_s)
+			$of(u"Ụsọrọ Metịrịk"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.ca.iso8601"_s),
@@ -2452,15 +2452,15 @@ $ObjectArray2* LocaleNames_ig::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.telu"_s),
-			$of(u"\u1eccn\u1ee5 \u1ecdg\u1ee5g\u1ee5 Tel\u1ee5g\u1ee5"_s)
+			$of(u"Ọnụ ọgụgụ Telụgụ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.jpanfin"_s),
-			$of(u"\u1eccn\u1ee5 \u1ecdg\u1ee5g\u1ee5 akant\u1ee5 Japanese"_s)
+			$of(u"Ọnụ ọgụgụ akantụ Japanese"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ebu"_s),
-			$of(u"Eb\u1ee5m"_s)
+			$of(u"Ebụm"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("jmc"_s),
@@ -2468,51 +2468,51 @@ $ObjectArray2* LocaleNames_ig::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("zh_Hans"_s),
-			$of(u"As\u1ee5s\u1ee5 Chinese d\u1ecb mfe"_s)
+			$of(u"Asụsụ Chinese dị mfe"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.hansfin"_s),
-			$of(u"\u1eccn\u1ee5 \u1ecdg\u1ee5g\u1ee5 akant\u1ee5 mfe nke Chinese"_s)
+			$of(u"Ọnụ ọgụgụ akantụ mfe nke Chinese"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kok"_s),
-			$of(u"K\u1ecdnkan\u1ecb"_s)
+			$of(u"Kọnkanị"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.arabext"_s),
-			$of(u"\u1eccn\u1ee5 \u1ecdg\u1ee5g\u1ee5 Arab na Ind\u1ecb agbat\u1ecbr\u1ecb"_s)
+			$of(u"Ọnụ ọgụgụ Arab na Indị agbatịrị"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("nus"_s),
-			$of(u"N\u1ee5er"_s)
+			$of(u"Nụer"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.fullwide"_s),
-			$of(u"\u1eccn\u1ee5 \u1ecdg\u1ee5g\u1ee5 \u1ecdb\u1ecdsara"_s)
+			$of(u"Ọnụ ọgụgụ ọbọsara"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("dav"_s),
-			$of(u"Ta\u1ecbta"_s)
+			$of(u"Taịta"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lrc"_s),
-			$of(u"N\u1ecdrt\u1ee5 L\u1ee5r\u1ecb"_s)
+			$of(u"Nọrtụ Lụrị"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("zh_Hant"_s),
-			$of(u"As\u1ee5s\u1ee5 Chinese Izugbe"_s)
+			$of(u"Asụsụ Chinese Izugbe"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.khmr"_s),
-			$of(u"\u1eccn\u1ee5 \u1ecdg\u1ee5g\u1ee5 Khmer"_s)
+			$of(u"Ọnụ ọgụgụ Khmer"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mua"_s),
-			$of(u"M\u1ee5dang"_s)
+			$of(u"Mụdang"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.guru"_s),
-			$of(u"On\u1ee5 \u1ecdg\u1ee5g\u1ee5 G\u1ee5m\u1ee5kh"_s)
+			$of(u"Onụ ọgụgụ Gụmụkh"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Khmr"_s),
@@ -2520,15 +2520,15 @@ $ObjectArray2* LocaleNames_ig::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("mul"_s),
-			$of(u"\u1ecct\u1ee5t\u1ee5 as\u1ee5s\u1ee5"_s)
+			$of(u"Ọtụtụ asụsụ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("key.ms"_s),
-			$of(u"\u1ee4s\u1ecdr\u1ecd Mmesh\u1ecd"_s)
+			$of(u"Ụsọrọ Mmeshọ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.roman"_s),
-			$of(u"\u1eccn\u1ee5 \u1ecdg\u1ee5g\u1ee5 Roman"_s)
+			$of(u"Ọnụ ọgụgụ Roman"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sah"_s),
@@ -2536,23 +2536,23 @@ $ObjectArray2* LocaleNames_ig::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.tamldec"_s),
-			$of(u"\u1eccn\u1ee5 \u1ecdg\u1ee5g\u1ee5 Tam\u1ecb"_s)
+			$of(u"Ọnụ ọgụgụ Tamị"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("saq"_s),
-			$of(u"Samb\u1ee5r\u1ee5"_s)
+			$of(u"Sambụrụ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sat"_s),
-			$of(u"Santal\u1ecb"_s)
+			$of(u"Santalị"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("key.nu"_s),
-			$of(u"N\u1ecdmba"_s)
+			$of(u"Nọmba"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Guru"_s),
-			$of(u"Mkp\u1ee5r\u1ee5 \u1ecdkw\u1ee5 G\u1ee5rm\u1ee5k\u1ecb"_s)
+			$of(u"Mkpụrụ ọkwụ Gụrmụkị"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ksb"_s),
@@ -2564,7 +2564,7 @@ $ObjectArray2* LocaleNames_ig::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ksf"_s),
-			$of(u"Baf\u1ecba"_s)
+			$of(u"Bafịa"_s)
 		})
 	}));
 	return data;

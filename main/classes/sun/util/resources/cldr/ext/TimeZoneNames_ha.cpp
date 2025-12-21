@@ -311,7 +311,7 @@ $ObjectArray2* TimeZoneNames_ha::getContents() {
 		""_s,
 		"Israel Daylight Time"_s,
 		""_s,
-		u"Lokacin Isra\u02bcila"_s,
+		u"Lokacin Israʼila"_s,
 		""_s
 	}));
 	$var($StringArray, Kosrae, $new($StringArray, {
@@ -491,7 +491,7 @@ $ObjectArray2* TimeZoneNames_ha::getContents() {
 		""_s
 	}));
 	$var($StringArray, Reunion, $new($StringArray, {
-		u"Lokacin R\u00e9union"_s,
+		u"Lokacin Réunion"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -939,7 +939,7 @@ $ObjectArray2* TimeZoneNames_ha::getContents() {
 		""_s
 	}));
 	$var($StringArray, DumontDUrville, $new($StringArray, {
-		u"Lokacin Dumont-d\u2019Urville"_s,
+		u"Lokacin Dumont-d’Urville"_s,
 		""_s,
 		""_s,
 		""_s,

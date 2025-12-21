@@ -41,17 +41,17 @@ $ObjectArray2* FormatData_fr_MA::getContents() {
 	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_MonthAbbreviations, $new($StringArray, {
 		"jan."_s,
-		u"f\u00e9v."_s,
+		u"fév."_s,
 		"mar."_s,
 		"avr."_s,
 		"mai"_s,
 		"jui."_s,
 		"juil."_s,
-		u"ao\u00fbt"_s,
+		u"août"_s,
 		"sept."_s,
 		"oct."_s,
 		"nov."_s,
-		u"d\u00e9c."_s,
+		u"déc."_s,
 		""_s
 	}));
 	$var($StringArray, metaValue_AmPmMarkers, $new($StringArray, {
@@ -61,7 +61,7 @@ $ObjectArray2* FormatData_fr_MA::getContents() {
 		"midi"_s,
 		"du matin"_s,
 		""_s,
-		u"de l\u2019apr\u00e8s-midi"_s,
+		u"de l’après-midi"_s,
 		""_s,
 		"du soir"_s,
 		""_s,
@@ -84,8 +84,8 @@ $ObjectArray2* FormatData_fr_MA::getContents() {
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
+				u"‰"_s,
+				u"∞"_s,
 				"NaN"_s,
 				""_s,
 				""_s
@@ -127,9 +127,9 @@ $ObjectArray2* FormatData_fr_MA::getContents() {
 			$of("latn.NumberPatterns"_s),
 			$of($$new($StringArray, {
 				"#,##0.###"_s,
-				u"#,##0.00\u00a0\u00a4"_s,
-				u"#,##0\u00a0%"_s,
-				u"#,##0.00\u00a0\u00a4;(#,##0.00\u00a0\u00a4)"_s
+				u"#,##0.00 ¤"_s,
+				u"#,##0 %"_s,
+				u"#,##0.00 ¤;(#,##0.00 ¤)"_s
 			}))
 		}),
 		$$new($ObjectArray, {

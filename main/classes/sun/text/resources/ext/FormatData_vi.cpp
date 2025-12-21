@@ -42,18 +42,18 @@ $ObjectArray2* FormatData_vi::getContents() {
 		$$new($ObjectArray, {
 			$of("MonthNames"_s),
 			$of($$new($StringArray, {
-				u"th\u00e1ng m\u1ed9t"_s,
-				u"th\u00e1ng hai"_s,
-				u"th\u00e1ng ba"_s,
-				u"th\u00e1ng t\u01b0"_s,
-				u"th\u00e1ng n\u0103m"_s,
-				u"th\u00e1ng s\u00e1u"_s,
-				u"th\u00e1ng b\u1ea3y"_s,
-				u"th\u00e1ng t\u00e1m"_s,
-				u"th\u00e1ng ch\u00edn"_s,
-				u"th\u00e1ng m\u01b0\u1eddi"_s,
-				u"th\u00e1ng m\u01b0\u1eddi m\u1ed9t"_s,
-				u"th\u00e1ng m\u01b0\u1eddi hai"_s,
+				u"tháng một"_s,
+				u"tháng hai"_s,
+				u"tháng ba"_s,
+				u"tháng tư"_s,
+				u"tháng năm"_s,
+				u"tháng sáu"_s,
+				u"tháng bảy"_s,
+				u"tháng tám"_s,
+				u"tháng chín"_s,
+				u"tháng mười"_s,
+				u"tháng mười một"_s,
+				u"tháng mười hai"_s,
 				""_s
 			}))
 		}),
@@ -96,13 +96,13 @@ $ObjectArray2* FormatData_vi::getContents() {
 		$$new($ObjectArray, {
 			$of("DayNames"_s),
 			$of($$new($StringArray, {
-				u"Ch\u1ee7 nh\u1eadt"_s,
-				u"Th\u1ee9 hai"_s,
-				u"Th\u1ee9 ba"_s,
-				u"Th\u1ee9 t\u01b0"_s,
-				u"Th\u1ee9 n\u0103m"_s,
-				u"Th\u1ee9 s\u00e1u"_s,
-				u"Th\u1ee9 b\u1ea3y"_s
+				u"Chủ nhật"_s,
+				u"Thứ hai"_s,
+				u"Thứ ba"_s,
+				u"Thứ tư"_s,
+				u"Thứ năm"_s,
+				u"Thứ sáu"_s,
+				u"Thứ bảy"_s
 			}))
 		}),
 		$$new($ObjectArray, {
@@ -166,9 +166,9 @@ $ObjectArray2* FormatData_vi::getContents() {
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
-				u"\ufffd"_s
+				u"‰"_s,
+				u"∞"_s,
+				u"�"_s
 			}))
 		}),
 		$$new($ObjectArray, {
@@ -183,8 +183,8 @@ $ObjectArray2* FormatData_vi::getContents() {
 		$$new($ObjectArray, {
 			$of("DatePatterns"_s),
 			$of($$new($StringArray, {
-				u"EEEE, \'ng\u00e0y\' dd MMMM \'n\u0103m\' yyyy"_s,
-				u"\'Ng\u00e0y\' dd \'th\u00e1ng\' M \'n\u0103m\' yyyy"_s,
+				u"EEEE, \'ngày\' dd MMMM \'năm\' yyyy"_s,
+				u"\'Ngày\' dd \'tháng\' M \'năm\' yyyy"_s,
 				"dd-MM-yyyy"_s,
 				"dd/MM/yyyy"_s
 			}))

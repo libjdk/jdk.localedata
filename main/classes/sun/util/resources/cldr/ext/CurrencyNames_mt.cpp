@@ -578,7 +578,7 @@ $ObjectArray2* CurrencyNames_mt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("xxx"_s),
-			$of(u"Munita Mhix Mag\u0127rufa jew Mhix Valida"_s)
+			$of(u"Munita Mhix Magħrufa jew Mhix Valida"_s)
 		})
 	}));
 	return data;

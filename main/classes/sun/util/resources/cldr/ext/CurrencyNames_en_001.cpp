@@ -42,7 +42,7 @@ $ObjectArray2* CurrencyNames_en_001::getContents() {
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("JPY"_s),
-			$of(u"JP\u00a5"_s)
+			$of(u"JP¥"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("USD"_s),
@@ -54,7 +54,7 @@ $ObjectArray2* CurrencyNames_en_001::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("byb"_s),
-			$of(u"Belarusian New Rouble (1994\u20131999)"_s)
+			$of(u"Belarusian New Rouble (1994–1999)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("byn"_s),
@@ -62,7 +62,7 @@ $ObjectArray2* CurrencyNames_en_001::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("byr"_s),
-			$of(u"Belarusian Rouble (2000\u20132016)"_s)
+			$of(u"Belarusian Rouble (2000–2016)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lvr"_s),
@@ -78,7 +78,7 @@ $ObjectArray2* CurrencyNames_en_001::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("rur"_s),
-			$of(u"Russian Rouble (1991\u20131998)"_s)
+			$of(u"Russian Rouble (1991–1998)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("shp"_s),

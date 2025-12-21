@@ -42,47 +42,47 @@ $ObjectArray2* LocaleNames_ps_PK::getContents() {
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("019"_s),
-			$of(u"\u0627\u0645\u0631\u064a\u06a9\u06d2"_s)
+			$of(u"امريکے"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("PS"_s),
-			$of(u"\u0641\u0644\u0633\u0637\u064a\u0646 \u0633\u064a\u0645\u06d2"_s)
+			$of(u"فلسطين سيمے"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("TC"_s),
-			$of(u"\u062f \u062a\u0631\u06a9\u06cc\u06d2 \u0627\u0648 \u06a9\u06cc\u06a9\u0627\u0633\u0648 \u067c\u0627\u067e\u0648"_s)
+			$of(u"د ترکیے او کیکاسو ټاپو"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("TF"_s),
-			$of(u"\u062f \u0641\u0631\u0627\u0646\u0633\u06d2 \u062c\u0646\u0648\u0628\u064a \u0633\u06cc\u0645\u06d2"_s)
+			$of(u"د فرانسے جنوبي سیمے"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("fo"_s),
-			$of(u"\u0641\u0627\u0631\u0648\u0626\u06d2"_s)
+			$of(u"فاروئے"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("nb"_s),
-			$of(u"\u0646\u0627\u0631\u0648\u06d2 \u0628\u0648\u06a9\u0645\u0627\u0644"_s)
+			$of(u"ناروے بوکمال"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("dsb"_s),
-			$of(u"\u0644\u0648\u0693\u06d2 \u0633\u0631\u0628\u064a"_s)
+			$of(u"لوړے سربي"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kha"_s),
-			$of(u"\u062e\u0627\u0633\u06d2"_s)
+			$of(u"خاسے"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ar_001"_s),
-			$of(u"\u0646\u0648\u06d2 \u0645\u0639\u064a\u0627\u0631\u064a \u0639\u0631\u0628\u064a"_s)
+			$of(u"نوے معياري عربي"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.arabext"_s),
-			$of(u"\u063a\u0681\u06d0\u062f\u0644\u06d2 \u0639\u0631\u0628\u064a \u06d4 \u0627\u064a\u0646\u0689\u064a\u06a9 \u0639\u062f\u062f"_s)
+			$of(u"غځېدلے عربي ۔ اينډيک عدد"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.co.standard"_s),
-			$of(u"\u0645\u0639\u064a\u0627\u0631\u064a \u062f \u0644\u067c\u06d2 \u062a\u0631\u062a\u064a\u0628"_s)
+			$of(u"معياري د لټے ترتيب"_s)
 		})
 	}));
 	return data;

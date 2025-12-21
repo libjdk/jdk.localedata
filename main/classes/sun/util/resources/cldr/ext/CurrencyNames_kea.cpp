@@ -374,7 +374,7 @@ $ObjectArray2* CurrencyNames_kea::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("THB"_s),
-			$of(u"\u0e3f"_s)
+			$of(u"฿"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("TJS"_s),
@@ -490,7 +490,7 @@ $ObjectArray2* CurrencyNames_kea::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("egp"_s),
-			$of(u"Libra ej\u00edpsiu"_s)
+			$of(u"Libra ejípsiu"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ern"_s),
@@ -498,7 +498,7 @@ $ObjectArray2* CurrencyNames_kea::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("etb"_s),
-			$of(u"Bir eti\u00f3piku"_s)
+			$of(u"Bir etiópiku"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("eur"_s),
@@ -506,11 +506,11 @@ $ObjectArray2* CurrencyNames_kea::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("gbp"_s),
-			$of(u"Libra brit\u00e1niku"_s)
+			$of(u"Libra britániku"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ghc"_s),
-			$of(u"Sedi di Gana (1979\u20132007)"_s)
+			$of(u"Sedi di Gana (1979–2007)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gmd"_s),
@@ -558,7 +558,7 @@ $ObjectArray2* CurrencyNames_kea::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("lyd"_s),
-			$of(u"Dinar l\u00edbiu"_s)
+			$of(u"Dinar líbiu"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mad"_s),
@@ -570,7 +570,7 @@ $ObjectArray2* CurrencyNames_kea::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("mro"_s),
-			$of(u"Ougia (1973\u20132017)"_s)
+			$of(u"Ougia (1973–2017)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mru"_s),
@@ -630,7 +630,7 @@ $ObjectArray2* CurrencyNames_kea::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("sdp"_s),
-			$of(u"Libra sudanes antigu (1957\u20131998)"_s)
+			$of(u"Libra sudanes antigu (1957–1998)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sek"_s),
@@ -650,11 +650,11 @@ $ObjectArray2* CurrencyNames_kea::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("std"_s),
-			$of(u"Dobra di San Tume i Pr\u00ednsipi (1977\u20132017)"_s)
+			$of(u"Dobra di San Tume i Prínsipi (1977–2017)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("stn"_s),
-			$of(u"Dobra di San Tume i Pr\u00ednsipi"_s)
+			$of(u"Dobra di San Tume i Prínsipi"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("szl"_s),
@@ -678,7 +678,7 @@ $ObjectArray2* CurrencyNames_kea::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("tzs"_s),
-			$of(u"Xelin di Tanz\u00e1nia"_s)
+			$of(u"Xelin di Tanzánia"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ugx"_s),
@@ -706,7 +706,7 @@ $ObjectArray2* CurrencyNames_kea::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("zmk"_s),
-			$of(u"Kuaxa zambianu (1968\u20132012)"_s)
+			$of(u"Kuaxa zambianu (1968–2012)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("zmw"_s),
@@ -714,7 +714,7 @@ $ObjectArray2* CurrencyNames_kea::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("zwd"_s),
-			$of(u"Dola di Zimbabue (1980\u20132008)"_s)
+			$of(u"Dola di Zimbabue (1980–2008)"_s)
 		})
 	}));
 	return data;

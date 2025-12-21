@@ -43,7 +43,7 @@ void TimeZoneNames_se::init$() {
 $ObjectArray2* TimeZoneNames_se::getContents() {
 	$useLocalCurrentObjectStackCache();
 	$var($StringArray, GMT, $new($StringArray, {
-		u"Greenwich gaskka \u00e1igi"_s,
+		u"Greenwich gaskka áigi"_s,
 		"GMT"_s,
 		""_s,
 		""_s,
@@ -51,11 +51,11 @@ $ObjectArray2* TimeZoneNames_se::getContents() {
 		""_s
 	}));
 	$var($StringArray, Moscow, $new($StringArray, {
-		u"Moskva-d\u00e1b\u00e1la\u0161\u00e1igi"_s,
+		u"Moskva-dábálašáigi"_s,
 		""_s,
-		u"Moskva-geassi\u00e1igi"_s,
+		u"Moskva-geassiáigi"_s,
 		""_s,
-		u"Moskva-\u00e1igi"_s,
+		u"Moskva-áigi"_s,
 		""_s
 	}));
 	$var($StringArray, EMPTY_ZONE, $new($StringArray, {
@@ -67,27 +67,27 @@ $ObjectArray2* TimeZoneNames_se::getContents() {
 		""_s
 	}));
 	$var($StringArray, Europe_Central, $new($StringArray, {
-		u"gaska-Eurohp\u00e1 d\u00e1b\u00e1la\u0161\u00e1igi"_s,
+		u"gaska-Eurohpá dábálašáigi"_s,
 		"CET"_s,
-		u"gaska-Eurohp\u00e1 geassi\u00e1igi"_s,
+		u"gaska-Eurohpá geassiáigi"_s,
 		"CEST"_s,
-		u"gaska-Eurohp\u00e1 \u00e1igi"_s,
+		u"gaska-Eurohpá áigi"_s,
 		"CET"_s
 	}));
 	$var($StringArray, Europe_Eastern, $new($StringArray, {
-		u"nuorti-Eurohp\u00e1 d\u00e1b\u00e1la\u0161\u00e1igi"_s,
+		u"nuorti-Eurohpá dábálašáigi"_s,
 		"EET"_s,
-		u"nuorti-Eurohp\u00e1 geassi\u00e1igi"_s,
+		u"nuorti-Eurohpá geassiáigi"_s,
 		"EEST"_s,
-		u"nuorti-Eurohp\u00e1 \u00e1igi"_s,
+		u"nuorti-Eurohpá áigi"_s,
 		"EET"_s
 	}));
 	$var($StringArray, Europe_Western, $new($StringArray, {
-		u"oarje-Eurohp\u00e1 d\u00e1b\u00e1la\u0161\u00e1igi"_s,
+		u"oarje-Eurohpá dábálašáigi"_s,
 		"WET"_s,
-		u"oarje-Eurohp\u00e1 geassi\u00e1igi"_s,
+		u"oarje-Eurohpá geassiáigi"_s,
 		"WEST"_s,
-		u"oarje-Eurohp\u00e1 \u00e1igi"_s,
+		u"oarje-Eurohpá áigi"_s,
 		"WET"_s
 	}));
 	$var($ObjectArray2, data, $new($ObjectArray2, {
@@ -465,23 +465,23 @@ $ObjectArray2* TimeZoneNames_se::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Etc/Unknown"_s),
-			$of(u"dovdameahttun \u00e1igeav\u00e1dat"_s)
+			$of(u"dovdameahttun áigeavádat"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Merida"_s),
-			$of(u"M\u00e9rida"_s)
+			$of(u"Mérida"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Curacao"_s),
-			$of(u"Cura\u00e7ao"_s)
+			$of(u"Curaçao"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Sao_Paulo"_s),
-			$of(u"S\u00e3o Paulo"_s)
+			$of(u"São Paulo"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/St_Barthelemy"_s),
-			$of(u"Saint Barth\u00e9lemy"_s)
+			$of(u"Saint Barthélemy"_s)
 		})
 	}));
 	return data;

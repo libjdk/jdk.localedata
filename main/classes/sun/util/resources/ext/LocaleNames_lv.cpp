@@ -45,7 +45,7 @@ $ObjectArray2* LocaleNames_lv::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("lv"_s),
-			$of(u"Latvie\u0161u"_s)
+			$of(u"Latviešu"_s)
 		})
 	});
 }

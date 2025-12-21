@@ -41,11 +41,11 @@ $ObjectArray2* CurrencyNames_be_BY::getContents() {
 	return $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("BYN"_s),
-			$of(u"\u0420\u0443\u0431"_s)
+			$of(u"Руб"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("BYR"_s),
-			$of(u"\u0420\u0443\u0431"_s)
+			$of(u"Руб"_s)
 		})
 	});
 }

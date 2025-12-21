@@ -518,7 +518,7 @@ $ObjectArray2* CurrencyNames_my::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("THB"_s),
-			$of(u"\u0e3f"_s)
+			$of(u"฿"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("TJS"_s),
@@ -590,743 +590,743 @@ $ObjectArray2* CurrencyNames_my::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("aed"_s),
-			$of(u"\u1021\u102c\u101b\u1015\u103a\u1005\u1031\u102c\u103a\u1018\u103d\u102c\u1038\u1019\u103b\u102c\u1038 \u1015\u103c\u100a\u103a\u1011\u1031\u102c\u1004\u103a\u1005\u102f \u1012\u102b\u101f\u1019\u103a\u1038"_s)
+			$of(u"အာရပ်စော်ဘွားများ ပြည်ထောင်စု ဒါဟမ်း"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("afn"_s),
-			$of(u"\u1021\u102c\u1016\u1002\u1014\u103a \u1021\u102c\u1016\u1002\u102b\u1014\u102e"_s)
+			$of(u"အာဖဂန် အာဖဂါနီ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("all"_s),
-			$of(u"\u1021\u101a\u103a\u1018\u1031\u1038\u1014\u102e\u1038\u101a\u102c\u1038 \u101c\u102e\u1001\u103a"_s)
+			$of(u"အယ်ဘေးနီးယား လီခ်"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("amd"_s),
-			$of(u"\u1021\u102c\u1019\u1031\u1038\u1014\u102e\u1038\u101a\u102c\u1038 \u1012\u101b\u1019\u103a"_s)
+			$of(u"အာမေးနီးယား ဒရမ်"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ang"_s),
-			$of(u"\u1014\u101a\u103a\u101e\u102c\u101c\u1014\u103a \u1021\u1014\u103a\u1010\u102e\u101c\u1014\u103a \u1002\u1004\u103a\u1038\u1012\u102b\u1038"_s)
+			$of(u"နယ်သာလန် အန်တီလန် ဂင်းဒါး"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("aoa"_s),
-			$of(u"\u1021\u1014\u103a\u1002\u102d\u102f\u101c\u102c \u1000\u103d\u1019\u103a\u1007\u102c"_s)
+			$of(u"အန်ဂိုလာ ကွမ်ဇာ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("arp"_s),
-			$of(u"\u1021\u102c\u1002\u103b\u1004\u103a\u1010\u102e\u1038\u1014\u102c\u1038 \u1015\u102e\u1006\u102d\u102f (\u1041\u1049\u1048\u1043\u2013\u1041\u1049\u1048\u1045)"_s)
+			$of(u"အာဂျင်တီးနား ပီဆို (၁၉၈၃–၁၉၈၅)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ars"_s),
-			$of(u"\u1021\u102c\u1002\u103b\u1004\u103a\u1010\u102e\u1038\u1014\u102c\u1038 \u1015\u102e\u1006\u102d\u102f"_s)
+			$of(u"အာဂျင်တီးနား ပီဆို"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("aud"_s),
-			$of(u"\u1029\u1005\u1010\u103c\u1031\u1038\u101c\u103b \u1012\u1031\u102b\u103a\u101c\u102c"_s)
+			$of(u"ဩစတြေးလျ ဒေါ်လာ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("awg"_s),
-			$of(u"\u1021\u101b\u1030\u1038\u1017\u102c \u1016\u101c\u102d\u102f\u101b\u1004\u103a\u1038"_s)
+			$of(u"အရူးဗာ ဖလိုရင်း"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("azn"_s),
-			$of(u"\u1021\u1007\u102c\u1018\u102d\u102f\u1004\u103a\u1002\u103b\u1014\u103a \u1019\u102c\u1014\u1010\u103a"_s)
+			$of(u"အဇာဘိုင်ဂျန် မာနတ်"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bam"_s),
-			$of(u"\u1018\u1031\u102c\u1037\u1005\u1014\u102e\u1038\u101a\u102c\u1038\u1014\u103e\u1004\u1037\u103a \u101f\u102c\u1007\u102e\u1002\u102d\u102f\u1018\u102e\u1038\u1014\u102c\u1038 \u1004\u103d\u1031\u101c\u1032\u1014\u102d\u102f\u1004\u103a\u101e\u1031\u102c \u1019\u1010\u103a\u1000\u103a"_s)
+			$of(u"ဘော့စနီးယားနှင့် ဟာဇီဂိုဘီးနား ငွေလဲနိုင်သော မတ်က်"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bbd"_s),
-			$of(u"\u1018\u102c\u1018\u1031\u1038\u1012\u102d\u102f\u1038\u1005\u103a \u1012\u1031\u102b\u103a\u101c\u102c"_s)
+			$of(u"ဘာဘေးဒိုးစ် ဒေါ်လာ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bdt"_s),
-			$of(u"\u1018\u1004\u103a\u1039\u1002\u101c\u102c\u1038\u1012\u1031\u1037\u101b\u103e\u103a \u1010\u102c\u1000\u102c"_s)
+			$of(u"ဘင်္ဂလားဒေ့ရှ် တာကာ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bef"_s),
-			$of(u"\u1018\u101a\u103a\u101c\u103a\u1002\u103b\u102e\u101a\u1019\u103a \u1016\u101b\u1014\u1037\u103a"_s)
+			$of(u"ဘယ်လ်ဂျီယမ် ဖရန့်"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bgn"_s),
-			$of(u"\u1018\u1030\u101c\u103a\u1002\u1031\u1038\u101b\u102e\u1038\u101a\u102c\u1038 \u101c\u1000\u103a\u1016\u103a"_s)
+			$of(u"ဘူလ်ဂေးရီးယား လက်ဖ်"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bhd"_s),
-			$of(u"\u1018\u102c\u101b\u102d\u1014\u103a\u1038 \u1012\u102e\u1014\u102c\u1038"_s)
+			$of(u"ဘာရိန်း ဒီနား"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bif"_s),
-			$of(u"\u1018\u1030\u101b\u103d\u1014\u103a\u1012\u102e \u1016\u101b\u1014\u1037\u103a"_s)
+			$of(u"ဘူရွန်ဒီ ဖရန့်"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bmd"_s),
-			$of(u"\u1018\u102c\u1019\u103c\u1030\u1012\u102b \u1012\u1031\u102b\u103a\u101c\u102c"_s)
+			$of(u"ဘာမြူဒါ ဒေါ်လာ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bnd"_s),
-			$of(u"\u1018\u101b\u1030\u1014\u102d\u102f\u1004\u103a\u1038 \u1012\u1031\u102b\u103a\u101c\u102c"_s)
+			$of(u"ဘရူနိုင်း ဒေါ်လာ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bob"_s),
-			$of(u"\u1018\u102d\u102f\u101c\u102e\u1038\u1017\u102e\u1038\u101a\u102c\u1038 \u1018\u102d\u102f\u101c\u102e\u1038\u1017\u102e\u101a\u102c\u1038\u1014\u102d\u102f"_s)
+			$of(u"ဘိုလီးဗီးယား ဘိုလီးဗီယားနို"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bop"_s),
-			$of(u"\u1018\u102d\u102f\u101c\u102e\u1038\u1018\u102e\u1038\u101a\u102c\u1038 \u1015\u102e\u1006\u102d\u102f"_s)
+			$of(u"ဘိုလီးဘီးယား ပီဆို"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("brl"_s),
-			$of(u"\u1018\u101b\u102c\u1007\u102e\u1038 \u101b\u102e\u1038\u101a\u1032"_s)
+			$of(u"ဘရာဇီး ရီးယဲ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bsd"_s),
-			$of(u"\u1018\u101f\u102c\u1038\u1019\u102c\u1038 \u1012\u1031\u102b\u103a\u101c\u102c"_s)
+			$of(u"ဘဟားမား ဒေါ်လာ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("btn"_s),
-			$of(u"\u1018\u1030\u1010\u1014\u103a \u1021\u1036\u1002\u102b\u101c\u103a\u1011\u101b\u1014\u103a"_s)
+			$of(u"ဘူတန် အံဂါလ်ထရန်"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("buk"_s),
-			$of(u"\u1017\u1019\u102c \u1000\u103b\u1015\u103a"_s)
+			$of(u"ဗမာ ကျပ်"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bwp"_s),
-			$of(u"\u1018\u1031\u102c\u1037\u1006\u103d\u102c\u1014\u102c \u1015\u102f\u101c"_s)
+			$of(u"ဘော့ဆွာနာ ပုလ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("byb"_s),
-			$of(u"\u1018\u102e\u101c\u102c\u101b\u102f\u1005\u103a \u101b\u1030\u1018\u101a\u103a\u1021\u101e\u1005\u103a (\u1041\u1049\u1049\u1044\u2013\u1041\u1049\u1049\u1049)"_s)
+			$of(u"ဘီလာရုစ် ရူဘယ်အသစ် (၁၉၉၄–၁၉၉၉)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("byn"_s),
-			$of(u"\u1018\u102e\u101c\u102c\u101b\u102f\u1005\u103a \u101b\u1030\u1018\u101a\u103a"_s)
+			$of(u"ဘီလာရုစ် ရူဘယ်"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("byr"_s),
-			$of(u"\u1018\u102e\u101c\u102c\u101b\u102f\u1007\u103a \u101b\u1030\u1018\u101a\u103a (\u1042\u1040\u1040\u1040\u2013\u1042\u1040\u1041\u1046)"_s)
+			$of(u"ဘီလာရုဇ် ရူဘယ် (၂၀၀၀–၂၀၁၆)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bzd"_s),
-			$of(u"\u1018\u101c\u102d\u1007\u103a \u1012\u1031\u102b\u103a\u101c\u102c"_s)
+			$of(u"ဘလိဇ် ဒေါ်လာ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cad"_s),
-			$of(u"\u1000\u1014\u1031\u1012\u102b \u1012\u1031\u102b\u103a\u101c\u102c"_s)
+			$of(u"ကနေဒါ ဒေါ်လာ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cdf"_s),
-			$of(u"\u1000\u103d\u1014\u103a\u1002\u102d\u102f \u1016\u101b\u1014\u1037\u103a"_s)
+			$of(u"ကွန်ဂို ဖရန့်"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("chf"_s),
-			$of(u"\u1006\u103d\u1005\u103a \u1016\u101b\u1014\u1037\u103a"_s)
+			$of(u"ဆွစ် ဖရန့်"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("clp"_s),
-			$of(u"\u1001\u103b\u102e\u101c\u102e \u1015\u102e\u1006\u102d\u102f"_s)
+			$of(u"ချီလီ ပီဆို"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cnh"_s),
-			$of(u"\u1010\u101b\u102f\u1010\u103a \u101a\u103d\u1019\u103a (\u101f\u1031\u102c\u1004\u103a\u1000\u1031\u102c\u1004\u103a)"_s)
+			$of(u"တရုတ် ယွမ် (ဟောင်ကောင်)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cny"_s),
-			$of(u"\u1010\u101b\u102f\u1010\u103a \u101a\u103d\u1019\u103a"_s)
+			$of(u"တရုတ် ယွမ်"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cop"_s),
-			$of(u"\u1000\u102d\u102f\u101c\u1036\u1018\u102e\u101a\u102c \u1015\u102e\u1006\u102d\u102f"_s)
+			$of(u"ကိုလံဘီယာ ပီဆို"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("crc"_s),
-			$of(u"\u1000\u102d\u102f\u1037\u1005\u1010\u102c\u101b\u102e\u1000\u102c \u1000\u102d\u102f\u101c\u103d\u1014\u103a"_s)
+			$of(u"ကို့စတာရီကာ ကိုလွန်"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cuc"_s),
-			$of(u"\u1014\u102d\u102f\u1004\u103a\u1004\u1036\u1001\u103c\u102c\u1038\u1004\u103d\u1031\u101c\u1032\u101c\u103e\u101a\u103a\u1014\u102d\u102f\u1004\u103a\u101e\u1031\u102c \u1000\u103b\u1030\u1038\u1018\u102c\u1038\u1015\u102e\u1006\u102d\u102f"_s)
+			$of(u"နိုင်ငံခြားငွေလဲလှယ်နိုင်သော ကျူးဘားပီဆို"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cup"_s),
-			$of(u"\u1000\u103b\u1030\u1038\u1018\u102c\u1038 \u1015\u102e\u1006\u102d\u102f"_s)
+			$of(u"ကျူးဘား ပီဆို"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cve"_s),
-			$of(u"\u1000\u102d\u1010\u103a\u1015\u103a\u1017\u102c\u1012\u102e \u1021\u1000\u103a\u1005\u103a\u1001\u1030\u1012\u102d\u102f"_s)
+			$of(u"ကိတ်ပ်ဗာဒီ အက်စ်ခူဒို"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cyp"_s),
-			$of(u"\u1006\u102d\u102f\u1000\u103a\u1015\u101b\u1000\u103a\u1005\u103a \u1015\u1031\u102b\u1004\u103a"_s)
+			$of(u"ဆိုက်ပရက်စ် ပေါင်"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("czk"_s),
-			$of(u"\u1001\u103b\u1000\u103a \u1001\u102d\u102f\u101b\u102d\u102f\u1014\u102c"_s)
+			$of(u"ချက် ခိုရိုနာ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("dem"_s),
-			$of(u"\u1002\u103b\u102c\u1019\u100f\u102e \u1019\u1010\u103a"_s)
+			$of(u"ဂျာမဏီ မတ်"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("djf"_s),
-			$of(u"\u1002\u103b\u102e\u1018\u1030\u1010\u102e \u1016\u101b\u1014\u1037\u103a"_s)
+			$of(u"ဂျီဘူတီ ဖရန့်"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("dkk"_s),
-			$of(u"\u1012\u102d\u1014\u103a\u1038\u1019\u1010\u103a \u1001\u101b\u102d\u102f\u100f\u102c"_s)
+			$of(u"ဒိန်းမတ် ခရိုဏာ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("dop"_s),
-			$of(u"\u1012\u102d\u102f\u1019\u102e\u1014\u102e\u1000\u1014\u103a \u1015\u102e\u1006\u102d\u102f"_s)
+			$of(u"ဒိုမီနီကန် ပီဆို"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("dzd"_s),
-			$of(u"\u1021\u101a\u103a\u101c\u103a\u1002\u103b\u102e\u1038\u101b\u102e\u1038\u101a\u102c\u1038 \u1012\u102e\u1014\u102c"_s)
+			$of(u"အယ်လ်ဂျီးရီးယား ဒီနာ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("egp"_s),
-			$of(u"\u1021\u102e\u1002\u103b\u1005\u103a \u1015\u1031\u102b\u1004\u103a"_s)
+			$of(u"အီဂျစ် ပေါင်"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ern"_s),
-			$of(u"\u1021\u102e\u101b\u102e\u1011\u101b\u102e\u1038\u101a\u102c\u1038 \u1014\u102c\u1037\u1001\u103a\u1016\u102c"_s)
+			$of(u"အီရီထရီးယား နာ့ခ်ဖာ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("esp"_s),
-			$of(u"\u1005\u1015\u102d\u1014\u103a \u1015\u101a\u103a\u1005\u1031\u1038\u1010\u102c"_s)
+			$of(u"စပိန် ပယ်စေးတာ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("etb"_s),
-			$of(u"\u1021\u102e\u101e\u102e\u101a\u102d\u102f\u1038\u1015\u102e\u1038\u101a\u102c\u1038 \u1018\u102e\u1038\u101a\u102c"_s)
+			$of(u"အီသီယိုးပီးယား ဘီးယာ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("eur"_s),
-			$of(u"\u101a\u1030\u101b\u102d\u102f"_s)
+			$of(u"ယူရို"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("fjd"_s),
-			$of(u"\u1016\u102e\u1002\u103b\u102e \u1012\u1031\u102b\u103a\u101c\u102c"_s)
+			$of(u"ဖီဂျီ ဒေါ်လာ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("fkp"_s),
-			$of(u"\u1016\u1031\u102c\u1037\u1000\u101c\u1014\u103a\u1000\u103b\u103d\u1014\u103a\u1038\u1005\u102f \u1015\u1031\u102b\u1004\u103a"_s)
+			$of(u"ဖော့ကလန်ကျွန်းစု ပေါင်"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("frf"_s),
-			$of(u"\u1015\u103c\u1004\u103a\u101e\u1005\u103a \u1016\u101b\u1014\u1037\u103a"_s)
+			$of(u"ပြင်သစ် ဖရန့်"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gbp"_s),
-			$of(u"\u1017\u103c\u102d\u1010\u102d\u101e\u103b\u103e \u1015\u1031\u102b\u1004\u103a"_s)
+			$of(u"ဗြိတိသျှ ပေါင်"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gel"_s),
-			$of(u"\u1002\u103b\u1031\u102c\u103a\u1002\u103b\u102e\u101a\u102c \u101c\u102c\u1038\u101b\u102e"_s)
+			$of(u"ဂျော်ဂျီယာ လားရီ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ghs"_s),
-			$of(u"\u1002\u102b\u1014\u102c \u1006\u1032\u1012\u102e"_s)
+			$of(u"ဂါနာ ဆဲဒီ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gip"_s),
-			$of(u"\u1002\u103b\u102e\u1018\u101b\u1031\u102c\u103a\u101c\u103a\u1010\u102c \u1015\u1031\u102b\u1004\u103a"_s)
+			$of(u"ဂျီဘရော်လ်တာ ပေါင်"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gmd"_s),
-			$of(u"\u1002\u1019\u103a\u1018\u102e\u101a\u102c \u1012\u102b\u101c\u102c\u1005\u102e"_s)
+			$of(u"ဂမ်ဘီယာ ဒါလာစီ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gnf"_s),
-			$of(u"\u1002\u102e\u1014\u102e\u101b\u102c \u1016\u101b\u1014\u1037\u103a"_s)
+			$of(u"ဂီနီရာ ဖရန့်"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gtq"_s),
-			$of(u"\u1002\u103d\u102b\u1010\u102e\u1019\u102c\u101c\u102c \u1001\u1000\u103a\u1007\u1031\u102c\u103a\u101c\u103a"_s)
+			$of(u"ဂွါတီမာလာ ခက်ဇော်လ်"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gyd"_s),
-			$of(u"\u1002\u102d\u102f\u1004\u103a\u101a\u102c\u1014\u102c \u1012\u1031\u102b\u103a\u101c\u102c"_s)
+			$of(u"ဂိုင်ယာနာ ဒေါ်လာ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("hkd"_s),
-			$of(u"\u101f\u1031\u102c\u1004\u103a\u1000\u1031\u102c\u1004\u103a \u1012\u1031\u102b\u103a\u101c\u102c"_s)
+			$of(u"ဟောင်ကောင် ဒေါ်လာ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("hnl"_s),
-			$of(u"\u101f\u103d\u1014\u103a\u1012\u1030\u1038\u101b\u1015\u103a\u1005\u103a \u101c\u1019\u103a\u1038\u1015\u102e\u101b\u102c"_s)
+			$of(u"ဟွန်ဒူးရပ်စ် လမ်းပီရာ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("hrk"_s),
-			$of(u"\u1001\u101b\u102d\u102f\u1021\u1031\u1038\u101b\u103e\u102c\u1038 \u1001\u1030\u1038\u1014\u102c"_s)
+			$of(u"ခရိုအေးရှား ခူးနာ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("htg"_s),
-			$of(u"\u101f\u1031\u1010\u102e\u1002\u1030\u1038\u1021\u1031\u102c\u103a\u1012\u103a"_s)
+			$of(u"ဟေတီဂူးအော်ဒ်"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("huf"_s),
-			$of(u"\u101f\u1014\u103a\u1002\u1031\u101b\u102e\u101a\u1036 \u1016\u1031\u102c\u103a\u101b\u1004\u1037\u103a\u1010\u103a"_s)
+			$of(u"ဟန်ဂေရီယံ ဖော်ရင့်တ်"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("idr"_s),
-			$of(u"\u1021\u1004\u103a\u1012\u102d\u102f\u1014\u102e\u1038\u101b\u103e\u102c\u1038 \u101b\u1030\u1015\u102e\u1038\u101a\u102c\u1038"_s)
+			$of(u"အင်ဒိုနီးရှား ရူပီးယား"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ilp"_s),
-			$of(u"\u1021\u1005\u1039\u1005\u101b\u1031\u1038 \u1015\u1031\u102b\u1004\u103a"_s)
+			$of(u"အစ္စရေး ပေါင်"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ils"_s),
-			$of(u"\u1021\u1005\u1039\u1005\u101b\u1031\u1038 \u101b\u103e\u1032\u1000\u101c\u103a\u1021\u101e\u1005\u103a"_s)
+			$of(u"အစ္စရေး ရှဲကလ်အသစ်"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("inr"_s),
-			$of(u"\u1021\u102d\u1014\u1039\u1012\u102d\u101a \u101b\u1030\u1015\u102e\u1038"_s)
+			$of(u"အိန္ဒိယ ရူပီး"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("iqd"_s),
-			$of(u"\u1021\u102e\u101b\u1010\u103a \u1012\u102e\u1014\u102c"_s)
+			$of(u"အီရတ် ဒီနာ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("irr"_s),
-			$of(u"\u1021\u102e\u101b\u1014\u103a \u101b\u102e\u1021\u1031\u102c\u103a\u101c\u103a"_s)
+			$of(u"အီရန် ရီအော်လ်"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("isk"_s),
-			$of(u"\u1021\u102d\u102f\u1000\u103a\u1005\u101c\u1014\u103a \u1001\u101b\u102d\u102f\u100f\u102c"_s)
+			$of(u"အိုက်စလန် ခရိုဏာ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("jmd"_s),
-			$of(u"\u1002\u103b\u1019\u1031\u1000\u102c \u1012\u1031\u102b\u103a\u101c\u102c"_s)
+			$of(u"ဂျမေကာ ဒေါ်လာ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("jod"_s),
-			$of(u"\u1002\u103b\u1031\u102c\u103a\u1012\u1014\u103a \u1012\u102e\u1014\u102c"_s)
+			$of(u"ဂျော်ဒန် ဒီနာ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("jpy"_s),
-			$of(u"\u1002\u103b\u1015\u1014\u103a \u101a\u1014\u103a\u1038"_s)
+			$of(u"ဂျပန် ယန်း"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kes"_s),
-			$of(u"\u1000\u1004\u103a\u100a\u102c \u101e\u103b\u103e\u102e\u101c\u1004\u103a"_s)
+			$of(u"ကင်ညာ သျှီလင်"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kgs"_s),
-			$of(u"\u1000\u102c\u1002\u103b\u1005\u1039\u1005\u1010\u1014\u103a \u1006\u1031\u102c\u103a\u1019\u103a"_s)
+			$of(u"ကာဂျစ္စတန် ဆော်မ်"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("khr"_s),
-			$of(u"\u1000\u1019\u1039\u1018\u1031\u102c\u1012\u102e\u1038\u101a\u102c\u1038 \u101b\u102e\u1038\u101a\u1032"_s)
+			$of(u"ကမ္ဘောဒီးယား ရီးယဲ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kmf"_s),
-			$of(u"\u1000\u102d\u102f\u1019\u102d\u102f\u101b\u102d\u102f\u1005\u103a \u1016\u101b\u1014\u1037\u103a"_s)
+			$of(u"ကိုမိုရိုစ် ဖရန့်"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kpw"_s),
-			$of(u"\u1019\u103c\u1031\u102c\u1000\u103a\u1000\u102d\u102f\u101b\u102e\u1038\u101a\u102c\u1038 \u101d\u1019\u103a"_s)
+			$of(u"မြောက်ကိုရီးယား ဝမ်"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("krw"_s),
-			$of(u"\u1010\u1031\u102c\u1004\u103a\u1000\u102d\u102f\u101b\u102e\u1038\u101a\u102c\u1038 \u101d\u1019\u103a"_s)
+			$of(u"တောင်ကိုရီးယား ဝမ်"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kwd"_s),
-			$of(u"\u1000\u1030\u101d\u102d\u1010\u103a \u1012\u102e\u1014\u102c"_s)
+			$of(u"ကူဝိတ် ဒီနာ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kyd"_s),
-			$of(u"\u1000\u1031\u1019\u1014\u103a \u1000\u103b\u103d\u1014\u103a\u1038\u1005\u102f \u1012\u1031\u102b\u103a\u101c\u102c"_s)
+			$of(u"ကေမန် ကျွန်းစု ဒေါ်လာ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kzt"_s),
-			$of(u"\u1000\u102c\u1007\u1000\u103a\u1005\u1010\u1014\u103a \u1011\u102d\u1014\u103a\u1002\u103b\u102e"_s)
+			$of(u"ကာဇက်စတန် ထိန်ဂျီ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lak"_s),
-			$of(u"\u101c\u102c\u1021\u102d\u102f \u1000\u1005\u103a"_s)
+			$of(u"လာအို ကစ်"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lbp"_s),
-			$of(u"\u101c\u1000\u103a\u1018\u1014\u103d\u1014\u103a \u1015\u1031\u102b\u1004\u103a"_s)
+			$of(u"လက်ဘနွန် ပေါင်"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lkr"_s),
-			$of(u"\u101e\u102e\u101b\u102d\u101c\u1004\u103a\u1039\u1000\u102c \u101b\u1030\u1015\u102e\u1038"_s)
+			$of(u"သီရိလင်္ကာ ရူပီး"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lrd"_s),
-			$of(u"\u101c\u102d\u102f\u1000\u103a\u1018\u1031\u1038\u101b\u102e\u1038\u101a\u102c\u1038 \u1012\u1031\u102b\u103a\u101c\u102c"_s)
+			$of(u"လိုက်ဘေးရီးယား ဒေါ်လာ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ltl"_s),
-			$of(u"\u101c\u1005\u103a\u101e\u1030\u101a\u1031\u1038\u1014\u102e\u1038\u101a\u102c\u1038\u101c\u102e\u1010\u102c\u1038\u1005\u103a"_s)
+			$of(u"လစ်သူယေးနီးယားလီတားစ်"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lvl"_s),
-			$of(u"\u101c\u1010\u103a\u1017\u102e\u1038\u101a\u102c\u1038\u101c\u1010\u103a"_s)
+			$of(u"လတ်ဗီးယားလတ်"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lyd"_s),
-			$of(u"\u101c\u1005\u103a\u1017\u103b\u102c\u1038 \u1012\u102d\u102f\u1004\u103a\u1014\u102c"_s)
+			$of(u"လစ်ဗျား ဒိုင်နာ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mad"_s),
-			$of(u"\u1019\u102d\u102f\u101b\u102d\u102f\u1000\u102d\u102f \u1012\u101b\u1019\u103a"_s)
+			$of(u"မိုရိုကို ဒရမ်"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mdl"_s),
-			$of(u"\u1019\u1031\u102c\u101c\u103a\u1012\u102d\u102f\u1017\u102c \u101c\u101a\u103a\u1021\u102d\u102f"_s)
+			$of(u"မောလ်ဒိုဗာ လယ်အို"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mga"_s),
-			$of(u"\u1019\u102c\u101c\u102c\u1002\u102b\u1005\u102e \u1021\u101b\u102e\u101b\u101b\u102e"_s)
+			$of(u"မာလာဂါစီ အရီရရီ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mkd"_s),
-			$of(u"\u1019\u1000\u103a\u1006\u102e\u1012\u102d\u102f\u1038\u1014\u102e\u1038\u101a\u102c\u1038 \u1012\u102e\u1014\u102c"_s)
+			$of(u"မက်ဆီဒိုးနီးယား ဒီနာ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mmk"_s),
-			$of(u"\u1019\u103c\u1014\u103a\u1019\u102c \u1000\u103b\u1015\u103a"_s)
+			$of(u"မြန်မာ ကျပ်"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mnt"_s),
-			$of(u"\u1019\u103d\u1014\u103a\u1002\u102d\u102f\u1038\u101c\u102e\u1038\u101a\u102c\u1038 \u1011\u1030\u1038\u1002\u101b\u1001\u103a"_s)
+			$of(u"မွန်ဂိုးလီးယား ထူးဂရခ်"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mop"_s),
-			$of(u"\u1019\u1000\u102c\u1021\u102d\u102f \u1015\u102b\u1010\u102c\u1038\u1000\u102c\u1038"_s)
+			$of(u"မကာအို ပါတားကား"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mro"_s),
-			$of(u"\u1019\u1031\u102c\u103a\u101b\u102e\u1010\u1031\u1038\u1014\u102e\u1038\u101a\u102c\u1038 \u1021\u1030\u1002\u102e\u1038\u101a\u102c (\u1041\u1049\u1047\u1043\u2013\u1042\u1040\u1041\u1047)"_s)
+			$of(u"မော်ရီတေးနီးယား အူဂီးယာ (၁၉၇၃–၂၀၁၇)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mru"_s),
-			$of(u"\u1019\u1031\u102c\u103a\u101b\u102e\u1010\u1031\u1038\u1014\u102e\u1038\u101a\u1014\u103a\u1038 \u1021\u1030\u1002\u102e\u1038\u101a\u102c"_s)
+			$of(u"မော်ရီတေးနီးယန်း အူဂီးယာ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mur"_s),
-			$of(u"\u1019\u1031\u102c\u101b\u1005\u103a\u101b\u103e \u101b\u1030\u1015\u102e\u1038"_s)
+			$of(u"မောရစ်ရှ ရူပီး"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mvr"_s),
-			$of(u"\u1019\u1031\u102c\u103a\u101c\u103a\u1012\u102d\u102f\u1000\u103a \u101b\u1030\u1038\u1016\u102e\u101b\u102c"_s)
+			$of(u"မော်လ်ဒိုက် ရူးဖီရာ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mwk"_s),
-			$of(u"\u1019\u102c\u101c\u102c\u101d\u102e \u1001\u103d\u102b\u1038\u1001\u103b\u102c"_s)
+			$of(u"မာလာဝီ ခွါးချာ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mxn"_s),
-			$of(u"\u1019\u1000\u103a\u1000\u1006\u102e\u1000\u102d\u102f \u1015\u102e\u1006\u102d\u102f"_s)
+			$of(u"မက်ကဆီကို ပီဆို"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("myr"_s),
-			$of(u"\u1019\u101c\u1031\u1038\u101b\u103e\u102c\u1038 \u101b\u1004\u103a\u1038\u1002\u1005\u103a"_s)
+			$of(u"မလေးရှား ရင်းဂစ်"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mzn"_s),
-			$of(u"\u1019\u102d\u102f\u1007\u1019\u103a\u1018\u1005\u103a \u1019\u1000\u103a\u1010\u102e\u1001\u101a\u103a\u101c\u103a"_s)
+			$of(u"မိုဇမ်ဘစ် မက်တီခယ်လ်"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("nad"_s),
-			$of(u"\u1014\u1019\u102e\u1038\u1018\u102e\u1038\u101a\u102c\u1038 \u1012\u1031\u102b\u103a\u101c\u102c"_s)
+			$of(u"နမီးဘီးယား ဒေါ်လာ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ngn"_s),
-			$of(u"\u1014\u102d\u102f\u1004\u103a\u1002\u103b\u102e\u1038\u101b\u102e\u1038\u101a\u102c\u1038 \u1014\u102d\u102f\u1004\u103a\u1038\u101b\u102c"_s)
+			$of(u"နိုင်ဂျီးရီးယား နိုင်းရာ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("nio"_s),
-			$of(u"\u1014\u102e\u1000\u102c\u101b\u102c\u1002\u103d\u102b \u1001\u102d\u102f\u1038\u1012\u102d\u102f\u1018\u102c"_s)
+			$of(u"နီကာရာဂွါ ခိုးဒိုဘာ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("nok"_s),
-			$of(u"\u1014\u1031\u102c\u103a\u101d\u1031 \u1001\u101b\u102d\u102f\u100f\u102c"_s)
+			$of(u"နော်ဝေ ခရိုဏာ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("npr"_s),
-			$of(u"\u1014\u102e\u1015\u1031\u102b \u101b\u1030\u1015\u102e\u1038"_s)
+			$of(u"နီပေါ ရူပီး"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("nzd"_s),
-			$of(u"\u1014\u101a\u1030\u1038\u1007\u102e\u101c\u1014\u103a \u1012\u1031\u102b\u103a\u101c\u102c"_s)
+			$of(u"နယူးဇီလန် ဒေါ်လာ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("omr"_s),
-			$of(u"\u1021\u102d\u102f\u1019\u1014\u103a\u1014\u102e \u101b\u102e\u101b\u101a\u103a"_s)
+			$of(u"အိုမန်နီ ရီရယ်"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pab"_s),
-			$of(u"\u1015\u1014\u102c\u1038\u1019\u102c\u1038 \u1018\u101c\u103b\u1018\u102d\u102f\u1038\u1021\u102c"_s)
+			$of(u"ပနားမား ဘလျဘိုးအာ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pen"_s),
-			$of(u"\u1015\u102e\u101b\u1030\u1038 \u1006\u102d\u102f\u1038\u101c\u103a"_s)
+			$of(u"ပီရူး ဆိုးလ်"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pgk"_s),
-			$of(u"\u1015\u102b\u1015\u1030\u1021\u102c \u1014\u101a\u1030\u1038\u1002\u102e\u1014\u102e \u1001\u102e\u1038\u1014\u102c"_s)
+			$of(u"ပါပူအာ နယူးဂီနီ ခီးနာ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("php"_s),
-			$of(u"\u1016\u102d\u101c\u1005\u103a\u1015\u102d\u102f\u1004\u103a \u1015\u102e\u1006\u102d\u102f"_s)
+			$of(u"ဖိလစ်ပိုင် ပီဆို"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pkr"_s),
-			$of(u"\u1015\u102b\u1000\u1005\u1039\u1005\u1010\u1014\u103a \u101b\u1030\u1015\u102e\u1038"_s)
+			$of(u"ပါကစ္စတန် ရူပီး"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pln"_s),
-			$of(u"\u1015\u102d\u102f\u101c\u1014\u103a \u1007\u101c\u1031\u102c\u1037\u1010\u102e"_s)
+			$of(u"ပိုလန် ဇလော့တီ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pyg"_s),
-			$of(u"\u1015\u102b\u101b\u102c\u1002\u103d\u1031\u1038 \u1002\u103d\u102b\u1038\u1021\u103a\u1014\u102e\u1038"_s)
+			$of(u"ပါရာဂွေး ဂွါးအ်နီး"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("qar"_s),
-			$of(u"\u1000\u102c\u1010\u102c\u101b\u102e \u101b\u102e\u101b\u101a\u103a"_s)
+			$of(u"ကာတာရီ ရီရယ်"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ron"_s),
-			$of(u"\u101b\u102d\u102f\u1019\u1031\u1038\u1014\u102e\u1038\u101a\u102c\u1038 \u101c\u101a\u103a\u1021\u102d\u102f"_s)
+			$of(u"ရိုမေးနီးယား လယ်အို"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("rsd"_s),
-			$of(u"\u1006\u102c\u1038\u1018\u102e\u1038\u101a\u102c\u1038 \u1012\u101a\u103a\u1014\u102c\u1038"_s)
+			$of(u"ဆားဘီးယား ဒယ်နား"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("rub"_s),
-			$of(u"\u101b\u102f\u101b\u103e \u101b\u1030\u1018\u101a\u103a"_s)
+			$of(u"ရုရှ ရူဘယ်"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("rur"_s),
-			$of(u"\u101b\u102f\u101b\u103e \u101b\u1030\u1018\u101a\u103a (\u1041\u1049\u1049\u1041\u2013\u1041\u1049\u1049\u1048)"_s)
+			$of(u"ရုရှ ရူဘယ် (၁၉၉၁–၁၉၉၈)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("rwf"_s),
-			$of(u"\u101b\u101d\u1014\u103a\u1012\u102b \u1016\u101b\u1014\u1037\u103a"_s)
+			$of(u"ရဝန်ဒါ ဖရန့်"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sar"_s),
-			$of(u"\u1006\u1031\u102c\u103a\u1012\u102e\u1021\u102c\u101b\u1031\u1038\u1017\u102e\u1038\u101a\u102c\u1038 \u101b\u102e\u101a\u1031\u102c\u103a\u101c\u103a"_s)
+			$of(u"ဆော်ဒီအာရေးဗီးယား ရီယော်လ်"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sbd"_s),
-			$of(u"\u1006\u1031\u102c\u103a\u101c\u1019\u103d\u1014\u103a\u1000\u103b\u103d\u1014\u103a\u1038\u1005\u102f \u1012\u1031\u102b\u103a\u101c\u102c"_s)
+			$of(u"ဆော်လမွန်ကျွန်းစု ဒေါ်လာ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("scr"_s),
-			$of(u"\u1006\u1031\u1038\u101b\u103e\u1032 \u101b\u1030\u1015\u102e\u1038"_s)
+			$of(u"ဆေးရှဲ ရူပီး"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sdg"_s),
-			$of(u"\u1006\u1030\u1012\u1014\u103a \u1015\u1031\u102b\u1004\u103a"_s)
+			$of(u"ဆူဒန် ပေါင်"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sdp"_s),
-			$of(u"\u1006\u1030\u1012\u1014\u103a \u1015\u1031\u102b\u1004\u103a\u1021\u101f\u1031\u102c\u1004\u103a\u1038"_s)
+			$of(u"ဆူဒန် ပေါင်အဟောင်း"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sek"_s),
-			$of(u"\u1006\u103d\u102e\u1012\u1004\u103a \u1001\u101b\u102d\u102f\u100f\u102c"_s)
+			$of(u"ဆွီဒင် ခရိုဏာ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sgd"_s),
-			$of(u"\u1005\u1004\u103a\u1039\u1000\u102c\u1015\u1030 \u1012\u1031\u102b\u103a\u101c\u102c"_s)
+			$of(u"စင်္ကာပူ ဒေါ်လာ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("shp"_s),
-			$of(u"\u1005\u102d\u1014\u1037\u103a\u101f\u101a\u103a\u101c\u101a\u103a\u1014\u102c \u1015\u1031\u102b\u1004\u103a"_s)
+			$of(u"စိန့်ဟယ်လယ်နာ ပေါင်"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sll"_s),
-			$of(u"\u1006\u102e\u101a\u102c\u101b\u102c\u101c\u102e\u101a\u103d\u1014\u103a\u1038 \u101c\u102e\u1021\u102d\u102f\u1014\u102e"_s)
+			$of(u"ဆီယာရာလီယွန်း လီအိုနီ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sos"_s),
-			$of(u"\u1006\u102d\u102f\u1019\u102c\u101c\u102e \u101e\u103b\u103e\u102e\u101c\u1004\u103a"_s)
+			$of(u"ဆိုမာလီ သျှီလင်"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("srd"_s),
-			$of(u"\u1006\u1030\u101b\u102e\u1014\u1019\u103a\u1038 \u1012\u1031\u102b\u103a\u101c\u102c"_s)
+			$of(u"ဆူရီနမ်း ဒေါ်လာ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ssp"_s),
-			$of(u"\u1010\u1031\u102c\u1004\u103a\u1006\u1030\u1012\u1014\u103a \u1015\u1031\u102b\u1004\u103a"_s)
+			$of(u"တောင်ဆူဒန် ပေါင်"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("std"_s),
-			$of(u"\u1006\u1031\u102c\u1004\u103a\u1010\u1030\u1019\u1031\u1038\u1014\u103e\u1004\u1037\u103a \u1015\u101b\u1004\u103a\u1005\u102e\u1015\u102e \u1012\u102d\u102f\u1018\u101b\u102c"_s)
+			$of(u"ဆောင်တူမေးနှင့် ပရင်စီပီ ဒိုဘရာ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("stn"_s),
-			$of(u"\u1006\u1031\u102c\u1004\u103a\u1010\u1030\u1019\u1031\u1038\u1014\u103e\u1004\u1037\u103a \u1015\u101b\u1004\u103a\u1005\u102e\u1015\u102e \u1012\u102d\u102f\u1018\u101b\u102c (\u1042\u1040\u1041\u1048)"_s)
+			$of(u"ဆောင်တူမေးနှင့် ပရင်စီပီ ဒိုဘရာ (၂၀၁၈)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sur"_s),
-			$of(u"\u1006\u102d\u102f\u1017\u102e\u101a\u1000\u103a \u101b\u1030\u1017\u101a\u103a"_s)
+			$of(u"ဆိုဗီယက် ရူဗယ်"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("syp"_s),
-			$of(u"\u1006\u102e\u1038\u101b\u102e\u1038\u101a\u102c\u1038 \u1015\u1031\u102b\u1004\u103a"_s)
+			$of(u"ဆီးရီးယား ပေါင်"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("szl"_s),
-			$of(u"\u1006\u103d\u102c\u1007\u102e\u101c\u1014\u103a \u101c\u102e\u101c\u1014\u103a\u1038\u1002\u102e\u1014\u102e"_s)
+			$of(u"ဆွာဇီလန် လီလန်းဂီနီ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("thb"_s),
-			$of(u"\u1011\u102d\u102f\u1004\u103a\u1038 \u1018\u1010\u103a"_s)
+			$of(u"ထိုင်း ဘတ်"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("tjs"_s),
-			$of(u"\u1010\u102c\u1002\u103b\u1005\u103a\u1000\u1005\u1039\u1005\u1010\u1014\u103a \u1006\u102d\u102f\u1019\u102d\u102f\u1014\u102e"_s)
+			$of(u"တာဂျစ်ကစ္စတန် ဆိုမိုနီ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("tmt"_s),
-			$of(u"\u1010\u102c\u1037\u1001\u103a\u1019\u1004\u103a\u1014\u1005\u1039\u1005\u1010\u1014\u103a \u1019\u102c\u1014\u1010\u103a"_s)
+			$of(u"တာ့ခ်မင်နစ္စတန် မာနတ်"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("tnd"_s),
-			$of(u"\u1010\u1030\u1014\u102e\u1038\u101b\u103e\u102c\u1038 \u1012\u102d\u102f\u1004\u103a\u1014\u102c"_s)
+			$of(u"တူနီးရှား ဒိုင်နာ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("top"_s),
-			$of(u"\u1010\u103d\u1014\u103a\u1002\u102b \u1017\u1014\u103a\u1002\u102b"_s)
+			$of(u"တွန်ဂါ ဗန်ဂါ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("trl"_s),
-			$of(u"\u101b\u103e\u1031\u1038\u101f\u1031\u102c\u1004\u103a\u1038\u1010\u1030\u101b\u1000\u102e \u101c\u102d\u102f\u1004\u103a\u101b\u102c"_s)
+			$of(u"ရှေးဟောင်းတူရကီ လိုင်ရာ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("try"_s),
-			$of(u"\u1010\u1030\u101b\u1000\u102e \u101c\u102d\u102f\u1004\u103a\u101b\u102c"_s)
+			$of(u"တူရကီ လိုင်ရာ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ttd"_s),
-			$of(u"\u1011\u101b\u102e\u1014\u102e\u1012\u1010\u103a\u1014\u103e\u1004\u1037\u103a \u1010\u102d\u102f\u1018\u1000\u103a\u1002\u102d\u102f \u1012\u1031\u102b\u103a\u101c\u102c"_s)
+			$of(u"ထရီနီဒတ်နှင့် တိုဘက်ဂို ဒေါ်လာ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("twd"_s),
-			$of(u"\u1011\u102d\u102f\u1004\u103a\u101d\u1019\u103a \u1012\u1031\u102b\u103a\u101c\u102c\u1021\u101e\u1005\u103a"_s)
+			$of(u"ထိုင်ဝမ် ဒေါ်လာအသစ်"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("tzs"_s),
-			$of(u"\u1010\u1014\u103a\u1007\u1014\u103a\u1038\u1014\u102e\u1038\u101a\u102c\u1038 \u101e\u103b\u103e\u102e\u101c\u1004\u103a"_s)
+			$of(u"တန်ဇန်းနီးယား သျှီလင်"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("uah"_s),
-			$of(u"\u101a\u1030\u1000\u101b\u102d\u1014\u103a\u1038 \u101f\u102e\u101b\u102e\u1017\u1004\u103a\u1038\u100a\u102c\u1038"_s)
+			$of(u"ယူကရိန်း ဟီရီဗင်းညား"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ugx"_s),
-			$of(u"\u101a\u1030\u1002\u1014\u1039\u1012\u102c \u101e\u103b\u103e\u102e\u101c\u1004\u103a"_s)
+			$of(u"ယူဂန္ဒာ သျှီလင်"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("usd"_s),
-			$of(u"\u1021\u1019\u1031\u101b\u102d\u1000\u1014\u103a \u1012\u1031\u102b\u103a\u101c\u102c"_s)
+			$of(u"အမေရိကန် ဒေါ်လာ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("usn"_s),
-			$of(u"\u1021\u1019\u1031\u101b\u102d\u1000\u1014\u103a \u1012\u1031\u102b\u103a\u101c\u102c (\u1014\u1031\u102c\u1000\u103a\u1014\u1031\u1037)"_s)
+			$of(u"အမေရိကန် ဒေါ်လာ (နောက်နေ့)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("uss"_s),
-			$of(u"\u1021\u1019\u1031\u101b\u102d\u1000\u1014\u103a \u1012\u1031\u102b\u103a\u101c\u102c (\u1010\u1014\u1031\u1037\u1010\u100a\u103a\u1038)"_s)
+			$of(u"အမေရိကန် ဒေါ်လာ (တနေ့တည်း)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("uyu"_s),
-			$of(u"\u1025\u101b\u102f\u1002\u103d\u1031\u1038 \u1015\u102e\u1006\u102d\u102f"_s)
+			$of(u"ဥရုဂွေး ပီဆို"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("uzs"_s),
-			$of(u"\u1025\u1007\u1018\u1000\u103a\u1000\u1005\u1039\u1005\u1010\u1014\u103a \u1006\u1031\u102c\u103a\u1019\u103a"_s)
+			$of(u"ဥဇဘက်ကစ္စတန် ဆော်မ်"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("vef"_s),
-			$of(u"\u1017\u1004\u103a\u1014\u102e\u1007\u103d\u1032\u101c\u102c\u1038 \u1018\u102d\u102f\u101c\u102e\u1017\u102c (\u1042\u1040\u1040\u1048\u2013\u1042\u1040\u1041\u1048)"_s)
+			$of(u"ဗင်နီဇွဲလား ဘိုလီဗာ (၂၀၀၈–၂၀၁၈)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ves"_s),
-			$of(u"\u1017\u1004\u103a\u1014\u102e\u1007\u103d\u1032\u101c\u1014\u103a\u1038 \u1018\u102d\u102f\u101c\u102e\u1017\u102c"_s)
+			$of(u"ဗင်နီဇွဲလန်း ဘိုလီဗာ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("vnd"_s),
-			$of(u"\u1017\u102e\u101a\u1000\u103a\u1014\u1019\u103a \u1012\u1031\u102b\u1004\u103a"_s)
+			$of(u"ဗီယက်နမ် ဒေါင်"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("vuv"_s),
-			$of(u"\u1017\u1014\u103d\u102c\u1038\u1010\u1030 \u1017\u102c\u1038\u1011\u1030"_s)
+			$of(u"ဗနွားတူ ဗားထူ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("wst"_s),
-			$of(u"\u1006\u1019\u102d\u102f\u1021\u102c\u1038 \u1011\u102c\u1038\u101c\u102c"_s)
+			$of(u"ဆမိုအား ထားလာ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xaf"_s),
-			$of(u"\u1000\u1004\u103a\u1019\u101b\u103d\u1014\u103a\u1038 \u1016\u101b\u1014\u1037\u103a"_s)
+			$of(u"ကင်မရွန်း ဖရန့်"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xag"_s),
-			$of(u"\u1004\u103d\u1031"_s)
+			$of(u"ငွေ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xau"_s),
-			$of(u"\u101b\u103d\u103e\u1031"_s)
+			$of(u"ရွှေ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xbb"_s),
-			$of(u"\u1025\u101b\u1031\u102c\u1015\u1004\u103d\u1031\u1000\u103c\u1031\u1038\u1005\u1036\u1014\u1005\u103a"_s)
+			$of(u"ဥရောပငွေကြေးစံနစ်"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xcd"_s),
-			$of(u"\u1021\u101b\u103e\u1031\u1037\u1000\u102c\u101b\u1005\u103a\u1018\u102e\u101a\u1036 \u1012\u1031\u102b\u103a\u101c\u102c"_s)
+			$of(u"အရှေ့ကာရစ်ဘီယံ ဒေါ်လာ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xdr"_s),
-			$of(u"\u1021\u1011\u1030\u1038\u1011\u102f\u1010\u103a\u101a\u1030\u1001\u103d\u1004\u1037\u103a"_s)
+			$of(u"အထူးထုတ်ယူခွင့်"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xof"_s),
-			$of(u"\u1021\u1014\u1031\u102c\u1000\u103a \u1021\u102c\u1016\u101b\u102d\u1000 CFA \u1016\u101b\u1014\u1037\u103a"_s)
+			$of(u"အနောက် အာဖရိက CFA ဖရန့်"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xpf"_s),
-			$of(u"CFP \u1016\u101b\u1014\u1037\u103a"_s)
+			$of(u"CFP ဖရန့်"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xpt"_s),
-			$of(u"\u1015\u101c\u1000\u103a\u1010\u102e\u1014\u1019\u103a"_s)
+			$of(u"ပလက်တီနမ်"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xts"_s),
-			$of(u"\u1005\u1019\u103a\u1038\u101e\u1015\u103a \u1004\u103d\u1031\u1000\u103c\u1031\u1038 \u1000\u102f\u1012\u103a"_s)
+			$of(u"စမ်းသပ် ငွေကြေး ကုဒ်"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xxx"_s),
-			$of(u"\u1019\u101e\u102d\u101e\u102d\u102f\u1037\u1019\u101f\u102f\u1010\u103a\u1019\u101b\u103e\u102d\u101e\u1031\u102c\u1004\u103d\u1031\u1000\u103c\u1031\u1038"_s)
+			$of(u"မသိသို့မဟုတ်မရှိသောငွေကြေး"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("yer"_s),
-			$of(u"\u101a\u102e\u1019\u1004\u103a\u1014\u102e \u101b\u102e\u101b\u101a\u103a"_s)
+			$of(u"ယီမင်နီ ရီရယ်"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("zar"_s),
-			$of(u"\u1010\u1031\u102c\u1004\u103a\u1021\u102c\u1016\u101b\u102d\u1000 \u101b\u1014\u103a\u1038"_s)
+			$of(u"တောင်အာဖရိက ရန်း"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("zmw"_s),
-			$of(u"\u1007\u1004\u103a\u1018\u102c\u1018\u103d\u1031 \u1001\u103d\u102b\u1038\u1001\u103b\u102c"_s)
+			$of(u"ဇင်ဘာဘွေ ခွါးချာ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("zwd"_s),
-			$of(u"\u1007\u1004\u103a\u1018\u102c\u1018\u103d\u1031 \u1012\u1031\u102b\u103a\u101c\u102c"_s)
+			$of(u"ဇင်ဘာဘွေ ဒေါ်လာ"_s)
 		})
 	}));
 	return data;

@@ -118,7 +118,7 @@ void FormatLocale::lambda$main$0(int32_t i) {
 	if (!$nc($(baos->toString()))->equals($($nc(FormatLocale::expected)->get(i)))) {
 		$var($String, var$2, $$str({"Wrong conversion with PrintStream.format() in locale "_s, $($nc(FormatLocale::formatLocale)->get(i)), ". Expected: "_s}));
 		$var($String, var$1, $$concat(var$2, $cast($String, $($nc(FormatLocale::expected)->get(i)))));
-		$var($String, var$0, $$concat(var$1, " Returned: "));
+		$var($String, var$0, $$concat(var$1, " Returned: "_s));
 		$throwNew($RuntimeException, $$concat(var$0, $(baos->toString())));
 	}
 }

@@ -286,8 +286,8 @@ $ObjectArray2* FormatData_jv::getContents() {
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
+				u"‰"_s,
+				u"∞"_s,
 				"NaN"_s,
 				""_s,
 				""_s
@@ -387,9 +387,9 @@ $ObjectArray2* FormatData_jv::getContents() {
 				""_s,
 				""_s,
 				""_s,
-				u"{other:0\' \'\u00e8wu}"_s,
-				u"{other:00\' \'\u00e8wu}"_s,
-				u"{other:000\' \'\u00e8wu}"_s,
+				u"{other:0\' \'èwu}"_s,
+				u"{other:00\' \'èwu}"_s,
+				u"{other:000\' \'èwu}"_s,
 				"{other:0\' \'yuta}"_s,
 				"{other:00\' \'yuta}"_s,
 				"{other:000\' \'yuta}"_s,
@@ -555,9 +555,9 @@ $ObjectArray2* FormatData_jv::getContents() {
 				""_s,
 				""_s,
 				""_s,
-				u"{other:0\u00c8}"_s,
-				u"{other:00\u00c8}"_s,
-				u"{other:000\u00c8}"_s,
+				u"{other:0È}"_s,
+				u"{other:00È}"_s,
+				u"{other:000È}"_s,
 				"{other:0Y}"_s,
 				"{other:00Y}"_s,
 				"{other:000Y}"_s,
@@ -618,9 +618,9 @@ $ObjectArray2* FormatData_jv::getContents() {
 			$of("latn.NumberPatterns"_s),
 			$of($$new($StringArray, {
 				"#,##0.###"_s,
-				u"\u00a4\u00a0#,##0.00"_s,
+				u"¤ #,##0.00"_s,
 				"#,##0%"_s,
-				u"\u00a4\u00a0#,##0.00"_s
+				u"¤ #,##0.00"_s
 			}))
 		}),
 		$$new($ObjectArray, {

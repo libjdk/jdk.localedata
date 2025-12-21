@@ -44,7 +44,7 @@ $ObjectArray2* FormatData_et::getContents() {
 			$of($$new($StringArray, {
 				"jaanuar"_s,
 				"veebruar"_s,
-				u"m\u00e4rts"_s,
+				u"märts"_s,
 				"aprill"_s,
 				"mai"_s,
 				"juuni"_s,
@@ -62,7 +62,7 @@ $ObjectArray2* FormatData_et::getContents() {
 			$of($$new($StringArray, {
 				"jaan"_s,
 				"veebr"_s,
-				u"m\u00e4rts"_s,
+				u"märts"_s,
 				"apr"_s,
 				"mai"_s,
 				"juuni"_s,
@@ -96,13 +96,13 @@ $ObjectArray2* FormatData_et::getContents() {
 		$$new($ObjectArray, {
 			$of("DayNames"_s),
 			$of($$new($StringArray, {
-				u"p\u00fchap\u00e4ev"_s,
-				u"esmasp\u00e4ev"_s,
-				u"teisip\u00e4ev"_s,
-				u"kolmap\u00e4ev"_s,
-				u"neljap\u00e4ev"_s,
+				u"pühapäev"_s,
+				u"esmaspäev"_s,
+				u"teisipäev"_s,
+				u"kolmapäev"_s,
+				u"neljapäev"_s,
 				"reede"_s,
-				u"laup\u00e4ev"_s
+				u"laupäev"_s
 			}))
 		}),
 		$$new($ObjectArray, {
@@ -147,16 +147,16 @@ $ObjectArray2* FormatData_et::getContents() {
 			$of("NumberElements"_s),
 			$of($$new($StringArray, {
 				","_s,
-				u"\u00a0"_s,
+				u" "_s,
 				";"_s,
 				"%"_s,
 				"0"_s,
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
-				u"\ufffd"_s
+				u"‰"_s,
+				u"∞"_s,
+				u"�"_s
 			}))
 		}),
 		$$new($ObjectArray, {

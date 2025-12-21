@@ -128,7 +128,7 @@ $ObjectArray2* JavaTimeSupplementary_de::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.islamic-civil"_s),
-			$of(u"B\u00fcrgerlicher islamischer Kalender"_s)
+			$of(u"Bürgerlicher islamischer Kalender"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.islamic-umalqura"_s),
@@ -144,7 +144,7 @@ $ObjectArray2* JavaTimeSupplementary_de::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.dayperiod"_s),
-			$of(u"Tagesh\u00e4lfte"_s)
+			$of(u"Tageshälfte"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("field.era"_s),
@@ -274,7 +274,7 @@ $ObjectArray2* JavaTimeSupplementary_de::getContents() {
 			$of($$new($StringArray, {
 				"Jan."_s,
 				"Feb."_s,
-				u"M\u00e4rz"_s,
+				u"März"_s,
 				"Apr."_s,
 				"Mai"_s,
 				"Juni"_s,
@@ -292,7 +292,7 @@ $ObjectArray2* JavaTimeSupplementary_de::getContents() {
 			$of($$new($StringArray, {
 				"Januar"_s,
 				"Februar"_s,
-				u"M\u00e4rz"_s,
+				u"März"_s,
 				"April"_s,
 				"Mai"_s,
 				"Juni"_s,

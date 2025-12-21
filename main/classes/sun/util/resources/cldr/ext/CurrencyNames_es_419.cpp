@@ -58,19 +58,19 @@ $ObjectArray2* CurrencyNames_es_419::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ang"_s),
-			$of(u"flor\u00edn de las Antillas Neerlandesas"_s)
+			$of(u"florín de las Antillas Neerlandesas"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bmd"_s),
-			$of(u"d\u00f3lar de Bermudas"_s)
+			$of(u"dólar de Bermudas"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mwk"_s),
-			$of(u"kwacha malau\u00ed"_s)
+			$of(u"kwacha malauí"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("nio"_s),
-			$of(u"c\u00f3rdoba nicarag\u00fcense"_s)
+			$of(u"córdoba nicaragüense"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("thb"_s),

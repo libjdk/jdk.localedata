@@ -42,23 +42,23 @@ $ObjectArray2* CurrencyNames_jgo::getContents() {
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("cad"_s),
-			$of(u"Nd\u0254\u0301la-Kanand\u00e2"_s)
+			$of(u"Ndɔ́la-Kanandâ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("eur"_s),
-			$of(u"\u0244\u0301l\u0254"_s)
+			$of(u"Ʉ́lɔ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("usd"_s),
-			$of(u"Nd\u0254\u0301la-Am\u025bl\u00eek"_s)
+			$of(u"Ndɔ́la-Amɛlîk"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xaf"_s),
-			$of(u"F\u025bl\u00e2\u014b"_s)
+			$of(u"Fɛlâŋ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xxx"_s),
-			$of(u"nt\u025b-\u014bk\u00e1p yi p\u025b\u0301 k\u00e1 k\u025b\u0301 j\u00edn\u025b"_s)
+			$of(u"ntɛ-ŋkáp yi pɛ́ ká kɛ́ jínɛ"_s)
 		})
 	}));
 	return data;

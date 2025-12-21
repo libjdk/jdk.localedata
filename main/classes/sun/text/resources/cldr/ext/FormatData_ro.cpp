@@ -85,13 +85,13 @@ $ObjectArray2* FormatData_ro::getContents() {
 		""_s
 	}));
 	$var($StringArray, metaValue_DayNames, $new($StringArray, {
-		u"duminic\u0103"_s,
+		u"duminică"_s,
 		"luni"_s,
-		u"mar\u021bi"_s,
+		u"marți"_s,
 		"miercuri"_s,
 		"joi"_s,
 		"vineri"_s,
-		u"s\u00e2mb\u0103t\u0103"_s
+		u"sâmbătă"_s
 	}));
 	$var($StringArray, metaValue_DayAbbreviations, $new($StringArray, {
 		"dum."_s,
@@ -100,7 +100,7 @@ $ObjectArray2* FormatData_ro::getContents() {
 		"mie."_s,
 		"joi"_s,
 		"vin."_s,
-		u"s\u00e2m."_s
+		u"sâm."_s
 	}));
 	$var($StringArray, metaValue_DayNarrows, $new($StringArray, {
 		"D"_s,
@@ -132,11 +132,11 @@ $ObjectArray2* FormatData_ro::getContents() {
 	$var($StringArray, metaValue_AmPmMarkers, $new($StringArray, {
 		"a.m."_s,
 		"p.m."_s,
-		u"la miezul nop\u021bii"_s,
-		u"la amiaz\u0103"_s,
-		u"diminea\u021ba"_s,
+		u"la miezul nopții"_s,
+		u"la amiază"_s,
+		u"dimineața"_s,
 		""_s,
-		u"dup\u0103-amiaza"_s,
+		u"după-amiaza"_s,
 		""_s,
 		"seara"_s,
 		""_s,
@@ -146,11 +146,11 @@ $ObjectArray2* FormatData_ro::getContents() {
 	$var($StringArray, metaValue_narrow_AmPmMarkers, $new($StringArray, {
 		"a.m."_s,
 		"p.m."_s,
-		u"miezul nop\u021bii"_s,
-		u"la amiaz\u0103"_s,
-		u"diminea\u021ba"_s,
+		u"miezul nopții"_s,
+		u"la amiază"_s,
+		u"dimineața"_s,
 		""_s,
-		u"dup\u0103-amiaza"_s,
+		u"după-amiaza"_s,
 		""_s,
 		"seara"_s,
 		""_s,
@@ -160,11 +160,11 @@ $ObjectArray2* FormatData_ro::getContents() {
 	$var($StringArray, metaValue_abbreviated_AmPmMarkers, $new($StringArray, {
 		"a.m."_s,
 		"p.m."_s,
-		u"miezul nop\u021bii"_s,
-		u"amiaz\u0103"_s,
-		u"diminea\u021ba"_s,
+		u"miezul nopții"_s,
+		u"amiază"_s,
+		u"dimineața"_s,
 		""_s,
-		u"dup\u0103-amiaza"_s,
+		u"după-amiaza"_s,
 		""_s,
 		"seara"_s,
 		""_s,
@@ -172,7 +172,7 @@ $ObjectArray2* FormatData_ro::getContents() {
 		""_s
 	}));
 	$var($StringArray, metaValue_Eras, $new($StringArray, {
-		u"\u00ee.Hr."_s,
+		u"î.Hr."_s,
 		"d.Hr."_s
 	}));
 	$var($StringArray, metaValue_TimePatterns, $new($StringArray, {
@@ -183,7 +183,7 @@ $ObjectArray2* FormatData_ro::getContents() {
 	}));
 	$var($StringArray, metaValue_java_time_buddhist_long_Eras, $new($StringArray, {
 		"BC"_s,
-		u"era budist\u0103"_s
+		u"era budistă"_s
 	}));
 	$var($StringArray, metaValue_java_time_buddhist_Eras, $new($StringArray, {
 		"BC"_s,
@@ -202,11 +202,11 @@ $ObjectArray2* FormatData_ro::getContents() {
 		"dd.MM.y G"_s
 	}));
 	$var($StringArray, metaValue_java_time_roc_long_Eras, $new($StringArray, {
-		u"\u00eenainte de Republica China"_s,
+		u"înainte de Republica China"_s,
 		"Republica China"_s
 	}));
 	$var($StringArray, metaValue_java_time_roc_Eras, $new($StringArray, {
-		u"\u00ee.R.C."_s,
+		u"î.R.C."_s,
 		"R.C."_s
 	}));
 	$var($StringArray, metaValue_java_time_islamic_long_Eras, $new($StringArray, {
@@ -314,8 +314,8 @@ $ObjectArray2* FormatData_ro::getContents() {
 		$$new($ObjectArray, {
 			$of("long.Eras"_s),
 			$of($$new($StringArray, {
-				u"\u00eenainte de Hristos"_s,
-				u"dup\u0103 Hristos"_s
+				u"înainte de Hristos"_s,
+				u"după Hristos"_s
 			}))
 		}),
 		$$new($ObjectArray, {
@@ -358,8 +358,8 @@ $ObjectArray2* FormatData_ro::getContents() {
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
+				u"‰"_s,
+				u"∞"_s,
 				"NaN"_s,
 				""_s,
 				""_s
@@ -383,7 +383,7 @@ $ObjectArray2* FormatData_ro::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.era"_s),
-			$of(u"er\u0103"_s)
+			$of(u"eră"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("buddhist.AmPmMarkers"_s),
@@ -419,7 +419,7 @@ $ObjectArray2* FormatData_ro::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.month"_s),
-			$of(u"lun\u0103"_s)
+			$of(u"lună"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("roc.Eras"_s),
@@ -427,7 +427,7 @@ $ObjectArray2* FormatData_ro::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.second"_s),
-			$of(u"secund\u0103"_s)
+			$of(u"secundă"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("DayAbbreviations"_s),
@@ -595,7 +595,7 @@ $ObjectArray2* FormatData_ro::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.weekday"_s),
-			$of(u"ziua din s\u0103pt\u0103m\u00e2n\u0103"_s)
+			$of(u"ziua din săptămână"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("japanese.MonthAbbreviations"_s),
@@ -651,7 +651,7 @@ $ObjectArray2* FormatData_ro::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.week"_s),
-			$of(u"s\u0103pt\u0103m\u00e2n\u0103"_s)
+			$of(u"săptămână"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("buddhist.DateTimePatterns"_s),
@@ -696,18 +696,18 @@ $ObjectArray2* FormatData_ro::getContents() {
 				""_s,
 				""_s,
 				""_s,
-				u"{one:0\u00a0K few:0\u00a0K other:0\u00a0K}"_s,
-				u"{one:00\u00a0K few:00\u00a0K other:00\u00a0K}"_s,
-				u"{one:000\u00a0K few:000\u00a0K other:000\u00a0K}"_s,
-				u"{one:0\u00a0mil\'.\' few:0\u00a0mil\'.\' other:0\u00a0mil\'.\'}"_s,
-				u"{one:00\u00a0mil\'.\' few:00\u00a0mil\'.\' other:00\u00a0mil\'.\'}"_s,
-				u"{one:000\u00a0mil\'.\' few:000\u00a0mil\'.\' other:000\u00a0mil\'.\'}"_s,
-				u"{one:0\u00a0mld\'.\' few:0\u00a0mld\'.\' other:0\u00a0mld\'.\'}"_s,
-				u"{one:00\u00a0mld\'.\' few:00\u00a0mld\'.\' other:00\u00a0mld\'.\'}"_s,
-				u"{one:000\u00a0mld\'.\' few:000\u00a0mld\'.\' other:000\u00a0mld\'.\'}"_s,
-				u"{one:0\u00a0tril\'.\' few:0\u00a0tril\'.\' other:0\u00a0tril\'.\'}"_s,
-				u"{one:00\u00a0tril\'.\' few:00\u00a0tril\'.\' other:00\u00a0tril\'.\'}"_s,
-				u"{one:000\u00a0tril\'.\' few:000\u00a0tril\'.\' other:000\u00a0tril\'.\'}"_s
+				u"{one:0 K few:0 K other:0 K}"_s,
+				u"{one:00 K few:00 K other:00 K}"_s,
+				u"{one:000 K few:000 K other:000 K}"_s,
+				u"{one:0 mil\'.\' few:0 mil\'.\' other:0 mil\'.\'}"_s,
+				u"{one:00 mil\'.\' few:00 mil\'.\' other:00 mil\'.\'}"_s,
+				u"{one:000 mil\'.\' few:000 mil\'.\' other:000 mil\'.\'}"_s,
+				u"{one:0 mld\'.\' few:0 mld\'.\' other:0 mld\'.\'}"_s,
+				u"{one:00 mld\'.\' few:00 mld\'.\' other:00 mld\'.\'}"_s,
+				u"{one:000 mld\'.\' few:000 mld\'.\' other:000 mld\'.\'}"_s,
+				u"{one:0 tril\'.\' few:0 tril\'.\' other:0 tril\'.\'}"_s,
+				u"{one:00 tril\'.\' few:00 tril\'.\' other:00 tril\'.\'}"_s,
+				u"{one:000 tril\'.\' few:000 tril\'.\' other:000 tril\'.\'}"_s
 			}))
 		}),
 		$$new($ObjectArray, {
@@ -720,7 +720,7 @@ $ObjectArray2* FormatData_ro::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.regionFormat.daylight"_s),
-			$of(u"Ora de var\u0103 din {0}"_s)
+			$of(u"Ora de vară din {0}"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("DatePatterns"_s),
@@ -753,7 +753,7 @@ $ObjectArray2* FormatData_ro::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.hour"_s),
-			$of(u"or\u0103"_s)
+			$of(u"oră"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("islamic.narrow.Eras"_s),
@@ -771,9 +771,9 @@ $ObjectArray2* FormatData_ro::getContents() {
 			$of("latn.NumberPatterns"_s),
 			$of($$new($StringArray, {
 				"#,##0.###"_s,
-				u"#,##0.00\u00a0\u00a4"_s,
-				u"#,##0\u00a0%"_s,
-				u"#,##0.00\u00a0\u00a4;(#,##0.00\u00a0\u00a4)"_s
+				u"#,##0.00 ¤"_s,
+				u"#,##0 %"_s,
+				u"#,##0.00 ¤;(#,##0.00 ¤)"_s
 			}))
 		}),
 		$$new($ObjectArray, {

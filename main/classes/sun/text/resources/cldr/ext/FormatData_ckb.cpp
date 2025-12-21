@@ -40,74 +40,74 @@ void FormatData_ckb::init$() {
 $ObjectArray2* FormatData_ckb::getContents() {
 	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_MonthNames, $new($StringArray, {
-		u"\u06a9\u0627\u0646\u0648\u0648\u0646\u06cc \u062f\u0648\u0648\u06d5\u0645"_s,
-		u"\u0634\u0648\u0628\u0627\u062a"_s,
-		u"\u0626\u0627\u0632\u0627\u0631"_s,
-		u"\u0646\u06cc\u0633\u0627\u0646"_s,
-		u"\u0626\u0627\u06cc\u0627\u0631"_s,
-		u"\u062d\u0648\u0632\u06d5\u06cc\u0631\u0627\u0646"_s,
-		u"\u062a\u06d5\u0645\u0648\u0648\u0632"_s,
-		u"\u0626\u0627\u0628"_s,
-		u"\u0626\u06d5\u06cc\u0644\u0648\u0648\u0644"_s,
-		u"\u062a\u0634\u0631\u06cc\u0646\u06cc \u06cc\u06d5\u06a9\u06d5\u0645"_s,
-		u"\u062a\u0634\u0631\u06cc\u0646\u06cc \u062f\u0648\u0648\u06d5\u0645"_s,
-		u"\u06a9\u0627\u0646\u0648\u0646\u06cc \u06cc\u06d5\u06a9\u06d5\u0645"_s,
+		u"کانوونی دووەم"_s,
+		u"شوبات"_s,
+		u"ئازار"_s,
+		u"نیسان"_s,
+		u"ئایار"_s,
+		u"حوزەیران"_s,
+		u"تەمووز"_s,
+		u"ئاب"_s,
+		u"ئەیلوول"_s,
+		u"تشرینی یەکەم"_s,
+		u"تشرینی دووەم"_s,
+		u"کانونی یەکەم"_s,
 		""_s
 	}));
 	$var($StringArray, metaValue_MonthNarrows, $new($StringArray, {
-		u"\u06a9"_s,
-		u"\u0634"_s,
-		u"\u0626"_s,
-		u"\u0646"_s,
-		u"\u0626"_s,
-		u"\u062d"_s,
-		u"\u062a"_s,
-		u"\u0626"_s,
-		u"\u0626"_s,
-		u"\u062a"_s,
-		u"\u062a"_s,
-		u"\u06a9"_s,
+		u"ک"_s,
+		u"ش"_s,
+		u"ئ"_s,
+		u"ن"_s,
+		u"ئ"_s,
+		u"ح"_s,
+		u"ت"_s,
+		u"ئ"_s,
+		u"ئ"_s,
+		u"ت"_s,
+		u"ت"_s,
+		u"ک"_s,
 		""_s
 	}));
 	$var($StringArray, metaValue_DayNames, $new($StringArray, {
-		u"\u06cc\u06d5\u06a9\u0634\u06d5\u0645\u0645\u06d5"_s,
-		u"\u062f\u0648\u0648\u0634\u06d5\u0645\u0645\u06d5"_s,
-		u"\u0633\u06ce\u0634\u06d5\u0645\u0645\u06d5"_s,
-		u"\u0686\u0648\u0627\u0631\u0634\u06d5\u0645\u0645\u06d5"_s,
-		u"\u067e\u06ce\u0646\u062c\u0634\u06d5\u0645\u0645\u06d5"_s,
-		u"\u06be\u06d5\u06cc\u0646\u06cc"_s,
-		u"\u0634\u06d5\u0645\u0645\u06d5"_s
+		u"یەکشەممە"_s,
+		u"دووشەممە"_s,
+		u"سێشەممە"_s,
+		u"چوارشەممە"_s,
+		u"پێنجشەممە"_s,
+		u"ھەینی"_s,
+		u"شەممە"_s
 	}));
 	$var($StringArray, metaValue_DayNarrows, $new($StringArray, {
-		u"\u06cc"_s,
-		u"\u062f"_s,
-		u"\u0633"_s,
-		u"\u0686"_s,
-		u"\u067e"_s,
-		u"\u06be"_s,
-		u"\u0634"_s
+		u"ی"_s,
+		u"د"_s,
+		u"س"_s,
+		u"چ"_s,
+		u"پ"_s,
+		u"ھ"_s,
+		u"ش"_s
 	}));
 	$var($StringArray, metaValue_QuarterNames, $new($StringArray, {
-		u"\u0686\u0627\u0631\u06d5\u06a9\u06cc \u06cc\u06d5\u06a9\u06d5\u0645"_s,
-		u"\u0686\u0627\u0631\u06d5\u06a9\u06cc \u062f\u0648\u0648\u06d5\u0645"_s,
-		u"\u0686\u0627\u0631\u06d5\u06a9\u06cc \u0633\u06ce\u06d5\u0645"_s,
-		u"\u0686\u0627\u0631\u06d5\u06a9\u06cc \u0686\u0648\u0627\u0631\u06d5\u0645"_s
+		u"چارەکی یەکەم"_s,
+		u"چارەکی دووەم"_s,
+		u"چارەکی سێەم"_s,
+		u"چارەکی چوارەم"_s
 	}));
 	$var($StringArray, metaValue_QuarterAbbreviations, $new($StringArray, {
-		u"\u0686\u0661"_s,
-		u"\u0686\u0662"_s,
-		u"\u0686\u0663"_s,
-		u"\u0686\u0664"_s
+		u"چ١"_s,
+		u"چ٢"_s,
+		u"چ٣"_s,
+		u"چ٤"_s
 	}));
 	$var($StringArray, metaValue_QuarterNarrows, $new($StringArray, {
-		u"\u0661"_s,
-		u"\u0662"_s,
-		u"\u0663"_s,
-		u"\u0664"_s
+		u"١"_s,
+		u"٢"_s,
+		u"٣"_s,
+		u"٤"_s
 	}));
 	$var($StringArray, metaValue_AmPmMarkers, $new($StringArray, {
-		u"\u0628.\u0646"_s,
-		u"\u062f.\u0646"_s,
+		u"ب.ن"_s,
+		u"د.ن"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -120,8 +120,8 @@ $ObjectArray2* FormatData_ckb::getContents() {
 		""_s
 	}));
 	$var($StringArray, metaValue_long_Eras, $new($StringArray, {
-		u"\u067e\u06ce\u0634 \u0632\u0627\u06cc\u06cc\u0646"_s,
-		u"\u0632\u0627\u06cc\u06cc\u0646\u06cc"_s
+		u"پێش زایین"_s,
+		u"زایینی"_s
 	}));
 	$var($StringArray, metaValue_TimePatterns, $new($StringArray, {
 		"h:mm:ss a zzzz"_s,
@@ -131,13 +131,13 @@ $ObjectArray2* FormatData_ckb::getContents() {
 	}));
 	$var($StringArray, metaValue_java_time_buddhist_DatePatterns, $new($StringArray, {
 		"G y MMMM d, EEEE"_s,
-		u"d\u06cc MMMM\u06cc y G"_s,
+		u"dی MMMMی y G"_s,
 		"G y MMM d"_s,
 		"GGGGG y-MM-dd"_s
 	}));
 	$var($StringArray, metaValue_buddhist_DatePatterns, $new($StringArray, {
 		"GGGG y MMMM d, EEEE"_s,
-		u"d\u06cc MMMM\u06cc y GGGG"_s,
+		u"dی MMMMی y GGGG"_s,
 		"GGGG y MMM d"_s,
 		"G y-MM-dd"_s
 	}));
@@ -210,8 +210,8 @@ $ObjectArray2* FormatData_ckb::getContents() {
 			$of("arab.NumberPatterns"_s),
 			$of($$new($StringArray, {
 				"#,##0.###"_s,
-				u"#,##0.00\u00a0\u00a4"_s,
-				u"#,##0\u00a0%"_s,
+				u"#,##0.00 ¤"_s,
+				u"#,##0 %"_s,
 				""_s
 			}))
 		}),
@@ -323,8 +323,8 @@ $ObjectArray2* FormatData_ckb::getContents() {
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
+				u"‰"_s,
+				u"∞"_s,
 				"NaN"_s,
 				""_s,
 				""_s
@@ -373,16 +373,16 @@ $ObjectArray2* FormatData_ckb::getContents() {
 		$$new($ObjectArray, {
 			$of("arab.NumberElements"_s),
 			$of($$new($StringArray, {
-				u"\u066b"_s,
-				u"\u066c"_s,
-				u"\u061b"_s,
-				u"\u066a"_s,
-				u"\u0660"_s,
+				u"٫"_s,
+				u"٬"_s,
+				u"؛"_s,
+				u"٪"_s,
+				u"٠"_s,
 				"#"_s,
 				u"\u200f-"_s,
-				u"\u0627\u0633"_s,
-				u"\u0609"_s,
-				u"\u221e"_s,
+				u"اس"_s,
+				u"؉"_s,
+				u"∞"_s,
 				"NaN"_s,
 				""_s,
 				""_s
@@ -460,7 +460,7 @@ $ObjectArray2* FormatData_ckb::getContents() {
 			$of("DatePatterns"_s),
 			$of($$new($StringArray, {
 				"y MMMM d, EEEE"_s,
-				u"d\u06cc MMMM\u06cc y"_s,
+				u"dی MMMMی y"_s,
 				"y MMM d"_s,
 				"y-MM-dd"_s
 			}))
@@ -505,9 +505,9 @@ $ObjectArray2* FormatData_ckb::getContents() {
 			$of("latn.NumberPatterns"_s),
 			$of($$new($StringArray, {
 				"#,##0.###"_s,
-				u"\u00a4\u00a0#,##0.00"_s,
+				u"¤ #,##0.00"_s,
 				"#,##0%"_s,
-				u"\u00a4\u00a0#,##0.00"_s
+				u"¤ #,##0.00"_s
 			}))
 		}),
 		$$new($ObjectArray, {

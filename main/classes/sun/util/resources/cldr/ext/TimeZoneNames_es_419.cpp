@@ -44,14 +44,14 @@ $ObjectArray2* TimeZoneNames_es_419::getContents() {
 	$useLocalCurrentObjectStackCache();
 	$var($StringArray, GMT, $new($StringArray, {
 		"hora del meridiano de Greenwich"_s,
-		u"\u2205\u2205\u2205"_s,
+		u"∅∅∅"_s,
 		""_s,
 		""_s,
 		""_s,
 		""_s
 	}));
 	$var($StringArray, Cook, $new($StringArray, {
-		u"hora est\u00e1ndar de las islas Cook"_s,
+		u"hora estándar de las islas Cook"_s,
 		""_s,
 		"hora de verano media de las islas Cook"_s,
 		""_s,
@@ -83,7 +83,7 @@ $ObjectArray2* TimeZoneNames_es_419::getContents() {
 		""_s
 	}));
 	$var($StringArray, Easter, $new($StringArray, {
-		u"hora est\u00e1ndar de Isla de Pascua"_s,
+		u"hora estándar de Isla de Pascua"_s,
 		""_s,
 		"hora de verano de la Isla de Pascua"_s,
 		""_s,
@@ -107,7 +107,7 @@ $ObjectArray2* TimeZoneNames_es_419::getContents() {
 		""_s
 	}));
 	$var($StringArray, Norfolk, $new($StringArray, {
-		u"hora est\u00e1ndar de la Isla Norfolk"_s,
+		u"hora estándar de la Isla Norfolk"_s,
 		""_s,
 		"hora de verano de la Isla Norfolk"_s,
 		""_s,
@@ -115,7 +115,7 @@ $ObjectArray2* TimeZoneNames_es_419::getContents() {
 		""_s
 	}));
 	$var($StringArray, Solomon, $new($StringArray, {
-		u"hora de Islas Salom\u00f3n"_s,
+		u"hora de Islas Salomón"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -123,7 +123,7 @@ $ObjectArray2* TimeZoneNames_es_419::getContents() {
 		""_s
 	}));
 	$var($StringArray, Falkland, $new($StringArray, {
-		u"hora est\u00e1ndar de las Islas Malvinas"_s,
+		u"hora estándar de las Islas Malvinas"_s,
 		""_s,
 		"hora de verano de las Islas Malvinas"_s,
 		""_s,
@@ -131,31 +131,31 @@ $ObjectArray2* TimeZoneNames_es_419::getContents() {
 		""_s
 	}));
 	$var($StringArray, Europe_Central, $new($StringArray, {
-		u"hora est\u00e1ndar de Europa central"_s,
-		u"\u2205\u2205\u2205"_s,
+		u"hora estándar de Europa central"_s,
+		u"∅∅∅"_s,
 		"hora de verano de Europa central"_s,
-		u"\u2205\u2205\u2205"_s,
+		u"∅∅∅"_s,
 		"hora de Europa central"_s,
-		u"\u2205\u2205\u2205"_s
+		u"∅∅∅"_s
 	}));
 	$var($StringArray, Europe_Eastern, $new($StringArray, {
-		u"hora est\u00e1ndar de Europa del Este"_s,
-		u"\u2205\u2205\u2205"_s,
+		u"hora estándar de Europa del Este"_s,
+		u"∅∅∅"_s,
 		"hora de verano de Europa del Este"_s,
-		u"\u2205\u2205\u2205"_s,
+		u"∅∅∅"_s,
 		"hora de Europa del Este"_s,
-		u"\u2205\u2205\u2205"_s
+		u"∅∅∅"_s
 	}));
 	$var($StringArray, Europe_Western, $new($StringArray, {
-		u"hora est\u00e1ndar de Europa del Oeste"_s,
-		u"\u2205\u2205\u2205"_s,
+		u"hora estándar de Europa del Oeste"_s,
+		u"∅∅∅"_s,
 		"hora de verano de Europa del Oeste"_s,
-		u"\u2205\u2205\u2205"_s,
+		u"∅∅∅"_s,
 		"hora de Europa del Oeste"_s,
-		u"\u2205\u2205\u2205"_s
+		u"∅∅∅"_s
 	}));
 	$var($StringArray, French_Southern, $new($StringArray, {
-		u"hora de las Tierras Australes y Ant\u00e1rticas Francesas"_s,
+		u"hora de las Tierras Australes y Antárticas Francesas"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -171,11 +171,11 @@ $ObjectArray2* TimeZoneNames_es_419::getContents() {
 		""_s
 	}));
 	$var($StringArray, America_Mountain, $new($StringArray, {
-		u"hora est\u00e1ndar de la monta\u00f1a"_s,
+		u"hora estándar de la montaña"_s,
 		""_s,
-		u"hora de verano de la monta\u00f1a"_s,
+		u"hora de verano de la montaña"_s,
 		""_s,
-		u"hora de la monta\u00f1a"_s,
+		u"hora de la montaña"_s,
 		""_s
 	}));
 	$var($StringArray, Marshall_Islands, $new($StringArray, {
@@ -367,8 +367,8 @@ $ObjectArray2* TimeZoneNames_es_419::getContents() {
 			$of("Europe/Dublin"_s),
 			$of($$new($StringArray, {
 				"hora del meridiano de Greenwich"_s,
-				u"\u2205\u2205\u2205"_s,
-				u"hora est\u00e1ndar de Irlanda"_s,
+				u"∅∅∅"_s,
+				u"hora estándar de Irlanda"_s,
 				""_s,
 				""_s,
 				""_s
@@ -700,7 +700,7 @@ $ObjectArray2* TimeZoneNames_es_419::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Nassau"_s),
-			$of(u"Nas\u00e1u"_s)
+			$of(u"Nasáu"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Atlantic/Canary"_s),
@@ -708,7 +708,7 @@ $ObjectArray2* TimeZoneNames_es_419::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Busingen"_s),
-			$of(u"B\u00fcsingen"_s)
+			$of(u"Büsingen"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Guernsey"_s),
@@ -720,7 +720,7 @@ $ObjectArray2* TimeZoneNames_es_419::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/St_Thomas"_s),
-			$of(u"Santo Tom\u00e1s"_s)
+			$of(u"Santo Tomás"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Fort_Nelson"_s),

@@ -40,9 +40,9 @@ void FormatData_hr::init$() {
 $ObjectArray2* FormatData_hr::getContents() {
 	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_MonthNames, $new($StringArray, {
-		u"sije\u010dnja"_s,
-		u"velja\u010de"_s,
-		u"o\u017eujka"_s,
+		u"siječnja"_s,
+		u"veljače"_s,
+		u"ožujka"_s,
 		"travnja"_s,
 		"svibnja"_s,
 		"lipnja"_s,
@@ -57,7 +57,7 @@ $ObjectArray2* FormatData_hr::getContents() {
 	$var($StringArray, metaValue_MonthAbbreviations, $new($StringArray, {
 		"sij"_s,
 		"velj"_s,
-		u"o\u017eu"_s,
+		u"ožu"_s,
 		"tra"_s,
 		"svi"_s,
 		"lip"_s,
@@ -89,7 +89,7 @@ $ObjectArray2* FormatData_hr::getContents() {
 		"ponedjeljak"_s,
 		"utorak"_s,
 		"srijeda"_s,
-		u"\u010detvrtak"_s,
+		u"četvrtak"_s,
 		"petak"_s,
 		"subota"_s
 	}));
@@ -98,7 +98,7 @@ $ObjectArray2* FormatData_hr::getContents() {
 		"pon"_s,
 		"uto"_s,
 		"sri"_s,
-		u"\u010det"_s,
+		u"čet"_s,
 		"pet"_s,
 		"sub"_s
 	}));
@@ -107,7 +107,7 @@ $ObjectArray2* FormatData_hr::getContents() {
 		"P"_s,
 		"U"_s,
 		"S"_s,
-		u"\u010c"_s,
+		u"Č"_s,
 		"P"_s,
 		"S"_s
 	}));
@@ -132,29 +132,29 @@ $ObjectArray2* FormatData_hr::getContents() {
 	$var($StringArray, metaValue_AmPmMarkers, $new($StringArray, {
 		"AM"_s,
 		"PM"_s,
-		u"pono\u0107"_s,
+		u"ponoć"_s,
 		"podne"_s,
 		"ujutro"_s,
 		""_s,
 		"poslije podne"_s,
 		""_s,
-		u"nave\u010der"_s,
+		u"navečer"_s,
 		""_s,
-		u"no\u0107u"_s,
+		u"noću"_s,
 		""_s
 	}));
 	$var($StringArray, metaValue_narrow_AmPmMarkers, $new($StringArray, {
 		"AM"_s,
 		"PM"_s,
-		u"pono\u0107"_s,
+		u"ponoć"_s,
 		"podne"_s,
 		"ujutro"_s,
 		""_s,
 		"popodne"_s,
 		""_s,
-		u"nave\u010der"_s,
+		u"navečer"_s,
 		""_s,
-		u"no\u0107u"_s,
+		u"noću"_s,
 		""_s
 	}));
 	$var($StringArray, metaValue_TimePatterns, $new($StringArray, {
@@ -182,16 +182,16 @@ $ObjectArray2* FormatData_hr::getContents() {
 	$var($StringArray, metaValue_java_time_japanese_long_Eras, $new($StringArray, {
 		"poslije Krista"_s,
 		"Meiji"_s,
-		u"Taish\u014d"_s,
-		u"Sh\u014dwa"_s,
+		u"Taishō"_s,
+		u"Shōwa"_s,
 		"Heisei"_s,
 		"Reiwa"_s
 	}));
 	$var($StringArray, metaValue_java_time_japanese_Eras, $new($StringArray, {
 		"po. Kr."_s,
 		"Meiji"_s,
-		u"Taish\u014d"_s,
-		u"Sh\u014dwa"_s,
+		u"Taishō"_s,
+		u"Shōwa"_s,
 		"Heisei"_s,
 		"Reiwa"_s
 	}));
@@ -362,10 +362,10 @@ $ObjectArray2* FormatData_hr::getContents() {
 				"%"_s,
 				"0"_s,
 				"#"_s,
-				u"\u2212"_s,
+				u"−"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
+				u"‰"_s,
+				u"∞"_s,
 				"NaN"_s,
 				""_s,
 				""_s
@@ -507,9 +507,9 @@ $ObjectArray2* FormatData_hr::getContents() {
 				""_s,
 				""_s,
 				""_s,
-				u"{one:0\' \'tisu\u0107a few:0\' \'tisu\u0107e other:0\' \'tisu\u0107a}"_s,
-				u"{one:00\' \'tisu\u0107a few:00\' \'tisu\u0107e other:00\' \'tisu\u0107a}"_s,
-				u"{one:000\' \'tisu\u0107a few:000\' \'tisu\u0107e other:000\' \'tisu\u0107a}"_s,
+				u"{one:0\' \'tisuća few:0\' \'tisuće other:0\' \'tisuća}"_s,
+				u"{one:00\' \'tisuća few:00\' \'tisuće other:00\' \'tisuća}"_s,
+				u"{one:000\' \'tisuća few:000\' \'tisuće other:000\' \'tisuća}"_s,
 				"{one:0\' \'milijun few:0\' \'milijuna other:0\' \'milijuna}"_s,
 				"{one:00\' \'milijun few:00\' \'milijuna other:00\' \'milijuna}"_s,
 				"{one:000\' \'milijun few:000\' \'milijuna other:000\' \'milijuna}"_s,
@@ -556,7 +556,7 @@ $ObjectArray2* FormatData_hr::getContents() {
 				"p"_s,
 				"u"_s,
 				"s"_s,
-				u"\u010d"_s,
+				u"č"_s,
 				"p"_s,
 				"s"_s
 			}))
@@ -734,18 +734,18 @@ $ObjectArray2* FormatData_hr::getContents() {
 				""_s,
 				""_s,
 				""_s,
-				u"{one:0\u00a0tis\'.\' few:0\u00a0tis\'.\' other:0\u00a0tis\'.\'}"_s,
-				u"{one:00\u00a0tis\'.\' few:00\u00a0tis\'.\' other:00\u00a0tis\'.\'}"_s,
-				u"{one:000\u00a0tis\'.\' few:000\u00a0tis\'.\' other:000\u00a0tis\'.\'}"_s,
-				u"{one:0\u00a0mil\'.\' few:0\u00a0mil\'.\' other:0\u00a0mil\'.\'}"_s,
-				u"{one:00\u00a0mil\'.\' few:00\u00a0mil\'.\' other:00\u00a0mil\'.\'}"_s,
-				u"{one:000\u00a0mil\'.\' few:000\u00a0mil\'.\' other:000\u00a0mil\'.\'}"_s,
-				u"{one:0\u00a0mlr\'.\' few:0\u00a0mlr\'.\' other:0\u00a0mlr\'.\'}"_s,
-				u"{one:00\u00a0mlr\'.\' few:00\u00a0mlr\'.\' other:00\u00a0mlr\'.\'}"_s,
-				u"{one:000\u00a0mlr\'.\' few:000\u00a0mlr\'.\' other:000\u00a0mlr\'.\'}"_s,
-				u"{one:0\u00a0bil\'.\' few:0\u00a0bil\'.\' other:0\u00a0bil\'.\'}"_s,
-				u"{one:00\u00a0bil\'.\' few:00\u00a0bil\'.\' other:00\u00a0bil\'.\'}"_s,
-				u"{one:000\u00a0bil\'.\' few:000\u00a0bil\'.\' other:000\u00a0bil\'.\'}"_s
+				u"{one:0 tis\'.\' few:0 tis\'.\' other:0 tis\'.\'}"_s,
+				u"{one:00 tis\'.\' few:00 tis\'.\' other:00 tis\'.\'}"_s,
+				u"{one:000 tis\'.\' few:000 tis\'.\' other:000 tis\'.\'}"_s,
+				u"{one:0 mil\'.\' few:0 mil\'.\' other:0 mil\'.\'}"_s,
+				u"{one:00 mil\'.\' few:00 mil\'.\' other:00 mil\'.\'}"_s,
+				u"{one:000 mil\'.\' few:000 mil\'.\' other:000 mil\'.\'}"_s,
+				u"{one:0 mlr\'.\' few:0 mlr\'.\' other:0 mlr\'.\'}"_s,
+				u"{one:00 mlr\'.\' few:00 mlr\'.\' other:00 mlr\'.\'}"_s,
+				u"{one:000 mlr\'.\' few:000 mlr\'.\' other:000 mlr\'.\'}"_s,
+				u"{one:0 bil\'.\' few:0 bil\'.\' other:0 bil\'.\'}"_s,
+				u"{one:00 bil\'.\' few:00 bil\'.\' other:00 bil\'.\'}"_s,
+				u"{one:000 bil\'.\' few:000 bil\'.\' other:000 bil\'.\'}"_s
 			}))
 		}),
 		$$new($ObjectArray, {
@@ -808,14 +808,14 @@ $ObjectArray2* FormatData_hr::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.buddhist"_s),
-			$of(u"budisti\u010dki kalendar"_s)
+			$of(u"budistički kalendar"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("standalone.MonthNames"_s),
 			$of($$new($StringArray, {
-				u"sije\u010danj"_s,
-				u"velja\u010da"_s,
-				u"o\u017eujak"_s,
+				u"siječanj"_s,
+				u"veljača"_s,
+				u"ožujak"_s,
 				"travanj"_s,
 				"svibanj"_s,
 				"lipanj"_s,
@@ -832,9 +832,9 @@ $ObjectArray2* FormatData_hr::getContents() {
 			$of("latn.NumberPatterns"_s),
 			$of($$new($StringArray, {
 				"#,##0.###"_s,
-				u"#,##0.00\u00a0\u00a4"_s,
-				u"#,##0\u00a0%"_s,
-				u"#,##0.00\u00a0\u00a4"_s
+				u"#,##0.00 ¤"_s,
+				u"#,##0 %"_s,
+				u"#,##0.00 ¤"_s
 			}))
 		}),
 		$$new($ObjectArray, {

@@ -41,11 +41,11 @@ $ObjectArray2* CurrencyNames_en_IE::getContents() {
 	return $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("EUR"_s),
-			$of(u"\u20ac"_s)
+			$of(u"€"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("IEP"_s),
-			$of(u"IR\u00a3"_s)
+			$of(u"IR£"_s)
 		})
 	});
 }

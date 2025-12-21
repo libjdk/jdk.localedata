@@ -43,7 +43,7 @@ $ObjectArray2* FormatData_fo::getContents() {
 		"januar"_s,
 		"februar"_s,
 		"mars"_s,
-		u"apr\u00edl"_s,
+		u"apríl"_s,
 		"mai"_s,
 		"juni"_s,
 		"juli"_s,
@@ -86,20 +86,20 @@ $ObjectArray2* FormatData_fo::getContents() {
 	}));
 	$var($StringArray, metaValue_DayNames, $new($StringArray, {
 		"sunnudagur"_s,
-		u"m\u00e1nadagur"_s,
-		u"t\u00fdsdagur"_s,
+		u"mánadagur"_s,
+		u"týsdagur"_s,
 		"mikudagur"_s,
-		u"h\u00f3sdagur"_s,
-		u"fr\u00edggjadagur"_s,
+		u"hósdagur"_s,
+		u"fríggjadagur"_s,
 		"leygardagur"_s
 	}));
 	$var($StringArray, metaValue_DayAbbreviations, $new($StringArray, {
 		"sun."_s,
-		u"m\u00e1n."_s,
-		u"t\u00fds."_s,
+		u"mán."_s,
+		u"týs."_s,
 		"mik."_s,
-		u"h\u00f3s."_s,
-		u"fr\u00ed."_s,
+		u"hós."_s,
+		u"frí."_s,
 		"ley."_s
 	}));
 	$var($StringArray, metaValue_DayNarrows, $new($StringArray, {
@@ -112,16 +112,16 @@ $ObjectArray2* FormatData_fo::getContents() {
 		"L"_s
 	}));
 	$var($StringArray, metaValue_QuarterNames, $new($StringArray, {
-		u"1. \u00e1rsfj\u00f3r\u00f0ingur"_s,
-		u"2. \u00e1rsfj\u00f3r\u00f0ingur"_s,
-		u"3. \u00e1rsfj\u00f3r\u00f0ingur"_s,
-		u"4. \u00e1rsfj\u00f3r\u00f0ingur"_s
+		u"1. ársfjórðingur"_s,
+		u"2. ársfjórðingur"_s,
+		u"3. ársfjórðingur"_s,
+		u"4. ársfjórðingur"_s
 	}));
 	$var($StringArray, metaValue_QuarterAbbreviations, $new($StringArray, {
-		u"1. \u00e1rsfj."_s,
-		u"2. \u00e1rsfj."_s,
-		u"3. \u00e1rsfj."_s,
-		u"4. \u00e1rsfj."_s
+		u"1. ársfj."_s,
+		u"2. ársfj."_s,
+		u"3. ársfj."_s,
+		u"4. ársfj."_s
 	}));
 	$var($StringArray, metaValue_TimePatterns, $new($StringArray, {
 		"HH:mm:ss zzzz"_s,
@@ -169,7 +169,7 @@ $ObjectArray2* FormatData_fo::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.year"_s),
-			$of(u"\u00e1r"_s)
+			$of(u"ár"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("japanese.AmPmMarkers"_s),
@@ -208,7 +208,7 @@ $ObjectArray2* FormatData_fo::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.regionFormat.standard"_s),
-			$of(u"{0} vanlig t\u00ed\u00f0"_s)
+			$of(u"{0} vanlig tíð"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.japanese"_s),
@@ -222,11 +222,11 @@ $ObjectArray2* FormatData_fo::getContents() {
 			$of("standalone.DayAbbreviations"_s),
 			$of($$new($StringArray, {
 				"sun"_s,
-				u"m\u00e1n"_s,
-				u"t\u00fds"_s,
+				u"mán"_s,
+				u"týs"_s,
 				"mik"_s,
-				u"h\u00f3s"_s,
-				u"fr\u00ed"_s,
+				u"hós"_s,
+				u"frí"_s,
 				"ley"_s
 			}))
 		}),
@@ -275,10 +275,10 @@ $ObjectArray2* FormatData_fo::getContents() {
 				"%"_s,
 				"0"_s,
 				"#"_s,
-				u"\u2212"_s,
+				u"−"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
+				u"‰"_s,
+				u"∞"_s,
 				"NaN"_s,
 				""_s,
 				""_s
@@ -302,7 +302,7 @@ $ObjectArray2* FormatData_fo::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.era"_s),
-			$of(u"t\u00ed\u00f0arrokning"_s)
+			$of(u"tíðarrokning"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("buddhist.AmPmMarkers"_s),
@@ -334,7 +334,7 @@ $ObjectArray2* FormatData_fo::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.month"_s),
-			$of(u"m\u00e1na\u00f0ur"_s)
+			$of(u"mánaður"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("field.second"_s),
@@ -384,7 +384,7 @@ $ObjectArray2* FormatData_fo::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.regionFormat"_s),
-			$of(u"{0} t\u00ed\u00f0"_s)
+			$of(u"{0} tíð"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("long.CompactNumberPatterns"_s),
@@ -392,18 +392,18 @@ $ObjectArray2* FormatData_fo::getContents() {
 				""_s,
 				""_s,
 				""_s,
-				u"{one:0\' \'t\u00fasund other:0\' \'t\u00fasund}"_s,
-				u"{one:00\' \'t\u00fasund other:00\' \'t\u00fasund}"_s,
-				u"{one:000\' \'t\u00fasund other:000\' \'t\u00fasund}"_s,
-				u"{one:0\' \'milli\u00f3n other:0\' \'milli\u00f3nir}"_s,
-				u"{one:00\' \'milli\u00f3nir other:00\' \'milli\u00f3nir}"_s,
-				u"{one:000\' \'milli\u00f3nir other:000\' \'milli\u00f3nir}"_s,
+				u"{one:0\' \'túsund other:0\' \'túsund}"_s,
+				u"{one:00\' \'túsund other:00\' \'túsund}"_s,
+				u"{one:000\' \'túsund other:000\' \'túsund}"_s,
+				u"{one:0\' \'millión other:0\' \'milliónir}"_s,
+				u"{one:00\' \'milliónir other:00\' \'milliónir}"_s,
+				u"{one:000\' \'milliónir other:000\' \'milliónir}"_s,
 				"{one:0\' \'milliard other:0\' \'milliardir}"_s,
 				"{one:00\' \'milliardir other:00\' \'milliardir}"_s,
 				"{one:000\' \'milliardir other:000\' \'milliardir}"_s,
-				u"{one:0\' \'billi\u00f3n other:0\' \'billi\u00f3nir}"_s,
-				u"{one:00\' \'billi\u00f3nir other:00\' \'billi\u00f3nir}"_s,
-				u"{one:000\' \'billi\u00f3nir other:000\' \'billi\u00f3nir}"_s
+				u"{one:0\' \'billión other:0\' \'billiónir}"_s,
+				u"{one:00\' \'billiónir other:00\' \'billiónir}"_s,
+				u"{one:000\' \'billiónir other:000\' \'billiónir}"_s
 			}))
 		}),
 		$$new($ObjectArray, {
@@ -448,7 +448,7 @@ $ObjectArray2* FormatData_fo::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.zone"_s),
-			$of(u"t\u00ed\u00f0ar\u00f8ki"_s)
+			$of(u"tíðarøki"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("japanese.QuarterAbbreviations"_s),
@@ -555,18 +555,18 @@ $ObjectArray2* FormatData_fo::getContents() {
 				""_s,
 				""_s,
 				""_s,
-				u"{one:0\u00a0t\u00fas\'.\' other:0\u00a0t\u00fas\'.\'}"_s,
-				u"{one:00\u00a0t\u00fas\'.\' other:00\u00a0t\u00fas\'.\'}"_s,
-				u"{one:000\u00a0t\u00fas\'.\' other:000\u00a0t\u00fas\'.\'}"_s,
-				u"{one:0\u00a0mi\u00f3\'.\' other:0\u00a0mi\u00f3\'.\'}"_s,
-				u"{one:00\u00a0mi\u00f3\'.\' other:00\u00a0mi\u00f3\'.\'}"_s,
-				u"{one:000\u00a0mi\u00f3\'.\' other:000\u00a0mi\u00f3\'.\'}"_s,
-				u"{one:0\u00a0mia\'.\' other:0\u00a0mia\'.\'}"_s,
-				u"{one:00\u00a0mia\'.\' other:00\u00a0mia\'.\'}"_s,
-				u"{one:000\u00a0mia\'.\' other:000\u00a0mia\'.\'}"_s,
-				u"{one:0\u00a0bi\u00f3\'.\' other:0\u00a0bi\u00f3\'.\'}"_s,
-				u"{one:00\u00a0bi\u00f3\'.\' other:00\u00a0bi\u00f3\'.\'}"_s,
-				u"{one:000\u00a0bi\u00f3\'.\' other:000\u00a0bi\u00f3\'.\'}"_s
+				u"{one:0 tús\'.\' other:0 tús\'.\'}"_s,
+				u"{one:00 tús\'.\' other:00 tús\'.\'}"_s,
+				u"{one:000 tús\'.\' other:000 tús\'.\'}"_s,
+				u"{one:0 mió\'.\' other:0 mió\'.\'}"_s,
+				u"{one:00 mió\'.\' other:00 mió\'.\'}"_s,
+				u"{one:000 mió\'.\' other:000 mió\'.\'}"_s,
+				u"{one:0 mia\'.\' other:0 mia\'.\'}"_s,
+				u"{one:00 mia\'.\' other:00 mia\'.\'}"_s,
+				u"{one:000 mia\'.\' other:000 mia\'.\'}"_s,
+				u"{one:0 bió\'.\' other:0 bió\'.\'}"_s,
+				u"{one:00 bió\'.\' other:00 bió\'.\'}"_s,
+				u"{one:000 bió\'.\' other:000 bió\'.\'}"_s
 			}))
 		}),
 		$$new($ObjectArray, {
@@ -575,7 +575,7 @@ $ObjectArray2* FormatData_fo::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.regionFormat.daylight"_s),
-			$of(u"{0} summart\u00ed\u00f0"_s)
+			$of(u"{0} summartíð"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("DatePatterns"_s),
@@ -608,7 +608,7 @@ $ObjectArray2* FormatData_fo::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.hour"_s),
-			$of(u"t\u00edmi"_s)
+			$of(u"tími"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.buddhist"_s),
@@ -622,9 +622,9 @@ $ObjectArray2* FormatData_fo::getContents() {
 			$of("latn.NumberPatterns"_s),
 			$of($$new($StringArray, {
 				"#,##0.###"_s,
-				u"#,##0.00\u00a0\u00a4"_s,
-				u"#,##0\u00a0%"_s,
-				u"#,##0.00\u00a0\u00a4;(#,##0.00\u00a0\u00a4)"_s
+				u"#,##0.00 ¤"_s,
+				u"#,##0 %"_s,
+				u"#,##0.00 ¤;(#,##0.00 ¤)"_s
 			}))
 		}),
 		$$new($ObjectArray, {

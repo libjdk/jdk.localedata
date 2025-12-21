@@ -43,7 +43,7 @@ void TimeZoneNames_uz_Cyrl::init$() {
 $ObjectArray2* TimeZoneNames_uz_Cyrl::getContents() {
 	$useLocalCurrentObjectStackCache();
 	$var($StringArray, GMT, $new($StringArray, {
-		u"\u0413\u0440\u0438\u043d\u0432\u0438\u0447 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Гринвич вақти"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -51,31 +51,31 @@ $ObjectArray2* TimeZoneNames_uz_Cyrl::getContents() {
 		""_s
 	}));
 	$var($StringArray, Cook, $new($StringArray, {
-		u"\u041a\u0443\u043a \u043e\u0440\u043e\u043b\u043b\u0430\u0440\u0438 \u0441\u0442\u0430\u043d\u0434\u0430\u0440\u0442 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Кук ороллари стандарт вақти"_s,
 		""_s,
-		u"\u041a\u0443\u043a \u043e\u0440\u043e\u043b\u043b\u0430\u0440\u0438 \u044f\u0440\u0438\u043c \u0451\u0437\u0433\u0438 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Кук ороллари ярим ёзги вақти"_s,
 		""_s,
-		u"\u041a\u0443\u043a \u043e\u0440\u043e\u043b\u043b\u0430\u0440\u0438 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Кук ороллари вақти"_s,
 		""_s
 	}));
 	$var($StringArray, Cuba, $new($StringArray, {
-		u"\u041a\u0443\u0431\u0430 \u0441\u0442\u0430\u043d\u0434\u0430\u0440\u0442 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Куба стандарт вақти"_s,
 		""_s,
-		u"\u041a\u0443\u0431\u0430 \u043a\u0443\u043d\u0434\u0443\u0437\u0433\u0438 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Куба кундузги вақти"_s,
 		""_s,
-		u"\u041a\u0443\u0431\u0430 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Куба вақти"_s,
 		""_s
 	}));
 	$var($StringArray, Fiji, $new($StringArray, {
-		u"\u0424\u0438\u0436\u0438 \u0441\u0442\u0430\u043d\u0434\u0430\u0440\u0442 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Фижи стандарт вақти"_s,
 		""_s,
-		u"\u0424\u0438\u0436\u0438 \u0451\u0437\u0433\u0438 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Фижи ёзги вақти"_s,
 		""_s,
-		u"\u0424\u0438\u0436\u0438 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Фижи вақти"_s,
 		""_s
 	}));
 	$var($StringArray, Gulf, $new($StringArray, {
-		u"\u041a\u045e\u0440\u0444\u0430\u0437 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Кўрфаз вақти"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -83,23 +83,23 @@ $ObjectArray2* TimeZoneNames_uz_Cyrl::getContents() {
 		""_s
 	}));
 	$var($StringArray, Hovd, $new($StringArray, {
-		u"\u0425\u043e\u0432\u0434 \u0441\u0442\u0430\u043d\u0434\u0430\u0440\u0442 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Ховд стандарт вақти"_s,
 		""_s,
-		u"\u0425\u043e\u0432\u0434 \u0451\u0437\u0433\u0438 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Ховд ёзги вақти"_s,
 		""_s,
-		u"\u0425\u043e\u0432\u0434 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Ховд вақти"_s,
 		""_s
 	}));
 	$var($StringArray, Iran, $new($StringArray, {
-		u"\u042d\u0440\u043e\u043d \u0441\u0442\u0430\u043d\u0434\u0430\u0440\u0442 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Эрон стандарт вақти"_s,
 		""_s,
-		u"\u042d\u0440\u043e\u043d \u043a\u0443\u043d\u0434\u0443\u0437\u0433\u0438 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Эрон кундузги вақти"_s,
 		""_s,
-		u"\u042d\u0440\u043e\u043d \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Эрон вақти"_s,
 		""_s
 	}));
 	$var($StringArray, Niue, $new($StringArray, {
-		u"\u041d\u0438\u0443\u0435 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Ниуе вақти"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -107,23 +107,23 @@ $ObjectArray2* TimeZoneNames_uz_Cyrl::getContents() {
 		""_s
 	}));
 	$var($StringArray, Omsk, $new($StringArray, {
-		u"\u041e\u043c\u0441\u043a \u0441\u0442\u0430\u043d\u0434\u0430\u0440\u0442 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Омск стандарт вақти"_s,
 		""_s,
-		u"\u041e\u043c\u0441\u043a \u0451\u0437\u0433\u0438 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Омск ёзги вақти"_s,
 		""_s,
-		u"\u041e\u043c\u0441\u043a \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Омск вақти"_s,
 		""_s
 	}));
 	$var($StringArray, Peru, $new($StringArray, {
-		u"\u041f\u0435\u0440\u0443 \u0441\u0442\u0430\u043d\u0434\u0430\u0440\u0442 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Перу стандарт вақти"_s,
 		""_s,
-		u"\u041f\u0435\u0440\u0443 \u0451\u0437\u0433\u0438 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Перу ёзги вақти"_s,
 		""_s,
-		u"\u041f\u0435\u0440\u0443 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Перу вақти"_s,
 		""_s
 	}));
 	$var($StringArray, Truk, $new($StringArray, {
-		u"\u0427\u0443\u0443\u043a \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Чуук вақти"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -131,7 +131,7 @@ $ObjectArray2* TimeZoneNames_uz_Cyrl::getContents() {
 		""_s
 	}));
 	$var($StringArray, Wake, $new($StringArray, {
-		u"\u0423\u044d\u0439\u043a \u043e\u0440\u043e\u043b\u0438 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Уэйк ороли вақти"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -139,23 +139,23 @@ $ObjectArray2* TimeZoneNames_uz_Cyrl::getContents() {
 		""_s
 	}));
 	$var($StringArray, Chile, $new($StringArray, {
-		u"\u0427\u0438\u043b\u0438 \u0441\u0442\u0430\u043d\u0434\u0430\u0440\u0442 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Чили стандарт вақти"_s,
 		""_s,
-		u"\u0427\u0438\u043b\u0438 \u0451\u0437\u0433\u0438 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Чили ёзги вақти"_s,
 		""_s,
-		u"\u0427\u0438\u043b\u0438 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Чили вақти"_s,
 		""_s
 	}));
 	$var($StringArray, China, $new($StringArray, {
-		u"\u0425\u0438\u0442\u043e\u0439 \u0441\u0442\u0430\u043d\u0434\u0430\u0440\u0442 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Хитой стандарт вақти"_s,
 		""_s,
-		u"\u0425\u0438\u0442\u043e\u0439 \u043a\u0443\u043d\u0434\u0443\u0437\u0433\u0438 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Хитой кундузги вақти"_s,
 		""_s,
-		u"\u0425\u0438\u0442\u043e\u0439 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Хитой вақти"_s,
 		""_s
 	}));
 	$var($StringArray, Cocos, $new($StringArray, {
-		u"\u041a\u043e\u043a\u043e\u0441 \u043e\u0440\u043e\u043b\u043b\u0430\u0440\u0438 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Кокос ороллари вақти"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -163,7 +163,7 @@ $ObjectArray2* TimeZoneNames_uz_Cyrl::getContents() {
 		""_s
 	}));
 	$var($StringArray, Davis, $new($StringArray, {
-		u"\u0414\u044d\u0432\u0438\u0441 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Дэвис вақти"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -171,7 +171,7 @@ $ObjectArray2* TimeZoneNames_uz_Cyrl::getContents() {
 		""_s
 	}));
 	$var($StringArray, India, $new($StringArray, {
-		u"\u04b2\u0438\u043d\u0434\u0438\u0441\u0442\u043e\u043d \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Ҳиндистон вақти"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -179,23 +179,23 @@ $ObjectArray2* TimeZoneNames_uz_Cyrl::getContents() {
 		""_s
 	}));
 	$var($StringArray, Japan, $new($StringArray, {
-		u"\u042f\u043f\u043e\u043d\u0438\u044f \u0441\u0442\u0430\u043d\u0434\u0430\u0440\u0442 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Япония стандарт вақти"_s,
 		""_s,
-		u"\u042f\u043f\u043e\u043d\u0438\u044f \u043a\u0443\u043d\u0434\u0443\u0437\u0433\u0438 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Япония кундузги вақти"_s,
 		""_s,
-		u"\u042f\u043f\u043e\u043d\u0438\u044f \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Япония вақти"_s,
 		""_s
 	}));
 	$var($StringArray, Korea, $new($StringArray, {
-		u"\u041a\u043e\u0440\u0435\u044f \u0441\u0442\u0430\u043d\u0434\u0430\u0440\u0442 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Корея стандарт вақти"_s,
 		""_s,
-		u"\u041a\u043e\u0440\u0435\u044f \u043a\u0443\u043d\u0434\u0443\u0437\u0433\u0438 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Корея кундузги вақти"_s,
 		""_s,
-		u"\u041a\u043e\u0440\u0435\u044f \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Корея вақти"_s,
 		""_s
 	}));
 	$var($StringArray, Nauru, $new($StringArray, {
-		u"\u041d\u0430\u0443\u0440\u0443 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Науру вақти"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -203,7 +203,7 @@ $ObjectArray2* TimeZoneNames_uz_Cyrl::getContents() {
 		""_s
 	}));
 	$var($StringArray, Nepal, $new($StringArray, {
-		u"\u041d\u0435\u043f\u0430\u043b \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Непал вақти"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -211,7 +211,7 @@ $ObjectArray2* TimeZoneNames_uz_Cyrl::getContents() {
 		""_s
 	}));
 	$var($StringArray, Palau, $new($StringArray, {
-		u"\u041f\u0430\u043b\u0430\u0443 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Палау вақти"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -219,15 +219,15 @@ $ObjectArray2* TimeZoneNames_uz_Cyrl::getContents() {
 		""_s
 	}));
 	$var($StringArray, Samoa, $new($StringArray, {
-		u"\u0421\u0430\u043c\u043e\u0430 \u0441\u0442\u0430\u043d\u0434\u0430\u0440\u0442 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Самоа стандарт вақти"_s,
 		""_s,
-		u"\u0421\u0430\u043c\u043e\u0430 \u043a\u0443\u043d\u0434\u0443\u0437\u0433\u0438 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Самоа кундузги вақти"_s,
 		""_s,
-		u"\u0421\u0430\u043c\u043e\u0430 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Самоа вақти"_s,
 		""_s
 	}));
 	$var($StringArray, Syowa, $new($StringArray, {
-		u"\u0421\u044c\u043e\u0432\u0430 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Сьова вақти"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -235,39 +235,39 @@ $ObjectArray2* TimeZoneNames_uz_Cyrl::getContents() {
 		""_s
 	}));
 	$var($StringArray, Tonga, $new($StringArray, {
-		u"\u0422\u043e\u043d\u0433\u0430 \u0441\u0442\u0430\u043d\u0434\u0430\u0440\u0442 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Тонга стандарт вақти"_s,
 		""_s,
-		u"\u0422\u043e\u043d\u0433\u0430 \u0451\u0437\u0433\u0438 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Тонга ёзги вақти"_s,
 		""_s,
-		u"\u0422\u043e\u043d\u0433\u0430 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Тонга вақти"_s,
 		""_s
 	}));
 	$var($StringArray, Alaska, $new($StringArray, {
-		u"\u0410\u043b\u044f\u0441\u043a\u0430 \u0441\u0442\u0430\u043d\u0434\u0430\u0440\u0442 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Аляска стандарт вақти"_s,
 		""_s,
-		u"\u0410\u043b\u044f\u0441\u043a\u0430 \u043a\u0443\u043d\u0434\u0443\u0437\u0433\u0438 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Аляска кундузги вақти"_s,
 		""_s,
-		u"\u0410\u043b\u044f\u0441\u043a\u0430 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Аляска вақти"_s,
 		""_s
 	}));
 	$var($StringArray, Amazon, $new($StringArray, {
-		u"\u0410\u043c\u0430\u0437\u043e\u043d\u043a\u0430 \u0441\u0442\u0430\u043d\u0434\u0430\u0440\u0442 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Амазонка стандарт вақти"_s,
 		""_s,
-		u"\u0410\u043c\u0430\u0437\u043e\u043d\u043a\u0430 \u0451\u0437\u0433\u0438 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Амазонка ёзги вақти"_s,
 		""_s,
-		u"\u0410\u043c\u0430\u0437\u043e\u043d\u043a\u0430 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Амазонка вақти"_s,
 		""_s
 	}));
 	$var($StringArray, Azores, $new($StringArray, {
-		u"\u0410\u0437\u043e\u0440 \u0441\u0442\u0430\u043d\u0434\u0430\u0440\u0442 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Азор стандарт вақти"_s,
 		""_s,
-		u"\u0410\u0437\u043e\u0440 \u0451\u0437\u0433\u0438 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Азор ёзги вақти"_s,
 		""_s,
-		u"\u0410\u0437\u043e\u0440 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Азор вақти"_s,
 		""_s
 	}));
 	$var($StringArray, Bhutan, $new($StringArray, {
-		u"\u0411\u0443\u0442\u0430\u043d \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Бутан вақти"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -275,7 +275,7 @@ $ObjectArray2* TimeZoneNames_uz_Cyrl::getContents() {
 		""_s
 	}));
 	$var($StringArray, Brunei, $new($StringArray, {
-		u"\u0411\u0440\u0443\u043d\u0435\u0439 \u0414\u0430\u0440\u0443\u0441\u0441\u0430\u043b\u043e\u043c \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Бруней Даруссалом вақти"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -283,15 +283,15 @@ $ObjectArray2* TimeZoneNames_uz_Cyrl::getContents() {
 		""_s
 	}));
 	$var($StringArray, Easter, $new($StringArray, {
-		u"\u041f\u0430\u0441\u0445\u0438 \u043e\u0440\u043e\u043b\u0438 \u0441\u0442\u0430\u043d\u0434\u0430\u0440\u0442 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Пасхи ороли стандарт вақти"_s,
 		""_s,
-		u"\u041f\u0430\u0441\u0445\u0438 \u043e\u0440\u043e\u043b\u0438 \u0451\u0437\u0433\u0438 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Пасхи ороли ёзги вақти"_s,
 		""_s,
-		u"\u041f\u0430\u0441\u0445\u0438 \u041e\u0440\u043e\u043b\u0438 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Пасхи Ороли вақти"_s,
 		""_s
 	}));
 	$var($StringArray, Guyana, $new($StringArray, {
-		u"\u0413\u0430\u0439\u0430\u043d\u0430 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Гайана вақти"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -299,15 +299,15 @@ $ObjectArray2* TimeZoneNames_uz_Cyrl::getContents() {
 		""_s
 	}));
 	$var($StringArray, Israel, $new($StringArray, {
-		u"\u0418\u0441\u0440\u043e\u0438\u043b \u0441\u0442\u0430\u043d\u0434\u0430\u0440\u0442 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Исроил стандарт вақти"_s,
 		""_s,
-		u"\u0418\u0441\u0440\u043e\u0438\u043b \u043a\u0443\u043d\u0434\u0443\u0437\u0433\u0438 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Исроил кундузги вақти"_s,
 		""_s,
-		u"\u0418\u0441\u0440\u043e\u0438\u043b \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Исроил вақти"_s,
 		""_s
 	}));
 	$var($StringArray, Kosrae, $new($StringArray, {
-		u"\u041a\u043e\u0441\u0440\u0430\u0435 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Косрае вақти"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -315,7 +315,7 @@ $ObjectArray2* TimeZoneNames_uz_Cyrl::getContents() {
 		""_s
 	}));
 	$var($StringArray, Mawson, $new($StringArray, {
-		u"\u041c\u043e\u0443\u0432\u0441\u043e\u043d \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Моувсон вақти"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -323,15 +323,15 @@ $ObjectArray2* TimeZoneNames_uz_Cyrl::getContents() {
 		""_s
 	}));
 	$var($StringArray, Moscow, $new($StringArray, {
-		u"\u041c\u043e\u0441\u043a\u0432\u0430 \u0441\u0442\u0430\u043d\u0434\u0430\u0440\u0442 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Москва стандарт вақти"_s,
 		""_s,
-		u"\u041c\u043e\u0441\u043a\u0432\u0430 \u0451\u0437\u0433\u0438 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Москва ёзги вақти"_s,
 		""_s,
-		u"\u041c\u043e\u0441\u043a\u0432\u0430 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Москва вақти"_s,
 		""_s
 	}));
 	$var($StringArray, Ponape, $new($StringArray, {
-		u"\u041f\u043e\u043d\u0430\u043f\u0435 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Понапе вақти"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -339,7 +339,7 @@ $ObjectArray2* TimeZoneNames_uz_Cyrl::getContents() {
 		""_s
 	}));
 	$var($StringArray, Tahiti, $new($StringArray, {
-		u"\u0422\u0430\u0438\u0442\u0438 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Таити вақти"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -347,15 +347,15 @@ $ObjectArray2* TimeZoneNames_uz_Cyrl::getContents() {
 		""_s
 	}));
 	$var($StringArray, Taipei, $new($StringArray, {
-		u"\u0422\u0430\u0439\u043f\u0435\u0439 \u0441\u0442\u0430\u043d\u0434\u0430\u0440\u0442 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Тайпей стандарт вақти"_s,
 		""_s,
-		u"\u0422\u0430\u0439\u043f\u0435\u0439 \u043a\u0443\u043d\u0434\u0443\u0437\u0433\u0438 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Тайпей кундузги вақти"_s,
 		""_s,
-		u"\u0422\u0430\u0439\u043f\u0435\u0439 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Тайпей вақти"_s,
 		""_s
 	}));
 	$var($StringArray, Tuvalu, $new($StringArray, {
-		u"\u0422\u0443\u0432\u0430\u043b\u0443 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Тувалу вақти"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -363,7 +363,7 @@ $ObjectArray2* TimeZoneNames_uz_Cyrl::getContents() {
 		""_s
 	}));
 	$var($StringArray, Vostok, $new($StringArray, {
-		u"\u0412\u043e\u0441\u0442\u043e\u043a \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Восток вақти"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -371,7 +371,7 @@ $ObjectArray2* TimeZoneNames_uz_Cyrl::getContents() {
 		""_s
 	}));
 	$var($StringArray, Wallis, $new($StringArray, {
-		u"\u0423\u044d\u043b\u043b\u0438\u0441 \u0432\u0430 \u0424\u0443\u0442\u0443\u043d\u0430 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Уэллис ва Футуна вақти"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -379,23 +379,23 @@ $ObjectArray2* TimeZoneNames_uz_Cyrl::getContents() {
 		""_s
 	}));
 	$var($StringArray, Arabian, $new($StringArray, {
-		u"\u0410\u0440\u0430\u0431\u0438\u0441\u0442\u043e\u043d \u0441\u0442\u0430\u043d\u0434\u0430\u0440\u0442 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Арабистон стандарт вақти"_s,
 		""_s,
-		u"\u0410\u0440\u0430\u0431\u0438\u0441\u0442\u043e\u043d \u043a\u0443\u043d\u0434\u0443\u0437\u0433\u0438 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Арабистон кундузги вақти"_s,
 		""_s,
-		u"\u0410\u0440\u0430\u0431\u0438\u0441\u0442\u043e\u043d \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Арабистон вақти"_s,
 		""_s
 	}));
 	$var($StringArray, Armenia, $new($StringArray, {
-		u"\u0410\u0440\u043c\u0430\u043d\u0438\u0441\u0442\u043e\u043d \u0441\u0442\u0430\u043d\u0434\u0430\u0440\u0442 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Арманистон стандарт вақти"_s,
 		""_s,
-		u"\u0410\u0440\u043c\u0430\u043d\u0438\u0441\u0442\u043e\u043d \u0451\u0437\u0433\u0438 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Арманистон ёзги вақти"_s,
 		""_s,
-		u"\u0410\u0440\u0430\u043c\u043d\u0438\u0441\u0442\u043e\u043d \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Арамнистон вақти"_s,
 		""_s
 	}));
 	$var($StringArray, Bolivia, $new($StringArray, {
-		u"\u0411\u043e\u043b\u0438\u0432\u0438\u044f \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Боливия вақти"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -403,15 +403,15 @@ $ObjectArray2* TimeZoneNames_uz_Cyrl::getContents() {
 		""_s
 	}));
 	$var($StringArray, Chatham, $new($StringArray, {
-		u"\u0427\u0430\u0442\u0445\u0430\u043c \u0441\u0442\u0430\u043d\u0434\u0430\u0440\u0442 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Чатхам стандарт вақти"_s,
 		""_s,
-		u"\u0427\u0430\u0442\u0445\u0430\u043c \u043a\u0443\u043d\u0434\u0443\u0437\u0433\u0438 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Чатхам кундузги вақти"_s,
 		""_s,
-		u"\u0427\u0430\u0442\u0445\u0430\u043c \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Чатхам вақти"_s,
 		""_s
 	}));
 	$var($StringArray, Ecuador, $new($StringArray, {
-		u"\u042d\u043a\u0432\u0430\u0434\u043e\u0440 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Эквадор вақти"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -419,7 +419,7 @@ $ObjectArray2* TimeZoneNames_uz_Cyrl::getContents() {
 		""_s
 	}));
 	$var($StringArray, Gambier, $new($StringArray, {
-		u"\u0413\u0430\u043c\u0431\u0438\u0435\u0440 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Гамбиер вақти"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -427,31 +427,31 @@ $ObjectArray2* TimeZoneNames_uz_Cyrl::getContents() {
 		""_s
 	}));
 	$var($StringArray, Georgia, $new($StringArray, {
-		u"\u0413\u0440\u0443\u0437\u0438\u044f \u0441\u0442\u0430\u043d\u0434\u0430\u0440\u0442 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Грузия стандарт вақти"_s,
 		""_s,
-		u"\u0413\u0440\u0443\u0437\u0438\u044f \u0451\u0437\u0433\u0438 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Грузия ёзги вақти"_s,
 		""_s,
-		u"\u0413\u0440\u0443\u0437\u0438\u044f \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Грузия вақти"_s,
 		""_s
 	}));
 	$var($StringArray, Irkutsk, $new($StringArray, {
-		u"\u0418\u0440\u043a\u0443\u0442\u0441\u043a \u0441\u0442\u0430\u043d\u0434\u0430\u0440\u0442 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Иркутск стандарт вақти"_s,
 		""_s,
-		u"\u0418\u0440\u043a\u0443\u0442\u0441\u043a \u0451\u0437\u0433\u0438 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Иркутск ёзги вақти"_s,
 		""_s,
-		u"\u0418\u0440\u043a\u0443\u0442\u0441\u043a \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Иркутск вақти"_s,
 		""_s
 	}));
 	$var($StringArray, Magadan, $new($StringArray, {
-		u"\u041c\u0430\u0433\u0430\u0434\u0430\u043d \u0441\u0442\u0430\u043d\u0434\u0430\u0440\u0442 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Магадан стандарт вақти"_s,
 		""_s,
-		u"\u041c\u0430\u0433\u0430\u0434\u0430\u043d \u0451\u0437\u0433\u0438 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Магадан ёзги вақти"_s,
 		""_s,
-		u"\u041c\u0430\u0433\u0430\u0434\u0430\u043d \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Магадан вақти"_s,
 		""_s
 	}));
 	$var($StringArray, Myanmar, $new($StringArray, {
-		u"\u041c\u044c\u044f\u043d\u043c\u0430 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Мьянма вақти"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -459,23 +459,23 @@ $ObjectArray2* TimeZoneNames_uz_Cyrl::getContents() {
 		""_s
 	}));
 	$var($StringArray, Norfolk, $new($StringArray, {
-		u"\u041d\u043e\u0440\u0444\u043e\u043b\u043a \u043e\u0440\u043e\u043b\u0438 \u0441\u0442\u0430\u043d\u0434\u0430\u0440\u0442 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Норфолк ороли стандарт вақти"_s,
 		""_s,
-		u"\u041d\u043e\u0440\u0444\u043e\u043b\u043a \u043e\u0440\u043e\u043b\u0438 \u0451\u0437\u0433\u0438 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Норфолк ороли ёзги вақти"_s,
 		""_s,
-		u"\u041d\u043e\u0440\u0444\u043e\u043b\u043a \u043e\u0440\u043e\u043b\u0438 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Норфолк ороли вақти"_s,
 		""_s
 	}));
 	$var($StringArray, Noronha, $new($StringArray, {
-		u"\u0424\u0435\u0440\u043d\u0430\u043d\u0434\u043e \u0434\u0435 \u041d\u043e\u0440\u043e\u043d\u044c\u044f \u0441\u0442\u0430\u043d\u0434\u0430\u0440\u0442 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Фернандо де Норонья стандарт вақти"_s,
 		""_s,
-		u"\u0424\u0435\u0440\u043d\u0430\u043d\u0434\u043e \u0434\u0435 \u041d\u043e\u0440\u043e\u043d\u044c\u044f \u0451\u0437\u0433\u0438 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Фернандо де Норонья ёзги вақти"_s,
 		""_s,
-		u"\u0424\u0435\u0440\u043d\u0430\u043d\u0434\u043e \u0434\u0435 \u041d\u043e\u0440\u043e\u043d\u044c\u044f \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Фернандо де Норонья вақти"_s,
 		""_s
 	}));
 	$var($StringArray, Reunion, $new($StringArray, {
-		u"\u0420\u0435\u044e\u043d\u044c\u043e\u043d \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Реюньон вақти"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -483,7 +483,7 @@ $ObjectArray2* TimeZoneNames_uz_Cyrl::getContents() {
 		""_s
 	}));
 	$var($StringArray, Rothera, $new($StringArray, {
-		u"\u0420\u043e\u0442\u0435\u0440\u0430 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Ротера вақти"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -491,7 +491,7 @@ $ObjectArray2* TimeZoneNames_uz_Cyrl::getContents() {
 		""_s
 	}));
 	$var($StringArray, Solomon, $new($StringArray, {
-		u"\u0421\u043e\u043b\u043e\u043c\u043e\u043d \u043e\u0440\u043e\u043b\u043b\u0430\u0440\u0438 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Соломон ороллари вақти"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -499,7 +499,7 @@ $ObjectArray2* TimeZoneNames_uz_Cyrl::getContents() {
 		""_s
 	}));
 	$var($StringArray, Tokelau, $new($StringArray, {
-		u"\u0422\u043e\u043a\u0435\u043b\u0430\u0443 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Токелау вақти"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -507,47 +507,47 @@ $ObjectArray2* TimeZoneNames_uz_Cyrl::getContents() {
 		""_s
 	}));
 	$var($StringArray, Uruguay, $new($StringArray, {
-		u"\u0423\u0440\u0443\u0433\u0432\u0430\u0439 \u0441\u0442\u0430\u043d\u0434\u0430\u0440\u0442 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Уругвай стандарт вақти"_s,
 		""_s,
-		u"\u0423\u0440\u0443\u0433\u0432\u0430\u0439 \u0451\u0437\u0433\u0438 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Уругвай ёзги вақти"_s,
 		""_s,
-		u"\u0423\u0440\u0443\u0433\u0432\u0430\u0439 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Уругвай вақти"_s,
 		""_s
 	}));
 	$var($StringArray, Vanuatu, $new($StringArray, {
-		u"\u0412\u0430\u043d\u0443\u0430\u0442\u0443 \u0441\u0442\u0430\u043d\u0434\u0430\u0440\u0442 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Вануату стандарт вақти"_s,
 		""_s,
-		u"\u0412\u0430\u043d\u0443\u0430\u0442\u0443 \u0451\u0437\u0433\u0438 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Вануату ёзги вақти"_s,
 		""_s,
-		u"\u0412\u0430\u043d\u0443\u0430\u0442\u0443 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Вануату вақти"_s,
 		""_s
 	}));
 	$var($StringArray, Yakutsk, $new($StringArray, {
-		u"\u042f\u043a\u0443\u0442\u0441\u043a \u0441\u0442\u0430\u043d\u0434\u0430\u0440\u0442 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Якутск стандарт вақти"_s,
 		""_s,
-		u"\u042f\u043a\u0443\u0442\u0441\u043a \u0451\u0437\u0433\u0438 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Якутск ёзги вақти"_s,
 		""_s,
-		u"\u042f\u043a\u0443\u0442\u0441\u043a \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Якутск вақти"_s,
 		""_s
 	}));
 	$var($StringArray, Atlantic, $new($StringArray, {
-		u"\u0410\u0442\u043b\u0430\u043d\u0442\u0438\u043a\u0430 \u0441\u0442\u0430\u043d\u0434\u0430\u0440\u0442 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Атлантика стандарт вақти"_s,
 		""_s,
-		u"\u0410\u0442\u043b\u0430\u043d\u0442\u0438\u043a\u0430 \u043a\u0443\u043d\u0434\u0443\u0437\u0433\u0438 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Атлантика кундузги вақти"_s,
 		""_s,
-		u"\u0410\u0442\u043b\u0430\u043d\u0442\u0438\u043a\u0430 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Атлантика вақти"_s,
 		""_s
 	}));
 	$var($StringArray, Brasilia, $new($StringArray, {
-		u"\u0411\u0440\u0430\u0437\u0438\u043b\u0438\u044f \u0441\u0442\u0430\u043d\u0434\u0430\u0440\u0442 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Бразилия стандарт вақти"_s,
 		""_s,
-		u"\u0411\u0440\u0430\u0437\u0438\u043b\u0438\u044f \u0451\u0437\u0433\u0438 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Бразилия ёзги вақти"_s,
 		""_s,
-		u"\u0411\u0440\u0430\u0437\u0438\u043b\u0438\u044f \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Бразилия вақти"_s,
 		""_s
 	}));
 	$var($StringArray, Chamorro, $new($StringArray, {
-		u"\u041a\u0430\u043c\u043e\u0440\u0440\u043e \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Каморро вақти"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -555,23 +555,23 @@ $ObjectArray2* TimeZoneNames_uz_Cyrl::getContents() {
 		""_s
 	}));
 	$var($StringArray, Colombia, $new($StringArray, {
-		u"\u041a\u043e\u043b\u0443\u043c\u0431\u0438\u044f \u0441\u0442\u0430\u043d\u0434\u0430\u0440\u0442 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Колумбия стандарт вақти"_s,
 		""_s,
-		u"\u041a\u043e\u043b\u0443\u043c\u0431\u0438\u044f \u0451\u0437\u0433\u0438 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Колумбия ёзги вақти"_s,
 		""_s,
-		u"\u041a\u043e\u043b\u0443\u043c\u0431\u0438\u044f \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Колумбия вақти"_s,
 		""_s
 	}));
 	$var($StringArray, Falkland, $new($StringArray, {
-		u"\u0424\u043e\u043b\u044c\u043a\u043b\u0435\u043d\u0434 \u043e\u0440\u043e\u043b\u043b\u0430\u0440\u0438 \u0441\u0442\u0430\u043d\u0434\u0430\u0440\u0442 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Фолькленд ороллари стандарт вақти"_s,
 		""_s,
-		u"\u0424\u043e\u043b\u044c\u043a\u043b\u0435\u043d\u0434 \u043e\u0440\u043e\u043b\u043b\u0430\u0440\u0438 \u0451\u0437\u0433\u0438 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Фолькленд ороллари ёзги вақти"_s,
 		""_s,
-		u"\u0424\u043e\u043b\u044c\u043a\u043b\u0435\u043d\u0434 \u043e\u0440\u043e\u043b\u043b\u0430\u0440\u0438 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Фолькленд ороллари вақти"_s,
 		""_s
 	}));
 	$var($StringArray, Malaysia, $new($StringArray, {
-		u"\u041c\u0430\u043b\u0430\u0439\u0437\u0438\u044f \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Малайзия вақти"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -579,7 +579,7 @@ $ObjectArray2* TimeZoneNames_uz_Cyrl::getContents() {
 		""_s
 	}));
 	$var($StringArray, Maldives, $new($StringArray, {
-		u"\u041c\u0430\u043b\u044c\u0434\u0438\u0432 \u043e\u0440\u043e\u043b\u043b\u0430\u0440"_s,
+		u"Мальдив ороллар"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -587,31 +587,31 @@ $ObjectArray2* TimeZoneNames_uz_Cyrl::getContents() {
 		""_s
 	}));
 	$var($StringArray, Mongolia, $new($StringArray, {
-		u"\u0423\u043b\u0430\u043d-\u0411\u0430\u0442\u043e\u0440 \u0441\u0442\u0430\u043d\u0434\u0430\u0440\u0442 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Улан-Батор стандарт вақти"_s,
 		""_s,
-		u"\u0423\u043b\u0430\u043d-\u0411\u0430\u0442\u043e\u0440 \u0451\u0437\u0433\u0438 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Улан-Батор ёзги вақти"_s,
 		""_s,
-		u"\u0423\u043b\u0430\u043d-\u0411\u0430\u0442\u043e\u0440 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Улан-Батор вақти"_s,
 		""_s
 	}));
 	$var($StringArray, Pakistan, $new($StringArray, {
-		u"\u041f\u043e\u043a\u0438\u0441\u0442\u043e\u043d \u0441\u0442\u0430\u043d\u0434\u0430\u0440\u0442 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Покистон стандарт вақти"_s,
 		""_s,
-		u"\u041f\u043e\u043a\u0438\u0441\u0442\u043e\u043d \u0451\u0437\u0433\u0438 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Покистон ёзги вақти"_s,
 		""_s,
-		u"\u041f\u043e\u043a\u0438\u0441\u0442\u043e\u043d \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Покистон вақти"_s,
 		""_s
 	}));
 	$var($StringArray, Paraguay, $new($StringArray, {
-		u"\u041f\u0430\u0440\u0430\u0433\u0432\u0430\u0439 \u0441\u0442\u0430\u043d\u0434\u0430\u0440\u0442 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Парагвай стандарт вақти"_s,
 		""_s,
-		u"\u041f\u0430\u0440\u0430\u0433\u0432\u0430\u0439 \u0451\u0437\u0433\u0438 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Парагвай ёзги вақти"_s,
 		""_s,
-		u"\u041f\u0430\u0440\u0430\u0433\u0432\u0430\u0439 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Парагвай вақти"_s,
 		""_s
 	}));
 	$var($StringArray, Pitcairn, $new($StringArray, {
-		u"\u041f\u0438\u0442\u043a\u0435\u0440\u043d \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Питкерн вақти"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -619,15 +619,15 @@ $ObjectArray2* TimeZoneNames_uz_Cyrl::getContents() {
 		""_s
 	}));
 	$var($StringArray, Sakhalin, $new($StringArray, {
-		u"\u0421\u0430\u0445\u0430\u043b\u0438\u043d \u0441\u0442\u0430\u043d\u0434\u0430\u0440\u0442 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Сахалин стандарт вақти"_s,
 		""_s,
-		u"\u0421\u0430\u0445\u0430\u043b\u0438\u043d \u0451\u0437\u0433\u0438 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Сахалин ёзги вақти"_s,
 		""_s,
-		u"\u0421\u0430\u0445\u0430\u043b\u0438\u043d \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Сахалин вақти"_s,
 		""_s
 	}));
 	$var($StringArray, Suriname, $new($StringArray, {
-		u"\u0421\u0443\u0440\u0438\u043d\u0430\u043c \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Суринам вақти"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -635,15 +635,15 @@ $ObjectArray2* TimeZoneNames_uz_Cyrl::getContents() {
 		""_s
 	}));
 	$var($StringArray, Argentina, $new($StringArray, {
-		u"\u0410\u0440\u0433\u0435\u043d\u0442\u0438\u043d\u0430 \u0441\u0442\u0430\u043d\u0434\u0430\u0440\u0442 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Аргентина стандарт вақти"_s,
 		""_s,
-		u"\u0410\u0440\u0433\u0435\u043d\u0442\u0438\u043d\u0430 \u0451\u0437\u0433\u0438 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Аргентина ёзги вақти"_s,
 		""_s,
-		u"\u0410\u0440\u0433\u0435\u043d\u0442\u0438\u043d\u0430 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Аргентина вақти"_s,
 		""_s
 	}));
 	$var($StringArray, Christmas, $new($StringArray, {
-		u"\u0420\u043e\u0436\u0434\u0435\u0441\u0442\u0432\u043e \u043e\u0440\u043e\u043b\u0438 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Рождество ороли вақти"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -651,7 +651,7 @@ $ObjectArray2* TimeZoneNames_uz_Cyrl::getContents() {
 		""_s
 	}));
 	$var($StringArray, Galapagos, $new($StringArray, {
-		u"\u0413\u0430\u043b\u0430\u043f\u0430\u0433\u043e\u0441 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Галапагос вақти"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -659,15 +659,15 @@ $ObjectArray2* TimeZoneNames_uz_Cyrl::getContents() {
 		""_s
 	}));
 	$var($StringArray, Hong_Kong, $new($StringArray, {
-		u"\u0413\u043e\u043d\u043a\u043e\u043d\u0433 \u0441\u0442\u0430\u043d\u0434\u0430\u0440\u0442 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Гонконг стандарт вақти"_s,
 		""_s,
-		u"\u0413\u043e\u043d\u043a\u043e\u043d\u0433 \u0451\u0437\u0433\u0438 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Гонконг ёзги вақти"_s,
 		""_s,
-		u"\u0413\u043e\u043d\u043a\u043e\u043d\u0433 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Гонконг вақти"_s,
 		""_s
 	}));
 	$var($StringArray, Indochina, $new($StringArray, {
-		u"\u04b2\u0438\u043d\u0434-\u0425\u0438\u0442\u043e\u0439 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Ҳинд-Хитой вақти"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -675,7 +675,7 @@ $ObjectArray2* TimeZoneNames_uz_Cyrl::getContents() {
 		""_s
 	}));
 	$var($StringArray, Kyrgystan, $new($StringArray, {
-		u"\u049a\u0438\u0440\u0493\u0438\u0437\u0438\u0441\u0442\u043e\u043d \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Қирғизистон вақти"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -683,15 +683,15 @@ $ObjectArray2* TimeZoneNames_uz_Cyrl::getContents() {
 		""_s
 	}));
 	$var($StringArray, Lord_Howe, $new($StringArray, {
-		u"\u041b\u043e\u0440\u0434 \u0425\u043e\u0432\u0435 \u0441\u0442\u0430\u043d\u0434\u0430\u0440\u0442 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Лорд Хове стандарт вақти"_s,
 		""_s,
-		u"\u041b\u043e\u0440\u0434 \u0425\u043e\u0432\u0435 \u043a\u0443\u043d\u0434\u0443\u0437\u0433\u0438 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Лорд Хове кундузги вақти"_s,
 		""_s,
-		u"\u041b\u043e\u0440\u0434 \u0425\u043e\u0432\u0435 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Лорд Хове вақти"_s,
 		""_s
 	}));
 	$var($StringArray, Marquesas, $new($StringArray, {
-		u"\u041c\u0430\u0440\u043a\u0435\u0437\u0430\u0441 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Маркезас вақти"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -699,15 +699,15 @@ $ObjectArray2* TimeZoneNames_uz_Cyrl::getContents() {
 		""_s
 	}));
 	$var($StringArray, Mauritius, $new($StringArray, {
-		u"\u041c\u0430\u0432\u0440\u0438\u043a\u0438\u0439 \u0441\u0442\u0430\u043d\u0434\u0430\u0440\u0442 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Маврикий стандарт вақти"_s,
 		""_s,
-		u"\u041c\u0430\u0432\u0440\u0438\u043a\u0438\u0439 \u0451\u0437\u0433\u0438 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Маврикий ёзги вақти"_s,
 		""_s,
-		u"\u041c\u0430\u0432\u0440\u0438\u043a\u0438\u0439 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Маврикий вақти"_s,
 		""_s
 	}));
 	$var($StringArray, Singapore, $new($StringArray, {
-		u"\u0421\u0438\u043d\u0433\u0430\u043f\u0443\u0440 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Сингапур вақти"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -715,7 +715,7 @@ $ObjectArray2* TimeZoneNames_uz_Cyrl::getContents() {
 		""_s
 	}));
 	$var($StringArray, Venezuela, $new($StringArray, {
-		u"\u0412\u0435\u043d\u0435\u0441\u0443\u044d\u043b\u0430 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Венесуэла вақти"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -723,35 +723,35 @@ $ObjectArray2* TimeZoneNames_uz_Cyrl::getContents() {
 		""_s
 	}));
 	$var($StringArray, Volgograd, $new($StringArray, {
-		u"\u0412\u043e\u043b\u0433\u043e\u0433\u0440\u0430\u0434 \u0441\u0442\u0430\u043d\u0434\u0430\u0440\u0442 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Волгоград стандарт вақти"_s,
 		""_s,
-		u"\u0412\u043e\u043b\u0433\u043e\u0433\u0440\u0430\u0434 \u0451\u0437\u0433\u0438 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Волгоград ёзги вақти"_s,
 		""_s,
-		u"\u0412\u043e\u043b\u0433\u043e\u0433\u0440\u0430\u0434 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Волгоград вақти"_s,
 		""_s
 	}));
 	$var($StringArray, Azerbaijan, $new($StringArray, {
-		u"\u041e\u0437\u0430\u0440\u0431\u0430\u0439\u0436\u043e\u043d \u0441\u0442\u0430\u043d\u0434\u0430\u0440\u0442 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Озарбайжон стандарт вақти"_s,
 		""_s,
-		u"\u041e\u0437\u0430\u0440\u0431\u0430\u0439\u0436\u043e\u043d \u0451\u0437\u0433\u0438 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Озарбайжон ёзги вақти"_s,
 		""_s,
-		u"\u041e\u0437\u0430\u0440\u0431\u0430\u0439\u0436\u043e\u043d \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Озарбайжон вақти"_s,
 		""_s
 	}));
 	$var($StringArray, Bangladesh, $new($StringArray, {
-		u"\u0411\u0430\u043d\u0433\u043b\u0430\u0434\u0435\u0448 \u0441\u0442\u0430\u043d\u0434\u0430\u0440\u0442 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Бангладеш стандарт вақти"_s,
 		""_s,
-		u"\u0411\u0430\u043d\u0433\u043b\u0430\u0434\u0435\u0448 \u0451\u0437\u0433\u0438 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Бангладеш ёзги вақти"_s,
 		""_s,
-		u"\u0411\u0430\u043d\u0433\u043b\u0430\u0434\u0435\u0448 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Бангладеш вақти"_s,
 		""_s
 	}));
 	$var($StringArray, Cape_Verde, $new($StringArray, {
-		u"\u041a\u0430\u0431\u043e-\u0412\u0435\u0440\u0434\u0435 \u0441\u0442\u0430\u043d\u0434\u0430\u0440\u0442 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Кабо-Верде стандарт вақти"_s,
 		""_s,
-		u"\u041a\u0430\u0431\u043e-\u0412\u0435\u0440\u0434\u0435 \u0451\u0437\u0433\u0438 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Кабо-Верде ёзги вақти"_s,
 		""_s,
-		u"\u041a\u0430\u0431\u043e-\u0412\u0435\u0440\u0434\u0435 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Кабо-Верде вақти"_s,
 		""_s
 	}));
 	$var($StringArray, EMPTY_ZONE, $new($StringArray, {
@@ -763,7 +763,7 @@ $ObjectArray2* TimeZoneNames_uz_Cyrl::getContents() {
 		""_s
 	}));
 	$var($StringArray, East_Timor, $new($StringArray, {
-		u"\u0428\u0430\u0440\u049b\u0438\u0439 \u0422\u0438\u043c\u043e\u0440 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Шарқий Тимор вақти"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -771,7 +771,7 @@ $ObjectArray2* TimeZoneNames_uz_Cyrl::getContents() {
 		""_s
 	}));
 	$var($StringArray, Seychelles, $new($StringArray, {
-		u"\u0421\u0435\u0439\u0448\u0435\u043b \u043e\u0440\u043e\u043b\u043b\u0430\u0440\u0438 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Сейшел ороллари вақти"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -779,7 +779,7 @@ $ObjectArray2* TimeZoneNames_uz_Cyrl::getContents() {
 		""_s
 	}));
 	$var($StringArray, Tajikistan, $new($StringArray, {
-		u"\u0422\u043e\u0436\u0438\u043a\u0438\u0441\u0442\u043e\u043d \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Тожикистон вақти"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -787,15 +787,15 @@ $ObjectArray2* TimeZoneNames_uz_Cyrl::getContents() {
 		""_s
 	}));
 	$var($StringArray, Uzbekistan, $new($StringArray, {
-		u"\u040e\u0437\u0431\u0435\u043a\u0438\u0441\u0442\u043e\u043d \u0441\u0442\u0430\u043d\u0434\u0430\u0440\u0442 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Ўзбекистон стандарт вақти"_s,
 		""_s,
-		u"\u040e\u0437\u0431\u0435\u043a\u0438\u0441\u0442\u043e\u043d \u0451\u0437\u0433\u0438 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Ўзбекистон ёзги вақти"_s,
 		""_s,
-		u"\u040e\u0437\u0431\u0435\u043a\u0438\u0441\u0442\u043e\u043d \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Ўзбекистон вақти"_s,
 		""_s
 	}));
 	$var($StringArray, Afghanistan, $new($StringArray, {
-		u"\u0410\u0444\u0493\u043e\u043d\u0438\u0441\u0442\u043e\u043d \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Афғонистон вақти"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -803,47 +803,47 @@ $ObjectArray2* TimeZoneNames_uz_Cyrl::getContents() {
 		""_s
 	}));
 	$var($StringArray, Krasnoyarsk, $new($StringArray, {
-		u"\u041a\u0440\u0430\u0441\u043d\u043e\u044f\u0440\u0441\u043a \u0441\u0442\u0430\u043d\u0434\u0430\u0440\u0442 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Красноярск стандарт вақти"_s,
 		""_s,
-		u"\u041a\u0440\u0430\u0441\u043d\u043e\u044f\u0440\u0441\u043a \u0451\u0437\u0433\u0438 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Красноярск ёзги вақти"_s,
 		""_s,
-		u"\u041a\u0440\u0430\u0441\u043d\u043e\u044f\u0440\u0441\u043a \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Красноярск вақти"_s,
 		""_s
 	}));
 	$var($StringArray, New_Zealand, $new($StringArray, {
-		u"\u042f\u043d\u0433\u0438 \u0417\u0435\u043b\u0430\u043d\u0434\u0438\u044f \u0441\u0442\u0430\u043d\u0434\u0430\u0440\u0442 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Янги Зеландия стандарт вақти"_s,
 		""_s,
-		u"\u042f\u043d\u0433\u0438 \u0417\u0435\u043b\u0430\u043d\u0434\u0438\u044f \u043a\u0443\u043d\u0434\u0443\u0437\u0433\u0438 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Янги Зеландия кундузги вақти"_s,
 		""_s,
-		u"\u042f\u043d\u0433\u0438 \u0417\u0435\u043b\u0430\u043d\u0434\u0438\u044f \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Янги Зеландия вақти"_s,
 		""_s
 	}));
 	$var($StringArray, Novosibirsk, $new($StringArray, {
-		u"\u041d\u043e\u0432\u043e\u0441\u0438\u0431\u0438\u0440\u0441\u043a \u0441\u0442\u0430\u043d\u0434\u0430\u0440\u0442 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Новосибирск стандарт вақти"_s,
 		""_s,
-		u"\u041d\u043e\u0432\u043e\u0441\u0438\u0431\u0438\u0440\u0441\u043a \u0451\u0437\u0433\u0438 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Новосибирск ёзги вақти"_s,
 		""_s,
-		u"\u041d\u043e\u0432\u043e\u0441\u0438\u0431\u0438\u0440\u0441\u043a \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Новосибирск вақти"_s,
 		""_s
 	}));
 	$var($StringArray, Philippines, $new($StringArray, {
-		u"\u0424\u0438\u043b\u0438\u043f\u043f\u0438\u043d \u0441\u0442\u0430\u043d\u0434\u0430\u0440\u0442 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Филиппин стандарт вақти"_s,
 		""_s,
-		u"\u0424\u0438\u043b\u0438\u043f\u043f\u0438\u043d \u0451\u0437\u0433\u0438 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Филиппин ёзги вақти"_s,
 		""_s,
-		u"\u0424\u0438\u043b\u0438\u043f\u043f\u0438\u043d \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Филиппин вақти"_s,
 		""_s
 	}));
 	$var($StringArray, Vladivostok, $new($StringArray, {
-		u"\u0412\u043b\u0430\u0434\u0438\u0432\u043e\u0441\u0442\u043e\u043a \u0441\u0442\u0430\u043d\u0434\u0430\u0440\u0442 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Владивосток стандарт вақти"_s,
 		""_s,
-		u"\u0412\u043b\u0430\u0434\u0438\u0432\u043e\u0441\u0442\u043e\u043a \u0451\u0437\u0433\u0438 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Владивосток ёзги вақти"_s,
 		""_s,
-		u"\u0412\u043b\u0430\u0434\u0438\u0432\u043e\u0441\u0442\u043e\u043a \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Владивосток вақти"_s,
 		""_s
 	}));
 	$var($StringArray, Indian_Ocean, $new($StringArray, {
-		u"\u04b2\u0438\u043d\u0434 \u043e\u043a\u0435\u0430\u043d\u0438 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Ҳинд океани вақти"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -851,7 +851,7 @@ $ObjectArray2* TimeZoneNames_uz_Cyrl::getContents() {
 		""_s
 	}));
 	$var($StringArray, Line_Islands, $new($StringArray, {
-		u"\u041b\u0430\u0439\u043d \u043e\u0440\u043e\u043b\u043b\u0430\u0440\u0438 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Лайн ороллари вақти"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -859,23 +859,23 @@ $ObjectArray2* TimeZoneNames_uz_Cyrl::getContents() {
 		""_s
 	}));
 	$var($StringArray, Newfoundland, $new($StringArray, {
-		u"\u041d\u044c\u044e\u0444\u0430\u0443\u043d\u0434\u043b\u0435\u043d\u0434 \u0441\u0442\u0430\u043d\u0434\u0430\u0440\u0442 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Ньюфаундленд стандарт вақти"_s,
 		""_s,
-		u"\u041d\u044c\u044e\u0444\u0430\u0443\u043d\u0434\u043b\u0435\u043d\u0434 \u043a\u0443\u043d\u0434\u0443\u0437\u0433\u0438 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Ньюфаундленд кундузги вақти"_s,
 		""_s,
-		u"\u041d\u044c\u044e\u0444\u0430\u0443\u043d\u0434\u043b\u0435\u043d\u0434 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Ньюфаундленд вақти"_s,
 		""_s
 	}));
 	$var($StringArray, Turkmenistan, $new($StringArray, {
-		u"\u0422\u0443\u0440\u043a\u043c\u0430\u043d\u0438\u0441\u0442\u043e\u043d \u0441\u0442\u0430\u043d\u0434\u0430\u0440\u0442 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Туркманистон стандарт вақти"_s,
 		""_s,
-		u"\u0422\u0443\u0440\u043a\u043c\u0430\u043d\u0438\u0441\u0442\u043e\u043d \u0451\u0437\u0433\u0438 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Туркманистон ёзги вақти"_s,
 		""_s,
-		u"\u0422\u0443\u0440\u043a\u043c\u0430\u043d\u0438\u0441\u0442\u043e\u043d \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Туркманистон вақти"_s,
 		""_s
 	}));
 	$var($StringArray, French_Guiana, $new($StringArray, {
-		u"\u0424\u0440\u0430\u043d\u0446\u0443\u0437 \u0413\u0432\u0438\u0430\u043d\u0430\u0441\u0438 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Француз Гвианаси вақти"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -883,15 +883,15 @@ $ObjectArray2* TimeZoneNames_uz_Cyrl::getContents() {
 		""_s
 	}));
 	$var($StringArray, New_Caledonia, $new($StringArray, {
-		u"\u042f\u043d\u0433\u0438 \u041a\u0430\u043b\u0435\u0434\u043e\u043d\u0438\u044f \u0441\u0442\u0430\u043d\u0434\u0430\u0440\u0442 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Янги Каледония стандарт вақти"_s,
 		""_s,
-		u"\u042f\u043d\u0433\u0438 \u041a\u0430\u043b\u0435\u0434\u043e\u043d\u0438\u044f \u0451\u0437\u0433\u0438 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Янги Каледония ёзги вақти"_s,
 		""_s,
-		u"\u042f\u043d\u0433\u0438 \u041a\u0430\u043b\u0435\u0434\u043e\u043d\u0438\u044f \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Янги Каледония вақти"_s,
 		""_s
 	}));
 	$var($StringArray, South_Georgia, $new($StringArray, {
-		u"\u0416\u0430\u043d\u0443\u0431\u0438\u0439 \u0414\u0436\u043e\u0440\u0434\u0436\u0438\u044f \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Жанубий Джорджия вақти"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -899,15 +899,15 @@ $ObjectArray2* TimeZoneNames_uz_Cyrl::getContents() {
 		""_s
 	}));
 	$var($StringArray, Yekaterinburg, $new($StringArray, {
-		u"\u0415\u043a\u0430\u0442\u0435\u0440\u0438\u043d\u0431\u0443\u0440\u0433 \u0441\u0442\u0430\u043d\u0434\u0430\u0440\u0442 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Екатеринбург стандарт вақти"_s,
 		""_s,
-		u"\u0415\u043a\u0430\u0442\u0435\u0440\u0438\u043d\u0431\u0443\u0440\u0433 \u0451\u0437\u0433\u0438 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Екатеринбург ёзги вақти"_s,
 		""_s,
-		u"\u0415\u043a\u0430\u0442\u0435\u0440\u0438\u043d\u0431\u0443\u0440\u0433 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Екатеринбург вақти"_s,
 		""_s
 	}));
 	$var($StringArray, Africa_Central, $new($StringArray, {
-		u"\u041c\u0430\u0440\u043a\u0430\u0437\u0438\u0439 \u0410\u0444\u0440\u0438\u043a\u0430 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Марказий Африка вақти"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -915,7 +915,7 @@ $ObjectArray2* TimeZoneNames_uz_Cyrl::getContents() {
 		""_s
 	}));
 	$var($StringArray, Africa_Eastern, $new($StringArray, {
-		u"\u0428\u0430\u0440\u049b\u0438\u0439 \u0410\u0444\u0440\u0438\u043a\u0430 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Шарқий Африка вақти"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -923,15 +923,15 @@ $ObjectArray2* TimeZoneNames_uz_Cyrl::getContents() {
 		""_s
 	}));
 	$var($StringArray, Africa_Western, $new($StringArray, {
-		u"\u0492\u0430\u0440\u0431\u0438\u0439 \u0410\u0444\u0440\u0438\u043a\u0430 \u0441\u0442\u0430\u043d\u0434\u0430\u0440\u0442 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Ғарбий Африка стандарт вақти"_s,
 		""_s,
-		u"\u0492\u0430\u0440\u0431\u0438\u0439 \u0410\u0444\u0440\u0438\u043a\u0430 \u0451\u0437\u0433\u0438 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Ғарбий Африка ёзги вақти"_s,
 		""_s,
-		u"\u0492\u0430\u0440\u0431\u0438\u0439 \u0410\u0444\u0440\u0438\u043a\u0430 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Ғарбий Африка вақти"_s,
 		""_s
 	}));
 	$var($StringArray, DumontDUrville, $new($StringArray, {
-		u"\u0414\u0443\u043c\u043e\u043d\u0442-\u0434-\u0423\u0440\u0432\u0438\u043b \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Думонт-д-Урвил вақти"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -939,31 +939,31 @@ $ObjectArray2* TimeZoneNames_uz_Cyrl::getContents() {
 		""_s
 	}));
 	$var($StringArray, Europe_Central, $new($StringArray, {
-		u"\u041c\u0430\u0440\u043a\u0430\u0437\u0438\u0439 \u0415\u0432\u0440\u043e\u043f\u0430 \u0441\u0442\u0430\u043d\u0434\u0430\u0440\u0442 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Марказий Европа стандарт вақти"_s,
 		""_s,
-		u"\u041c\u0430\u0440\u043a\u0430\u0437\u0438\u0439 \u0415\u0432\u0440\u043e\u043f\u0430 \u0451\u0437\u0433\u0438 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Марказий Европа ёзги вақти"_s,
 		""_s,
-		u"\u041c\u0430\u0440\u043a\u0430\u0437\u0438\u0439 \u0415\u0432\u0440\u043e\u043f\u0430 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Марказий Европа вақти"_s,
 		""_s
 	}));
 	$var($StringArray, Europe_Eastern, $new($StringArray, {
-		u"\u0428\u0430\u0440\u049b\u0438\u0439 \u0415\u0432\u0440\u043e\u043f\u0430 \u0441\u0442\u0430\u043d\u0434\u0430\u0440\u0442 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Шарқий Европа стандарт вақти"_s,
 		""_s,
-		u"\u0428\u0430\u0440\u049b\u0438\u0439 \u0415\u0432\u0440\u043e\u043f\u0430 \u0451\u0437\u0433\u0438 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Шарқий Европа ёзги вақти"_s,
 		""_s,
-		u"\u0428\u0430\u0440\u049b\u0438\u0439 \u0415\u0432\u0440\u043e\u043f\u0430 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Шарқий Европа вақти"_s,
 		""_s
 	}));
 	$var($StringArray, Europe_Western, $new($StringArray, {
-		u"\u0492\u0430\u0440\u0431\u0438\u0439 \u0415\u0432\u0440\u043e\u043f\u0430 \u0441\u0442\u0430\u043d\u0434\u0430\u0440\u0442 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Ғарбий Европа стандарт вақти"_s,
 		""_s,
-		u"\u0492\u0430\u0440\u0431\u0438\u0439 \u0415\u0432\u0440\u043e\u043f\u0430 \u0451\u0437\u0433\u0438 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Ғарбий Европа ёзги вақти"_s,
 		""_s,
-		u"\u0492\u0430\u0440\u0431\u0438\u0439 \u0415\u0432\u0440\u043e\u043f\u0430 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Ғарбий Европа вақти"_s,
 		""_s
 	}));
 	$var($StringArray, Africa_Southern, $new($StringArray, {
-		u"\u0416\u0430\u043d\u0443\u0431\u0438\u0439 \u0410\u0444\u0440\u0438\u043a\u0430 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Жанубий Африка вақти"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -971,31 +971,31 @@ $ObjectArray2* TimeZoneNames_uz_Cyrl::getContents() {
 		""_s
 	}));
 	$var($StringArray, America_Central, $new($StringArray, {
-		u"\u0428\u0438\u043c\u043e\u043b\u0438\u0439 \u0410\u043c\u0435\u0440\u0438\u043a\u0430 \u043c\u0430\u0440\u043a\u0430\u0437\u0438\u0439 \u0441\u0442\u0430\u043d\u0434\u0430\u0440\u0442 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Шимолий Америка марказий стандарт вақти"_s,
 		""_s,
-		u"\u0428\u0438\u043c\u043e\u043b\u0438\u0439 \u0410\u043c\u0435\u0440\u0438\u043a\u0430 \u043c\u0430\u0440\u043a\u0430\u0437\u0438\u0439 \u043a\u0443\u043d\u0434\u0443\u0437\u0433\u0438 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Шимолий Америка марказий кундузги вақти"_s,
 		""_s,
-		u"\u0428\u0438\u043c\u043e\u043b\u0438\u0439 \u0410\u043c\u0435\u0440\u0438\u043a\u0430"_s,
+		u"Шимолий Америка"_s,
 		""_s
 	}));
 	$var($StringArray, America_Eastern, $new($StringArray, {
-		u"\u0428\u0438\u043c\u043e\u043b\u0438\u0439 \u0410\u043c\u0435\u0440\u0438\u043a\u0430 \u0448\u0430\u0440\u049b\u0438\u0439 \u0441\u0442\u0430\u043d\u0434\u0430\u0440\u0442 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Шимолий Америка шарқий стандарт вақти"_s,
 		""_s,
-		u"\u0428\u0438\u043c\u043e\u043b\u0438\u0439 \u0410\u043c\u0435\u0440\u0438\u043a\u0430 \u0448\u0430\u0440\u049b\u0438\u0439 \u043a\u0443\u043d\u0434\u0443\u0437\u0433\u0438 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Шимолий Америка шарқий кундузги вақти"_s,
 		""_s,
-		u"\u0428\u0438\u043c\u043e\u043b\u0438\u0439 \u0410\u043c\u0435\u0440\u0438\u043a\u0430 \u0448\u0430\u0440\u049b\u0438\u0439 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Шимолий Америка шарқий вақти"_s,
 		""_s
 	}));
 	$var($StringArray, America_Pacific, $new($StringArray, {
-		u"\u0428\u0438\u043c\u043e\u043b\u0438\u0439 \u0410\u043c\u0435\u0440\u0438\u043a\u0430 \u0442\u0438\u043d\u0447 \u043e\u043a\u0435\u0430\u043d\u0438 \u0441\u0442\u0430\u043d\u0434\u0430\u0440\u0442 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Шимолий Америка тинч океани стандарт вақти"_s,
 		""_s,
-		u"\u0428\u0438\u043c\u043e\u043b\u0438\u0439 \u0410\u043c\u0435\u0440\u0438\u043a\u0430 \u0442\u0438\u043d\u0447 \u043e\u043a\u0435\u0430\u043d\u0438 \u043a\u0443\u043d\u0434\u0443\u0437\u0433\u0438 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Шимолий Америка тинч океани кундузги вақти"_s,
 		""_s,
-		u"\u0428\u0438\u043c\u043e\u043b\u0438\u0439 \u0410\u043c\u0435\u0440\u0438\u043a\u0430 \u0442\u0438\u043d\u0447 \u043e\u043a\u0435\u0430\u043d\u0438 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Шимолий Америка тинч океани вақти"_s,
 		""_s
 	}));
 	$var($StringArray, French_Southern, $new($StringArray, {
-		u"\u0424\u0440\u0430\u043d\u0446\u0443\u0437 \u0436\u0430\u043d\u0443\u0431\u0438\u0439 \u0432\u0430 \u0410\u043d\u0442\u0430\u0440\u043a\u0442\u0438\u043a\u0430 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Француз жанубий ва Антарктика вақти"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -1003,7 +1003,7 @@ $ObjectArray2* TimeZoneNames_uz_Cyrl::getContents() {
 		""_s
 	}));
 	$var($StringArray, Gilbert_Islands, $new($StringArray, {
-		u"\u0413\u0438\u043b\u0431\u0435\u0440\u0442 \u043e\u0440\u043e\u043b\u043b\u0430\u0440\u0438 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Гилберт ороллари вақти"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -1011,15 +1011,15 @@ $ObjectArray2* TimeZoneNames_uz_Cyrl::getContents() {
 		""_s
 	}));
 	$var($StringArray, Hawaii_Aleutian, $new($StringArray, {
-		u"\u0413\u0430\u0432\u0430\u0439\u0438-\u0430\u043b\u0435\u0443\u0442 \u0441\u0442\u0430\u043d\u0434\u0430\u0440\u0442 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Гавайи-алеут стандарт вақти"_s,
 		""_s,
-		u"\u0413\u0430\u0432\u0430\u0439\u0438-\u0430\u043b\u0435\u0443\u0442 \u043a\u0443\u043d\u0434\u0443\u0437\u0433\u0438 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Гавайи-алеут кундузги вақти"_s,
 		""_s,
-		u"\u0413\u0430\u0432\u0430\u0439\u0438-\u0430\u043b\u0435\u0443\u0442 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Гавайи-алеут вақти"_s,
 		""_s
 	}));
 	$var($StringArray, Phoenix_Islands, $new($StringArray, {
-		u"\u0424\u0435\u043d\u0438\u043a\u0441 \u043e\u0440\u043e\u043b\u043b\u0430\u0440\u0438 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Феникс ороллари вақти"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -1027,23 +1027,23 @@ $ObjectArray2* TimeZoneNames_uz_Cyrl::getContents() {
 		""_s
 	}));
 	$var($StringArray, Pierre_Miquelon, $new($StringArray, {
-		u"\u0421\u0435\u043d\u0442-\u041f\u044c\u0435\u0440 \u0432\u0430 \u041c\u0438\u043a\u0435\u043b\u043e\u043d \u0441\u0442\u0430\u043d\u0434\u0430\u0440\u0442 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Сент-Пьер ва Микелон стандарт вақти"_s,
 		""_s,
-		u"\u0421\u0435\u043d\u0442-\u041f\u044c\u0435\u0440 \u0432\u0430 \u041c\u0438\u043a\u0435\u043b\u043e\u043d \u043a\u0443\u043d\u0434\u0443\u0437\u0433\u0438 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Сент-Пьер ва Микелон кундузги вақти"_s,
 		""_s,
-		u"\u0421\u0435\u043d\u0442-\u041f\u044c\u0435\u0440 \u0432\u0430 \u041c\u0438\u043a\u0435\u043b\u043e\u043d \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Сент-Пьер ва Микелон вақти"_s,
 		""_s
 	}));
 	$var($StringArray, America_Mountain, $new($StringArray, {
-		u"\u0428\u0438\u043c\u043e\u043b\u0438\u0439 \u0410\u043c\u0435\u0440\u0438\u043a\u0430 \u0442\u043e\u0493 \u0441\u0442\u0430\u043d\u0434\u0430\u0440\u0442 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Шимолий Америка тоғ стандарт вақти"_s,
 		""_s,
-		u"\u0428\u0438\u043c\u043e\u043b\u0438\u0439 \u0410\u043c\u0435\u0440\u0438\u043a\u0430 \u0442\u043e\u0493 \u043a\u0443\u043d\u0434\u0443\u0437\u0433\u0438 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Шимолий Америка тоғ кундузги вақти"_s,
 		""_s,
-		u"\u0428\u0438\u043c\u043e\u043b\u0438\u0439 \u0410\u043c\u0435\u0440\u0438\u043a\u0430 \u0442\u043e\u0493 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Шимолий Америка тоғ вақти"_s,
 		""_s
 	}));
 	$var($StringArray, Marshall_Islands, $new($StringArray, {
-		u"\u041c\u0430\u0440\u0448\u0430\u043b\u043b \u043e\u0440\u043e\u043b\u043b\u0430\u0440\u0438 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Маршалл ороллари вақти"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -1051,7 +1051,7 @@ $ObjectArray2* TimeZoneNames_uz_Cyrl::getContents() {
 		""_s
 	}));
 	$var($StringArray, Papua_New_Guinea, $new($StringArray, {
-		u"\u041f\u0430\u043f\u0443\u0430-\u042f\u043d\u0433\u0438 \u0413\u0432\u0438\u043d\u0435\u044f \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Папуа-Янги Гвинея вақти"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -1059,47 +1059,47 @@ $ObjectArray2* TimeZoneNames_uz_Cyrl::getContents() {
 		""_s
 	}));
 	$var($StringArray, Australia_Central, $new($StringArray, {
-		u"\u041c\u0430\u0440\u043a\u0430\u0437\u0438\u0439 \u0410\u0432\u0441\u0442\u0440\u0430\u043b\u0438\u044f \u0441\u0442\u0430\u043d\u0434\u0430\u0440\u0442 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Марказий Австралия стандарт вақти"_s,
 		""_s,
-		u"\u041c\u0430\u0440\u043a\u0430\u0437\u0438\u0439 \u0410\u0432\u0441\u0442\u0440\u0430\u043b\u0438\u044f \u043a\u0443\u043d\u0434\u0443\u0437\u0433\u0438 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Марказий Австралия кундузги вақти"_s,
 		""_s,
-		u"\u041c\u0430\u0440\u043a\u0430\u0437\u0438\u0439 \u0410\u0432\u0441\u0442\u0440\u0430\u043b\u0438\u044f \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Марказий Австралия вақти"_s,
 		""_s
 	}));
 	$var($StringArray, Australia_Eastern, $new($StringArray, {
-		u"\u0428\u0430\u0440\u049b\u0438\u0439 \u0410\u0432\u0441\u0442\u0440\u0430\u043b\u0438\u044f \u0441\u0442\u0430\u043d\u0434\u0430\u0440\u0442 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Шарқий Австралия стандарт вақти"_s,
 		""_s,
-		u"\u0428\u0430\u0440\u049b\u0438\u0439 \u0410\u0432\u0441\u0442\u0440\u0430\u043b\u0438\u044f \u043a\u0443\u043d\u0434\u0443\u0437\u0433\u0438 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Шарқий Австралия кундузги вақти"_s,
 		""_s,
-		u"\u0428\u0430\u0440\u049b\u0438\u0439 \u0410\u0432\u0441\u0442\u0440\u0430\u043b\u0438\u044f \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Шарқий Австралия вақти"_s,
 		""_s
 	}));
 	$var($StringArray, Australia_Western, $new($StringArray, {
-		u"\u0492\u0430\u0440\u0431\u0438\u0439 \u0410\u0432\u0441\u0442\u0440\u0430\u043b\u0438\u044f \u0441\u0442\u0430\u043d\u0434\u0430\u0440\u0442 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Ғарбий Австралия стандарт вақти"_s,
 		""_s,
-		u"\u0492\u0430\u0440\u0431\u0438\u0439 \u0410\u0432\u0441\u0442\u0440\u0430\u043b\u0438\u044f \u043a\u0443\u043d\u0434\u0443\u0437\u0433\u0438 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Ғарбий Австралия кундузги вақти"_s,
 		""_s,
-		u"\u0492\u0430\u0440\u0431\u0438\u0439 \u0410\u0432\u0441\u0442\u0440\u0430\u043b\u0438\u044f \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Ғарбий Австралия вақти"_s,
 		""_s
 	}));
 	$var($StringArray, Greenland_Eastern, $new($StringArray, {
-		u"\u0428\u0430\u0440\u049b\u0438\u0439 \u0413\u0440\u0435\u043d\u043b\u0430\u043d\u0434\u0438\u044f \u0441\u0442\u0430\u043d\u0434\u0430\u0440\u0442 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Шарқий Гренландия стандарт вақти"_s,
 		""_s,
-		u"\u0428\u0430\u0440\u049b\u0438\u0439 \u0413\u0440\u0435\u043d\u043b\u0430\u043d\u0434\u0438\u044f \u0451\u0437\u0433\u0438 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Шарқий Гренландия ёзги вақти"_s,
 		""_s,
-		u"\u0428\u0430\u0440\u049b\u0438\u0439 \u0413\u0440\u0435\u043d\u043b\u0430\u043d\u0434\u0438\u044f \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Шарқий Гренландия вақти"_s,
 		""_s
 	}));
 	$var($StringArray, Greenland_Western, $new($StringArray, {
-		u"\u0492\u0430\u0440\u0431\u0438\u0439 \u0413\u0440\u0435\u043d\u043b\u0430\u043d\u0434\u0438\u044f \u0441\u0442\u0430\u043d\u0434\u0430\u0440\u0442 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Ғарбий Гренландия стандарт вақти"_s,
 		""_s,
-		u"\u0492\u0430\u0440\u0431\u0438\u0439 \u0413\u0440\u0435\u043d\u043b\u0430\u043d\u0434\u0438\u044f \u0451\u0437\u0433\u0438 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Ғарбий Гренландия ёзги вақти"_s,
 		""_s,
-		u"\u0492\u0430\u0440\u0431\u0438\u0439 \u0413\u0440\u0435\u043d\u043b\u0430\u043d\u0434\u0438\u044f \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Ғарбий Гренландия вақти"_s,
 		""_s
 	}));
 	$var($StringArray, Indonesia_Central, $new($StringArray, {
-		u"\u041c\u0430\u0440\u043a\u0430\u0437\u0438\u0439 \u0418\u043d\u0434\u043e\u043d\u0435\u0437\u0438\u044f \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Марказий Индонезия вақти"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -1107,7 +1107,7 @@ $ObjectArray2* TimeZoneNames_uz_Cyrl::getContents() {
 		""_s
 	}));
 	$var($StringArray, Indonesia_Eastern, $new($StringArray, {
-		u"\u0428\u0430\u0440\u049b\u0438\u0439 \u0418\u043d\u0434\u043e\u043d\u0435\u0437\u0438\u044f \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Шарқий Индонезия вақти"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -1115,7 +1115,7 @@ $ObjectArray2* TimeZoneNames_uz_Cyrl::getContents() {
 		""_s
 	}));
 	$var($StringArray, Indonesia_Western, $new($StringArray, {
-		u"\u0492\u0430\u0440\u0431\u0438\u0439 \u0418\u043d\u0434\u043e\u043d\u0435\u0437\u0438\u044f \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Ғарбий Индонезия вақти"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -1123,7 +1123,7 @@ $ObjectArray2* TimeZoneNames_uz_Cyrl::getContents() {
 		""_s
 	}));
 	$var($StringArray, Kazakhstan_Eastern, $new($StringArray, {
-		u"\u0428\u0430\u0440\u049b\u0438\u0439 \u049a\u043e\u0437\u043e\u0493\u0438\u0441\u0442\u043e\u043d \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Шарқий Қозоғистон вақти"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -1131,7 +1131,7 @@ $ObjectArray2* TimeZoneNames_uz_Cyrl::getContents() {
 		""_s
 	}));
 	$var($StringArray, Kazakhstan_Western, $new($StringArray, {
-		u"\u0492\u0430\u0440\u0431\u0438\u0439 \u049a\u043e\u0437\u043e\u0493\u0438\u0441\u0442\u043e\u043d \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Ғарбий Қозоғистон вақти"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -1139,11 +1139,11 @@ $ObjectArray2* TimeZoneNames_uz_Cyrl::getContents() {
 		""_s
 	}));
 	$var($StringArray, Australia_CentralWestern, $new($StringArray, {
-		u"\u041c\u0430\u0440\u043a\u0430\u0437\u0438\u0439 \u0410\u0432\u0441\u0442\u0440\u0430\u043b\u0438\u044f \u0492\u0430\u0440\u0431\u0438\u0439 \u0441\u0442\u0430\u043d\u0434\u0430\u0440\u0442 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Марказий Австралия Ғарбий стандарт вақти"_s,
 		""_s,
-		u"\u041c\u0430\u0440\u043a\u0430\u0437\u0438\u0439 \u0410\u0432\u0441\u0442\u0440\u0430\u043b\u0438\u044f \u0492\u0430\u0440\u0431\u0438\u0439 \u043a\u0443\u043d\u0434\u0443\u0437\u0433\u0438 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Марказий Австралия Ғарбий кундузги вақти"_s,
 		""_s,
-		u"\u041c\u0430\u0440\u043a\u0430\u0437\u0438\u0439 \u0410\u0432\u0441\u0442\u0440\u0430\u043b\u0438\u044f \u0492\u0430\u0440\u0431\u0438\u0439 \u0432\u0430\u049b\u0442\u0438"_s,
+		u"Марказий Австралия Ғарбий вақти"_s,
 		""_s
 	}));
 	$var($ObjectArray2, data, $new($ObjectArray2, {
@@ -1774,9 +1774,9 @@ $ObjectArray2* TimeZoneNames_uz_Cyrl::getContents() {
 		$$new($ObjectArray, {
 			$of("Europe/Dublin"_s),
 			$of($$new($StringArray, {
-				u"\u0413\u0440\u0438\u043d\u0432\u0438\u0447 \u0432\u0430\u049b\u0442\u0438"_s,
+				u"Гринвич вақти"_s,
 				""_s,
-				u"\u0418\u0440\u043b\u0430\u043d\u0434\u0438\u044f \u0451\u0437\u0433\u0438 \u0432\u0430\u049b\u0442\u0438"_s,
+				u"Ирландия ёзги вақти"_s,
 				""_s,
 				""_s,
 				""_s
@@ -1793,9 +1793,9 @@ $ObjectArray2* TimeZoneNames_uz_Cyrl::getContents() {
 		$$new($ObjectArray, {
 			$of("Europe/London"_s),
 			$of($$new($StringArray, {
-				u"\u0413\u0440\u0438\u043d\u0432\u0438\u0447 \u0432\u0430\u049b\u0442\u0438"_s,
+				u"Гринвич вақти"_s,
 				""_s,
-				u"\u0411\u0440\u0438\u0442\u0430\u043d\u0438\u044f \u0451\u0437\u0433\u0438 \u0432\u0430\u049b\u0442\u0438"_s,
+				u"Британия ёзги вақти"_s,
 				""_s,
 				""_s,
 				""_s
@@ -2004,9 +2004,9 @@ $ObjectArray2* TimeZoneNames_uz_Cyrl::getContents() {
 		$$new($ObjectArray, {
 			$of("Europe/Belfast"_s),
 			$of($$new($StringArray, {
-				u"\u0413\u0440\u0438\u043d\u0432\u0438\u0447 \u0432\u0430\u049b\u0442\u0438"_s,
+				u"Гринвич вақти"_s,
 				""_s,
-				u"\u0411\u0440\u0438\u0442\u0430\u043d\u0438\u044f \u0451\u0437\u0433\u0438 \u0432\u0430\u049b\u0442\u0438"_s,
+				u"Британия ёзги вақти"_s,
 				""_s,
 				""_s,
 				""_s
@@ -2962,7 +2962,7 @@ $ObjectArray2* TimeZoneNames_uz_Cyrl::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Etc/Unknown"_s),
-			$of(u"\u041d\u043e\u043c\u0430\u044a\u043b\u0443\u043c"_s)
+			$of(u"Номаълум"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("America/Argentina/Rio_Gallegos"_s),
@@ -2974,7 +2974,7 @@ $ObjectArray2* TimeZoneNames_uz_Cyrl::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Lower_Princes"_s),
-			$of(u"Lower Prince\u02bcs Quarter"_s)
+			$of(u"Lower Princeʼs Quarter"_s)
 		})
 	}));
 	return data;

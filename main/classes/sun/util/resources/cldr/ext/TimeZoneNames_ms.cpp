@@ -971,7 +971,7 @@ $ObjectArray2* TimeZoneNames_ms::getContents() {
 		""_s
 	}));
 	$var($StringArray, DumontDUrville, $new($StringArray, {
-		u"Waktu Dumont-d\u2019Urville"_s,
+		u"Waktu Dumont-d’Urville"_s,
 		""_s,
 		""_s,
 		""_s,

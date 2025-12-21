@@ -47,8 +47,8 @@ $ObjectArray2* FormatData_fi::getContents() {
 				"maaliskuuta"_s,
 				"huhtikuuta"_s,
 				"toukokuuta"_s,
-				u"kes\u00e4kuuta"_s,
-				u"hein\u00e4kuuta"_s,
+				u"kesäkuuta"_s,
+				u"heinäkuuta"_s,
 				"elokuuta"_s,
 				"syyskuuta"_s,
 				"lokakuuta"_s,
@@ -65,8 +65,8 @@ $ObjectArray2* FormatData_fi::getContents() {
 				"maaliskuu"_s,
 				"huhtikuu"_s,
 				"toukokuu"_s,
-				u"kes\u00e4kuu"_s,
-				u"hein\u00e4kuu"_s,
+				u"kesäkuu"_s,
+				u"heinäkuu"_s,
 				"elokuu"_s,
 				"syyskuu"_s,
 				"lokakuu"_s,
@@ -83,8 +83,8 @@ $ObjectArray2* FormatData_fi::getContents() {
 				"maaliskuuta"_s,
 				"huhtikuuta"_s,
 				"toukokuuta"_s,
-				u"kes\u00e4kuuta"_s,
-				u"hein\u00e4kuuta"_s,
+				u"kesäkuuta"_s,
+				u"heinäkuuta"_s,
 				"elokuuta"_s,
 				"syyskuuta"_s,
 				"lokakuuta"_s,
@@ -101,8 +101,8 @@ $ObjectArray2* FormatData_fi::getContents() {
 				"maalis"_s,
 				"huhti"_s,
 				"touko"_s,
-				u"kes\u00e4"_s,
-				u"hein\u00e4"_s,
+				u"kesä"_s,
+				u"heinä"_s,
 				"elo"_s,
 				"syys"_s,
 				"loka"_s,
@@ -150,8 +150,8 @@ $ObjectArray2* FormatData_fi::getContents() {
 		$$new($ObjectArray, {
 			$of("long.Eras"_s),
 			$of($$new($StringArray, {
-				u"ennen Kristuksen syntym\u00e4\u00e4"_s,
-				u"j\u00e4lkeen Kristuksen syntym\u00e4n"_s
+				u"ennen Kristuksen syntymää"_s,
+				u"jälkeen Kristuksen syntymän"_s
 			}))
 		}),
 		$$new($ObjectArray, {
@@ -244,16 +244,16 @@ $ObjectArray2* FormatData_fi::getContents() {
 			$of("NumberElements"_s),
 			$of($$new($StringArray, {
 				","_s,
-				u"\u00a0"_s,
+				u" "_s,
 				";"_s,
 				"%"_s,
 				"0"_s,
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
-				u"\ufffd"_s
+				u"‰"_s,
+				u"∞"_s,
+				u"�"_s
 			}))
 		}),
 		$$new($ObjectArray, {

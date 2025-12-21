@@ -42,15 +42,15 @@ $ObjectArray2* CurrencyNames_zh_Hans_HK::getContents() {
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("CNY"_s),
-			$of(u"CN\u00a5"_s)
+			$of(u"CN¥"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kyd"_s),
-			$of(u"\u5f00\u66fc\u7fa4\u5c9b\u5143"_s)
+			$of(u"开曼群岛元"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xag"_s),
-			$of(u"\u767d\u94f6"_s)
+			$of(u"白银"_s)
 		})
 	}));
 	return data;

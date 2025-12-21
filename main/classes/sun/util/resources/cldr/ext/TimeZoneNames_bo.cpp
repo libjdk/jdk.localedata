@@ -56,7 +56,7 @@ $ObjectArray2* TimeZoneNames_bo::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Etc/Unknown"_s),
-			$of(u"\u0f58\u0f0b\u0f62\u0f9f\u0f7c\u0f42\u0f66\u0f0b\u0f54"_s)
+			$of(u"མ་རྟོགས་པ"_s)
 		})
 	}));
 	return data;

@@ -53,7 +53,7 @@ $ObjectArray2* TimeZoneNames_dsb::getContents() {
 	$var($StringArray, Apia, $new($StringArray, {
 		"Apiaski standardny cas"_s,
 		""_s,
-		u"Apiaski l\u011b\u015bojski cas"_s,
+		u"Apiaski lěśojski cas"_s,
 		""_s,
 		"Apiaski cas"_s,
 		""_s
@@ -61,25 +61,25 @@ $ObjectArray2* TimeZoneNames_dsb::getContents() {
 	$var($StringArray, Cook, $new($StringArray, {
 		"Standardny cas Cookowych kupow"_s,
 		""_s,
-		u"l\u011b\u015bojski cas Cookowych kupow"_s,
+		u"lěśojski cas Cookowych kupow"_s,
 		""_s,
 		"cas Cookowych kupow"_s,
 		""_s
 	}));
 	$var($StringArray, Cuba, $new($StringArray, {
-		u"Kuba\u0144ski standardny cas"_s,
+		u"Kubański standardny cas"_s,
 		""_s,
-		u"Kuba\u0144ski l\u011b\u015bojski cas"_s,
+		u"Kubański lěśojski cas"_s,
 		""_s,
-		u"Kuba\u0144ski cas"_s,
+		u"Kubański cas"_s,
 		""_s
 	}));
 	$var($StringArray, Fiji, $new($StringArray, {
-		u"Fid\u017aiski standardny cas"_s,
+		u"Fidźiski standardny cas"_s,
 		""_s,
-		u"Fid\u017aiski l\u011b\u015bojski cas"_s,
+		u"Fidźiski lěśojski cas"_s,
 		""_s,
-		u"Fid\u017aiski cas"_s,
+		u"Fidźiski cas"_s,
 		""_s
 	}));
 	$var($StringArray, Gulf, $new($StringArray, {
@@ -93,17 +93,17 @@ $ObjectArray2* TimeZoneNames_dsb::getContents() {
 	$var($StringArray, Hovd, $new($StringArray, {
 		"Chowdski standardny cas"_s,
 		""_s,
-		u"Chowdski l\u011b\u015bojski cas"_s,
+		u"Chowdski lěśojski cas"_s,
 		""_s,
 		"Chowdski cas"_s,
 		""_s
 	}));
 	$var($StringArray, Iran, $new($StringArray, {
-		u"Ira\u0144ski standardny cas"_s,
+		u"Irański standardny cas"_s,
 		""_s,
-		u"Ira\u0144ski l\u011b\u015bojski cas"_s,
+		u"Irański lěśojski cas"_s,
 		""_s,
-		u"Ira\u0144ski cas"_s,
+		u"Irański cas"_s,
 		""_s
 	}));
 	$var($StringArray, Niue, $new($StringArray, {
@@ -117,7 +117,7 @@ $ObjectArray2* TimeZoneNames_dsb::getContents() {
 	$var($StringArray, Omsk, $new($StringArray, {
 		"Omski standardny cas"_s,
 		""_s,
-		u"Omski l\u011b\u015bojski cas"_s,
+		u"Omski lěśojski cas"_s,
 		""_s,
 		"Omski cas"_s,
 		""_s
@@ -125,7 +125,7 @@ $ObjectArray2* TimeZoneNames_dsb::getContents() {
 	$var($StringArray, Peru, $new($StringArray, {
 		"Peruski standardny cas"_s,
 		""_s,
-		u"Peruski l\u011b\u015bojski cas"_s,
+		u"Peruski lěśojski cas"_s,
 		""_s,
 		"Peruski cas"_s,
 		""_s
@@ -149,7 +149,7 @@ $ObjectArray2* TimeZoneNames_dsb::getContents() {
 	$var($StringArray, Chile, $new($StringArray, {
 		"Chilski standardny cas"_s,
 		""_s,
-		u"Chilski l\u011b\u015bojski cas"_s,
+		u"Chilski lěśojski cas"_s,
 		""_s,
 		"Chilski cas"_s,
 		""_s
@@ -157,7 +157,7 @@ $ObjectArray2* TimeZoneNames_dsb::getContents() {
 	$var($StringArray, China, $new($StringArray, {
 		"Chinski standardny cas"_s,
 		""_s,
-		u"Chinski l\u011b\u015bojski cas"_s,
+		u"Chinski lěśojski cas"_s,
 		""_s,
 		"Chinski cas"_s,
 		""_s
@@ -187,17 +187,17 @@ $ObjectArray2* TimeZoneNames_dsb::getContents() {
 		""_s
 	}));
 	$var($StringArray, Japan, $new($StringArray, {
-		u"Japa\u0144ski standardny cas"_s,
+		u"Japański standardny cas"_s,
 		""_s,
-		u"Japa\u0144ski l\u011b\u015bojski cas"_s,
+		u"Japański lěśojski cas"_s,
 		""_s,
-		u"Japa\u0144ski cas"_s,
+		u"Japański cas"_s,
 		""_s
 	}));
 	$var($StringArray, Korea, $new($StringArray, {
 		"Korejski standardny cas"_s,
 		""_s,
-		u"Korejski l\u011b\u015bojski cas"_s,
+		u"Korejski lěśojski cas"_s,
 		""_s,
 		"Korejski cas"_s,
 		""_s
@@ -229,7 +229,7 @@ $ObjectArray2* TimeZoneNames_dsb::getContents() {
 	$var($StringArray, Samoa, $new($StringArray, {
 		"Samoaski standardny cas"_s,
 		""_s,
-		u"Samoaski l\u011b\u015bojski cas"_s,
+		u"Samoaski lěśojski cas"_s,
 		""_s,
 		"Samoaski cas"_s,
 		""_s
@@ -245,7 +245,7 @@ $ObjectArray2* TimeZoneNames_dsb::getContents() {
 	$var($StringArray, Tonga, $new($StringArray, {
 		"Tongaski standardny cas"_s,
 		""_s,
-		u"Tongaski l\u011b\u015bojski cas"_s,
+		u"Tongaski lěśojski cas"_s,
 		""_s,
 		"Tongaski cas"_s,
 		""_s
@@ -253,7 +253,7 @@ $ObjectArray2* TimeZoneNames_dsb::getContents() {
 	$var($StringArray, Alaska, $new($StringArray, {
 		"Alaskojski standardny cas"_s,
 		""_s,
-		u"Alaskojski l\u011b\u015bojski cas"_s,
+		u"Alaskojski lěśojski cas"_s,
 		""_s,
 		"Alaskojski cas"_s,
 		""_s
@@ -261,7 +261,7 @@ $ObjectArray2* TimeZoneNames_dsb::getContents() {
 	$var($StringArray, Amazon, $new($StringArray, {
 		"Amaconaski standardny cas"_s,
 		""_s,
-		u"Amaconaski l\u011b\u015bojski cas"_s,
+		u"Amaconaski lěśojski cas"_s,
 		""_s,
 		"Amaconaski cas"_s,
 		""_s
@@ -269,13 +269,13 @@ $ObjectArray2* TimeZoneNames_dsb::getContents() {
 	$var($StringArray, Azores, $new($StringArray, {
 		"Acorski standardny cas"_s,
 		""_s,
-		u"Acorski l\u011b\u015bojski cas"_s,
+		u"Acorski lěśojski cas"_s,
 		""_s,
 		"Acorski cas"_s,
 		""_s
 	}));
 	$var($StringArray, Bhutan, $new($StringArray, {
-		u"Bhuta\u0144ski cas"_s,
+		u"Bhutański cas"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -291,15 +291,15 @@ $ObjectArray2* TimeZoneNames_dsb::getContents() {
 		""_s
 	}));
 	$var($StringArray, Easter, $new($StringArray, {
-		u"standardny cas Jat\u0161owneje kupy"_s,
+		u"standardny cas Jatšowneje kupy"_s,
 		""_s,
-		u"l\u011b\u015bojski cas Jat\u0161owneje kupy"_s,
+		u"lěśojski cas Jatšowneje kupy"_s,
 		""_s,
-		u"cas Jat\u0161owneje kupy"_s,
+		u"cas Jatšowneje kupy"_s,
 		""_s
 	}));
 	$var($StringArray, Guyana, $new($StringArray, {
-		u"Guya\u0144ski cas"_s,
+		u"Guyański cas"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -309,7 +309,7 @@ $ObjectArray2* TimeZoneNames_dsb::getContents() {
 	$var($StringArray, Israel, $new($StringArray, {
 		"Israelski standardny cas"_s,
 		""_s,
-		u"Israelski l\u011b\u015bojski cas"_s,
+		u"Israelski lěśojski cas"_s,
 		""_s,
 		"Israelski cas"_s,
 		""_s
@@ -333,7 +333,7 @@ $ObjectArray2* TimeZoneNames_dsb::getContents() {
 	$var($StringArray, Moscow, $new($StringArray, {
 		"Moskowski standardny cas"_s,
 		""_s,
-		u"Moskowski l\u011b\u015bojski cas"_s,
+		u"Moskowski lěśojski cas"_s,
 		""_s,
 		"Moskowski cas"_s,
 		""_s
@@ -357,7 +357,7 @@ $ObjectArray2* TimeZoneNames_dsb::getContents() {
 	$var($StringArray, Taipei, $new($StringArray, {
 		"Tchajpejski standardny cas"_s,
 		""_s,
-		u"Tchajpejski l\u011b\u015bojski cas"_s,
+		u"Tchajpejski lěśojski cas"_s,
 		""_s,
 		"Tchajpejski cas"_s,
 		""_s
@@ -389,17 +389,17 @@ $ObjectArray2* TimeZoneNames_dsb::getContents() {
 	$var($StringArray, Arabian, $new($StringArray, {
 		"Arabiski standardny cas"_s,
 		""_s,
-		u"Arabiski l\u011b\u015bojski cas"_s,
+		u"Arabiski lěśojski cas"_s,
 		""_s,
 		"Arabiski cas"_s,
 		""_s
 	}));
 	$var($StringArray, Armenia, $new($StringArray, {
-		u"Arme\u0144ski standardny cas"_s,
+		u"Armeński standardny cas"_s,
 		""_s,
-		u"Arme\u0144ski l\u011b\u015bojski cas"_s,
+		u"Armeński lěśojski cas"_s,
 		""_s,
-		u"Arme\u0144ski cas"_s,
+		u"Armeński cas"_s,
 		""_s
 	}));
 	$var($StringArray, Bolivia, $new($StringArray, {
@@ -413,7 +413,7 @@ $ObjectArray2* TimeZoneNames_dsb::getContents() {
 	$var($StringArray, Chatham, $new($StringArray, {
 		"Chathamski standardny cas"_s,
 		""_s,
-		u"Chathamski l\u011b\u015bojski cas"_s,
+		u"Chathamski lěśojski cas"_s,
 		""_s,
 		"Chathamski cas"_s,
 		""_s
@@ -437,7 +437,7 @@ $ObjectArray2* TimeZoneNames_dsb::getContents() {
 	$var($StringArray, Georgia, $new($StringArray, {
 		"Georgiski standardny cas"_s,
 		""_s,
-		u"Georgiski l\u011b\u015bojski cas"_s,
+		u"Georgiski lěśojski cas"_s,
 		""_s,
 		"Georgiski cas"_s,
 		""_s
@@ -445,17 +445,17 @@ $ObjectArray2* TimeZoneNames_dsb::getContents() {
 	$var($StringArray, Irkutsk, $new($StringArray, {
 		"Irkutski standardny cas"_s,
 		""_s,
-		u"Irkutski l\u011b\u015bojski cas"_s,
+		u"Irkutski lěśojski cas"_s,
 		""_s,
 		"Irkutski cas"_s,
 		""_s
 	}));
 	$var($StringArray, Magadan, $new($StringArray, {
-		u"Magada\u0144ski standardny cas"_s,
+		u"Magadański standardny cas"_s,
 		""_s,
-		u"Magada\u0144ski l\u011b\u015bojski cas"_s,
+		u"Magadański lěśojski cas"_s,
 		""_s,
-		u"Magada\u0144ski cas"_s,
+		u"Magadański cas"_s,
 		""_s
 	}));
 	$var($StringArray, Myanmar, $new($StringArray, {
@@ -469,7 +469,7 @@ $ObjectArray2* TimeZoneNames_dsb::getContents() {
 	$var($StringArray, Norfolk, $new($StringArray, {
 		"standardny cas kupy Norfolk"_s,
 		""_s,
-		u"l\u011b\u015bojski cas kupy Norfolk"_s,
+		u"lěśojski cas kupy Norfolk"_s,
 		""_s,
 		"cas kupy Norfolk"_s,
 		""_s
@@ -477,7 +477,7 @@ $ObjectArray2* TimeZoneNames_dsb::getContents() {
 	$var($StringArray, Noronha, $new($StringArray, {
 		"standardny cas Fernando de Noronha"_s,
 		""_s,
-		u"l\u011b\u015bojski cas Fernando de Noronha"_s,
+		u"lěśojski cas Fernando de Noronha"_s,
 		""_s,
 		"cas Fernando de Noronha"_s,
 		""_s
@@ -499,7 +499,7 @@ $ObjectArray2* TimeZoneNames_dsb::getContents() {
 		""_s
 	}));
 	$var($StringArray, Solomon, $new($StringArray, {
-		u"Salomo\u0144ski cas"_s,
+		u"Salomoński cas"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -517,7 +517,7 @@ $ObjectArray2* TimeZoneNames_dsb::getContents() {
 	$var($StringArray, Uruguay, $new($StringArray, {
 		"Uruguayski standardny cas"_s,
 		""_s,
-		u"Uruguayski l\u011b\u015bojski cas"_s,
+		u"Uruguayski lěśojski cas"_s,
 		""_s,
 		"Uruguayski cas"_s,
 		""_s
@@ -525,7 +525,7 @@ $ObjectArray2* TimeZoneNames_dsb::getContents() {
 	$var($StringArray, Vanuatu, $new($StringArray, {
 		"Vanuatski standardny cas"_s,
 		""_s,
-		u"Vanuatski l\u011b\u015bojski cas"_s,
+		u"Vanuatski lěśojski cas"_s,
 		""_s,
 		"Vanuatski cas"_s,
 		""_s
@@ -533,7 +533,7 @@ $ObjectArray2* TimeZoneNames_dsb::getContents() {
 	$var($StringArray, Yakutsk, $new($StringArray, {
 		"Jakutski standardny cas"_s,
 		""_s,
-		u"Jakutski l\u011b\u015bojski cas"_s,
+		u"Jakutski lěśojski cas"_s,
 		""_s,
 		"Jakutski cas"_s,
 		""_s
@@ -541,17 +541,17 @@ $ObjectArray2* TimeZoneNames_dsb::getContents() {
 	$var($StringArray, Atlantic, $new($StringArray, {
 		"Atlantiski standardny cas"_s,
 		""_s,
-		u"Atlantiski l\u011b\u015bojski cas"_s,
+		u"Atlantiski lěśojski cas"_s,
 		""_s,
 		"Atlantiski cas"_s,
 		""_s
 	}));
 	$var($StringArray, Brasilia, $new($StringArray, {
-		u"Bras\u00edlia standardny cas"_s,
+		u"Brasília standardny cas"_s,
 		""_s,
-		u"Bras\u00edlia l\u011b\u015bojski cas"_s,
+		u"Brasília lěśojski cas"_s,
 		""_s,
-		u"Bras\u00edlia cas"_s,
+		u"Brasília cas"_s,
 		""_s
 	}));
 	$var($StringArray, Chamorro, $new($StringArray, {
@@ -565,7 +565,7 @@ $ObjectArray2* TimeZoneNames_dsb::getContents() {
 	$var($StringArray, Colombia, $new($StringArray, {
 		"Kolumbiski standardny cas"_s,
 		""_s,
-		u"Kolumbiski l\u011b\u015bojski cas"_s,
+		u"Kolumbiski lěśojski cas"_s,
 		""_s,
 		"Kolumbiski cas"_s,
 		""_s
@@ -573,7 +573,7 @@ $ObjectArray2* TimeZoneNames_dsb::getContents() {
 	$var($StringArray, Falkland, $new($StringArray, {
 		"Falklandski standardny cas"_s,
 		""_s,
-		u"Falklandski l\u011b\u015bojski cas"_s,
+		u"Falklandski lěśojski cas"_s,
 		""_s,
 		"Falklandski cas"_s,
 		""_s
@@ -597,23 +597,23 @@ $ObjectArray2* TimeZoneNames_dsb::getContents() {
 	$var($StringArray, Mongolia, $new($StringArray, {
 		"Ulan-Batorski standardny cas"_s,
 		""_s,
-		u"Ulan-Batorski l\u011b\u015bojski cas"_s,
+		u"Ulan-Batorski lěśojski cas"_s,
 		""_s,
 		"Ulan-Batorski cas"_s,
 		""_s
 	}));
 	$var($StringArray, Pakistan, $new($StringArray, {
-		u"Pakista\u0144ski standardny cas"_s,
+		u"Pakistański standardny cas"_s,
 		""_s,
-		u"Pakista\u0144ski l\u011b\u015bojski cas"_s,
+		u"Pakistański lěśojski cas"_s,
 		""_s,
-		u"Pakista\u0144ski cas"_s,
+		u"Pakistański cas"_s,
 		""_s
 	}));
 	$var($StringArray, Paraguay, $new($StringArray, {
 		"Paraguayski standardny cas"_s,
 		""_s,
-		u"Paraguayski l\u011b\u015bojski cas"_s,
+		u"Paraguayski lěśojski cas"_s,
 		""_s,
 		"Paraguayski cas"_s,
 		""_s
@@ -629,7 +629,7 @@ $ObjectArray2* TimeZoneNames_dsb::getContents() {
 	$var($StringArray, Sakhalin, $new($StringArray, {
 		"Sachalinski standardny cas"_s,
 		""_s,
-		u"Sachalinski l\u011b\u015bojski cas"_s,
+		u"Sachalinski lěśojski cas"_s,
 		""_s,
 		"Sachalinski cas"_s,
 		""_s
@@ -645,13 +645,13 @@ $ObjectArray2* TimeZoneNames_dsb::getContents() {
 	$var($StringArray, Argentina, $new($StringArray, {
 		"Argentinski standardny cas"_s,
 		""_s,
-		u"Argentinski l\u011b\u015bojski cas"_s,
+		u"Argentinski lěśojski cas"_s,
 		""_s,
 		"Argentinski cas"_s,
 		""_s
 	}));
 	$var($StringArray, Christmas, $new($StringArray, {
-		u"cas G\u00f3downych kupow"_s,
+		u"cas Gódownych kupow"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -669,7 +669,7 @@ $ObjectArray2* TimeZoneNames_dsb::getContents() {
 	$var($StringArray, Hong_Kong, $new($StringArray, {
 		"Hongkongski standardny cas"_s,
 		""_s,
-		u"Hongkongski l\u011b\u015bojski cas"_s,
+		u"Hongkongski lěśojski cas"_s,
 		""_s,
 		"Hongkongski cas"_s,
 		""_s
@@ -693,7 +693,7 @@ $ObjectArray2* TimeZoneNames_dsb::getContents() {
 	$var($StringArray, Lord_Howe, $new($StringArray, {
 		"Standardny cas kupy Lord-Howe"_s,
 		""_s,
-		u"l\u011b\u015bojski cas kupy Lord-Howe"_s,
+		u"lěśojski cas kupy Lord-Howe"_s,
 		""_s,
 		"cas kupy Lord-Howe"_s,
 		""_s
@@ -709,7 +709,7 @@ $ObjectArray2* TimeZoneNames_dsb::getContents() {
 	$var($StringArray, Mauritius, $new($StringArray, {
 		"Mauriciski standardny cas"_s,
 		""_s,
-		u"Mauriciski l\u011b\u015bojski cas"_s,
+		u"Mauriciski lěśojski cas"_s,
 		""_s,
 		"Mauriciski cas"_s,
 		""_s
@@ -733,31 +733,31 @@ $ObjectArray2* TimeZoneNames_dsb::getContents() {
 	$var($StringArray, Volgograd, $new($StringArray, {
 		"Wolgogradski standardny cas"_s,
 		""_s,
-		u"Wolgogradski l\u011b\u015bojski cas"_s,
+		u"Wolgogradski lěśojski cas"_s,
 		""_s,
 		"Wolgogradski cas"_s,
 		""_s
 	}));
 	$var($StringArray, Azerbaijan, $new($StringArray, {
-		u"Azerbajd\u017eaniski standardny cas"_s,
+		u"Azerbajdžaniski standardny cas"_s,
 		""_s,
-		u"Azerbajd\u017eaniski l\u011b\u015bojski cas"_s,
+		u"Azerbajdžaniski lěśojski cas"_s,
 		""_s,
-		u"Azerbajd\u017eaniski cas"_s,
+		u"Azerbajdžaniski cas"_s,
 		""_s
 	}));
 	$var($StringArray, Bangladesh, $new($StringArray, {
-		u"Banglade\u0161ski standardny cas"_s,
+		u"Bangladešski standardny cas"_s,
 		""_s,
-		u"Banglade\u0161ski l\u011b\u015bojski cas"_s,
+		u"Bangladešski lěśojski cas"_s,
 		""_s,
-		u"Banglade\u0161ski cas"_s,
+		u"Bangladešski cas"_s,
 		""_s
 	}));
 	$var($StringArray, Cape_Verde, $new($StringArray, {
 		"Kapverdski standardny cas"_s,
 		""_s,
-		u"Kapverdski l\u011b\u015bojski cas"_s,
+		u"Kapverdski lěśojski cas"_s,
 		""_s,
 		"Kapverdski cas"_s,
 		""_s
@@ -771,7 +771,7 @@ $ObjectArray2* TimeZoneNames_dsb::getContents() {
 		""_s
 	}));
 	$var($StringArray, East_Timor, $new($StringArray, {
-		u"P\u00f3dzajt\u0161notimorski cas"_s,
+		u"Pódzajtšnotimorski cas"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -787,7 +787,7 @@ $ObjectArray2* TimeZoneNames_dsb::getContents() {
 		""_s
 	}));
 	$var($StringArray, Tajikistan, $new($StringArray, {
-		u"Tad\u017aikiski cas"_s,
+		u"Tadźikiski cas"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -797,7 +797,7 @@ $ObjectArray2* TimeZoneNames_dsb::getContents() {
 	$var($StringArray, Uzbekistan, $new($StringArray, {
 		"Uzbekiski standardny cas"_s,
 		""_s,
-		u"Uzbekiski l\u011b\u015bojski cas"_s,
+		u"Uzbekiski lěśojski cas"_s,
 		""_s,
 		"Uzbekiski cas"_s,
 		""_s
@@ -813,7 +813,7 @@ $ObjectArray2* TimeZoneNames_dsb::getContents() {
 	$var($StringArray, Krasnoyarsk, $new($StringArray, {
 		"Krasnojarski standardny cas"_s,
 		""_s,
-		u"Krasnojarski l\u011b\u015bojski cas"_s,
+		u"Krasnojarski lěśojski cas"_s,
 		""_s,
 		"Krasnojarski cas"_s,
 		""_s
@@ -821,7 +821,7 @@ $ObjectArray2* TimeZoneNames_dsb::getContents() {
 	$var($StringArray, New_Zealand, $new($StringArray, {
 		"Nowoseelandski standardny cas"_s,
 		""_s,
-		u"Nowoseelandski l\u011b\u015bojski cas"_s,
+		u"Nowoseelandski lěśojski cas"_s,
 		""_s,
 		"Nowoseelandski cas"_s,
 		""_s
@@ -829,7 +829,7 @@ $ObjectArray2* TimeZoneNames_dsb::getContents() {
 	$var($StringArray, Novosibirsk, $new($StringArray, {
 		"Nowosibirski standardny cas"_s,
 		""_s,
-		u"Nowosibirski l\u011b\u015bojski cas"_s,
+		u"Nowosibirski lěśojski cas"_s,
 		""_s,
 		"Nowosibirski cas"_s,
 		""_s
@@ -837,7 +837,7 @@ $ObjectArray2* TimeZoneNames_dsb::getContents() {
 	$var($StringArray, Philippines, $new($StringArray, {
 		"Filipinski standardny cas"_s,
 		""_s,
-		u"Filipinski l\u011b\u015bojski cas"_s,
+		u"Filipinski lěśojski cas"_s,
 		""_s,
 		"Filipinski cas"_s,
 		""_s
@@ -845,7 +845,7 @@ $ObjectArray2* TimeZoneNames_dsb::getContents() {
 	$var($StringArray, Vladivostok, $new($StringArray, {
 		"Wladiwostokski standardny cas"_s,
 		""_s,
-		u"Wladiwostokski l\u011b\u015bojski cas"_s,
+		u"Wladiwostokski lěśojski cas"_s,
 		""_s,
 		"Wladiwostokski cas"_s,
 		""_s
@@ -869,7 +869,7 @@ $ObjectArray2* TimeZoneNames_dsb::getContents() {
 	$var($StringArray, Newfoundland, $new($StringArray, {
 		"Nowofundlandski standardny cas"_s,
 		""_s,
-		u"Nowofundlandski l\u011b\u015bojski cas"_s,
+		u"Nowofundlandski lěśojski cas"_s,
 		""_s,
 		"Nowofundlandski cas"_s,
 		""_s
@@ -877,13 +877,13 @@ $ObjectArray2* TimeZoneNames_dsb::getContents() {
 	$var($StringArray, Turkmenistan, $new($StringArray, {
 		"Turkmeniski standardny cas"_s,
 		""_s,
-		u"Turkmeniski l\u011b\u015bojski cas"_s,
+		u"Turkmeniski lěśojski cas"_s,
 		""_s,
 		"Turkmeniski cas"_s,
 		""_s
 	}));
 	$var($StringArray, French_Guiana, $new($StringArray, {
-		u"Francojskoguya\u0144ski cas"_s,
+		u"Francojskoguyański cas"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -893,13 +893,13 @@ $ObjectArray2* TimeZoneNames_dsb::getContents() {
 	$var($StringArray, New_Caledonia, $new($StringArray, {
 		"Nowokaledoniski standardny cas"_s,
 		""_s,
-		u"Nowokaledoniski l\u011b\u015bojski cas"_s,
+		u"Nowokaledoniski lěśojski cas"_s,
 		""_s,
 		"Nowokaledoniski cas"_s,
 		""_s
 	}));
 	$var($StringArray, South_Georgia, $new($StringArray, {
-		u"P\u00f3dpo\u0142dnjowogeorgiski cas"_s,
+		u"Pódpołdnjowogeorgiski cas"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -909,13 +909,13 @@ $ObjectArray2* TimeZoneNames_dsb::getContents() {
 	$var($StringArray, Yekaterinburg, $new($StringArray, {
 		"Jekaterinburgski standardny cas"_s,
 		""_s,
-		u"Jekaterinburgski l\u011b\u015bojski cas"_s,
+		u"Jekaterinburgski lěśojski cas"_s,
 		""_s,
 		"Jekaterinburgski cas"_s,
 		""_s
 	}));
 	$var($StringArray, Africa_Central, $new($StringArray, {
-		u"Srjej\u017aoafriski cas"_s,
+		u"Srjejźoafriski cas"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -923,7 +923,7 @@ $ObjectArray2* TimeZoneNames_dsb::getContents() {
 		""_s
 	}));
 	$var($StringArray, Africa_Eastern, $new($StringArray, {
-		u"P\u00f3dzajt\u0161noafriski cas"_s,
+		u"Pódzajtšnoafriski cas"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -931,11 +931,11 @@ $ObjectArray2* TimeZoneNames_dsb::getContents() {
 		""_s
 	}));
 	$var($StringArray, Africa_Western, $new($StringArray, {
-		u"P\u00f3dwjacornoafriski standardny cas"_s,
+		u"Pódwjacornoafriski standardny cas"_s,
 		""_s,
-		u"P\u00f3dwjacornoafriski l\u011b\u015bojski cas"_s,
+		u"Pódwjacornoafriski lěśojski cas"_s,
 		""_s,
-		u"P\u00f3dwjacornoafriski cas"_s,
+		u"Pódwjacornoafriski cas"_s,
 		""_s
 	}));
 	$var($StringArray, DumontDUrville, $new($StringArray, {
@@ -947,39 +947,39 @@ $ObjectArray2* TimeZoneNames_dsb::getContents() {
 		""_s
 	}));
 	$var($StringArray, Europe_Central, $new($StringArray, {
-		u"Srjej\u017aoeuropski standardny cas"_s,
+		u"Srjejźoeuropski standardny cas"_s,
 		"MEZ"_s,
-		u"Srjej\u017aoeuropski l\u011b\u015bojski cas"_s,
+		u"Srjejźoeuropski lěśojski cas"_s,
 		"MESZ"_s,
-		u"Srjej\u017aoeuropski cas"_s,
+		u"Srjejźoeuropski cas"_s,
 		"MEZ"_s
 	}));
 	$var($StringArray, Europe_Eastern, $new($StringArray, {
-		u"P\u00f3dzajt\u0161noeuropski standardny cas"_s,
+		u"Pódzajtšnoeuropski standardny cas"_s,
 		"OEZ"_s,
-		u"P\u00f3dzajt\u0161noeuropski l\u011b\u015bojski cas"_s,
+		u"Pódzajtšnoeuropski lěśojski cas"_s,
 		"OESZ"_s,
-		u"P\u00f3dzajt\u0161noeuropski cas"_s,
+		u"Pódzajtšnoeuropski cas"_s,
 		"OEZ"_s
 	}));
 	$var($StringArray, Europe_Western, $new($StringArray, {
-		u"P\u00f3dwjacornoeuropski standardny cas"_s,
+		u"Pódwjacornoeuropski standardny cas"_s,
 		"WEZ"_s,
-		u"P\u00f3dwjacornoeuropski l\u011b\u015bojski cas"_s,
+		u"Pódwjacornoeuropski lěśojski cas"_s,
 		"WESZ"_s,
-		u"P\u00f3dwjacornoeuropski cas"_s,
+		u"Pódwjacornoeuropski cas"_s,
 		"WEZ"_s
 	}));
 	$var($StringArray, Mexico_Pacific, $new($StringArray, {
 		"Mexiski pacifiski standardny cas"_s,
 		""_s,
-		u"Mexiski pacifiski l\u011b\u015bojski cas"_s,
+		u"Mexiski pacifiski lěśojski cas"_s,
 		""_s,
 		"Mexiski pacifiski cas"_s,
 		""_s
 	}));
 	$var($StringArray, Africa_Southern, $new($StringArray, {
-		u"P\u00f3dpo\u0142dnjowoafriski cas"_s,
+		u"Pódpołdnjowoafriski cas"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -987,31 +987,31 @@ $ObjectArray2* TimeZoneNames_dsb::getContents() {
 		""_s
 	}));
 	$var($StringArray, America_Central, $new($StringArray, {
-		u"P\u00f3dpo\u0142nocnoameriski centralny standardny cas"_s,
+		u"Pódpołnocnoameriski centralny standardny cas"_s,
 		""_s,
-		u"P\u00f3dpo\u0142nocnoameriski centralny l\u011b\u015bojski cas"_s,
+		u"Pódpołnocnoameriski centralny lěśojski cas"_s,
 		""_s,
-		u"P\u00f3dpo\u0142nocnoameriski centralny cas"_s,
+		u"Pódpołnocnoameriski centralny cas"_s,
 		""_s
 	}));
 	$var($StringArray, America_Eastern, $new($StringArray, {
-		u"P\u00f3dpo\u0142nocnoameriski p\u00f3dzajt\u0161ny standardny cas"_s,
+		u"Pódpołnocnoameriski pódzajtšny standardny cas"_s,
 		""_s,
-		u"P\u00f3dpo\u0142nocnoameriski p\u00f3dzajt\u0161ny l\u011b\u015bojski cas"_s,
+		u"Pódpołnocnoameriski pódzajtšny lěśojski cas"_s,
 		""_s,
-		u"P\u00f3dpo\u0142nocnoameriski p\u00f3dzajt\u0161ny cas"_s,
+		u"Pódpołnocnoameriski pódzajtšny cas"_s,
 		""_s
 	}));
 	$var($StringArray, America_Pacific, $new($StringArray, {
-		u"P\u00f3dpo\u0142nocnoameriski pacifiski standardny cas"_s,
+		u"Pódpołnocnoameriski pacifiski standardny cas"_s,
 		""_s,
-		u"P\u00f3dpo\u0142nocnoameriski pacifiski l\u011b\u015bojski cas"_s,
+		u"Pódpołnocnoameriski pacifiski lěśojski cas"_s,
 		""_s,
-		u"P\u00f3dpo\u0142nocnoameriski pacifiski cas"_s,
+		u"Pódpołnocnoameriski pacifiski cas"_s,
 		""_s
 	}));
 	$var($StringArray, French_Southern, $new($StringArray, {
-		u"cas francojskego p\u00f3dpo\u0142dnjowego a antarktiskeho teritoriuma"_s,
+		u"cas francojskego pódpołdnjowego a antarktiskeho teritoriuma"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -1029,7 +1029,7 @@ $ObjectArray2* TimeZoneNames_dsb::getContents() {
 	$var($StringArray, Hawaii_Aleutian, $new($StringArray, {
 		"Hawaiisko-aleutski standardny cas"_s,
 		""_s,
-		u"Hawaiisko-aleutski l\u011b\u015bojski cas"_s,
+		u"Hawaiisko-aleutski lěśojski cas"_s,
 		""_s,
 		"Hawaiisko-aleutski cas"_s,
 		""_s
@@ -1043,19 +1043,19 @@ $ObjectArray2* TimeZoneNames_dsb::getContents() {
 		""_s
 	}));
 	$var($StringArray, Pierre_Miquelon, $new($StringArray, {
-		u"St.-Pierre-a-Miquelo\u0144ski standardny cas"_s,
+		u"St.-Pierre-a-Miqueloński standardny cas"_s,
 		""_s,
-		u"St.-Pierre-a-Miquelo\u0144ski l\u011b\u015bojski cas"_s,
+		u"St.-Pierre-a-Miqueloński lěśojski cas"_s,
 		""_s,
-		u"St.-Pierre-a-Miquelo\u0144ski cas"_s,
+		u"St.-Pierre-a-Miqueloński cas"_s,
 		""_s
 	}));
 	$var($StringArray, America_Mountain, $new($StringArray, {
-		u"P\u00f3dpo\u0142nocnoameriski g\u00f3rski standardny cas"_s,
+		u"Pódpołnocnoameriski górski standardny cas"_s,
 		""_s,
-		u"P\u00f3dpo\u0142nocnoameriski g\u00f3rski l\u011b\u015bojski cas"_s,
+		u"Pódpołnocnoameriski górski lěśojski cas"_s,
 		""_s,
-		u"P\u00f3dpo\u0142nocnoameriski g\u00f3rski cas"_s,
+		u"Pódpołnocnoameriski górski cas"_s,
 		""_s
 	}));
 	$var($StringArray, Marshall_Islands, $new($StringArray, {
@@ -1067,11 +1067,11 @@ $ObjectArray2* TimeZoneNames_dsb::getContents() {
 		""_s
 	}));
 	$var($StringArray, Mexico_Northwest, $new($StringArray, {
-		u"Mexiski d\u0142ujkowjacorny standardny cas"_s,
+		u"Mexiski dłujkowjacorny standardny cas"_s,
 		""_s,
-		u"Mexiski d\u0142ujkowjacorny l\u011b\u015bojski cas"_s,
+		u"Mexiski dłujkowjacorny lěśojski cas"_s,
 		""_s,
-		u"Mexiski d\u0142ujkowjacorny cas"_s,
+		u"Mexiski dłujkowjacorny cas"_s,
 		""_s
 	}));
 	$var($StringArray, Papua_New_Guinea, $new($StringArray, {
@@ -1083,47 +1083,47 @@ $ObjectArray2* TimeZoneNames_dsb::getContents() {
 		""_s
 	}));
 	$var($StringArray, Australia_Central, $new($StringArray, {
-		u"Srjej\u017aoawstralski standardny cas"_s,
+		u"Srjejźoawstralski standardny cas"_s,
 		""_s,
-		u"Srjej\u017aoawstralski l\u011b\u015bojski cas"_s,
+		u"Srjejźoawstralski lěśojski cas"_s,
 		""_s,
-		u"Srjej\u017aoawstralski cas"_s,
+		u"Srjejźoawstralski cas"_s,
 		""_s
 	}));
 	$var($StringArray, Australia_Eastern, $new($StringArray, {
-		u"P\u00f3dzajt\u0161noawstralski standardny cas"_s,
+		u"Pódzajtšnoawstralski standardny cas"_s,
 		""_s,
-		u"P\u00f3dzajt\u0161noawstralski l\u011b\u015bojski cas"_s,
+		u"Pódzajtšnoawstralski lěśojski cas"_s,
 		""_s,
-		u"P\u00f3dzajt\u0161noawstralski cas"_s,
+		u"Pódzajtšnoawstralski cas"_s,
 		""_s
 	}));
 	$var($StringArray, Australia_Western, $new($StringArray, {
-		u"P\u00f3dwjacornoawstralski standardny cas"_s,
+		u"Pódwjacornoawstralski standardny cas"_s,
 		""_s,
-		u"P\u00f3dwjacornoawstralski l\u011b\u015bojski cas"_s,
+		u"Pódwjacornoawstralski lěśojski cas"_s,
 		""_s,
-		u"P\u00f3dwjacornoawstralski cas"_s,
+		u"Pódwjacornoawstralski cas"_s,
 		""_s
 	}));
 	$var($StringArray, Greenland_Eastern, $new($StringArray, {
-		u"P\u00f3dzajt\u0161nogr\u00f6nlandski standardny cas"_s,
+		u"Pódzajtšnogrönlandski standardny cas"_s,
 		""_s,
-		u"P\u00f3dzajt\u0161nogr\u00f6nlandski l\u011b\u015bojski cas"_s,
+		u"Pódzajtšnogrönlandski lěśojski cas"_s,
 		""_s,
-		u"P\u00f3dzajt\u0161nogr\u00f6nlandski cas"_s,
+		u"Pódzajtšnogrönlandski cas"_s,
 		""_s
 	}));
 	$var($StringArray, Greenland_Western, $new($StringArray, {
-		u"P\u00f3dwjacornogr\u00f6nlandski standardny cas"_s,
+		u"Pódwjacornogrönlandski standardny cas"_s,
 		""_s,
-		u"P\u00f3dwjacornogr\u00f6nlandski l\u011b\u015bojski cas"_s,
+		u"Pódwjacornogrönlandski lěśojski cas"_s,
 		""_s,
-		u"P\u00f3dwjacornogr\u00f6nlandski cas"_s,
+		u"Pódwjacornogrönlandski cas"_s,
 		""_s
 	}));
 	$var($StringArray, Indonesia_Central, $new($StringArray, {
-		u"Srjej\u017aoindoneski cas"_s,
+		u"Srjejźoindoneski cas"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -1131,7 +1131,7 @@ $ObjectArray2* TimeZoneNames_dsb::getContents() {
 		""_s
 	}));
 	$var($StringArray, Indonesia_Eastern, $new($StringArray, {
-		u"P\u00f3dzajt\u0161noindoneski"_s,
+		u"Pódzajtšnoindoneski"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -1139,7 +1139,7 @@ $ObjectArray2* TimeZoneNames_dsb::getContents() {
 		""_s
 	}));
 	$var($StringArray, Indonesia_Western, $new($StringArray, {
-		u"P\u00f3dwjacornoindoneski cas"_s,
+		u"Pódwjacornoindoneski cas"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -1147,7 +1147,7 @@ $ObjectArray2* TimeZoneNames_dsb::getContents() {
 		""_s
 	}));
 	$var($StringArray, Kazakhstan_Eastern, $new($StringArray, {
-		u"P\u00f3dzajt\u0161nokazachski cas"_s,
+		u"Pódzajtšnokazachski cas"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -1155,7 +1155,7 @@ $ObjectArray2* TimeZoneNames_dsb::getContents() {
 		""_s
 	}));
 	$var($StringArray, Kazakhstan_Western, $new($StringArray, {
-		u"P\u00f3dwjacornokazachski cas"_s,
+		u"Pódwjacornokazachski cas"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -1163,11 +1163,11 @@ $ObjectArray2* TimeZoneNames_dsb::getContents() {
 		""_s
 	}));
 	$var($StringArray, Australia_CentralWestern, $new($StringArray, {
-		u"Srjej\u017aop\u00f3dwjacorny awstralski standardny cas"_s,
+		u"Srjejźopódwjacorny awstralski standardny cas"_s,
 		""_s,
-		u"Srjej\u017aop\u00f3dwjacorny awstralski l\u011b\u015bojski cas"_s,
+		u"Srjejźopódwjacorny awstralski lěśojski cas"_s,
 		""_s,
-		u"Srjej\u017aop\u00f3dwjacorny awstralski cas"_s,
+		u"Srjejźopódwjacorny awstralski cas"_s,
 		""_s
 	}));
 	$var($ObjectArray2, data, $new($ObjectArray2, {
@@ -1808,7 +1808,7 @@ $ObjectArray2* TimeZoneNames_dsb::getContents() {
 			$of($$new($StringArray, {
 				"Greenwichski cas"_s,
 				""_s,
-				u"Iriski l\u011b\u015bojski cas"_s,
+				u"Iriski lěśojski cas"_s,
 				""_s,
 				""_s,
 				""_s
@@ -1827,7 +1827,7 @@ $ObjectArray2* TimeZoneNames_dsb::getContents() {
 			$of($$new($StringArray, {
 				"Greenwichski cas"_s,
 				""_s,
-				u"Britiski l\u011b\u015bojski cas"_s,
+				u"Britiski lěśojski cas"_s,
 				""_s,
 				""_s,
 				""_s
@@ -2038,7 +2038,7 @@ $ObjectArray2* TimeZoneNames_dsb::getContents() {
 			$of($$new($StringArray, {
 				"Greenwichski cas"_s,
 				""_s,
-				u"Britiski l\u011b\u015bojski cas"_s,
+				u"Britiski lěśojski cas"_s,
 				""_s,
 				""_s,
 				""_s
@@ -3018,7 +3018,7 @@ $ObjectArray2* TimeZoneNames_dsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Africa/Lome"_s),
-			$of(u"Lom\u00e9"_s)
+			$of(u"Lomé"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Aqtobe"_s),
@@ -3034,7 +3034,7 @@ $ObjectArray2* TimeZoneNames_dsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Saigon"_s),
-			$of(u"Ho-Chi-Minh-m\u011bsto"_s)
+			$of(u"Ho-Chi-Minh-město"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Taipei"_s),
@@ -3070,7 +3070,7 @@ $ObjectArray2* TimeZoneNames_dsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Bishkek"_s),
-			$of(u"Bi\u0161kek"_s)
+			$of(u"Biškek"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Nicosia"_s),
@@ -3090,7 +3090,7 @@ $ObjectArray2* TimeZoneNames_dsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Pacific/Fiji"_s),
-			$of(u"Fid\u017ei"_s)
+			$of(u"Fidži"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Calcutta"_s),
@@ -3102,7 +3102,7 @@ $ObjectArray2* TimeZoneNames_dsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Dushanbe"_s),
-			$of(u"Du\u0161anbe"_s)
+			$of(u"Dušanbe"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Jayapura"_s),
@@ -3114,7 +3114,7 @@ $ObjectArray2* TimeZoneNames_dsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Tashkent"_s),
-			$of(u"Ta\u0161kent"_s)
+			$of(u"Taškent"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Athens"_s),
@@ -3142,11 +3142,11 @@ $ObjectArray2* TimeZoneNames_dsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Warsaw"_s),
-			$of(u"War\u0161awa"_s)
+			$of(u"Waršawa"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Zurich"_s),
-			$of(u"Z\u00fcrich"_s)
+			$of(u"Zürich"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Indian/Comoro"_s),
@@ -3170,7 +3170,7 @@ $ObjectArray2* TimeZoneNames_dsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Bogota"_s),
-			$of(u"Bogot\u00e1"_s)
+			$of(u"Bogotá"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Cayman"_s),
@@ -3186,11 +3186,11 @@ $ObjectArray2* TimeZoneNames_dsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Kamchatka"_s),
-			$of(u"Kam\u010datka"_s)
+			$of(u"Kamčatka"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Pyongyang"_s),
-			$of(u"Pj\u00f6ngjang"_s)
+			$of(u"Pjöngjang"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Singapore"_s),
@@ -3206,19 +3206,19 @@ $ObjectArray2* TimeZoneNames_dsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Indian/Reunion"_s),
-			$of(u"R\u00e9union"_s)
+			$of(u"Réunion"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Pacific/Easter"_s),
-			$of(u"Jat\u0161owne kupy"_s)
+			$of(u"Jatšowne kupy"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Africa/Djibouti"_s),
-			$of(u"D\u017eibuti"_s)
+			$of(u"Džibuti"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Africa/El_Aaiun"_s),
-			$of(u"El Aai\u00fan"_s)
+			$of(u"El Aaiún"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Africa/Khartoum"_s),
@@ -3226,11 +3226,11 @@ $ObjectArray2* TimeZoneNames_dsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Africa/Sao_Tome"_s),
-			$of(u"S\u00e3o Tom\u00e9"_s)
+			$of(u"São Tomé"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Curacao"_s),
-			$of(u"Cura\u00e7ao"_s)
+			$of(u"Curaçao"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Jamaica"_s),
@@ -3246,27 +3246,27 @@ $ObjectArray2* TimeZoneNames_dsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Atlantic/Faeroe"_s),
-			$of(u"F\u00e4r\u00f6je"_s)
+			$of(u"Färöje"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Belgrade"_s),
-			$of(u"B\u011b\u0142ogrod"_s)
+			$of(u"Běłogrod"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Brussels"_s),
-			$of(u"Br\u00fcssel"_s)
+			$of(u"Brüssel"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Busingen"_s),
-			$of(u"B\u00fcsingen"_s)
+			$of(u"Büsingen"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Chisinau"_s),
-			$of(u"Ki\u0161inau"_s)
+			$of(u"Kišinau"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Uzhgorod"_s),
-			$of(u"U\u017egorod"_s)
+			$of(u"Užgorod"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Indian/Maldives"_s),
@@ -3274,11 +3274,11 @@ $ObjectArray2* TimeZoneNames_dsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Africa/Mogadishu"_s),
-			$of(u"Mogadi\u0161u"_s)
+			$of(u"Mogadišu"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Asuncion"_s),
-			$of(u"Asunci\u00f3n"_s)
+			$of(u"Asunción"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Krasnoyarsk"_s),
@@ -3306,7 +3306,7 @@ $ObjectArray2* TimeZoneNames_dsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Indian/Christmas"_s),
-			$of(u"G\u00f3downe kupy"_s)
+			$of(u"Gódowne kupy"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Africa/Porto-Novo"_s),
@@ -3314,7 +3314,7 @@ $ObjectArray2* TimeZoneNames_dsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Sao_Paulo"_s),
-			$of(u"S\u00e3o Paulo"_s)
+			$of(u"São Paulo"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Antarctica/Vostok"_s),
@@ -3334,7 +3334,7 @@ $ObjectArray2* TimeZoneNames_dsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Zaporozhye"_s),
-			$of(u"Sapori\u017eja"_s)
+			$of(u"Saporižja"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Africa/Addis_Ababa"_s),
@@ -3350,7 +3350,7 @@ $ObjectArray2* TimeZoneNames_dsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Atlantic/Reykjavik"_s),
-			$of(u"Reykjav\u00edk"_s)
+			$of(u"Reykjavík"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/El_Salvador"_s),
@@ -3358,7 +3358,7 @@ $ObjectArray2* TimeZoneNames_dsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Mexico_City"_s),
-			$of(u"Mexiko-m\u011bsto"_s)
+			$of(u"Mexiko-město"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Atlantic/Cape_Verde"_s),
@@ -3374,15 +3374,15 @@ $ObjectArray2* TimeZoneNames_dsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/St_Barthelemy"_s),
-			$of(u"St.Barth\u00e9lemy"_s)
+			$of(u"St.Barthélemy"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Atlantic/South_Georgia"_s),
-			$of(u"P\u00f3dpo\u0142dnjowa Georgiska"_s)
+			$of(u"Pódpołdnjowa Georgiska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Antarctica/DumontDUrville"_s),
-			$of(u"Dumont D\u2019Urville"_s)
+			$of(u"Dumont D’Urville"_s)
 		})
 	}));
 	return data;

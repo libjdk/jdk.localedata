@@ -41,29 +41,29 @@ $ObjectArray2* FormatData_ksh::getContents() {
 	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_MonthNames, $new($StringArray, {
 		"Jannewa"_s,
-		u"F\u00e4browa"_s,
-		u"M\u00e4\u00e4z"_s,
+		u"Fäbrowa"_s,
+		u"Määz"_s,
 		"Aprell"_s,
 		"Mai"_s,
 		"Juuni"_s,
 		"Juuli"_s,
-		u"Oujo\u00df"_s,
-		u"Sept\u00e4mber"_s,
+		u"Oujoß"_s,
+		u"Septämber"_s,
 		"Oktohber"_s,
-		u"Nov\u00e4mber"_s,
-		u"Dez\u00e4mber"_s,
+		u"Novämber"_s,
+		u"Dezämber"_s,
 		""_s
 	}));
 	$var($StringArray, metaValue_MonthAbbreviations, $new($StringArray, {
 		"Jan"_s,
-		u"F\u00e4b"_s,
-		u"M\u00e4z"_s,
+		u"Fäb"_s,
+		u"Mäz"_s,
 		"Apr"_s,
 		"Mai"_s,
 		"Jun"_s,
 		"Jul"_s,
 		"Ouj"_s,
-		u"S\u00e4p"_s,
+		u"Säp"_s,
 		"Okt"_s,
 		"Nov"_s,
 		"Dez"_s,
@@ -124,7 +124,7 @@ $ObjectArray2* FormatData_ksh::getContents() {
 		"4.Q."_s
 	}));
 	$var($StringArray, metaValue_AmPmMarkers, $new($StringArray, {
-		u"Uhr v\u00f6rmiddaachs"_s,
+		u"Uhr vörmiddaachs"_s,
 		"Uhr nommendaachs"_s,
 		""_s,
 		""_s,
@@ -164,18 +164,18 @@ $ObjectArray2* FormatData_ksh::getContents() {
 		"4"_s
 	}));
 	$var($StringArray, metaValue_java_time_japanese_DatePatterns, $new($StringArray, {
-		u"EEEE, \'d\u00e4\' d. MMMM y G"_s,
+		u"EEEE, \'dä\' d. MMMM y G"_s,
 		"d. MMMM y G"_s,
 		"d. MMM. y G"_s,
 		"d. M. y GGGGG"_s
 	}));
 	$var($StringArray, metaValue_japanese_DatePatterns, $new($StringArray, {
-		u"EEEE, \'d\u00e4\' d. MMMM y GGGG"_s,
+		u"EEEE, \'dä\' d. MMMM y GGGG"_s,
 		"d. MMMM y GGGG"_s,
 		"d. MMM. y GGGG"_s,
 		"d. M. y G"_s
 	}));
-	$var($String, metaValue_calendarname_gregorian, u"jrejorejahnesche Kal\u00e4nnder"_s);
+	$var($String, metaValue_calendarname_gregorian, u"jrejorejahnesche Kalännder"_s);
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("MonthNames"_s),
@@ -207,7 +207,7 @@ $ObjectArray2* FormatData_ksh::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.islamic-civil"_s),
-			$of(u"w\u00e4ltlesche islaamesche Kal\u00e4nder"_s)
+			$of(u"wältlesche islaamesche Kaländer"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("japanese.TimePatterns"_s),
@@ -234,7 +234,7 @@ $ObjectArray2* FormatData_ksh::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.japanese"_s),
-			$of(u"japaanesche Kal\u00e4nder"_s)
+			$of(u"japaanesche Kaländer"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("japanese.MonthNames"_s),
@@ -251,7 +251,7 @@ $ObjectArray2* FormatData_ksh::getContents() {
 		$$new($ObjectArray, {
 			$of("long.Eras"_s),
 			$of($$new($StringArray, {
-				u"v\u00fcr Krestos"_s,
+				u"vür Krestos"_s,
 				"noh Krestos"_s
 			}))
 		}),
@@ -279,15 +279,15 @@ $ObjectArray2* FormatData_ksh::getContents() {
 			$of("latn.NumberElements"_s),
 			$of($$new($StringArray, {
 				","_s,
-				u"\u00a0"_s,
+				u" "_s,
 				";"_s,
 				"%"_s,
 				"0"_s,
 				"#"_s,
-				u"\u2212"_s,
-				u"\u00d710^"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
+				u"−"_s,
+				u"×10^"_s,
+				u"‰"_s,
+				u"∞"_s,
 				"NaN"_s,
 				""_s,
 				""_s
@@ -311,7 +311,7 @@ $ObjectArray2* FormatData_ksh::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.era"_s),
-			$of(u"\u00c4hra"_s)
+			$of(u"Ähra"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("buddhist.AmPmMarkers"_s),
@@ -331,7 +331,7 @@ $ObjectArray2* FormatData_ksh::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.roc"_s),
-			$of(u"rotschineesesche Kal\u00e4nder"_s)
+			$of(u"rotschineesesche Kaländer"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("islamic.DatePatterns"_s),
@@ -363,7 +363,7 @@ $ObjectArray2* FormatData_ksh::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.islamic"_s),
-			$of(u"i\u00dflaamesche Kal\u00e4nder"_s)
+			$of(u"ißlaamesche Kaländer"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("buddhist.TimePatterns"_s),
@@ -373,14 +373,14 @@ $ObjectArray2* FormatData_ksh::getContents() {
 			$of("standalone.MonthAbbreviations"_s),
 			$of($$new($StringArray, {
 				"Jan."_s,
-				u"F\u00e4b."_s,
-				u"M\u00e4z."_s,
+				u"Fäb."_s,
+				u"Mäz."_s,
 				"Apr."_s,
 				"Mai"_s,
 				"Jun."_s,
 				"Jul."_s,
 				"Ouj."_s,
-				u"S\u00e4p."_s,
+				u"Säp."_s,
 				"Okt."_s,
 				"Nov."_s,
 				"Dez."_s,
@@ -571,18 +571,18 @@ $ObjectArray2* FormatData_ksh::getContents() {
 				""_s,
 				""_s,
 				""_s,
-				u"{zero:0\u00a0tsd one:0\u00a0tsd other:0\u00a0tsd}"_s,
-				u"{zero:00\u00a0tsd one:00\u00a0tsd other:00\u00a0tsd}"_s,
-				u"{zero:000\u00a0tsd one:000\u00a0tsd other:000\u00a0tsd}"_s,
-				u"{zero:0\u00a0Mio one:0\u00a0Mio other:0\u00a0Mio}"_s,
-				u"{zero:00\u00a0Mio one:00\u00a0Mio other:00\u00a0Mio}"_s,
-				u"{zero:000\u00a0Mio one:000\u00a0Mio other:000\u00a0Mio}"_s,
-				u"{zero:0\u00a0Mrd one:0\u00a0Mrd other:0\u00a0Mrd}"_s,
-				u"{zero:00\u00a0Mrd one:00\u00a0Mrd other:00\u00a0Mrd}"_s,
-				u"{zero:000\u00a0Mrd one:000\u00a0Mrd other:000\u00a0Mrd}"_s,
-				u"{zero:0\u00a0Bio one:0\u00a0Bio other:0\u00a0Bio}"_s,
-				u"{zero:00\u00a0Bio one:00\u00a0Bio other:00\u00a0Bio}"_s,
-				u"{zero:000\u00a0Bio one:000\u00a0Bio other:000\u00a0Bio}"_s
+				u"{zero:0 tsd one:0 tsd other:0 tsd}"_s,
+				u"{zero:00 tsd one:00 tsd other:00 tsd}"_s,
+				u"{zero:000 tsd one:000 tsd other:000 tsd}"_s,
+				u"{zero:0 Mio one:0 Mio other:0 Mio}"_s,
+				u"{zero:00 Mio one:00 Mio other:00 Mio}"_s,
+				u"{zero:000 Mio one:000 Mio other:000 Mio}"_s,
+				u"{zero:0 Mrd one:0 Mrd other:0 Mrd}"_s,
+				u"{zero:00 Mrd one:00 Mrd other:00 Mrd}"_s,
+				u"{zero:000 Mrd one:000 Mrd other:000 Mrd}"_s,
+				u"{zero:0 Bio one:0 Bio other:0 Bio}"_s,
+				u"{zero:00 Bio one:00 Bio other:00 Bio}"_s,
+				u"{zero:000 Bio one:000 Bio other:000 Bio}"_s
 			}))
 		}),
 		$$new($ObjectArray, {
@@ -596,7 +596,7 @@ $ObjectArray2* FormatData_ksh::getContents() {
 		$$new($ObjectArray, {
 			$of("DatePatterns"_s),
 			$of($$new($StringArray, {
-				u"EEEE, \'d\u00e4\' d. MMMM y"_s,
+				u"EEEE, \'dä\' d. MMMM y"_s,
 				"d. MMMM y"_s,
 				"d. MMM. y"_s,
 				"d. M. y"_s
@@ -628,7 +628,7 @@ $ObjectArray2* FormatData_ksh::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.buddhist"_s),
-			$of(u"buddistesche Kal\u00e4nder"_s)
+			$of(u"buddistesche Kaländer"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("standalone.MonthNames"_s),
@@ -638,8 +638,8 @@ $ObjectArray2* FormatData_ksh::getContents() {
 			$of("latn.NumberPatterns"_s),
 			$of($$new($StringArray, {
 				"#,##0.###"_s,
-				u"#,##0.00\u00a0\u00a4"_s,
-				u"#,##0\u00a0%"_s,
+				u"#,##0.00 ¤"_s,
+				u"#,##0 %"_s,
 				""_s
 			}))
 		}),

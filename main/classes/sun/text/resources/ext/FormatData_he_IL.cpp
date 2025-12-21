@@ -42,7 +42,7 @@ $ObjectArray2* FormatData_he_IL::getContents() {
 		$of("NumberPatterns"_s),
 		$of($$new($StringArray, {
 			"#,##0.###;-#,##0.###"_s,
-			u"#,##0.## \u00a4;-#,##0.## \u00a4"_s,
+			u"#,##0.## ¤;-#,##0.## ¤"_s,
 			"#,##0%"_s
 		}))
 	})});

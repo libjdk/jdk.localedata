@@ -71,21 +71,21 @@ $ObjectArray2* FormatData_az::getContents() {
 	}));
 	$var($StringArray, metaValue_DayNames, $new($StringArray, {
 		"bazar"_s,
-		u"bazar ert\u0259si"_s,
-		u"\u00e7\u0259r\u015f\u0259nb\u0259 ax\u015fam\u0131"_s,
-		u"\u00e7\u0259r\u015f\u0259nb\u0259"_s,
-		u"c\u00fcm\u0259 ax\u015fam\u0131"_s,
-		u"c\u00fcm\u0259"_s,
-		u"\u015f\u0259nb\u0259"_s
+		u"bazar ertəsi"_s,
+		u"çərşənbə axşamı"_s,
+		u"çərşənbə"_s,
+		u"cümə axşamı"_s,
+		u"cümə"_s,
+		u"şənbə"_s
 	}));
 	$var($StringArray, metaValue_DayAbbreviations, $new($StringArray, {
 		"B."_s,
 		"B.e."_s,
-		u"\u00c7.a."_s,
-		u"\u00c7."_s,
+		u"Ç.a."_s,
+		u"Ç."_s,
 		"C.a."_s,
 		"C."_s,
-		u"\u015e."_s
+		u"Ş."_s
 	}));
 	$var($StringArray, metaValue_DayNarrows, $new($StringArray, {
 		"7"_s,
@@ -99,45 +99,45 @@ $ObjectArray2* FormatData_az::getContents() {
 	$var($StringArray, metaValue_QuarterNames, $new($StringArray, {
 		"1-ci kvartal"_s,
 		"2-ci kvartal"_s,
-		u"3-c\u00fc kvartal"_s,
-		u"4-c\u00fc kvartal"_s
+		u"3-cü kvartal"_s,
+		u"4-cü kvartal"_s
 	}));
 	$var($StringArray, metaValue_QuarterAbbreviations, $new($StringArray, {
 		"1-ci kv."_s,
 		"2-ci kv."_s,
-		u"3-c\u00fc kv."_s,
-		u"4-c\u00fc kv."_s
+		u"3-cü kv."_s,
+		u"4-cü kv."_s
 	}));
 	$var($StringArray, metaValue_AmPmMarkers, $new($StringArray, {
 		"AM"_s,
 		"PM"_s,
-		u"gec\u0259yar\u0131"_s,
-		u"g\u00fcnorta"_s,
-		u"s\u00fcbh"_s,
-		u"s\u0259h\u0259r"_s,
-		u"g\u00fcnd\u00fcz"_s,
+		u"gecəyarı"_s,
+		u"günorta"_s,
+		u"sübh"_s,
+		u"səhər"_s,
+		u"gündüz"_s,
 		""_s,
-		u"ax\u015fam\u00fcst\u00fc"_s,
+		u"axşamüstü"_s,
 		""_s,
-		u"ax\u015fam"_s,
-		u"gec\u0259"_s
+		u"axşam"_s,
+		u"gecə"_s
 	}));
 	$var($StringArray, metaValue_narrow_AmPmMarkers, $new($StringArray, {
 		"a"_s,
 		"p"_s,
-		u"gec\u0259yar\u0131"_s,
+		u"gecəyarı"_s,
 		"g"_s,
-		u"s\u00fcbh"_s,
-		u"s\u0259h\u0259r"_s,
-		u"g\u00fcnd\u00fcz"_s,
+		u"sübh"_s,
+		u"səhər"_s,
+		u"gündüz"_s,
 		""_s,
-		u"ax\u015fam\u00fcst\u00fc"_s,
+		u"axşamüstü"_s,
 		""_s,
-		u"ax\u015fam"_s,
-		u"gec\u0259"_s
+		u"axşam"_s,
+		u"gecə"_s
 	}));
 	$var($StringArray, metaValue_Eras, $new($StringArray, {
-		u"e.\u0259."_s,
+		u"e.ə."_s,
 		"y.e."_s
 	}));
 	$var($StringArray, metaValue_TimePatterns, $new($StringArray, {
@@ -179,7 +179,7 @@ $ObjectArray2* FormatData_az::getContents() {
 		"GGGG d MMM y"_s,
 		"G dd.MM.y"_s
 	}));
-	$var($String, metaValue_calendarname_gregorian, u"Qreqorian T\u0259qvimi"_s);
+	$var($String, metaValue_calendarname_gregorian, u"Qreqorian Təqvimi"_s);
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("MonthNames"_s),
@@ -187,7 +187,7 @@ $ObjectArray2* FormatData_az::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.year"_s),
-			$of(u"\u0130l"_s)
+			$of(u"İl"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("japanese.AmPmMarkers"_s),
@@ -215,7 +215,7 @@ $ObjectArray2* FormatData_az::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.islamic-civil"_s),
-			$of(u"Ivrit t\u0259qvimi"_s)
+			$of(u"Ivrit təqvimi"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("islamic.narrow.AmPmMarkers"_s),
@@ -235,7 +235,7 @@ $ObjectArray2* FormatData_az::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.regionFormat.standard"_s),
-			$of(u"{0} Standart Vaxt\u0131"_s)
+			$of(u"{0} Standart Vaxtı"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("japanese.abbreviated.AmPmMarkers"_s),
@@ -243,7 +243,7 @@ $ObjectArray2* FormatData_az::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.japanese"_s),
-			$of(u"Yapon T\u0259qvimi"_s)
+			$of(u"Yapon Təqvimi"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("japanese.MonthNames"_s),
@@ -254,11 +254,11 @@ $ObjectArray2* FormatData_az::getContents() {
 			$of($$new($StringArray, {
 				"B."_s,
 				"B.E."_s,
-				u"\u00c7.A."_s,
-				u"\u00c7."_s,
+				u"Ç.A."_s,
+				u"Ç."_s,
 				"C.A."_s,
 				"C."_s,
-				u"\u015e."_s
+				u"Ş."_s
 			}))
 		}),
 		$$new($ObjectArray, {
@@ -268,7 +268,7 @@ $ObjectArray2* FormatData_az::getContents() {
 		$$new($ObjectArray, {
 			$of("long.Eras"_s),
 			$of($$new($StringArray, {
-				u"eram\u0131zdan \u0259vv\u0259l"_s,
+				u"eramızdan əvvəl"_s,
 				"yeni era"_s
 			}))
 		}),
@@ -312,8 +312,8 @@ $ObjectArray2* FormatData_az::getContents() {
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
+				u"‰"_s,
+				u"∞"_s,
 				"NaN"_s,
 				""_s,
 				""_s
@@ -329,7 +329,7 @@ $ObjectArray2* FormatData_az::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.minute"_s),
-			$of(u"D\u0259qiq\u0259"_s)
+			$of(u"Dəqiqə"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("buddhist.AmPmMarkers"_s),
@@ -342,18 +342,18 @@ $ObjectArray2* FormatData_az::getContents() {
 		$$new($ObjectArray, {
 			$of("islamic.MonthNames"_s),
 			$of($$new($StringArray, {
-				u"M\u0259h\u0259rr\u0259m"_s,
-				u"S\u0259f\u0259r"_s,
-				u"R\u0259bi\u00fcl\u0259vv\u0259l"_s,
-				u"R\u0259bi\u00fclax\u0131r"_s,
-				u"C\u0259madiy\u0259l\u0259vv\u0259l"_s,
-				u"C\u0259madiy\u0259lax\u0131r"_s,
-				u"R\u0259c\u0259b"_s,
-				u"\u015eaban"_s,
+				u"Məhərrəm"_s,
+				u"Səfər"_s,
+				u"Rəbiüləvvəl"_s,
+				u"Rəbiülaxır"_s,
+				u"Cəmadiyələvvəl"_s,
+				u"Cəmadiyəlaxır"_s,
+				u"Rəcəb"_s,
+				u"Şaban"_s,
 				"Ramazan"_s,
-				u"\u015e\u0259vval"_s,
-				u"Zilq\u0259d\u0259"_s,
-				u"Zilhicc\u0259"_s,
+				u"Şəvval"_s,
+				u"Zilqədə"_s,
+				u"Zilhiccə"_s,
 				""_s
 			}))
 		}),
@@ -363,7 +363,7 @@ $ObjectArray2* FormatData_az::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.roc"_s),
-			$of(u"Minquo T\u0259qvimi"_s)
+			$of(u"Minquo Təqvimi"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("islamic.DatePatterns"_s),
@@ -379,7 +379,7 @@ $ObjectArray2* FormatData_az::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.second"_s),
-			$of(u"Saniy\u0259"_s)
+			$of(u"Saniyə"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("DayAbbreviations"_s),
@@ -395,7 +395,7 @@ $ObjectArray2* FormatData_az::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.islamic"_s),
-			$of(u"\u0130slam T\u0259qvimi"_s)
+			$of(u"İslam Təqvimi"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("DayPeriodRules"_s),
@@ -415,7 +415,7 @@ $ObjectArray2* FormatData_az::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.regionFormat"_s),
-			$of(u"{0} Vaxt\u0131"_s)
+			$of(u"{0} Vaxtı"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("long.CompactNumberPatterns"_s),
@@ -479,7 +479,7 @@ $ObjectArray2* FormatData_az::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.zone"_s),
-			$of(u"Saat Qur\u015fa\u011f\u0131"_s)
+			$of(u"Saat Qurşağı"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("japanese.QuarterAbbreviations"_s),
@@ -515,7 +515,7 @@ $ObjectArray2* FormatData_az::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.weekday"_s),
-			$of(u"H\u0259ft\u0259nin G\u00fcn\u00fc"_s)
+			$of(u"Həftənin Günü"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("japanese.MonthAbbreviations"_s),
@@ -555,7 +555,7 @@ $ObjectArray2* FormatData_az::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.week"_s),
-			$of(u"H\u0259ft\u0259"_s)
+			$of(u"Həftə"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("buddhist.QuarterNames"_s),
@@ -594,15 +594,15 @@ $ObjectArray2* FormatData_az::getContents() {
 				"{one:0K other:0K}"_s,
 				"{one:00K other:00K}"_s,
 				"{one:000K other:000K}"_s,
-				u"{one:0\u00a0mln other:0\u00a0mln}"_s,
-				u"{one:00\u00a0mln other:00\u00a0mln}"_s,
-				u"{one:000\u00a0mln other:000\u00a0mln}"_s,
-				u"{one:0\u00a0mlrd other:0\u00a0mlrd}"_s,
-				u"{one:00\u00a0mlrd other:00\u00a0mlrd}"_s,
-				u"{one:000\u00a0mlrd other:000\u00a0mlrd}"_s,
-				u"{one:0\u00a0trln other:0\u00a0trln}"_s,
-				u"{one:00\u00a0trln other:00\u00a0trln}"_s,
-				u"{one:000\u00a0trln other:000\u00a0trln}"_s
+				u"{one:0 mln other:0 mln}"_s,
+				u"{one:00 mln other:00 mln}"_s,
+				u"{one:000 mln other:000 mln}"_s,
+				u"{one:0 mlrd other:0 mlrd}"_s,
+				u"{one:00 mlrd other:00 mlrd}"_s,
+				u"{one:000 mlrd other:000 mlrd}"_s,
+				u"{one:0 trln other:0 trln}"_s,
+				u"{one:00 trln other:00 trln}"_s,
+				u"{one:000 trln other:000 trln}"_s
 			}))
 		}),
 		$$new($ObjectArray, {
@@ -611,7 +611,7 @@ $ObjectArray2* FormatData_az::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.regionFormat.daylight"_s),
-			$of(u"{0} Yay Vaxt\u0131"_s)
+			$of(u"{0} Yay Vaxtı"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("DatePatterns"_s),
@@ -649,16 +649,16 @@ $ObjectArray2* FormatData_az::getContents() {
 		$$new($ObjectArray, {
 			$of("islamic.MonthAbbreviations"_s),
 			$of($$new($StringArray, {
-				u"M\u0259h."_s,
-				u"S\u0259f."_s,
-				u"R\u0259b. I"_s,
-				u"R\u0259b. II"_s,
-				u"C\u0259m. I"_s,
-				u"C\u0259m. II"_s,
-				u"R\u0259c."_s,
-				u"\u015eab."_s,
+				u"Məh."_s,
+				u"Səf."_s,
+				u"Rəb. I"_s,
+				u"Rəb. II"_s,
+				u"Cəm. I"_s,
+				u"Cəm. II"_s,
+				u"Rəc."_s,
+				u"Şab."_s,
 				"Ram."_s,
-				u"\u015e\u0259v."_s,
+				u"Şəv."_s,
 				"Zilq."_s,
 				"Zilh."_s,
 				""_s
@@ -666,7 +666,7 @@ $ObjectArray2* FormatData_az::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.buddhist"_s),
-			$of(u"Buddist T\u0259qvimi"_s)
+			$of(u"Buddist Təqvimi"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("standalone.MonthNames"_s),
@@ -676,9 +676,9 @@ $ObjectArray2* FormatData_az::getContents() {
 			$of("latn.NumberPatterns"_s),
 			$of($$new($StringArray, {
 				"#,##0.###"_s,
-				u"#,##0.00\u00a0\u00a4"_s,
+				u"#,##0.00 ¤"_s,
 				"#,##0%"_s,
-				u"#,##0.00\u00a0\u00a4"_s
+				u"#,##0.00 ¤"_s
 			}))
 		}),
 		$$new($ObjectArray, {

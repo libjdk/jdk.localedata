@@ -58,46 +58,46 @@ $ObjectArray2* FormatData_zh_HK::getContents() {
 		$$new($ObjectArray, {
 			$of("MonthAbbreviations"_s),
 			$of($$new($StringArray, {
-				u"1\u6708"_s,
-				u"2\u6708"_s,
-				u"3\u6708"_s,
-				u"4\u6708"_s,
-				u"5\u6708"_s,
-				u"6\u6708"_s,
-				u"7\u6708"_s,
-				u"8\u6708"_s,
-				u"9\u6708"_s,
-				u"10\u6708"_s,
-				u"11\u6708"_s,
-				u"12\u6708"_s,
+				u"1月"_s,
+				u"2月"_s,
+				u"3月"_s,
+				u"4月"_s,
+				u"5月"_s,
+				u"6月"_s,
+				u"7月"_s,
+				u"8月"_s,
+				u"9月"_s,
+				u"10月"_s,
+				u"11月"_s,
+				u"12月"_s,
 				""_s
 			}))
 		}),
 		$$new($ObjectArray, {
 			$of("DayAbbreviations"_s),
 			$of($$new($StringArray, {
-				u"\u65e5"_s,
-				u"\u4e00"_s,
-				u"\u4e8c"_s,
-				u"\u4e09"_s,
-				u"\u56db"_s,
-				u"\u4e94"_s,
-				u"\u516d"_s
+				u"日"_s,
+				u"一"_s,
+				u"二"_s,
+				u"三"_s,
+				u"四"_s,
+				u"五"_s,
+				u"六"_s
 			}))
 		}),
 		$$new($ObjectArray, {
 			$of("NumberPatterns"_s),
 			$of($$new($StringArray, {
 				"#,##0.###;-#,##0.###"_s,
-				u"\u00a4#,##0.00;(\u00a4#,##0.00)"_s,
+				u"¤#,##0.00;(¤#,##0.00)"_s,
 				"#,##0%"_s
 			}))
 		}),
 		$$new($ObjectArray, {
 			$of("TimePatterns"_s),
 			$of($$new($StringArray, {
-				u"ahh\'\u6642\'mm\'\u5206\'ss\'\u79d2\' z"_s,
-				u"ahh\'\u6642\'mm\'\u5206\'ss\'\u79d2\'"_s,
+				u"ahh\'時\'mm\'分\'ss\'秒\' z"_s,
+				u"ahh\'時\'mm\'分\'ss\'秒\'"_s,
 				"ahh:mm:ss"_s,
 				"ah:mm"_s
 			}))
@@ -105,10 +105,10 @@ $ObjectArray2* FormatData_zh_HK::getContents() {
 		$$new($ObjectArray, {
 			$of("DatePatterns"_s),
 			$of($$new($StringArray, {
-				u"yyyy\'\u5e74\'MM\'\u6708\'dd\'\u65e5\' EEEE"_s,
-				u"yyyy\'\u5e74\'MM\'\u6708\'dd\'\u65e5\' EEEE"_s,
-				u"yyyy\'\u5e74\'M\'\u6708\'d\'\u65e5\'"_s,
-				u"yy\'\u5e74\'M\'\u6708\'d\'\u65e5\'"_s
+				u"yyyy\'年\'MM\'月\'dd\'日\' EEEE"_s,
+				u"yyyy\'年\'MM\'月\'dd\'日\' EEEE"_s,
+				u"yyyy\'年\'M\'月\'d\'日\'"_s,
+				u"yy\'年\'M\'月\'d\'日\'"_s
 			}))
 		}),
 		$$new($ObjectArray, {

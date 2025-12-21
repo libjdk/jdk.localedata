@@ -65,7 +65,7 @@ $ObjectArray2* JavaTimeSupplementary_hr::getContents() {
 		"pon"_s,
 		"uto"_s,
 		"sri"_s,
-		u"\u010det"_s,
+		u"čet"_s,
 		"pet"_s,
 		"sub"_s
 	}));
@@ -74,7 +74,7 @@ $ObjectArray2* JavaTimeSupplementary_hr::getContents() {
 		"ponedjeljak"_s,
 		"utorak"_s,
 		"srijeda"_s,
-		u"\u010detvrtak"_s,
+		u"četvrtak"_s,
 		"petak"_s,
 		"subota"_s
 	}));
@@ -83,7 +83,7 @@ $ObjectArray2* JavaTimeSupplementary_hr::getContents() {
 		"P"_s,
 		"U"_s,
 		"S"_s,
-		u"\u010c"_s,
+		u"Č"_s,
 		"P"_s,
 		"S"_s
 	}));
@@ -118,7 +118,7 @@ $ObjectArray2* JavaTimeSupplementary_hr::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.buddhist"_s),
-			$of(u"budisti\u010dki kalendar"_s)
+			$of(u"budistički kalendar"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.gregorian"_s),
@@ -249,8 +249,8 @@ $ObjectArray2* JavaTimeSupplementary_hr::getContents() {
 			$of($$new($StringArray, {
 				"poslije Krista"_s,
 				"Meiji"_s,
-				u"Taish\u014d"_s,
-				u"Sh\u014dwa"_s,
+				u"Taishō"_s,
+				u"Shōwa"_s,
 				"Heisei"_s,
 				"Reiwa"_s
 			}))
@@ -260,8 +260,8 @@ $ObjectArray2* JavaTimeSupplementary_hr::getContents() {
 			$of($$new($StringArray, {
 				"p. Kr."_s,
 				"Meiji"_s,
-				u"Taish\u014d"_s,
-				u"Sh\u014dwa"_s,
+				u"Taishō"_s,
+				u"Shōwa"_s,
 				"Heisei"_s,
 				"Reiwa"_s
 			}))
@@ -314,7 +314,7 @@ $ObjectArray2* JavaTimeSupplementary_hr::getContents() {
 			$of($$new($StringArray, {
 				"sij"_s,
 				"velj"_s,
-				u"o\u017eu"_s,
+				u"ožu"_s,
 				"tra"_s,
 				"svi"_s,
 				"lip"_s,
@@ -330,9 +330,9 @@ $ObjectArray2* JavaTimeSupplementary_hr::getContents() {
 		$$new($ObjectArray, {
 			$of("roc.MonthNames"_s),
 			$of($$new($StringArray, {
-				u"sije\u010dnja"_s,
-				u"velja\u010de"_s,
-				u"o\u017eujka"_s,
+				u"siječnja"_s,
+				u"veljače"_s,
+				u"ožujka"_s,
 				"travnja"_s,
 				"svibnja"_s,
 				"lipnja"_s,

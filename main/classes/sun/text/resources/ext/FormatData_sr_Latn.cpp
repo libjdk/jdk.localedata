@@ -100,7 +100,7 @@ $ObjectArray2* FormatData_sr_Latn::getContents() {
 				"ponedeljak"_s,
 				"utorak"_s,
 				"sreda"_s,
-				u"\u010detvrtak"_s,
+				u"četvrtak"_s,
 				"petak"_s,
 				"subota"_s
 			}))
@@ -112,7 +112,7 @@ $ObjectArray2* FormatData_sr_Latn::getContents() {
 				"pon"_s,
 				"uto"_s,
 				"sre"_s,
-				u"\u010det"_s,
+				u"čet"_s,
 				"pet"_s,
 				"sub"_s
 			}))
@@ -124,7 +124,7 @@ $ObjectArray2* FormatData_sr_Latn::getContents() {
 				"p"_s,
 				"u"_s,
 				"s"_s,
-				u"\u010d"_s,
+				u"č"_s,
 				"p"_s,
 				"s"_s
 			}))
@@ -140,7 +140,7 @@ $ObjectArray2* FormatData_sr_Latn::getContents() {
 			$of("NumberPatterns"_s),
 			$of($$new($StringArray, {
 				"#,##0.###"_s,
-				u"\u00a4\u00a0#,##0.00"_s,
+				u"¤ #,##0.00"_s,
 				"#,##0%"_s
 			}))
 		}),
@@ -155,8 +155,8 @@ $ObjectArray2* FormatData_sr_Latn::getContents() {
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
+				u"‰"_s,
+				u"∞"_s,
 				"NaN"_s
 			}))
 		}),

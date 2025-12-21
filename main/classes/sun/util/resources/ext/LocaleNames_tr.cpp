@@ -41,11 +41,11 @@ $ObjectArray2* LocaleNames_tr::getContents() {
 	return $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("TR"_s),
-			$of(u"T\u00fcrkiye"_s)
+			$of(u"Türkiye"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("tr"_s),
-			$of(u"T\u00fcrk\u00e7e"_s)
+			$of(u"Türkçe"_s)
 		})
 	});
 }

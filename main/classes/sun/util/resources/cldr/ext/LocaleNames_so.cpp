@@ -742,7 +742,7 @@ $ObjectArray2* LocaleNames_so::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("IL"_s),
-			$of(u"Israa\u02bciil"_s)
+			$of(u"Israaʼiil"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Nbat"_s),
@@ -1026,7 +1026,7 @@ $ObjectArray2* LocaleNames_so::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("Nshu"_s),
-			$of(u"N\u00fcshu"_s)
+			$of(u"Nüshu"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ME"_s),
@@ -2242,7 +2242,7 @@ $ObjectArray2* LocaleNames_so::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("Nkoo"_s),
-			$of(u"N\u2019Ko"_s)
+			$of(u"N’Ko"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ca"_s),
@@ -2318,7 +2318,7 @@ $ObjectArray2* LocaleNames_so::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("dz"_s),
-			$of(u"D\u2019zongqa"_s)
+			$of(u"D’zongqa"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bez"_s),
@@ -2510,7 +2510,7 @@ $ObjectArray2* LocaleNames_so::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("hr"_s),
-			$of(u"Koro\u2019eeshiyaan"_s)
+			$of(u"Koro’eeshiyaan"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ht"_s),
@@ -2894,7 +2894,7 @@ $ObjectArray2* LocaleNames_so::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("%%BOHORIC"_s),
-			$of(u"Farta Bohori\u010d"_s)
+			$of(u"Farta Bohorič"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mgh"_s),
@@ -2906,7 +2906,7 @@ $ObjectArray2* LocaleNames_so::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.nkoo"_s),
-			$of(u"Godadka N\u2019Ko"_s)
+			$of(u"Godadka N’Ko"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("key.ca"_s),
@@ -2922,11 +2922,11 @@ $ObjectArray2* LocaleNames_so::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("type.hc.h23"_s),
-			$of(u"24 Saac ee Nidaamka Saacadda (0\u201323)"_s)
+			$of(u"24 Saac ee Nidaamka Saacadda (0–23)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.hc.h24"_s),
-			$of(u"24 Saac ee Nidaamka Saacadda (1\u201324)"_s)
+			$of(u"24 Saac ee Nidaamka Saacadda (1–24)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.mymr"_s),
@@ -2954,11 +2954,11 @@ $ObjectArray2* LocaleNames_so::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("type.hc.h12"_s),
-			$of(u"12 Saac ee Nidaamka Saacadda (1\u201312)"_s)
+			$of(u"12 Saac ee Nidaamka Saacadda (1–12)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.hc.h11"_s),
-			$of(u"12 Saac ee Nidaamka Saacadda (0\u201312)"_s)
+			$of(u"12 Saac ee Nidaamka Saacadda (0–12)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("rm"_s),

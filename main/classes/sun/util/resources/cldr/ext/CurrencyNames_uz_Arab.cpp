@@ -42,11 +42,11 @@ $ObjectArray2* CurrencyNames_uz_Arab::getContents() {
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("AFN"_s),
-			$of(u"\u060b"_s)
+			$of(u"؋"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("afn"_s),
-			$of(u"\u0627\u0641\u063a\u0627\u0646\u06cc"_s)
+			$of(u"افغانی"_s)
 		})
 	}));
 	return data;

@@ -50,11 +50,11 @@ $ObjectArray2* CurrencyNames_xog::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("aoa"_s),
-			$of(u"Kwanza y\u2019Angola"_s)
+			$of(u"Kwanza y’Angola"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("aud"_s),
-			$of(u"Doola y\u2019Awusiturelya"_s)
+			$of(u"Doola y’Awusiturelya"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bhd"_s),
@@ -78,7 +78,7 @@ $ObjectArray2* CurrencyNames_xog::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("chf"_s),
-			$of(u"Faranga ey\u2019eSwitizirandi"_s)
+			$of(u"Faranga ey’eSwitizirandi"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cny"_s),
@@ -94,7 +94,7 @@ $ObjectArray2* CurrencyNames_xog::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("dzd"_s),
-			$of(u"Dinaali y\u2019Aligerya"_s)
+			$of(u"Dinaali y’Aligerya"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("egp"_s),
@@ -158,59 +158,59 @@ $ObjectArray2* CurrencyNames_xog::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("mad"_s),
-			$of(u"Diraamu ey\u2019eMoroko"_s)
+			$of(u"Diraamu ey’eMoroko"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mga"_s),
-			$of(u"Faranga ey\u2019eMalagase"_s)
+			$of(u"Faranga ey’eMalagase"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mro"_s),
-			$of(u"Wugwiya ey\u2019eMawritenya (1973\u20132017)"_s)
+			$of(u"Wugwiya ey’eMawritenya (1973–2017)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mru"_s),
-			$of(u"Wugwiya ey\u2019eMawritenya"_s)
+			$of(u"Wugwiya ey’eMawritenya"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mur"_s),
-			$of(u"Rupiya ey\u2019eMawurisyasi"_s)
+			$of(u"Rupiya ey’eMawurisyasi"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mwk"_s),
-			$of(u"Kwaca ey\u2019eMalawi"_s)
+			$of(u"Kwaca ey’eMalawi"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mzm"_s),
-			$of(u"Metikaali ey\u2019eMozambiiki"_s)
+			$of(u"Metikaali ey’eMozambiiki"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ngn"_s),
-			$of(u"Nayira ey\u2019eNayijerya"_s)
+			$of(u"Nayira ey’eNayijerya"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("rwf"_s),
-			$of(u"Faranga ey\u2019eRwanda"_s)
+			$of(u"Faranga ey’eRwanda"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sar"_s),
-			$of(u"Riyaali ey\u2019eBuwarabu"_s)
+			$of(u"Riyaali ey’eBuwarabu"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("scr"_s),
-			$of(u"Rupiya ey\u2019eSesere"_s)
+			$of(u"Rupiya ey’eSesere"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sdg"_s),
-			$of(u"Dinaali ey\u2019eSudaani"_s)
+			$of(u"Dinaali ey’eSudaani"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sdp"_s),
-			$of(u"Pawunda ey\u2019eSudaani"_s)
+			$of(u"Pawunda ey’eSudaani"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("shp"_s),
-			$of(u"Pawunda ey\u2019eSenti Herena"_s)
+			$of(u"Pawunda ey’eSenti Herena"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sll"_s),
@@ -218,15 +218,15 @@ $ObjectArray2* CurrencyNames_xog::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("sos"_s),
-			$of(u"Silingi ey\u2019eSomaliya"_s)
+			$of(u"Silingi ey’eSomaliya"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("std"_s),
-			$of(u"Dobura ey\u2019eSantome ne Purincipe (1977\u20132017)"_s)
+			$of(u"Dobura ey’eSantome ne Purincipe (1977–2017)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("stn"_s),
-			$of(u"Dobura ey\u2019eSantome ne Purincipe"_s)
+			$of(u"Dobura ey’eSantome ne Purincipe"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("szl"_s),
@@ -234,11 +234,11 @@ $ObjectArray2* CurrencyNames_xog::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("tnd"_s),
-			$of(u"Dinaali ey\u2019eTunizya"_s)
+			$of(u"Dinaali ey’eTunizya"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("tzs"_s),
-			$of(u"Silingi ey\u2019eTanzaniya"_s)
+			$of(u"Silingi ey’eTanzaniya"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ugx"_s),
@@ -246,7 +246,7 @@ $ObjectArray2* CurrencyNames_xog::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("usd"_s),
-			$of(u"Doola ey\u2019Amerika"_s)
+			$of(u"Doola ey’Amerika"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xaf"_s),
@@ -258,19 +258,19 @@ $ObjectArray2* CurrencyNames_xog::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("zar"_s),
-			$of(u"Randi ey\u2019eSawusafirika"_s)
+			$of(u"Randi ey’eSawusafirika"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("zmk"_s),
-			$of(u"Kwaca ey\u2019eZambya (1968\u20132012)"_s)
+			$of(u"Kwaca ey’eZambya (1968–2012)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("zmw"_s),
-			$of(u"Kwaca ey\u2019eZambya"_s)
+			$of(u"Kwaca ey’eZambya"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("zwd"_s),
-			$of(u"Doola ey\u2019eZimbabwe"_s)
+			$of(u"Doola ey’eZimbabwe"_s)
 		})
 	}));
 	return data;

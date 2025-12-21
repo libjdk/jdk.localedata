@@ -40,7 +40,7 @@ void LocaleNames_su::init$() {
 $ObjectArray2* LocaleNames_su::getContents() {
 	$useLocalCurrentObjectStackCache();
 	$var($String, metaValue_CN, "Tiongkok"_s);
-	$var($String, metaValue_DE, u"J\u00e9rman"_s);
+	$var($String, metaValue_DE, u"Jérman"_s);
 	$var($String, metaValue_FR, "Prancis"_s);
 	$var($String, metaValue_IT, "Italia"_s);
 	$var($String, metaValue_JP, "Jepang"_s);
@@ -60,7 +60,7 @@ $ObjectArray2* LocaleNames_su::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("de_AT"_s),
-			$of(u"J\u00e9rman Austria"_s)
+			$of(u"Jérman Austria"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("zh_Hans"_s),
@@ -112,15 +112,15 @@ $ObjectArray2* LocaleNames_su::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("es_419"_s),
-			$of(u"Spanyol Am\u00e9rika Latin"_s)
+			$of(u"Spanyol Amérika Latin"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("de_CH"_s),
-			$of(u"J\u00e9rman Swiss Luhur"_s)
+			$of(u"Jérman Swiss Luhur"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("es_MX"_s),
-			$of(u"Spanyol M\u00e9ksiko"_s)
+			$of(u"Spanyol Méksiko"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("GB"_s),
@@ -128,7 +128,7 @@ $ObjectArray2* LocaleNames_su::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("es_ES"_s),
-			$of(u"Spanyol \u00c9ropa"_s)
+			$of(u"Spanyol Éropa"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("zh_Hant"_s),
@@ -136,7 +136,7 @@ $ObjectArray2* LocaleNames_su::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("US"_s),
-			$of(u"Am\u00e9rika Sarikat"_s)
+			$of(u"Amérika Sarikat"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("su"_s),
@@ -192,7 +192,7 @@ $ObjectArray2* LocaleNames_su::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("type.ca.gregorian"_s),
-			$of(u"Kal\u00e9nder Gr\u00e9gorian"_s)
+			$of(u"Kalénder Grégorian"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Zxxx"_s),
@@ -224,7 +224,7 @@ $ObjectArray2* LocaleNames_su::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("pt_PT"_s),
-			$of(u"Portugis \u00c9ropa"_s)
+			$of(u"Portugis Éropa"_s)
 		})
 	}));
 	return data;

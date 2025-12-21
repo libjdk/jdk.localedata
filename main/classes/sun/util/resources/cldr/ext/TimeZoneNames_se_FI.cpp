@@ -43,7 +43,7 @@ void TimeZoneNames_se_FI::init$() {
 $ObjectArray2* TimeZoneNames_se_FI::getContents() {
 	$useLocalCurrentObjectStackCache();
 	$var($StringArray, GMT, $new($StringArray, {
-		u"Greenwicha \u00e1igi"_s,
+		u"Greenwicha áigi"_s,
 		"GMT"_s,
 		""_s,
 		""_s,
@@ -51,39 +51,39 @@ $ObjectArray2* TimeZoneNames_se_FI::getContents() {
 		""_s
 	}));
 	$var($StringArray, Apia, $new($StringArray, {
-		u"Apia d\u00e1lve\u00e1igi"_s,
+		u"Apia dálveáigi"_s,
 		""_s,
-		u"Apia geasse\u00e1igi"_s,
+		u"Apia geasseáigi"_s,
 		""_s,
-		u"Apia \u00e1igi"_s,
+		u"Apia áigi"_s,
 		""_s
 	}));
 	$var($StringArray, Cook, $new($StringArray, {
-		u"Cooksulloid d\u00e1lve\u00e1igi"_s,
+		u"Cooksulloid dálveáigi"_s,
 		""_s,
-		u"Cooksulloid geasi beallemuttu \u00e1igi"_s,
+		u"Cooksulloid geasi beallemuttu áigi"_s,
 		""_s,
-		u"Cooksulloid \u00e1igi"_s,
+		u"Cooksulloid áigi"_s,
 		""_s
 	}));
 	$var($StringArray, Cuba, $new($StringArray, {
-		u"Cuba d\u00e1lve\u00e1igi"_s,
+		u"Cuba dálveáigi"_s,
 		""_s,
-		u"Cuba geasse\u00e1igi"_s,
+		u"Cuba geasseáigi"_s,
 		""_s,
-		u"Cuba \u00e1igi"_s,
+		u"Cuba áigi"_s,
 		""_s
 	}));
 	$var($StringArray, Fiji, $new($StringArray, {
-		u"Fiji d\u00e1lve\u00e1igi"_s,
+		u"Fiji dálveáigi"_s,
 		""_s,
-		u"Fiji geasse\u00e1igi"_s,
+		u"Fiji geasseáigi"_s,
 		""_s,
-		u"Fiji \u00e1igi"_s,
+		u"Fiji áigi"_s,
 		""_s
 	}));
 	$var($StringArray, Gulf, $new($StringArray, {
-		u"Golfa d\u00e1lve\u00e1igi"_s,
+		u"Golfa dálveáigi"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -91,23 +91,23 @@ $ObjectArray2* TimeZoneNames_se_FI::getContents() {
 		""_s
 	}));
 	$var($StringArray, Hovd, $new($StringArray, {
-		u"Hovda d\u00e1lve\u00e1igi"_s,
+		u"Hovda dálveáigi"_s,
 		""_s,
-		u"Hovda geasse\u00e1igi"_s,
+		u"Hovda geasseáigi"_s,
 		""_s,
-		u"Hovda \u00e1igi"_s,
+		u"Hovda áigi"_s,
 		""_s
 	}));
 	$var($StringArray, Iran, $new($StringArray, {
-		u"Irana d\u00e1lve\u00e1igi"_s,
+		u"Irana dálveáigi"_s,
 		""_s,
-		u"Irana geasse\u00e1igi"_s,
+		u"Irana geasseáigi"_s,
 		""_s,
-		u"Irana \u00e1igi"_s,
+		u"Irana áigi"_s,
 		""_s
 	}));
 	$var($StringArray, Niue, $new($StringArray, {
-		u"Niuea \u00e1igi"_s,
+		u"Niuea áigi"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -115,23 +115,23 @@ $ObjectArray2* TimeZoneNames_se_FI::getContents() {
 		""_s
 	}));
 	$var($StringArray, Omsk, $new($StringArray, {
-		u"Omska d\u00e1lve\u00e1igi"_s,
+		u"Omska dálveáigi"_s,
 		""_s,
-		u"Omska geasse\u00e1igi"_s,
+		u"Omska geasseáigi"_s,
 		""_s,
-		u"Omska \u00e1igi"_s,
+		u"Omska áigi"_s,
 		""_s
 	}));
 	$var($StringArray, Peru, $new($StringArray, {
-		u"Peru d\u00e1lve\u00e1igi"_s,
+		u"Peru dálveáigi"_s,
 		""_s,
-		u"Peru geasse\u00e1igi"_s,
+		u"Peru geasseáigi"_s,
 		""_s,
-		u"Peru \u00e1igi"_s,
+		u"Peru áigi"_s,
 		""_s
 	}));
 	$var($StringArray, Truk, $new($StringArray, {
-		u"Chuuka \u00e1igi"_s,
+		u"Chuuka áigi"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -139,7 +139,7 @@ $ObjectArray2* TimeZoneNames_se_FI::getContents() {
 		""_s
 	}));
 	$var($StringArray, Wake, $new($StringArray, {
-		u"Wakesullo \u00e1igi"_s,
+		u"Wakesullo áigi"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -147,23 +147,23 @@ $ObjectArray2* TimeZoneNames_se_FI::getContents() {
 		""_s
 	}));
 	$var($StringArray, Chile, $new($StringArray, {
-		u"Chile d\u00e1lve\u00e1igi"_s,
+		u"Chile dálveáigi"_s,
 		""_s,
-		u"Chile geasse\u00e1igi"_s,
+		u"Chile geasseáigi"_s,
 		""_s,
-		u"Chile \u00e1igi"_s,
+		u"Chile áigi"_s,
 		""_s
 	}));
 	$var($StringArray, China, $new($StringArray, {
-		u"Kiinn\u00e1 d\u00e1lve\u00e1igi"_s,
+		u"Kiinná dálveáigi"_s,
 		""_s,
-		u"Kiinn\u00e1 geasse\u00e1igi"_s,
+		u"Kiinná geasseáigi"_s,
 		""_s,
-		u"Kiinn\u00e1 \u00e1igi"_s,
+		u"Kiinná áigi"_s,
 		""_s
 	}));
 	$var($StringArray, Cocos, $new($StringArray, {
-		u"Kokossulloid \u00e1igi"_s,
+		u"Kokossulloid áigi"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -171,7 +171,7 @@ $ObjectArray2* TimeZoneNames_se_FI::getContents() {
 		""_s
 	}));
 	$var($StringArray, Davis, $new($StringArray, {
-		u"Davisa \u00e1igi"_s,
+		u"Davisa áigi"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -179,7 +179,7 @@ $ObjectArray2* TimeZoneNames_se_FI::getContents() {
 		""_s
 	}));
 	$var($StringArray, India, $new($StringArray, {
-		u"India d\u00e1lve\u00e1igi"_s,
+		u"India dálveáigi"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -187,23 +187,23 @@ $ObjectArray2* TimeZoneNames_se_FI::getContents() {
 		""_s
 	}));
 	$var($StringArray, Japan, $new($StringArray, {
-		u"Jap\u00e1na d\u00e1lve\u00e1igi"_s,
+		u"Japána dálveáigi"_s,
 		""_s,
-		u"Jap\u00e1na geasse\u00e1igi"_s,
+		u"Japána geasseáigi"_s,
 		""_s,
-		u"Jap\u00e1na \u00e1igi"_s,
+		u"Japána áigi"_s,
 		""_s
 	}));
 	$var($StringArray, Korea, $new($StringArray, {
-		u"Korea d\u00e1lve\u00e1igi"_s,
+		u"Korea dálveáigi"_s,
 		""_s,
-		u"Korea geasse\u00e1igi"_s,
+		u"Korea geasseáigi"_s,
 		""_s,
-		u"Korea \u00e1igi"_s,
+		u"Korea áigi"_s,
 		""_s
 	}));
 	$var($StringArray, Nauru, $new($StringArray, {
-		u"Nauru \u00e1igi"_s,
+		u"Nauru áigi"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -211,7 +211,7 @@ $ObjectArray2* TimeZoneNames_se_FI::getContents() {
 		""_s
 	}));
 	$var($StringArray, Nepal, $new($StringArray, {
-		u"Nepala \u00e1igi"_s,
+		u"Nepala áigi"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -219,7 +219,7 @@ $ObjectArray2* TimeZoneNames_se_FI::getContents() {
 		""_s
 	}));
 	$var($StringArray, Palau, $new($StringArray, {
-		u"Palaua \u00e1igi"_s,
+		u"Palaua áigi"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -227,15 +227,15 @@ $ObjectArray2* TimeZoneNames_se_FI::getContents() {
 		""_s
 	}));
 	$var($StringArray, Samoa, $new($StringArray, {
-		u"Samoa d\u00e1lve\u00e1igi"_s,
+		u"Samoa dálveáigi"_s,
 		""_s,
-		u"Samoa geasse\u00e1igi"_s,
+		u"Samoa geasseáigi"_s,
 		""_s,
-		u"Samoa \u00e1igi"_s,
+		u"Samoa áigi"_s,
 		""_s
 	}));
 	$var($StringArray, Syowa, $new($StringArray, {
-		u"Syowa \u00e1igi"_s,
+		u"Syowa áigi"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -243,39 +243,39 @@ $ObjectArray2* TimeZoneNames_se_FI::getContents() {
 		""_s
 	}));
 	$var($StringArray, Tonga, $new($StringArray, {
-		u"Tonga d\u00e1lve\u00e1igi"_s,
+		u"Tonga dálveáigi"_s,
 		""_s,
-		u"Tonga geasse\u00e1igi"_s,
+		u"Tonga geasseáigi"_s,
 		""_s,
-		u"Tonga \u00e1igi"_s,
+		u"Tonga áigi"_s,
 		""_s
 	}));
 	$var($StringArray, Alaska, $new($StringArray, {
-		u"Alaska d\u00e1lve\u00e1igi"_s,
+		u"Alaska dálveáigi"_s,
 		""_s,
-		u"Alaska geasse\u00e1igi"_s,
+		u"Alaska geasseáigi"_s,
 		""_s,
-		u"Alaska \u00e1igi"_s,
+		u"Alaska áigi"_s,
 		""_s
 	}));
 	$var($StringArray, Amazon, $new($StringArray, {
-		u"Amazona d\u00e1lve\u00e1igi"_s,
+		u"Amazona dálveáigi"_s,
 		""_s,
-		u"Amazona geasse\u00e1igi"_s,
+		u"Amazona geasseáigi"_s,
 		""_s,
-		u"Amazona \u00e1igi"_s,
+		u"Amazona áigi"_s,
 		""_s
 	}));
 	$var($StringArray, Azores, $new($StringArray, {
-		u"Azoraid d\u00e1lve\u00e1igi"_s,
+		u"Azoraid dálveáigi"_s,
 		""_s,
-		u"Azoraid geasse\u00e1igi"_s,
+		u"Azoraid geasseáigi"_s,
 		""_s,
-		u"Azoraid \u00e1igi"_s,
+		u"Azoraid áigi"_s,
 		""_s
 	}));
 	$var($StringArray, Bhutan, $new($StringArray, {
-		u"Bhutana \u00e1igi"_s,
+		u"Bhutana áigi"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -283,7 +283,7 @@ $ObjectArray2* TimeZoneNames_se_FI::getContents() {
 		""_s
 	}));
 	$var($StringArray, Brunei, $new($StringArray, {
-		u"Brunei Darussalama \u00e1igi"_s,
+		u"Brunei Darussalama áigi"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -291,15 +291,15 @@ $ObjectArray2* TimeZoneNames_se_FI::getContents() {
 		""_s
 	}));
 	$var($StringArray, Easter, $new($StringArray, {
-		u"Beass\u00e1\u0161sullo d\u00e1lve\u00e1igi"_s,
+		u"Beassášsullo dálveáigi"_s,
 		""_s,
-		u"Beass\u00e1\u0161sullo geasse\u00e1igi"_s,
+		u"Beassášsullo geasseáigi"_s,
 		""_s,
-		u"Beass\u00e1\u0161sullo \u00e1igi"_s,
+		u"Beassášsullo áigi"_s,
 		""_s
 	}));
 	$var($StringArray, Guyana, $new($StringArray, {
-		u"Guyana \u00e1igi"_s,
+		u"Guyana áigi"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -307,15 +307,15 @@ $ObjectArray2* TimeZoneNames_se_FI::getContents() {
 		""_s
 	}));
 	$var($StringArray, Israel, $new($StringArray, {
-		u"Israela d\u00e1lve\u00e1igi"_s,
+		u"Israela dálveáigi"_s,
 		""_s,
-		u"Israela geasse\u00e1igi"_s,
+		u"Israela geasseáigi"_s,
 		""_s,
-		u"Israela \u00e1igi"_s,
+		u"Israela áigi"_s,
 		""_s
 	}));
 	$var($StringArray, Kosrae, $new($StringArray, {
-		u"Kosraea \u00e1igi"_s,
+		u"Kosraea áigi"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -323,7 +323,7 @@ $ObjectArray2* TimeZoneNames_se_FI::getContents() {
 		""_s
 	}));
 	$var($StringArray, Mawson, $new($StringArray, {
-		u"Mawsona \u00e1igi"_s,
+		u"Mawsona áigi"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -331,15 +331,15 @@ $ObjectArray2* TimeZoneNames_se_FI::getContents() {
 		""_s
 	}));
 	$var($StringArray, Moscow, $new($StringArray, {
-		u"Moskva d\u00e1lve\u00e1igi"_s,
+		u"Moskva dálveáigi"_s,
 		""_s,
-		u"Moskva geasse\u00e1igi"_s,
+		u"Moskva geasseáigi"_s,
 		""_s,
-		u"Moskva \u00e1igi"_s,
+		u"Moskva áigi"_s,
 		""_s
 	}));
 	$var($StringArray, Ponape, $new($StringArray, {
-		u"Ponape \u00e1igi"_s,
+		u"Ponape áigi"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -347,7 +347,7 @@ $ObjectArray2* TimeZoneNames_se_FI::getContents() {
 		""_s
 	}));
 	$var($StringArray, Tahiti, $new($StringArray, {
-		u"Tahiti \u00e1igi"_s,
+		u"Tahiti áigi"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -355,15 +355,15 @@ $ObjectArray2* TimeZoneNames_se_FI::getContents() {
 		""_s
 	}));
 	$var($StringArray, Taipei, $new($StringArray, {
-		u"Taipeia d\u00e1lve\u00e1igi"_s,
+		u"Taipeia dálveáigi"_s,
 		""_s,
-		u"Taipeia geasse\u00e1igi"_s,
+		u"Taipeia geasseáigi"_s,
 		""_s,
-		u"Taipeia \u00e1igi"_s,
+		u"Taipeia áigi"_s,
 		""_s
 	}));
 	$var($StringArray, Tuvalu, $new($StringArray, {
-		u"Tuvalu \u00e1igi"_s,
+		u"Tuvalu áigi"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -371,7 +371,7 @@ $ObjectArray2* TimeZoneNames_se_FI::getContents() {
 		""_s
 	}));
 	$var($StringArray, Vostok, $new($StringArray, {
-		u"Vostoka \u00e1igi"_s,
+		u"Vostoka áigi"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -379,7 +379,7 @@ $ObjectArray2* TimeZoneNames_se_FI::getContents() {
 		""_s
 	}));
 	$var($StringArray, Wallis, $new($StringArray, {
-		u"Wallis- ja Futuna \u00e1igi"_s,
+		u"Wallis- ja Futuna áigi"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -387,23 +387,23 @@ $ObjectArray2* TimeZoneNames_se_FI::getContents() {
 		""_s
 	}));
 	$var($StringArray, Arabian, $new($StringArray, {
-		u"Ar\u00e1bia d\u00e1lve\u00e1igi"_s,
+		u"Arábia dálveáigi"_s,
 		""_s,
-		u"Ar\u00e1bia geasse\u00e1igi"_s,
+		u"Arábia geasseáigi"_s,
 		""_s,
-		u"Ar\u00e1bia \u00e1igi"_s,
+		u"Arábia áigi"_s,
 		""_s
 	}));
 	$var($StringArray, Armenia, $new($StringArray, {
-		u"Armenia d\u00e1lve\u00e1igi"_s,
+		u"Armenia dálveáigi"_s,
 		""_s,
-		u"Armenia geasse\u00e1igi"_s,
+		u"Armenia geasseáigi"_s,
 		""_s,
-		u"Armenia \u00e1igi"_s,
+		u"Armenia áigi"_s,
 		""_s
 	}));
 	$var($StringArray, Bolivia, $new($StringArray, {
-		u"Bolivia \u00e1igi"_s,
+		u"Bolivia áigi"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -411,15 +411,15 @@ $ObjectArray2* TimeZoneNames_se_FI::getContents() {
 		""_s
 	}));
 	$var($StringArray, Chatham, $new($StringArray, {
-		u"Chathama d\u00e1lve\u00e1igi"_s,
+		u"Chathama dálveáigi"_s,
 		""_s,
-		u"Chathama geasse\u00e1igi"_s,
+		u"Chathama geasseáigi"_s,
 		""_s,
-		u"Chathama \u00e1igi"_s,
+		u"Chathama áigi"_s,
 		""_s
 	}));
 	$var($StringArray, ETC_UTC, $new($StringArray, {
-		u"koordinerejuvvon oktasa\u0161 \u00e1igi"_s,
+		u"koordinerejuvvon oktasaš áigi"_s,
 		"UTC"_s,
 		""_s,
 		""_s,
@@ -427,7 +427,7 @@ $ObjectArray2* TimeZoneNames_se_FI::getContents() {
 		""_s
 	}));
 	$var($StringArray, Ecuador, $new($StringArray, {
-		u"Ecuadora \u00e1igi"_s,
+		u"Ecuadora áigi"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -435,7 +435,7 @@ $ObjectArray2* TimeZoneNames_se_FI::getContents() {
 		""_s
 	}));
 	$var($StringArray, Gambier, $new($StringArray, {
-		u"Gambiera \u00e1igi"_s,
+		u"Gambiera áigi"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -443,31 +443,31 @@ $ObjectArray2* TimeZoneNames_se_FI::getContents() {
 		""_s
 	}));
 	$var($StringArray, Georgia, $new($StringArray, {
-		u"Georgia d\u00e1lve\u00e1igi"_s,
+		u"Georgia dálveáigi"_s,
 		""_s,
-		u"Georgia geasse\u00e1igi"_s,
+		u"Georgia geasseáigi"_s,
 		""_s,
-		u"Georgia \u00e1igi"_s,
+		u"Georgia áigi"_s,
 		""_s
 	}));
 	$var($StringArray, Irkutsk, $new($StringArray, {
-		u"Irkucka d\u00e1lve\u00e1igi"_s,
+		u"Irkucka dálveáigi"_s,
 		""_s,
-		u"Irkucka geasse\u00e1igi"_s,
+		u"Irkucka geasseáigi"_s,
 		""_s,
-		u"Irkucka \u00e1igi"_s,
+		u"Irkucka áigi"_s,
 		""_s
 	}));
 	$var($StringArray, Magadan, $new($StringArray, {
-		u"Magadana d\u00e1lve\u00e1igi"_s,
+		u"Magadana dálveáigi"_s,
 		""_s,
-		u"Magadana geasse\u00e1igi"_s,
+		u"Magadana geasseáigi"_s,
 		""_s,
-		u"Magadana \u00e1igi"_s,
+		u"Magadana áigi"_s,
 		""_s
 	}));
 	$var($StringArray, Myanmar, $new($StringArray, {
-		u"Myanmara \u00e1igi"_s,
+		u"Myanmara áigi"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -475,7 +475,7 @@ $ObjectArray2* TimeZoneNames_se_FI::getContents() {
 		""_s
 	}));
 	$var($StringArray, Norfolk, $new($StringArray, {
-		u"Norfolksullo \u00e1igi"_s,
+		u"Norfolksullo áigi"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -483,15 +483,15 @@ $ObjectArray2* TimeZoneNames_se_FI::getContents() {
 		""_s
 	}));
 	$var($StringArray, Noronha, $new($StringArray, {
-		u"Fernando de Noronha d\u00e1lve\u00e1igi"_s,
+		u"Fernando de Noronha dálveáigi"_s,
 		""_s,
-		u"Fernando de Noronha geasse\u00e1igi"_s,
+		u"Fernando de Noronha geasseáigi"_s,
 		""_s,
-		u"Fernando de Noronha \u00e1igi"_s,
+		u"Fernando de Noronha áigi"_s,
 		""_s
 	}));
 	$var($StringArray, Reunion, $new($StringArray, {
-		u"Reuniona \u00e1igi"_s,
+		u"Reuniona áigi"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -499,7 +499,7 @@ $ObjectArray2* TimeZoneNames_se_FI::getContents() {
 		""_s
 	}));
 	$var($StringArray, Rothera, $new($StringArray, {
-		u"Rothera \u00e1igi"_s,
+		u"Rothera áigi"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -507,7 +507,7 @@ $ObjectArray2* TimeZoneNames_se_FI::getContents() {
 		""_s
 	}));
 	$var($StringArray, Solomon, $new($StringArray, {
-		u"Salomonsulloid \u00e1igi"_s,
+		u"Salomonsulloid áigi"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -515,7 +515,7 @@ $ObjectArray2* TimeZoneNames_se_FI::getContents() {
 		""_s
 	}));
 	$var($StringArray, Tokelau, $new($StringArray, {
-		u"Tokelaua \u00e1igi"_s,
+		u"Tokelaua áigi"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -523,47 +523,47 @@ $ObjectArray2* TimeZoneNames_se_FI::getContents() {
 		""_s
 	}));
 	$var($StringArray, Uruguay, $new($StringArray, {
-		u"Uruguaya d\u00e1lve\u00e1igi"_s,
+		u"Uruguaya dálveáigi"_s,
 		""_s,
-		u"Uruguaya geasse\u00e1igi"_s,
+		u"Uruguaya geasseáigi"_s,
 		""_s,
-		u"Uruguaya \u00e1igi"_s,
+		u"Uruguaya áigi"_s,
 		""_s
 	}));
 	$var($StringArray, Vanuatu, $new($StringArray, {
-		u"Vanuatu d\u00e1lve\u00e1igi"_s,
+		u"Vanuatu dálveáigi"_s,
 		""_s,
-		u"Vanuatu geasse\u00e1igi"_s,
+		u"Vanuatu geasseáigi"_s,
 		""_s,
-		u"Vanuatu \u00e1igi"_s,
+		u"Vanuatu áigi"_s,
 		""_s
 	}));
 	$var($StringArray, Yakutsk, $new($StringArray, {
-		u"Jakucka d\u00e1lve\u00e1igi"_s,
+		u"Jakucka dálveáigi"_s,
 		""_s,
-		u"Jakucka geasse\u00e1igi"_s,
+		u"Jakucka geasseáigi"_s,
 		""_s,
-		u"Jakucka \u00e1igi"_s,
+		u"Jakucka áigi"_s,
 		""_s
 	}));
 	$var($StringArray, Atlantic, $new($StringArray, {
-		u"atl\u00e1ntala\u0161 d\u00e1lve\u00e1igi"_s,
+		u"atlántalaš dálveáigi"_s,
 		""_s,
-		u"atl\u00e1ntala\u0161 geasse\u00e1igi"_s,
+		u"atlántalaš geasseáigi"_s,
 		""_s,
-		u"atl\u00e1ntala\u0161 \u00e1igi"_s,
+		u"atlántalaš áigi"_s,
 		""_s
 	}));
 	$var($StringArray, Brasilia, $new($StringArray, {
-		u"Brasilia d\u00e1lve\u00e1igi"_s,
+		u"Brasilia dálveáigi"_s,
 		""_s,
-		u"Brasilia geasse\u00e1igi"_s,
+		u"Brasilia geasseáigi"_s,
 		""_s,
-		u"Brasilia \u00e1igi"_s,
+		u"Brasilia áigi"_s,
 		""_s
 	}));
 	$var($StringArray, Chamorro, $new($StringArray, {
-		u"\u010camorro d\u00e1lve\u00e1igi"_s,
+		u"Čamorro dálveáigi"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -571,23 +571,23 @@ $ObjectArray2* TimeZoneNames_se_FI::getContents() {
 		""_s
 	}));
 	$var($StringArray, Colombia, $new($StringArray, {
-		u"Colombia d\u00e1lve\u00e1igi"_s,
+		u"Colombia dálveáigi"_s,
 		""_s,
-		u"Colombia geasse\u00e1igi"_s,
+		u"Colombia geasseáigi"_s,
 		""_s,
-		u"Colombia \u00e1igi"_s,
+		u"Colombia áigi"_s,
 		""_s
 	}));
 	$var($StringArray, Falkland, $new($StringArray, {
-		u"Falklandsulluid d\u00e1lve\u00e1igi"_s,
+		u"Falklandsulluid dálveáigi"_s,
 		""_s,
-		u"Falklandsulluid geasse\u00e1igi"_s,
+		u"Falklandsulluid geasseáigi"_s,
 		""_s,
-		u"Falklandsulluid \u00e1igi"_s,
+		u"Falklandsulluid áigi"_s,
 		""_s
 	}));
 	$var($StringArray, Malaysia, $new($StringArray, {
-		u"Malesia \u00e1igi"_s,
+		u"Malesia áigi"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -595,7 +595,7 @@ $ObjectArray2* TimeZoneNames_se_FI::getContents() {
 		""_s
 	}));
 	$var($StringArray, Maldives, $new($StringArray, {
-		u"Malediivvaid \u00e1igi"_s,
+		u"Malediivvaid áigi"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -603,31 +603,31 @@ $ObjectArray2* TimeZoneNames_se_FI::getContents() {
 		""_s
 	}));
 	$var($StringArray, Mongolia, $new($StringArray, {
-		u"Ulan-Batora d\u00e1lve\u00e1igi"_s,
+		u"Ulan-Batora dálveáigi"_s,
 		""_s,
-		u"Ulan-Batora geasse\u00e1igi"_s,
+		u"Ulan-Batora geasseáigi"_s,
 		""_s,
-		u"Ulan-Batora \u00e1igi"_s,
+		u"Ulan-Batora áigi"_s,
 		""_s
 	}));
 	$var($StringArray, Pakistan, $new($StringArray, {
-		u"Pakistana d\u00e1lve\u00e1igi"_s,
+		u"Pakistana dálveáigi"_s,
 		""_s,
-		u"Pakistana geasse\u00e1igi"_s,
+		u"Pakistana geasseáigi"_s,
 		""_s,
-		u"Pakistana \u00e1igi"_s,
+		u"Pakistana áigi"_s,
 		""_s
 	}));
 	$var($StringArray, Paraguay, $new($StringArray, {
-		u"Paraguaya d\u00e1lve\u00e1igi"_s,
+		u"Paraguaya dálveáigi"_s,
 		""_s,
-		u"Paraguaya geasse\u00e1igi"_s,
+		u"Paraguaya geasseáigi"_s,
 		""_s,
-		u"Paraguaya \u00e1igi"_s,
+		u"Paraguaya áigi"_s,
 		""_s
 	}));
 	$var($StringArray, Pitcairn, $new($StringArray, {
-		u"Pitcairnsulloid \u00e1igi"_s,
+		u"Pitcairnsulloid áigi"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -635,15 +635,15 @@ $ObjectArray2* TimeZoneNames_se_FI::getContents() {
 		""_s
 	}));
 	$var($StringArray, Sakhalin, $new($StringArray, {
-		u"Sahalina d\u00e1lve\u00e1igi"_s,
+		u"Sahalina dálveáigi"_s,
 		""_s,
-		u"Sahalina geasse\u00e1igi"_s,
+		u"Sahalina geasseáigi"_s,
 		""_s,
-		u"Sahalina \u00e1igi"_s,
+		u"Sahalina áigi"_s,
 		""_s
 	}));
 	$var($StringArray, Suriname, $new($StringArray, {
-		u"Suriname \u00e1igi"_s,
+		u"Suriname áigi"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -651,15 +651,15 @@ $ObjectArray2* TimeZoneNames_se_FI::getContents() {
 		""_s
 	}));
 	$var($StringArray, Argentina, $new($StringArray, {
-		u"Argentina d\u00e1lve\u00e1igi"_s,
+		u"Argentina dálveáigi"_s,
 		""_s,
-		u"Argentina geasse\u00e1igi"_s,
+		u"Argentina geasseáigi"_s,
 		""_s,
-		u"Argentina \u00e1igi"_s,
+		u"Argentina áigi"_s,
 		""_s
 	}));
 	$var($StringArray, Christmas, $new($StringArray, {
-		u"Juovlasullo \u00e1igi"_s,
+		u"Juovlasullo áigi"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -667,7 +667,7 @@ $ObjectArray2* TimeZoneNames_se_FI::getContents() {
 		""_s
 	}));
 	$var($StringArray, Galapagos, $new($StringArray, {
-		u"Galapagosa \u00e1igi"_s,
+		u"Galapagosa áigi"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -675,15 +675,15 @@ $ObjectArray2* TimeZoneNames_se_FI::getContents() {
 		""_s
 	}));
 	$var($StringArray, Hong_Kong, $new($StringArray, {
-		u"Hong Konga d\u00e1lve\u00e1igi"_s,
+		u"Hong Konga dálveáigi"_s,
 		""_s,
-		u"Hong Konga geasse\u00e1igi"_s,
+		u"Hong Konga geasseáigi"_s,
 		""_s,
-		u"Hong Konga \u00e1igi"_s,
+		u"Hong Konga áigi"_s,
 		""_s
 	}));
 	$var($StringArray, Indochina, $new($StringArray, {
-		u"Indokiinn\u00e1 \u00e1igi"_s,
+		u"Indokiinná áigi"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -691,7 +691,7 @@ $ObjectArray2* TimeZoneNames_se_FI::getContents() {
 		""_s
 	}));
 	$var($StringArray, Kyrgystan, $new($StringArray, {
-		u"Kirgisia \u00e1igi"_s,
+		u"Kirgisia áigi"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -699,15 +699,15 @@ $ObjectArray2* TimeZoneNames_se_FI::getContents() {
 		""_s
 	}));
 	$var($StringArray, Lord_Howe, $new($StringArray, {
-		u"Lord Howe d\u00e1lve\u00e1igi"_s,
+		u"Lord Howe dálveáigi"_s,
 		""_s,
-		u"Lord Howe geasse\u00e1igi"_s,
+		u"Lord Howe geasseáigi"_s,
 		""_s,
-		u"Lord Howe \u00e1igi"_s,
+		u"Lord Howe áigi"_s,
 		""_s
 	}));
 	$var($StringArray, Marquesas, $new($StringArray, {
-		u"Marquesasiid \u00e1igi"_s,
+		u"Marquesasiid áigi"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -715,15 +715,15 @@ $ObjectArray2* TimeZoneNames_se_FI::getContents() {
 		""_s
 	}));
 	$var($StringArray, Mauritius, $new($StringArray, {
-		u"Mauritiusa d\u00e1lve\u00e1igi"_s,
+		u"Mauritiusa dálveáigi"_s,
 		""_s,
-		u"Mauritiusa geasse\u00e1igi"_s,
+		u"Mauritiusa geasseáigi"_s,
 		""_s,
-		u"Mauritiusa \u00e1igi"_s,
+		u"Mauritiusa áigi"_s,
 		""_s
 	}));
 	$var($StringArray, Singapore, $new($StringArray, {
-		u"Singapore d\u00e1lve\u00e1igi"_s,
+		u"Singapore dálveáigi"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -731,7 +731,7 @@ $ObjectArray2* TimeZoneNames_se_FI::getContents() {
 		""_s
 	}));
 	$var($StringArray, Venezuela, $new($StringArray, {
-		u"Venezuela \u00e1igi"_s,
+		u"Venezuela áigi"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -739,39 +739,39 @@ $ObjectArray2* TimeZoneNames_se_FI::getContents() {
 		""_s
 	}));
 	$var($StringArray, Volgograd, $new($StringArray, {
-		u"Volgograda d\u00e1lve\u00e1igi"_s,
+		u"Volgograda dálveáigi"_s,
 		""_s,
-		u"Volgograda geasse\u00e1igi"_s,
+		u"Volgograda geasseáigi"_s,
 		""_s,
-		u"Volgograda \u00e1igi"_s,
+		u"Volgograda áigi"_s,
 		""_s
 	}));
 	$var($StringArray, Azerbaijan, $new($StringArray, {
-		u"Aserbai\u017eana d\u00e1lve\u00e1igi"_s,
+		u"Aserbaižana dálveáigi"_s,
 		""_s,
-		u"Aserbai\u017eana geasse\u00e1igi"_s,
+		u"Aserbaižana geasseáigi"_s,
 		""_s,
-		u"Aserbai\u017eana \u00e1igi"_s,
+		u"Aserbaižana áigi"_s,
 		""_s
 	}));
 	$var($StringArray, Bangladesh, $new($StringArray, {
-		u"Bangladesha d\u00e1lve\u00e1igi"_s,
+		u"Bangladesha dálveáigi"_s,
 		""_s,
-		u"Bangladesha geasse\u00e1igi"_s,
+		u"Bangladesha geasseáigi"_s,
 		""_s,
-		u"Bangladesha \u00e1igi"_s,
+		u"Bangladesha áigi"_s,
 		""_s
 	}));
 	$var($StringArray, Cape_Verde, $new($StringArray, {
-		u"Kap Verde d\u00e1lve\u00e1igi"_s,
+		u"Kap Verde dálveáigi"_s,
 		""_s,
-		u"Kap Verde geasse\u00e1igi"_s,
+		u"Kap Verde geasseáigi"_s,
 		""_s,
-		u"Kap Verde \u00e1igi"_s,
+		u"Kap Verde áigi"_s,
 		""_s
 	}));
 	$var($StringArray, East_Timor, $new($StringArray, {
-		u"Nuorta-Timora \u00e1igi"_s,
+		u"Nuorta-Timora áigi"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -779,7 +779,7 @@ $ObjectArray2* TimeZoneNames_se_FI::getContents() {
 		""_s
 	}));
 	$var($StringArray, Seychelles, $new($StringArray, {
-		u"Seychellaid \u00e1igi"_s,
+		u"Seychellaid áigi"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -787,7 +787,7 @@ $ObjectArray2* TimeZoneNames_se_FI::getContents() {
 		""_s
 	}));
 	$var($StringArray, Tajikistan, $new($StringArray, {
-		u"Ta\u017eikistana \u00e1igi"_s,
+		u"Tažikistana áigi"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -795,15 +795,15 @@ $ObjectArray2* TimeZoneNames_se_FI::getContents() {
 		""_s
 	}));
 	$var($StringArray, Uzbekistan, $new($StringArray, {
-		u"Usbekistana d\u00e1lve\u00e1igi"_s,
+		u"Usbekistana dálveáigi"_s,
 		""_s,
-		u"Usbekistana geasse\u00e1igi"_s,
+		u"Usbekistana geasseáigi"_s,
 		""_s,
-		u"Usbekistana \u00e1igi"_s,
+		u"Usbekistana áigi"_s,
 		""_s
 	}));
 	$var($StringArray, Afghanistan, $new($StringArray, {
-		u"Afganisthana \u00e1igi"_s,
+		u"Afganisthana áigi"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -811,47 +811,47 @@ $ObjectArray2* TimeZoneNames_se_FI::getContents() {
 		""_s
 	}));
 	$var($StringArray, Krasnoyarsk, $new($StringArray, {
-		u"Krasnojarska d\u00e1lve\u00e1igi"_s,
+		u"Krasnojarska dálveáigi"_s,
 		""_s,
-		u"Krasnojarska geasse\u00e1igi"_s,
+		u"Krasnojarska geasseáigi"_s,
 		""_s,
-		u"Krasnojarska \u00e1igi"_s,
+		u"Krasnojarska áigi"_s,
 		""_s
 	}));
 	$var($StringArray, New_Zealand, $new($StringArray, {
-		u"O\u0111\u0111a-Sel\u00e1nda d\u00e1lve\u00e1igi"_s,
+		u"Ođđa-Selánda dálveáigi"_s,
 		""_s,
-		u"O\u0111\u0111a-Sel\u00e1nda geasse\u00e1igi"_s,
+		u"Ođđa-Selánda geasseáigi"_s,
 		""_s,
-		u"O\u0111\u0111a-Sel\u00e1nda \u00e1igi"_s,
+		u"Ođđa-Selánda áigi"_s,
 		""_s
 	}));
 	$var($StringArray, Novosibirsk, $new($StringArray, {
-		u"Novosibirska d\u00e1lve\u00e1igi"_s,
+		u"Novosibirska dálveáigi"_s,
 		""_s,
-		u"Novosibirska geasse\u00e1igi"_s,
+		u"Novosibirska geasseáigi"_s,
 		""_s,
-		u"Novosibirska \u00e1igi"_s,
+		u"Novosibirska áigi"_s,
 		""_s
 	}));
 	$var($StringArray, Philippines, $new($StringArray, {
-		u"Filippiinnaid d\u00e1lve\u00e1igi"_s,
+		u"Filippiinnaid dálveáigi"_s,
 		""_s,
-		u"Filippiinnaid geasse\u00e1igi"_s,
+		u"Filippiinnaid geasseáigi"_s,
 		""_s,
-		u"Filippiinnaid \u00e1igi"_s,
+		u"Filippiinnaid áigi"_s,
 		""_s
 	}));
 	$var($StringArray, Vladivostok, $new($StringArray, {
-		u"Vladivostoka d\u00e1lve\u00e1igi"_s,
+		u"Vladivostoka dálveáigi"_s,
 		""_s,
-		u"Vladivostoka geasse\u00e1igi"_s,
+		u"Vladivostoka geasseáigi"_s,
 		""_s,
-		u"Vladivostoka \u00e1igi"_s,
+		u"Vladivostoka áigi"_s,
 		""_s
 	}));
 	$var($StringArray, Indian_Ocean, $new($StringArray, {
-		u"India\u00e1bi \u00e1igi"_s,
+		u"Indiaábi áigi"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -859,7 +859,7 @@ $ObjectArray2* TimeZoneNames_se_FI::getContents() {
 		""_s
 	}));
 	$var($StringArray, Line_Islands, $new($StringArray, {
-		u"Linesulloid \u00e1igi"_s,
+		u"Linesulloid áigi"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -867,23 +867,23 @@ $ObjectArray2* TimeZoneNames_se_FI::getContents() {
 		""_s
 	}));
 	$var($StringArray, Newfoundland, $new($StringArray, {
-		u"Newfoundlanda d\u00e1lve\u00e1igi"_s,
+		u"Newfoundlanda dálveáigi"_s,
 		""_s,
-		u"Newfoundlanda geasse\u00e1igi"_s,
+		u"Newfoundlanda geasseáigi"_s,
 		""_s,
-		u"Newfoundlanda \u00e1igi"_s,
+		u"Newfoundlanda áigi"_s,
 		""_s
 	}));
 	$var($StringArray, Turkmenistan, $new($StringArray, {
-		u"Turkmenistana d\u00e1lve\u00e1igi"_s,
+		u"Turkmenistana dálveáigi"_s,
 		""_s,
-		u"Turkmenistana geasse\u00e1igi"_s,
+		u"Turkmenistana geasseáigi"_s,
 		""_s,
-		u"Turkmenistana \u00e1igi"_s,
+		u"Turkmenistana áigi"_s,
 		""_s
 	}));
 	$var($StringArray, French_Guiana, $new($StringArray, {
-		u"Frankriikka Guyana \u00e1igi"_s,
+		u"Frankriikka Guyana áigi"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -891,15 +891,15 @@ $ObjectArray2* TimeZoneNames_se_FI::getContents() {
 		""_s
 	}));
 	$var($StringArray, New_Caledonia, $new($StringArray, {
-		u"O\u0111\u0111a-Kaledonia d\u00e1lve\u00e1igi"_s,
+		u"Ođđa-Kaledonia dálveáigi"_s,
 		""_s,
-		u"O\u0111\u0111a-Kaledonia geasse\u00e1igi"_s,
+		u"Ođđa-Kaledonia geasseáigi"_s,
 		""_s,
-		u"O\u0111\u0111a-Kaledonia \u00e1igi"_s,
+		u"Ođđa-Kaledonia áigi"_s,
 		""_s
 	}));
 	$var($StringArray, South_Georgia, $new($StringArray, {
-		u"Lulli-Georgia \u00e1igi"_s,
+		u"Lulli-Georgia áigi"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -907,15 +907,15 @@ $ObjectArray2* TimeZoneNames_se_FI::getContents() {
 		""_s
 	}));
 	$var($StringArray, Yekaterinburg, $new($StringArray, {
-		u"Jekaterinburga d\u00e1lve\u00e1igi"_s,
+		u"Jekaterinburga dálveáigi"_s,
 		""_s,
-		u"Jekaterinburga geasse\u00e1igi"_s,
+		u"Jekaterinburga geasseáigi"_s,
 		""_s,
-		u"Jekaterinburga \u00e1igi"_s,
+		u"Jekaterinburga áigi"_s,
 		""_s
 	}));
 	$var($StringArray, Africa_Central, $new($StringArray, {
-		u"Gaska-Afrihk\u00e1 \u00e1igi"_s,
+		u"Gaska-Afrihká áigi"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -923,7 +923,7 @@ $ObjectArray2* TimeZoneNames_se_FI::getContents() {
 		""_s
 	}));
 	$var($StringArray, Africa_Eastern, $new($StringArray, {
-		u"Nuorta-Afrihk\u00e1 \u00e1igi"_s,
+		u"Nuorta-Afrihká áigi"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -931,15 +931,15 @@ $ObjectArray2* TimeZoneNames_se_FI::getContents() {
 		""_s
 	}));
 	$var($StringArray, Africa_Western, $new($StringArray, {
-		u"Oarje-Afrihk\u00e1 d\u00e1lve\u00e1igi"_s,
+		u"Oarje-Afrihká dálveáigi"_s,
 		""_s,
-		u"Oarje-Afrihk\u00e1 geasse\u00e1igi"_s,
+		u"Oarje-Afrihká geasseáigi"_s,
 		""_s,
-		u"Oarje-Afrihk\u00e1 \u00e1igi"_s,
+		u"Oarje-Afrihká áigi"_s,
 		""_s
 	}));
 	$var($StringArray, DumontDUrville, $new($StringArray, {
-		u"Dumont-d\u2019Urville \u00e1igi"_s,
+		u"Dumont-d’Urville áigi"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -947,39 +947,39 @@ $ObjectArray2* TimeZoneNames_se_FI::getContents() {
 		""_s
 	}));
 	$var($StringArray, Europe_Central, $new($StringArray, {
-		u"Gaska-Eurohp\u00e1 d\u00e1lve\u00e1igi"_s,
+		u"Gaska-Eurohpá dálveáigi"_s,
 		"CET"_s,
-		u"Gaska-Eurohp\u00e1 geasse\u00e1igi"_s,
+		u"Gaska-Eurohpá geasseáigi"_s,
 		"CEST"_s,
-		u"Gaska-Eurohp\u00e1 \u00e1igi"_s,
+		u"Gaska-Eurohpá áigi"_s,
 		"CET"_s
 	}));
 	$var($StringArray, Europe_Eastern, $new($StringArray, {
-		u"Nuorta-Eurohpa d\u00e1lve\u00e1igi"_s,
+		u"Nuorta-Eurohpa dálveáigi"_s,
 		"EET"_s,
-		u"Nuorta-Eurohpa geasse\u00e1igi"_s,
+		u"Nuorta-Eurohpa geasseáigi"_s,
 		"EEST"_s,
-		u"Nuorta-Eurohpa \u00e1igi"_s,
+		u"Nuorta-Eurohpa áigi"_s,
 		"EET"_s
 	}));
 	$var($StringArray, Europe_Western, $new($StringArray, {
-		u"Oarje-Eurohp\u00e1 d\u00e1lve\u00e1igi"_s,
+		u"Oarje-Eurohpá dálveáigi"_s,
 		"WET"_s,
-		u"Oarje-Eurohp\u00e1 geasse\u00e1igi"_s,
+		u"Oarje-Eurohpá geasseáigi"_s,
 		"WEST"_s,
-		u"Oarje-Eurohp\u00e1 \u00e1igi"_s,
+		u"Oarje-Eurohpá áigi"_s,
 		"WET"_s
 	}));
 	$var($StringArray, Mexico_Pacific, $new($StringArray, {
-		u"Meksiko J\u00e1skes\u00e1bi d\u00e1lve\u00e1igi"_s,
+		u"Meksiko Jáskesábi dálveáigi"_s,
 		""_s,
-		u"Meksiko J\u00e1skes\u00e1bi geasse\u00e1igi"_s,
+		u"Meksiko Jáskesábi geasseáigi"_s,
 		""_s,
-		u"Meksiko J\u00e1skes\u00e1bi \u00e1igi"_s,
+		u"Meksiko Jáskesábi áigi"_s,
 		""_s
 	}));
 	$var($StringArray, Africa_Southern, $new($StringArray, {
-		u"Lulli-Afrihk\u00e1 d\u00e1lve\u00e1igi"_s,
+		u"Lulli-Afrihká dálveáigi"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -987,31 +987,31 @@ $ObjectArray2* TimeZoneNames_se_FI::getContents() {
 		""_s
 	}));
 	$var($StringArray, America_Central, $new($StringArray, {
-		u"d\u00e1b\u00e1la\u0161 d\u00e1lve\u00e1igi"_s,
+		u"dábálaš dálveáigi"_s,
 		""_s,
-		u"d\u00e1b\u00e1la\u0161 geasse\u00e1igi"_s,
+		u"dábálaš geasseáigi"_s,
 		""_s,
-		u"d\u00e1b\u00e1la\u0161\u00e1igi"_s,
+		u"dábálašáigi"_s,
 		""_s
 	}));
 	$var($StringArray, America_Eastern, $new($StringArray, {
-		u"d\u00e1lve\u00e1igi nuortan"_s,
+		u"dálveáigi nuortan"_s,
 		""_s,
-		u"geasse\u00e1igi nuortan"_s,
+		u"geasseáigi nuortan"_s,
 		""_s,
-		u"\u00e1igi nuortan"_s,
+		u"áigi nuortan"_s,
 		""_s
 	}));
 	$var($StringArray, America_Pacific, $new($StringArray, {
-		u"Jaskes\u00e1bi d\u00e1lve\u00e1igi"_s,
+		u"Jaskesábi dálveáigi"_s,
 		""_s,
-		u"Jaskes\u00e1bi geasse\u00e1igi"_s,
+		u"Jaskesábi geasseáigi"_s,
 		""_s,
-		u"Jaskes\u00e1bi \u00e1igi"_s,
+		u"Jaskesábi áigi"_s,
 		""_s
 	}));
 	$var($StringArray, French_Southern, $new($StringArray, {
-		u"Frankriikka lulli & ant\u00e1rktisa \u00e1igi"_s,
+		u"Frankriikka lulli & antárktisa áigi"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -1019,7 +1019,7 @@ $ObjectArray2* TimeZoneNames_se_FI::getContents() {
 		""_s
 	}));
 	$var($StringArray, Gilbert_Islands, $new($StringArray, {
-		u"Gilbertsulloid \u00e1igi"_s,
+		u"Gilbertsulloid áigi"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -1027,15 +1027,15 @@ $ObjectArray2* TimeZoneNames_se_FI::getContents() {
 		""_s
 	}));
 	$var($StringArray, Hawaii_Aleutian, $new($StringArray, {
-		u"Hawaii-aleuhtala\u0161 d\u00e1lve\u00e1igi"_s,
+		u"Hawaii-aleuhtalaš dálveáigi"_s,
 		""_s,
-		u"Hawaii-aleuhtala\u0161 geasse\u00e1igi"_s,
+		u"Hawaii-aleuhtalaš geasseáigi"_s,
 		""_s,
-		u"Hawaii-aleuhtala\u0161 \u00e1igi"_s,
+		u"Hawaii-aleuhtalaš áigi"_s,
 		""_s
 	}));
 	$var($StringArray, Phoenix_Islands, $new($StringArray, {
-		u"Phoenixsulloid \u00e1igi"_s,
+		u"Phoenixsulloid áigi"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -1043,23 +1043,23 @@ $ObjectArray2* TimeZoneNames_se_FI::getContents() {
 		""_s
 	}));
 	$var($StringArray, Pierre_Miquelon, $new($StringArray, {
-		u"St. Pierre & Miquelo d\u00e1lve\u00e1igi"_s,
+		u"St. Pierre & Miquelo dálveáigi"_s,
 		""_s,
-		u"St. Pierre & Miquelo geasse\u00e1igi"_s,
+		u"St. Pierre & Miquelo geasseáigi"_s,
 		""_s,
-		u"St. Pierre & Miquelo \u00e1igi"_s,
+		u"St. Pierre & Miquelo áigi"_s,
 		""_s
 	}));
 	$var($StringArray, America_Mountain, $new($StringArray, {
-		u"d\u00e1lveduottar\u00e1igi"_s,
+		u"dálveduottaráigi"_s,
 		""_s,
-		u"geasseduottar\u00e1igi"_s,
+		u"geasseduottaráigi"_s,
 		""_s,
-		u"duottar\u00e1igi"_s,
+		u"duottaráigi"_s,
 		""_s
 	}));
 	$var($StringArray, Marshall_Islands, $new($StringArray, {
-		u"Marshallsulloid \u00e1igi"_s,
+		u"Marshallsulloid áigi"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -1067,15 +1067,15 @@ $ObjectArray2* TimeZoneNames_se_FI::getContents() {
 		""_s
 	}));
 	$var($StringArray, Mexico_Northwest, $new($StringArray, {
-		u"Oarjedavvi-Meksiko d\u00e1lve\u00e1igi"_s,
+		u"Oarjedavvi-Meksiko dálveáigi"_s,
 		""_s,
-		u"Oarjedavvi-Meksiko geasse\u00e1igi"_s,
+		u"Oarjedavvi-Meksiko geasseáigi"_s,
 		""_s,
-		u"Oarjedavvi-Meksiko \u00e1igi"_s,
+		u"Oarjedavvi-Meksiko áigi"_s,
 		""_s
 	}));
 	$var($StringArray, Papua_New_Guinea, $new($StringArray, {
-		u"Papua O\u0111\u0111a-Guinea \u00e1igi"_s,
+		u"Papua Ođđa-Guinea áigi"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -1083,47 +1083,47 @@ $ObjectArray2* TimeZoneNames_se_FI::getContents() {
 		""_s
 	}));
 	$var($StringArray, Australia_Central, $new($StringArray, {
-		u"Gaska-Austr\u00e1lia d\u00e1lve\u00e1igi"_s,
+		u"Gaska-Austrália dálveáigi"_s,
 		""_s,
-		u"Gaska-Austr\u00e1lia geasse\u00e1igi"_s,
+		u"Gaska-Austrália geasseáigi"_s,
 		""_s,
-		u"Gaska-Austr\u00e1lia \u00e1igi"_s,
+		u"Gaska-Austrália áigi"_s,
 		""_s
 	}));
 	$var($StringArray, Australia_Eastern, $new($StringArray, {
-		u"Nuorta-Austr\u00e1lia d\u00e1lve\u00e1igi"_s,
+		u"Nuorta-Austrália dálveáigi"_s,
 		""_s,
-		u"Nuorta-Austr\u00e1lia geasse\u00e1igi"_s,
+		u"Nuorta-Austrália geasseáigi"_s,
 		""_s,
-		u"Nuorta-Austr\u00e1lia \u00e1igi"_s,
+		u"Nuorta-Austrália áigi"_s,
 		""_s
 	}));
 	$var($StringArray, Australia_Western, $new($StringArray, {
-		u"Oarje-Austr\u00e1lia d\u00e1lve\u00e1igi"_s,
+		u"Oarje-Austrália dálveáigi"_s,
 		""_s,
-		u"Oarje-Austr\u00e1lia geasse\u00e1igi"_s,
+		u"Oarje-Austrália geasseáigi"_s,
 		""_s,
-		u"Oarje-Austr\u00e1lia \u00e1igi"_s,
+		u"Oarje-Austrália áigi"_s,
 		""_s
 	}));
 	$var($StringArray, Greenland_Eastern, $new($StringArray, {
-		u"Nuorta-Ruon\u00e1eatnama d\u00e1lve\u00e1igi"_s,
+		u"Nuorta-Ruonáeatnama dálveáigi"_s,
 		""_s,
-		u"Nuorta-Ruon\u00e1eatnama geasse\u00e1igi"_s,
+		u"Nuorta-Ruonáeatnama geasseáigi"_s,
 		""_s,
-		u"Nuorta-Ruon\u00e1eatnama \u00e1igi"_s,
+		u"Nuorta-Ruonáeatnama áigi"_s,
 		""_s
 	}));
 	$var($StringArray, Greenland_Western, $new($StringArray, {
-		u"Oarje-Ruon\u00e1eatnama d\u00e1lve\u00e1igi"_s,
+		u"Oarje-Ruonáeatnama dálveáigi"_s,
 		""_s,
-		u"Oarje-Ruon\u00e1eatnama geasse\u00e1igi"_s,
+		u"Oarje-Ruonáeatnama geasseáigi"_s,
 		""_s,
-		u"Oarje-Ruon\u00e1eatnama \u00e1igi"_s,
+		u"Oarje-Ruonáeatnama áigi"_s,
 		""_s
 	}));
 	$var($StringArray, Indonesia_Central, $new($StringArray, {
-		u"Gaska-Indonesia \u00e1igi"_s,
+		u"Gaska-Indonesia áigi"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -1131,7 +1131,7 @@ $ObjectArray2* TimeZoneNames_se_FI::getContents() {
 		""_s
 	}));
 	$var($StringArray, Indonesia_Eastern, $new($StringArray, {
-		u"Nuorta-Indonesia \u00e1igi"_s,
+		u"Nuorta-Indonesia áigi"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -1139,7 +1139,7 @@ $ObjectArray2* TimeZoneNames_se_FI::getContents() {
 		""_s
 	}));
 	$var($StringArray, Indonesia_Western, $new($StringArray, {
-		u"Oarje-Indonesia \u00e1igi"_s,
+		u"Oarje-Indonesia áigi"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -1147,7 +1147,7 @@ $ObjectArray2* TimeZoneNames_se_FI::getContents() {
 		""_s
 	}));
 	$var($StringArray, Kazakhstan_Eastern, $new($StringArray, {
-		u"Nuorta-Kasakstana \u00e1igi"_s,
+		u"Nuorta-Kasakstana áigi"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -1155,7 +1155,7 @@ $ObjectArray2* TimeZoneNames_se_FI::getContents() {
 		""_s
 	}));
 	$var($StringArray, Kazakhstan_Western, $new($StringArray, {
-		u"Oarje-Kasakstana \u00e1igi"_s,
+		u"Oarje-Kasakstana áigi"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -1163,11 +1163,11 @@ $ObjectArray2* TimeZoneNames_se_FI::getContents() {
 		""_s
 	}));
 	$var($StringArray, Australia_CentralWestern, $new($StringArray, {
-		u"Gaska-Austr\u00e1lia oarjjabeali d\u00e1lve\u00e1igi"_s,
+		u"Gaska-Austrália oarjjabeali dálveáigi"_s,
 		""_s,
-		u"Gaska-Austr\u00e1lia oarjjabeali geasse\u00e1igi"_s,
+		u"Gaska-Austrália oarjjabeali geasseáigi"_s,
 		""_s,
-		u"Gaska-Austr\u00e1lia oarjjabeali \u00e1igi"_s,
+		u"Gaska-Austrália oarjjabeali áigi"_s,
 		""_s
 	}));
 	$var($ObjectArray2, data, $new($ObjectArray2, {
@@ -1810,9 +1810,9 @@ $ObjectArray2* TimeZoneNames_se_FI::getContents() {
 		$$new($ObjectArray, {
 			$of("Europe/Dublin"_s),
 			$of($$new($StringArray, {
-				u"Greenwicha \u00e1igi"_s,
+				u"Greenwicha áigi"_s,
 				"GMT"_s,
-				u"Irl\u00e1nddala\u0161 d\u00e1lve\u00e1igi"_s,
+				u"Irlánddalaš dálveáigi"_s,
 				""_s,
 				""_s,
 				""_s
@@ -1829,9 +1829,9 @@ $ObjectArray2* TimeZoneNames_se_FI::getContents() {
 		$$new($ObjectArray, {
 			$of("Europe/London"_s),
 			$of($$new($StringArray, {
-				u"Greenwicha \u00e1igi"_s,
+				u"Greenwicha áigi"_s,
 				"GMT"_s,
-				u"Brihtala\u0161 geasse\u00e1igi"_s,
+				u"Brihtalaš geasseáigi"_s,
 				""_s,
 				""_s,
 				""_s
@@ -2040,9 +2040,9 @@ $ObjectArray2* TimeZoneNames_se_FI::getContents() {
 		$$new($ObjectArray, {
 			$of("Europe/Belfast"_s),
 			$of($$new($StringArray, {
-				u"Greenwicha \u00e1igi"_s,
+				u"Greenwicha áigi"_s,
 				"GMT"_s,
-				u"Brihtala\u0161 geasse\u00e1igi"_s,
+				u"Brihtalaš geasseáigi"_s,
 				""_s,
 				""_s,
 				""_s
@@ -3018,7 +3018,7 @@ $ObjectArray2* TimeZoneNames_se_FI::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Etc/Unknown"_s),
-			$of(u"Dovdameahttun g\u00e1vpot"_s)
+			$of(u"Dovdameahttun gávpot"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Rome"_s),
@@ -3086,7 +3086,7 @@ $ObjectArray2* TimeZoneNames_se_FI::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Zurich"_s),
-			$of(u"Z\u00fcrich"_s)
+			$of(u"Zürich"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("America/Argentina/Rio_Gallegos"_s),
@@ -3098,7 +3098,7 @@ $ObjectArray2* TimeZoneNames_se_FI::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Kamchatka"_s),
-			$of(u"Kam\u010datka"_s)
+			$of(u"Kamčatka"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Atlantic/Azores"_s),
@@ -3106,7 +3106,7 @@ $ObjectArray2* TimeZoneNames_se_FI::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Atlantic/Canary"_s),
-			$of(u"Kan\u00e1ria"_s)
+			$of(u"Kanária"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Belgrade"_s),
@@ -3114,7 +3114,7 @@ $ObjectArray2* TimeZoneNames_se_FI::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Brussels"_s),
-			$of(u"Br\u00fcssel"_s)
+			$of(u"Brüssel"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Helsinki"_s),
@@ -3150,7 +3150,7 @@ $ObjectArray2* TimeZoneNames_se_FI::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Copenhagen"_s),
-			$of(u"K\u00f8benhavn"_s)
+			$of(u"København"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Luxembourg"_s),
@@ -3174,7 +3174,7 @@ $ObjectArray2* TimeZoneNames_se_FI::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Danmarkshavn"_s),
-			$of(u"D\u00e1nm\u00e1rkkuh\u00e1mman"_s)
+			$of(u"Dánmárkkuhámman"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Atlantic/South_Georgia"_s),
@@ -3186,7 +3186,7 @@ $ObjectArray2* TimeZoneNames_se_FI::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/North_Dakota/Center"_s),
-			$of(u"Guovdd\u00e1\u0161, Davvi-Dakota"_s)
+			$of(u"Guovddáš, Davvi-Dakota"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/North_Dakota/New_Salem"_s),

@@ -46,39 +46,39 @@ $ObjectArray2* CurrencyNames_ti::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("brl"_s),
-			$of(u"\u12e8\u1265\u122b\u12da\u120d \u122a\u120d"_s)
+			$of(u"የብራዚል ሪል"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cny"_s),
-			$of(u"\u12e8\u127b\u12ed\u1293 \u12e9\u12a0\u1295 \u1228\u1295\u121a\u1295\u1262"_s)
+			$of(u"የቻይና ዩአን ረንሚንቢ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("etb"_s),
-			$of(u"\u12e8\u12a2\u1275\u12ee\u1335\u12eb \u1265\u122d"_s)
+			$of(u"የኢትዮጵያ ብር"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("eur"_s),
-			$of(u"\u12a0\u12cd\u122e"_s)
+			$of(u"አውሮ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gbp"_s),
-			$of(u"\u12e8\u12a5\u1295\u130d\u120a\u12dd \u1353\u12cd\u1295\u12f5 \u1235\u1270\u122d\u120a\u1295\u130d"_s)
+			$of(u"የእንግሊዝ ፓውንድ ስተርሊንግ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("inr"_s),
-			$of(u"\u12e8\u1215\u1295\u12f5 \u1229\u1352"_s)
+			$of(u"የሕንድ ሩፒ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("jpy"_s),
-			$of(u"\u12e8\u1303\u1353\u1295 \u12e8\u1295"_s)
+			$of(u"የጃፓን የን"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("rub"_s),
-			$of(u"\u12e8\u122b\u123b \u1229\u1265\u120d"_s)
+			$of(u"የራሻ ሩብል"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("usd"_s),
-			$of(u"\u12e8\u12a0\u121c\u122a\u12ab\u1295 \u12f6\u120b\u122d"_s)
+			$of(u"የአሜሪካን ዶላር"_s)
 		})
 	}));
 	return data;

@@ -41,7 +41,7 @@ $ObjectArray2* CurrencyNames_en_MT::getContents() {
 	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {$$new($ObjectArray, {
 		$of("GBP"_s),
-		$of(u"GB\u00a3"_s)
+		$of(u"GB£"_s)
 	})}));
 	return data;
 }

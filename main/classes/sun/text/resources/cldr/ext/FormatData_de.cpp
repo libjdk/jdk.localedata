@@ -42,7 +42,7 @@ $ObjectArray2* FormatData_de::getContents() {
 	$var($StringArray, metaValue_MonthNames, $new($StringArray, {
 		"Januar"_s,
 		"Februar"_s,
-		u"M\u00e4rz"_s,
+		u"März"_s,
 		"April"_s,
 		"Mai"_s,
 		"Juni"_s,
@@ -57,7 +57,7 @@ $ObjectArray2* FormatData_de::getContents() {
 	$var($StringArray, metaValue_MonthAbbreviations, $new($StringArray, {
 		"Jan."_s,
 		"Feb."_s,
-		u"M\u00e4rz"_s,
+		u"März"_s,
 		"Apr."_s,
 		"Mai"_s,
 		"Juni"_s,
@@ -247,7 +247,7 @@ $ObjectArray2* FormatData_de::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.islamic-civil"_s),
-			$of(u"B\u00fcrgerlicher islamischer Kalender"_s)
+			$of(u"Bürgerlicher islamischer Kalender"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("islamic.narrow.AmPmMarkers"_s),
@@ -349,8 +349,8 @@ $ObjectArray2* FormatData_de::getContents() {
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
+				u"‰"_s,
+				u"∞"_s,
 				"NaN"_s,
 				""_s,
 				""_s
@@ -378,7 +378,7 @@ $ObjectArray2* FormatData_de::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.dayperiod"_s),
-			$of(u"Tagesh\u00e4lfte"_s)
+			$of(u"Tageshälfte"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("standalone.MonthNarrows"_s),
@@ -389,15 +389,15 @@ $ObjectArray2* FormatData_de::getContents() {
 			$of($$new($StringArray, {
 				"Muharram"_s,
 				"Safar"_s,
-				u"Rabi\u02bb I"_s,
-				u"Rabi\u02bb II"_s,
+				u"Rabiʻ I"_s,
+				u"Rabiʻ II"_s,
 				"Dschumada I"_s,
 				"Dschumada II"_s,
 				"Radschab"_s,
-				u"Sha\u02bbban"_s,
+				u"Shaʻban"_s,
 				"Ramadan"_s,
 				"Shawwal"_s,
-				u"Dhu l-qa\u02bfda"_s,
+				u"Dhu l-qaʿda"_s,
 				"Dhu l-Hiddscha"_s,
 				""_s
 			}))
@@ -475,7 +475,7 @@ $ObjectArray2* FormatData_de::getContents() {
 			$of($$new($StringArray, {
 				"Jan"_s,
 				"Feb"_s,
-				u"M\u00e4r"_s,
+				u"Mär"_s,
 				"Apr"_s,
 				"Mai"_s,
 				"Jun"_s,
@@ -701,15 +701,15 @@ $ObjectArray2* FormatData_de::getContents() {
 				"{one:0 other:0}"_s,
 				"{one:0 other:0}"_s,
 				"{one:0 other:0}"_s,
-				u"{one:0\u00a0Mio\'.\' other:0\u00a0Mio\'.\'}"_s,
-				u"{one:00\u00a0Mio\'.\' other:00\u00a0Mio\'.\'}"_s,
-				u"{one:000\u00a0Mio\'.\' other:000\u00a0Mio\'.\'}"_s,
-				u"{one:0\u00a0Mrd\'.\' other:0\u00a0Mrd\'.\'}"_s,
-				u"{one:00\u00a0Mrd\'.\' other:00\u00a0Mrd\'.\'}"_s,
-				u"{one:000\u00a0Mrd\'.\' other:000\u00a0Mrd\'.\'}"_s,
-				u"{one:0\u00a0Bio\'.\' other:0\u00a0Bio\'.\'}"_s,
-				u"{one:00\u00a0Bio\'.\' other:00\u00a0Bio\'.\'}"_s,
-				u"{one:000\u00a0Bio\'.\' other:000\u00a0Bio\'.\'}"_s
+				u"{one:0 Mio\'.\' other:0 Mio\'.\'}"_s,
+				u"{one:00 Mio\'.\' other:00 Mio\'.\'}"_s,
+				u"{one:000 Mio\'.\' other:000 Mio\'.\'}"_s,
+				u"{one:0 Mrd\'.\' other:0 Mrd\'.\'}"_s,
+				u"{one:00 Mrd\'.\' other:00 Mrd\'.\'}"_s,
+				u"{one:000 Mrd\'.\' other:000 Mrd\'.\'}"_s,
+				u"{one:0 Bio\'.\' other:0 Bio\'.\'}"_s,
+				u"{one:00 Bio\'.\' other:00 Bio\'.\'}"_s,
+				u"{one:000 Bio\'.\' other:000 Bio\'.\'}"_s
 			}))
 		}),
 		$$new($ObjectArray, {
@@ -773,9 +773,9 @@ $ObjectArray2* FormatData_de::getContents() {
 			$of("latn.NumberPatterns"_s),
 			$of($$new($StringArray, {
 				"#,##0.###"_s,
-				u"#,##0.00\u00a0\u00a4"_s,
-				u"#,##0\u00a0%"_s,
-				u"#,##0.00\u00a0\u00a4"_s
+				u"#,##0.00 ¤"_s,
+				u"#,##0 %"_s,
+				u"#,##0.00 ¤"_s
 			}))
 		}),
 		$$new($ObjectArray, {

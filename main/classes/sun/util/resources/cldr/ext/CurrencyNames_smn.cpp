@@ -42,11 +42,11 @@ $ObjectArray2* CurrencyNames_smn::getContents() {
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("dkk"_s),
-			$of(u"Tanska ruvn\u00e2"_s)
+			$of(u"Tanska ruvnâ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("eek"_s),
-			$of(u"Eesti ruvn\u00e2"_s)
+			$of(u"Eesti ruvnâ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("eur"_s),
@@ -54,11 +54,11 @@ $ObjectArray2* CurrencyNames_smn::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("fim"_s),
-			$of(u"Suom\u00e2 m\u00e4rkki"_s)
+			$of(u"Suomâ märkki"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("isk"_s),
-			$of(u"Island ruvn\u00e2"_s)
+			$of(u"Island ruvnâ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lvr"_s),
@@ -66,11 +66,11 @@ $ObjectArray2* CurrencyNames_smn::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("nok"_s),
-			$of(u"Taa\u017e\u00e2 ruvn\u00e2"_s)
+			$of(u"Taažâ ruvnâ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sek"_s),
-			$of(u"Ruot\u00e2 ruvn\u00e2"_s)
+			$of(u"Ruotâ ruvnâ"_s)
 		})
 	}));
 	return data;

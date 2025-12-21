@@ -50,27 +50,27 @@ $ObjectArray2* LocaleNames_nus::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("AG"_s),
-			$of(u"Antiguaa k\u025bn\u025b Barbuda"_s)
+			$of(u"Antiguaa kɛnɛ Barbuda"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("AI"_s),
-			$of(u"A\u014bgu\u025bla"_s)
+			$of(u"Aŋguɛla"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("AL"_s),
-			$of(u"Alb\u00e4nia"_s)
+			$of(u"Albänia"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("AM"_s),
-			$of(u"A\u025brm\u00e4nia"_s)
+			$of(u"Aɛrmänia"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("AO"_s),
-			$of(u"A\u014bgola"_s)
+			$of(u"Aŋgola"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("AR"_s),
-			$of(u"A\u025brgentin"_s)
+			$of(u"Aɛrgentin"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("AS"_s),
@@ -78,11 +78,11 @@ $ObjectArray2* LocaleNames_nus::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("AT"_s),
-			$of(u"Atht\u025bria"_s)
+			$of(u"Athtɛria"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("AU"_s),
-			$of(u"Ath\u0254ra\u0331lia"_s)
+			$of(u"Athɔra̱lia"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("AW"_s),
@@ -90,15 +90,15 @@ $ObjectArray2* LocaleNames_nus::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("AZ"_s),
-			$of(u"Adhe\u0331rbe\u0331ja\u0331n"_s)
+			$of(u"Adhe̱rbe̱ja̱n"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("BA"_s),
-			$of(u"Bothnia k\u025bn\u025b \u0263\u00e4rgobinia"_s)
+			$of(u"Bothnia kɛnɛ ɣärgobinia"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("BB"_s),
-			$of(u"B\u00e4rbadoth"_s)
+			$of(u"Bärbadoth"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("BD"_s),
@@ -106,19 +106,19 @@ $ObjectArray2* LocaleNames_nus::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("BE"_s),
-			$of(u"Be\u0331lgim"_s)
+			$of(u"Be̱lgim"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("BF"_s),
-			$of(u"Burkin\u025b pa\u0331thu"_s)
+			$of(u"Burkinɛ pa̱thu"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("BG"_s),
-			$of(u"Bulga\u0331a\u0331ria"_s)
+			$of(u"Bulga̱a̱ria"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("BH"_s),
-			$of(u"Ba\u0331reen"_s)
+			$of(u"Ba̱reen"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("BI"_s),
@@ -126,15 +126,15 @@ $ObjectArray2* LocaleNames_nus::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("BJ"_s),
-			$of(u"Be\u0331ni\u0331n"_s)
+			$of(u"Be̱ni̱n"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("BM"_s),
-			$of(u"Be\u0331rmudaa"_s)
+			$of(u"Be̱rmudaa"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("BN"_s),
-			$of(u"Burun\u025by"_s)
+			$of(u"Burunɛy"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("BO"_s),
@@ -142,15 +142,15 @@ $ObjectArray2* LocaleNames_nus::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("BR"_s),
-			$of(u"B\u00e4raadhiil"_s)
+			$of(u"Bäraadhiil"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("BS"_s),
-			$of(u"B\u00e4mu\u0254th"_s)
+			$of(u"Bämuɔth"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("BT"_s),
-			$of(u"Buta\u0331n"_s)
+			$of(u"Buta̱n"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("BW"_s),
@@ -158,7 +158,7 @@ $ObjectArray2* LocaleNames_nus::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("BY"_s),
-			$of(u"Be\u0331l\u025bruth"_s)
+			$of(u"Be̱lɛruth"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("BZ"_s),
@@ -166,31 +166,31 @@ $ObjectArray2* LocaleNames_nus::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("CA"_s),
-			$of(u"K\u00e4n\u025bda"_s)
+			$of(u"Känɛda"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("CF"_s),
-			$of(u"C\u025bntr\u0254l aprika repu\u0254blic"_s)
+			$of(u"Cɛntrɔl aprika repuɔblic"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("CG"_s),
-			$of(u"K\u0254\u014bg\u0254"_s)
+			$of(u"Kɔŋgɔ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("CI"_s),
-			$of(u"Kodibo\u0331o\u0331"_s)
+			$of(u"Kodibo̱o̱"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("CK"_s),
-			$of(u"Kuk \u0263a\u0331yl\u025bn"_s)
+			$of(u"Kuk ɣa̱ylɛn"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("CL"_s),
-			$of(u"Cili\u0331"_s)
+			$of(u"Cili̱"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("CM"_s),
-			$of(u"K\u025bm\u025brun"_s)
+			$of(u"Kɛmɛrun"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("CN"_s),
@@ -206,7 +206,7 @@ $ObjectArray2* LocaleNames_nus::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("CV"_s),
-			$of(u"K\u025bp bedi \u0263a\u0331yl\u025bn"_s)
+			$of(u"Kɛp bedi ɣa̱ylɛn"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("DZ"_s),
@@ -218,7 +218,7 @@ $ObjectArray2* LocaleNames_nus::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("IO"_s),
-			$of(u"Burutic \u0263e\u0331ndian oce\u0331n"_s)
+			$of(u"Burutic ɣe̱ndian oce̱n"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("KH"_s),
@@ -230,7 +230,7 @@ $ObjectArray2* LocaleNames_nus::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("KY"_s),
-			$of(u"Kaym\u025bn \u0263a\u0331yl\u025bn"_s)
+			$of(u"Kaymɛn ɣa̱ylɛn"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("SD"_s),
@@ -238,15 +238,15 @@ $ObjectArray2* LocaleNames_nus::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("TD"_s),
-			$of(u"Ca\u0331d"_s)
+			$of(u"Ca̱d"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("VG"_s),
-			$of(u"Burutic dhu\u0254\u0331\u0254\u0331l be\u0331rgin"_s)
+			$of(u"Burutic dhuɔ̱ɔ̱l be̱rgin"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ak"_s),
-			$of(u"Thok aka\u0331ni"_s)
+			$of(u"Thok aka̱ni"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("am"_s),
@@ -258,15 +258,15 @@ $ObjectArray2* LocaleNames_nus::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("be"_s),
-			$of(u"Thok b\u00e4l\u00e4rutha"_s)
+			$of(u"Thok bälärutha"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bg"_s),
-			$of(u"Thok b\u00e4lga\u0331a\u0331riani"_s)
+			$of(u"Thok bälga̱a̱riani"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bn"_s),
-			$of(u"Thok b\u00e4ngali"_s)
+			$of(u"Thok bängali"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cs"_s),
@@ -282,11 +282,11 @@ $ObjectArray2* LocaleNames_nus::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("en"_s),
-			$of(u"Thok li\u014bli\u0331thni"_s)
+			$of(u"Thok liŋli̱thni"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("es"_s),
-			$of(u"Thok i\u0331thpaaniani"_s)
+			$of(u"Thok i̱thpaaniani"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("fa"_s),
@@ -294,19 +294,19 @@ $ObjectArray2* LocaleNames_nus::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("fr"_s),
-			$of(u"Thok p\u0254r\u0254thani"_s)
+			$of(u"Thok pɔrɔthani"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ha"_s),
-			$of(u"Thok \u0263owthani"_s)
+			$of(u"Thok ɣowthani"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("hi"_s),
-			$of(u"Thok \u0263\u00e4ndini"_s)
+			$of(u"Thok ɣändini"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("hu"_s),
-			$of(u"Thok \u0263\u00e4nga\u0331a\u0331ri\u025bni"_s)
+			$of(u"Thok ɣänga̱a̱riɛni"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("id"_s),
@@ -314,11 +314,11 @@ $ObjectArray2* LocaleNames_nus::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ig"_s),
-			$of(u"Thok i\u0331gboni"_s)
+			$of(u"Thok i̱gboni"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("it"_s),
-			$of(u"Thok i\u0331taliani"_s)
+			$of(u"Thok i̱taliani"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ja"_s),
@@ -338,11 +338,11 @@ $ObjectArray2* LocaleNames_nus::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ms"_s),
-			$of(u"Thok may\u025byni"_s)
+			$of(u"Thok mayɛyni"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("my"_s),
-			$of(u"Thok bormi\u0331thni"_s)
+			$of(u"Thok bormi̱thni"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ne"_s),
@@ -350,27 +350,27 @@ $ObjectArray2* LocaleNames_nus::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("nl"_s),
-			$of(u"Thok da\u0331c"_s)
+			$of(u"Thok da̱c"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pa"_s),
-			$of(u"Thok pu\u0254njabani"_s)
+			$of(u"Thok puɔnjabani"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pl"_s),
-			$of(u"Thok p\u00f6licni"_s)
+			$of(u"Thok pölicni"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pt"_s),
-			$of(u"Thok pu\u0254tigali"_s)
+			$of(u"Thok puɔtigali"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ro"_s),
-			$of(u"Thok ji\u0331 r\u00f6m"_s)
+			$of(u"Thok ji̱ röm"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ru"_s),
-			$of(u"Thok ra\u0331ciaani"_s)
+			$of(u"Thok ra̱ciaani"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("rw"_s),
@@ -382,7 +382,7 @@ $ObjectArray2* LocaleNames_nus::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("sv"_s),
-			$of(u"Thok i\u0331thwidicni"_s)
+			$of(u"Thok i̱thwidicni"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ta"_s),

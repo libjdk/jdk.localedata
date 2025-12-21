@@ -610,7 +610,7 @@ $ObjectArray2* LocaleNames_xog::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("NF"_s),
-			$of(u"Kizinga ky\u2019eNorofoko"_s)
+			$of(u"Kizinga ky’eNorofoko"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("NG"_s),
@@ -890,7 +890,7 @@ $ObjectArray2* LocaleNames_xog::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("VI"_s),
-			$of(u"Ebizinga bya Virigini eby\u2019Amerika"_s)
+			$of(u"Ebizinga bya Virigini eby’Amerika"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("VN"_s),

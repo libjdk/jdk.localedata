@@ -134,7 +134,7 @@ $ObjectArray2* CurrencyNames_lu::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("jpy"_s),
-			$of(u"Yeni wa Zap\u0254"_s)
+			$of(u"Yeni wa Zapɔ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kes"_s),
@@ -166,7 +166,7 @@ $ObjectArray2* CurrencyNames_lu::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("mro"_s),
-			$of(u"Ugwiya wa Moritani (1973\u20132017)"_s)
+			$of(u"Ugwiya wa Moritani (1973–2017)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mru"_s),
@@ -226,7 +226,7 @@ $ObjectArray2* CurrencyNames_lu::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("std"_s),
-			$of(u"Dobra wa Sao Tome ne Presipe (1977\u20132017)"_s)
+			$of(u"Dobra wa Sao Tome ne Presipe (1977–2017)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("stn"_s),
@@ -266,7 +266,7 @@ $ObjectArray2* CurrencyNames_lu::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("zmk"_s),
-			$of(u"Kwasha wa Zambi (1968\u20132012)"_s)
+			$of(u"Kwasha wa Zambi (1968–2012)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("zmw"_s),

@@ -39,7 +39,7 @@ void CurrencyNames_he_IL::init$() {
 $ObjectArray2* CurrencyNames_he_IL::getContents() {
 	return $new($ObjectArray2, {$$new($ObjectArray, {
 		$of("ILS"_s),
-		$of(u"\u05e9\"\u05d7"_s)
+		$of(u"ש\"ח"_s)
 	})});
 }
 

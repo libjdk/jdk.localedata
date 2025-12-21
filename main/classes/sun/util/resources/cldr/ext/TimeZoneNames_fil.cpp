@@ -963,7 +963,7 @@ $ObjectArray2* TimeZoneNames_fil::getContents() {
 		""_s
 	}));
 	$var($StringArray, DumontDUrville, $new($StringArray, {
-		u"Oras sa Dumont-d\u2019Urville"_s,
+		u"Oras sa Dumont-d’Urville"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -3754,7 +3754,7 @@ $ObjectArray2* TimeZoneNames_fil::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Indian/Reunion"_s),
-			$of(u"R\u00e9union"_s)
+			$of(u"Réunion"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Pacific/Easter"_s),
@@ -4030,7 +4030,7 @@ $ObjectArray2* TimeZoneNames_fil::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Asuncion"_s),
-			$of(u"Asunci\u00f3n"_s)
+			$of(u"Asunción"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Barbados"_s),
@@ -4606,7 +4606,7 @@ $ObjectArray2* TimeZoneNames_fil::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/St_Barthelemy"_s),
-			$of(u"St. Barth\u00e9lemy"_s)
+			$of(u"St. Barthélemy"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Swift_Current"_s),

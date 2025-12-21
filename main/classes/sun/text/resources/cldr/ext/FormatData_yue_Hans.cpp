@@ -40,85 +40,85 @@ void FormatData_yue_Hans::init$() {
 $ObjectArray2* FormatData_yue_Hans::getContents() {
 	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_MonthNames, $new($StringArray, {
-		u"\u4e00\u6708"_s,
-		u"\u4e8c\u6708"_s,
-		u"\u4e09\u6708"_s,
-		u"\u56db\u6708"_s,
-		u"\u4e94\u6708"_s,
-		u"\u516d\u6708"_s,
-		u"\u4e03\u6708"_s,
-		u"\u516b\u6708"_s,
-		u"\u4e5d\u6708"_s,
-		u"\u5341\u6708"_s,
-		u"\u5341\u4e00\u6708"_s,
-		u"\u5341\u4e8c\u6708"_s,
+		u"一月"_s,
+		u"二月"_s,
+		u"三月"_s,
+		u"四月"_s,
+		u"五月"_s,
+		u"六月"_s,
+		u"七月"_s,
+		u"八月"_s,
+		u"九月"_s,
+		u"十月"_s,
+		u"十一月"_s,
+		u"十二月"_s,
 		""_s
 	}));
 	$var($StringArray, metaValue_MonthAbbreviations, $new($StringArray, {
-		u"1\u6708"_s,
-		u"2\u6708"_s,
-		u"3\u6708"_s,
-		u"4\u6708"_s,
-		u"5\u6708"_s,
-		u"6\u6708"_s,
-		u"7\u6708"_s,
-		u"8\u6708"_s,
-		u"9\u6708"_s,
-		u"10\u6708"_s,
-		u"11\u6708"_s,
-		u"12\u6708"_s,
+		u"1月"_s,
+		u"2月"_s,
+		u"3月"_s,
+		u"4月"_s,
+		u"5月"_s,
+		u"6月"_s,
+		u"7月"_s,
+		u"8月"_s,
+		u"9月"_s,
+		u"10月"_s,
+		u"11月"_s,
+		u"12月"_s,
 		""_s
 	}));
 	$var($StringArray, metaValue_DayNames, $new($StringArray, {
-		u"\u661f\u671f\u65e5"_s,
-		u"\u661f\u671f\u4e00"_s,
-		u"\u661f\u671f\u4e8c"_s,
-		u"\u661f\u671f\u4e09"_s,
-		u"\u661f\u671f\u56db"_s,
-		u"\u661f\u671f\u4e94"_s,
-		u"\u661f\u671f\u516d"_s
+		u"星期日"_s,
+		u"星期一"_s,
+		u"星期二"_s,
+		u"星期三"_s,
+		u"星期四"_s,
+		u"星期五"_s,
+		u"星期六"_s
 	}));
 	$var($StringArray, metaValue_DayAbbreviations, $new($StringArray, {
-		u"\u5468\u65e5"_s,
-		u"\u5468\u4e00"_s,
-		u"\u5468\u4e8c"_s,
-		u"\u5468\u4e09"_s,
-		u"\u5468\u56db"_s,
-		u"\u5468\u4e94"_s,
-		u"\u5468\u516d"_s
+		u"周日"_s,
+		u"周一"_s,
+		u"周二"_s,
+		u"周三"_s,
+		u"周四"_s,
+		u"周五"_s,
+		u"周六"_s
 	}));
 	$var($StringArray, metaValue_DayNarrows, $new($StringArray, {
-		u"\u65e5"_s,
-		u"\u4e00"_s,
-		u"\u4e8c"_s,
-		u"\u4e09"_s,
-		u"\u56db"_s,
-		u"\u4e94"_s,
-		u"\u516d"_s
+		u"日"_s,
+		u"一"_s,
+		u"二"_s,
+		u"三"_s,
+		u"四"_s,
+		u"五"_s,
+		u"六"_s
 	}));
 	$var($StringArray, metaValue_QuarterNames, $new($StringArray, {
-		u"\u7b2c1\u5b63"_s,
-		u"\u7b2c2\u5b63"_s,
-		u"\u7b2c3\u5b63"_s,
-		u"\u7b2c4\u5b63"_s
+		u"第1季"_s,
+		u"第2季"_s,
+		u"第3季"_s,
+		u"第4季"_s
 	}));
 	$var($StringArray, metaValue_AmPmMarkers, $new($StringArray, {
-		u"\u4e0a\u5348"_s,
-		u"\u4e0b\u5348"_s,
-		u"\u5348\u591c"_s,
+		u"上午"_s,
+		u"下午"_s,
+		u"午夜"_s,
 		""_s,
-		u"\u6e05\u6668"_s,
-		u"\u671d\u65e9"_s,
-		u"\u4e2d\u5348"_s,
-		u"\u4e0b\u663c"_s,
-		u"\u591c\u665a"_s,
+		u"清晨"_s,
+		u"朝早"_s,
+		u"中午"_s,
+		u"下昼"_s,
+		u"夜晚"_s,
 		""_s,
-		u"\u51cc\u6668"_s,
+		u"凌晨"_s,
 		""_s
 	}));
 	$var($StringArray, metaValue_long_Eras, $new($StringArray, {
-		u"\u897f\u5143\u524d"_s,
-		u"\u897f\u5143"_s
+		u"西元前"_s,
+		u"西元"_s
 	}));
 	$var($StringArray, metaValue_TimePatterns, $new($StringArray, {
 		"zzzz ah:mm:ss"_s,
@@ -155,56 +155,56 @@ $ObjectArray2* FormatData_yue_Hans::getContents() {
 	}));
 	$var($StringArray, metaValue_java_time_buddhist_long_Eras, $new($StringArray, {
 		"BC"_s,
-		u"\u4f5b\u5386"_s
+		u"佛历"_s
 	}));
 	$var($StringArray, metaValue_java_time_japanese_long_Eras, $new($StringArray, {
-		u"\u897f\u5143"_s,
-		u"\u660e\u6cbb"_s,
-		u"\u5927\u6b63"_s,
-		u"\u662d\u548c"_s,
-		u"\u5e73\u6210"_s,
-		u"\u4ee4\u548c"_s
+		u"西元"_s,
+		u"明治"_s,
+		u"大正"_s,
+		u"昭和"_s,
+		u"平成"_s,
+		u"令和"_s
 	}));
 	$var($StringArray, metaValue_java_time_roc_long_Eras, $new($StringArray, {
-		u"\u6c11\u56fd\u524d"_s,
-		u"\u6c11\u56fd"_s
+		u"民国前"_s,
+		u"民国"_s
 	}));
 	$var($StringArray, metaValue_islamic_MonthNames, $new($StringArray, {
-		u"\u7a46\u54c8\u5170\u59c6\u6708"_s,
-		u"\u8272\u6cd5\u5c14\u6708"_s,
-		u"\u8d56\u6bd4\u6708 I"_s,
-		u"\u8d56\u6bd4\u6708 II"_s,
-		u"\u4e3b\u9a6c\u8fbe\u6708 I"_s,
-		u"\u4e3b\u9a6c\u8fbe\u6708 II"_s,
-		u"\u8d56\u54f2\u535c\u6708"_s,
-		u"\u820d\u5c14\u90a6\u6708"_s,
-		u"\u8d56\u4e70\u4e39\u6708"_s,
-		u"\u95ea\u74e6\u9c81\u6708"_s,
-		u"\u90fd\u5c14\u5580\u5c14\u5fb7\u6708"_s,
-		u"\u90fd\u5c14\u9ed1\u54f2\u6708"_s,
+		u"穆哈兰姆月"_s,
+		u"色法尔月"_s,
+		u"赖比月 I"_s,
+		u"赖比月 II"_s,
+		u"主马达月 I"_s,
+		u"主马达月 II"_s,
+		u"赖哲卜月"_s,
+		u"舍尔邦月"_s,
+		u"赖买丹月"_s,
+		u"闪瓦鲁月"_s,
+		u"都尔喀尔德月"_s,
+		u"都尔黑哲月"_s,
 		""_s
 	}));
 	$var($StringArray, metaValue_java_time_islamic_long_Eras, $new($StringArray, {
 		""_s,
-		u"\u4f0a\u65af\u5170\u5386"_s
+		u"伊斯兰历"_s
 	}));
-	$var($String, metaValue_calendarname_gregorian, u"\u516c\u5386"_s);
+	$var($String, metaValue_calendarname_gregorian, u"公历"_s);
 	$var($StringArray, metaValue_short_CompactNumberPatterns, $new($StringArray, {
 		""_s,
 		""_s,
 		""_s,
 		"{other:0}"_s,
-		u"{other:0\u4e07}"_s,
-		u"{other:00\u4e07}"_s,
-		u"{other:000\u4e07}"_s,
-		u"{other:0000\u4e07}"_s,
-		u"{other:0\u4ebf}"_s,
-		u"{other:00\u4ebf}"_s,
-		u"{other:000\u4ebf}"_s,
-		u"{other:0000\u4ebf}"_s,
-		u"{other:0\u5146}"_s,
-		u"{other:00\u5146}"_s,
-		u"{other:000\u5146}"_s
+		u"{other:0万}"_s,
+		u"{other:00万}"_s,
+		u"{other:000万}"_s,
+		u"{other:0000万}"_s,
+		u"{other:0亿}"_s,
+		u"{other:00亿}"_s,
+		u"{other:000亿}"_s,
+		u"{other:0000亿}"_s,
+		u"{other:0兆}"_s,
+		u"{other:00兆}"_s,
+		u"{other:000兆}"_s
 	}));
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
@@ -213,11 +213,11 @@ $ObjectArray2* FormatData_yue_Hans::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.year"_s),
-			$of(u"\u5e74"_s)
+			$of(u"年"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.islamic-umalqura"_s),
-			$of(u"\u4e4c\u59c6\u5e93\u62c9\u5386"_s)
+			$of(u"乌姆库拉历"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("japanese.AmPmMarkers"_s),
@@ -234,9 +234,9 @@ $ObjectArray2* FormatData_yue_Hans::getContents() {
 		$$new($ObjectArray, {
 			$of("java.time.japanese.DatePatterns"_s),
 			$of($$new($StringArray, {
-				u"Gy\u5e74M\u6708d\u65e5EEEE"_s,
-				u"Gy\u5e74M\u6708d\u65e5"_s,
-				u"Gy\u5e74M\u6708d\u65e5"_s,
+				u"Gy年M月d日EEEE"_s,
+				u"Gy年M月d日"_s,
+				u"Gy年M月d日"_s,
 				"Gyy-MM-dd"_s
 			}))
 		}),
@@ -254,7 +254,7 @@ $ObjectArray2* FormatData_yue_Hans::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.islamic-civil"_s),
-			$of(u"\u4f0a\u65af\u5170\u6c11\u7528\u5386"_s)
+			$of(u"伊斯兰民用历"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("islamic.narrow.AmPmMarkers"_s),
@@ -282,7 +282,7 @@ $ObjectArray2* FormatData_yue_Hans::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.japanese"_s),
-			$of(u"\u65e5\u672c\u5386"_s)
+			$of(u"日本历"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("japanese.MonthNames"_s),
@@ -339,9 +339,9 @@ $ObjectArray2* FormatData_yue_Hans::getContents() {
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
-				u"\u975e\u6570\u503c"_s,
+				u"‰"_s,
+				u"∞"_s,
+				u"非数值"_s,
 				""_s,
 				""_s
 			}))
@@ -349,9 +349,9 @@ $ObjectArray2* FormatData_yue_Hans::getContents() {
 		$$new($ObjectArray, {
 			$of("japanese.DatePatterns"_s),
 			$of($$new($StringArray, {
-				u"GGGGy\u5e74M\u6708d\u65e5EEEE"_s,
-				u"GGGGy\u5e74M\u6708d\u65e5"_s,
-				u"GGGGy\u5e74M\u6708d\u65e5"_s,
+				u"GGGGy年M月d日EEEE"_s,
+				u"GGGGy年M月d日"_s,
+				u"GGGGy年M月d日"_s,
 				"GGGGyy-MM-dd"_s
 			}))
 		}),
@@ -361,7 +361,7 @@ $ObjectArray2* FormatData_yue_Hans::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.minute"_s),
-			$of(u"\u5206\u949f"_s)
+			$of(u"分钟"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("japanese.long.Eras"_s),
@@ -369,7 +369,7 @@ $ObjectArray2* FormatData_yue_Hans::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.era"_s),
-			$of(u"\u5e74\u4ee3"_s)
+			$of(u"年代"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("buddhist.AmPmMarkers"_s),
@@ -377,7 +377,7 @@ $ObjectArray2* FormatData_yue_Hans::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.dayperiod"_s),
-			$of(u"\u4e0a\u5348/\u4e0b\u5348"_s)
+			$of(u"上午/下午"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("islamic.MonthNames"_s),
@@ -389,14 +389,14 @@ $ObjectArray2* FormatData_yue_Hans::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.roc"_s),
-			$of(u"\u6c11\u56fd\u5386"_s)
+			$of(u"民国历"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("islamic.DatePatterns"_s),
 			$of($$new($StringArray, {
-				u"GGGGy\u5e74M\u6708d\u65e5EEEE"_s,
-				u"GGGGy\u5e74M\u6708d\u65e5"_s,
-				u"GGGGy\u5e74M\u6708d\u65e5"_s,
+				u"GGGGy年M月d日EEEE"_s,
+				u"GGGGy年M月d日"_s,
+				u"GGGGy年M月d日"_s,
 				"GGGGy/M/d"_s
 			}))
 		}),
@@ -410,7 +410,7 @@ $ObjectArray2* FormatData_yue_Hans::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.month"_s),
-			$of(u"\u6708"_s)
+			$of(u"月"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("java.time.japanese.long.Eras"_s),
@@ -422,7 +422,7 @@ $ObjectArray2* FormatData_yue_Hans::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.second"_s),
-			$of(u"\u79d2"_s)
+			$of(u"秒"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("DayAbbreviations"_s),
@@ -435,15 +435,15 @@ $ObjectArray2* FormatData_yue_Hans::getContents() {
 		$$new($ObjectArray, {
 			$of("roc.DatePatterns"_s),
 			$of($$new($StringArray, {
-				u"GGGGy\u5e74M\u6708d\u65e5EEEE"_s,
-				u"GGGGy\u5e74M\u6708d\u65e5"_s,
-				u"GGGGy\u5e74M\u6708d\u65e5"_s,
+				u"GGGGy年M月d日EEEE"_s,
+				u"GGGGy年M月d日"_s,
+				u"GGGGy年M月d日"_s,
 				"GGGGyy/M/d"_s
 			}))
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.islamic"_s),
-			$of(u"\u4f0a\u65af\u5170\u5386"_s)
+			$of(u"伊斯兰历"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("java.time.roc.long.Eras"_s),
@@ -471,7 +471,7 @@ $ObjectArray2* FormatData_yue_Hans::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.regionFormat"_s),
-			$of(u"{0}\u65f6\u95f4"_s)
+			$of(u"{0}时间"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("roc.narrow.AmPmMarkers"_s),
@@ -529,14 +529,14 @@ $ObjectArray2* FormatData_yue_Hans::getContents() {
 			$of("hanidec.NumberPatterns"_s),
 			$of($$new($StringArray, {
 				"#,##0.###"_s,
-				u"\u00a4#,##0.00"_s,
+				u"¤#,##0.00"_s,
 				"#,##0%"_s,
 				""_s
 			}))
 		}),
 		$$new($ObjectArray, {
 			$of("field.zone"_s),
-			$of(u"\u65f6\u533a"_s)
+			$of(u"时区"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("japanese.QuarterAbbreviations"_s),
@@ -569,8 +569,8 @@ $ObjectArray2* FormatData_yue_Hans::getContents() {
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
+				u"‰"_s,
+				u"∞"_s,
 				"NaN"_s,
 				""_s,
 				""_s
@@ -591,15 +591,15 @@ $ObjectArray2* FormatData_yue_Hans::getContents() {
 		$$new($ObjectArray, {
 			$of("java.time.islamic.DatePatterns"_s),
 			$of($$new($StringArray, {
-				u"Gy\u5e74M\u6708d\u65e5EEEE"_s,
-				u"Gy\u5e74M\u6708d\u65e5"_s,
-				u"Gy\u5e74M\u6708d\u65e5"_s,
+				u"Gy年M月d日EEEE"_s,
+				u"Gy年M月d日"_s,
+				u"Gy年M月d日"_s,
 				"Gy/M/d"_s
 			}))
 		}),
 		$$new($ObjectArray, {
 			$of("field.weekday"_s),
-			$of(u"\u5468\u5929"_s)
+			$of(u"周天"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("japanese.MonthAbbreviations"_s),
@@ -648,9 +648,9 @@ $ObjectArray2* FormatData_yue_Hans::getContents() {
 		$$new($ObjectArray, {
 			$of("buddhist.DatePatterns"_s),
 			$of($$new($StringArray, {
-				u"GGGGy\u5e74M\u6708d\u65e5EEEE"_s,
-				u"GGGGy\u5e74M\u6708d\u65e5"_s,
-				u"GGGGy\u5e74M\u6708d\u65e5"_s,
+				u"GGGGy年M月d日EEEE"_s,
+				u"GGGGy年M月d日"_s,
+				u"GGGGy年M月d日"_s,
 				"GGGGy-M-d"_s
 			}))
 		}),
@@ -664,7 +664,7 @@ $ObjectArray2* FormatData_yue_Hans::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.week"_s),
-			$of(u"\u5468"_s)
+			$of(u"周"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("buddhist.QuarterNames"_s),
@@ -689,18 +689,18 @@ $ObjectArray2* FormatData_yue_Hans::getContents() {
 		$$new($ObjectArray, {
 			$of("java.time.buddhist.DatePatterns"_s),
 			$of($$new($StringArray, {
-				u"Gy\u5e74M\u6708d\u65e5EEEE"_s,
-				u"Gy\u5e74M\u6708d\u65e5"_s,
-				u"Gy\u5e74M\u6708d\u65e5"_s,
+				u"Gy年M月d日EEEE"_s,
+				u"Gy年M月d日"_s,
+				u"Gy年M月d日"_s,
 				"Gy-M-d"_s
 			}))
 		}),
 		$$new($ObjectArray, {
 			$of("java.time.roc.DatePatterns"_s),
 			$of($$new($StringArray, {
-				u"Gy\u5e74M\u6708d\u65e5EEEE"_s,
-				u"Gy\u5e74M\u6708d\u65e5"_s,
-				u"Gy\u5e74M\u6708d\u65e5"_s,
+				u"Gy年M月d日EEEE"_s,
+				u"Gy年M月d日"_s,
+				u"Gy年M月d日"_s,
 				"Gyy/M/d"_s
 			}))
 		}),
@@ -719,9 +719,9 @@ $ObjectArray2* FormatData_yue_Hans::getContents() {
 		$$new($ObjectArray, {
 			$of("DatePatterns"_s),
 			$of($$new($StringArray, {
-				u"y\u5e74M\u6708d\u65e5EEEE"_s,
-				u"y\u5e74M\u6708d\u65e5"_s,
-				u"y\u5e74M\u6708d\u65e5"_s,
+				u"y年M月d日EEEE"_s,
+				u"y年M月d日"_s,
+				u"y年M月d日"_s,
 				"y/M/d"_s
 			}))
 		}),
@@ -747,7 +747,7 @@ $ObjectArray2* FormatData_yue_Hans::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.hour"_s),
-			$of(u"\u5c0f\u65f6"_s)
+			$of(u"小时"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("islamic.MonthAbbreviations"_s),
@@ -759,7 +759,7 @@ $ObjectArray2* FormatData_yue_Hans::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.buddhist"_s),
-			$of(u"\u4f5b\u5386"_s)
+			$of(u"佛历"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("standalone.MonthNames"_s),
@@ -769,9 +769,9 @@ $ObjectArray2* FormatData_yue_Hans::getContents() {
 			$of("latn.NumberPatterns"_s),
 			$of($$new($StringArray, {
 				"#,##0.###"_s,
-				u"\u00a4#,##0.00"_s,
+				u"¤#,##0.00"_s,
 				"#,##0%"_s,
-				u"\u00a4#,##0.00;(\u00a4#,##0.00)"_s
+				u"¤#,##0.00;(¤#,##0.00)"_s
 			}))
 		}),
 		$$new($ObjectArray, {

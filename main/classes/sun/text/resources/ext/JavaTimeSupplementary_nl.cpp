@@ -89,7 +89,7 @@ $ObjectArray2* JavaTimeSupplementary_nl::getContents() {
 	}));
 	$var($StringArray, sharedEras, $new($StringArray, {
 		""_s,
-		u"Sa\u02bbna Hizjria"_s
+		u"Saʻna Hizjria"_s
 	}));
 	$var($StringArray, sharedJavaTimeDatePatterns, $new($StringArray, {
 		"EEEE d MMMM y G"_s,
@@ -229,15 +229,15 @@ $ObjectArray2* JavaTimeSupplementary_nl::getContents() {
 			$of($$new($StringArray, {
 				"Moeharram"_s,
 				"Safar"_s,
-				u"Rabi\u02bba al awal"_s,
-				u"Rabi\u02bba al thani"_s,
-				u"Joemad\u02bbal awal"_s,
-				u"Joemad\u02bbal thani"_s,
+				u"Rabiʻa al awal"_s,
+				u"Rabiʻa al thani"_s,
+				u"Joemadʻal awal"_s,
+				u"Joemadʻal thani"_s,
 				"Rajab"_s,
-				u"Sja\u02bbaban"_s,
+				u"Sjaʻaban"_s,
 				"Ramadan"_s,
 				"Sjawal"_s,
-				u"Doe al ka\u02bbaba"_s,
+				u"Doe al kaʻaba"_s,
 				"Doe al hizja"_s,
 				""_s
 			}))
@@ -294,8 +294,8 @@ $ObjectArray2* JavaTimeSupplementary_nl::getContents() {
 			$of($$new($StringArray, {
 				"na Christus"_s,
 				"Meiji"_s,
-				u"Taish\u014d"_s,
-				u"Sh\u014dwa"_s,
+				u"Taishō"_s,
+				u"Shōwa"_s,
 				"Heisei"_s,
 				"Reiwa"_s
 			}))
@@ -305,8 +305,8 @@ $ObjectArray2* JavaTimeSupplementary_nl::getContents() {
 			$of($$new($StringArray, {
 				"n.Chr."_s,
 				"Meiji"_s,
-				u"Taish\u014d"_s,
-				u"Sh\u014dwa"_s,
+				u"Taishō"_s,
+				u"Shōwa"_s,
 				"Heisei"_s,
 				"Reiwa"_s
 			}))

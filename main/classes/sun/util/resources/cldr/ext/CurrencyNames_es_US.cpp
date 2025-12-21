@@ -42,7 +42,7 @@ $ObjectArray2* CurrencyNames_es_US::getContents() {
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("JPY"_s),
-			$of(u"\u00a5"_s)
+			$of(u"¥"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("USD"_s),
@@ -50,11 +50,11 @@ $ObjectArray2* CurrencyNames_es_US::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("bdt"_s),
-			$of(u"taka banglades\u00ed"_s)
+			$of(u"taka bangladesí"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("btn"_s),
-			$of(u"ngultrum butan\u00e9s"_s)
+			$of(u"ngultrum butanés"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("etb"_s),
@@ -78,7 +78,7 @@ $ObjectArray2* CurrencyNames_es_US::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("xaf"_s),
-			$of(u"franco CFA de \u00c1frica central"_s)
+			$of(u"franco CFA de África central"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("zmw"_s),

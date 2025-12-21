@@ -41,12 +41,12 @@ $ObjectArray2* FormatData_dyo::getContents() {
 	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_MonthNames, $new($StringArray, {
 		"Sanvie"_s,
-		u"F\u00e9birie"_s,
+		u"Fébirie"_s,
 		"Mars"_s,
 		"Aburil"_s,
 		"Mee"_s,
-		u"Sue\u014b"_s,
-		u"S\u00fauyee"_s,
+		u"Sueŋ"_s,
+		u"Súuyee"_s,
 		"Ut"_s,
 		"Settembar"_s,
 		"Oktobar"_s,
@@ -61,7 +61,7 @@ $ObjectArray2* FormatData_dyo::getContents() {
 		"Ab"_s,
 		"Me"_s,
 		"Su"_s,
-		u"S\u00fa"_s,
+		u"Sú"_s,
 		"Ut"_s,
 		"Se"_s,
 		"Ok"_s,
@@ -86,7 +86,7 @@ $ObjectArray2* FormatData_dyo::getContents() {
 	}));
 	$var($StringArray, metaValue_DayNames, $new($StringArray, {
 		"Dimas"_s,
-		u"Tene\u014b"_s,
+		u"Teneŋ"_s,
 		"Talata"_s,
 		"Alarbay"_s,
 		"Aramisay"_s,
@@ -189,8 +189,8 @@ $ObjectArray2* FormatData_dyo::getContents() {
 		$$new($ObjectArray, {
 			$of("long.Eras"_s),
 			$of($$new($StringArray, {
-				u"Ari\u014buu Yeesu"_s,
-				u"Atoo\u014be Yeesu"_s
+				u"Ariŋuu Yeesu"_s,
+				u"Atooŋe Yeesu"_s
 			}))
 		}),
 		$$new($ObjectArray, {
@@ -213,15 +213,15 @@ $ObjectArray2* FormatData_dyo::getContents() {
 			$of("latn.NumberElements"_s),
 			$of($$new($StringArray, {
 				","_s,
-				u"\u00a0"_s,
+				u" "_s,
 				";"_s,
 				"%"_s,
 				"0"_s,
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
+				u"‰"_s,
+				u"∞"_s,
 				"NaN"_s,
 				""_s,
 				""_s
@@ -253,7 +253,7 @@ $ObjectArray2* FormatData_dyo::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.dayperiod"_s),
-			$of(u"Bujom / Kal\u00edim"_s)
+			$of(u"Bujom / Kalíim"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("standalone.MonthNarrows"_s),
@@ -277,7 +277,7 @@ $ObjectArray2* FormatData_dyo::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.month"_s),
-			$of(u"Fulee\u014b"_s)
+			$of(u"Fuleeŋ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("buddhist.DatePatterns"_s),
@@ -289,7 +289,7 @@ $ObjectArray2* FormatData_dyo::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.week"_s),
-			$of(u"L\u00f3oku\u014b"_s)
+			$of(u"Lóokuŋ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("DayAbbreviations"_s),
@@ -356,7 +356,7 @@ $ObjectArray2* FormatData_dyo::getContents() {
 			$of("latn.NumberPatterns"_s),
 			$of($$new($StringArray, {
 				"#,##0.###"_s,
-				u"#,##0.00\u00a0\u00a4"_s,
+				u"#,##0.00 ¤"_s,
 				"#,##0%"_s,
 				""_s
 			}))

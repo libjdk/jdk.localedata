@@ -61,22 +61,22 @@ $ObjectArray2* JavaTimeSupplementary_sv::getContents() {
 		"GGGG y-MM-dd"_s
 	}));
 	$var($StringArray, sharedDayAbbreviations, $new($StringArray, {
-		u"s\u00f6n"_s,
-		u"m\u00e5n"_s,
+		u"sön"_s,
+		u"mån"_s,
 		"tis"_s,
 		"ons"_s,
 		"tors"_s,
 		"fre"_s,
-		u"l\u00f6r"_s
+		u"lör"_s
 	}));
 	$var($StringArray, sharedDayNames, $new($StringArray, {
-		u"s\u00f6ndag"_s,
-		u"m\u00e5ndag"_s,
+		u"söndag"_s,
+		u"måndag"_s,
 		"tisdag"_s,
 		"onsdag"_s,
 		"torsdag"_s,
 		"fredag"_s,
-		u"l\u00f6rdag"_s
+		u"lördag"_s
 	}));
 	$var($StringArray, sharedDayNarrows, $new($StringArray, {
 		"S"_s,
@@ -100,11 +100,11 @@ $ObjectArray2* JavaTimeSupplementary_sv::getContents() {
 		"G y-MM-dd"_s
 	}));
 	$var($StringArray, sharedJavaTimeLongEras, $new($StringArray, {
-		u"f\u00f6re Kristus"_s,
+		u"före Kristus"_s,
 		"efter Kristus"_s
 	}));
 	$var($StringArray, sharedEras, $new($StringArray, {
-		u"f\u00f6re R.K."_s,
+		u"före R.K."_s,
 		"R.K."_s
 	}));
 	return $new($ObjectArray2, {
@@ -166,7 +166,7 @@ $ObjectArray2* JavaTimeSupplementary_sv::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.month"_s),
-			$of(u"m\u00e5nad"_s)
+			$of(u"månad"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("field.second"_s),
@@ -182,7 +182,7 @@ $ObjectArray2* JavaTimeSupplementary_sv::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.year"_s),
-			$of(u"\u00e5r"_s)
+			$of(u"år"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("field.zone"_s),
@@ -213,15 +213,15 @@ $ObjectArray2* JavaTimeSupplementary_sv::getContents() {
 			$of($$new($StringArray, {
 				"muharram"_s,
 				"safar"_s,
-				u"rabi\u2019 al-awwal"_s,
-				u"rabi\u2019 al-akhir"_s,
+				u"rabi’ al-awwal"_s,
+				u"rabi’ al-akhir"_s,
 				"jumada-l-ula"_s,
 				"jumada-l-akhira"_s,
 				"rajab"_s,
-				u"sha\u2019ban"_s,
+				u"sha’ban"_s,
 				"ramadan"_s,
 				"shawwal"_s,
-				u"dhu-l-ga\u2019da"_s,
+				u"dhu-l-ga’da"_s,
 				"dhu-l-hijja"_s,
 				""_s
 			}))
@@ -270,8 +270,8 @@ $ObjectArray2* JavaTimeSupplementary_sv::getContents() {
 			$of($$new($StringArray, {
 				"efter Kristus"_s,
 				"Meiji"_s,
-				u"Taish\u014d"_s,
-				u"Sh\u014dwa"_s,
+				u"Taishō"_s,
+				u"Shōwa"_s,
 				"Heisei"_s,
 				"Reiwa"_s
 			}))
@@ -281,8 +281,8 @@ $ObjectArray2* JavaTimeSupplementary_sv::getContents() {
 			$of($$new($StringArray, {
 				"e.Kr."_s,
 				"Meiji"_s,
-				u"Taish\u014d"_s,
-				u"Sh\u014dwa"_s,
+				u"Taishō"_s,
+				u"Shōwa"_s,
 				"Heisei"_s,
 				"Reiwa"_s
 			}))
@@ -411,7 +411,7 @@ $ObjectArray2* JavaTimeSupplementary_sv::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.hourFormat"_s),
-			$of(u"+HH:mm;\u2212HH:mm"_s)
+			$of(u"+HH:mm;−HH:mm"_s)
 		})
 	});
 }

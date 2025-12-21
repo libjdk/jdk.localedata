@@ -39,7 +39,7 @@ void CurrencyNames_ar_JO::init$() {
 $ObjectArray2* CurrencyNames_ar_JO::getContents() {
 	return $new($ObjectArray2, {$$new($ObjectArray, {
 		$of("JOD"_s),
-		$of(u"\u062f.\u0623.\u200f"_s)
+		$of(u"د.أ.\u200f"_s)
 	})});
 }
 

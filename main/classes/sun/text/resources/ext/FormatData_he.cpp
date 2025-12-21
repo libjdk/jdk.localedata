@@ -42,54 +42,54 @@ $ObjectArray2* FormatData_he::getContents() {
 		$$new($ObjectArray, {
 			$of("MonthNames"_s),
 			$of($$new($StringArray, {
-				u"\u05d9\u05e0\u05d5\u05d0\u05e8"_s,
-				u"\u05e4\u05d1\u05e8\u05d5\u05d0\u05e8"_s,
-				u"\u05de\u05e8\u05e5"_s,
-				u"\u05d0\u05e4\u05e8\u05d9\u05dc"_s,
-				u"\u05de\u05d0\u05d9"_s,
-				u"\u05d9\u05d5\u05e0\u05d9"_s,
-				u"\u05d9\u05d5\u05dc\u05d9"_s,
-				u"\u05d0\u05d5\u05d2\u05d5\u05e1\u05d8"_s,
-				u"\u05e1\u05e4\u05d8\u05de\u05d1\u05e8"_s,
-				u"\u05d0\u05d5\u05e7\u05d8\u05d5\u05d1\u05e8"_s,
-				u"\u05e0\u05d5\u05d1\u05de\u05d1\u05e8"_s,
-				u"\u05d3\u05e6\u05de\u05d1\u05e8"_s,
+				u"ינואר"_s,
+				u"פברואר"_s,
+				u"מרץ"_s,
+				u"אפריל"_s,
+				u"מאי"_s,
+				u"יוני"_s,
+				u"יולי"_s,
+				u"אוגוסט"_s,
+				u"ספטמבר"_s,
+				u"אוקטובר"_s,
+				u"נובמבר"_s,
+				u"דצמבר"_s,
 				""_s
 			}))
 		}),
 		$$new($ObjectArray, {
 			$of("MonthAbbreviations"_s),
 			$of($$new($StringArray, {
-				u"\u05d9\u05e0\u05d5"_s,
-				u"\u05e4\u05d1\u05e8"_s,
-				u"\u05de\u05e8\u05e5"_s,
-				u"\u05d0\u05e4\u05e8"_s,
-				u"\u05de\u05d0\u05d9"_s,
-				u"\u05d9\u05d5\u05e0"_s,
-				u"\u05d9\u05d5\u05dc"_s,
-				u"\u05d0\u05d5\u05d2"_s,
-				u"\u05e1\u05e4\u05d8"_s,
-				u"\u05d0\u05d5\u05e7"_s,
-				u"\u05e0\u05d5\u05d1"_s,
-				u"\u05d3\u05e6\u05de"_s,
+				u"ינו"_s,
+				u"פבר"_s,
+				u"מרץ"_s,
+				u"אפר"_s,
+				u"מאי"_s,
+				u"יונ"_s,
+				u"יול"_s,
+				u"אוג"_s,
+				u"ספט"_s,
+				u"אוק"_s,
+				u"נוב"_s,
+				u"דצמ"_s,
 				""_s
 			}))
 		}),
 		$$new($ObjectArray, {
 			$of("standalone.MonthAbbreviations"_s),
 			$of($$new($StringArray, {
-				u"\u05d9\u05e0\u05d5\u05f3"_s,
-				u"\u05e4\u05d1\u05e8\u05f3"_s,
-				u"\u05de\u05e8\u05e5"_s,
-				u"\u05d0\u05e4\u05e8\u05f3"_s,
-				u"\u05de\u05d0\u05d9"_s,
-				u"\u05d9\u05d5\u05e0\u05f3"_s,
-				u"\u05d9\u05d5\u05dc\u05f3"_s,
-				u"\u05d0\u05d5\u05d2\u05f3"_s,
-				u"\u05e1\u05e4\u05d8\u05f3"_s,
-				u"\u05d0\u05d5\u05e7\u05f3"_s,
-				u"\u05e0\u05d5\u05d1\u05f3"_s,
-				u"\u05d3\u05e6\u05de\u05f3"_s,
+				u"ינו׳"_s,
+				u"פבר׳"_s,
+				u"מרץ"_s,
+				u"אפר׳"_s,
+				u"מאי"_s,
+				u"יונ׳"_s,
+				u"יול׳"_s,
+				u"אוג׳"_s,
+				u"ספט׳"_s,
+				u"אוק׳"_s,
+				u"נוב׳"_s,
+				u"דצמ׳"_s,
 				""_s
 			}))
 		}),
@@ -114,63 +114,63 @@ $ObjectArray2* FormatData_he::getContents() {
 		$$new($ObjectArray, {
 			$of("DayNames"_s),
 			$of($$new($StringArray, {
-				u"\u05d9\u05d5\u05dd \u05e8\u05d0\u05e9\u05d5\u05df"_s,
-				u"\u05d9\u05d5\u05dd \u05e9\u05e0\u05d9"_s,
-				u"\u05d9\u05d5\u05dd \u05e9\u05dc\u05d9\u05e9\u05d9"_s,
-				u"\u05d9\u05d5\u05dd \u05e8\u05d1\u05d9\u05e2\u05d9"_s,
-				u"\u05d9\u05d5\u05dd \u05d7\u05de\u05d9\u05e9\u05d9"_s,
-				u"\u05d9\u05d5\u05dd \u05e9\u05d9\u05e9\u05d9"_s,
-				u"\u05e9\u05d1\u05ea"_s
+				u"יום ראשון"_s,
+				u"יום שני"_s,
+				u"יום שלישי"_s,
+				u"יום רביעי"_s,
+				u"יום חמישי"_s,
+				u"יום שישי"_s,
+				u"שבת"_s
 			}))
 		}),
 		$$new($ObjectArray, {
 			$of("DayAbbreviations"_s),
 			$of($$new($StringArray, {
-				u"\u05d0"_s,
-				u"\u05d1"_s,
-				u"\u05d2"_s,
-				u"\u05d3"_s,
-				u"\u05d4"_s,
-				u"\u05d5"_s,
-				u"\u05e9"_s
+				u"א"_s,
+				u"ב"_s,
+				u"ג"_s,
+				u"ד"_s,
+				u"ה"_s,
+				u"ו"_s,
+				u"ש"_s
 			}))
 		}),
 		$$new($ObjectArray, {
 			$of("DayNarrows"_s),
 			$of($$new($StringArray, {
-				u"\u05d0"_s,
-				u"\u05d1"_s,
-				u"\u05d2"_s,
-				u"\u05d3"_s,
-				u"\u05d4"_s,
-				u"\u05d5"_s,
-				u"\u05e9"_s
+				u"א"_s,
+				u"ב"_s,
+				u"ג"_s,
+				u"ד"_s,
+				u"ה"_s,
+				u"ו"_s,
+				u"ש"_s
 			}))
 		}),
 		$$new($ObjectArray, {
 			$of("standalone.DayNarrows"_s),
 			$of($$new($StringArray, {
-				u"\u05d0"_s,
-				u"\u05d1"_s,
-				u"\u05d2"_s,
-				u"\u05d3"_s,
-				u"\u05d4"_s,
-				u"\u05d5"_s,
-				u"\u05e9"_s
+				u"א"_s,
+				u"ב"_s,
+				u"ג"_s,
+				u"ד"_s,
+				u"ה"_s,
+				u"ו"_s,
+				u"ש"_s
 			}))
 		}),
 		$$new($ObjectArray, {
 			$of("Eras"_s),
 			$of($$new($StringArray, {
-				u"\u05dc\u05e1\u05d4\"\u05e0"_s,
-				u"\u05dc\u05e4\u05e1\u05d4\"\u05e0"_s
+				u"לסה\"נ"_s,
+				u"לפסה\"נ"_s
 			}))
 		}),
 		$$new($ObjectArray, {
 			$of("short.Eras"_s),
 			$of($$new($StringArray, {
-				u"\u05dc\u05e4\u05e0\u05d4\u05f4\u05e1"_s,
-				u"\u05dc\u05e1\u05d4\u05f4\u05e0"_s
+				u"לפנה״ס"_s,
+				u"לסה״נ"_s
 			}))
 		}),
 		$$new($ObjectArray, {

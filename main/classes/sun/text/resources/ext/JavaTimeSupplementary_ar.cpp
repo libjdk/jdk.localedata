@@ -39,56 +39,56 @@ void JavaTimeSupplementary_ar::init$() {
 $ObjectArray2* JavaTimeSupplementary_ar::getContents() {
 	$useLocalCurrentObjectStackCache();
 	$var($StringArray, sharedQuarterNames, $new($StringArray, {
-		u"\u0627\u0644\u0631\u0628\u0639 \u0627\u0644\u0623\u0648\u0644"_s,
-		u"\u0627\u0644\u0631\u0628\u0639 \u0627\u0644\u062b\u0627\u0646\u064a"_s,
-		u"\u0627\u0644\u0631\u0628\u0639 \u0627\u0644\u062b\u0627\u0644\u062b"_s,
-		u"\u0627\u0644\u0631\u0628\u0639 \u0627\u0644\u0631\u0627\u0628\u0639"_s
+		u"الربع الأول"_s,
+		u"الربع الثاني"_s,
+		u"الربع الثالث"_s,
+		u"الربع الرابع"_s
 	}));
 	$var($StringArray, sharedQuarterNarrows, $new($StringArray, {
-		u"\u0661"_s,
-		u"\u0662"_s,
-		u"\u0663"_s,
-		u"\u0664"_s
+		u"١"_s,
+		u"٢"_s,
+		u"٣"_s,
+		u"٤"_s
 	}));
 	$var($StringArray, sharedAmPmMarkers, $new($StringArray, {
-		u"\u0635"_s,
-		u"\u0645"_s
+		u"ص"_s,
+		u"م"_s
 	}));
 	$var($StringArray, sharedDayNames, $new($StringArray, {
-		u"\u0627\u0644\u0623\u062d\u062f"_s,
-		u"\u0627\u0644\u0627\u062b\u0646\u064a\u0646"_s,
-		u"\u0627\u0644\u062b\u0644\u0627\u062b\u0627\u0621"_s,
-		u"\u0627\u0644\u0623\u0631\u0628\u0639\u0627\u0621"_s,
-		u"\u0627\u0644\u062e\u0645\u064a\u0633"_s,
-		u"\u0627\u0644\u062c\u0645\u0639\u0629"_s,
-		u"\u0627\u0644\u0633\u0628\u062a"_s
+		u"الأحد"_s,
+		u"الاثنين"_s,
+		u"الثلاثاء"_s,
+		u"الأربعاء"_s,
+		u"الخميس"_s,
+		u"الجمعة"_s,
+		u"السبت"_s
 	}));
 	$var($StringArray, sharedDayNarrows, $new($StringArray, {
-		u"\u062d"_s,
-		u"\u0646"_s,
-		u"\u062b"_s,
-		u"\u0631"_s,
-		u"\u062e"_s,
-		u"\u062c"_s,
-		u"\u0633"_s
+		u"ح"_s,
+		u"ن"_s,
+		u"ث"_s,
+		u"ر"_s,
+		u"خ"_s,
+		u"ج"_s,
+		u"س"_s
 	}));
 	$var($StringArray, sharedEras, $new($StringArray, {
 		""_s,
-		u"\u0647\u0640"_s
+		u"هـ"_s
 	}));
 	$var($StringArray, sharedMonthNames, $new($StringArray, {
-		u"\u0645\u062d\u0631\u0645"_s,
-		u"\u0635\u0641\u0631"_s,
-		u"\u0631\u0628\u064a\u0639 \u0627\u0644\u0623\u0648\u0644"_s,
-		u"\u0631\u0628\u064a\u0639 \u0627\u0644\u0622\u062e\u0631"_s,
-		u"\u062c\u0645\u0627\u062f\u0649 \u0627\u0644\u0623\u0648\u0644\u0649"_s,
-		u"\u062c\u0645\u0627\u062f\u0649 \u0627\u0644\u0622\u062e\u0631\u0629"_s,
-		u"\u0631\u062c\u0628"_s,
-		u"\u0634\u0639\u0628\u0627\u0646"_s,
-		u"\u0631\u0645\u0636\u0627\u0646"_s,
-		u"\u0634\u0648\u0627\u0644"_s,
-		u"\u0630\u0648 \u0627\u0644\u0642\u0639\u062f\u0629"_s,
-		u"\u0630\u0648 \u0627\u0644\u062d\u062c\u0629"_s,
+		u"محرم"_s,
+		u"صفر"_s,
+		u"ربيع الأول"_s,
+		u"ربيع الآخر"_s,
+		u"جمادى الأولى"_s,
+		u"جمادى الآخرة"_s,
+		u"رجب"_s,
+		u"شعبان"_s,
+		u"رمضان"_s,
+		u"شوال"_s,
+		u"ذو القعدة"_s,
+		u"ذو الحجة"_s,
 		""_s
 	}));
 	$var($StringArray, sharedTimePatterns, $new($StringArray, {
@@ -98,40 +98,40 @@ $ObjectArray2* JavaTimeSupplementary_ar::getContents() {
 		"h:mm a"_s
 	}));
 	$var($StringArray, sharedJavaTimeDatePatterns, $new($StringArray, {
-		u"EEEE\u060c d MMMM\u060c y G"_s,
-		u"d MMMM\u060c y G"_s,
+		u"EEEE، d MMMM، y G"_s,
+		u"d MMMM، y G"_s,
 		u"dd\u200f/MM\u200f/y G"_s,
 		u"d\u200f/M\u200f/y GGGGG"_s
 	}));
 	$var($StringArray, sharedJavaTimeLongEras, $new($StringArray, {
 		"BC"_s,
-		u"\u0627\u0644\u062a\u0642\u0648\u064a\u0645 \u0627\u0644\u0628\u0648\u0630\u064a"_s
+		u"التقويم البوذي"_s
 	}));
 	$var($StringArray, sharedJavaTimeShortEras, $new($StringArray, {
-		u"\u0645"_s,
-		u"\u0645\u064a\u062c\u064a"_s,
-		u"\u062a\u064a\u0634\u0648"_s,
-		u"\u0634\u0648\u0648\u0627"_s,
-		u"\u0647\u064a\u0633\u064a"_s,
-		u"\u0631\u064a\u0648\u0627"_s
+		u"م"_s,
+		u"ميجي"_s,
+		u"تيشو"_s,
+		u"شووا"_s,
+		u"هيسي"_s,
+		u"ريوا"_s
 	}));
 	$var($StringArray, sharedShortEras, $new($StringArray, {
 		"Before R.O.C."_s,
-		u"\u062c\u0645\u0647\u0648\u0631\u064a\u0629 \u0627\u0644\u0635\u064a"_s
+		u"جمهورية الصي"_s
 	}));
 	$var($StringArray, sharedMonthAbbreviations, $new($StringArray, {
-		u"\u064a\u0646\u0627\u064a\u0631"_s,
-		u"\u0641\u0628\u0631\u0627\u064a\u0631"_s,
-		u"\u0645\u0627\u0631\u0633"_s,
-		u"\u0623\u0628\u0631\u064a\u0644"_s,
-		u"\u0645\u0627\u064a\u0648"_s,
-		u"\u064a\u0648\u0646\u064a\u0648"_s,
-		u"\u064a\u0648\u0644\u064a\u0648"_s,
-		u"\u0623\u063a\u0633\u0637\u0633"_s,
-		u"\u0633\u0628\u062a\u0645\u0628\u0631"_s,
-		u"\u0623\u0643\u062a\u0648\u0628\u0631"_s,
-		u"\u0646\u0648\u0641\u0645\u0628\u0631"_s,
-		u"\u062f\u064a\u0633\u0645\u0628\u0631"_s,
+		u"يناير"_s,
+		u"فبراير"_s,
+		u"مارس"_s,
+		u"أبريل"_s,
+		u"مايو"_s,
+		u"يونيو"_s,
+		u"يوليو"_s,
+		u"أغسطس"_s,
+		u"سبتمبر"_s,
+		u"أكتوبر"_s,
+		u"نوفمبر"_s,
+		u"ديسمبر"_s,
 		""_s
 	}));
 	return $new($ObjectArray2, {
@@ -149,75 +149,75 @@ $ObjectArray2* JavaTimeSupplementary_ar::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.buddhist"_s),
-			$of(u"\u0627\u0644\u062a\u0642\u0648\u064a\u0645 \u0627\u0644\u0628\u0648\u0630\u064a"_s)
+			$of(u"التقويم البوذي"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.gregorian"_s),
-			$of(u"\u0627\u0644\u062a\u0642\u0648\u064a\u0645 \u0627\u0644\u0645\u064a\u0644\u0627\u062f\u064a"_s)
+			$of(u"التقويم الميلادي"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.gregory"_s),
-			$of(u"\u0627\u0644\u062a\u0642\u0648\u064a\u0645 \u0627\u0644\u0645\u064a\u0644\u0627\u062f\u064a"_s)
+			$of(u"التقويم الميلادي"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.islamic"_s),
-			$of(u"\u0627\u0644\u062a\u0642\u0648\u064a\u0645 \u0627\u0644\u0647\u062c\u0631\u064a"_s)
+			$of(u"التقويم الهجري"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.islamic-civil"_s),
-			$of(u"\u0627\u0644\u062a\u0642\u0648\u064a\u0645 \u0627\u0644\u0625\u0633\u0644\u0627\u0645\u064a \u0627\u0644\u0645\u062f\u0646\u064a"_s)
+			$of(u"التقويم الإسلامي المدني"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.islamic-umalqura"_s),
-			$of(u"\u0627\u0644\u062a\u0642\u0648\u064a\u0645 \u0627\u0644\u0625\u0633\u0644\u0627\u0645\u064a (\u0623\u0645 \u0627\u0644\u0642\u0631\u0649)"_s)
+			$of(u"التقويم الإسلامي (أم القرى)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.japanese"_s),
-			$of(u"\u0627\u0644\u062a\u0642\u0648\u064a\u0645 \u0627\u0644\u064a\u0627\u0628\u0627\u0646\u064a"_s)
+			$of(u"التقويم الياباني"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.roc"_s),
-			$of(u"\u062a\u0642\u0648\u064a\u0645 \u0645\u064a\u0646\u062c\u0648"_s)
+			$of(u"تقويم مينجو"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("field.dayperiod"_s),
-			$of(u"\u0635/\u0645"_s)
+			$of(u"ص/م"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("field.era"_s),
-			$of(u"\u0627\u0644\u0639\u0635\u0631"_s)
+			$of(u"العصر"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("field.hour"_s),
-			$of(u"\u0627\u0644\u0633\u0627\u0639\u0627\u062a"_s)
+			$of(u"الساعات"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("field.minute"_s),
-			$of(u"\u0627\u0644\u062f\u0642\u0627\u0626\u0642"_s)
+			$of(u"الدقائق"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("field.month"_s),
-			$of(u"\u0627\u0644\u0634\u0647\u0631"_s)
+			$of(u"الشهر"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("field.second"_s),
-			$of(u"\u0627\u0644\u062b\u0648\u0627\u0646\u064a"_s)
+			$of(u"الثواني"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("field.week"_s),
-			$of(u"\u0627\u0644\u0623\u0633\u0628\u0648\u0639"_s)
+			$of(u"الأسبوع"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("field.weekday"_s),
-			$of(u"\u0627\u0644\u064a\u0648\u0645"_s)
+			$of(u"اليوم"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("field.year"_s),
-			$of(u"\u0627\u0644\u0633\u0646\u0629"_s)
+			$of(u"السنة"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("field.zone"_s),
-			$of(u"\u0627\u0644\u062a\u0648\u0642\u064a\u062a"_s)
+			$of(u"التوقيت"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("islamic.AmPmMarkers"_s),
@@ -226,9 +226,9 @@ $ObjectArray2* JavaTimeSupplementary_ar::getContents() {
 		$$new($ObjectArray, {
 			$of("islamic.DatePatterns"_s),
 			$of($$new($StringArray, {
-				u"EEEE\u060c d MMMM\u060c y GGGG"_s,
-				u"d MMMM\u060c y GGGG"_s,
-				u"d MMM\u060c y GGGG"_s,
+				u"EEEE، d MMMM، y GGGG"_s,
+				u"d MMMM، y GGGG"_s,
+				u"d MMM، y GGGG"_s,
 				u"d\u200f/M\u200f/y G"_s
 			}))
 		}),
@@ -259,18 +259,18 @@ $ObjectArray2* JavaTimeSupplementary_ar::getContents() {
 		$$new($ObjectArray, {
 			$of("islamic.MonthNarrows"_s),
 			$of($$new($StringArray, {
-				u"\u0661"_s,
-				u"\u0662"_s,
-				u"\u0663"_s,
-				u"\u0664"_s,
-				u"\u0665"_s,
-				u"\u0666"_s,
-				u"\u0667"_s,
-				u"\u0668"_s,
-				u"\u0669"_s,
-				u"\u0661\u0660"_s,
-				u"\u0661\u0661"_s,
-				u"\u0661\u0662"_s,
+				u"١"_s,
+				u"٢"_s,
+				u"٣"_s,
+				u"٤"_s,
+				u"٥"_s,
+				u"٦"_s,
+				u"٧"_s,
+				u"٨"_s,
+				u"٩"_s,
+				u"١٠"_s,
+				u"١١"_s,
+				u"١٢"_s,
 				""_s
 			}))
 		}),
@@ -325,9 +325,9 @@ $ObjectArray2* JavaTimeSupplementary_ar::getContents() {
 		$$new($ObjectArray, {
 			$of("java.time.islamic.DatePatterns"_s),
 			$of($$new($StringArray, {
-				u"EEEE\u060c d MMMM\u060c y G"_s,
-				u"d MMMM\u060c y G"_s,
-				u"d MMM\u060c y G"_s,
+				u"EEEE، d MMMM، y G"_s,
+				u"d MMMM، y G"_s,
+				u"d MMM، y G"_s,
 				u"d\u200f/M\u200f/y GGGGG"_s
 			}))
 		}),
@@ -346,8 +346,8 @@ $ObjectArray2* JavaTimeSupplementary_ar::getContents() {
 		$$new($ObjectArray, {
 			$of("java.time.long.Eras"_s),
 			$of($$new($StringArray, {
-				u"\u0642\u0628\u0644 \u0627\u0644\u0645\u064a\u0644\u0627\u062f"_s,
-				u"\u0645\u064a\u0644\u0627\u062f\u064a"_s
+				u"قبل الميلاد"_s,
+				u"ميلادي"_s
 			}))
 		}),
 		$$new($ObjectArray, {
@@ -357,8 +357,8 @@ $ObjectArray2* JavaTimeSupplementary_ar::getContents() {
 		$$new($ObjectArray, {
 			$of("java.time.short.Eras"_s),
 			$of($$new($StringArray, {
-				u"\u0642.\u0645"_s,
-				u"\u0645"_s
+				u"ق.م"_s,
+				u"م"_s
 			}))
 		}),
 		$$new($ObjectArray, {
@@ -368,8 +368,8 @@ $ObjectArray2* JavaTimeSupplementary_ar::getContents() {
 		$$new($ObjectArray, {
 			$of("roc.DatePatterns"_s),
 			$of($$new($StringArray, {
-				u"EEEE\u060c d MMMM\u060c y GGGG"_s,
-				u"d MMMM\u060c y GGGG"_s,
+				u"EEEE، d MMMM، y GGGG"_s,
+				u"d MMMM، y GGGG"_s,
 				u"dd\u200f/MM\u200f/y GGGG"_s,
 				u"d\u200f/M\u200f/y G"_s
 			}))
@@ -401,18 +401,18 @@ $ObjectArray2* JavaTimeSupplementary_ar::getContents() {
 		$$new($ObjectArray, {
 			$of("roc.MonthNarrows"_s),
 			$of($$new($StringArray, {
-				u"\u064a"_s,
-				u"\u0641"_s,
-				u"\u0645"_s,
-				u"\u0623"_s,
-				u"\u0648"_s,
-				u"\u0646"_s,
-				u"\u0644"_s,
-				u"\u063a"_s,
-				u"\u0633"_s,
-				u"\u0643"_s,
-				u"\u0628"_s,
-				u"\u062f"_s,
+				u"ي"_s,
+				u"ف"_s,
+				u"م"_s,
+				u"أ"_s,
+				u"و"_s,
+				u"ن"_s,
+				u"ل"_s,
+				u"غ"_s,
+				u"س"_s,
+				u"ك"_s,
+				u"ب"_s,
+				u"د"_s,
 				""_s
 			}))
 		}),
@@ -454,7 +454,7 @@ $ObjectArray2* JavaTimeSupplementary_ar::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.gmtFormat"_s),
-			$of(u"\u062c\u0631\u064a\u0646\u062a\u0634{0}"_s)
+			$of(u"جرينتش{0}"_s)
 		})
 	});
 }

@@ -39,10 +39,10 @@ void JavaTimeSupplementary_cs::init$() {
 $ObjectArray2* JavaTimeSupplementary_cs::getContents() {
 	$useLocalCurrentObjectStackCache();
 	$var($StringArray, sharedQuarterNames, $new($StringArray, {
-		u"1. \u010dtvrtlet\u00ed"_s,
-		u"2. \u010dtvrtlet\u00ed"_s,
-		u"3. \u010dtvrtlet\u00ed"_s,
-		u"4. \u010dtvrtlet\u00ed"_s
+		u"1. čtvrtletí"_s,
+		u"2. čtvrtletí"_s,
+		u"3. čtvrtletí"_s,
+		u"4. čtvrtletí"_s
 	}));
 	$var($StringArray, sharedAmPmMarkers, $new($StringArray, {
 		"dop."_s,
@@ -57,27 +57,27 @@ $ObjectArray2* JavaTimeSupplementary_cs::getContents() {
 	$var($StringArray, sharedDayAbbreviations, $new($StringArray, {
 		"ne"_s,
 		"po"_s,
-		u"\u00fat"_s,
+		u"út"_s,
 		"st"_s,
-		u"\u010dt"_s,
-		u"p\u00e1"_s,
+		u"čt"_s,
+		u"pá"_s,
 		"so"_s
 	}));
 	$var($StringArray, sharedDayNames, $new($StringArray, {
-		u"ned\u011ble"_s,
-		u"pond\u011bl\u00ed"_s,
-		u"\u00fater\u00fd"_s,
-		u"st\u0159eda"_s,
-		u"\u010dtvrtek"_s,
-		u"p\u00e1tek"_s,
+		u"neděle"_s,
+		u"pondělí"_s,
+		u"úterý"_s,
+		u"středa"_s,
+		u"čtvrtek"_s,
+		u"pátek"_s,
 		"sobota"_s
 	}));
 	$var($StringArray, sharedDayNarrows, $new($StringArray, {
 		"N"_s,
 		"P"_s,
-		u"\u00da"_s,
+		u"Ú"_s,
 		"S"_s,
-		u"\u010c"_s,
+		u"Č"_s,
 		"P"_s,
 		"S"_s
 	}));
@@ -100,7 +100,7 @@ $ObjectArray2* JavaTimeSupplementary_cs::getContents() {
 		"dd.MM.yy GGGGG"_s
 	}));
 	$var($StringArray, sharedEras, $new($StringArray, {
-		u"P\u0159ed R. O. C."_s,
+		u"Před R. O. C."_s,
 		""_s
 	}));
 	return $new($ObjectArray2, {
@@ -110,39 +110,39 @@ $ObjectArray2* JavaTimeSupplementary_cs::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.buddhist"_s),
-			$of(u"Buddhistick\u00fd kalend\u00e1\u0159"_s)
+			$of(u"Buddhistický kalendář"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.gregorian"_s),
-			$of(u"Gregori\u00e1nsk\u00fd kalend\u00e1\u0159"_s)
+			$of(u"Gregoriánský kalendář"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.gregory"_s),
-			$of(u"Gregori\u00e1nsk\u00fd kalend\u00e1\u0159"_s)
+			$of(u"Gregoriánský kalendář"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.islamic"_s),
-			$of(u"Muslimsk\u00fd kalend\u00e1\u0159"_s)
+			$of(u"Muslimský kalendář"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.islamic-civil"_s),
-			$of(u"Muslimsk\u00fd ob\u010dansk\u00fd kalend\u00e1\u0159"_s)
+			$of(u"Muslimský občanský kalendář"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.japanese"_s),
-			$of(u"Japonsk\u00fd kalend\u00e1\u0159"_s)
+			$of(u"Japonský kalendář"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.roc"_s),
-			$of(u"Kalend\u00e1\u0159 \u010c\u00ednsk\u00e9 republiky"_s)
+			$of(u"Kalendář Čínské republiky"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("field.dayperiod"_s),
-			$of(u"\u010d\u00e1st dne"_s)
+			$of(u"část dne"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("field.era"_s),
-			$of(u"letopo\u010det"_s)
+			$of(u"letopočet"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("field.hour"_s),
@@ -154,7 +154,7 @@ $ObjectArray2* JavaTimeSupplementary_cs::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.month"_s),
-			$of(u"m\u011bs\u00edc"_s)
+			$of(u"měsíc"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("field.second"_s),
@@ -162,11 +162,11 @@ $ObjectArray2* JavaTimeSupplementary_cs::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.week"_s),
-			$of(u"t\u00fdden"_s)
+			$of(u"týden"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("field.weekday"_s),
-			$of(u"den v t\u00fddnu"_s)
+			$of(u"den v týdnu"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("field.year"_s),
@@ -174,7 +174,7 @@ $ObjectArray2* JavaTimeSupplementary_cs::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.zone"_s),
-			$of(u"\u010dasov\u00e9 p\u00e1smo"_s)
+			$of(u"časové pásmo"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("islamic.AmPmMarkers"_s),
@@ -243,7 +243,7 @@ $ObjectArray2* JavaTimeSupplementary_cs::getContents() {
 		$$new($ObjectArray, {
 			$of("java.time.long.Eras"_s),
 			$of($$new($StringArray, {
-				u"p\u0159. n. l."_s,
+				u"př. n. l."_s,
 				"n. l."_s
 			}))
 		}),
@@ -254,7 +254,7 @@ $ObjectArray2* JavaTimeSupplementary_cs::getContents() {
 		$$new($ObjectArray, {
 			$of("java.time.short.Eras"_s),
 			$of($$new($StringArray, {
-				u"p\u0159.Kr."_s,
+				u"př.Kr."_s,
 				"po Kr."_s
 			}))
 		}),
@@ -286,15 +286,15 @@ $ObjectArray2* JavaTimeSupplementary_cs::getContents() {
 			$of("roc.MonthAbbreviations"_s),
 			$of($$new($StringArray, {
 				"led"_s,
-				u"\u00fano"_s,
-				u"b\u0159e"_s,
+				u"úno"_s,
+				u"bře"_s,
 				"dub"_s,
-				u"kv\u011b"_s,
-				u"\u010dvn"_s,
-				u"\u010dvc"_s,
+				u"kvě"_s,
+				u"čvn"_s,
+				u"čvc"_s,
 				"srp"_s,
-				u"z\u00e1\u0159"_s,
-				u"\u0159\u00edj"_s,
+				u"zář"_s,
+				u"říj"_s,
 				"lis"_s,
 				"pro"_s,
 				""_s
@@ -304,15 +304,15 @@ $ObjectArray2* JavaTimeSupplementary_cs::getContents() {
 			$of("roc.MonthNames"_s),
 			$of($$new($StringArray, {
 				"ledna"_s,
-				u"\u00fanora"_s,
-				u"b\u0159ezna"_s,
+				u"února"_s,
+				u"března"_s,
 				"dubna"_s,
-				u"kv\u011btna"_s,
-				u"\u010dervna"_s,
-				u"\u010dervence"_s,
+				u"května"_s,
+				u"června"_s,
+				u"července"_s,
 				"srpna"_s,
-				u"z\u00e1\u0159\u00ed"_s,
-				u"\u0159\u00edjna"_s,
+				u"září"_s,
+				u"října"_s,
 				"listopadu"_s,
 				"prosince"_s,
 				""_s

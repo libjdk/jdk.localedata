@@ -594,7 +594,7 @@ $ObjectArray2* CurrencyNames_jv::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("top"_s),
-			$of(u"Pa\u02bbanga Tonga"_s)
+			$of(u"Paʻanga Tonga"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("try"_s),

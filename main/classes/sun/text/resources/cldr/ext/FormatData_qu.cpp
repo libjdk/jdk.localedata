@@ -73,16 +73,16 @@ $ObjectArray2* FormatData_qu::getContents() {
 		"Domingo"_s,
 		"Lunes"_s,
 		"Martes"_s,
-		u"Mi\u00e9rcoles"_s,
+		u"Miércoles"_s,
 		"Jueves"_s,
 		"Viernes"_s,
-		u"S\u00e1bado"_s
+		u"Sábado"_s
 	}));
 	$var($StringArray, metaValue_DayAbbreviations, $new($StringArray, {
 		"Dom"_s,
 		"Lun"_s,
 		"Mar"_s,
-		u"Mi\u00e9"_s,
+		u"Mié"_s,
 		"Jue"_s,
 		"Vie"_s,
 		"Sab"_s
@@ -337,8 +337,8 @@ $ObjectArray2* FormatData_qu::getContents() {
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
+				u"‰"_s,
+				u"∞"_s,
 				"NaN"_s,
 				""_s,
 				""_s
@@ -505,9 +505,9 @@ $ObjectArray2* FormatData_qu::getContents() {
 			$of("latn.NumberPatterns"_s),
 			$of($$new($StringArray, {
 				"#,##0.###"_s,
-				u"\u00a4\u00a0#,##0.00"_s,
-				u"#,##0\u00a0%"_s,
-				u"\u00a4\u00a0#,##0.00"_s
+				u"¤ #,##0.00"_s,
+				u"#,##0 %"_s,
+				u"¤ #,##0.00"_s
 			}))
 		}),
 		$$new($ObjectArray, {

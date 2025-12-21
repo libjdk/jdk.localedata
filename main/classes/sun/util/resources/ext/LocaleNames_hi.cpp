@@ -41,19 +41,19 @@ $ObjectArray2* LocaleNames_hi::getContents() {
 	return $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("IN"_s),
-			$of(u"\u092d\u093e\u0930\u0924"_s)
+			$of(u"भारत"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("US"_s),
-			$of(u"\u0938\u0902\u092f\u0941\u0915\u094d\u0924 \u0930\u093e\u091c\u094d\u092f \u0905\u092e\u0947\u0930\u093f\u0915\u093e"_s)
+			$of(u"संयुक्त राज्य अमेरिका"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("en"_s),
-			$of(u"\u0905\u0901\u0917\u094d\u0930\u0947\u091c\u093c\u0940"_s)
+			$of(u"अँग्रेज़ी"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("hi"_s),
-			$of(u"\u0939\u093f\u0902\u0926\u0940"_s)
+			$of(u"हिंदी"_s)
 		})
 	});
 }

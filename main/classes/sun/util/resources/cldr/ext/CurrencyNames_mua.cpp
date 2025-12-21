@@ -78,7 +78,7 @@ $ObjectArray2* CurrencyNames_mua::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("cny"_s),
-			$of(u"solai Syi\u014b"_s)
+			$of(u"solai Syiŋ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cve"_s),
@@ -130,7 +130,7 @@ $ObjectArray2* CurrencyNames_mua::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("jpy"_s),
-			$of(u"solai Japo\u014b"_s)
+			$of(u"solai Japoŋ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kes"_s),
@@ -162,7 +162,7 @@ $ObjectArray2* CurrencyNames_mua::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("mro"_s),
-			$of(u"Solai Mauritaniya (1973\u20132017)"_s)
+			$of(u"Solai Mauritaniya (1973–2017)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mru"_s),
@@ -170,7 +170,7 @@ $ObjectArray2* CurrencyNames_mua::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("mur"_s),
-			$of(u"Solai Mauric\u01dd"_s)
+			$of(u"Solai Mauricǝ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mwk"_s),
@@ -202,11 +202,11 @@ $ObjectArray2* CurrencyNames_mua::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("sdg"_s),
-			$of(u"Solai Suda\u014b ma dii ne dinar"_s)
+			$of(u"Solai Sudaŋ ma dii ne dinar"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sdp"_s),
-			$of(u"Solai Suda\u014b ma dii ne livre"_s)
+			$of(u"Solai Sudaŋ ma dii ne livre"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("shp"_s),
@@ -214,7 +214,7 @@ $ObjectArray2* CurrencyNames_mua::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("sll"_s),
-			$of(u"solai Sierra leon\u01dd"_s)
+			$of(u"solai Sierra leonǝ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sos"_s),
@@ -222,7 +222,7 @@ $ObjectArray2* CurrencyNames_mua::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("std"_s),
-			$of(u"Solai Sao Tome (1977\u20132017)"_s)
+			$of(u"Solai Sao Tome (1977–2017)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("stn"_s),
@@ -258,11 +258,11 @@ $ObjectArray2* CurrencyNames_mua::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("zar"_s),
-			$of(u"Solai Africa nek\u01dds\u01dd\u014b"_s)
+			$of(u"Solai Africa nekǝsǝŋ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("zmk"_s),
-			$of(u"Solai Zambiya (1968\u20132012)"_s)
+			$of(u"Solai Zambiya (1968–2012)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("zmw"_s),

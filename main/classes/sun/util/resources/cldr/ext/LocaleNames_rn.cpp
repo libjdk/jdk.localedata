@@ -46,7 +46,7 @@ $ObjectArray2* LocaleNames_rn::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("AE"_s),
-			$of(u"Leta Zunze Ubumwe z\u2019Abarabu"_s)
+			$of(u"Leta Zunze Ubumwe z’Abarabu"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("AF"_s),
@@ -318,7 +318,7 @@ $ObjectArray2* LocaleNames_rn::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("GF"_s),
-			$of(u"Gwayana y\u2019Abafaransa"_s)
+			$of(u"Gwayana y’Abafaransa"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("GH"_s),
@@ -402,7 +402,7 @@ $ObjectArray2* LocaleNames_rn::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("IO"_s),
-			$of(u"Intara y\u2019Ubwongereza yo mu birwa by\u2019Abahindi"_s)
+			$of(u"Intara y’Ubwongereza yo mu birwa by’Abahindi"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("IQ"_s),
@@ -458,11 +458,11 @@ $ObjectArray2* LocaleNames_rn::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("KP"_s),
-			$of(u"Koreya y\u2019amajaruguru"_s)
+			$of(u"Koreya y’amajaruguru"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("KR"_s),
-			$of(u"Koreya y\u2019amajepfo"_s)
+			$of(u"Koreya y’amajepfo"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("KW"_s),
@@ -658,7 +658,7 @@ $ObjectArray2* LocaleNames_rn::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("PF"_s),
-			$of(u"Polineziya y\u2019Abafaransa"_s)
+			$of(u"Polineziya y’Abafaransa"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("PG"_s),
@@ -822,7 +822,7 @@ $ObjectArray2* LocaleNames_rn::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("TL"_s),
-			$of(u"Timoru y\u2019iburasirazuba"_s)
+			$of(u"Timoru y’iburasirazuba"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("TM"_s),
@@ -890,11 +890,11 @@ $ObjectArray2* LocaleNames_rn::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("VG"_s),
-			$of(u"Ibirwa by\u2019isugi by\u2019Abongereza"_s)
+			$of(u"Ibirwa by’isugi by’Abongereza"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("VI"_s),
-			$of(u"Amazinga y\u2019Isugi y\u2019Abanyamerika"_s)
+			$of(u"Amazinga y’Isugi y’Abanyamerika"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("VN"_s),
@@ -922,7 +922,7 @@ $ObjectArray2* LocaleNames_rn::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ZA"_s),
-			$of(u"Afurika y\u2019Epfo"_s)
+			$of(u"Afurika y’Epfo"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ZM"_s),

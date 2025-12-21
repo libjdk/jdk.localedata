@@ -40,33 +40,33 @@ void FormatData_mgo::init$() {
 $ObjectArray2* FormatData_mgo::getContents() {
 	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_MonthNames, $new($StringArray, {
-		u"im\u0259g mbegtug"_s,
-		u"imeg \u00e0b\u00f9b\u00ec"_s,
-		u"imeg mb\u0259\u014bchubi"_s,
-		u"im\u0259g ngw\u0259\u0300t"_s,
-		u"im\u0259g fog"_s,
-		u"im\u0259g ichiib\u0254d"_s,
-		u"im\u0259g \u00e0d\u00f9mb\u0259\u0300\u014b"_s,
-		u"im\u0259g ichika"_s,
-		u"im\u0259g kud"_s,
-		u"im\u0259g t\u00e8si\u02bce"_s,
-		u"im\u0259g z\u00f2"_s,
-		u"im\u0259g krizmed"_s,
+		u"iməg mbegtug"_s,
+		u"imeg àbùbì"_s,
+		u"imeg mbəŋchubi"_s,
+		u"iməg ngwə̀t"_s,
+		u"iməg fog"_s,
+		u"iməg ichiibɔd"_s,
+		u"iməg àdùmbə̀ŋ"_s,
+		u"iməg ichika"_s,
+		u"iməg kud"_s,
+		u"iməg tèsiʼe"_s,
+		u"iməg zò"_s,
+		u"iməg krizmed"_s,
 		""_s
 	}));
 	$var($StringArray, metaValue_MonthAbbreviations, $new($StringArray, {
 		"mbegtug"_s,
-		u"imeg \u00e0b\u00f9b\u00ec"_s,
-		u"imeg mb\u0259\u014bchubi"_s,
-		u"im\u0259g ngw\u0259\u0300t"_s,
-		u"im\u0259g fog"_s,
-		u"im\u0259g ichiib\u0254d"_s,
-		u"im\u0259g \u00e0d\u00f9mb\u0259\u0300\u014b"_s,
-		u"im\u0259g ichika"_s,
-		u"im\u0259g kud"_s,
-		u"im\u0259g t\u00e8si\u02bce"_s,
-		u"im\u0259g z\u00f2"_s,
-		u"im\u0259g krizmed"_s,
+		u"imeg àbùbì"_s,
+		u"imeg mbəŋchubi"_s,
+		u"iməg ngwə̀t"_s,
+		u"iməg fog"_s,
+		u"iməg ichiibɔd"_s,
+		u"iməg àdùmbə̀ŋ"_s,
+		u"iməg ichika"_s,
+		u"iməg kud"_s,
+		u"iməg tèsiʼe"_s,
+		u"iməg zò"_s,
+		u"iməg krizmed"_s,
 		""_s
 	}));
 	$var($StringArray, metaValue_MonthNarrows, $new($StringArray, {
@@ -138,7 +138,7 @@ $ObjectArray2* FormatData_mgo::getContents() {
 		"GGGG y MMM d"_s,
 		"G y-MM-dd"_s
 	}));
-	$var($String, metaValue_calendarname_gregorian, u"ng\u00e0b m\u0259\u0300kala"_s);
+	$var($String, metaValue_calendarname_gregorian, u"ngàb mə̀kala"_s);
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("MonthNames"_s),
@@ -146,7 +146,7 @@ $ObjectArray2* FormatData_mgo::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.year"_s),
-			$of(u"fitu\u02bc"_s)
+			$of(u"fituʼ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("roc.DayAbbreviations"_s),
@@ -226,7 +226,7 @@ $ObjectArray2* FormatData_mgo::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.weekday"_s),
-			$of(u"an\u0259g agu nkap"_s)
+			$of(u"anəg agu nkap"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("buddhist.MonthNames"_s),
@@ -252,8 +252,8 @@ $ObjectArray2* FormatData_mgo::getContents() {
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
+				u"‰"_s,
+				u"∞"_s,
 				"NaN"_s,
 				""_s,
 				""_s
@@ -305,7 +305,7 @@ $ObjectArray2* FormatData_mgo::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.month"_s),
-			$of(u"im\u0259g"_s)
+			$of(u"iməg"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("buddhist.DatePatterns"_s),
@@ -400,7 +400,7 @@ $ObjectArray2* FormatData_mgo::getContents() {
 			$of("latn.NumberPatterns"_s),
 			$of($$new($StringArray, {
 				"#,##0.###"_s,
-				u"\u00a4\u00a0#,##0.00"_s,
+				u"¤ #,##0.00"_s,
 				"#,##0%"_s,
 				""_s
 			}))

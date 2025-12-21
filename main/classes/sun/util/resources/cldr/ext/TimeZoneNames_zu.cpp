@@ -963,7 +963,7 @@ $ObjectArray2* TimeZoneNames_zu::getContents() {
 		""_s
 	}));
 	$var($StringArray, DumontDUrville, $new($StringArray, {
-		u"Isikhathi sase-Dumont-d\u2019Urville"_s,
+		u"Isikhathi sase-Dumont-d’Urville"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -3766,7 +3766,7 @@ $ObjectArray2* TimeZoneNames_zu::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Indian/Reunion"_s),
-			$of(u"i-R\u00e9union"_s)
+			$of(u"i-Réunion"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Pacific/Easter"_s),
@@ -3846,7 +3846,7 @@ $ObjectArray2* TimeZoneNames_zu::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Africa/Sao_Tome"_s),
-			$of(u"i-S\u00e3o Tom\u00e9"_s)
+			$of(u"i-São Tomé"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Africa/Windhoek"_s),
@@ -3878,7 +3878,7 @@ $ObjectArray2* TimeZoneNames_zu::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Curacao"_s),
-			$of(u"i-Cura\u00e7ao"_s)
+			$of(u"i-Curaçao"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Detroit"_s),
@@ -4054,7 +4054,7 @@ $ObjectArray2* TimeZoneNames_zu::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Asuncion"_s),
-			$of(u"i-Asunci\u00f3n"_s)
+			$of(u"i-Asunción"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Barbados"_s),
@@ -4098,7 +4098,7 @@ $ObjectArray2* TimeZoneNames_zu::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/St_Johns"_s),
-			$of(u"i-St. John\u2019s"_s)
+			$of(u"i-St. John’s"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/St_Kitts"_s),
@@ -4662,7 +4662,7 @@ $ObjectArray2* TimeZoneNames_zu::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Lower_Princes"_s),
-			$of(u"i-Lower Prince\u2019s Quarter"_s)
+			$of(u"i-Lower Prince’s Quarter"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Port_of_Spain"_s),
@@ -4674,7 +4674,7 @@ $ObjectArray2* TimeZoneNames_zu::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/St_Barthelemy"_s),
-			$of(u"i-St. Barth\u00e9lemy"_s)
+			$of(u"i-St. Barthélemy"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Swift_Current"_s),
@@ -4726,7 +4726,7 @@ $ObjectArray2* TimeZoneNames_zu::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Antarctica/DumontDUrville"_s),
-			$of(u"i-Dumont d\u2019Urville"_s)
+			$of(u"i-Dumont d’Urville"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Argentina/La_Rioja"_s),

@@ -42,32 +42,32 @@ $ObjectArray2* FormatData_kkj::getContents() {
 	$var($StringArray, metaValue_MonthNames, $new($StringArray, {
 		"pamba"_s,
 		"wanja"_s,
-		u"mbiy\u0254 m\u025bndo\u014bg\u0254"_s,
-		u"Ny\u0254l\u0254mb\u0254\u014bg\u0254"_s,
-		u"M\u0254n\u0254 \u014bgbanja"_s,
-		u"Nya\u014bgw\u025b \u014bgbanja"_s,
-		u"ku\u014bgw\u025b"_s,
-		u"f\u025b"_s,
+		u"mbiyɔ mɛndoŋgɔ"_s,
+		u"Nyɔlɔmbɔŋgɔ"_s,
+		u"Mɔnɔ ŋgbanja"_s,
+		u"Nyaŋgwɛ ŋgbanja"_s,
+		u"kuŋgwɛ"_s,
+		u"fɛ"_s,
 		"njapi"_s,
 		"nyukul"_s,
 		"M11"_s,
-		u"\u0253ul\u0253us\u025b"_s,
+		u"ɓulɓusɛ"_s,
 		""_s
 	}));
 	$var($StringArray, metaValue_DayNames, $new($StringArray, {
-		u"s\u0254ndi"_s,
+		u"sɔndi"_s,
 		"lundi"_s,
 		"mardi"_s,
-		u"m\u025brk\u025br\u025bdi"_s,
+		u"mɛrkɛrɛdi"_s,
 		"yedi"_s,
-		u"va\u014bd\u025br\u025bdi"_s,
-		u"m\u0254n\u0254 s\u0254ndi"_s
+		u"vaŋdɛrɛdi"_s,
+		u"mɔnɔ sɔndi"_s
 	}));
 	$var($StringArray, metaValue_DayNarrows, $new($StringArray, {
 		"so"_s,
 		"lu"_s,
 		"ma"_s,
-		u"m\u025b"_s,
+		u"mɛ"_s,
 		"ye"_s,
 		"va"_s,
 		"ms"_s
@@ -249,8 +249,8 @@ $ObjectArray2* FormatData_kkj::getContents() {
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
+				u"‰"_s,
+				u"∞"_s,
 				"NaN"_s,
 				""_s,
 				""_s
@@ -288,7 +288,7 @@ $ObjectArray2* FormatData_kkj::getContents() {
 			$of("latn.NumberPatterns"_s),
 			$of($$new($StringArray, {
 				"#,##0.###"_s,
-				u"\u00a4\u00a0#,##0.00"_s,
+				u"¤ #,##0.00"_s,
 				"#,##0%"_s,
 				""_s
 			}))

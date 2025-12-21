@@ -530,7 +530,7 @@ $ObjectArray2* CurrencyNames_te::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("THB"_s),
-			$of(u"\u0e3f"_s)
+			$of(u"฿"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("TJS"_s),
@@ -610,659 +610,659 @@ $ObjectArray2* CurrencyNames_te::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("aed"_s),
-			$of(u"\u0c2f\u0c41\u0c28\u0c48\u0c1f\u0c46\u0c21\u0c4d \u0c06\u0c30\u0c2c\u0c4d \u0c0e\u0c2e\u0c3f\u0c30\u0c47\u0c1f\u0c4d\u0c38\u0c4d \u0c26\u0c3f\u0c30\u0c3e\u0c2e\u0c4d"_s)
+			$of(u"యునైటెడ్ ఆరబ్ ఎమిరేట్స్ దిరామ్"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("afn"_s),
-			$of(u"\u0c06\u0c2b\u0c4d\u0c18\u0c3e\u0c28\u0c4d \u0c06\u0c2b\u0c4d\u0c18\u0c3e\u0c28\u0c3f"_s)
+			$of(u"ఆఫ్ఘాన్ ఆఫ్ఘాని"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("all"_s),
-			$of(u"\u0c06\u0c32\u0c4d\u0c2c\u0c47\u0c28\u0c3f\u0c2f\u0c28\u0c4d \u0c32\u0c47\u0c15\u0c4d"_s)
+			$of(u"ఆల్బేనియన్ లేక్"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("amd"_s),
-			$of(u"\u0c05\u0c2e\u0c46\u0c30\u0c3f\u0c15\u0c28\u0c4d \u0c21\u0c4d\u0c30\u0c3e\u0c2e\u0c4d"_s)
+			$of(u"అమెరికన్ డ్రామ్"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ang"_s),
-			$of(u"\u0c28\u0c46\u0c26\u0c30\u0c4d\u0c32\u0c3e\u0c02\u0c21\u0c4d\u0c38\u0c4d \u0c2f\u0c3e\u0c02\u0c1f\u0c3f\u0c32\u0c4d\u0c32\u0c3f\u0c2f\u0c28\u0c4d \u0c17\u0c3f\u0c32\u0c4d\u200c\u0c21\u0c30\u0c4d"_s)
+			$of(u"నెదర్లాండ్స్ యాంటిల్లియన్ గిల్\u200cడర్"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("aoa"_s),
-			$of(u"\u0c05\u0c02\u0c17\u0c4b\u0c32\u0c3e\u0c28\u0c4d \u0c15\u0c4d\u0c35\u0c3e\u0c28\u0c4d\u200c\u0c1c\u0c3e"_s)
+			$of(u"అంగోలాన్ క్వాన్\u200cజా"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ars"_s),
-			$of(u"\u0c05\u0c30\u0c4d\u0c1c\u0c46\u0c02\u0c1f\u0c40\u0c28\u0c3e \u0c2a\u0c46\u0c38\u0c4b"_s)
+			$of(u"అర్జెంటీనా పెసో"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("aud"_s),
-			$of(u"\u0c06\u0c38\u0c4d\u0c1f\u0c4d\u0c30\u0c47\u0c32\u0c3f\u0c2f\u0c28\u0c4d \u0c21\u0c3e\u0c32\u0c30\u0c4d"_s)
+			$of(u"ఆస్ట్రేలియన్ డాలర్"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("awg"_s),
-			$of(u"\u0c05\u0c30\u0c41\u0c2c\u0c28\u0c4d \u0c2b\u0c4d\u0c32\u0c4b\u0c30\u0c3f\u0c28\u0c4d"_s)
+			$of(u"అరుబన్ ఫ్లోరిన్"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("azn"_s),
-			$of(u"\u0c05\u0c1c\u0c30\u0c4d\u0c2c\u0c48\u0c1c\u0c3e\u0c28\u0c4d \u0c2e\u0c3e\u0c28\u0c1f\u0c4d"_s)
+			$of(u"అజర్బైజాన్ మానట్"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bam"_s),
-			$of(u"\u0c2c\u0c4b\u0c38\u0c4d\u0c28\u0c3f\u0c2f\u0c3e-\u0c39\u0c46\u0c30\u0c4d\u0c1c\u0c17\u0c4b\u0c35\u0c3f\u0c28\u0c3e \u0c2e\u0c3e\u0c30\u0c4d\u0c2a\u0c3f\u0c21\u0c3f \u0c1a\u0c46\u0c2f\u0c4d\u0c2f\u0c17\u0c32\u0c3f\u0c17\u0c47 \u0c2e\u0c3e\u0c30\u0c4d\u0c15\u0c4d"_s)
+			$of(u"బోస్నియా-హెర్జగోవినా మార్పిడి చెయ్యగలిగే మార్క్"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bbd"_s),
-			$of(u"\u0c2c\u0c30\u0c4d\u0c2c\u0c3e\u0c21\u0c3f\u0c2f\u0c28\u0c4d \u0c21\u0c3e\u0c32\u0c30\u0c4d"_s)
+			$of(u"బర్బాడియన్ డాలర్"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bdt"_s),
-			$of(u"\u0c2c\u0c3e\u0c02\u0c17\u0c4d\u0c32\u0c3e\u0c26\u0c47\u0c36\u0c4d \u0c1f\u0c3e\u0c15\u0c3e"_s)
+			$of(u"బాంగ్లాదేశ్ టాకా"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bgn"_s),
-			$of(u"\u0c2c\u0c32\u0c4d\u0c17\u0c47\u0c30\u0c3f\u0c2f\u0c28\u0c4d \u0c32\u0c47\u0c35\u0c4d"_s)
+			$of(u"బల్గేరియన్ లేవ్"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bhd"_s),
-			$of(u"\u0c2c\u0c39\u0c4d\u0c30\u0c46\u0c2f\u0c3f\u0c28\u0c4d \u0c26\u0c3f\u0c28\u0c3e\u0c30\u0c4d"_s)
+			$of(u"బహ్రెయిన్ దినార్"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bif"_s),
-			$of(u"\u0c2c\u0c41\u0c30\u0c3f\u0c02\u0c21\u0c3f\u0c2f\u0c28\u0c4d \u0c2b\u0c4d\u0c30\u0c3e\u0c02\u0c15\u0c4d"_s)
+			$of(u"బురిండియన్ ఫ్రాంక్"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bmd"_s),
-			$of(u"\u0c2c\u0c46\u0c30\u0c4d\u0c2e\u0c41\u0c21\u0c28\u0c4d \u0c21\u0c3e\u0c32\u0c30\u0c4d"_s)
+			$of(u"బెర్ముడన్ డాలర్"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bnd"_s),
-			$of(u"\u0c2c\u0c4d\u0c30\u0c42\u0c28\u0c48 \u0c21\u0c3e\u0c32\u0c30\u0c4d"_s)
+			$of(u"బ్రూనై డాలర్"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bob"_s),
-			$of(u"\u0c2c\u0c4a\u0c32\u0c40\u0c35\u0c3f\u0c2f\u0c28\u0c4d \u0c2c\u0c4a\u0c32\u0c40\u0c35\u0c3f\u0c2f\u0c3e\u0c28\u0c4b"_s)
+			$of(u"బొలీవియన్ బొలీవియానో"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("brl"_s),
-			$of(u"\u0c2c\u0c4d\u0c30\u0c46\u0c1c\u0c3f\u0c32\u0c3f\u0c2f\u0c28\u0c4d \u0c30\u0c3f\u0c2f\u0c32\u0c4d"_s)
+			$of(u"బ్రెజిలియన్ రియల్"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bsd"_s),
-			$of(u"\u0c2c\u0c39\u0c3e\u0c2e\u0c3f\u0c2f\u0c28\u0c4d \u0c21\u0c3e\u0c32\u0c30\u0c4d"_s)
+			$of(u"బహామియన్ డాలర్"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("btn"_s),
-			$of(u"\u0c2d\u0c42\u0c1f\u0c3e\u0c28\u0c40\u0c2f\u0c41\u0c32 \u0c17\u0c41\u0c32\u0c4d\u200c\u0c1f\u0c4d\u0c30\u0c41\u0c2e\u0c4d"_s)
+			$of(u"భూటానీయుల గుల్\u200cట్రుమ్"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bwp"_s),
-			$of(u"\u0c2c\u0c4b\u0c1f\u0c4d\u0c38\u0c4d\u200c\u0c35\u0c3e\u0c28\u0c3e \u0c2a\u0c41\u0c32\u0c3e"_s)
+			$of(u"బోట్స్\u200cవానా పులా"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("byn"_s),
-			$of(u"\u0c2c\u0c46\u0c32\u0c30\u0c42\u0c38\u0c3f\u0c2f\u0c28\u0c4d \u0c30\u0c42\u0c2c\u0c32\u0c4d"_s)
+			$of(u"బెలరూసియన్ రూబల్"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("byr"_s),
-			$of(u"\u0c2c\u0c46\u0c32\u0c30\u0c42\u0c38\u0c3f\u0c2f\u0c28\u0c4d \u0c30\u0c42\u0c2c\u0c32\u0c4d (2000\u20132016)"_s)
+			$of(u"బెలరూసియన్ రూబల్ (2000–2016)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bzd"_s),
-			$of(u"\u0c2c\u0c46\u0c32\u0c40\u0c1c\u0c4d \u0c21\u0c3e\u0c32\u0c30\u0c4d"_s)
+			$of(u"బెలీజ్ డాలర్"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cad"_s),
-			$of(u"\u0c15\u0c46\u0c28\u0c21\u0c3f\u0c2f\u0c28\u0c4d \u0c21\u0c3e\u0c32\u0c30\u0c4d"_s)
+			$of(u"కెనడియన్ డాలర్"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cdf"_s),
-			$of(u"\u0c15\u0c4a\u0c02\u0c17\u0c4b\u0c32\u0c3f\u0c38\u0c4d \u0c2b\u0c4d\u0c30\u0c3e\u0c02\u0c15\u0c4d"_s)
+			$of(u"కొంగోలిస్ ఫ్రాంక్"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("chf"_s),
-			$of(u"\u0c38\u0c4d\u0c35\u0c3f\u0c38\u0c4d \u0c2b\u0c4d\u0c30\u0c3e\u0c02\u0c15\u0c4d"_s)
+			$of(u"స్విస్ ఫ్రాంక్"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("clp"_s),
-			$of(u"\u0c1a\u0c3f\u0c32\u0c3f\u0c2f\u0c28\u0c4d \u0c2a\u0c46\u0c38\u0c4b"_s)
+			$of(u"చిలియన్ పెసో"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cnh"_s),
-			$of(u"\u0c1a\u0c48\u0c28\u0c40\u0c38\u0c4d \u0c2f\u0c42\u0c35\u0c3e\u0c28\u0c4d (\u0c06\u0c2b\u0c4d\u200c\u0c37\u0c4b\u0c30\u0c4d)"_s)
+			$of(u"చైనీస్ యూవాన్ (ఆఫ్\u200cషోర్)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cny"_s),
-			$of(u"\u0c1a\u0c48\u0c28\u0c3e \u0c26\u0c47\u0c36 \u0c2f\u0c41\u0c35\u0c3e\u0c28\u0c4d"_s)
+			$of(u"చైనా దేశ యువాన్"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cop"_s),
-			$of(u"\u0c15\u0c4a\u0c32\u0c02\u0c2c\u0c3f\u0c2f\u0c28\u0c4d \u0c2a\u0c46\u0c38\u0c4b"_s)
+			$of(u"కొలంబియన్ పెసో"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("crc"_s),
-			$of(u"\u0c15\u0c4b\u0c38\u0c4d\u0c1f\u0c3e \u0c30\u0c3f\u0c15\u0c28\u0c4d \u0c15\u0c4b\u0c32\u0c4b\u0c28\u0c4d"_s)
+			$of(u"కోస్టా రికన్ కోలోన్"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cuc"_s),
-			$of(u"\u0c15\u0c4d\u0c2f\u0c42\u0c2c\u0c28\u0c4d \u0c15\u0c28\u0c4d\u0c35\u0c30\u0c4d\u0c1f\u0c2c\u0c41\u0c32\u0c4d \u0c2a\u0c46\u0c38\u0c4b"_s)
+			$of(u"క్యూబన్ కన్వర్టబుల్ పెసో"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cup"_s),
-			$of(u"\u0c15\u0c4d\u0c2f\u0c42\u0c2c\u0c28\u0c4d \u0c2a\u0c46\u0c38\u0c4b"_s)
+			$of(u"క్యూబన్ పెసో"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cve"_s),
-			$of(u"\u0c15\u0c47\u0c2a\u0c4d \u0c35\u0c46\u0c30\u0c4d\u0c21\u0c3f\u0c2f\u0c28\u0c4d \u0c0e\u0c38\u0c4d\u0c15\u0c41\u0c21\u0c4b"_s)
+			$of(u"కేప్ వెర్డియన్ ఎస్కుడో"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("czk"_s),
-			$of(u"\u0c1a\u0c46\u0c15\u0c4d \u0c30\u0c3f\u0c2a\u0c2c\u0c4d\u0c32\u0c3f\u0c15\u0c4d \u0c15\u0c4b\u0c30\u0c41\u0c28\u0c3e"_s)
+			$of(u"చెక్ రిపబ్లిక్ కోరునా"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("djf"_s),
-			$of(u"\u0c1c\u0c3f\u0c2c\u0c4b\u0c1f\u0c3f\u0c2f\u0c28\u0c4d \u0c2b\u0c4d\u0c30\u0c3e\u0c02\u0c15\u0c4d"_s)
+			$of(u"జిబోటియన్ ఫ్రాంక్"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("dkk"_s),
-			$of(u"\u0c21\u0c3e\u0c28\u0c3f\u0c37\u0c4d \u0c15\u0c4d\u0c30\u0c4b\u0c28\u0c4d"_s)
+			$of(u"డానిష్ క్రోన్"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("dop"_s),
-			$of(u"\u0c21\u0c4b\u0c2e\u0c3f\u0c28\u0c3f\u0c15\u0c28\u0c4d \u0c2a\u0c46\u0c38\u0c4b"_s)
+			$of(u"డోమినికన్ పెసో"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("dzd"_s),
-			$of(u"\u0c05\u0c32\u0c4d\u0c1c\u0c40\u0c30\u0c3f\u0c2f\u0c28\u0c4d \u0c26\u0c40\u0c28\u0c3e\u0c30\u0c4d"_s)
+			$of(u"అల్జీరియన్ దీనార్"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("egp"_s),
-			$of(u"\u0c08\u0c1c\u0c3f\u0c2a\u0c4d\u0c37\u0c3f\u0c2f\u0c28\u0c4d \u0c2a\u0c4c\u0c02\u0c21\u0c4d"_s)
+			$of(u"ఈజిప్షియన్ పౌండ్"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ern"_s),
-			$of(u"\u0c0e\u0c30\u0c3f\u0c1f\u0c4d\u0c30\u0c40\u0c28\u0c4d \u0c28\u0c15\u0c4d\u0c2b\u0c3e"_s)
+			$of(u"ఎరిట్రీన్ నక్ఫా"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("etb"_s),
-			$of(u"\u0c07\u0c25\u0c3f\u0c2f\u0c4b\u0c2a\u0c3f\u0c2f\u0c28\u0c4d \u0c2c\u0c30\u0c4d"_s)
+			$of(u"ఇథియోపియన్ బర్"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("eur"_s),
-			$of(u"\u0c2f\u0c41\u0c30\u0c4a"_s)
+			$of(u"యురొ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("fjd"_s),
-			$of(u"\u0c2b\u0c40\u0c1c\u0c3f\u0c2f\u0c28\u0c4d \u0c21\u0c3e\u0c32\u0c30\u0c4d"_s)
+			$of(u"ఫీజియన్ డాలర్"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("fkp"_s),
-			$of(u"\u0c2b\u0c3e\u0c15\u0c4d\u200c\u0c32\u0c4d\u0c2f\u0c3e\u0c02\u0c21\u0c4d \u0c26\u0c40\u0c35\u0c41\u0c32\u0c41 \u0c2a\u0c4c\u0c02\u0c21\u0c4d"_s)
+			$of(u"ఫాక్\u200cల్యాండ్ దీవులు పౌండ్"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gbp"_s),
-			$of(u"\u0c2c\u0c4d\u0c30\u0c3f\u0c1f\u0c3f\u0c37\u0c4d \u0c2a\u0c4c\u0c02\u0c21\u0c4d"_s)
+			$of(u"బ్రిటిష్ పౌండ్"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gel"_s),
-			$of(u"\u0c1c\u0c3e\u0c30\u0c4d\u0c1c\u0c3f\u0c2f\u0c28\u0c4d \u0c32\u0c3e\u0c30\u0c3f"_s)
+			$of(u"జార్జియన్ లారి"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ghs"_s),
-			$of(u"\u0c17\u0c3e\u0c28\u0c46\u0c2f\u0c28\u0c4d \u0c38\u0c46\u0c21\u0c3f"_s)
+			$of(u"గానెయన్ సెడి"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gip"_s),
-			$of(u"\u0c1c\u0c3f\u0c2c\u0c4d\u0c30\u0c32\u0c4d\u200c\u0c1f\u0c42\u0c30\u0c4d \u0c2a\u0c4c\u0c02\u0c21\u0c4d"_s)
+			$of(u"జిబ్రల్\u200cటూర్ పౌండ్"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gmd"_s),
-			$of(u"\u0c17\u0c3e\u0c02\u0c2c\u0c3f\u0c2f\u0c28\u0c4d \u0c26\u0c32\u0c3e\u0c38\u0c3f"_s)
+			$of(u"గాంబియన్ దలాసి"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gnf"_s),
-			$of(u"\u0c17\u0c4d\u0c35\u0c3f\u0c28\u0c3f\u0c2f\u0c28\u0c4d \u0c2b\u0c4d\u0c30\u0c3e\u0c02\u0c15\u0c4d"_s)
+			$of(u"గ్వినియన్ ఫ్రాంక్"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gtq"_s),
-			$of(u"\u0c17\u0c4d\u0c2f\u0c41\u0c1f\u0c46\u0c2e\u0c3e\u0c32\u0c28\u0c4d \u0c15\u0c4d\u0c35\u0c46\u0c1f\u0c4d\u200c\u0c1c\u0c32\u0c4d"_s)
+			$of(u"గ్యుటెమాలన్ క్వెట్\u200cజల్"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gyd"_s),
-			$of(u"\u0c17\u0c41\u0c2f\u0c28\u0c3f\u0c2f\u0c3e\u0c38\u0c4d \u0c21\u0c3e\u0c32\u0c30\u0c4d"_s)
+			$of(u"గుయనియాస్ డాలర్"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("hkd"_s),
-			$of(u"\u0c39\u0c3e\u0c02\u0c15\u0c3e\u0c02\u0c17\u0c4d \u0c21\u0c3e\u0c32\u0c30\u0c4d"_s)
+			$of(u"హాంకాంగ్ డాలర్"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("hnl"_s),
-			$of(u"\u0c39\u0c4b\u0c02\u0c21\u0c41\u0c30\u0c28\u0c4d \u0c32\u0c46\u0c2e\u0c3f\u0c2a\u0c3f\u0c30\u0c3e"_s)
+			$of(u"హోండురన్ లెమిపిరా"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("hrk"_s),
-			$of(u"\u0c15\u0c4d\u0c30\u0c4a\u0c2f\u0c47\u0c37\u0c3f\u0c2f\u0c28\u0c4d \u0c15\u0c4d\u0c2f\u0c42\u0c28"_s)
+			$of(u"క్రొయేషియన్ క్యూన"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("htg"_s),
-			$of(u"\u0c39\u0c48\u0c1f\u0c3f\u0c2f\u0c28\u0c4d \u0c17\u0c4d\u0c35\u0c4b\u0c30\u0c4d\u0c21\u0c47"_s)
+			$of(u"హైటియన్ గ్వోర్డే"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("huf"_s),
-			$of(u"\u0c39\u0c02\u0c17\u0c47\u0c30\u0c3f\u0c2f\u0c28\u0c4d \u0c2b\u0c4b\u0c30\u0c3f\u0c02\u0c1f\u0c4d"_s)
+			$of(u"హంగేరియన్ ఫోరింట్"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("idr"_s),
-			$of(u"\u0c07\u0c02\u0c21\u0c4b\u0c28\u0c47\u0c37\u0c3f\u0c2f\u0c3e \u0c30\u0c42\u0c2a\u0c3e\u0c2f\u0c3f"_s)
+			$of(u"ఇండోనేషియా రూపాయి"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ils"_s),
-			$of(u"\u0c07\u0c1c\u0c4d\u0c30\u0c3e\u0c2f\u0c47\u0c32\u0c40 \u0c28\u0c4d\u0c2f\u0c42 \u0c37\u0c46\u0c15\u0c46\u0c32\u0c4d"_s)
+			$of(u"ఇజ్రాయేలీ న్యూ షెకెల్"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("inr"_s),
-			$of(u"\u0c30\u0c42\u0c2a\u0c3e\u0c2f\u0c3f"_s)
+			$of(u"రూపాయి"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("iqd"_s),
-			$of(u"\u0c07\u0c30\u0c3e\u0c15\u0c40 \u0c26\u0c40\u0c28\u0c3e\u0c30\u0c4d"_s)
+			$of(u"ఇరాకీ దీనార్"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("irr"_s),
-			$of(u"\u0c07\u0c30\u0c3e\u0c28\u0c3f\u0c2f\u0c28\u0c4d \u0c30\u0c40\u0c2f\u0c32\u0c4d"_s)
+			$of(u"ఇరానియన్ రీయల్"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("isk"_s),
-			$of(u"\u0c10\u0c38\u0c4d\u0c32\u0c3e\u0c02\u0c21\u0c3f\u0c15\u0c4d \u0c15\u0c4d\u0c30\u0c4b\u0c28\u0c3e"_s)
+			$of(u"ఐస్లాండిక్ క్రోనా"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("jmd"_s),
-			$of(u"\u0c1c\u0c2e\u0c48\u0c15\u0c28\u0c4d \u0c21\u0c3e\u0c32\u0c30\u0c4d"_s)
+			$of(u"జమైకన్ డాలర్"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("jod"_s),
-			$of(u"\u0c1c\u0c4b\u0c30\u0c4d\u200c\u0c21\u0c3e\u0c28\u0c3f\u0c2f\u0c28\u0c4d \u0c26\u0c40\u0c28\u0c3e\u0c30\u0c4d"_s)
+			$of(u"జోర్\u200cడానియన్ దీనార్"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("jpy"_s),
-			$of(u"\u0c1c\u0c2a\u0c3e\u0c28\u0c41 \u0c26\u0c47\u0c36 \u0c2f\u0c46\u0c28\u0c4d"_s)
+			$of(u"జపాను దేశ యెన్"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kes"_s),
-			$of(u"\u0c15\u0c46\u0c28\u0c4d\u0c2f\u0c3e\u0c28\u0c4d \u0c37\u0c3f\u0c32\u0c4d\u0c32\u0c3f\u0c02\u0c17\u0c4d"_s)
+			$of(u"కెన్యాన్ షిల్లింగ్"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kgs"_s),
-			$of(u"\u0c15\u0c3f\u0c30\u0c4d\u0c17\u0c3f\u0c38\u0c4d\u0c25\u0c3e\u0c28\u0c3f \u0c38\u0c4c\u0c2e\u0c4d"_s)
+			$of(u"కిర్గిస్థాని సౌమ్"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("khr"_s),
-			$of(u"\u0c15\u0c3e\u0c02\u0c2c\u0c4b\u0c21\u0c3f\u0c2f\u0c28\u0c4d \u0c30\u0c40\u0c32\u0c4d"_s)
+			$of(u"కాంబోడియన్ రీల్"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kmf"_s),
-			$of(u"\u0c15\u0c4a\u0c2e\u0c4b\u0c30\u0c3f\u0c2f\u0c28\u0c4d \u0c2b\u0c4d\u0c30\u0c3e\u0c02\u0c15\u0c4d"_s)
+			$of(u"కొమోరియన్ ఫ్రాంక్"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kpw"_s),
-			$of(u"\u0c09\u0c24\u0c4d\u0c24\u0c30 \u0c15\u0c4a\u0c30\u0c3f\u0c2f\u0c3e \u0c35\u0c4b\u0c28\u0c4d"_s)
+			$of(u"ఉత్తర కొరియా వోన్"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("krw"_s),
-			$of(u"\u0c26\u0c15\u0c4d\u0c37\u0c3f\u0c23 \u0c15\u0c4a\u0c30\u0c3f\u0c2f\u0c3e \u0c35\u0c4b\u0c28\u0c4d"_s)
+			$of(u"దక్షిణ కొరియా వోన్"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kwd"_s),
-			$of(u"\u0c15\u0c41\u0c35\u0c48\u0c1f\u0c4d \u0c26\u0c40\u0c28\u0c3e\u0c30\u0c4d"_s)
+			$of(u"కువైట్ దీనార్"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kyd"_s),
-			$of(u"\u0c15\u0c47\u0c2e\u0c3e\u0c28\u0c4d \u0c26\u0c40\u0c35\u0c41\u0c32 \u0c21\u0c3e\u0c32\u0c30\u0c4d"_s)
+			$of(u"కేమాన్ దీవుల డాలర్"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kzt"_s),
-			$of(u"\u0c16\u0c1c\u0c3f\u0c15\u0c3f\u0c38\u0c4d\u0c25\u0c3e\u0c28\u0c4d \u0c1f\u0c46\u0c02\u0c17\u0c47"_s)
+			$of(u"ఖజికిస్థాన్ టెంగే"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lak"_s),
-			$of(u"\u0c32\u0c3e\u0c1f\u0c3f\u0c2f\u0c28\u0c4d \u0c15\u0c3f\u0c2a\u0c4d"_s)
+			$of(u"లాటియన్ కిప్"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lbp"_s),
-			$of(u"\u0c32\u0c46\u0c2c\u0c28\u0c40\u0c38\u0c4d \u0c2a\u0c4c\u0c02\u0c21\u0c4d"_s)
+			$of(u"లెబనీస్ పౌండ్"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lkr"_s),
-			$of(u"\u0c36\u0c4d\u0c30\u0c40\u0c32\u0c02\u0c15 \u0c30\u0c42\u0c2a\u0c3e\u0c2f\u0c3f"_s)
+			$of(u"శ్రీలంక రూపాయి"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lrd"_s),
-			$of(u"\u0c32\u0c3f\u0c2c\u0c47\u0c30\u0c3f\u0c2f\u0c28\u0c4d \u0c21\u0c3e\u0c32\u0c30\u0c4d"_s)
+			$of(u"లిబేరియన్ డాలర్"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lsl"_s),
-			$of(u"\u0c32\u0c46\u0c38\u0c4b\u0c27\u0c4b \u0c32\u0c4b\u0c1f\u0c3f"_s)
+			$of(u"లెసోధో లోటి"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ltl"_s),
-			$of(u"\u0c32\u0c3f\u0c25\u0c4b\u0c28\u0c3f\u0c2f\u0c28\u0c4d \u0c32\u0c40\u0c1f\u0c3e\u0c38\u0c4d"_s)
+			$of(u"లిథోనియన్ లీటాస్"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lvl"_s),
-			$of(u"\u0c32\u0c3e\u0c24\u0c4d\u0c35\u0c3f\u0c2f\u0c28\u0c4d \u0c32\u0c3e\u0c1f\u0c4d\u0c38\u0c4d"_s)
+			$of(u"లాత్వియన్ లాట్స్"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lyd"_s),
-			$of(u"\u0c32\u0c3f\u0c2c\u0c3f\u0c2f\u0c28\u0c4d \u0c26\u0c40\u0c28\u0c3e\u0c30\u0c4d"_s)
+			$of(u"లిబియన్ దీనార్"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mad"_s),
-			$of(u"\u0c2e\u0c4b\u0c30\u0c4b\u0c15\u0c28\u0c4d \u0c26\u0c3f\u0c30\u0c4d\u0c39\u0c41\u0c2e\u0c4d"_s)
+			$of(u"మోరోకన్ దిర్హుమ్"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mdl"_s),
-			$of(u"\u0c2e\u0c4b\u0c32\u0c4d\u200c\u0c21\u0c4b\u0c35\u0c28\u0c4d \u0c32\u0c4d\u0c2f\u0c42"_s)
+			$of(u"మోల్\u200cడోవన్ ల్యూ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mga"_s),
-			$of(u"\u0c2e\u0c32\u0c17\u0c38\u0c40 \u0c05\u0c30\u0c3f\u0c2f\u0c30\u0c40"_s)
+			$of(u"మలగసీ అరియరీ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mkd"_s),
-			$of(u"\u0c2e\u0c46\u0c38\u0c3f\u0c21\u0c4b\u0c28\u0c3f\u0c2f\u0c28\u0c4d \u0c26\u0c3f\u0c28\u0c3e\u0c30\u0c4d"_s)
+			$of(u"మెసిడోనియన్ దినార్"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mmk"_s),
-			$of(u"\u0c2e\u0c2f\u0c28\u0c4d\u0c2e\u0c3e\u0c30\u0c4d \u0c15\u0c4d\u0c2f\u0c3e\u0c1f\u0c4d"_s)
+			$of(u"మయన్మార్ క్యాట్"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mnt"_s),
-			$of(u"\u0c2e\u0c02\u0c17\u0c4b\u0c32\u0c3f\u0c2f\u0c28\u0c4d \u0c1f\u0c41\u0c17\u0c4d\u0c30\u0c3f\u0c15\u0c4d"_s)
+			$of(u"మంగోలియన్ టుగ్రిక్"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mop"_s),
-			$of(u"\u0c2e\u0c15\u0c28\u0c40\u0c38\u0c4d \u0c2a\u0c1f\u0c3e\u0c15"_s)
+			$of(u"మకనీస్ పటాక"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mro"_s),
-			$of(u"\u0c2e\u0c4c\u0c30\u0c3f\u0c1f\u0c3e\u0c28\u0c3f\u0c2f\u0c28\u0c4d \u0c12\u0c17\u0c4d\u0c2f\u0c3f\u0c2f\u0c3e (1973\u20132017)"_s)
+			$of(u"మౌరిటానియన్ ఒగ్యియా (1973–2017)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mru"_s),
-			$of(u"\u0c2e\u0c4c\u0c30\u0c3f\u0c1f\u0c3e\u0c28\u0c3f\u0c2f\u0c28\u0c4d \u0c12\u0c17\u0c4d\u0c2f\u0c3f\u0c2f\u0c3e"_s)
+			$of(u"మౌరిటానియన్ ఒగ్యియా"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mur"_s),
-			$of(u"\u0c2e\u0c3e\u0c30\u0c3f\u0c37\u0c28\u0c4d \u0c30\u0c42\u0c2a\u0c3e\u0c2f\u0c3f"_s)
+			$of(u"మారిషన్ రూపాయి"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mvr"_s),
-			$of(u"\u0c2e\u0c3e\u0c32\u0c4d\u0c26\u0c40\u0c35\u0c3f\u0c2f\u0c28\u0c4d \u0c30\u0c41\u0c2b\u0c3f\u0c2f\u0c3e"_s)
+			$of(u"మాల్దీవియన్ రుఫియా"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mwk"_s),
-			$of(u"\u0c2e\u0c32\u0c3e\u0c35\u0c3f\u0c2f\u0c28\u0c4d \u0c15\u0c4d\u0c35\u0c3e\u0c1a\u0c3e"_s)
+			$of(u"మలావియన్ క్వాచా"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mxn"_s),
-			$of(u"\u0c2e\u0c46\u0c15\u0c4d\u0c38\u0c3f\u0c15\u0c28\u0c4d \u0c2a\u0c46\u0c38\u0c4b"_s)
+			$of(u"మెక్సికన్ పెసో"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("myr"_s),
-			$of(u"\u0c2e\u0c32\u0c47\u0c37\u0c3f\u0c2f\u0c3e \u0c30\u0c3f\u0c02\u0c17\u0c4d\u0c17\u0c3f\u0c1f\u0c4d"_s)
+			$of(u"మలేషియా రింగ్గిట్"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mzn"_s),
-			$of(u"\u0c2e\u0c4a\u0c1c\u0c3e\u0c02\u0c2c\u0c3f\u0c15\u0c28\u0c4d \u0c2e\u0c46\u0c1f\u0c3f\u0c15\u0c32\u0c4d"_s)
+			$of(u"మొజాంబికన్ మెటికల్"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("nad"_s),
-			$of(u"\u0c28\u0c2e\u0c3f\u0c2c\u0c3f\u0c2f\u0c28\u0c4d \u0c21\u0c3e\u0c32\u0c30\u0c4d"_s)
+			$of(u"నమిబియన్ డాలర్"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ngn"_s),
-			$of(u"\u0c28\u0c48\u0c1c\u0c40\u0c30\u0c3f\u0c2f\u0c28\u0c4d \u0c28\u0c48\u0c30\u0c3e"_s)
+			$of(u"నైజీరియన్ నైరా"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("nio"_s),
-			$of(u"\u0c28\u0c3f\u0c15\u0c30\u0c17\u0c4d\u0c2f\u0c41\u0c2f\u0c28\u0c4d \u0c15\u0c4a\u0c30\u0c4d\u200c\u0c21\u0c41\u0c2c\u0c41"_s)
+			$of(u"నికరగ్యుయన్ కొర్\u200cడుబు"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("nok"_s),
-			$of(u"\u0c28\u0c3e\u0c30\u0c4d\u0c35\u0c47\u0c1c\u0c40\u0c2f\u0c28\u0c4d \u0c15\u0c4d\u0c30\u0c4b\u0c28\u0c4d"_s)
+			$of(u"నార్వేజీయన్ క్రోన్"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("npr"_s),
-			$of(u"\u0c28\u0c47\u0c2a\u0c3e\u0c32\u0c40\u0c2f\u0c41\u0c32 \u0c30\u0c42\u0c2a\u0c3e\u0c2f\u0c3f"_s)
+			$of(u"నేపాలీయుల రూపాయి"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("nzd"_s),
-			$of(u"\u0c28\u0c4d\u0c2f\u0c42\u0c1c\u0c3f\u0c32\u0c3e\u0c02\u0c21\u0c4d \u0c21\u0c3e\u0c32\u0c30\u0c4d"_s)
+			$of(u"న్యూజిలాండ్ డాలర్"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("omr"_s),
-			$of(u"\u0c12\u0c2e\u0c3e\u0c28\u0c3f \u0c30\u0c40\u0c2f\u0c32\u0c4d"_s)
+			$of(u"ఒమాని రీయల్"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pab"_s),
-			$of(u"\u0c2a\u0c28\u0c3e\u0c2e\u0c28\u0c3f\u0c2f\u0c28\u0c4d \u0c2c\u0c32\u0c4d\u0c2c\u0c4b\u0c35"_s)
+			$of(u"పనామనియన్ బల్బోవ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pen"_s),
-			$of(u"\u0c2a\u0c46\u0c30\u0c41\u0c35\u0c3f\u0c2f\u0c28\u0c4d \u0c38\u0c4b\u0c32\u0c4d"_s)
+			$of(u"పెరువియన్ సోల్"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pgk"_s),
-			$of(u"\u0c2a\u0c2a\u0c4d\u0c2f\u0c42 \u0c28\u0c4d\u0c2f\u0c42 \u0c17\u0c4d\u0c2f\u0c3f\u0c28\u0c3f\u0c2f\u0c28\u0c4d \u0c15\u0c3f\u0c28\u0c3e"_s)
+			$of(u"పప్యూ న్యూ గ్యినియన్ కినా"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("php"_s),
-			$of(u"\u0c2b\u0c3f\u0c32\u0c3f\u0c2a\u0c4d\u0c2a\u0c3f\u0c28\u0c4d \u0c2a\u0c46\u0c38\u0c4b"_s)
+			$of(u"ఫిలిప్పిన్ పెసో"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pkr"_s),
-			$of(u"\u0c2a\u0c3e\u0c15\u0c3f\u0c38\u0c4d\u0c25\u0c3e\u0c28\u0c4d \u0c30\u0c42\u0c2a\u0c3e\u0c2f\u0c3f"_s)
+			$of(u"పాకిస్థాన్ రూపాయి"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pln"_s),
-			$of(u"\u0c2a\u0c4b\u0c32\u0c3f\u0c37\u0c4d \u0c1c\u0c4d\u0c32\u0c4b\u0c1f\u0c40"_s)
+			$of(u"పోలిష్ జ్లోటీ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pyg"_s),
-			$of(u"\u0c2a\u0c30\u0c17\u0c4d\u0c35\u0c3e\u0c2f\u0c28\u0c4d \u0c17\u0c4d\u0c35\u0c3e\u0c30\u0c28\u0c3f"_s)
+			$of(u"పరగ్వాయన్ గ్వారని"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("qar"_s),
-			$of(u"\u0c15\u0c4d\u0c35\u0c3e\u0c1f\u0c30\u0c3f \u0c30\u0c40\u0c2f\u0c32\u0c4d"_s)
+			$of(u"క్వాటరి రీయల్"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ron"_s),
-			$of(u"\u0c30\u0c4b\u0c2e\u0c3e\u0c28\u0c3f\u0c2f\u0c3e\u0c28\u0c4d \u0c32\u0c46\u0c2f\u0c41"_s)
+			$of(u"రోమానియాన్ లెయు"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("rsd"_s),
-			$of(u"\u0c38\u0c46\u0c30\u0c4d\u0c2c\u0c3f\u0c2f\u0c28\u0c4d \u0c26\u0c40\u0c28\u0c3e\u0c30\u0c4d"_s)
+			$of(u"సెర్బియన్ దీనార్"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("rub"_s),
-			$of(u"\u0c30\u0c37\u0c4d\u0c2f\u0c28\u0c4d \u0c30\u0c42\u0c2c\u0c32\u0c4d"_s)
+			$of(u"రష్యన్ రూబల్"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("rwf"_s),
-			$of(u"\u0c30\u0c4d\u0c35\u0c3e\u0c28\u0c21\u0c3e\u0c28\u0c4d \u0c2b\u0c4d\u0c30\u0c3e\u0c02\u0c15\u0c4d"_s)
+			$of(u"ర్వానడాన్ ఫ్రాంక్"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sar"_s),
-			$of(u"\u0c38\u0c4c\u0c26\u0c3f \u0c30\u0c3f\u0c2f\u0c32\u0c4d"_s)
+			$of(u"సౌది రియల్"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sbd"_s),
-			$of(u"\u0c38\u0c4b\u0c32\u0c4b\u0c2e\u0c28\u0c4d \u0c26\u0c40\u0c35\u0c41\u0c32 \u0c21\u0c3e\u0c32\u0c30\u0c4d"_s)
+			$of(u"సోలోమన్ దీవుల డాలర్"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("scr"_s),
-			$of(u"\u0c38\u0c46\u0c2f\u0c3f\u0c1a\u0c46\u0c32\u0c4d\u0c32\u0c4b\u0c2f\u0c3f\u0c38\u0c4d \u0c30\u0c42\u0c2a\u0c3e\u0c2f\u0c3f"_s)
+			$of(u"సెయిచెల్లోయిస్ రూపాయి"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sdg"_s),
-			$of(u"\u0c38\u0c41\u0c21\u0c3e\u0c28\u0c40\u0c38\u0c4d \u0c2a\u0c4c\u0c02\u0c21\u0c4d"_s)
+			$of(u"సుడానీస్ పౌండ్"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sek"_s),
-			$of(u"\u0c38\u0c4d\u0c35\u0c40\u0c21\u0c3f\u0c37\u0c4d \u0c15\u0c4d\u0c30\u0c4b\u0c28\u0c3e"_s)
+			$of(u"స్వీడిష్ క్రోనా"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sgd"_s),
-			$of(u"\u0c38\u0c3f\u0c02\u0c17\u0c2a\u0c42\u0c30\u0c4d \u0c21\u0c3e\u0c32\u0c30\u0c4d"_s)
+			$of(u"సింగపూర్ డాలర్"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("shp"_s),
-			$of(u"\u0c38\u0c46\u0c2f\u0c3f\u0c02\u0c1f\u0c4d \u0c39\u0c46\u0c32\u0c46\u0c28\u0c3e \u0c2a\u0c4c\u0c02\u0c21\u0c4d"_s)
+			$of(u"సెయింట్ హెలెనా పౌండ్"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sll"_s),
-			$of(u"\u0c38\u0c40\u0c2f\u0c3f\u0c30\u0c41 \u0c32\u0c3f\u0c2f\u0c4b\u0c28\u0c3f\u0c2f\u0c28\u0c4d \u0c32\u0c40\u0c2f\u0c4b\u0c28\u0c4d"_s)
+			$of(u"సీయిరు లియోనియన్ లీయోన్"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sos"_s),
-			$of(u"\u0c38\u0c4a\u0c2e\u0c3e\u0c32\u0c3f \u0c37\u0c3f\u0c32\u0c4d\u0c32\u0c3f\u0c02\u0c17\u0c4d"_s)
+			$of(u"సొమాలి షిల్లింగ్"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("srd"_s),
-			$of(u"\u0c38\u0c41\u0c30\u0c3f\u0c28\u0c3e\u0c2e\u0c40\u0c2f\u0c41\u0c32 \u0c21\u0c3e\u0c32\u0c30\u0c4d"_s)
+			$of(u"సురినామీయుల డాలర్"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ssp"_s),
-			$of(u"\u0c26\u0c15\u0c4d\u0c37\u0c3f\u0c23 \u0c38\u0c41\u0c21\u0c3e\u0c28\u0c40\u0c38\u0c4d \u0c2a\u0c4c\u0c02\u0c21\u0c4d"_s)
+			$of(u"దక్షిణ సుడానీస్ పౌండ్"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("std"_s),
-			$of(u"\u0c38\u0c3e\u0c35\u0c4b \u0c1f\u0c4b\u0c2e\u0c4d \u0c2e\u0c30\u0c3f\u0c2f\u0c41 \u0c2a\u0c4d\u0c30\u0c3f\u0c28\u0c4d\u0c38\u0c3f\u0c2a\u0c3f \u0c21\u0c4b\u0c2c\u0c4d\u0c30\u0c3e (1977\u20132017)"_s)
+			$of(u"సావో టోమ్ మరియు ప్రిన్సిపి డోబ్రా (1977–2017)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("stn"_s),
-			$of(u"\u0c38\u0c3e\u0c35\u0c4b \u0c1f\u0c4b\u0c2e\u0c4d \u0c2e\u0c30\u0c3f\u0c2f\u0c41 \u0c2a\u0c4d\u0c30\u0c3f\u0c28\u0c4d\u0c38\u0c3f\u0c2a\u0c3f \u0c21\u0c4b\u0c2c\u0c4d\u0c30\u0c3e"_s)
+			$of(u"సావో టోమ్ మరియు ప్రిన్సిపి డోబ్రా"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("syp"_s),
-			$of(u"\u0c38\u0c3f\u0c30\u0c40\u0c2f\u0c28\u0c4d \u0c2a\u0c4c\u0c02\u0c21\u0c4d"_s)
+			$of(u"సిరీయన్ పౌండ్"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("szl"_s),
-			$of(u"\u0c38\u0c4d\u0c35\u0c3e\u0c1c\u0c3f \u0c32\u0c3f\u0c32\u0c3e\u0c28\u0c4d\u0c17\u0c47\u0c28\u0c3f"_s)
+			$of(u"స్వాజి లిలాన్గేని"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("thb"_s),
-			$of(u"\u0c25\u0c3e\u0c2f\u0c4d \u0c2c\u0c3e\u0c1f\u0c4d"_s)
+			$of(u"థాయ్ బాట్"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("tjs"_s),
-			$of(u"\u0c24\u0c1c\u0c3f\u0c15\u0c3f\u0c38\u0c4d\u0c25\u0c3e\u0c28\u0c4d \u0c38\u0c2e\u0c4b\u0c28\u0c3f"_s)
+			$of(u"తజికిస్థాన్ సమోని"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("tmt"_s),
-			$of(u"\u0c24\u0c41\u0c30\u0c4d\u0c15\u0c4d\u200c\u0c2e\u0c46\u0c28\u0c3f\u0c38\u0c4d\u0c25\u0c3e\u0c28\u0c3f \u0c2e\u0c28\u0c3e\u0c1f\u0c4d"_s)
+			$of(u"తుర్క్\u200cమెనిస్థాని మనాట్"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("tnd"_s),
-			$of(u"\u0c24\u0c41\u0c28\u0c40\u0c37\u0c3f\u0c2f\u0c28\u0c4d \u0c26\u0c40\u0c28\u0c3e\u0c30\u0c4d"_s)
+			$of(u"తునీషియన్ దీనార్"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("top"_s),
-			$of(u"\u0c1f\u0c4b\u0c02\u0c17\u0c3e\u0c28\u0c4d \u0c2a\u0c3e\u0c02\u02bb\u0c17\u0c3e"_s)
+			$of(u"టోంగాన్ పాంʻగా"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("try"_s),
-			$of(u"\u0c1f\u0c30\u0c4d\u0c15\u0c3f\u0c38\u0c4d \u0c32\u0c40\u0c30\u0c3e"_s)
+			$of(u"టర్కిస్ లీరా"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ttd"_s),
-			$of(u"\u0c1f\u0c4d\u0c30\u0c3f\u0c28\u0c3f\u0c21\u0c3e\u0c21\u0c4d \u0c2e\u0c30\u0c3f\u0c2f\u0c41 \u0c1f\u0c4a\u0c2c\u0c3e\u0c17\u0c4b \u0c21\u0c3e\u0c32\u0c30\u0c4d"_s)
+			$of(u"ట్రినిడాడ్ మరియు టొబాగో డాలర్"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("twd"_s),
-			$of(u"\u0c15\u0c4d\u0c30\u0c4a\u0c24\u0c4d\u0c24 \u0c24\u0c48\u0c35\u0c3e\u0c28\u0c4d \u0c21\u0c3e\u0c32\u0c30\u0c4d"_s)
+			$of(u"క్రొత్త తైవాన్ డాలర్"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("tzs"_s),
-			$of(u"\u0c1f\u0c3e\u0c02\u0c1c\u0c3e\u0c28\u0c3f\u0c2f\u0c28\u0c4d \u0c37\u0c3f\u0c32\u0c4d\u0c32\u0c3f\u0c02\u0c17\u0c4d"_s)
+			$of(u"టాంజానియన్ షిల్లింగ్"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("uah"_s),
-			$of(u"\u0c09\u0c15\u0c4d\u0c30\u0c2f\u0c3f\u0c28\u0c3f\u0c2f\u0c28\u0c4d \u0c39\u0c4d\u0c30\u0c3f\u0c35\u0c4d\u200c\u0c28\u0c3f\u0c2f\u0c3e"_s)
+			$of(u"ఉక్రయినియన్ హ్రివ్\u200cనియా"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ugx"_s),
-			$of(u"\u0c09\u0c17\u0c3e\u0c02\u0c21\u0c28\u0c4d \u0c37\u0c3f\u0c32\u0c4d\u0c32\u0c3f\u0c02\u0c17\u0c4d"_s)
+			$of(u"ఉగాండన్ షిల్లింగ్"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("usd"_s),
-			$of(u"\u0c05\u0c2e\u0c46\u0c30\u0c3f\u0c15\u0c3e \u0c21\u0c3e\u0c32\u0c30\u0c4d"_s)
+			$of(u"అమెరికా డాలర్"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("uyu"_s),
-			$of(u"\u0c09\u0c30\u0c41\u0c17\u0c4d\u0c35\u0c46\u0c2f\u0c28\u0c4d \u0c2a\u0c46\u0c38\u0c4b"_s)
+			$of(u"ఉరుగ్వెయన్ పెసో"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("uzs"_s),
-			$of(u"\u0c09\u0c1c\u0c4d\u200c\u0c2c\u0c46\u0c15\u0c3f\u0c38\u0c4d\u0c24\u0c3e\u0c28\u0c4d \u0c38\u0c4c\u0c2e\u0c4d"_s)
+			$of(u"ఉజ్\u200cబెకిస్తాన్ సౌమ్"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("vef"_s),
-			$of(u"\u0c35\u0c46\u0c28\u0c41\u0c1c\u0c41\u0c32\u0c3e \u0c2c\u0c4b\u0c32\u0c3f\u0c35\u0c30\u0c4d (2008\u20132018)"_s)
+			$of(u"వెనుజులా బోలివర్ (2008–2018)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ves"_s),
-			$of(u"\u0c35\u0c46\u0c28\u0c41\u0c1c\u0c41\u0c32\u0c3e \u0c2c\u0c4b\u0c32\u0c3f\u0c35\u0c30\u0c4d"_s)
+			$of(u"వెనుజులా బోలివర్"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("vnd"_s),
-			$of(u"\u0c35\u0c3f\u0c2f\u0c24\u0c4d\u0c28\u0c3e\u0c2e\u0c40\u0c2f\u0c41\u0c32 \u0c21\u0c3e\u0c02\u0c17\u0c4d"_s)
+			$of(u"వియత్నామీయుల డాంగ్"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("vuv"_s),
-			$of(u"\u0c35\u0c28\u0c3e\u0c1f\u0c41 \u0c35\u0c1f\u0c41"_s)
+			$of(u"వనాటు వటు"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("wst"_s),
-			$of(u"\u0c38\u0c2e\u0c4b\u0c2f\u0c28\u0c4d \u0c24\u0c3e\u0c32\u0c3e"_s)
+			$of(u"సమోయన్ తాలా"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xaf"_s),
-			$of(u"\u0c38\u0c46\u0c02\u0c1f\u0c4d\u0c30\u0c32\u0c4d \u0c06\u0c2b\u0c4d\u0c30\u0c3f\u0c15\u0c28\u0c4d \u0c38\u0c3f\u0c0e\u0c2b\u0c4d\u200c\u0c0e \u0c2b\u0c4d\u0c30\u0c3e\u0c02\u0c15\u0c4d"_s)
+			$of(u"సెంట్రల్ ఆఫ్రికన్ సిఎఫ్\u200cఎ ఫ్రాంక్"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xcd"_s),
-			$of(u"\u0c24\u0c42\u0c30\u0c4d\u0c2a\u0c41 \u0c15\u0c30\u0c40\u0c2c\u0c3f\u0c2f\u0c28\u0c4d \u0c21\u0c3e\u0c32\u0c30\u0c4d"_s)
+			$of(u"తూర్పు కరీబియన్ డాలర్"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xof"_s),
-			$of(u"\u0c2a\u0c36\u0c4d\u0c1a\u0c3f\u0c2e \u0c06\u0c2b\u0c4d\u0c30\u0c3f\u0c15\u0c28\u0c4d \u0c38\u0c3f\u0c0f\u0c2b\u0c4d\u0c0f \u0c2b\u0c4d\u0c30\u0c3e\u0c02\u0c15\u0c4d"_s)
+			$of(u"పశ్చిమ ఆఫ్రికన్ సిఏఫ్ఏ ఫ్రాంక్"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xpf"_s),
-			$of(u"\u0c38\u0c3f\u0c0e\u0c2b\u0c4d\u200c\u0c2a\u0c3f \u0c2b\u0c4d\u0c30\u0c3e\u0c02\u0c15\u0c4d"_s)
+			$of(u"సిఎఫ్\u200cపి ఫ్రాంక్"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xxx"_s),
-			$of(u"\u0c24\u0c46\u0c32\u0c3f\u0c2f\u0c28\u0c3f \u0c15\u0c30\u0c46\u0c28\u0c4d\u0c38\u0c40"_s)
+			$of(u"తెలియని కరెన్సీ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("yer"_s),
-			$of(u"\u0c0e\u0c2e\u0c41\u0c28\u0c40 \u0c30\u0c40\u0c2f\u0c32\u0c4d"_s)
+			$of(u"ఎమునీ రీయల్"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("zar"_s),
-			$of(u"\u0c26\u0c15\u0c4d\u0c37\u0c3f\u0c23 \u0c06\u0c2b\u0c4d\u0c30\u0c3f\u0c15\u0c3e \u0c30\u0c4d\u0c2f\u0c3e\u0c02\u0c21\u0c4d"_s)
+			$of(u"దక్షిణ ఆఫ్రికా ర్యాండ్"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("zmk"_s),
-			$of(u"\u0c1c\u0c3e\u0c02\u0c2c\u0c3f\u0c2f\u0c28\u0c4d \u0c15\u0c4d\u0c35\u0c3e\u0c1a\u0c3e (1968\u20132012)"_s)
+			$of(u"జాంబియన్ క్వాచా (1968–2012)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("zmw"_s),
-			$of(u"\u0c1c\u0c3e\u0c02\u0c2c\u0c3f\u0c2f\u0c28\u0c4d \u0c15\u0c4d\u0c35\u0c3e\u0c1a\u0c3e"_s)
+			$of(u"జాంబియన్ క్వాచా"_s)
 		})
 	}));
 	return data;

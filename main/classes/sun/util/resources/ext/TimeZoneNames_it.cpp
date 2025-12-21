@@ -359,11 +359,11 @@ $ObjectArray2* TimeZoneNames_it::getContents() {
 		"AET"_s
 	}));
 	$var($StringArray, FET, $new($StringArray, {
-		u"Ora dei paesi europei pi\u00f9 orientali"_s,
+		u"Ora dei paesi europei più orientali"_s,
 		"FET"_s,
-		u"Ora estiva dei paesi europei pi\u00f9 orientali"_s,
+		u"Ora estiva dei paesi europei più orientali"_s,
 		"FEST"_s,
-		u"Ora dei paesi europei pi\u00f9 orientali"_s,
+		u"Ora dei paesi europei più orientali"_s,
 		"FET"_s
 	}));
 	$var($StringArray, GHMT, $new($StringArray, {
@@ -1507,11 +1507,11 @@ $ObjectArray2* TimeZoneNames_it::getContents() {
 		$$new($ObjectArray, {
 			$of("America/Lima"_s),
 			$of($$new($StringArray, {
-				u"Ora del Per\u00f9"_s,
+				u"Ora del Perù"_s,
 				"PET"_s,
-				u"Ora estiva del Per\u00f9"_s,
+				u"Ora estiva del Perù"_s,
 				"PEST"_s,
-				u"Ora del Per\u00f9"_s,
+				u"Ora del Perù"_s,
 				"PET"_s
 			}))
 		}),

@@ -99,10 +99,10 @@ $ObjectArray2* FormatData_es::getContents() {
 				"domingo"_s,
 				"lunes"_s,
 				"martes"_s,
-				u"mi\u00e9rcoles"_s,
+				u"miércoles"_s,
 				"jueves"_s,
 				"viernes"_s,
-				u"s\u00e1bado"_s
+				u"sábado"_s
 			}))
 		}),
 		$$new($ObjectArray, {
@@ -111,10 +111,10 @@ $ObjectArray2* FormatData_es::getContents() {
 				"dom"_s,
 				"lun"_s,
 				"mar"_s,
-				u"mi\u00e9"_s,
+				u"mié"_s,
 				"jue"_s,
 				"vie"_s,
-				u"s\u00e1b"_s
+				u"sáb"_s
 			}))
 		}),
 		$$new($ObjectArray, {
@@ -133,7 +133,7 @@ $ObjectArray2* FormatData_es::getContents() {
 			$of("Eras"_s),
 			$of($$new($StringArray, {
 				"antes de Cristo"_s,
-				u"anno D\u00f3mini"_s
+				u"anno Dómini"_s
 			}))
 		}),
 		$$new($ObjectArray, {
@@ -147,7 +147,7 @@ $ObjectArray2* FormatData_es::getContents() {
 			$of("NumberPatterns"_s),
 			$of($$new($StringArray, {
 				"#,##0.###;-#,##0.###"_s,
-				u"\u00a4#,##0.00;(\u00a4#,##0.00)"_s,
+				u"¤#,##0.00;(¤#,##0.00)"_s,
 				"#,##0%"_s
 			}))
 		}),
@@ -162,9 +162,9 @@ $ObjectArray2* FormatData_es::getContents() {
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
-				u"\ufffd"_s
+				u"‰"_s,
+				u"∞"_s,
+				u"�"_s
 			}))
 		}),
 		$$new($ObjectArray, {

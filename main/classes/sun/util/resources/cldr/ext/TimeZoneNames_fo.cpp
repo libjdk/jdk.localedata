@@ -43,7 +43,7 @@ void TimeZoneNames_fo::init$() {
 $ObjectArray2* TimeZoneNames_fo::getContents() {
 	$useLocalCurrentObjectStackCache();
 	$var($StringArray, GMT, $new($StringArray, {
-		u"Greenwich Mean t\u00ed\u00f0"_s,
+		u"Greenwich Mean tíð"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -51,39 +51,39 @@ $ObjectArray2* TimeZoneNames_fo::getContents() {
 		""_s
 	}));
 	$var($StringArray, Apia, $new($StringArray, {
-		u"Apia vanlig t\u00ed\u00f0"_s,
+		u"Apia vanlig tíð"_s,
 		""_s,
-		u"Apia summart\u00ed\u00f0"_s,
+		u"Apia summartíð"_s,
 		""_s,
-		u"Apia t\u00ed\u00f0"_s,
+		u"Apia tíð"_s,
 		""_s
 	}));
 	$var($StringArray, Cook, $new($StringArray, {
-		u"Cooksoyggjar vanlig t\u00ed\u00f0"_s,
+		u"Cooksoyggjar vanlig tíð"_s,
 		""_s,
-		u"Cooksoyggjar summart\u00ed\u00f0"_s,
+		u"Cooksoyggjar summartíð"_s,
 		""_s,
-		u"Cooksoyggjar t\u00ed\u00f0"_s,
+		u"Cooksoyggjar tíð"_s,
 		""_s
 	}));
 	$var($StringArray, Cuba, $new($StringArray, {
-		u"Cuba vanlig t\u00ed\u00f0"_s,
+		u"Cuba vanlig tíð"_s,
 		""_s,
-		u"Cuba summart\u00ed\u00f0"_s,
+		u"Cuba summartíð"_s,
 		""_s,
-		u"Cuba t\u00ed\u00f0"_s,
+		u"Cuba tíð"_s,
 		""_s
 	}));
 	$var($StringArray, Fiji, $new($StringArray, {
-		u"Fiji vanlig t\u00ed\u00f0"_s,
+		u"Fiji vanlig tíð"_s,
 		""_s,
-		u"Fiji summart\u00ed\u00f0"_s,
+		u"Fiji summartíð"_s,
 		""_s,
-		u"Fiji t\u00ed\u00f0"_s,
+		u"Fiji tíð"_s,
 		""_s
 	}));
 	$var($StringArray, Gulf, $new($StringArray, {
-		u"Gulf vanlig t\u00ed\u00f0"_s,
+		u"Gulf vanlig tíð"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -91,23 +91,23 @@ $ObjectArray2* TimeZoneNames_fo::getContents() {
 		""_s
 	}));
 	$var($StringArray, Hovd, $new($StringArray, {
-		u"Hovd vanlig t\u00ed\u00f0"_s,
+		u"Hovd vanlig tíð"_s,
 		""_s,
-		u"Hovd summart\u00ed\u00f0"_s,
+		u"Hovd summartíð"_s,
 		""_s,
-		u"Hovd t\u00ed\u00f0"_s,
+		u"Hovd tíð"_s,
 		""_s
 	}));
 	$var($StringArray, Iran, $new($StringArray, {
-		u"Iran vanlig t\u00ed\u00f0"_s,
+		u"Iran vanlig tíð"_s,
 		""_s,
-		u"Iran summart\u00ed\u00f0"_s,
+		u"Iran summartíð"_s,
 		""_s,
-		u"Iran t\u00ed\u00f0"_s,
+		u"Iran tíð"_s,
 		""_s
 	}));
 	$var($StringArray, Niue, $new($StringArray, {
-		u"Niue t\u00ed\u00f0"_s,
+		u"Niue tíð"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -115,23 +115,23 @@ $ObjectArray2* TimeZoneNames_fo::getContents() {
 		""_s
 	}));
 	$var($StringArray, Omsk, $new($StringArray, {
-		u"Omsk vanlig t\u00ed\u00f0"_s,
+		u"Omsk vanlig tíð"_s,
 		""_s,
-		u"Omsk summart\u00ed\u00f0"_s,
+		u"Omsk summartíð"_s,
 		""_s,
-		u"Omsk t\u00ed\u00f0"_s,
+		u"Omsk tíð"_s,
 		""_s
 	}));
 	$var($StringArray, Peru, $new($StringArray, {
-		u"Peru vanlig t\u00ed\u00f0"_s,
+		u"Peru vanlig tíð"_s,
 		""_s,
-		u"Peru summart\u00ed\u00f0"_s,
+		u"Peru summartíð"_s,
 		""_s,
-		u"Peru t\u00ed\u00f0"_s,
+		u"Peru tíð"_s,
 		""_s
 	}));
 	$var($StringArray, Truk, $new($StringArray, {
-		u"Chuuk t\u00ed\u00f0"_s,
+		u"Chuuk tíð"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -139,7 +139,7 @@ $ObjectArray2* TimeZoneNames_fo::getContents() {
 		""_s
 	}));
 	$var($StringArray, Wake, $new($StringArray, {
-		u"Wakeoyggj t\u00ed\u00f0"_s,
+		u"Wakeoyggj tíð"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -147,23 +147,23 @@ $ObjectArray2* TimeZoneNames_fo::getContents() {
 		""_s
 	}));
 	$var($StringArray, Chile, $new($StringArray, {
-		u"Kili vanlig t\u00ed\u00f0"_s,
+		u"Kili vanlig tíð"_s,
 		""_s,
-		u"Kili summart\u00ed\u00f0"_s,
+		u"Kili summartíð"_s,
 		""_s,
-		u"Kili t\u00ed\u00f0"_s,
+		u"Kili tíð"_s,
 		""_s
 	}));
 	$var($StringArray, China, $new($StringArray, {
-		u"Kina vanlig t\u00ed\u00f0"_s,
+		u"Kina vanlig tíð"_s,
 		""_s,
-		u"Kina summart\u00ed\u00f0"_s,
+		u"Kina summartíð"_s,
 		""_s,
-		u"Kina t\u00ed\u00f0"_s,
+		u"Kina tíð"_s,
 		""_s
 	}));
 	$var($StringArray, Cocos, $new($StringArray, {
-		u"Kokosoyggjar t\u00ed\u00f0"_s,
+		u"Kokosoyggjar tíð"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -171,7 +171,7 @@ $ObjectArray2* TimeZoneNames_fo::getContents() {
 		""_s
 	}));
 	$var($StringArray, Davis, $new($StringArray, {
-		u"Davis t\u00ed\u00f0"_s,
+		u"Davis tíð"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -179,7 +179,7 @@ $ObjectArray2* TimeZoneNames_fo::getContents() {
 		""_s
 	}));
 	$var($StringArray, India, $new($StringArray, {
-		u"India t\u00ed\u00f0"_s,
+		u"India tíð"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -187,23 +187,23 @@ $ObjectArray2* TimeZoneNames_fo::getContents() {
 		""_s
 	}));
 	$var($StringArray, Japan, $new($StringArray, {
-		u"Japan vanlig t\u00ed\u00f0"_s,
+		u"Japan vanlig tíð"_s,
 		""_s,
-		u"Japan summart\u00ed\u00f0"_s,
+		u"Japan summartíð"_s,
 		""_s,
-		u"Japan t\u00ed\u00f0"_s,
+		u"Japan tíð"_s,
 		""_s
 	}));
 	$var($StringArray, Korea, $new($StringArray, {
-		u"Korea vanlig t\u00ed\u00f0"_s,
+		u"Korea vanlig tíð"_s,
 		""_s,
-		u"Korea summart\u00ed\u00f0"_s,
+		u"Korea summartíð"_s,
 		""_s,
-		u"Korea t\u00ed\u00f0"_s,
+		u"Korea tíð"_s,
 		""_s
 	}));
 	$var($StringArray, Nauru, $new($StringArray, {
-		u"Nauru t\u00ed\u00f0"_s,
+		u"Nauru tíð"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -211,7 +211,7 @@ $ObjectArray2* TimeZoneNames_fo::getContents() {
 		""_s
 	}));
 	$var($StringArray, Nepal, $new($StringArray, {
-		u"Nepal t\u00ed\u00f0"_s,
+		u"Nepal tíð"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -219,7 +219,7 @@ $ObjectArray2* TimeZoneNames_fo::getContents() {
 		""_s
 	}));
 	$var($StringArray, Palau, $new($StringArray, {
-		u"Palau t\u00ed\u00f0"_s,
+		u"Palau tíð"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -227,15 +227,15 @@ $ObjectArray2* TimeZoneNames_fo::getContents() {
 		""_s
 	}));
 	$var($StringArray, Samoa, $new($StringArray, {
-		u"Samoa vanlig t\u00ed\u00f0"_s,
+		u"Samoa vanlig tíð"_s,
 		""_s,
-		u"Samoa summart\u00ed\u00f0"_s,
+		u"Samoa summartíð"_s,
 		""_s,
-		u"Samoa t\u00ed\u00f0"_s,
+		u"Samoa tíð"_s,
 		""_s
 	}));
 	$var($StringArray, Syowa, $new($StringArray, {
-		u"Syowa t\u00ed\u00f0"_s,
+		u"Syowa tíð"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -243,39 +243,39 @@ $ObjectArray2* TimeZoneNames_fo::getContents() {
 		""_s
 	}));
 	$var($StringArray, Tonga, $new($StringArray, {
-		u"Tonga vanlig t\u00ed\u00f0"_s,
+		u"Tonga vanlig tíð"_s,
 		""_s,
-		u"Tonga summart\u00ed\u00f0"_s,
+		u"Tonga summartíð"_s,
 		""_s,
-		u"Tonga t\u00ed\u00f0"_s,
+		u"Tonga tíð"_s,
 		""_s
 	}));
 	$var($StringArray, Alaska, $new($StringArray, {
-		u"Alaska vanlig t\u00ed\u00f0"_s,
+		u"Alaska vanlig tíð"_s,
 		""_s,
-		u"Alaska summart\u00ed\u00f0"_s,
+		u"Alaska summartíð"_s,
 		""_s,
-		u"Alaska t\u00ed\u00f0"_s,
+		u"Alaska tíð"_s,
 		""_s
 	}));
 	$var($StringArray, Amazon, $new($StringArray, {
-		u"Amasona vanlig t\u00ed\u00f0"_s,
+		u"Amasona vanlig tíð"_s,
 		""_s,
-		u"Amasona summart\u00ed\u00f0"_s,
+		u"Amasona summartíð"_s,
 		""_s,
-		u"Amasona t\u00ed\u00f0"_s,
+		u"Amasona tíð"_s,
 		""_s
 	}));
 	$var($StringArray, Azores, $new($StringArray, {
-		u"Azorurnar vanlig t\u00ed\u00f0"_s,
+		u"Azorurnar vanlig tíð"_s,
 		""_s,
-		u"Azorurnar summart\u00ed\u00f0"_s,
+		u"Azorurnar summartíð"_s,
 		""_s,
-		u"Azorurnar t\u00ed\u00f0"_s,
+		u"Azorurnar tíð"_s,
 		""_s
 	}));
 	$var($StringArray, Bhutan, $new($StringArray, {
-		u"Butan t\u00ed\u00f0"_s,
+		u"Butan tíð"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -283,7 +283,7 @@ $ObjectArray2* TimeZoneNames_fo::getContents() {
 		""_s
 	}));
 	$var($StringArray, Brunei, $new($StringArray, {
-		u"Brunei Darussalam t\u00ed\u00f0"_s,
+		u"Brunei Darussalam tíð"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -291,15 +291,15 @@ $ObjectArray2* TimeZoneNames_fo::getContents() {
 		""_s
 	}));
 	$var($StringArray, Easter, $new($StringArray, {
-		u"P\u00e1skaoyggin vanlig t\u00ed\u00f0"_s,
+		u"Páskaoyggin vanlig tíð"_s,
 		""_s,
-		u"P\u00e1skaoyggin summart\u00ed\u00f0"_s,
+		u"Páskaoyggin summartíð"_s,
 		""_s,
-		u"P\u00e1skaoyggin t\u00ed\u00f0"_s,
+		u"Páskaoyggin tíð"_s,
 		""_s
 	}));
 	$var($StringArray, Guyana, $new($StringArray, {
-		u"Gujana t\u00ed\u00f0"_s,
+		u"Gujana tíð"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -307,15 +307,15 @@ $ObjectArray2* TimeZoneNames_fo::getContents() {
 		""_s
 	}));
 	$var($StringArray, Israel, $new($StringArray, {
-		u"\u00cdsrael vanlig t\u00ed\u00f0"_s,
+		u"Ísrael vanlig tíð"_s,
 		""_s,
-		u"\u00cdsrael summart\u00ed\u00f0"_s,
+		u"Ísrael summartíð"_s,
 		""_s,
-		u"\u00cdsrael t\u00ed\u00f0"_s,
+		u"Ísrael tíð"_s,
 		""_s
 	}));
 	$var($StringArray, Kosrae, $new($StringArray, {
-		u"Kosrae t\u00ed\u00f0"_s,
+		u"Kosrae tíð"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -323,7 +323,7 @@ $ObjectArray2* TimeZoneNames_fo::getContents() {
 		""_s
 	}));
 	$var($StringArray, Mawson, $new($StringArray, {
-		u"Mawson t\u00ed\u00f0"_s,
+		u"Mawson tíð"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -331,15 +331,15 @@ $ObjectArray2* TimeZoneNames_fo::getContents() {
 		""_s
 	}));
 	$var($StringArray, Moscow, $new($StringArray, {
-		u"Moskva vanlig t\u00ed\u00f0"_s,
+		u"Moskva vanlig tíð"_s,
 		""_s,
-		u"Moskva summart\u00ed\u00f0"_s,
+		u"Moskva summartíð"_s,
 		""_s,
-		u"Moskva t\u00ed\u00f0"_s,
+		u"Moskva tíð"_s,
 		""_s
 	}));
 	$var($StringArray, Ponape, $new($StringArray, {
-		u"Ponape t\u00ed\u00f0"_s,
+		u"Ponape tíð"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -347,7 +347,7 @@ $ObjectArray2* TimeZoneNames_fo::getContents() {
 		""_s
 	}));
 	$var($StringArray, Tahiti, $new($StringArray, {
-		u"Tahiti t\u00ed\u00f0"_s,
+		u"Tahiti tíð"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -355,15 +355,15 @@ $ObjectArray2* TimeZoneNames_fo::getContents() {
 		""_s
 	}));
 	$var($StringArray, Taipei, $new($StringArray, {
-		u"Taipei vanlig t\u00ed\u00f0"_s,
+		u"Taipei vanlig tíð"_s,
 		""_s,
-		u"Taipei summart\u00ed\u00f0"_s,
+		u"Taipei summartíð"_s,
 		""_s,
-		u"Taipei t\u00ed\u00f0"_s,
+		u"Taipei tíð"_s,
 		""_s
 	}));
 	$var($StringArray, Tuvalu, $new($StringArray, {
-		u"Tuvalu t\u00ed\u00f0"_s,
+		u"Tuvalu tíð"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -371,7 +371,7 @@ $ObjectArray2* TimeZoneNames_fo::getContents() {
 		""_s
 	}));
 	$var($StringArray, Vostok, $new($StringArray, {
-		u"Vostok t\u00ed\u00f0"_s,
+		u"Vostok tíð"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -379,7 +379,7 @@ $ObjectArray2* TimeZoneNames_fo::getContents() {
 		""_s
 	}));
 	$var($StringArray, Wallis, $new($StringArray, {
-		u"Wallis- og Futunaoyggjar t\u00ed\u00f0"_s,
+		u"Wallis- og Futunaoyggjar tíð"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -387,23 +387,23 @@ $ObjectArray2* TimeZoneNames_fo::getContents() {
 		""_s
 	}));
 	$var($StringArray, Arabian, $new($StringArray, {
-		u"Arabisk vanlig t\u00ed\u00f0"_s,
+		u"Arabisk vanlig tíð"_s,
 		""_s,
-		u"Arabisk summart\u00ed\u00f0"_s,
+		u"Arabisk summartíð"_s,
 		""_s,
-		u"Arabisk t\u00ed\u00f0"_s,
+		u"Arabisk tíð"_s,
 		""_s
 	}));
 	$var($StringArray, Armenia, $new($StringArray, {
-		u"Armenia vanlig t\u00ed\u00f0"_s,
+		u"Armenia vanlig tíð"_s,
 		""_s,
-		u"Armenia summart\u00ed\u00f0"_s,
+		u"Armenia summartíð"_s,
 		""_s,
-		u"Armenia t\u00ed\u00f0"_s,
+		u"Armenia tíð"_s,
 		""_s
 	}));
 	$var($StringArray, Bolivia, $new($StringArray, {
-		u"Bolivia t\u00ed\u00f0"_s,
+		u"Bolivia tíð"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -411,15 +411,15 @@ $ObjectArray2* TimeZoneNames_fo::getContents() {
 		""_s
 	}));
 	$var($StringArray, Chatham, $new($StringArray, {
-		u"Chatham vanlig t\u00ed\u00f0"_s,
+		u"Chatham vanlig tíð"_s,
 		""_s,
-		u"Chatham summart\u00ed\u00f0"_s,
+		u"Chatham summartíð"_s,
 		""_s,
-		u"Chatham t\u00ed\u00f0"_s,
+		u"Chatham tíð"_s,
 		""_s
 	}));
 	$var($StringArray, ETC_UTC, $new($StringArray, {
-		u"Samskipa\u00f0 heimst\u00ed\u00f0"_s,
+		u"Samskipað heimstíð"_s,
 		"UTC"_s,
 		""_s,
 		""_s,
@@ -427,7 +427,7 @@ $ObjectArray2* TimeZoneNames_fo::getContents() {
 		""_s
 	}));
 	$var($StringArray, Ecuador, $new($StringArray, {
-		u"Ekvador t\u00ed\u00f0"_s,
+		u"Ekvador tíð"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -435,7 +435,7 @@ $ObjectArray2* TimeZoneNames_fo::getContents() {
 		""_s
 	}));
 	$var($StringArray, Gambier, $new($StringArray, {
-		u"Gambier t\u00ed\u00f0"_s,
+		u"Gambier tíð"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -443,31 +443,31 @@ $ObjectArray2* TimeZoneNames_fo::getContents() {
 		""_s
 	}));
 	$var($StringArray, Georgia, $new($StringArray, {
-		u"Georgia vanlig t\u00ed\u00f0"_s,
+		u"Georgia vanlig tíð"_s,
 		""_s,
-		u"Georgia summart\u00ed\u00f0"_s,
+		u"Georgia summartíð"_s,
 		""_s,
-		u"Georgia t\u00ed\u00f0"_s,
+		u"Georgia tíð"_s,
 		""_s
 	}));
 	$var($StringArray, Irkutsk, $new($StringArray, {
-		u"Irkutsk vanlig t\u00ed\u00f0"_s,
+		u"Irkutsk vanlig tíð"_s,
 		""_s,
-		u"Irkutsk summart\u00ed\u00f0"_s,
+		u"Irkutsk summartíð"_s,
 		""_s,
-		u"Irkutsk t\u00ed\u00f0"_s,
+		u"Irkutsk tíð"_s,
 		""_s
 	}));
 	$var($StringArray, Magadan, $new($StringArray, {
-		u"Magadan vanlig t\u00ed\u00f0"_s,
+		u"Magadan vanlig tíð"_s,
 		""_s,
-		u"Magadan summart\u00ed\u00f0"_s,
+		u"Magadan summartíð"_s,
 		""_s,
-		u"Magadan t\u00ed\u00f0"_s,
+		u"Magadan tíð"_s,
 		""_s
 	}));
 	$var($StringArray, Myanmar, $new($StringArray, {
-		u"Myanmar (Burma) t\u00ed\u00f0"_s,
+		u"Myanmar (Burma) tíð"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -475,23 +475,23 @@ $ObjectArray2* TimeZoneNames_fo::getContents() {
 		""_s
 	}));
 	$var($StringArray, Norfolk, $new($StringArray, {
-		u"Norfolkoyggj vanlig t\u00ed\u00f0"_s,
+		u"Norfolkoyggj vanlig tíð"_s,
 		""_s,
-		u"Norfolkoyggj summart\u00ed\u00f0"_s,
+		u"Norfolkoyggj summartíð"_s,
 		""_s,
-		u"Norfolkoyggj t\u00ed\u00f0"_s,
+		u"Norfolkoyggj tíð"_s,
 		""_s
 	}));
 	$var($StringArray, Noronha, $new($StringArray, {
-		u"Fernando de Noronha vanlig t\u00ed\u00f0"_s,
+		u"Fernando de Noronha vanlig tíð"_s,
 		""_s,
-		u"Fernando de Noronha summart\u00ed\u00f0"_s,
+		u"Fernando de Noronha summartíð"_s,
 		""_s,
-		u"Fernando de Noronha t\u00ed\u00f0"_s,
+		u"Fernando de Noronha tíð"_s,
 		""_s
 	}));
 	$var($StringArray, Reunion, $new($StringArray, {
-		u"R\u00e9union t\u00ed\u00f0"_s,
+		u"Réunion tíð"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -499,7 +499,7 @@ $ObjectArray2* TimeZoneNames_fo::getContents() {
 		""_s
 	}));
 	$var($StringArray, Rothera, $new($StringArray, {
-		u"Rothera t\u00ed\u00f0"_s,
+		u"Rothera tíð"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -507,7 +507,7 @@ $ObjectArray2* TimeZoneNames_fo::getContents() {
 		""_s
 	}));
 	$var($StringArray, Solomon, $new($StringArray, {
-		u"Salomonoyggjar t\u00ed\u00f0"_s,
+		u"Salomonoyggjar tíð"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -515,7 +515,7 @@ $ObjectArray2* TimeZoneNames_fo::getContents() {
 		""_s
 	}));
 	$var($StringArray, Tokelau, $new($StringArray, {
-		u"Tokelau t\u00ed\u00f0"_s,
+		u"Tokelau tíð"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -523,47 +523,47 @@ $ObjectArray2* TimeZoneNames_fo::getContents() {
 		""_s
 	}));
 	$var($StringArray, Uruguay, $new($StringArray, {
-		u"Uruguai vanlig t\u00ed\u00f0"_s,
+		u"Uruguai vanlig tíð"_s,
 		""_s,
-		u"Uruguai summart\u00ed\u00f0"_s,
+		u"Uruguai summartíð"_s,
 		""_s,
-		u"Uruguai t\u00ed\u00f0"_s,
+		u"Uruguai tíð"_s,
 		""_s
 	}));
 	$var($StringArray, Vanuatu, $new($StringArray, {
-		u"Vanuatu vanlig t\u00ed\u00f0"_s,
+		u"Vanuatu vanlig tíð"_s,
 		""_s,
-		u"Vanuatu summart\u00ed\u00f0"_s,
+		u"Vanuatu summartíð"_s,
 		""_s,
-		u"Vanuatu t\u00ed\u00f0"_s,
+		u"Vanuatu tíð"_s,
 		""_s
 	}));
 	$var($StringArray, Yakutsk, $new($StringArray, {
-		u"Yakutsk vanlig t\u00ed\u00f0"_s,
+		u"Yakutsk vanlig tíð"_s,
 		""_s,
-		u"Yakutsk summart\u00ed\u00f0"_s,
+		u"Yakutsk summartíð"_s,
 		""_s,
-		u"Yakutsk t\u00ed\u00f0"_s,
+		u"Yakutsk tíð"_s,
 		""_s
 	}));
 	$var($StringArray, Atlantic, $new($StringArray, {
-		u"Atlantic vanlig t\u00ed\u00f0"_s,
+		u"Atlantic vanlig tíð"_s,
 		""_s,
-		u"Atlantic summart\u00ed\u00f0"_s,
+		u"Atlantic summartíð"_s,
 		""_s,
-		u"Atlantic t\u00ed\u00f0"_s,
+		u"Atlantic tíð"_s,
 		""_s
 	}));
 	$var($StringArray, Brasilia, $new($StringArray, {
-		u"Brasilia vanlig t\u00ed\u00f0"_s,
+		u"Brasilia vanlig tíð"_s,
 		""_s,
-		u"Brasilia summart\u00ed\u00f0"_s,
+		u"Brasilia summartíð"_s,
 		""_s,
-		u"Brasilia t\u00ed\u00f0"_s,
+		u"Brasilia tíð"_s,
 		""_s
 	}));
 	$var($StringArray, Chamorro, $new($StringArray, {
-		u"Chamorro vanlig t\u00ed\u00f0"_s,
+		u"Chamorro vanlig tíð"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -571,23 +571,23 @@ $ObjectArray2* TimeZoneNames_fo::getContents() {
 		""_s
 	}));
 	$var($StringArray, Colombia, $new($StringArray, {
-		u"Kolombia vanlig t\u00ed\u00f0"_s,
+		u"Kolombia vanlig tíð"_s,
 		""_s,
-		u"Kolombia summart\u00ed\u00f0"_s,
+		u"Kolombia summartíð"_s,
 		""_s,
-		u"Kolombia t\u00ed\u00f0"_s,
+		u"Kolombia tíð"_s,
 		""_s
 	}));
 	$var($StringArray, Falkland, $new($StringArray, {
-		u"Falklandsoyggjar vanlig t\u00ed\u00f0"_s,
+		u"Falklandsoyggjar vanlig tíð"_s,
 		""_s,
-		u"Falklandsoyggjar summart\u00ed\u00f0"_s,
+		u"Falklandsoyggjar summartíð"_s,
 		""_s,
-		u"Falklandsoyggjar t\u00ed\u00f0"_s,
+		u"Falklandsoyggjar tíð"_s,
 		""_s
 	}));
 	$var($StringArray, Malaysia, $new($StringArray, {
-		u"Malaisia t\u00ed\u00f0"_s,
+		u"Malaisia tíð"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -595,7 +595,7 @@ $ObjectArray2* TimeZoneNames_fo::getContents() {
 		""_s
 	}));
 	$var($StringArray, Maldives, $new($StringArray, {
-		u"Maldivoyggjar t\u00ed\u00f0"_s,
+		u"Maldivoyggjar tíð"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -603,31 +603,31 @@ $ObjectArray2* TimeZoneNames_fo::getContents() {
 		""_s
 	}));
 	$var($StringArray, Mongolia, $new($StringArray, {
-		u"Ulan Bator vanlig t\u00ed\u00f0"_s,
+		u"Ulan Bator vanlig tíð"_s,
 		""_s,
-		u"Ulan Bator summart\u00ed\u00f0"_s,
+		u"Ulan Bator summartíð"_s,
 		""_s,
-		u"Ulan Bator t\u00ed\u00f0"_s,
+		u"Ulan Bator tíð"_s,
 		""_s
 	}));
 	$var($StringArray, Pakistan, $new($StringArray, {
-		u"Pakistan vanlig t\u00ed\u00f0"_s,
+		u"Pakistan vanlig tíð"_s,
 		""_s,
-		u"Pakistan summart\u00ed\u00f0"_s,
+		u"Pakistan summartíð"_s,
 		""_s,
-		u"Pakistan t\u00ed\u00f0"_s,
+		u"Pakistan tíð"_s,
 		""_s
 	}));
 	$var($StringArray, Paraguay, $new($StringArray, {
-		u"Paraguai vanlig t\u00ed\u00f0"_s,
+		u"Paraguai vanlig tíð"_s,
 		""_s,
-		u"Paraguai summart\u00ed\u00f0"_s,
+		u"Paraguai summartíð"_s,
 		""_s,
-		u"Paraguai t\u00ed\u00f0"_s,
+		u"Paraguai tíð"_s,
 		""_s
 	}));
 	$var($StringArray, Pitcairn, $new($StringArray, {
-		u"Pitcairnoyggjar t\u00ed\u00f0"_s,
+		u"Pitcairnoyggjar tíð"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -635,15 +635,15 @@ $ObjectArray2* TimeZoneNames_fo::getContents() {
 		""_s
 	}));
 	$var($StringArray, Sakhalin, $new($StringArray, {
-		u"Sakhalin vanlig t\u00ed\u00f0"_s,
+		u"Sakhalin vanlig tíð"_s,
 		""_s,
-		u"Sakhalin summart\u00ed\u00f0"_s,
+		u"Sakhalin summartíð"_s,
 		""_s,
-		u"Sakhalin t\u00ed\u00f0"_s,
+		u"Sakhalin tíð"_s,
 		""_s
 	}));
 	$var($StringArray, Suriname, $new($StringArray, {
-		u"Surinam t\u00ed\u00f0"_s,
+		u"Surinam tíð"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -651,15 +651,15 @@ $ObjectArray2* TimeZoneNames_fo::getContents() {
 		""_s
 	}));
 	$var($StringArray, Argentina, $new($StringArray, {
-		u"Argentina vanlig t\u00ed\u00f0"_s,
+		u"Argentina vanlig tíð"_s,
 		""_s,
-		u"Argentina summart\u00ed\u00f0"_s,
+		u"Argentina summartíð"_s,
 		""_s,
-		u"Argentina t\u00ed\u00f0"_s,
+		u"Argentina tíð"_s,
 		""_s
 	}));
 	$var($StringArray, Christmas, $new($StringArray, {
-		u"J\u00f3laoyggj t\u00ed\u00f0"_s,
+		u"Jólaoyggj tíð"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -667,7 +667,7 @@ $ObjectArray2* TimeZoneNames_fo::getContents() {
 		""_s
 	}));
 	$var($StringArray, Galapagos, $new($StringArray, {
-		u"Galapagos t\u00ed\u00f0"_s,
+		u"Galapagos tíð"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -675,15 +675,15 @@ $ObjectArray2* TimeZoneNames_fo::getContents() {
 		""_s
 	}));
 	$var($StringArray, Hong_Kong, $new($StringArray, {
-		u"Hong Kong vanlig t\u00ed\u00f0"_s,
+		u"Hong Kong vanlig tíð"_s,
 		""_s,
-		u"Hong Kong summart\u00ed\u00f0"_s,
+		u"Hong Kong summartíð"_s,
 		""_s,
-		u"Hong Kong t\u00ed\u00f0"_s,
+		u"Hong Kong tíð"_s,
 		""_s
 	}));
 	$var($StringArray, Indochina, $new($StringArray, {
-		u"Indokina t\u00ed\u00f0"_s,
+		u"Indokina tíð"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -691,7 +691,7 @@ $ObjectArray2* TimeZoneNames_fo::getContents() {
 		""_s
 	}));
 	$var($StringArray, Kyrgystan, $new($StringArray, {
-		u"Kirgisia t\u00ed\u00f0"_s,
+		u"Kirgisia tíð"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -699,15 +699,15 @@ $ObjectArray2* TimeZoneNames_fo::getContents() {
 		""_s
 	}));
 	$var($StringArray, Lord_Howe, $new($StringArray, {
-		u"Lord Howe vanlig t\u00ed\u00f0"_s,
+		u"Lord Howe vanlig tíð"_s,
 		""_s,
-		u"Lord Howe summart\u00ed\u00f0"_s,
+		u"Lord Howe summartíð"_s,
 		""_s,
-		u"Lord Howe t\u00ed\u00f0"_s,
+		u"Lord Howe tíð"_s,
 		""_s
 	}));
 	$var($StringArray, Marquesas, $new($StringArray, {
-		u"Marquesas t\u00ed\u00f0"_s,
+		u"Marquesas tíð"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -715,15 +715,15 @@ $ObjectArray2* TimeZoneNames_fo::getContents() {
 		""_s
 	}));
 	$var($StringArray, Mauritius, $new($StringArray, {
-		u"M\u00f3ritius vanlig t\u00ed\u00f0"_s,
+		u"Móritius vanlig tíð"_s,
 		""_s,
-		u"M\u00f3ritius summart\u00ed\u00f0"_s,
+		u"Móritius summartíð"_s,
 		""_s,
-		u"M\u00f3ritius t\u00ed\u00f0"_s,
+		u"Móritius tíð"_s,
 		""_s
 	}));
 	$var($StringArray, Singapore, $new($StringArray, {
-		u"Singapor t\u00ed\u00f0"_s,
+		u"Singapor tíð"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -731,7 +731,7 @@ $ObjectArray2* TimeZoneNames_fo::getContents() {
 		""_s
 	}));
 	$var($StringArray, Venezuela, $new($StringArray, {
-		u"Venesuela t\u00ed\u00f0"_s,
+		u"Venesuela tíð"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -739,39 +739,39 @@ $ObjectArray2* TimeZoneNames_fo::getContents() {
 		""_s
 	}));
 	$var($StringArray, Volgograd, $new($StringArray, {
-		u"Volgograd vanlig t\u00ed\u00f0"_s,
+		u"Volgograd vanlig tíð"_s,
 		""_s,
-		u"Volgograd summart\u00ed\u00f0"_s,
+		u"Volgograd summartíð"_s,
 		""_s,
-		u"Volgograd t\u00ed\u00f0"_s,
+		u"Volgograd tíð"_s,
 		""_s
 	}));
 	$var($StringArray, Azerbaijan, $new($StringArray, {
-		u"Aserbadjan vanlig t\u00ed\u00f0"_s,
+		u"Aserbadjan vanlig tíð"_s,
 		""_s,
-		u"Aserbadjan summart\u00ed\u00f0"_s,
+		u"Aserbadjan summartíð"_s,
 		""_s,
-		u"Aserbadjan t\u00ed\u00f0"_s,
+		u"Aserbadjan tíð"_s,
 		""_s
 	}));
 	$var($StringArray, Bangladesh, $new($StringArray, {
-		u"Bangladesj vanlig t\u00ed\u00f0"_s,
+		u"Bangladesj vanlig tíð"_s,
 		""_s,
-		u"Bangladesj summart\u00ed\u00f0"_s,
+		u"Bangladesj summartíð"_s,
 		""_s,
-		u"Bangladesj t\u00ed\u00f0"_s,
+		u"Bangladesj tíð"_s,
 		""_s
 	}));
 	$var($StringArray, Cape_Verde, $new($StringArray, {
-		u"Gr\u00f8nh\u00f8vdaoyggjar vanlig t\u00ed\u00f0"_s,
+		u"Grønhøvdaoyggjar vanlig tíð"_s,
 		""_s,
-		u"Gr\u00f8nh\u00f8vdaoyggjar summart\u00ed\u00f0"_s,
+		u"Grønhøvdaoyggjar summartíð"_s,
 		""_s,
-		u"Gr\u00f8nh\u00f8vdaoyggjar t\u00ed\u00f0"_s,
+		u"Grønhøvdaoyggjar tíð"_s,
 		""_s
 	}));
 	$var($StringArray, East_Timor, $new($StringArray, {
-		u"Eysturtimor t\u00ed\u00f0"_s,
+		u"Eysturtimor tíð"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -779,7 +779,7 @@ $ObjectArray2* TimeZoneNames_fo::getContents() {
 		""_s
 	}));
 	$var($StringArray, Seychelles, $new($StringArray, {
-		u"Seyskelloyggjar t\u00ed\u00f0"_s,
+		u"Seyskelloyggjar tíð"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -787,7 +787,7 @@ $ObjectArray2* TimeZoneNames_fo::getContents() {
 		""_s
 	}));
 	$var($StringArray, Tajikistan, $new($StringArray, {
-		u"Tadsjikistan t\u00ed\u00f0"_s,
+		u"Tadsjikistan tíð"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -795,15 +795,15 @@ $ObjectArray2* TimeZoneNames_fo::getContents() {
 		""_s
 	}));
 	$var($StringArray, Uzbekistan, $new($StringArray, {
-		u"Usbekistan vanlig t\u00ed\u00f0"_s,
+		u"Usbekistan vanlig tíð"_s,
 		""_s,
-		u"Usbekistan summart\u00ed\u00f0"_s,
+		u"Usbekistan summartíð"_s,
 		""_s,
-		u"Usbekistan t\u00ed\u00f0"_s,
+		u"Usbekistan tíð"_s,
 		""_s
 	}));
 	$var($StringArray, Afghanistan, $new($StringArray, {
-		u"Afganistan t\u00ed\u00f0"_s,
+		u"Afganistan tíð"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -811,47 +811,47 @@ $ObjectArray2* TimeZoneNames_fo::getContents() {
 		""_s
 	}));
 	$var($StringArray, Krasnoyarsk, $new($StringArray, {
-		u"Krasnoyarsk vanlig t\u00ed\u00f0"_s,
+		u"Krasnoyarsk vanlig tíð"_s,
 		""_s,
-		u"Krasnoyarsk summart\u00ed\u00f0"_s,
+		u"Krasnoyarsk summartíð"_s,
 		""_s,
-		u"Krasnoyarsk t\u00ed\u00f0"_s,
+		u"Krasnoyarsk tíð"_s,
 		""_s
 	}));
 	$var($StringArray, New_Zealand, $new($StringArray, {
-		u"N\u00fds\u00e6land vanlig t\u00ed\u00f0"_s,
+		u"Nýsæland vanlig tíð"_s,
 		""_s,
-		u"N\u00fds\u00e6land summart\u00ed\u00f0"_s,
+		u"Nýsæland summartíð"_s,
 		""_s,
-		u"N\u00fds\u00e6land t\u00ed\u00f0"_s,
+		u"Nýsæland tíð"_s,
 		""_s
 	}));
 	$var($StringArray, Novosibirsk, $new($StringArray, {
-		u"Novosibirsk vanlig t\u00ed\u00f0"_s,
+		u"Novosibirsk vanlig tíð"_s,
 		""_s,
-		u"Novosibirsk summart\u00ed\u00f0"_s,
+		u"Novosibirsk summartíð"_s,
 		""_s,
-		u"Novosibirsk t\u00ed\u00f0"_s,
+		u"Novosibirsk tíð"_s,
 		""_s
 	}));
 	$var($StringArray, Philippines, $new($StringArray, {
-		u"Filipsoyggjar vanlig t\u00ed\u00f0"_s,
+		u"Filipsoyggjar vanlig tíð"_s,
 		""_s,
-		u"Filipsoyggjar summart\u00ed\u00f0"_s,
+		u"Filipsoyggjar summartíð"_s,
 		""_s,
-		u"Filipsoyggjar t\u00ed\u00f0"_s,
+		u"Filipsoyggjar tíð"_s,
 		""_s
 	}));
 	$var($StringArray, Vladivostok, $new($StringArray, {
-		u"Vladivostok vanlig t\u00ed\u00f0"_s,
+		u"Vladivostok vanlig tíð"_s,
 		""_s,
-		u"Vladivostok summart\u00ed\u00f0"_s,
+		u"Vladivostok summartíð"_s,
 		""_s,
-		u"Vladivostok t\u00ed\u00f0"_s,
+		u"Vladivostok tíð"_s,
 		""_s
 	}));
 	$var($StringArray, Indian_Ocean, $new($StringArray, {
-		u"Indiahav t\u00ed\u00f0"_s,
+		u"Indiahav tíð"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -859,7 +859,7 @@ $ObjectArray2* TimeZoneNames_fo::getContents() {
 		""_s
 	}));
 	$var($StringArray, Line_Islands, $new($StringArray, {
-		u"Lineoyggjar t\u00ed\u00f0"_s,
+		u"Lineoyggjar tíð"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -867,23 +867,23 @@ $ObjectArray2* TimeZoneNames_fo::getContents() {
 		""_s
 	}));
 	$var($StringArray, Newfoundland, $new($StringArray, {
-		u"Newfoundland vanlig t\u00ed\u00f0"_s,
+		u"Newfoundland vanlig tíð"_s,
 		""_s,
-		u"Newfoundland summart\u00ed\u00f0"_s,
+		u"Newfoundland summartíð"_s,
 		""_s,
-		u"Newfoundland t\u00ed\u00f0"_s,
+		u"Newfoundland tíð"_s,
 		""_s
 	}));
 	$var($StringArray, Turkmenistan, $new($StringArray, {
-		u"Turkmenistan vanlig t\u00ed\u00f0"_s,
+		u"Turkmenistan vanlig tíð"_s,
 		""_s,
-		u"Turkmenistan summart\u00ed\u00f0"_s,
+		u"Turkmenistan summartíð"_s,
 		""_s,
-		u"Turkmenistan t\u00ed\u00f0"_s,
+		u"Turkmenistan tíð"_s,
 		""_s
 	}));
 	$var($StringArray, French_Guiana, $new($StringArray, {
-		u"Franska Gujana t\u00ed\u00f0"_s,
+		u"Franska Gujana tíð"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -891,15 +891,15 @@ $ObjectArray2* TimeZoneNames_fo::getContents() {
 		""_s
 	}));
 	$var($StringArray, New_Caledonia, $new($StringArray, {
-		u"N\u00fdkaled\u00f3nia vanlig t\u00ed\u00f0"_s,
+		u"Nýkaledónia vanlig tíð"_s,
 		""_s,
-		u"N\u00fdkaled\u00f3nia summart\u00ed\u00f0"_s,
+		u"Nýkaledónia summartíð"_s,
 		""_s,
-		u"N\u00fdkaled\u00f3nia t\u00ed\u00f0"_s,
+		u"Nýkaledónia tíð"_s,
 		""_s
 	}));
 	$var($StringArray, South_Georgia, $new($StringArray, {
-		u"Su\u00f0urgeorgiaoyggjar t\u00ed\u00f0"_s,
+		u"Suðurgeorgiaoyggjar tíð"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -907,15 +907,15 @@ $ObjectArray2* TimeZoneNames_fo::getContents() {
 		""_s
 	}));
 	$var($StringArray, Yekaterinburg, $new($StringArray, {
-		u"Yekaterinburg vanlig t\u00ed\u00f0"_s,
+		u"Yekaterinburg vanlig tíð"_s,
 		""_s,
-		u"Yekaterinburg summart\u00ed\u00f0"_s,
+		u"Yekaterinburg summartíð"_s,
 		""_s,
-		u"Yekaterinburg t\u00ed\u00f0"_s,
+		u"Yekaterinburg tíð"_s,
 		""_s
 	}));
 	$var($StringArray, Africa_Central, $new($StringArray, {
-		u"Mi\u00f0afrika t\u00ed\u00f0"_s,
+		u"Miðafrika tíð"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -923,7 +923,7 @@ $ObjectArray2* TimeZoneNames_fo::getContents() {
 		""_s
 	}));
 	$var($StringArray, Africa_Eastern, $new($StringArray, {
-		u"Eysturafrika t\u00ed\u00f0"_s,
+		u"Eysturafrika tíð"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -931,15 +931,15 @@ $ObjectArray2* TimeZoneNames_fo::getContents() {
 		""_s
 	}));
 	$var($StringArray, Africa_Western, $new($StringArray, {
-		u"Vesturafrika vanlig t\u00ed\u00f0"_s,
+		u"Vesturafrika vanlig tíð"_s,
 		""_s,
-		u"Vesturafrika summart\u00ed\u00f0"_s,
+		u"Vesturafrika summartíð"_s,
 		""_s,
-		u"Vesturafrika t\u00ed\u00f0"_s,
+		u"Vesturafrika tíð"_s,
 		""_s
 	}));
 	$var($StringArray, DumontDUrville, $new($StringArray, {
-		u"Dumont-d\u2019Urville t\u00ed\u00f0"_s,
+		u"Dumont-d’Urville tíð"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -947,39 +947,39 @@ $ObjectArray2* TimeZoneNames_fo::getContents() {
 		""_s
 	}));
 	$var($StringArray, Europe_Central, $new($StringArray, {
-		u"Mi\u00f0evropa vanlig t\u00ed\u00f0"_s,
+		u"Miðevropa vanlig tíð"_s,
 		""_s,
-		u"Mi\u00f0evropa summart\u00ed\u00f0"_s,
+		u"Miðevropa summartíð"_s,
 		""_s,
-		u"Mi\u00f0evropa t\u00ed\u00f0"_s,
+		u"Miðevropa tíð"_s,
 		""_s
 	}));
 	$var($StringArray, Europe_Eastern, $new($StringArray, {
-		u"Eysturevropa vanlig t\u00ed\u00f0"_s,
+		u"Eysturevropa vanlig tíð"_s,
 		""_s,
-		u"Eysturevropa summart\u00ed\u00f0"_s,
+		u"Eysturevropa summartíð"_s,
 		""_s,
-		u"Eysturevropa t\u00ed\u00f0"_s,
+		u"Eysturevropa tíð"_s,
 		""_s
 	}));
 	$var($StringArray, Europe_Western, $new($StringArray, {
-		u"Vesturevropa vanlig t\u00ed\u00f0"_s,
+		u"Vesturevropa vanlig tíð"_s,
 		""_s,
-		u"Vesturevropa summart\u00ed\u00f0"_s,
+		u"Vesturevropa summartíð"_s,
 		""_s,
-		u"Vesturevropa t\u00ed\u00f0"_s,
+		u"Vesturevropa tíð"_s,
 		""_s
 	}));
 	$var($StringArray, Mexico_Pacific, $new($StringArray, {
-		u"Mexican Pacific vanlig t\u00ed\u00f0"_s,
+		u"Mexican Pacific vanlig tíð"_s,
 		""_s,
-		u"Mexican Pacific summart\u00ed\u00f0"_s,
+		u"Mexican Pacific summartíð"_s,
 		""_s,
-		u"Mexican Pacific t\u00ed\u00f0"_s,
+		u"Mexican Pacific tíð"_s,
 		""_s
 	}));
 	$var($StringArray, Africa_Southern, $new($StringArray, {
-		u"Su\u00f0urafrika vanlig t\u00ed\u00f0"_s,
+		u"Suðurafrika vanlig tíð"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -987,31 +987,31 @@ $ObjectArray2* TimeZoneNames_fo::getContents() {
 		""_s
 	}));
 	$var($StringArray, America_Central, $new($StringArray, {
-		u"Central vanlig t\u00ed\u00f0"_s,
+		u"Central vanlig tíð"_s,
 		""_s,
-		u"Central summart\u00ed\u00f0"_s,
+		u"Central summartíð"_s,
 		""_s,
-		u"Central t\u00ed\u00f0"_s,
+		u"Central tíð"_s,
 		""_s
 	}));
 	$var($StringArray, America_Eastern, $new($StringArray, {
-		u"Eastern vanlig t\u00ed\u00f0"_s,
+		u"Eastern vanlig tíð"_s,
 		""_s,
-		u"Eastern summart\u00ed\u00f0"_s,
+		u"Eastern summartíð"_s,
 		""_s,
-		u"Eastern t\u00ed\u00f0"_s,
+		u"Eastern tíð"_s,
 		""_s
 	}));
 	$var($StringArray, America_Pacific, $new($StringArray, {
-		u"Pacific vanlig t\u00ed\u00f0"_s,
+		u"Pacific vanlig tíð"_s,
 		""_s,
-		u"Pacific summart\u00ed\u00f0"_s,
+		u"Pacific summartíð"_s,
 		""_s,
-		u"Pacific t\u00ed\u00f0"_s,
+		u"Pacific tíð"_s,
 		""_s
 	}));
 	$var($StringArray, French_Southern, $new($StringArray, {
-		u"Fronsku sunnaru landa\u00f8ki og Antarktis t\u00ed\u00f0"_s,
+		u"Fronsku sunnaru landaøki og Antarktis tíð"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -1019,7 +1019,7 @@ $ObjectArray2* TimeZoneNames_fo::getContents() {
 		""_s
 	}));
 	$var($StringArray, Gilbert_Islands, $new($StringArray, {
-		u"Gilbertoyggjar t\u00ed\u00f0"_s,
+		u"Gilbertoyggjar tíð"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -1027,15 +1027,15 @@ $ObjectArray2* TimeZoneNames_fo::getContents() {
 		""_s
 	}));
 	$var($StringArray, Hawaii_Aleutian, $new($StringArray, {
-		u"Hawaii-Aleutian vanlig t\u00ed\u00f0"_s,
+		u"Hawaii-Aleutian vanlig tíð"_s,
 		""_s,
-		u"Hawaii-Aleutian summart\u00ed\u00f0"_s,
+		u"Hawaii-Aleutian summartíð"_s,
 		""_s,
-		u"Hawaii-Aleutian t\u00ed\u00f0"_s,
+		u"Hawaii-Aleutian tíð"_s,
 		""_s
 	}));
 	$var($StringArray, Phoenix_Islands, $new($StringArray, {
-		u"Phoenixoyggjar t\u00ed\u00f0"_s,
+		u"Phoenixoyggjar tíð"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -1043,23 +1043,23 @@ $ObjectArray2* TimeZoneNames_fo::getContents() {
 		""_s
 	}));
 	$var($StringArray, Pierre_Miquelon, $new($StringArray, {
-		u"St. Pierre & Miquelon vanlig t\u00ed\u00f0"_s,
+		u"St. Pierre & Miquelon vanlig tíð"_s,
 		""_s,
-		u"St. Pierre & Miquelon summart\u00ed\u00f0"_s,
+		u"St. Pierre & Miquelon summartíð"_s,
 		""_s,
-		u"St. Pierre & Miquelon t\u00ed\u00f0"_s,
+		u"St. Pierre & Miquelon tíð"_s,
 		""_s
 	}));
 	$var($StringArray, America_Mountain, $new($StringArray, {
-		u"Mountain vanlig t\u00ed\u00f0"_s,
+		u"Mountain vanlig tíð"_s,
 		""_s,
-		u"Mountain summart\u00ed\u00f0"_s,
+		u"Mountain summartíð"_s,
 		""_s,
-		u"Mountain t\u00ed\u00f0"_s,
+		u"Mountain tíð"_s,
 		""_s
 	}));
 	$var($StringArray, Marshall_Islands, $new($StringArray, {
-		u"Marshalloyggjar t\u00ed\u00f0"_s,
+		u"Marshalloyggjar tíð"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -1067,15 +1067,15 @@ $ObjectArray2* TimeZoneNames_fo::getContents() {
 		""_s
 	}));
 	$var($StringArray, Mexico_Northwest, $new($StringArray, {
-		u"Northwest Mexico vanlig t\u00ed\u00f0"_s,
+		u"Northwest Mexico vanlig tíð"_s,
 		""_s,
-		u"Northwest Mexico summart\u00ed\u00f0"_s,
+		u"Northwest Mexico summartíð"_s,
 		""_s,
-		u"Northwest Mexico t\u00ed\u00f0"_s,
+		u"Northwest Mexico tíð"_s,
 		""_s
 	}));
 	$var($StringArray, Papua_New_Guinea, $new($StringArray, {
-		u"Papua N\u00fdguinea t\u00ed\u00f0"_s,
+		u"Papua Nýguinea tíð"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -1083,47 +1083,47 @@ $ObjectArray2* TimeZoneNames_fo::getContents() {
 		""_s
 	}));
 	$var($StringArray, Australia_Central, $new($StringArray, {
-		u"mi\u00f0 Avstralia vanlig t\u00ed\u00f0"_s,
+		u"mið Avstralia vanlig tíð"_s,
 		""_s,
-		u"mi\u00f0 Avstralia summart\u00ed\u00f0"_s,
+		u"mið Avstralia summartíð"_s,
 		""_s,
-		u"mi\u00f0 Avstralia t\u00ed\u00f0"_s,
+		u"mið Avstralia tíð"_s,
 		""_s
 	}));
 	$var($StringArray, Australia_Eastern, $new($StringArray, {
-		u"eystur Avstralia vanlig t\u00ed\u00f0"_s,
+		u"eystur Avstralia vanlig tíð"_s,
 		""_s,
-		u"eystur Avstralia summart\u00ed\u00f0"_s,
+		u"eystur Avstralia summartíð"_s,
 		""_s,
-		u"eystur Avstralia t\u00ed\u00f0"_s,
+		u"eystur Avstralia tíð"_s,
 		""_s
 	}));
 	$var($StringArray, Australia_Western, $new($StringArray, {
-		u"vestur Avstralia vanlig t\u00ed\u00f0"_s,
+		u"vestur Avstralia vanlig tíð"_s,
 		""_s,
-		u"vestur Avstralia summart\u00ed\u00f0"_s,
+		u"vestur Avstralia summartíð"_s,
 		""_s,
-		u"vestur Avstralia t\u00ed\u00f0"_s,
+		u"vestur Avstralia tíð"_s,
 		""_s
 	}));
 	$var($StringArray, Greenland_Eastern, $new($StringArray, {
-		u"Eystur gr\u00f8nlendsk vanlig t\u00ed\u00f0"_s,
+		u"Eystur grønlendsk vanlig tíð"_s,
 		""_s,
-		u"Eystur gr\u00f8nlendsk summart\u00ed\u00f0"_s,
+		u"Eystur grønlendsk summartíð"_s,
 		""_s,
-		u"Eystur gr\u00f8nlendsk t\u00ed\u00f0"_s,
+		u"Eystur grønlendsk tíð"_s,
 		""_s
 	}));
 	$var($StringArray, Greenland_Western, $new($StringArray, {
-		u"Vestur gr\u00f8nlendsk vanlig t\u00ed\u00f0"_s,
+		u"Vestur grønlendsk vanlig tíð"_s,
 		""_s,
-		u"Vestur gr\u00f8nlendsk summart\u00ed\u00f0"_s,
+		u"Vestur grønlendsk summartíð"_s,
 		""_s,
-		u"Vestur gr\u00f8nlendsk t\u00ed\u00f0"_s,
+		u"Vestur grønlendsk tíð"_s,
 		""_s
 	}));
 	$var($StringArray, Indonesia_Central, $new($StringArray, {
-		u"Mi\u00f0 Indonesia t\u00ed\u00f0"_s,
+		u"Mið Indonesia tíð"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -1131,7 +1131,7 @@ $ObjectArray2* TimeZoneNames_fo::getContents() {
 		""_s
 	}));
 	$var($StringArray, Indonesia_Eastern, $new($StringArray, {
-		u"Eystur Indonesia t\u00ed\u00f0"_s,
+		u"Eystur Indonesia tíð"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -1139,7 +1139,7 @@ $ObjectArray2* TimeZoneNames_fo::getContents() {
 		""_s
 	}));
 	$var($StringArray, Indonesia_Western, $new($StringArray, {
-		u"Vestur Indonesia t\u00ed\u00f0"_s,
+		u"Vestur Indonesia tíð"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -1147,7 +1147,7 @@ $ObjectArray2* TimeZoneNames_fo::getContents() {
 		""_s
 	}));
 	$var($StringArray, Kazakhstan_Eastern, $new($StringArray, {
-		u"Eystur Kasakstan t\u00ed\u00f0"_s,
+		u"Eystur Kasakstan tíð"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -1155,7 +1155,7 @@ $ObjectArray2* TimeZoneNames_fo::getContents() {
 		""_s
 	}));
 	$var($StringArray, Kazakhstan_Western, $new($StringArray, {
-		u"Vestur Kasakstan t\u00ed\u00f0"_s,
+		u"Vestur Kasakstan tíð"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -1163,11 +1163,11 @@ $ObjectArray2* TimeZoneNames_fo::getContents() {
 		""_s
 	}));
 	$var($StringArray, Australia_CentralWestern, $new($StringArray, {
-		u"mi\u00f0vestur Avstralia vanlig t\u00ed\u00f0"_s,
+		u"miðvestur Avstralia vanlig tíð"_s,
 		""_s,
-		u"mi\u00f0vestur Avstralia summart\u00ed\u00f0"_s,
+		u"miðvestur Avstralia summartíð"_s,
 		""_s,
-		u"mi\u00f0vestur Avstralia t\u00ed\u00f0"_s,
+		u"miðvestur Avstralia tíð"_s,
 		""_s
 	}));
 	$var($ObjectArray2, data, $new($ObjectArray2, {
@@ -1810,9 +1810,9 @@ $ObjectArray2* TimeZoneNames_fo::getContents() {
 		$$new($ObjectArray, {
 			$of("Europe/Dublin"_s),
 			$of($$new($StringArray, {
-				u"Greenwich Mean t\u00ed\u00f0"_s,
+				u"Greenwich Mean tíð"_s,
 				""_s,
-				u"\u00cdrsk vanlig t\u00ed\u00f0"_s,
+				u"Írsk vanlig tíð"_s,
 				""_s,
 				""_s,
 				""_s
@@ -1829,9 +1829,9 @@ $ObjectArray2* TimeZoneNames_fo::getContents() {
 		$$new($ObjectArray, {
 			$of("Europe/London"_s),
 			$of($$new($StringArray, {
-				u"Greenwich Mean t\u00ed\u00f0"_s,
+				u"Greenwich Mean tíð"_s,
 				""_s,
-				u"Bretsk summart\u00ed\u00f0"_s,
+				u"Bretsk summartíð"_s,
 				""_s,
 				""_s,
 				""_s
@@ -2040,9 +2040,9 @@ $ObjectArray2* TimeZoneNames_fo::getContents() {
 		$$new($ObjectArray, {
 			$of("Europe/Belfast"_s),
 			$of($$new($StringArray, {
-				u"Greenwich Mean t\u00ed\u00f0"_s,
+				u"Greenwich Mean tíð"_s,
 				""_s,
-				u"Bretsk summart\u00ed\u00f0"_s,
+				u"Bretsk summartíð"_s,
 				""_s,
 				""_s,
 				""_s
@@ -3150,7 +3150,7 @@ $ObjectArray2* TimeZoneNames_fo::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Etc/Unknown"_s),
-			$of(u"\u00f3kendur b\u00fdur"_s)
+			$of(u"ókendur býur"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Kiev"_s),
@@ -3514,7 +3514,7 @@ $ObjectArray2* TimeZoneNames_fo::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Zurich"_s),
-			$of(u"Z\u00fcrich"_s)
+			$of(u"Zürich"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Indian/Chagos"_s),
@@ -3702,7 +3702,7 @@ $ObjectArray2* TimeZoneNames_fo::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Vatican"_s),
-			$of(u"Vatikani\u00f0"_s)
+			$of(u"Vatikanið"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Vilnius"_s),
@@ -3714,7 +3714,7 @@ $ObjectArray2* TimeZoneNames_fo::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Indian/Reunion"_s),
-			$of(u"R\u00e9union"_s)
+			$of(u"Réunion"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Pacific/Easter"_s),
@@ -3790,7 +3790,7 @@ $ObjectArray2* TimeZoneNames_fo::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Africa/Sao_Tome"_s),
-			$of(u"S\u00e3o Tom\u00e9"_s)
+			$of(u"São Tomé"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Africa/Windhoek"_s),
@@ -3822,7 +3822,7 @@ $ObjectArray2* TimeZoneNames_fo::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Curacao"_s),
-			$of(u"Cura\u00e7ao"_s)
+			$of(u"Curaçao"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Detroit"_s),
@@ -3910,7 +3910,7 @@ $ObjectArray2* TimeZoneNames_fo::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Atlantic/Faeroe"_s),
-			$of(u"F\u00f8royar"_s)
+			$of(u"Føroyar"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Australia/Eucla"_s),
@@ -3994,7 +3994,7 @@ $ObjectArray2* TimeZoneNames_fo::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Asuncion"_s),
-			$of(u"Asunci\u00f3n"_s)
+			$of(u"Asunción"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Barbados"_s),
@@ -4130,7 +4130,7 @@ $ObjectArray2* TimeZoneNames_fo::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Stockholm"_s),
-			$of(u"Stokkh\u00f3lm"_s)
+			$of(u"Stokkhólm"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Ulyanovsk"_s),
@@ -4150,7 +4150,7 @@ $ObjectArray2* TimeZoneNames_fo::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Indian/Mauritius"_s),
-			$of(u"M\u00f3ritius"_s)
+			$of(u"Móritius"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Pacific/Auckland"_s),
@@ -4406,7 +4406,7 @@ $ObjectArray2* TimeZoneNames_fo::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Atlantic/Reykjavik"_s),
-			$of(u"Reykjav\u00edk"_s)
+			$of(u"Reykjavík"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Australia/Adelaide"_s),
@@ -4486,7 +4486,7 @@ $ObjectArray2* TimeZoneNames_fo::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Atlantic/Cape_Verde"_s),
-			$of(u"Gr\u00f8nh\u00f8vdaoyggjar"_s)
+			$of(u"Grønhøvdaoyggjar"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Australia/Lord_Howe"_s),
@@ -4586,7 +4586,7 @@ $ObjectArray2* TimeZoneNames_fo::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Atlantic/South_Georgia"_s),
-			$of(u"Su\u00f0urgeorgiaoyggjar"_s)
+			$of(u"Suðurgeorgiaoyggjar"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Argentina/Salta"_s),

@@ -42,67 +42,67 @@ $ObjectArray2* LocaleNames_ar_SA::getContents() {
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("AC"_s),
-			$of(u"\u062c\u0632\u064a\u0631\u0629 \u0623\u0633\u064a\u0646\u0634\u064a\u0646"_s)
+			$of(u"جزيرة أسينشين"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("EA"_s),
-			$of(u"\u0633\u0628\u062a\u0629 \u0648\u0645\u0644\u064a\u0644\u064a\u0629"_s)
+			$of(u"سبتة ومليلية"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("MO"_s),
-			$of(u"\u0645\u0627\u0643\u0627\u0648 \u0627\u0644\u0635\u064a\u0646\u064a\u0629 (\u0645\u0646\u0637\u0642\u0629 \u0625\u062f\u0627\u0631\u064a\u0629 \u062e\u0627\u0635\u0629)"_s)
+			$of(u"ماكاو الصينية (منطقة إدارية خاصة)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("MS"_s),
-			$of(u"\u0645\u0648\u0646\u062a\u064a\u0633\u064a\u0631\u0627\u062a"_s)
+			$of(u"مونتيسيرات"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("UY"_s),
-			$of(u"\u0623\u0648\u0631\u0648\u063a\u0648\u0627\u064a"_s)
+			$of(u"أوروغواي"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gn"_s),
-			$of(u"\u0627\u0644\u063a\u0648\u0631\u0627\u0646\u064a\u0629"_s)
+			$of(u"الغورانية"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lo"_s),
-			$of(u"\u0627\u0644\u0644\u0627\u0648\u0648"_s)
+			$of(u"اللاوو"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sh"_s),
-			$of(u"\u0627\u0644\u0643\u0631\u0648\u0627\u062a\u064a\u0629 \u0627\u0644\u0635\u0631\u0628\u064a\u0629"_s)
+			$of(u"الكرواتية الصربية"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sw"_s),
-			$of(u"\u0627\u0644\u0633\u0648\u0627\u062d\u064a\u0644\u064a\u0629"_s)
+			$of(u"السواحيلية"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("te"_s),
-			$of(u"\u0627\u0644\u062a\u064a\u0644\u0648\u062c\u0648"_s)
+			$of(u"التيلوجو"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ti"_s),
-			$of(u"\u0627\u0644\u062a\u064a\u063a\u0631\u064a\u0646\u064a\u0629"_s)
+			$of(u"التيغرينية"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("arn"_s),
-			$of(u"\u0627\u0644\u0645\u0627\u0628\u0648\u062f\u0648\u0646\u062c\u0648\u0646\u064a\u0629"_s)
+			$of(u"المابودونجونية"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("hsb"_s),
-			$of(u"\u0635\u0648\u0631\u0628\u064a\u0627 \u0627\u0644\u0639\u0644\u064a\u0627"_s)
+			$of(u"صوربيا العليا"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sma"_s),
-			$of(u"\u0633\u0627\u0645\u064a \u0627\u0644\u062c\u0646\u0648\u0628\u064a\u0629"_s)
+			$of(u"سامي الجنوبية"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sw_CD"_s),
-			$of(u"\u0627\u0644\u0633\u0648\u0627\u062d\u064a\u0644\u064a\u0629 \u0627\u0644\u0643\u0648\u0646\u063a\u0648\u0644\u064a\u0629"_s)
+			$of(u"السواحيلية الكونغولية"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ar_001"_s),
-			$of(u"\u0627\u0644\u0639\u0631\u0628\u064a\u0629 \u0627\u0644\u0631\u0633\u0645\u064a\u0629 \u0627\u0644\u062d\u062f\u064a\u062b\u0629"_s)
+			$of(u"العربية الرسمية الحديثة"_s)
 		})
 	}));
 	return data;

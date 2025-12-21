@@ -43,7 +43,7 @@ void TimeZoneNames_ga::init$() {
 $ObjectArray2* TimeZoneNames_ga::getContents() {
 	$useLocalCurrentObjectStackCache();
 	$var($StringArray, GMT, $new($StringArray, {
-		u"Me\u00e1n-Am Greenwich"_s,
+		u"Meán-Am Greenwich"_s,
 		"MAG"_s,
 		""_s,
 		""_s,
@@ -51,7 +51,7 @@ $ObjectArray2* TimeZoneNames_ga::getContents() {
 		""_s
 	}));
 	$var($StringArray, Acre, $new($StringArray, {
-		u"Am Caighde\u00e1nach Acre"_s,
+		u"Am Caighdeánach Acre"_s,
 		""_s,
 		"Am Samhraidh Acre"_s,
 		""_s,
@@ -59,7 +59,7 @@ $ObjectArray2* TimeZoneNames_ga::getContents() {
 		""_s
 	}));
 	$var($StringArray, Apia, $new($StringArray, {
-		u"Am Caighde\u00e1nach Apia"_s,
+		u"Am Caighdeánach Apia"_s,
 		""_s,
 		"Am Samhraidh Apia"_s,
 		""_s,
@@ -67,31 +67,31 @@ $ObjectArray2* TimeZoneNames_ga::getContents() {
 		""_s
 	}));
 	$var($StringArray, Cook, $new($StringArray, {
-		u"Am Caighde\u00e1nach Oile\u00e1in Cook"_s,
+		u"Am Caighdeánach Oileáin Cook"_s,
 		""_s,
-		u"Am Leathshamhraidh Oile\u00e1in Cook"_s,
+		u"Am Leathshamhraidh Oileáin Cook"_s,
 		""_s,
-		u"Am Oile\u00e1in Cook"_s,
+		u"Am Oileáin Cook"_s,
 		""_s
 	}));
 	$var($StringArray, Cuba, $new($StringArray, {
-		u"Am Caighde\u00e1nach Ch\u00faba"_s,
+		u"Am Caighdeánach Chúba"_s,
 		""_s,
-		u"Am Samhraidh Ch\u00faba"_s,
+		u"Am Samhraidh Chúba"_s,
 		""_s,
-		u"Am Ch\u00faba"_s,
+		u"Am Chúba"_s,
 		""_s
 	}));
 	$var($StringArray, Fiji, $new($StringArray, {
-		u"Am Caighde\u00e1nach Fhids\u00ed"_s,
+		u"Am Caighdeánach Fhidsí"_s,
 		""_s,
-		u"Am Samhraidh Fhids\u00ed"_s,
+		u"Am Samhraidh Fhidsí"_s,
 		""_s,
-		u"Am Fhids\u00ed"_s,
+		u"Am Fhidsí"_s,
 		""_s
 	}));
 	$var($StringArray, Gulf, $new($StringArray, {
-		u"Am Caighde\u00e1nach na Murascaille"_s,
+		u"Am Caighdeánach na Murascaille"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -99,7 +99,7 @@ $ObjectArray2* TimeZoneNames_ga::getContents() {
 		""_s
 	}));
 	$var($StringArray, Hovd, $new($StringArray, {
-		u"Am Caighde\u00e1nach Hovd"_s,
+		u"Am Caighdeánach Hovd"_s,
 		""_s,
 		"Am Samhraidh Hovd"_s,
 		""_s,
@@ -107,11 +107,11 @@ $ObjectArray2* TimeZoneNames_ga::getContents() {
 		""_s
 	}));
 	$var($StringArray, Iran, $new($StringArray, {
-		u"Am Caighde\u00e1nach na hIar\u00e1ine"_s,
+		u"Am Caighdeánach na hIaráine"_s,
 		""_s,
-		u"Am Samhraidh na hIar\u00e1ine"_s,
+		u"Am Samhraidh na hIaráine"_s,
 		""_s,
-		u"Am na hIar\u00e1ine"_s,
+		u"Am na hIaráine"_s,
 		""_s
 	}));
 	$var($StringArray, Niue, $new($StringArray, {
@@ -123,7 +123,7 @@ $ObjectArray2* TimeZoneNames_ga::getContents() {
 		""_s
 	}));
 	$var($StringArray, Omsk, $new($StringArray, {
-		u"Am Caighde\u00e1nach Omsk"_s,
+		u"Am Caighdeánach Omsk"_s,
 		""_s,
 		"Am Samhraidh Omsk"_s,
 		""_s,
@@ -131,11 +131,11 @@ $ObjectArray2* TimeZoneNames_ga::getContents() {
 		""_s
 	}));
 	$var($StringArray, Peru, $new($StringArray, {
-		u"Am Caighde\u00e1nach Pheiri\u00fa"_s,
+		u"Am Caighdeánach Pheiriú"_s,
 		""_s,
-		u"Am Samhraidh Pheiri\u00fa"_s,
+		u"Am Samhraidh Pheiriú"_s,
 		""_s,
-		u"Am Pheiri\u00fa"_s,
+		u"Am Pheiriú"_s,
 		""_s
 	}));
 	$var($StringArray, Truk, $new($StringArray, {
@@ -147,7 +147,7 @@ $ObjectArray2* TimeZoneNames_ga::getContents() {
 		""_s
 	}));
 	$var($StringArray, Wake, $new($StringArray, {
-		u"Am Oile\u00e1n Wake"_s,
+		u"Am Oileán Wake"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -155,7 +155,7 @@ $ObjectArray2* TimeZoneNames_ga::getContents() {
 		""_s
 	}));
 	$var($StringArray, Casey, $new($StringArray, {
-		u"Am St\u00e1isi\u00fan Casey"_s,
+		u"Am Stáisiún Casey"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -163,7 +163,7 @@ $ObjectArray2* TimeZoneNames_ga::getContents() {
 		""_s
 	}));
 	$var($StringArray, Chile, $new($StringArray, {
-		u"Am Caighde\u00e1nach na Sile"_s,
+		u"Am Caighdeánach na Sile"_s,
 		""_s,
 		"Am Samhraidh na Sile"_s,
 		""_s,
@@ -171,15 +171,15 @@ $ObjectArray2* TimeZoneNames_ga::getContents() {
 		""_s
 	}));
 	$var($StringArray, China, $new($StringArray, {
-		u"Am Caighde\u00e1nach na S\u00edne"_s,
+		u"Am Caighdeánach na Síne"_s,
 		""_s,
-		u"Am Samhraidh na S\u00edne"_s,
+		u"Am Samhraidh na Síne"_s,
 		""_s,
-		u"Am na S\u00edne"_s,
+		u"Am na Síne"_s,
 		""_s
 	}));
 	$var($StringArray, Cocos, $new($StringArray, {
-		u"Am Oile\u00e1in Cocos"_s,
+		u"Am Oileáin Cocos"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -187,7 +187,7 @@ $ObjectArray2* TimeZoneNames_ga::getContents() {
 		""_s
 	}));
 	$var($StringArray, Davis, $new($StringArray, {
-		u"Am St\u00e1isi\u00fan Davis"_s,
+		u"Am Stáisiún Davis"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -195,7 +195,7 @@ $ObjectArray2* TimeZoneNames_ga::getContents() {
 		""_s
 	}));
 	$var($StringArray, India, $new($StringArray, {
-		u"Am Caighde\u00e1nach na hIndia"_s,
+		u"Am Caighdeánach na hIndia"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -203,23 +203,23 @@ $ObjectArray2* TimeZoneNames_ga::getContents() {
 		""_s
 	}));
 	$var($StringArray, Japan, $new($StringArray, {
-		u"Am Caighde\u00e1nach na Seap\u00e1ine"_s,
+		u"Am Caighdeánach na Seapáine"_s,
 		""_s,
-		u"Am Samhraidh na Seap\u00e1ine"_s,
+		u"Am Samhraidh na Seapáine"_s,
 		""_s,
-		u"Am na Seap\u00e1ine"_s,
+		u"Am na Seapáine"_s,
 		""_s
 	}));
 	$var($StringArray, Korea, $new($StringArray, {
-		u"Am Caighde\u00e1nach na C\u00f3ir\u00e9"_s,
+		u"Am Caighdeánach na Cóiré"_s,
 		""_s,
-		u"Am Samhraidh na C\u00f3ir\u00e9"_s,
+		u"Am Samhraidh na Cóiré"_s,
 		""_s,
-		u"Am na C\u00f3ir\u00e9"_s,
+		u"Am na Cóiré"_s,
 		""_s
 	}));
 	$var($StringArray, Nauru, $new($StringArray, {
-		u"Am N\u00e1r\u00fa"_s,
+		u"Am Nárú"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -235,7 +235,7 @@ $ObjectArray2* TimeZoneNames_ga::getContents() {
 		""_s
 	}));
 	$var($StringArray, Palau, $new($StringArray, {
-		u"Am Oile\u00e1in Palau"_s,
+		u"Am Oileáin Palau"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -243,15 +243,15 @@ $ObjectArray2* TimeZoneNames_ga::getContents() {
 		""_s
 	}));
 	$var($StringArray, Samoa, $new($StringArray, {
-		u"Am Caighde\u00e1nach Sham\u00f3"_s,
+		u"Am Caighdeánach Shamó"_s,
 		""_s,
-		u"Am Samhraidh Sham\u00f3"_s,
+		u"Am Samhraidh Shamó"_s,
 		""_s,
-		u"Am Sham\u00f3"_s,
+		u"Am Shamó"_s,
 		""_s
 	}));
 	$var($StringArray, Syowa, $new($StringArray, {
-		u"Am St\u00e1isi\u00fan Syowa"_s,
+		u"Am Stáisiún Syowa"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -259,7 +259,7 @@ $ObjectArray2* TimeZoneNames_ga::getContents() {
 		""_s
 	}));
 	$var($StringArray, Tonga, $new($StringArray, {
-		u"Am Caighde\u00e1nach Thonga"_s,
+		u"Am Caighdeánach Thonga"_s,
 		""_s,
 		"Am Samhraidh Thonga"_s,
 		""_s,
@@ -267,7 +267,7 @@ $ObjectArray2* TimeZoneNames_ga::getContents() {
 		""_s
 	}));
 	$var($StringArray, Alaska, $new($StringArray, {
-		u"Am Caighde\u00e1nach Alasca"_s,
+		u"Am Caighdeánach Alasca"_s,
 		""_s,
 		"Am Samhraidh Alasca"_s,
 		""_s,
@@ -275,15 +275,15 @@ $ObjectArray2* TimeZoneNames_ga::getContents() {
 		""_s
 	}));
 	$var($StringArray, Amazon, $new($StringArray, {
-		u"Am Caighde\u00e1nach na hAmas\u00f3ine"_s,
+		u"Am Caighdeánach na hAmasóine"_s,
 		""_s,
-		u"Am Samhraidh na hAmas\u00f3ine"_s,
+		u"Am Samhraidh na hAmasóine"_s,
 		""_s,
-		u"Am na hAmas\u00f3ine"_s,
+		u"Am na hAmasóine"_s,
 		""_s
 	}));
 	$var($StringArray, Anadyr, $new($StringArray, {
-		u"Am Caighde\u00e1nach Anadyr"_s,
+		u"Am Caighdeánach Anadyr"_s,
 		""_s,
 		"Am Samhraidh Anadyr"_s,
 		""_s,
@@ -291,15 +291,15 @@ $ObjectArray2* TimeZoneNames_ga::getContents() {
 		""_s
 	}));
 	$var($StringArray, Azores, $new($StringArray, {
-		u"Am Caighde\u00e1nach na nAs\u00f3r"_s,
+		u"Am Caighdeánach na nAsór"_s,
 		""_s,
-		u"Am Samhraidh na nAs\u00f3r"_s,
+		u"Am Samhraidh na nAsór"_s,
 		""_s,
-		u"Am na nAs\u00f3r"_s,
+		u"Am na nAsór"_s,
 		""_s
 	}));
 	$var($StringArray, Bhutan, $new($StringArray, {
-		u"Am na B\u00fat\u00e1ine"_s,
+		u"Am na Bútáine"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -307,7 +307,7 @@ $ObjectArray2* TimeZoneNames_ga::getContents() {
 		""_s
 	}));
 	$var($StringArray, Brunei, $new($StringArray, {
-		u"Am Br\u00fain\u00e9 Darasal\u00e1m"_s,
+		u"Am Brúiné Darasalám"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -315,15 +315,15 @@ $ObjectArray2* TimeZoneNames_ga::getContents() {
 		""_s
 	}));
 	$var($StringArray, Easter, $new($StringArray, {
-		u"Am Caighde\u00e1nach Oile\u00e1n na C\u00e1sca"_s,
+		u"Am Caighdeánach Oileán na Cásca"_s,
 		""_s,
-		u"Am Samhraidh Oile\u00e1n na C\u00e1sca"_s,
+		u"Am Samhraidh Oileán na Cásca"_s,
 		""_s,
-		u"Am Oile\u00e1n na C\u00e1sca"_s,
+		u"Am Oileán na Cásca"_s,
 		""_s
 	}));
 	$var($StringArray, Guyana, $new($StringArray, {
-		u"Am na Gu\u00e1ine"_s,
+		u"Am na Guáine"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -331,7 +331,7 @@ $ObjectArray2* TimeZoneNames_ga::getContents() {
 		""_s
 	}));
 	$var($StringArray, Israel, $new($StringArray, {
-		u"Am Caighde\u00e1nach Iosrael"_s,
+		u"Am Caighdeánach Iosrael"_s,
 		""_s,
 		"Am Samhraidh Iosrael"_s,
 		""_s,
@@ -347,7 +347,7 @@ $ObjectArray2* TimeZoneNames_ga::getContents() {
 		""_s
 	}));
 	$var($StringArray, Mawson, $new($StringArray, {
-		u"Am St\u00e1isi\u00fan Mawson"_s,
+		u"Am Stáisiún Mawson"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -355,11 +355,11 @@ $ObjectArray2* TimeZoneNames_ga::getContents() {
 		""_s
 	}));
 	$var($StringArray, Moscow, $new($StringArray, {
-		u"Am Caighde\u00e1nach Mhosc\u00f3"_s,
+		u"Am Caighdeánach Mhoscó"_s,
 		""_s,
-		u"Am Samhraidh Mhosc\u00f3"_s,
+		u"Am Samhraidh Mhoscó"_s,
 		""_s,
-		u"Am Mhosc\u00f3"_s,
+		u"Am Mhoscó"_s,
 		""_s
 	}));
 	$var($StringArray, Ponape, $new($StringArray, {
@@ -371,7 +371,7 @@ $ObjectArray2* TimeZoneNames_ga::getContents() {
 		""_s
 	}));
 	$var($StringArray, Samara, $new($StringArray, {
-		u"Am Caighde\u00e1nach Shamara"_s,
+		u"Am Caighdeánach Shamara"_s,
 		""_s,
 		"Am Samhraidh Shamara"_s,
 		""_s,
@@ -379,7 +379,7 @@ $ObjectArray2* TimeZoneNames_ga::getContents() {
 		""_s
 	}));
 	$var($StringArray, Tahiti, $new($StringArray, {
-		u"Am Thaih\u00edt\u00ed"_s,
+		u"Am Thaihítí"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -387,7 +387,7 @@ $ObjectArray2* TimeZoneNames_ga::getContents() {
 		""_s
 	}));
 	$var($StringArray, Taipei, $new($StringArray, {
-		u"Am Caighde\u00e1nach Thaipei"_s,
+		u"Am Caighdeánach Thaipei"_s,
 		""_s,
 		"Am Samhraidh Thaipei"_s,
 		""_s,
@@ -395,7 +395,7 @@ $ObjectArray2* TimeZoneNames_ga::getContents() {
 		""_s
 	}));
 	$var($StringArray, Tuvalu, $new($StringArray, {
-		u"Am Th\u00faval\u00fa"_s,
+		u"Am Thúvalú"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -403,7 +403,7 @@ $ObjectArray2* TimeZoneNames_ga::getContents() {
 		""_s
 	}));
 	$var($StringArray, Vostok, $new($StringArray, {
-		u"Am St\u00e1isi\u00fan Vostok"_s,
+		u"Am Stáisiún Vostok"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -419,7 +419,7 @@ $ObjectArray2* TimeZoneNames_ga::getContents() {
 		""_s
 	}));
 	$var($StringArray, Arabian, $new($StringArray, {
-		u"Am Caighde\u00e1nach na hAraibe"_s,
+		u"Am Caighdeánach na hAraibe"_s,
 		""_s,
 		"Am Samhraidh na hAraibe"_s,
 		""_s,
@@ -427,11 +427,11 @@ $ObjectArray2* TimeZoneNames_ga::getContents() {
 		""_s
 	}));
 	$var($StringArray, Armenia, $new($StringArray, {
-		u"Am Caighde\u00e1nach na hAirm\u00e9ine"_s,
+		u"Am Caighdeánach na hAirméine"_s,
 		""_s,
-		u"Am Samhraidh na hAirm\u00e9ine"_s,
+		u"Am Samhraidh na hAirméine"_s,
 		""_s,
-		u"Am na hAirm\u00e9ine"_s,
+		u"Am na hAirméine"_s,
 		""_s
 	}));
 	$var($StringArray, Bolivia, $new($StringArray, {
@@ -443,7 +443,7 @@ $ObjectArray2* TimeZoneNames_ga::getContents() {
 		""_s
 	}));
 	$var($StringArray, Chatham, $new($StringArray, {
-		u"Am Caighde\u00e1nach Chatham"_s,
+		u"Am Caighdeánach Chatham"_s,
 		""_s,
 		"Am Samhraidh Chatham"_s,
 		""_s,
@@ -451,7 +451,7 @@ $ObjectArray2* TimeZoneNames_ga::getContents() {
 		""_s
 	}));
 	$var($StringArray, ETC_UTC, $new($StringArray, {
-		u"Am Uil\u00edoch L\u00e1rnach"_s,
+		u"Am Uilíoch Lárnach"_s,
 		"UTC"_s,
 		""_s,
 		""_s,
@@ -459,7 +459,7 @@ $ObjectArray2* TimeZoneNames_ga::getContents() {
 		""_s
 	}));
 	$var($StringArray, Ecuador, $new($StringArray, {
-		u"Am Eacuad\u00f3r"_s,
+		u"Am Eacuadór"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -475,7 +475,7 @@ $ObjectArray2* TimeZoneNames_ga::getContents() {
 		""_s
 	}));
 	$var($StringArray, Georgia, $new($StringArray, {
-		u"Am Caighde\u00e1nach na Seoirsia"_s,
+		u"Am Caighdeánach na Seoirsia"_s,
 		""_s,
 		"Am Samhraidh na Seoirsia"_s,
 		""_s,
@@ -483,7 +483,7 @@ $ObjectArray2* TimeZoneNames_ga::getContents() {
 		""_s
 	}));
 	$var($StringArray, Irkutsk, $new($StringArray, {
-		u"Am Caighde\u00e1nach Irkutsk"_s,
+		u"Am Caighdeánach Irkutsk"_s,
 		""_s,
 		"Am Samhraidh Irkutsk"_s,
 		""_s,
@@ -491,7 +491,7 @@ $ObjectArray2* TimeZoneNames_ga::getContents() {
 		""_s
 	}));
 	$var($StringArray, Magadan, $new($StringArray, {
-		u"Am Caighde\u00e1nach Mhagadan"_s,
+		u"Am Caighdeánach Mhagadan"_s,
 		""_s,
 		"Am Samhraidh Mhagadan"_s,
 		""_s,
@@ -507,15 +507,15 @@ $ObjectArray2* TimeZoneNames_ga::getContents() {
 		""_s
 	}));
 	$var($StringArray, Norfolk, $new($StringArray, {
-		u"Am Caighde\u00e1nach Oile\u00e1n Norfolk"_s,
+		u"Am Caighdeánach Oileán Norfolk"_s,
 		""_s,
-		u"Am Samhraidh Oile\u00e1n Norfolk"_s,
+		u"Am Samhraidh Oileán Norfolk"_s,
 		""_s,
-		u"Am Oile\u00e1n Norfolk"_s,
+		u"Am Oileán Norfolk"_s,
 		""_s
 	}));
 	$var($StringArray, Noronha, $new($StringArray, {
-		u"Am Caighde\u00e1nach Fhernando de Noronha"_s,
+		u"Am Caighdeánach Fhernando de Noronha"_s,
 		""_s,
 		"Am Samhraidh Fhernando de Noronha"_s,
 		""_s,
@@ -523,7 +523,7 @@ $ObjectArray2* TimeZoneNames_ga::getContents() {
 		""_s
 	}));
 	$var($StringArray, Reunion, $new($StringArray, {
-		u"Am R\u00e9union"_s,
+		u"Am Réunion"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -531,7 +531,7 @@ $ObjectArray2* TimeZoneNames_ga::getContents() {
 		""_s
 	}));
 	$var($StringArray, Rothera, $new($StringArray, {
-		u"Am St\u00e1isi\u00fan Rothera"_s,
+		u"Am Stáisiún Rothera"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -539,7 +539,7 @@ $ObjectArray2* TimeZoneNames_ga::getContents() {
 		""_s
 	}));
 	$var($StringArray, Solomon, $new($StringArray, {
-		u"Am Oile\u00e1in Sholaimh"_s,
+		u"Am Oileáin Sholaimh"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -547,7 +547,7 @@ $ObjectArray2* TimeZoneNames_ga::getContents() {
 		""_s
 	}));
 	$var($StringArray, Tokelau, $new($StringArray, {
-		u"Am Oile\u00e1in T\u00f3cal\u00e1"_s,
+		u"Am Oileáin Tócalá"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -555,7 +555,7 @@ $ObjectArray2* TimeZoneNames_ga::getContents() {
 		""_s
 	}));
 	$var($StringArray, Uruguay, $new($StringArray, {
-		u"Am Caighde\u00e1nach Uragua"_s,
+		u"Am Caighdeánach Uragua"_s,
 		""_s,
 		"Am Samhraidh Uragua"_s,
 		""_s,
@@ -563,23 +563,23 @@ $ObjectArray2* TimeZoneNames_ga::getContents() {
 		""_s
 	}));
 	$var($StringArray, Vanuatu, $new($StringArray, {
-		u"Am Caighde\u00e1nach Vanuat\u00fa"_s,
+		u"Am Caighdeánach Vanuatú"_s,
 		""_s,
-		u"Am Samhraidh Vanuat\u00fa"_s,
+		u"Am Samhraidh Vanuatú"_s,
 		""_s,
-		u"Am Vanuat\u00fa"_s,
+		u"Am Vanuatú"_s,
 		""_s
 	}));
 	$var($StringArray, Yakutsk, $new($StringArray, {
-		u"Am Caighde\u00e1nach Iac\u00fatsc"_s,
+		u"Am Caighdeánach Iacútsc"_s,
 		""_s,
-		u"Am Samhraidh Iac\u00fatsc"_s,
+		u"Am Samhraidh Iacútsc"_s,
 		""_s,
-		u"Am Iac\u00fatsc"_s,
+		u"Am Iacútsc"_s,
 		""_s
 	}));
 	$var($StringArray, Atlantic, $new($StringArray, {
-		u"Am Caighde\u00e1nach an Atlantaigh"_s,
+		u"Am Caighdeánach an Atlantaigh"_s,
 		""_s,
 		"Am Samhraidh an Atlantaigh"_s,
 		""_s,
@@ -587,15 +587,15 @@ $ObjectArray2* TimeZoneNames_ga::getContents() {
 		""_s
 	}));
 	$var($StringArray, Brasilia, $new($StringArray, {
-		u"Am Caighde\u00e1nach Bhras\u00edlia"_s,
+		u"Am Caighdeánach Bhrasília"_s,
 		""_s,
-		u"Am Samhraidh Bhras\u00edlia"_s,
+		u"Am Samhraidh Bhrasília"_s,
 		""_s,
-		u"Am Bhras\u00edlia"_s,
+		u"Am Bhrasília"_s,
 		""_s
 	}));
 	$var($StringArray, Chamorro, $new($StringArray, {
-		u"Am Caighde\u00e1nach Seam\u00f3rach"_s,
+		u"Am Caighdeánach Seamórach"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -603,19 +603,19 @@ $ObjectArray2* TimeZoneNames_ga::getContents() {
 		""_s
 	}));
 	$var($StringArray, Colombia, $new($StringArray, {
-		u"Am Caighde\u00e1nach na Col\u00f3ime"_s,
+		u"Am Caighdeánach na Colóime"_s,
 		""_s,
-		u"Am Samhraidh na Col\u00f3ime"_s,
+		u"Am Samhraidh na Colóime"_s,
 		""_s,
-		u"Am na Col\u00f3ime"_s,
+		u"Am na Colóime"_s,
 		""_s
 	}));
 	$var($StringArray, Falkland, $new($StringArray, {
-		u"Am Caighde\u00e1nach Oile\u00e1in Fh\u00e1clainne"_s,
+		u"Am Caighdeánach Oileáin Fháclainne"_s,
 		""_s,
-		u"Am Samhraidh Oile\u00e1in Fh\u00e1clainne"_s,
+		u"Am Samhraidh Oileáin Fháclainne"_s,
 		""_s,
-		u"Am Oile\u00e1in Fh\u00e1clainne"_s,
+		u"Am Oileáin Fháclainne"_s,
 		""_s
 	}));
 	$var($StringArray, Malaysia, $new($StringArray, {
@@ -627,7 +627,7 @@ $ObjectArray2* TimeZoneNames_ga::getContents() {
 		""_s
 	}));
 	$var($StringArray, Maldives, $new($StringArray, {
-		u"Am Oile\u00e1in Mhaild\u00edve"_s,
+		u"Am Oileáin Mhaildíve"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -635,23 +635,23 @@ $ObjectArray2* TimeZoneNames_ga::getContents() {
 		""_s
 	}));
 	$var($StringArray, Mongolia, $new($StringArray, {
-		u"Am Caighde\u00e1nach Ul\u00e1nb\u00e1tar"_s,
+		u"Am Caighdeánach Ulánbátar"_s,
 		""_s,
-		u"Am Samhraidh Ul\u00e1nb\u00e1tar"_s,
+		u"Am Samhraidh Ulánbátar"_s,
 		""_s,
-		u"Am Ul\u00e1nb\u00e1tar"_s,
+		u"Am Ulánbátar"_s,
 		""_s
 	}));
 	$var($StringArray, Pakistan, $new($StringArray, {
-		u"Am Caighde\u00e1nach na Pacast\u00e1ine"_s,
+		u"Am Caighdeánach na Pacastáine"_s,
 		""_s,
-		u"Am Samhraidh na Pacast\u00e1ine"_s,
+		u"Am Samhraidh na Pacastáine"_s,
 		""_s,
-		u"Am na Pacast\u00e1ine"_s,
+		u"Am na Pacastáine"_s,
 		""_s
 	}));
 	$var($StringArray, Paraguay, $new($StringArray, {
-		u"Am Caighde\u00e1nach Pharagua"_s,
+		u"Am Caighdeánach Pharagua"_s,
 		""_s,
 		"Am Samhraidh Pharagua"_s,
 		""_s,
@@ -659,7 +659,7 @@ $ObjectArray2* TimeZoneNames_ga::getContents() {
 		""_s
 	}));
 	$var($StringArray, Pitcairn, $new($StringArray, {
-		u"Am Oile\u00e1n Pitcairn"_s,
+		u"Am Oileán Pitcairn"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -667,7 +667,7 @@ $ObjectArray2* TimeZoneNames_ga::getContents() {
 		""_s
 	}));
 	$var($StringArray, Sakhalin, $new($StringArray, {
-		u"Am Caighde\u00e1nach Shakhalin"_s,
+		u"Am Caighdeánach Shakhalin"_s,
 		""_s,
 		"Am Samhraidh Shakhalin"_s,
 		""_s,
@@ -683,15 +683,15 @@ $ObjectArray2* TimeZoneNames_ga::getContents() {
 		""_s
 	}));
 	$var($StringArray, Argentina, $new($StringArray, {
-		u"Am Caighde\u00e1nach na hAirgint\u00edne"_s,
+		u"Am Caighdeánach na hAirgintíne"_s,
 		""_s,
-		u"Am Samhraidh na hAirgint\u00edne"_s,
+		u"Am Samhraidh na hAirgintíne"_s,
 		""_s,
-		u"Am na hAirgint\u00edne"_s,
+		u"Am na hAirgintíne"_s,
 		""_s
 	}));
 	$var($StringArray, Christmas, $new($StringArray, {
-		u"Am Oile\u00e1n na Nollag"_s,
+		u"Am Oileán na Nollag"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -699,7 +699,7 @@ $ObjectArray2* TimeZoneNames_ga::getContents() {
 		""_s
 	}));
 	$var($StringArray, Galapagos, $new($StringArray, {
-		u"Am Oile\u00e1in Gal\u00e1pagos"_s,
+		u"Am Oileáin Galápagos"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -707,7 +707,7 @@ $ObjectArray2* TimeZoneNames_ga::getContents() {
 		""_s
 	}));
 	$var($StringArray, Hong_Kong, $new($StringArray, {
-		u"Am Caighde\u00e1nach Hong Cong"_s,
+		u"Am Caighdeánach Hong Cong"_s,
 		""_s,
 		"Am Samhraidh Hong Cong"_s,
 		""_s,
@@ -715,7 +715,7 @@ $ObjectArray2* TimeZoneNames_ga::getContents() {
 		""_s
 	}));
 	$var($StringArray, Indochina, $new($StringArray, {
-		u"Am na hInd-S\u00edne"_s,
+		u"Am na hInd-Síne"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -723,7 +723,7 @@ $ObjectArray2* TimeZoneNames_ga::getContents() {
 		""_s
 	}));
 	$var($StringArray, Kamchatka, $new($StringArray, {
-		u"Am Caighde\u00e1nach Phetropavlovsk-Kamchatski"_s,
+		u"Am Caighdeánach Phetropavlovsk-Kamchatski"_s,
 		""_s,
 		"Am Samhraidh Phetropavlovsk-Kamchatski"_s,
 		""_s,
@@ -731,7 +731,7 @@ $ObjectArray2* TimeZoneNames_ga::getContents() {
 		""_s
 	}));
 	$var($StringArray, Kyrgystan, $new($StringArray, {
-		u"Am na Cirgeast\u00e1ine"_s,
+		u"Am na Cirgeastáine"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -739,7 +739,7 @@ $ObjectArray2* TimeZoneNames_ga::getContents() {
 		""_s
 	}));
 	$var($StringArray, Lord_Howe, $new($StringArray, {
-		u"Am Caighde\u00e1nach Lord Howe"_s,
+		u"Am Caighdeánach Lord Howe"_s,
 		""_s,
 		"Am Samhraidh Lord Howe"_s,
 		""_s,
@@ -747,7 +747,7 @@ $ObjectArray2* TimeZoneNames_ga::getContents() {
 		""_s
 	}));
 	$var($StringArray, Marquesas, $new($StringArray, {
-		u"Am na nOile\u00e1n Marcasach"_s,
+		u"Am na nOileán Marcasach"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -755,15 +755,15 @@ $ObjectArray2* TimeZoneNames_ga::getContents() {
 		""_s
 	}));
 	$var($StringArray, Mauritius, $new($StringArray, {
-		u"Am Caighde\u00e1nach Oile\u00e1n Mhuir\u00eds"_s,
+		u"Am Caighdeánach Oileán Mhuirís"_s,
 		""_s,
-		u"Am Samhraidh Oile\u00e1n Mhuir\u00eds"_s,
+		u"Am Samhraidh Oileán Mhuirís"_s,
 		""_s,
-		u"Am Oile\u00e1n Mhuir\u00eds"_s,
+		u"Am Oileán Mhuirís"_s,
 		""_s
 	}));
 	$var($StringArray, Singapore, $new($StringArray, {
-		u"Am Caighde\u00e1nach Shingeap\u00f3r"_s,
+		u"Am Caighdeánach Shingeapór"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -771,7 +771,7 @@ $ObjectArray2* TimeZoneNames_ga::getContents() {
 		""_s
 	}));
 	$var($StringArray, Venezuela, $new($StringArray, {
-		u"Am Veinis\u00e9ala"_s,
+		u"Am Veiniséala"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -779,7 +779,7 @@ $ObjectArray2* TimeZoneNames_ga::getContents() {
 		""_s
 	}));
 	$var($StringArray, Volgograd, $new($StringArray, {
-		u"Am Caighde\u00e1nach Volgograd"_s,
+		u"Am Caighdeánach Volgograd"_s,
 		""_s,
 		"Am Samhraidh Volgograd"_s,
 		""_s,
@@ -787,23 +787,23 @@ $ObjectArray2* TimeZoneNames_ga::getContents() {
 		""_s
 	}));
 	$var($StringArray, Azerbaijan, $new($StringArray, {
-		u"Am Caighde\u00e1nach na hAsarbaise\u00e1ine"_s,
+		u"Am Caighdeánach na hAsarbaiseáine"_s,
 		""_s,
-		u"Am Samhraidh na hAsarbaise\u00e1ine"_s,
+		u"Am Samhraidh na hAsarbaiseáine"_s,
 		""_s,
-		u"Am na hAsarbaise\u00e1ine"_s,
+		u"Am na hAsarbaiseáine"_s,
 		""_s
 	}));
 	$var($StringArray, Bangladesh, $new($StringArray, {
-		u"Am Caighde\u00e1nach na Banglaid\u00e9ise"_s,
+		u"Am Caighdeánach na Banglaidéise"_s,
 		""_s,
-		u"Am Samhraidh na Banglaid\u00e9ise"_s,
+		u"Am Samhraidh na Banglaidéise"_s,
 		""_s,
-		u"Am na Banglaid\u00e9ise"_s,
+		u"Am na Banglaidéise"_s,
 		""_s
 	}));
 	$var($StringArray, Cape_Verde, $new($StringArray, {
-		u"Am Caighde\u00e1nach Rinn Verde"_s,
+		u"Am Caighdeánach Rinn Verde"_s,
 		""_s,
 		"Am Samhraidh Rinn Verde"_s,
 		""_s,
@@ -811,7 +811,7 @@ $ObjectArray2* TimeZoneNames_ga::getContents() {
 		""_s
 	}));
 	$var($StringArray, East_Timor, $new($StringArray, {
-		u"Am Th\u00edom\u00f3r Thoir"_s,
+		u"Am Thíomór Thoir"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -819,7 +819,7 @@ $ObjectArray2* TimeZoneNames_ga::getContents() {
 		""_s
 	}));
 	$var($StringArray, Seychelles, $new($StringArray, {
-		u"Am na S\u00e9is\u00e9al"_s,
+		u"Am na Séiséal"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -827,7 +827,7 @@ $ObjectArray2* TimeZoneNames_ga::getContents() {
 		""_s
 	}));
 	$var($StringArray, Tajikistan, $new($StringArray, {
-		u"Am na T\u00e1ids\u00edceast\u00e1ine"_s,
+		u"Am na Táidsíceastáine"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -835,15 +835,15 @@ $ObjectArray2* TimeZoneNames_ga::getContents() {
 		""_s
 	}));
 	$var($StringArray, Uzbekistan, $new($StringArray, {
-		u"Am Caighde\u00e1nach na h\u00daisb\u00e9iceast\u00e1ine"_s,
+		u"Am Caighdeánach na hÚisbéiceastáine"_s,
 		""_s,
-		u"Am Samhraidh na h\u00daisb\u00e9iceast\u00e1ine"_s,
+		u"Am Samhraidh na hÚisbéiceastáine"_s,
 		""_s,
-		u"Am na h\u00daisb\u00e9iceast\u00e1ine"_s,
+		u"Am na hÚisbéiceastáine"_s,
 		""_s
 	}));
 	$var($StringArray, Afghanistan, $new($StringArray, {
-		u"Am na hAfganast\u00e1ine"_s,
+		u"Am na hAfganastáine"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -851,7 +851,7 @@ $ObjectArray2* TimeZoneNames_ga::getContents() {
 		""_s
 	}));
 	$var($StringArray, Krasnoyarsk, $new($StringArray, {
-		u"Am Caighde\u00e1nach Krasnoyarsk"_s,
+		u"Am Caighdeánach Krasnoyarsk"_s,
 		""_s,
 		"Am Samhraidh Krasnoyarsk"_s,
 		""_s,
@@ -859,15 +859,15 @@ $ObjectArray2* TimeZoneNames_ga::getContents() {
 		""_s
 	}));
 	$var($StringArray, New_Zealand, $new($StringArray, {
-		u"Am Caighde\u00e1nach na Nua-Sh\u00e9alainne"_s,
+		u"Am Caighdeánach na Nua-Shéalainne"_s,
 		""_s,
-		u"Am Samhraidh na Nua-Sh\u00e9alainne"_s,
+		u"Am Samhraidh na Nua-Shéalainne"_s,
 		""_s,
-		u"Am na Nua-Sh\u00e9alainne"_s,
+		u"Am na Nua-Shéalainne"_s,
 		""_s
 	}));
 	$var($StringArray, Novosibirsk, $new($StringArray, {
-		u"Am Caighde\u00e1nach Novosibirsk"_s,
+		u"Am Caighdeánach Novosibirsk"_s,
 		""_s,
 		"Am Samhraidh Novosibirsk"_s,
 		""_s,
@@ -875,15 +875,15 @@ $ObjectArray2* TimeZoneNames_ga::getContents() {
 		""_s
 	}));
 	$var($StringArray, Philippines, $new($StringArray, {
-		u"Am Caighde\u00e1nach na nOile\u00e1n Filip\u00edneach"_s,
+		u"Am Caighdeánach na nOileán Filipíneach"_s,
 		""_s,
-		u"Am Samhraidh na nOile\u00e1n Filip\u00edneach"_s,
+		u"Am Samhraidh na nOileán Filipíneach"_s,
 		""_s,
-		u"Am na nOile\u00e1n Filip\u00edneach"_s,
+		u"Am na nOileán Filipíneach"_s,
 		""_s
 	}));
 	$var($StringArray, Vladivostok, $new($StringArray, {
-		u"Am Caighde\u00e1nach Vladivostok"_s,
+		u"Am Caighdeánach Vladivostok"_s,
 		""_s,
 		"Am Samhraidh Vladivostok"_s,
 		""_s,
@@ -891,7 +891,7 @@ $ObjectArray2* TimeZoneNames_ga::getContents() {
 		""_s
 	}));
 	$var($StringArray, Indian_Ocean, $new($StringArray, {
-		u"Am an Aig\u00e9in Indiaigh"_s,
+		u"Am an Aigéin Indiaigh"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -899,7 +899,7 @@ $ObjectArray2* TimeZoneNames_ga::getContents() {
 		""_s
 	}));
 	$var($StringArray, Line_Islands, $new($StringArray, {
-		u"Am Oile\u00e1in na L\u00edne"_s,
+		u"Am Oileáin na Líne"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -907,23 +907,23 @@ $ObjectArray2* TimeZoneNames_ga::getContents() {
 		""_s
 	}));
 	$var($StringArray, Newfoundland, $new($StringArray, {
-		u"Am Caighde\u00e1nach Thalamh an \u00c9isc"_s,
+		u"Am Caighdeánach Thalamh an Éisc"_s,
 		""_s,
-		u"Am Samhraidh Thalamh an \u00c9isc"_s,
+		u"Am Samhraidh Thalamh an Éisc"_s,
 		""_s,
-		u"Am Thalamh an \u00c9isc"_s,
+		u"Am Thalamh an Éisc"_s,
 		""_s
 	}));
 	$var($StringArray, Turkmenistan, $new($StringArray, {
-		u"Am Caighde\u00e1nach na Tuircm\u00e9anast\u00e1ine"_s,
+		u"Am Caighdeánach na Tuircméanastáine"_s,
 		""_s,
-		u"Am Samhraidh na Tuircm\u00e9anast\u00e1ine"_s,
+		u"Am Samhraidh na Tuircméanastáine"_s,
 		""_s,
-		u"Am na Tuircm\u00e9anast\u00e1ine"_s,
+		u"Am na Tuircméanastáine"_s,
 		""_s
 	}));
 	$var($StringArray, French_Guiana, $new($StringArray, {
-		u"Am Ghu\u00e1in na Fraince"_s,
+		u"Am Ghuáin na Fraince"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -931,11 +931,11 @@ $ObjectArray2* TimeZoneNames_ga::getContents() {
 		""_s
 	}));
 	$var($StringArray, New_Caledonia, $new($StringArray, {
-		u"Am Caighde\u00e1nach na Nua-Chalad\u00f3ine"_s,
+		u"Am Caighdeánach na Nua-Chaladóine"_s,
 		""_s,
-		u"Am Samhraidh na Nua-Chalad\u00f3ine"_s,
+		u"Am Samhraidh na Nua-Chaladóine"_s,
 		""_s,
-		u"Am na Nua-Chalad\u00f3ine"_s,
+		u"Am na Nua-Chaladóine"_s,
 		""_s
 	}));
 	$var($StringArray, South_Georgia, $new($StringArray, {
@@ -947,7 +947,7 @@ $ObjectArray2* TimeZoneNames_ga::getContents() {
 		""_s
 	}));
 	$var($StringArray, Yekaterinburg, $new($StringArray, {
-		u"Am Caighde\u00e1nach Yekaterinburg"_s,
+		u"Am Caighdeánach Yekaterinburg"_s,
 		""_s,
 		"Am Samhraidh Yekaterinburg"_s,
 		""_s,
@@ -955,7 +955,7 @@ $ObjectArray2* TimeZoneNames_ga::getContents() {
 		""_s
 	}));
 	$var($StringArray, Africa_Central, $new($StringArray, {
-		u"Am L\u00e1r na hAfraice"_s,
+		u"Am Lár na hAfraice"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -971,7 +971,7 @@ $ObjectArray2* TimeZoneNames_ga::getContents() {
 		""_s
 	}));
 	$var($StringArray, Africa_Western, $new($StringArray, {
-		u"Am Caighde\u00e1nach Iarthar na hAfraice"_s,
+		u"Am Caighdeánach Iarthar na hAfraice"_s,
 		""_s,
 		"Am Samhraidh Iarthar na hAfraice"_s,
 		""_s,
@@ -979,7 +979,7 @@ $ObjectArray2* TimeZoneNames_ga::getContents() {
 		""_s
 	}));
 	$var($StringArray, DumontDUrville, $new($StringArray, {
-		u"Am St\u00e1isi\u00fan Dumont-d\u2019Urville"_s,
+		u"Am Stáisiún Dumont-d’Urville"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -987,15 +987,15 @@ $ObjectArray2* TimeZoneNames_ga::getContents() {
 		""_s
 	}));
 	$var($StringArray, Europe_Central, $new($StringArray, {
-		u"Am Caighde\u00e1nach L\u00e1r na hEorpa"_s,
+		u"Am Caighdeánach Lár na hEorpa"_s,
 		"CET"_s,
-		u"Am Samhraidh L\u00e1r na hEorpa"_s,
+		u"Am Samhraidh Lár na hEorpa"_s,
 		"CEST"_s,
-		u"Am L\u00e1r na hEorpa"_s,
+		u"Am Lár na hEorpa"_s,
 		"CET"_s
 	}));
 	$var($StringArray, Europe_Eastern, $new($StringArray, {
-		u"Am Caighde\u00e1nach Oirthear na hEorpa"_s,
+		u"Am Caighdeánach Oirthear na hEorpa"_s,
 		"EET"_s,
 		"Am Samhraidh Oirthear na hEorpa"_s,
 		"EEST"_s,
@@ -1003,7 +1003,7 @@ $ObjectArray2* TimeZoneNames_ga::getContents() {
 		"EET"_s
 	}));
 	$var($StringArray, Europe_Western, $new($StringArray, {
-		u"Am Caighde\u00e1nach Iarthar na hEorpa"_s,
+		u"Am Caighdeánach Iarthar na hEorpa"_s,
 		"WET"_s,
 		"Am Samhraidh Iarthar na hEorpa"_s,
 		"WEST"_s,
@@ -1011,11 +1011,11 @@ $ObjectArray2* TimeZoneNames_ga::getContents() {
 		"WET"_s
 	}));
 	$var($StringArray, Mexico_Pacific, $new($StringArray, {
-		u"Am Caighde\u00e1nach Meicsiceach an Aig\u00e9in Chi\u00fain"_s,
+		u"Am Caighdeánach Meicsiceach an Aigéin Chiúin"_s,
 		""_s,
-		u"Am Samhraidh Meicsiceach an Aig\u00e9in Chi\u00fain"_s,
+		u"Am Samhraidh Meicsiceach an Aigéin Chiúin"_s,
 		""_s,
-		u"Am Meicsiceach an Aig\u00e9in Chi\u00fain"_s,
+		u"Am Meicsiceach an Aigéin Chiúin"_s,
 		""_s
 	}));
 	$var($StringArray, Africa_Southern, $new($StringArray, {
@@ -1027,31 +1027,31 @@ $ObjectArray2* TimeZoneNames_ga::getContents() {
 		""_s
 	}));
 	$var($StringArray, America_Central, $new($StringArray, {
-		u"Am Caighde\u00e1nach L\u00e1rnach Mheirice\u00e1 Thuaidh"_s,
+		u"Am Caighdeánach Lárnach Mheiriceá Thuaidh"_s,
 		""_s,
-		u"Am Samhraidh L\u00e1rnach Mheirice\u00e1 Thuaidh"_s,
+		u"Am Samhraidh Lárnach Mheiriceá Thuaidh"_s,
 		""_s,
-		u"Am L\u00e1rnach Mheirice\u00e1 Thuaidh"_s,
+		u"Am Lárnach Mheiriceá Thuaidh"_s,
 		""_s
 	}));
 	$var($StringArray, America_Eastern, $new($StringArray, {
-		u"Am Caighde\u00e1nach Oirthear Mheirice\u00e1 Thuaidh"_s,
+		u"Am Caighdeánach Oirthear Mheiriceá Thuaidh"_s,
 		""_s,
-		u"Am Samhraidh Oirthear Mheirice\u00e1 Thuaidh"_s,
+		u"Am Samhraidh Oirthear Mheiriceá Thuaidh"_s,
 		""_s,
-		u"Am Oirthear Mheirice\u00e1 Thuaidh"_s,
+		u"Am Oirthear Mheiriceá Thuaidh"_s,
 		""_s
 	}));
 	$var($StringArray, America_Pacific, $new($StringArray, {
-		u"Am Caighde\u00e1nach an Aig\u00e9in Chi\u00fain"_s,
+		u"Am Caighdeánach an Aigéin Chiúin"_s,
 		"ACAC"_s,
-		u"Am Samhraidh an Aig\u00e9in Chi\u00fain"_s,
+		u"Am Samhraidh an Aigéin Chiúin"_s,
 		"ASAC"_s,
-		u"Am an Aig\u00e9in Chi\u00fain"_s,
+		u"Am an Aigéin Chiúin"_s,
 		"AAC"_s
 	}));
 	$var($StringArray, French_Southern, $new($StringArray, {
-		u"Am Chr\u00edocha Francacha Deisceart an Domhain"_s,
+		u"Am Chríocha Francacha Deisceart an Domhain"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -1059,7 +1059,7 @@ $ObjectArray2* TimeZoneNames_ga::getContents() {
 		""_s
 	}));
 	$var($StringArray, Gilbert_Islands, $new($StringArray, {
-		u"Am Chireabait\u00ed"_s,
+		u"Am Chireabaití"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -1067,15 +1067,15 @@ $ObjectArray2* TimeZoneNames_ga::getContents() {
 		""_s
 	}));
 	$var($StringArray, Hawaii_Aleutian, $new($StringArray, {
-		u"Am Caighde\u00e1nach Hav\u00e1\u00ed-Aili\u00fait"_s,
+		u"Am Caighdeánach Haváí-Ailiúit"_s,
 		""_s,
-		u"Am Samhraidh Hav\u00e1\u00ed-Aili\u00fait"_s,
+		u"Am Samhraidh Haváí-Ailiúit"_s,
 		""_s,
-		u"Am Hav\u00e1\u00ed-Aili\u00fait"_s,
+		u"Am Haváí-Ailiúit"_s,
 		""_s
 	}));
 	$var($StringArray, Phoenix_Islands, $new($StringArray, {
-		u"Am Oile\u00e1in an Fh\u00e9inics"_s,
+		u"Am Oileáin an Fhéinics"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -1083,7 +1083,7 @@ $ObjectArray2* TimeZoneNames_ga::getContents() {
 		""_s
 	}));
 	$var($StringArray, Pierre_Miquelon, $new($StringArray, {
-		u"Am Caighde\u00e1nach Saint-Pierre-et-Miquelon"_s,
+		u"Am Caighdeánach Saint-Pierre-et-Miquelon"_s,
 		""_s,
 		"Am Samhraidh Saint-Pierre-et-Miquelon"_s,
 		""_s,
@@ -1091,15 +1091,15 @@ $ObjectArray2* TimeZoneNames_ga::getContents() {
 		""_s
 	}));
 	$var($StringArray, America_Mountain, $new($StringArray, {
-		u"Am Caighde\u00e1nach Sl\u00e9ibhte Mheirice\u00e1 Thuaidh"_s,
+		u"Am Caighdeánach Sléibhte Mheiriceá Thuaidh"_s,
 		""_s,
-		u"Am Samhraidh Sl\u00e9ibhte Mheirice\u00e1 Thuaidh"_s,
+		u"Am Samhraidh Sléibhte Mheiriceá Thuaidh"_s,
 		""_s,
-		u"Am Sl\u00e9ibhte Mheirice\u00e1 Thuaidh"_s,
+		u"Am Sléibhte Mheiriceá Thuaidh"_s,
 		""_s
 	}));
 	$var($StringArray, Marshall_Islands, $new($StringArray, {
-		u"Am Oile\u00e1in Marshall"_s,
+		u"Am Oileáin Marshall"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -1107,7 +1107,7 @@ $ObjectArray2* TimeZoneNames_ga::getContents() {
 		""_s
 	}));
 	$var($StringArray, Mexico_Northwest, $new($StringArray, {
-		u"Am Caighde\u00e1nach Iarthuaisceart Mheicsiceo"_s,
+		u"Am Caighdeánach Iarthuaisceart Mheicsiceo"_s,
 		""_s,
 		"Am Samhraidh Iarthuaisceart Mheicsiceo"_s,
 		""_s,
@@ -1123,31 +1123,31 @@ $ObjectArray2* TimeZoneNames_ga::getContents() {
 		""_s
 	}));
 	$var($StringArray, Australia_Central, $new($StringArray, {
-		u"Am Caighde\u00e1nach L\u00e1r na hAstr\u00e1ile"_s,
+		u"Am Caighdeánach Lár na hAstráile"_s,
 		""_s,
-		u"Am Samhraidh L\u00e1r na hAstr\u00e1ile"_s,
+		u"Am Samhraidh Lár na hAstráile"_s,
 		""_s,
-		u"Am L\u00e1r na hAstr\u00e1ile"_s,
+		u"Am Lár na hAstráile"_s,
 		""_s
 	}));
 	$var($StringArray, Australia_Eastern, $new($StringArray, {
-		u"Am Caighde\u00e1nach Oirthear na hAstr\u00e1ile"_s,
+		u"Am Caighdeánach Oirthear na hAstráile"_s,
 		""_s,
-		u"Am Samhraidh Oirthear na hAstr\u00e1ile"_s,
+		u"Am Samhraidh Oirthear na hAstráile"_s,
 		""_s,
-		u"Am Oirthear na hAstr\u00e1ile"_s,
+		u"Am Oirthear na hAstráile"_s,
 		""_s
 	}));
 	$var($StringArray, Australia_Western, $new($StringArray, {
-		u"Am Caighde\u00e1nach Iarthar na hAstr\u00e1ile"_s,
+		u"Am Caighdeánach Iarthar na hAstráile"_s,
 		""_s,
-		u"Am Samhraidh Iarthar na hAstr\u00e1ile"_s,
+		u"Am Samhraidh Iarthar na hAstráile"_s,
 		""_s,
-		u"Am Iarthar na hAstr\u00e1ile"_s,
+		u"Am Iarthar na hAstráile"_s,
 		""_s
 	}));
 	$var($StringArray, Greenland_Eastern, $new($StringArray, {
-		u"Am Caighde\u00e1nach Oirthear na Graonlainne"_s,
+		u"Am Caighdeánach Oirthear na Graonlainne"_s,
 		""_s,
 		"Am Samhraidh Oirthear na Graonlainne"_s,
 		""_s,
@@ -1155,7 +1155,7 @@ $ObjectArray2* TimeZoneNames_ga::getContents() {
 		""_s
 	}));
 	$var($StringArray, Greenland_Western, $new($StringArray, {
-		u"Am Caighde\u00e1nach Iarthar na Graonlainne"_s,
+		u"Am Caighdeánach Iarthar na Graonlainne"_s,
 		""_s,
 		"Am Samhraidh Iarthar na Graonlainne"_s,
 		""_s,
@@ -1163,7 +1163,7 @@ $ObjectArray2* TimeZoneNames_ga::getContents() {
 		""_s
 	}));
 	$var($StringArray, Indonesia_Central, $new($StringArray, {
-		u"Am L\u00e1r na hIndin\u00e9ise"_s,
+		u"Am Lár na hIndinéise"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -1171,7 +1171,7 @@ $ObjectArray2* TimeZoneNames_ga::getContents() {
 		""_s
 	}));
 	$var($StringArray, Indonesia_Eastern, $new($StringArray, {
-		u"Am Oirthear na hIndin\u00e9ise"_s,
+		u"Am Oirthear na hIndinéise"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -1179,7 +1179,7 @@ $ObjectArray2* TimeZoneNames_ga::getContents() {
 		""_s
 	}));
 	$var($StringArray, Indonesia_Western, $new($StringArray, {
-		u"Am Iarthar na hIndin\u00e9ise"_s,
+		u"Am Iarthar na hIndinéise"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -1187,7 +1187,7 @@ $ObjectArray2* TimeZoneNames_ga::getContents() {
 		""_s
 	}));
 	$var($StringArray, Kazakhstan_Eastern, $new($StringArray, {
-		u"Am Oirthear na Casacst\u00e1ine"_s,
+		u"Am Oirthear na Casacstáine"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -1195,7 +1195,7 @@ $ObjectArray2* TimeZoneNames_ga::getContents() {
 		""_s
 	}));
 	$var($StringArray, Kazakhstan_Western, $new($StringArray, {
-		u"Am Iarthar na Casacst\u00e1ine"_s,
+		u"Am Iarthar na Casacstáine"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -1203,11 +1203,11 @@ $ObjectArray2* TimeZoneNames_ga::getContents() {
 		""_s
 	}));
 	$var($StringArray, Australia_CentralWestern, $new($StringArray, {
-		u"Am Caighde\u00e1nach Mhe\u00e1niarthar na hAstr\u00e1ile"_s,
+		u"Am Caighdeánach Mheániarthar na hAstráile"_s,
 		""_s,
-		u"Am Samhraidh Mhe\u00e1niarthar na hAstr\u00e1ile"_s,
+		u"Am Samhraidh Mheániarthar na hAstráile"_s,
 		""_s,
-		u"Am Mhe\u00e1niarthar na hAstr\u00e1ile"_s,
+		u"Am Mheániarthar na hAstráile"_s,
 		""_s
 	}));
 	$var($ObjectArray2, data, $new($ObjectArray2, {
@@ -1854,10 +1854,10 @@ $ObjectArray2* TimeZoneNames_ga::getContents() {
 		$$new($ObjectArray, {
 			$of("Europe/Dublin"_s),
 			$of($$new($StringArray, {
-				u"Me\u00e1n-Am Greenwich"_s,
+				u"Meán-Am Greenwich"_s,
 				"MAG"_s,
-				u"Am Caighd\u00e9anach na h\u00c9ireann"_s,
-				u"AC\u00c9"_s,
+				u"Am Caighdéanach na hÉireann"_s,
+				u"ACÉ"_s,
 				""_s,
 				""_s
 			}))
@@ -1873,7 +1873,7 @@ $ObjectArray2* TimeZoneNames_ga::getContents() {
 		$$new($ObjectArray, {
 			$of("Europe/London"_s),
 			$of($$new($StringArray, {
-				u"Me\u00e1n-Am Greenwich"_s,
+				u"Meán-Am Greenwich"_s,
 				"MAG"_s,
 				"Am Samhraidh na Breataine"_s,
 				"ASB"_s,
@@ -2092,7 +2092,7 @@ $ObjectArray2* TimeZoneNames_ga::getContents() {
 		$$new($ObjectArray, {
 			$of("Europe/Belfast"_s),
 			$of($$new($StringArray, {
-				u"Me\u00e1n-Am Greenwich"_s,
+				u"Meán-Am Greenwich"_s,
 				"MAG"_s,
 				"Am Samhraidh na Breataine"_s,
 				"ASB"_s,
@@ -3050,7 +3050,7 @@ $ObjectArray2* TimeZoneNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Aden"_s),
-			$of(u"\u00c1idin"_s)
+			$of(u"Áidin"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Baku"_s),
@@ -3114,7 +3114,7 @@ $ObjectArray2* TimeZoneNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Kabul"_s),
-			$of(u"Cab\u00fal"_s)
+			$of(u"Cabúl"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Qatar"_s),
@@ -3122,11 +3122,11 @@ $ObjectArray2* TimeZoneNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Seoul"_s),
-			$of(u"S\u00fal"_s)
+			$of(u"Súl"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Tokyo"_s),
-			$of(u"T\u00f3iceo"_s)
+			$of(u"Tóiceo"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Tomsk"_s),
@@ -3170,19 +3170,19 @@ $ObjectArray2* TimeZoneNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Beirut"_s),
-			$of(u"B\u00e9iri\u00fat"_s)
+			$of(u"Béiriút"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Brunei"_s),
-			$of(u"Br\u00fain\u00e9"_s)
+			$of(u"Brúiné"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Hebron"_s),
-			$of(u"Heabr\u00f3n"_s)
+			$of(u"Heabrón"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Kuwait"_s),
-			$of(u"Cu\u00e1it"_s)
+			$of(u"Cuáit"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Manila"_s),
@@ -3218,19 +3218,19 @@ $ObjectArray2* TimeZoneNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Kiev"_s),
-			$of(u"C\u00edv"_s)
+			$of(u"Cív"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Oslo"_s),
-			$of(u"Osl\u00f3"_s)
+			$of(u"Osló"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Riga"_s),
-			$of(u"R\u00edge"_s)
+			$of(u"Ríge"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Rome"_s),
-			$of(u"an R\u00f3imh"_s)
+			$of(u"an Róimh"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Indian/Mahe"_s),
@@ -3250,7 +3250,7 @@ $ObjectArray2* TimeZoneNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Africa/Dakar"_s),
-			$of(u"Dac\u00e1r"_s)
+			$of(u"Dacár"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Africa/Lagos"_s),
@@ -3258,7 +3258,7 @@ $ObjectArray2* TimeZoneNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Africa/Tunis"_s),
-			$of(u"T\u00fainis"_s)
+			$of(u"Túinis"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Adak"_s),
@@ -3266,7 +3266,7 @@ $ObjectArray2* TimeZoneNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Lima"_s),
-			$of(u"L\u00edoma"_s)
+			$of(u"Líoma"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Nome"_s),
@@ -3278,7 +3278,7 @@ $ObjectArray2* TimeZoneNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Bahrain"_s),
-			$of(u"Bair\u00e9in"_s)
+			$of(u"Bairéin"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Bangkok"_s),
@@ -3302,7 +3302,7 @@ $ObjectArray2* TimeZoneNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Jakarta"_s),
-			$of(u"Iac\u00e1rta"_s)
+			$of(u"Iacárta"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Karachi"_s),
@@ -3318,11 +3318,11 @@ $ObjectArray2* TimeZoneNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Nicosia"_s),
-			$of(u"an Nioc\u00f3is"_s)
+			$of(u"an Niocóis"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Rangoon"_s),
-			$of(u"Rang\u00fan"_s)
+			$of(u"Rangún"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Tbilisi"_s),
@@ -3334,11 +3334,11 @@ $ObjectArray2* TimeZoneNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Yakutsk"_s),
-			$of(u"Iac\u00fatsc"_s)
+			$of(u"Iacútsc"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Yerevan"_s),
-			$of(u"Eireav\u00e1n"_s)
+			$of(u"Eireaván"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Kirov"_s),
@@ -3346,7 +3346,7 @@ $ObjectArray2* TimeZoneNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Malta"_s),
-			$of(u"M\u00e1lta"_s)
+			$of(u"Málta"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Minsk"_s),
@@ -3354,19 +3354,19 @@ $ObjectArray2* TimeZoneNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Paris"_s),
-			$of(u"P\u00e1ras"_s)
+			$of(u"Páras"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Sofia"_s),
-			$of(u"S\u00f3ifia"_s)
+			$of(u"Sóifia"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Vaduz"_s),
-			$of(u"Vad\u00fas"_s)
+			$of(u"Vadús"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Indian/Cocos"_s),
-			$of(u"Oile\u00e1n Cocos"_s)
+			$of(u"Oileán Cocos"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Pacific/Apia"_s),
@@ -3374,7 +3374,7 @@ $ObjectArray2* TimeZoneNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Pacific/Fiji"_s),
-			$of(u"Fids\u00ed"_s)
+			$of(u"Fidsí"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Pacific/Guam"_s),
@@ -3386,7 +3386,7 @@ $ObjectArray2* TimeZoneNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Pacific/Wake"_s),
-			$of(u"Oile\u00e1n Wake"_s)
+			$of(u"Oileán Wake"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Africa/Bamako"_s),
@@ -3430,7 +3430,7 @@ $ObjectArray2* TimeZoneNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Africa/Maputo"_s),
-			$of(u"Map\u00fat\u00f3"_s)
+			$of(u"Mapútó"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Africa/Maseru"_s),
@@ -3442,7 +3442,7 @@ $ObjectArray2* TimeZoneNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Aruba"_s),
-			$of(u"Ar\u00faba"_s)
+			$of(u"Arúba"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Bahia"_s),
@@ -3450,7 +3450,7 @@ $ObjectArray2* TimeZoneNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Belem"_s),
-			$of(u"Bel\u00e9m"_s)
+			$of(u"Belém"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Boise"_s),
@@ -3474,7 +3474,7 @@ $ObjectArray2* TimeZoneNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Calcutta"_s),
-			$of(u"Calc\u00fata"_s)
+			$of(u"Calcúta"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Damascus"_s),
@@ -3518,19 +3518,19 @@ $ObjectArray2* TimeZoneNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Berlin"_s),
-			$of(u"Beirl\u00edn"_s)
+			$of(u"Beirlín"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Dublin"_s),
-			$of(u"Baile \u00c1tha Cliath"_s)
+			$of(u"Baile Átha Cliath"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Jersey"_s),
-			$of(u"Geirs\u00ed"_s)
+			$of(u"Geirsí"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Lisbon"_s),
-			$of(u"Liosp\u00f3in"_s)
+			$of(u"Liospóin"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/London"_s),
@@ -3542,15 +3542,15 @@ $ObjectArray2* TimeZoneNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Monaco"_s),
-			$of(u"Monac\u00f3"_s)
+			$of(u"Monacó"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Moscow"_s),
-			$of(u"Mosc\u00f3"_s)
+			$of(u"Moscó"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Prague"_s),
-			$of(u"Pr\u00e1g"_s)
+			$of(u"Prág"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Samara"_s),
@@ -3558,27 +3558,27 @@ $ObjectArray2* TimeZoneNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Skopje"_s),
-			$of(u"Sc\u00f3ip\u00e9"_s)
+			$of(u"Scóipé"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Tirane"_s),
-			$of(u"Tior\u00e1na"_s)
+			$of(u"Tiorána"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Vienna"_s),
-			$of(u"V\u00edn"_s)
+			$of(u"Vín"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Warsaw"_s),
-			$of(u"V\u00e1rs\u00e1"_s)
+			$of(u"Vársá"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Zagreb"_s),
-			$of(u"S\u00e1grab"_s)
+			$of(u"Ságrab"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Zurich"_s),
-			$of(u"Z\u00fcrich"_s)
+			$of(u"Zürich"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Indian/Chagos"_s),
@@ -3586,7 +3586,7 @@ $ObjectArray2* TimeZoneNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Indian/Comoro"_s),
-			$of(u"Oile\u00e1in Chom\u00f3ra"_s)
+			$of(u"Oileáin Chomóra"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Pacific/Efate"_s),
@@ -3594,7 +3594,7 @@ $ObjectArray2* TimeZoneNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Pacific/Nauru"_s),
-			$of(u"N\u00e1r\u00fa"_s)
+			$of(u"Nárú"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Pacific/Palau"_s),
@@ -3614,11 +3614,11 @@ $ObjectArray2* TimeZoneNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Africa/Algiers"_s),
-			$of(u"Cathair na hAilg\u00e9ire"_s)
+			$of(u"Cathair na hAilgéire"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Africa/Conakry"_s),
-			$of(u"Conacra\u00ed"_s)
+			$of(u"Conacraí"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Africa/Kampala"_s),
@@ -3634,19 +3634,19 @@ $ObjectArray2* TimeZoneNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Africa/Tripoli"_s),
-			$of(u"Tripil\u00ed"_s)
+			$of(u"Tripilí"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Belize"_s),
-			$of(u"an Bheil\u00eds"_s)
+			$of(u"an Bheilís"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Bogota"_s),
-			$of(u"Bogat\u00e1"_s)
+			$of(u"Bogatá"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Cancun"_s),
-			$of(u"Canc\u00fan"_s)
+			$of(u"Cancún"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Cayman"_s),
@@ -3654,7 +3654,7 @@ $ObjectArray2* TimeZoneNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Cuiaba"_s),
-			$of(u"Cuiab\u00e1"_s)
+			$of(u"Cuiabá"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Dawson"_s),
@@ -3666,11 +3666,11 @@ $ObjectArray2* TimeZoneNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Guyana"_s),
-			$of(u"an Ghu\u00e1in"_s)
+			$of(u"an Ghuáin"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Havana"_s),
-			$of(u"Hav\u00e1na"_s)
+			$of(u"Havána"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Inuvik"_s),
@@ -3686,7 +3686,7 @@ $ObjectArray2* TimeZoneNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Maceio"_s),
-			$of(u"Macei\u00f3"_s)
+			$of(u"Maceió"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Manaus"_s),
@@ -3722,7 +3722,7 @@ $ObjectArray2* TimeZoneNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Jerusalem"_s),
-			$of(u"Iar\u00fasail\u00e9im"_s)
+			$of(u"Iarúsailéim"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Kamchatka"_s),
@@ -3746,7 +3746,7 @@ $ObjectArray2* TimeZoneNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Singapore"_s),
-			$of(u"Singeap\u00f3r"_s)
+			$of(u"Singeapór"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Vientiane"_s),
@@ -3754,7 +3754,7 @@ $ObjectArray2* TimeZoneNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Andorra"_s),
-			$of(u"And\u00f3ra"_s)
+			$of(u"Andóra"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Saratov"_s),
@@ -3766,7 +3766,7 @@ $ObjectArray2* TimeZoneNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Vatican"_s),
-			$of(u"Cathair na Vatac\u00e1ine"_s)
+			$of(u"Cathair na Vatacáine"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Vilnius"_s),
@@ -3778,11 +3778,11 @@ $ObjectArray2* TimeZoneNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Indian/Reunion"_s),
-			$of(u"La R\u00e9union"_s)
+			$of(u"La Réunion"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Pacific/Easter"_s),
-			$of(u"Oile\u00e1n na C\u00e1sca"_s)
+			$of(u"Oileán na Cásca"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Pacific/Kosrae"_s),
@@ -3794,7 +3794,7 @@ $ObjectArray2* TimeZoneNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Pacific/Midway"_s),
-			$of(u"Oile\u00e1in Midway"_s)
+			$of(u"Oileáin Midway"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Pacific/Noumea"_s),
@@ -3806,7 +3806,7 @@ $ObjectArray2* TimeZoneNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Pacific/Tahiti"_s),
-			$of(u"Taih\u00edt\u00ed"_s)
+			$of(u"Taihítí"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Pacific/Tarawa"_s),
@@ -3814,7 +3814,7 @@ $ObjectArray2* TimeZoneNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Pacific/Wallis"_s),
-			$of(u"Vail\u00eds"_s)
+			$of(u"Vailís"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Africa/Blantyre"_s),
@@ -3838,7 +3838,7 @@ $ObjectArray2* TimeZoneNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Africa/Khartoum"_s),
-			$of(u"Cart\u00fam"_s)
+			$of(u"Cartúm"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Africa/Kinshasa"_s),
@@ -3854,7 +3854,7 @@ $ObjectArray2* TimeZoneNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Africa/Sao_Tome"_s),
-			$of(u"S\u00e3o Tom\u00e9"_s)
+			$of(u"São Tomé"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Africa/Windhoek"_s),
@@ -3878,7 +3878,7 @@ $ObjectArray2* TimeZoneNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Cordoba"_s),
-			$of(u"C\u00f3rdoba"_s)
+			$of(u"Córdoba"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Creston"_s),
@@ -3886,7 +3886,7 @@ $ObjectArray2* TimeZoneNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Curacao"_s),
-			$of(u"Cura\u00e7ao"_s)
+			$of(u"Curaçao"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Detroit"_s),
@@ -3894,7 +3894,7 @@ $ObjectArray2* TimeZoneNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Grenada"_s),
-			$of(u"Grean\u00e1da"_s)
+			$of(u"Greanáda"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Halifax"_s),
@@ -3906,7 +3906,7 @@ $ObjectArray2* TimeZoneNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Jamaica"_s),
-			$of(u"Iam\u00e1ice"_s)
+			$of(u"Iamáice"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Managua"_s),
@@ -3966,15 +3966,15 @@ $ObjectArray2* TimeZoneNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Atlantic/Azores"_s),
-			$of(u"na hAs\u00f3ir"_s)
+			$of(u"na hAsóir"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Atlantic/Canary"_s),
-			$of(u"na hOile\u00e1in Chan\u00e1racha"_s)
+			$of(u"na hOileáin Chanáracha"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Atlantic/Faeroe"_s),
-			$of(u"Oile\u00e1in Fhar\u00f3"_s)
+			$of(u"Oileáin Fharó"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Australia/Eucla"_s),
@@ -3986,15 +3986,15 @@ $ObjectArray2* TimeZoneNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Belgrade"_s),
-			$of(u"B\u00e9algr\u00e1d"_s)
+			$of(u"Béalgrád"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Brussels"_s),
-			$of(u"an Bhruis\u00e9il"_s)
+			$of(u"an Bhruiséil"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Budapest"_s),
-			$of(u"B\u00fadaipeist"_s)
+			$of(u"Búdaipeist"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Busingen"_s),
@@ -4002,23 +4002,23 @@ $ObjectArray2* TimeZoneNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Chisinau"_s),
-			$of(u"C\u00edsine\u00e1"_s)
+			$of(u"Císineá"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Guernsey"_s),
-			$of(u"Geansa\u00ed"_s)
+			$of(u"Geansaí"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Helsinki"_s),
-			$of(u"Heilsinc\u00ed"_s)
+			$of(u"Heilsincí"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Istanbul"_s),
-			$of(u"Iostanb\u00fal"_s)
+			$of(u"Iostanbúl"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Sarajevo"_s),
-			$of(u"Sair\u00e9av\u00f3"_s)
+			$of(u"Sairéavó"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Uzhgorod"_s),
@@ -4026,7 +4026,7 @@ $ObjectArray2* TimeZoneNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Indian/Maldives"_s),
-			$of(u"Oile\u00e1in Mhaild\u00edve"_s)
+			$of(u"Oileáin Mhaildíve"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Pacific/Chatham"_s),
@@ -4050,19 +4050,19 @@ $ObjectArray2* TimeZoneNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Africa/Mogadishu"_s),
-			$of(u"Mogaidisi\u00fa"_s)
+			$of(u"Mogaidisiú"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Anguilla"_s),
-			$of(u"Anga\u00edle"_s)
+			$of(u"Angaíle"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Asuncion"_s),
-			$of(u"As\u00fainseon"_s)
+			$of(u"Asúinseon"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Barbados"_s),
-			$of(u"Barbad\u00f3s"_s)
+			$of(u"Barbadós"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Dominica"_s),
@@ -4074,7 +4074,7 @@ $ObjectArray2* TimeZoneNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Eirunepe"_s),
-			$of(u"Eirunep\u00e9"_s)
+			$of(u"Eirunepé"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Mazatlan"_s),
@@ -4094,15 +4094,15 @@ $ObjectArray2* TimeZoneNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Santarem"_s),
-			$of(u"Santar\u00e9m"_s)
+			$of(u"Santarém"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Santiago"_s),
-			$of(u"Saintiag\u00f3"_s)
+			$of(u"Saintiagó"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/St_Kitts"_s),
-			$of(u"San Cr\u00edost\u00f3ir"_s)
+			$of(u"San Críostóir"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Winnipeg"_s),
@@ -4142,11 +4142,11 @@ $ObjectArray2* TimeZoneNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Atlantic/Bermuda"_s),
-			$of(u"Beirmi\u00fada"_s)
+			$of(u"Beirmiúda"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Atlantic/Madeira"_s),
-			$of(u"Maid\u00e9ara"_s)
+			$of(u"Maidéara"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Atlantic/Stanley"_s),
@@ -4174,19 +4174,19 @@ $ObjectArray2* TimeZoneNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Astrakhan"_s),
-			$of(u"an Astrac\u00e1in"_s)
+			$of(u"an Astracáin"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Bucharest"_s),
-			$of(u"B\u00facairist"_s)
+			$of(u"Búcairist"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Gibraltar"_s),
-			$of(u"Giobr\u00e1ltar"_s)
+			$of(u"Giobráltar"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Ljubljana"_s),
-			$of(u"Li\u00faible\u00e1na"_s)
+			$of(u"Liúibleána"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Mariehamn"_s),
@@ -4194,11 +4194,11 @@ $ObjectArray2* TimeZoneNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Podgorica"_s),
-			$of(u"Podgair\u00edtse"_s)
+			$of(u"Podgairítse"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Stockholm"_s),
-			$of(u"St\u00f3c\u00f3lm"_s)
+			$of(u"Stócólm"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Ulyanovsk"_s),
@@ -4210,7 +4210,7 @@ $ObjectArray2* TimeZoneNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Indian/Christmas"_s),
-			$of(u"Oile\u00e1n na Nollag"_s)
+			$of(u"Oileán na Nollag"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Indian/Kerguelen"_s),
@@ -4218,7 +4218,7 @@ $ObjectArray2* TimeZoneNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Indian/Mauritius"_s),
-			$of(u"Oile\u00e1n Mhuir\u00eds"_s)
+			$of(u"Oileán Mhuirís"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Pacific/Auckland"_s),
@@ -4314,7 +4314,7 @@ $ObjectArray2* TimeZoneNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Sao_Paulo"_s),
-			$of(u"S\u00e3o Paulo"_s)
+			$of(u"São Paulo"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Vancouver"_s),
@@ -4342,11 +4342,11 @@ $ObjectArray2* TimeZoneNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Bratislava"_s),
-			$of(u"an Bhratasl\u00e1iv"_s)
+			$of(u"an Bhratasláiv"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Copenhagen"_s),
-			$of(u"C\u00f3banh\u00e1van"_s)
+			$of(u"Cóbanhávan"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Luxembourg"_s),
@@ -4354,7 +4354,7 @@ $ObjectArray2* TimeZoneNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/San_Marino"_s),
-			$of(u"San Mair\u00edne"_s)
+			$of(u"San Mairíne"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Simferopol"_s),
@@ -4370,7 +4370,7 @@ $ObjectArray2* TimeZoneNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Pacific/Galapagos"_s),
-			$of(u"Gal\u00e1pagos"_s)
+			$of(u"Galápagos"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Pacific/Kwajalein"_s),
@@ -4378,7 +4378,7 @@ $ObjectArray2* TimeZoneNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Pacific/Marquesas"_s),
-			$of(u"na hOile\u00e1in Mharcasacha"_s)
+			$of(u"na hOileáin Mharcasacha"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Pacific/Pago_Pago"_s),
@@ -4406,7 +4406,7 @@ $ObjectArray2* TimeZoneNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Costa_Rica"_s),
-			$of(u"C\u00f3sta R\u00edce"_s)
+			$of(u"Cósta Ríce"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Grand_Turk"_s),
@@ -4414,7 +4414,7 @@ $ObjectArray2* TimeZoneNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Guadeloupe"_s),
-			$of(u"Guadal\u00faip"_s)
+			$of(u"Guadalúip"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Hermosillo"_s),
@@ -4478,11 +4478,11 @@ $ObjectArray2* TimeZoneNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Atlantic/Reykjavik"_s),
-			$of(u"R\u00e9iciv\u00edc"_s)
+			$of(u"Réicivíc"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Atlantic/St_Helena"_s),
-			$of(u"San H\u00e9ilin"_s)
+			$of(u"San Héilin"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Australia/Adelaide"_s),
@@ -4498,7 +4498,7 @@ $ObjectArray2* TimeZoneNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Isle_of_Man"_s),
-			$of(u"Oile\u00e1n Mhanann"_s)
+			$of(u"Oileán Mhanann"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Kaliningrad"_s),
@@ -4514,7 +4514,7 @@ $ObjectArray2* TimeZoneNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/El_Salvador"_s),
-			$of(u"an tSalvad\u00f3ir"_s)
+			$of(u"an tSalvadóir"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Fort_Nelson"_s),
@@ -4538,7 +4538,7 @@ $ObjectArray2* TimeZoneNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Puerto_Rico"_s),
-			$of(u"Port\u00f3 R\u00edce"_s)
+			$of(u"Portó Ríce"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Rainy_River"_s),
@@ -4574,7 +4574,7 @@ $ObjectArray2* TimeZoneNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Indian/Antananarivo"_s),
-			$of(u"Antananair\u00edveo"_s)
+			$of(u"Antananairíveo"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Pacific/Guadalcanal"_s),
@@ -4582,7 +4582,7 @@ $ObjectArray2* TimeZoneNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Africa/Dar_es_Salaam"_s),
-			$of(u"D\u00e1rasal\u00e1m"_s)
+			$of(u"Dárasalám"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Blanc-Sablon"_s),
@@ -4646,7 +4646,7 @@ $ObjectArray2* TimeZoneNames_ga::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/St_Barthelemy"_s),
-			$of(u"Saint Barth\u00e9lemy"_s)
+			$of(u"Saint Barthélemy"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Swift_Current"_s),

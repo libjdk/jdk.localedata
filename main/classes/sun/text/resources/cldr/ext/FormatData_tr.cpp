@@ -41,28 +41,28 @@ $ObjectArray2* FormatData_tr::getContents() {
 	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_MonthNames, $new($StringArray, {
 		"Ocak"_s,
-		u"\u015eubat"_s,
+		u"Şubat"_s,
 		"Mart"_s,
 		"Nisan"_s,
-		u"May\u0131s"_s,
+		u"Mayıs"_s,
 		"Haziran"_s,
 		"Temmuz"_s,
-		u"A\u011fustos"_s,
-		u"Eyl\u00fcl"_s,
+		u"Ağustos"_s,
+		u"Eylül"_s,
 		"Ekim"_s,
-		u"Kas\u0131m"_s,
-		u"Aral\u0131k"_s,
+		u"Kasım"_s,
+		u"Aralık"_s,
 		""_s
 	}));
 	$var($StringArray, metaValue_MonthAbbreviations, $new($StringArray, {
 		"Oca"_s,
-		u"\u015eub"_s,
+		u"Şub"_s,
 		"Mar"_s,
 		"Nis"_s,
 		"May"_s,
 		"Haz"_s,
 		"Tem"_s,
-		u"A\u011fu"_s,
+		u"Ağu"_s,
 		"Eyl"_s,
 		"Eki"_s,
 		"Kas"_s,
@@ -71,7 +71,7 @@ $ObjectArray2* FormatData_tr::getContents() {
 	}));
 	$var($StringArray, metaValue_MonthNarrows, $new($StringArray, {
 		"O"_s,
-		u"\u015e"_s,
+		u"Ş"_s,
 		"M"_s,
 		"N"_s,
 		"M"_s,
@@ -87,9 +87,9 @@ $ObjectArray2* FormatData_tr::getContents() {
 	$var($StringArray, metaValue_DayNames, $new($StringArray, {
 		"Pazar"_s,
 		"Pazartesi"_s,
-		u"Sal\u0131"_s,
-		u"\u00c7ar\u015famba"_s,
-		u"Per\u015fembe"_s,
+		u"Salı"_s,
+		u"Çarşamba"_s,
+		u"Perşembe"_s,
 		"Cuma"_s,
 		"Cumartesi"_s
 	}));
@@ -97,7 +97,7 @@ $ObjectArray2* FormatData_tr::getContents() {
 		"Paz"_s,
 		"Pzt"_s,
 		"Sal"_s,
-		u"\u00c7ar"_s,
+		u"Çar"_s,
 		"Per"_s,
 		"Cum"_s,
 		"Cmt"_s
@@ -106,22 +106,22 @@ $ObjectArray2* FormatData_tr::getContents() {
 		"P"_s,
 		"P"_s,
 		"S"_s,
-		u"\u00c7"_s,
+		u"Ç"_s,
 		"P"_s,
 		"C"_s,
 		"C"_s
 	}));
 	$var($StringArray, metaValue_QuarterNames, $new($StringArray, {
-		u"1. \u00e7eyrek"_s,
-		u"2. \u00e7eyrek"_s,
-		u"3. \u00e7eyrek"_s,
-		u"4. \u00e7eyrek"_s
+		u"1. çeyrek"_s,
+		u"2. çeyrek"_s,
+		u"3. çeyrek"_s,
+		u"4. çeyrek"_s
 	}));
 	$var($StringArray, metaValue_QuarterAbbreviations, $new($StringArray, {
-		u"\u00c71"_s,
-		u"\u00c72"_s,
-		u"\u00c73"_s,
-		u"\u00c74"_s
+		u"Ç1"_s,
+		u"Ç2"_s,
+		u"Ç3"_s,
+		u"Ç4"_s
 	}));
 	$var($StringArray, metaValue_QuarterNarrows, $new($StringArray, {
 		"1."_s,
@@ -130,35 +130,35 @@ $ObjectArray2* FormatData_tr::getContents() {
 		"4."_s
 	}));
 	$var($StringArray, metaValue_AmPmMarkers, $new($StringArray, {
-		u"\u00d6\u00d6"_s,
-		u"\u00d6S"_s,
-		u"gece yar\u0131s\u0131"_s,
-		u"\u00f6\u011fle"_s,
+		u"ÖÖ"_s,
+		u"ÖS"_s,
+		u"gece yarısı"_s,
+		u"öğle"_s,
 		"sabah"_s,
-		u"\u00f6\u011fleden \u00f6nce"_s,
-		u"\u00f6\u011fleden sonra"_s,
-		u"ak\u015fam\u00fcst\u00fc"_s,
-		u"ak\u015fam"_s,
+		u"öğleden önce"_s,
+		u"öğleden sonra"_s,
+		u"akşamüstü"_s,
+		u"akşam"_s,
 		""_s,
 		"gece"_s,
 		""_s
 	}));
 	$var($StringArray, metaValue_narrow_AmPmMarkers, $new($StringArray, {
-		u"\u00f6\u00f6"_s,
-		u"\u00f6s"_s,
+		u"öö"_s,
+		u"ös"_s,
 		"gece"_s,
-		u"\u00f6"_s,
+		u"ö"_s,
 		"sabah"_s,
-		u"\u00f6\u011fleden \u00f6nce"_s,
-		u"\u00f6\u011fleden sonra"_s,
-		u"ak\u015fam\u00fcst\u00fc"_s,
-		u"ak\u015fam"_s,
+		u"öğleden önce"_s,
+		u"öğleden sonra"_s,
+		u"akşamüstü"_s,
+		u"akşam"_s,
 		""_s,
 		"gece"_s,
 		""_s
 	}));
 	$var($StringArray, metaValue_Eras, $new($StringArray, {
-		u"M\u00d6"_s,
+		u"MÖ"_s,
 		"MS"_s
 	}));
 	$var($StringArray, metaValue_TimePatterns, $new($StringArray, {
@@ -184,7 +184,7 @@ $ObjectArray2* FormatData_tr::getContents() {
 		"G d.MM.y"_s
 	}));
 	$var($StringArray, metaValue_java_time_roc_long_Eras, $new($StringArray, {
-		u"R.O.C. \u00d6ncesi"_s,
+		u"R.O.C. Öncesi"_s,
 		"Minguo"_s
 	}));
 	$var($StringArray, metaValue_java_time_roc_Eras, $new($StringArray, {
@@ -203,11 +203,11 @@ $ObjectArray2* FormatData_tr::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.year"_s),
-			$of(u"y\u0131l"_s)
+			$of(u"yıl"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.islamic-umalqura"_s),
-			$of(u"Hicri Takvim (\u00dcmm\u00fc-l Kurra Takvimi)"_s)
+			$of(u"Hicri Takvim (Ümmü-l Kurra Takvimi)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("japanese.AmPmMarkers"_s),
@@ -297,7 +297,7 @@ $ObjectArray2* FormatData_tr::getContents() {
 		$$new($ObjectArray, {
 			$of("long.Eras"_s),
 			$of($$new($StringArray, {
-				u"Milattan \u00d6nce"_s,
+				u"Milattan Önce"_s,
 				"Milattan Sonra"_s
 			}))
 		}),
@@ -341,8 +341,8 @@ $ObjectArray2* FormatData_tr::getContents() {
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
+				u"‰"_s,
+				u"∞"_s,
 				"NaN"_s,
 				""_s,
 				""_s
@@ -371,7 +371,7 @@ $ObjectArray2* FormatData_tr::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.era"_s),
-			$of(u"\u00e7a\u011f"_s)
+			$of(u"çağ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("buddhist.AmPmMarkers"_s),
@@ -379,7 +379,7 @@ $ObjectArray2* FormatData_tr::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.dayperiod"_s),
-			$of(u"\u00d6\u00d6/\u00d6S"_s)
+			$of(u"ÖÖ/ÖS"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("standalone.MonthNarrows"_s),
@@ -390,14 +390,14 @@ $ObjectArray2* FormatData_tr::getContents() {
 			$of($$new($StringArray, {
 				"Muharrem"_s,
 				"Safer"_s,
-				u"Rebi\u00fclevvel"_s,
-				u"Rebi\u00fclahir"_s,
+				u"Rebiülevvel"_s,
+				u"Rebiülahir"_s,
 				"Cemaziyelevvel"_s,
 				"Cemaziyelahir"_s,
 				"Recep"_s,
-				u"\u015eaban"_s,
+				u"Şaban"_s,
 				"Ramazan"_s,
-				u"\u015eevval"_s,
+				u"Şevval"_s,
 				"Zilkade"_s,
 				"Zilhicce"_s,
 				""_s
@@ -409,7 +409,7 @@ $ObjectArray2* FormatData_tr::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.roc"_s),
-			$of(u"\u00c7in Cumhuriyeti Takvimi"_s)
+			$of(u"Çin Cumhuriyeti Takvimi"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("islamic.DatePatterns"_s),
@@ -601,7 +601,7 @@ $ObjectArray2* FormatData_tr::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.weekday"_s),
-			$of(u"haftan\u0131n g\u00fcn\u00fc"_s)
+			$of(u"haftanın günü"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("japanese.MonthAbbreviations"_s),
@@ -693,18 +693,18 @@ $ObjectArray2* FormatData_tr::getContents() {
 				""_s,
 				""_s,
 				""_s,
-				u"{one:0\u00a0B other:0\u00a0B}"_s,
-				u"{one:00\u00a0B other:00\u00a0B}"_s,
-				u"{one:000\u00a0B other:000\u00a0B}"_s,
-				u"{one:0\u00a0Mn other:0\u00a0Mn}"_s,
-				u"{one:00\u00a0Mn other:00\u00a0Mn}"_s,
-				u"{one:000\u00a0Mn other:000\u00a0Mn}"_s,
-				u"{one:0\u00a0Mr other:0\u00a0Mr}"_s,
-				u"{one:00\u00a0Mr other:00\u00a0Mr}"_s,
-				u"{one:000\u00a0Mr other:000\u00a0Mr}"_s,
-				u"{one:0\u00a0Tn other:0\u00a0Tn}"_s,
-				u"{one:00\u00a0Tn other:00\u00a0Tn}"_s,
-				u"{one:000\u00a0Tn other:000\u00a0Tn}"_s
+				u"{one:0 B other:0 B}"_s,
+				u"{one:00 B other:00 B}"_s,
+				u"{one:000 B other:000 B}"_s,
+				u"{one:0 Mn other:0 Mn}"_s,
+				u"{one:00 Mn other:00 Mn}"_s,
+				u"{one:000 Mn other:000 Mn}"_s,
+				u"{one:0 Mr other:0 Mr}"_s,
+				u"{one:00 Mr other:00 Mr}"_s,
+				u"{one:000 Mr other:000 Mr}"_s,
+				u"{one:0 Tn other:0 Tn}"_s,
+				u"{one:00 Tn other:00 Tn}"_s,
+				u"{one:000 Tn other:000 Tn}"_s
 			}))
 		}),
 		$$new($ObjectArray, {
@@ -762,9 +762,9 @@ $ObjectArray2* FormatData_tr::getContents() {
 				"C.evvel"_s,
 				"C.ahir"_s,
 				"Recep"_s,
-				u"\u015eaban"_s,
+				u"Şaban"_s,
 				"Ram."_s,
-				u"\u015eevval"_s,
+				u"Şevval"_s,
 				"Zilkade"_s,
 				"Zilhicce"_s,
 				""_s
@@ -786,9 +786,9 @@ $ObjectArray2* FormatData_tr::getContents() {
 			$of("latn.NumberPatterns"_s),
 			$of($$new($StringArray, {
 				"#,##0.###"_s,
-				u"\u00a4#,##0.00"_s,
+				u"¤#,##0.00"_s,
 				"%#,##0"_s,
-				u"\u00a4#,##0.00;(\u00a4#,##0.00)"_s
+				u"¤#,##0.00;(¤#,##0.00)"_s
 			}))
 		}),
 		$$new($ObjectArray, {

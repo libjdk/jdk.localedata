@@ -41,11 +41,11 @@ $ObjectArray2* CurrencyNames_el_CY::getContents() {
 	return $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("CYP"_s),
-			$of(u"\u00a3"_s)
+			$of(u"£"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("EUR"_s),
-			$of(u"\u20ac"_s)
+			$of(u"€"_s)
 		})
 	});
 }

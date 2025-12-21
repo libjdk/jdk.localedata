@@ -51,7 +51,7 @@ $ObjectArray2* FormatData_mgh::getContents() {
 		"Mweri wo tisa"_s,
 		"Mweri wo kumi"_s,
 		"Mweri wo kumi na moja"_s,
-		u"Mweri wo kumi na yel\u2019li"_s,
+		u"Mweri wo kumi na yel’li"_s,
 		""_s
 	}));
 	$var($StringArray, metaValue_MonthAbbreviations, $new($StringArray, {
@@ -113,7 +113,7 @@ $ObjectArray2* FormatData_mgh::getContents() {
 	}));
 	$var($StringArray, metaValue_AmPmMarkers, $new($StringArray, {
 		"wichishu"_s,
-		u"mchochil\u2019l"_s,
+		u"mchochil’l"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -274,8 +274,8 @@ $ObjectArray2* FormatData_mgh::getContents() {
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
+				u"‰"_s,
+				u"∞"_s,
 				"NaN"_s,
 				""_s,
 				""_s
@@ -303,7 +303,7 @@ $ObjectArray2* FormatData_mgh::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.era"_s),
-			$of(u"kal\u2019lai"_s)
+			$of(u"kal’lai"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("islamic.DayAbbreviations"_s),
@@ -426,7 +426,7 @@ $ObjectArray2* FormatData_mgh::getContents() {
 			$of("latn.NumberPatterns"_s),
 			$of($$new($StringArray, {
 				"#,##0.###"_s,
-				u"\u00a4\u00a0#,##0.00"_s,
+				u"¤ #,##0.00"_s,
 				"#,##0%"_s,
 				""_s
 			}))

@@ -56,27 +56,27 @@ $ObjectArray2* TimeZoneNames_yi::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Saigon"_s),
-			$of(u"\u05d4\u05d0 \u05d8\u05e9\u05d9 \u05de\u05d9\u05df \u05e9\u05d8\u05d0\u05b8\u05d8"_s)
+			$of(u"הא טשי מין שטאָט"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Etc/Unknown"_s),
-			$of(u"\u05d0\u05d5\u05de\u05d1\u05d0\u05b7\u05d5\u05d5\u05d0\u05d5\u05e1\u05d8\u05e2 \u05e9\u05d8\u05d0\u05b8\u05d8"_s)
+			$of(u"אומבאַוואוסטע שטאָט"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Africa/Tunis"_s),
-			$of(u"\u05d8\u05d5\u05e0\u05d9\u05e1"_s)
+			$of(u"טוניס"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Africa/Asmera"_s),
-			$of(u"\u05d0\u05b7\u05e1\u05de\u05d0\u05b7\u05e8\u05d0\u05b7"_s)
+			$of(u"אַסמאַראַ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Africa/Abidjan"_s),
-			$of(u"\u05d0\u05b7\u05d1\u05d9\u05d3\u05d6\u05e9\u05d0\u05b7\u05df"_s)
+			$of(u"אַבידזשאַן"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Africa/Windhoek"_s),
-			$of(u"\u05d5\u05d5\u05d9\u05e0\u05d8\u05d4\u05d5\u05e7"_s)
+			$of(u"ווינטהוק"_s)
 		})
 	}));
 	return data;

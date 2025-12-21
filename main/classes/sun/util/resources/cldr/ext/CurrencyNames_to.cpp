@@ -54,11 +54,11 @@ $ObjectArray2* CurrencyNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("aud"_s),
-			$of(u"Tola faka\u02bbaositel\u0113lia"_s)
+			$of(u"Tola fakaʻaositelēlia"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("eur"_s),
-			$of(u"\u02bbEulo"_s)
+			$of(u"ʻEulo"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("fjd"_s),
@@ -66,7 +66,7 @@ $ObjectArray2* CurrencyNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("nzd"_s),
-			$of(u"Tola fakanu\u02bbusila"_s)
+			$of(u"Tola fakanuʻusila"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pgk"_s),
@@ -74,11 +74,11 @@ $ObjectArray2* CurrencyNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("sbd"_s),
-			$of(u"Tola faka\u02bbotusolomone"_s)
+			$of(u"Tola fakaʻotusolomone"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("top"_s),
-			$of(u"Pa\u02bbanga fakatonga"_s)
+			$of(u"Paʻanga fakatonga"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("vuv"_s),
@@ -86,7 +86,7 @@ $ObjectArray2* CurrencyNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("wst"_s),
-			$of(u"Tala fakaha\u02bbamoa"_s)
+			$of(u"Tala fakahaʻamoa"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xpf"_s),
@@ -94,7 +94,7 @@ $ObjectArray2* CurrencyNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("xxx"_s),
-			$of(u"Pa\u2019anga Ta\u2019e\u2019ilo"_s)
+			$of(u"Pa’anga Ta’e’ilo"_s)
 		})
 	}));
 	return data;

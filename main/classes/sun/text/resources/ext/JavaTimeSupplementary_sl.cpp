@@ -39,16 +39,16 @@ void JavaTimeSupplementary_sl::init$() {
 $ObjectArray2* JavaTimeSupplementary_sl::getContents() {
 	$useLocalCurrentObjectStackCache();
 	$var($StringArray, sharedQuarterAbbreviations, $new($StringArray, {
-		u"1. \u010det."_s,
-		u"2. \u010det."_s,
-		u"3. \u010det."_s,
-		u"4. \u010det."_s
+		u"1. čet."_s,
+		u"2. čet."_s,
+		u"3. čet."_s,
+		u"4. čet."_s
 	}));
 	$var($StringArray, sharedQuarterNames, $new($StringArray, {
-		u"1. \u010detrtletje"_s,
-		u"2. \u010detrtletje"_s,
-		u"3. \u010detrtletje"_s,
-		u"4. \u010detrtletje"_s
+		u"1. četrtletje"_s,
+		u"2. četrtletje"_s,
+		u"3. četrtletje"_s,
+		u"4. četrtletje"_s
 	}));
 	$var($StringArray, sharedAmPmMarkers, $new($StringArray, {
 		"dop."_s,
@@ -65,7 +65,7 @@ $ObjectArray2* JavaTimeSupplementary_sl::getContents() {
 		"pon."_s,
 		"tor."_s,
 		"sre."_s,
-		u"\u010det."_s,
+		u"čet."_s,
 		"pet."_s,
 		"sob."_s
 	}));
@@ -74,7 +74,7 @@ $ObjectArray2* JavaTimeSupplementary_sl::getContents() {
 		"ponedeljek"_s,
 		"torek"_s,
 		"sreda"_s,
-		u"\u010detrtek"_s,
+		u"četrtek"_s,
 		"petek"_s,
 		"sobota"_s
 	}));
@@ -83,7 +83,7 @@ $ObjectArray2* JavaTimeSupplementary_sl::getContents() {
 		"p"_s,
 		"t"_s,
 		"s"_s,
-		u"\u010d"_s,
+		u"č"_s,
 		"p"_s,
 		"s"_s
 	}));
@@ -108,7 +108,7 @@ $ObjectArray2* JavaTimeSupplementary_sl::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.buddhist"_s),
-			$of(u"budisti\u010dni koledar"_s)
+			$of(u"budistični koledar"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.gregorian"_s),
@@ -132,11 +132,11 @@ $ObjectArray2* JavaTimeSupplementary_sl::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.roc"_s),
-			$of(u"kitajski dr\u017eavni koledar"_s)
+			$of(u"kitajski državni koledar"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("field.dayperiod"_s),
-			$of(u"\u010cas dneva"_s)
+			$of(u"Čas dneva"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("field.era"_s),
@@ -172,7 +172,7 @@ $ObjectArray2* JavaTimeSupplementary_sl::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.zone"_s),
-			$of(u"\u010dasovni pas"_s)
+			$of(u"časovni pas"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("islamic.AmPmMarkers"_s),
@@ -226,7 +226,7 @@ $ObjectArray2* JavaTimeSupplementary_sl::getContents() {
 			$of("java.time.long.Eras"_s),
 			$of($$new($StringArray, {
 				"pred Kristusom"_s,
-				u"na\u0161e \u0161tetje"_s
+				u"naše štetje"_s
 			}))
 		}),
 		$$new($ObjectArray, {
@@ -236,7 +236,7 @@ $ObjectArray2* JavaTimeSupplementary_sl::getContents() {
 		$$new($ObjectArray, {
 			$of("java.time.short.Eras"_s),
 			$of($$new($StringArray, {
-				u"pr.n.\u0161."_s,
+				u"pr.n.š."_s,
 				"po Kr."_s
 			}))
 		}),

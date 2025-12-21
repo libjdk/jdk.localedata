@@ -37,7 +37,7 @@ void Bug8132125::main($StringArray* args) {
 	$useLocalCurrentObjectStackCache();
 	$var($Locale, deCH, $new($Locale, "de"_s, "CH"_s));
 	$var($NumberFormat, nf, $NumberFormat::getInstance(deCH));
-	$var($String, expected, u"54\u2019839\u2019483.142"_s);
+	$var($String, expected, u"54’839’483.142"_s);
 	$var($String, actual, $nc(nf)->format(5.48394831415E7));
 	if (!$nc(actual)->equals(expected)) {
 		$throwNew($RuntimeException, $$str({"incorrect for de_CH: "_s, expected, " vs. actual "_s, actual}));

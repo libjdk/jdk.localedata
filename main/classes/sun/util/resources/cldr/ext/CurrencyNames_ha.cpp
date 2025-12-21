@@ -42,11 +42,11 @@ $ObjectArray2* CurrencyNames_ha::getContents() {
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("JPY"_s),
-			$of(u"\u00a5"_s)
+			$of(u"¥"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("NGN"_s),
-			$of(u"\u20a6"_s)
+			$of(u"₦"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("USD"_s),
@@ -54,31 +54,31 @@ $ObjectArray2* CurrencyNames_ha::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("aed"_s),
-			$of(u"Ku\u0257in Ha\u0257a\u0257\u0257iyar Daular Larabawa"_s)
+			$of(u"Kuɗin Haɗaɗɗiyar Daular Larabawa"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("afn"_s),
-			$of(u"Afghani na \u0199asar Afghanistan"_s)
+			$of(u"Afghani na ƙasar Afghanistan"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("all"_s),
-			$of(u"Ku\u0257in Albania"_s)
+			$of(u"Kuɗin Albania"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("amd"_s),
-			$of(u"Ku\u0257in Armenia"_s)
+			$of(u"Kuɗin Armenia"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ang"_s),
-			$of(u"Antillean Guilder na \u0199asar Netherlands"_s)
+			$of(u"Antillean Guilder na ƙasar Netherlands"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("aoa"_s),
-			$of(u"Ku\u0257in Angola"_s)
+			$of(u"Kuɗin Angola"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ars"_s),
-			$of(u"Peso na \u0199asar Argentina"_s)
+			$of(u"Peso na ƙasar Argentina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("aud"_s),
@@ -90,35 +90,35 @@ $ObjectArray2* CurrencyNames_ha::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("azn"_s),
-			$of(u"Ku\u0257in Azerbaijani"_s)
+			$of(u"Kuɗin Azerbaijani"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bam"_s),
-			$of(u"Ku\u0257a\u0257en Bosnia da Herzegovina"_s)
+			$of(u"Kuɗaɗen Bosnia da Herzegovina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bbd"_s),
-			$of(u"Dalar \u0199asar Barbados"_s)
+			$of(u"Dalar ƙasar Barbados"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bdt"_s),
-			$of(u"Taka na \u0199asar Bangladesh"_s)
+			$of(u"Taka na ƙasar Bangladesh"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bgn"_s),
-			$of(u"Ku\u0257in Bulgeria"_s)
+			$of(u"Kuɗin Bulgeria"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bhd"_s),
-			$of(u"Ku\u0257in Baharan"_s)
+			$of(u"Kuɗin Baharan"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bif"_s),
-			$of(u"Ku\u0257in Burundi"_s)
+			$of(u"Kuɗin Burundi"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bmd"_s),
-			$of(u"Dalar \u0199asar Bermuda"_s)
+			$of(u"Dalar ƙasar Bermuda"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bnd"_s),
@@ -126,7 +126,7 @@ $ObjectArray2* CurrencyNames_ha::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("bob"_s),
-			$of(u"Boloviano na \u0199asar Bolivia"_s)
+			$of(u"Boloviano na ƙasar Bolivia"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("brl"_s),
@@ -134,23 +134,23 @@ $ObjectArray2* CurrencyNames_ha::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("bsd"_s),
-			$of(u"Dalar \u0199asar Bahamas"_s)
+			$of(u"Dalar ƙasar Bahamas"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("btn"_s),
-			$of(u"Ngultrum na \u0199asar Bhutan"_s)
+			$of(u"Ngultrum na ƙasar Bhutan"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bwp"_s),
-			$of(u"Ku\u0257in Baswana"_s)
+			$of(u"Kuɗin Baswana"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("byn"_s),
-			$of(u"Ku\u0257in Belarus"_s)
+			$of(u"Kuɗin Belarus"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bzd"_s),
-			$of(u"Dalar \u0199asar Belize"_s)
+			$of(u"Dalar ƙasar Belize"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cad"_s),
@@ -158,55 +158,55 @@ $ObjectArray2* CurrencyNames_ha::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("cdf"_s),
-			$of(u"Ku\u0257in Kongo"_s)
+			$of(u"Kuɗin Kongo"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("chf"_s),
-			$of(u"Ku\u0257in Suwizalan"_s)
+			$of(u"Kuɗin Suwizalan"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("clp"_s),
-			$of(u"Peso na \u0199asar Chile"_s)
+			$of(u"Peso na ƙasar Chile"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cnh"_s),
-			$of(u"Yuwan na \u0199asar Sin (na wajen \u0199asa)"_s)
+			$of(u"Yuwan na ƙasar Sin (na wajen ƙasa)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cny"_s),
-			$of(u"Yuwan na \u0199asar Sin"_s)
+			$of(u"Yuwan na ƙasar Sin"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cop"_s),
-			$of(u"Peso na \u0199asar Columbia"_s)
+			$of(u"Peso na ƙasar Columbia"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("crc"_s),
-			$of(u"Col\u00f3n na \u0199asar Costa Rica"_s)
+			$of(u"Colón na ƙasar Costa Rica"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cuc"_s),
-			$of(u"Peso mai fuska biyu na \u0199asar Kuba"_s)
+			$of(u"Peso mai fuska biyu na ƙasar Kuba"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cup"_s),
-			$of(u"Peso na \u0199asar Kuba"_s)
+			$of(u"Peso na ƙasar Kuba"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cve"_s),
-			$of(u"Ku\u0257in Tsibiran Kap Barde"_s)
+			$of(u"Kuɗin Tsibiran Kap Barde"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("czk"_s),
-			$of(u"Ku\u0257in Czech"_s)
+			$of(u"Kuɗin Czech"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("djf"_s),
-			$of(u"Ku\u0257in Jibuti"_s)
+			$of(u"Kuɗin Jibuti"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("dkk"_s),
-			$of(u"Krone na \u0199asar Denmark"_s)
+			$of(u"Krone na ƙasar Denmark"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("dop"_s),
@@ -214,7 +214,7 @@ $ObjectArray2* CurrencyNames_ha::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("dzd"_s),
-			$of(u"Ku\u0257in Aljeriya"_s)
+			$of(u"Kuɗin Aljeriya"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("egp"_s),
@@ -222,11 +222,11 @@ $ObjectArray2* CurrencyNames_ha::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ern"_s),
-			$of(u"Ku\u0257in Eritireya"_s)
+			$of(u"Kuɗin Eritireya"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("etb"_s),
-			$of(u"Ku\u0257in Habasha"_s)
+			$of(u"Kuɗin Habasha"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("eur"_s),
@@ -238,7 +238,7 @@ $ObjectArray2* CurrencyNames_ha::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("fkp"_s),
-			$of(u"Fam na \u0199asar Tsibirai na Falkland"_s)
+			$of(u"Fam na ƙasar Tsibirai na Falkland"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gbp"_s),
@@ -246,7 +246,7 @@ $ObjectArray2* CurrencyNames_ha::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("gel"_s),
-			$of(u"Ku\u0257in Georgia"_s)
+			$of(u"Kuɗin Georgia"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ghc"_s),
@@ -258,23 +258,23 @@ $ObjectArray2* CurrencyNames_ha::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("gip"_s),
-			$of(u"Ku\u0257in Gibraltal"_s)
+			$of(u"Kuɗin Gibraltal"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gmd"_s),
-			$of(u"Ku\u0257in Gambiya"_s)
+			$of(u"Kuɗin Gambiya"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gnf"_s),
-			$of(u"Ku\u0257in Guinea"_s)
+			$of(u"Kuɗin Guinea"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gns"_s),
-			$of(u"Ku\u0257in Gini"_s)
+			$of(u"Kuɗin Gini"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gtq"_s),
-			$of(u"Quetzal na \u0199asar Guatemala"_s)
+			$of(u"Quetzal na ƙasar Guatemala"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gyd"_s),
@@ -286,31 +286,31 @@ $ObjectArray2* CurrencyNames_ha::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("hnl"_s),
-			$of(u"Lempira na \u0199asar Honduras"_s)
+			$of(u"Lempira na ƙasar Honduras"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("hrk"_s),
-			$of(u"Ku\u0257in Croatia"_s)
+			$of(u"Kuɗin Croatia"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("htg"_s),
-			$of(u"Gourde na \u0199asar Haiti"_s)
+			$of(u"Gourde na ƙasar Haiti"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("huf"_s),
-			$of(u"Ku\u0257in Hungary"_s)
+			$of(u"Kuɗin Hungary"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("idr"_s),
-			$of(u"Rupiah na \u0199asar Indonesia"_s)
+			$of(u"Rupiah na ƙasar Indonesia"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ils"_s),
-			$of(u"Sabbin Ku\u0257in Isra\u02bcila"_s)
+			$of(u"Sabbin Kuɗin Israʼila"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("inr"_s),
-			$of(u"Ku\u0257in Indiya"_s)
+			$of(u"Kuɗin Indiya"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("iqd"_s),
@@ -318,11 +318,11 @@ $ObjectArray2* CurrencyNames_ha::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("irr"_s),
-			$of(u"Riyal na \u0199asar Iran"_s)
+			$of(u"Riyal na ƙasar Iran"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("isk"_s),
-			$of(u"Kr\u00f3na na \u0199asar Iceland"_s)
+			$of(u"Króna na ƙasar Iceland"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("jmd"_s),
@@ -334,7 +334,7 @@ $ObjectArray2* CurrencyNames_ha::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("jpy"_s),
-			$of(u"Yen na \u0199asar Japan"_s)
+			$of(u"Yen na ƙasar Japan"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kes"_s),
@@ -342,19 +342,19 @@ $ObjectArray2* CurrencyNames_ha::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("kgs"_s),
-			$of(u"Som na \u0199asar Kyrgystani"_s)
+			$of(u"Som na ƙasar Kyrgystani"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("khr"_s),
-			$of(u"Riel na \u0199asar Cambodia"_s)
+			$of(u"Riel na ƙasar Cambodia"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kmf"_s),
-			$of(u"Ku\u0257in Kwamoras"_s)
+			$of(u"Kuɗin Kwamoras"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kpw"_s),
-			$of(u"won na \u0199asar Koriya ta Arewa"_s)
+			$of(u"won na ƙasar Koriya ta Arewa"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("krw"_s),
@@ -366,23 +366,23 @@ $ObjectArray2* CurrencyNames_ha::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("kyd"_s),
-			$of(u"Dalar \u0199asar Tsibirai na Cayman"_s)
+			$of(u"Dalar ƙasar Tsibirai na Cayman"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kzt"_s),
-			$of(u"Tenge na \u0199asar Kazkhstan"_s)
+			$of(u"Tenge na ƙasar Kazkhstan"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lak"_s),
-			$of(u"Ku\u0257in Laos"_s)
+			$of(u"Kuɗin Laos"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lbp"_s),
-			$of(u"Ku\u0257in Lebanon"_s)
+			$of(u"Kuɗin Lebanon"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lkr"_s),
-			$of(u"Rupee na \u0199asar Sri Lanka"_s)
+			$of(u"Rupee na ƙasar Sri Lanka"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lrd"_s),
@@ -390,23 +390,23 @@ $ObjectArray2* CurrencyNames_ha::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("lsl"_s),
-			$of(u"Ku\u0257in Lesoto"_s)
+			$of(u"Kuɗin Lesoto"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lyd"_s),
-			$of(u"Ku\u0257in Libiya"_s)
+			$of(u"Kuɗin Libiya"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mad"_s),
-			$of(u"Ku\u0257in Maroko"_s)
+			$of(u"Kuɗin Maroko"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mdl"_s),
-			$of(u"ku\u0257a\u0257en Moldova"_s)
+			$of(u"kuɗaɗen Moldova"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mga"_s),
-			$of(u"Ku\u0257in Madagaskar"_s)
+			$of(u"Kuɗin Madagaskar"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mkd"_s),
@@ -414,7 +414,7 @@ $ObjectArray2* CurrencyNames_ha::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("mmk"_s),
-			$of(u"Ku\u0257in Myanmar"_s)
+			$of(u"Kuɗin Myanmar"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mnt"_s),
@@ -422,43 +422,43 @@ $ObjectArray2* CurrencyNames_ha::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("mop"_s),
-			$of(u"Pataca na \u0199asar Macao"_s)
+			$of(u"Pataca na ƙasar Macao"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mro"_s),
-			$of(u"Ku\u0257in Moritaniya (1973\u20132017)"_s)
+			$of(u"Kuɗin Moritaniya (1973–2017)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mru"_s),
-			$of(u"Ku\u0257in Moritaniya"_s)
+			$of(u"Kuɗin Moritaniya"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mur"_s),
-			$of(u"Ku\u0257in Moritus"_s)
+			$of(u"Kuɗin Moritus"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mvr"_s),
-			$of(u"Rufiyaa na \u0253asar Maldives"_s)
+			$of(u"Rufiyaa na ɓasar Maldives"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mwk"_s),
-			$of(u"Ku\u0257in Malawi"_s)
+			$of(u"Kuɗin Malawi"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mxn"_s),
-			$of(u"Peso na \u0199asar Mekziko"_s)
+			$of(u"Peso na ƙasar Mekziko"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("myr"_s),
-			$of(u"Ku\u0257in Malaysia"_s)
+			$of(u"Kuɗin Malaysia"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mzm"_s),
-			$of(u"Ku\u0257in Mozambik"_s)
+			$of(u"Kuɗin Mozambik"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mzn"_s),
-			$of(u"Metical na \u0199asar Mozambique"_s)
+			$of(u"Metical na ƙasar Mozambique"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("nad"_s),
@@ -470,11 +470,11 @@ $ObjectArray2* CurrencyNames_ha::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("nio"_s),
-			$of(u"C\u00f3rdoba na \u0199asar Nicaragua"_s)
+			$of(u"Córdoba na ƙasar Nicaragua"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("nok"_s),
-			$of(u"Krone na \u0199asar Norway"_s)
+			$of(u"Krone na ƙasar Norway"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("npr"_s),
@@ -486,43 +486,43 @@ $ObjectArray2* CurrencyNames_ha::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("omr"_s),
-			$of(u"Riyal \u0257in Oman"_s)
+			$of(u"Riyal ɗin Oman"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pab"_s),
-			$of(u"Balboa na \u0199asar Panama"_s)
+			$of(u"Balboa na ƙasar Panama"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pen"_s),
-			$of(u"Sol na \u0199asar Peru"_s)
+			$of(u"Sol na ƙasar Peru"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pgk"_s),
-			$of(u"Kina na \u0199asar Papua Sabon Guinea"_s)
+			$of(u"Kina na ƙasar Papua Sabon Guinea"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("php"_s),
-			$of(u"Ku\u0257in Philippine"_s)
+			$of(u"Kuɗin Philippine"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pkr"_s),
-			$of(u"Rupee na \u0199asar Pakistan"_s)
+			$of(u"Rupee na ƙasar Pakistan"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pln"_s),
-			$of(u"Ku\u0257in Polan"_s)
+			$of(u"Kuɗin Polan"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pyg"_s),
-			$of(u"Guarani na \u0199asar Paraguay"_s)
+			$of(u"Guarani na ƙasar Paraguay"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("qar"_s),
-			$of(u"Riyal \u0257in Qatar"_s)
+			$of(u"Riyal ɗin Qatar"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ron"_s),
-			$of(u"Ku\u0257in Romania"_s)
+			$of(u"Kuɗin Romania"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("rsd"_s),
@@ -530,11 +530,11 @@ $ObjectArray2* CurrencyNames_ha::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("rub"_s),
-			$of(u"Ruble na \u0199asar Rasha"_s)
+			$of(u"Ruble na ƙasar Rasha"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("rwf"_s),
-			$of(u"Ku\u0257in Ruwanda"_s)
+			$of(u"Kuɗin Ruwanda"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sar"_s),
@@ -546,7 +546,7 @@ $ObjectArray2* CurrencyNames_ha::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("scr"_s),
-			$of(u"Ku\u0257in Saishal"_s)
+			$of(u"Kuɗin Saishal"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sdg"_s),
@@ -554,7 +554,7 @@ $ObjectArray2* CurrencyNames_ha::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("sek"_s),
-			$of(u"Krona na \u0199asar Sweden"_s)
+			$of(u"Krona na ƙasar Sweden"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sgd"_s),
@@ -566,7 +566,7 @@ $ObjectArray2* CurrencyNames_ha::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("sll"_s),
-			$of(u"Ku\u0257in Salewo"_s)
+			$of(u"Kuɗin Salewo"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sos"_s),
@@ -574,7 +574,7 @@ $ObjectArray2* CurrencyNames_ha::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("srd"_s),
-			$of(u"Dalar \u0199asar Suriname"_s)
+			$of(u"Dalar ƙasar Suriname"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ssp"_s),
@@ -582,47 +582,47 @@ $ObjectArray2* CurrencyNames_ha::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("std"_s),
-			$of(u"Ku\u0257in Sawo Tome da Paransip (1977\u20132017)"_s)
+			$of(u"Kuɗin Sawo Tome da Paransip (1977–2017)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("stn"_s),
-			$of(u"Ku\u0257in Sawo Tome da Paransip"_s)
+			$of(u"Kuɗin Sawo Tome da Paransip"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("syp"_s),
-			$of(u"Ku\u0257in Siriya"_s)
+			$of(u"Kuɗin Siriya"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("szl"_s),
-			$of(u"Ku\u0257in Lilangeni"_s)
+			$of(u"Kuɗin Lilangeni"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("thb"_s),
-			$of(u"Baht na \u0199asar Thailand"_s)
+			$of(u"Baht na ƙasar Thailand"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("tjs"_s),
-			$of(u"Somoni na \u0199asar Tajikistan"_s)
+			$of(u"Somoni na ƙasar Tajikistan"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("tmt"_s),
-			$of(u"Manat na \u0199asar Turkmenistan"_s)
+			$of(u"Manat na ƙasar Turkmenistan"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("tnd"_s),
-			$of(u"Ku\u0257in Tunisiya"_s)
+			$of(u"Kuɗin Tunisiya"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("top"_s),
-			$of(u"Pa\u02bbanga na \u0199asar Tonga"_s)
+			$of(u"Paʻanga na ƙasar Tonga"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("try"_s),
-			$of(u"Ku\u0257in Turkiyya"_s)
+			$of(u"Kuɗin Turkiyya"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ttd"_s),
-			$of(u"Dalar \u0199asar Trinidad da Tobago"_s)
+			$of(u"Dalar ƙasar Trinidad da Tobago"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("twd"_s),
@@ -646,31 +646,31 @@ $ObjectArray2* CurrencyNames_ha::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("uyu"_s),
-			$of(u"Peso na \u0199asar Uruguay"_s)
+			$of(u"Peso na ƙasar Uruguay"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("uzs"_s),
-			$of(u"Som na \u0199asar Uzbekistan"_s)
+			$of(u"Som na ƙasar Uzbekistan"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ves"_s),
-			$of(u"Bol\u00edvar na \u0199asar Venezuela"_s)
+			$of(u"Bolívar na ƙasar Venezuela"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("vnd"_s),
-			$of(u"Ku\u0257in Vietnam"_s)
+			$of(u"Kuɗin Vietnam"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("vuv"_s),
-			$of(u"Vatu da \u0199asar Vanuatu"_s)
+			$of(u"Vatu da ƙasar Vanuatu"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("wst"_s),
-			$of(u"Tala na \u0199asar Samoa"_s)
+			$of(u"Tala na ƙasar Samoa"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xaf"_s),
-			$of(u"Ku\u0257in Sefa na Afirka Ta Tsakiya"_s)
+			$of(u"Kuɗin Sefa na Afirka Ta Tsakiya"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xcd"_s),
@@ -678,11 +678,11 @@ $ObjectArray2* CurrencyNames_ha::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("xof"_s),
-			$of(u"Ku\u0257in Sefa na Afirka Ta Yamma"_s)
+			$of(u"Kuɗin Sefa na Afirka Ta Yamma"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xpf"_s),
-			$of(u"Ku\u0257in CFP franc"_s)
+			$of(u"Kuɗin CFP franc"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xxx"_s),
@@ -690,19 +690,19 @@ $ObjectArray2* CurrencyNames_ha::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("yer"_s),
-			$of(u"Riyal \u0257in Yemen"_s)
+			$of(u"Riyal ɗin Yemen"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("zar"_s),
-			$of(u"Ku\u0257in Afirka Ta Kudu"_s)
+			$of(u"Kuɗin Afirka Ta Kudu"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("zmk"_s),
-			$of(u"Ku\u0257in Zambiya (1968\u20132012)"_s)
+			$of(u"Kuɗin Zambiya (1968–2012)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("zmw"_s),
-			$of(u"Ku\u0257in Zambiya"_s)
+			$of(u"Kuɗin Zambiya"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("zwd"_s),

@@ -39,23 +39,23 @@ void LocaleNames_is::init$() {
 
 $ObjectArray2* LocaleNames_is::getContents() {
 	$useLocalCurrentObjectStackCache();
-	$var($String, metaValue_gu, u"g\u00fajarat\u00ed"_s);
+	$var($String, metaValue_gu, u"gújaratí"_s);
 	$var($String, metaValue_km, "kmer"_s);
 	$var($String, metaValue_kn, "kannada"_s);
-	$var($String, metaValue_te, u"tel\u00fag\u00fa"_s);
-	$var($String, metaValue_cop, u"kopt\u00edska"_s);
+	$var($String, metaValue_te, u"telúgú"_s);
+	$var($String, metaValue_cop, u"koptíska"_s);
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("ksh"_s),
-			$of(u"k\u00f6ln\u00edska"_s)
+			$of(u"kölníska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mwl"_s),
-			$of(u"mirandes\u00edska"_s)
+			$of(u"mirandesíska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Zsym"_s),
-			$of(u"t\u00e1kn"_s)
+			$of(u"tákn"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cch"_s),
@@ -63,11 +63,11 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("mwr"_s),
-			$of(u"marvar\u00ed"_s)
+			$of(u"marvarí"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Zsye"_s),
-			$of(u"emoji-t\u00e1kn"_s)
+			$of(u"emoji-tákn"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ccp"_s),
@@ -79,23 +79,23 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("raj"_s),
-			$of(u"rajastan\u00ed"_s)
+			$of(u"rajastaní"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("tem"_s),
-			$of(u"t\u00edmne"_s)
+			$of(u"tímne"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("teo"_s),
-			$of(u"tes\u00f3"_s)
+			$of(u"tesó"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("rap"_s),
-			$of(u"rapan\u00fa\u00ed"_s)
+			$of(u"rapanúí"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ter"_s),
-			$of(u"teren\u00f3"_s)
+			$of(u"terenó"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("AC"_s),
@@ -103,11 +103,11 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("rar"_s),
-			$of(u"rar\u00f3tongska"_s)
+			$of(u"rarótongska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("tet"_s),
-			$of(u"tet\u00fam"_s)
+			$of(u"tetúm"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("AD"_s),
@@ -115,11 +115,11 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("AE"_s),
-			$of(u"Sameinu\u00f0u arab\u00edsku furstad\u00e6min"_s)
+			$of(u"Sameinuðu arabísku furstadæmin"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("nl_BE"_s),
-			$of(u"fl\u00e6mska"_s)
+			$of(u"flæmska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("AF"_s),
@@ -127,11 +127,11 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("AG"_s),
-			$of(u"Ant\u00edgva og Barb\u00fada"_s)
+			$of(u"Antígva og Barbúda"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.ca.ethiopic"_s),
-			$of(u"E\u00fe\u00ed\u00f3p\u00edskt t\u00edmatal"_s)
+			$of(u"Eþíópískt tímatal"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("AI"_s),
@@ -139,59 +139,59 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("key.tz"_s),
-			$of(u"T\u00edmabelti"_s)
+			$of(u"Tímabelti"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("AL"_s),
-			$of(u"Alban\u00eda"_s)
+			$of(u"Albanía"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("AM"_s),
-			$of(u"Armen\u00eda"_s)
+			$of(u"Armenía"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("AO"_s),
-			$of(u"Ang\u00f3la"_s)
+			$of(u"Angóla"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("AQ"_s),
-			$of(u"Su\u00f0urskautslandi\u00f0"_s)
+			$of(u"Suðurskautslandið"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("AR"_s),
-			$of(u"Argent\u00edna"_s)
+			$of(u"Argentína"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("AS"_s),
-			$of(u"Bandar\u00edska Sam\u00f3a"_s)
+			$of(u"Bandaríska Samóa"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("AT"_s),
-			$of(u"Austurr\u00edki"_s)
+			$of(u"Austurríki"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("AU"_s),
-			$of(u"\u00c1stral\u00eda"_s)
+			$of(u"Ástralía"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("AW"_s),
-			$of(u"Ar\u00faba"_s)
+			$of(u"Arúba"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("en_US"_s),
-			$of(u"bandar\u00edsk enska"_s)
+			$of(u"bandarísk enska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("AX"_s),
-			$of(u"\u00c1landseyjar"_s)
+			$of(u"Álandseyjar"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("AZ"_s),
-			$of(u"Aserba\u00eddsjan"_s)
+			$of(u"Aserbaídsjan"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("BA"_s),
-			$of(u"Bosn\u00eda og Herseg\u00f3v\u00edna"_s)
+			$of(u"Bosnía og Hersegóvína"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("BB"_s),
@@ -199,7 +199,7 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ceb"_s),
-			$of(u"keb\u00faan\u00f3"_s)
+			$of(u"kebúanó"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("BD"_s),
@@ -207,23 +207,23 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("kum"_s),
-			$of(u"k\u00fam\u00edk"_s)
+			$of(u"kúmík"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("BE"_s),
-			$of(u"Belg\u00eda"_s)
+			$of(u"Belgía"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gmh"_s),
-			$of(u"mi\u00f0h\u00e1\u00fe\u00fdska"_s)
+			$of(u"miðháþýska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("BF"_s),
-			$of(u"B\u00fark\u00edna Fas\u00f3"_s)
+			$of(u"Búrkína Fasó"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("BG"_s),
-			$of(u"B\u00falgar\u00eda"_s)
+			$of(u"Búlgaría"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("BH"_s),
@@ -231,23 +231,23 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("BI"_s),
-			$of(u"B\u00far\u00fand\u00ed"_s)
+			$of(u"Búrúndí"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("BJ"_s),
-			$of(u"Ben\u00edn"_s)
+			$of(u"Benín"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("BL"_s),
-			$of(u"Sankti Bart\u00f3l\u00f3meusareyjar"_s)
+			$of(u"Sankti Bartólómeusareyjar"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("BM"_s),
-			$of(u"Berm\u00fadaeyjar"_s)
+			$of(u"Bermúdaeyjar"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kut"_s),
-			$of(u"k\u00fatena\u00ed"_s)
+			$of(u"kútenaí"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("myv"_s),
@@ -255,19 +255,19 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("BN"_s),
-			$of(u"Br\u00fanei"_s)
+			$of(u"Brúnei"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("BO"_s),
-			$of(u"B\u00f3liv\u00eda"_s)
+			$of(u"Bólivía"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("BQ"_s),
-			$of(u"Kar\u00edbahafshluti Hollands"_s)
+			$of(u"Karíbahafshluti Hollands"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("BR"_s),
-			$of(u"Brasil\u00eda"_s)
+			$of(u"Brasilía"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("BS"_s),
@@ -275,11 +275,11 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("xog"_s),
-			$of(u"s\u00f3ga"_s)
+			$of(u"sóga"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("BT"_s),
-			$of(u"B\u00fatan"_s)
+			$of(u"Bútan"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("BV"_s),
@@ -291,19 +291,19 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("BY"_s),
-			$of(u"Hv\u00edta-R\u00fassland"_s)
+			$of(u"Hvíta-Rússland"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("BZ"_s),
-			$of(u"Bel\u00eds"_s)
+			$of(u"Belís"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.ca.persian"_s),
-			$of(u"Persneskt t\u00edmatal"_s)
+			$of(u"Persneskt tímatal"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.hebr"_s),
-			$of(u"Hebreskir t\u00f6lustafir"_s)
+			$of(u"Hebreskir tölustafir"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("CA"_s),
@@ -311,23 +311,23 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("CC"_s),
-			$of(u"K\u00f3koseyjar (Keeling)"_s)
+			$of(u"Kókoseyjar (Keeling)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mzn"_s),
-			$of(u"masanderan\u00ed"_s)
+			$of(u"masanderaní"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("CD"_s),
-			$of(u"Kong\u00f3-Kinshasa"_s)
+			$of(u"Kongó-Kinshasa"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("CF"_s),
-			$of(u"Mi\u00f0-Afr\u00edkul\u00fd\u00f0veldi\u00f0"_s)
+			$of(u"Mið-Afríkulýðveldið"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("CG"_s),
-			$of(u"Kong\u00f3-Brazzaville"_s)
+			$of(u"Kongó-Brazzaville"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("CH"_s),
@@ -335,7 +335,7 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("CI"_s),
-			$of(u"F\u00edlabeinsstr\u00f6ndin"_s)
+			$of(u"Fílabeinsströndin"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("CK"_s),
@@ -343,19 +343,19 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("CL"_s),
-			$of(u"S\u00edle"_s)
+			$of(u"Síle"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("CM"_s),
-			$of(u"Kamer\u00fan"_s)
+			$of(u"Kamerún"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("CN"_s),
-			$of(u"K\u00edna"_s)
+			$of(u"Kína"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("CO"_s),
-			$of(u"K\u00f3lumb\u00eda"_s)
+			$of(u"Kólumbía"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("CP"_s),
@@ -363,15 +363,15 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("CR"_s),
-			$of(u"Kostar\u00edka"_s)
+			$of(u"Kostaríka"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("CU"_s),
-			$of(u"K\u00faba"_s)
+			$of(u"Kúba"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("CV"_s),
-			$of(u"Gr\u00e6nh\u00f6f\u00f0aeyjar"_s)
+			$of(u"Grænhöfðaeyjar"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("CW"_s),
@@ -379,35 +379,35 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("CX"_s),
-			$of(u"J\u00f3laey"_s)
+			$of(u"Jólaey"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("CY"_s),
-			$of(u"K\u00fdpur"_s)
+			$of(u"Kýpur"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("CZ"_s),
-			$of(u"T\u00e9kkland"_s)
+			$of(u"Tékkland"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("eka"_s),
-			$of(u"ekaj\u00fak"_s)
+			$of(u"ekajúk"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("DE"_s),
-			$of(u"\u00de\u00fdskaland"_s)
+			$of(u"Þýskaland"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("goh"_s),
-			$of(u"fornh\u00e1\u00fe\u00fdska"_s)
+			$of(u"fornháþýska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ace"_s),
-			$of(u"akk\u00edska"_s)
+			$of(u"akkíska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cgg"_s),
-			$of(u"k\u00edga"_s)
+			$of(u"kíga"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("DG"_s),
@@ -415,15 +415,15 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.deva"_s),
-			$of(u"Devanagari t\u00f6lur"_s)
+			$of(u"Devanagari tölur"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("DJ"_s),
-			$of(u"Dj\u00edb\u00fat\u00ed"_s)
+			$of(u"Djíbútí"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("DK"_s),
-			$of(u"Danm\u00f6rk"_s)
+			$of(u"Danmörk"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ach"_s),
@@ -431,7 +431,7 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("gon"_s),
-			$of(u"gond\u00ed"_s)
+			$of(u"gondí"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Brai"_s),
@@ -439,23 +439,23 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("Brah"_s),
-			$of(u"brahm\u00edska"_s)
+			$of(u"brahmíska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("DM"_s),
-			$of(u"D\u00f3min\u00edka"_s)
+			$of(u"Dóminíka"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.armnlow"_s),
-			$of(u"Armenskar l\u00e1gstafat\u00f6lur"_s)
+			$of(u"Armenskar lágstafatölur"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("DO"_s),
-			$of(u"D\u00f3min\u00edska l\u00fd\u00f0veldi\u00f0"_s)
+			$of(u"Dóminíska lýðveldið"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gor"_s),
-			$of(u"gorontal\u00f3"_s)
+			$of(u"gorontaló"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("got"_s),
@@ -463,27 +463,27 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("zun"_s),
-			$of(u"s\u00fan\u00ed"_s)
+			$of(u"súní"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("tig"_s),
-			$of(u"t\u00edgre"_s)
+			$of(u"tígre"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("DZ"_s),
-			$of(u"Als\u00edr"_s)
+			$of(u"Alsír"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pag"_s),
-			$of(u"pangas\u00ednm\u00e1l"_s)
+			$of(u"pangasínmál"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.d0.hwidth"_s),
-			$of(u"H\u00e1lfbreidd"_s)
+			$of(u"Hálfbreidd"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pal"_s),
-			$of(u"palav\u00ed"_s)
+			$of(u"palaví"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("EA"_s),
@@ -491,7 +491,7 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("chb"_s),
-			$of(u"s\u00edbsja"_s)
+			$of(u"síbsja"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pam"_s),
@@ -503,7 +503,7 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("pap"_s),
-			$of(u"pap\u00edament\u00f3"_s)
+			$of(u"papíamentó"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ada"_s),
@@ -515,7 +515,7 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("tiv"_s),
-			$of(u"t\u00edv"_s)
+			$of(u"tív"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("EG"_s),
@@ -527,63 +527,63 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("chg"_s),
-			$of(u"sjagata\u00ed"_s)
+			$of(u"sjagataí"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pau"_s),
-			$of(u"pal\u00e1ska"_s)
+			$of(u"paláska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("chk"_s),
-			$of(u"sj\u00fak\u00edska"_s)
+			$of(u"sjúkíska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("chn"_s),
-			$of(u"s\u00edn\u00fak"_s)
+			$of(u"sínúk"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("chm"_s),
-			$of(u"mar\u00ed"_s)
+			$of(u"marí"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("chp"_s),
-			$of(u"s\u00edpev\u00edska"_s)
+			$of(u"sípevíska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cho"_s),
-			$of(u"sjokt\u00e1"_s)
+			$of(u"sjoktá"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("chr"_s),
-			$of(u"Cherokee-m\u00e1l"_s)
+			$of(u"Cherokee-mál"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ER"_s),
-			$of(u"Er\u00edtrea"_s)
+			$of(u"Erítrea"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ES"_s),
-			$of(u"Sp\u00e1nn"_s)
+			$of(u"Spánn"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ET"_s),
-			$of(u"E\u00fe\u00ed\u00f3p\u00eda"_s)
+			$of(u"Eþíópía"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("EU"_s),
-			$of(u"Evr\u00f3pusambandi\u00f0"_s)
+			$of(u"Evrópusambandið"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("elx"_s),
-			$of(u"elam\u00edt"_s)
+			$of(u"elamít"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.ca.gregorian"_s),
-			$of(u"Gregor\u00edskt t\u00edmatal"_s)
+			$of(u"Gregorískt tímatal"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("EZ"_s),
-			$of(u"Evrusv\u00e6\u00f0i\u00f0"_s)
+			$of(u"Evrusvæðið"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("chy"_s),
@@ -591,11 +591,11 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.gujr"_s),
-			$of(u"Gujarati-t\u00f6lur"_s)
+			$of(u"Gujarati-tölur"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ady"_s),
-			$of(u"ad\u00fdge"_s)
+			$of(u"adýge"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("FI"_s),
@@ -603,7 +603,7 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("FJ"_s),
-			$of(u"F\u00eddj\u00edeyjar"_s)
+			$of(u"Fídjíeyjar"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("FK"_s),
@@ -611,19 +611,19 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("FM"_s),
-			$of(u"M\u00edkr\u00f3nes\u00eda"_s)
+			$of(u"Míkrónesía"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("key.va"_s),
-			$of(u"Landssta\u00f0alsafbrig\u00f0i"_s)
+			$of(u"Landsstaðalsafbrigði"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("FO"_s),
-			$of(u"F\u00e6reyjar"_s)
+			$of(u"Færeyjar"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Taml"_s),
-			$of(u"tam\u00edlskt"_s)
+			$of(u"tamílskt"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("FR"_s),
@@ -631,11 +631,11 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("tkl"_s),
-			$of(u"t\u00f3kel\u00e1ska"_s)
+			$of(u"tókeláska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("grb"_s),
-			$of(u"gerb\u00f3"_s)
+			$of(u"gerbó"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.ca.indian"_s),
@@ -643,7 +643,7 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("grc"_s),
-			$of(u"forngr\u00edska"_s)
+			$of(u"forngríska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("GA"_s),
@@ -651,7 +651,7 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("vot"_s),
-			$of(u"vot\u00edska"_s)
+			$of(u"votíska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("GB"_s),
@@ -659,7 +659,7 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("pcm"_s),
-			$of(u"n\u00edger\u00edskt pidgin"_s)
+			$of(u"nígerískt pidgin"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("GD"_s),
@@ -667,11 +667,11 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("GE"_s),
-			$of(u"Georg\u00eda"_s)
+			$of(u"Georgía"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("GF"_s),
-			$of(u"Franska Gv\u00e6jana"_s)
+			$of(u"Franska Gvæjana"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("GG"_s),
@@ -683,35 +683,35 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("GI"_s),
-			$of(u"G\u00edbraltar"_s)
+			$of(u"Gíbraltar"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("afh"_s),
-			$of(u"afr\u00edh\u00edl\u00ed"_s)
+			$of(u"afríhílí"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("GL"_s),
-			$of(u"Gr\u00e6nland"_s)
+			$of(u"Grænland"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("enm"_s),
-			$of(u"mi\u00f0enska"_s)
+			$of(u"miðenska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("GM"_s),
-			$of(u"Gamb\u00eda"_s)
+			$of(u"Gambía"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("GN"_s),
-			$of(u"G\u00ednea"_s)
+			$of(u"Gínea"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("GP"_s),
-			$of(u"Gvadel\u00fapeyjar"_s)
+			$of(u"Gvadelúpeyjar"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("GQ"_s),
-			$of(u"Mi\u00f0baugs-G\u00ednea"_s)
+			$of(u"Miðbaugs-Gínea"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("GR"_s),
@@ -719,7 +719,7 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("GS"_s),
-			$of(u"Su\u00f0ur-Georg\u00eda og Su\u00f0ur-Sandv\u00edkureyjar"_s)
+			$of(u"Suður-Georgía og Suður-Sandvíkureyjar"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("GT"_s),
@@ -731,7 +731,7 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("GW"_s),
-			$of(u"G\u00ednea-Biss\u00e1"_s)
+			$of(u"Gínea-Bissá"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("tli"_s),
@@ -743,23 +743,23 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("GY"_s),
-			$of(u"Gv\u00e6jana"_s)
+			$of(u"Gvæjana"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ckb"_s),
-			$of(u"sorani-k\u00fard\u00edska"_s)
+			$of(u"sorani-kúrdíska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("zxx"_s),
-			$of(u"ekkert tungum\u00e1laefni"_s)
+			$of(u"ekkert tungumálaefni"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("de_AT"_s),
-			$of(u"austurr\u00edsk \u00fe\u00fdska"_s)
+			$of(u"austurrísk þýska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("HK"_s),
-			$of(u"s\u00e9rstj\u00f3rnarsv\u00e6\u00f0i\u00f0 Hong Kong"_s)
+			$of(u"sérstjórnarsvæðið Hong Kong"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("HM"_s),
@@ -767,11 +767,11 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("HN"_s),
-			$of(u"Hond\u00faras"_s)
+			$of(u"Hondúras"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("HR"_s),
-			$of(u"Kr\u00f3at\u00eda"_s)
+			$of(u"Króatía"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("agq"_s),
@@ -779,15 +779,15 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("gsw"_s),
-			$of(u"svissnesk \u00fe\u00fdska"_s)
+			$of(u"svissnesk þýska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.ca.islamic-umalqura"_s),
-			$of(u"\u00cdslamskt dagatal (Umm al-Qura)"_s)
+			$of(u"Íslamskt dagatal (Umm al-Qura)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("HT"_s),
-			$of(u"Ha\u00edt\u00ed"_s)
+			$of(u"Haítí"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("HU"_s),
@@ -799,11 +799,11 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("IC"_s),
-			$of(u"Kanar\u00edeyjar"_s)
+			$of(u"Kanaríeyjar"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ID"_s),
-			$of(u"Ind\u00f3nes\u00eda"_s)
+			$of(u"Indónesía"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("peo"_s),
@@ -811,11 +811,11 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("IE"_s),
-			$of(u"\u00cdrland"_s)
+			$of(u"Írland"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("nap"_s),
-			$of(u"nap\u00f3l\u00edska"_s)
+			$of(u"napólíska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("naq"_s),
@@ -823,15 +823,15 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("zza"_s),
-			$of(u"z\u00e1z\u00e1\u00edska"_s)
+			$of(u"zázáíska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("IL"_s),
-			$of(u"\u00cdsrael"_s)
+			$of(u"Ísrael"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("IM"_s),
-			$of(u"M\u00f6n"_s)
+			$of(u"Mön"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("IN"_s),
@@ -839,7 +839,7 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("type.co.eor"_s),
-			$of(u"Evr\u00f3pskar reglur um r\u00f6\u00f0un"_s)
+			$of(u"Evrópskar reglur um röðun"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("IO"_s),
@@ -847,31 +847,31 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("IQ"_s),
-			$of(u"\u00cdrak"_s)
+			$of(u"Írak"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("IR"_s),
-			$of(u"\u00cdran"_s)
+			$of(u"Íran"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("IS"_s),
-			$of(u"\u00cdsland"_s)
+			$of(u"Ísland"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("IT"_s),
-			$of(u"\u00cdtal\u00eda"_s)
+			$of(u"Ítalía"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Zmth"_s),
-			$of(u"st\u00e6r\u00f0fr\u00e6\u00f0it\u00e1kn"_s)
+			$of(u"stærðfræðitákn"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.thai"_s),
-			$of(u"T\u00e6lenskar t\u00f6lur"_s)
+			$of(u"Tælenskar tölur"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.beng"_s),
-			$of(u"Bengalskar t\u00f6lur"_s)
+			$of(u"Bengalskar tölur"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("JE"_s),
@@ -879,11 +879,11 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("type.ca.islamic"_s),
-			$of(u"\u00cdslamskt t\u00edmatal"_s)
+			$of(u"Íslamskt tímatal"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("JM"_s),
-			$of(u"Jama\u00edka"_s)
+			$of(u"Jamaíka"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Beng"_s),
@@ -891,7 +891,7 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("JO"_s),
-			$of(u"J\u00f3rdan\u00eda"_s)
+			$of(u"Jórdanía"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("JP"_s),
@@ -899,7 +899,7 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ain"_s),
-			$of(u"a\u00ednu (Japan)"_s)
+			$of(u"aínu (Japan)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("guz"_s),
@@ -911,27 +911,27 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.knda"_s),
-			$of(u"Kannada-t\u00f6lur"_s)
+			$of(u"Kannada-tölur"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("de_CH"_s),
-			$of(u"svissnesk h\u00e1\u00fe\u00fdska"_s)
+			$of(u"svissnesk háþýska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.co.phonetic"_s),
-			$of(u"Hlj\u00f3\u00f0fr\u00e6\u00f0ileg r\u00f6\u00f0"_s)
+			$of(u"Hljóðfræðileg röð"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.ca.buddhist"_s),
-			$of(u"B\u00fadd\u00edskt t\u00edmatal"_s)
+			$of(u"Búddískt tímatal"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("KE"_s),
-			$of(u"Ken\u00eda"_s)
+			$of(u"Kenía"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("419"_s),
-			$of(u"R\u00f3manska Amer\u00edka"_s)
+			$of(u"Rómanska Ameríka"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("KG"_s),
@@ -939,15 +939,15 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("KH"_s),
-			$of(u"Kamb\u00f3d\u00eda"_s)
+			$of(u"Kambódía"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("KI"_s),
-			$of(u"K\u00edribat\u00ed"_s)
+			$of(u"Kíribatí"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("KM"_s),
-			$of(u"K\u00f3moreyjar"_s)
+			$of(u"Kómoreyjar"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Knda"_s),
@@ -959,15 +959,15 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("fr_CA"_s),
-			$of(u"kanad\u00edsk franska"_s)
+			$of(u"kanadísk franska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("KP"_s),
-			$of(u"Nor\u00f0ur-K\u00f3rea"_s)
+			$of(u"Norður-Kórea"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("KR"_s),
-			$of(u"Su\u00f0ur-K\u00f3rea"_s)
+			$of(u"Suður-Kórea"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("fr_CH"_s),
@@ -975,7 +975,7 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("KW"_s),
-			$of(u"K\u00faveit"_s)
+			$of(u"Kúveit"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("tpi"_s),
@@ -991,7 +991,7 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("Cyrl"_s),
-			$of(u"kyrill\u00edskt"_s)
+			$of(u"kyrillískt"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("LA"_s),
@@ -999,23 +999,23 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("LB"_s),
-			$of(u"L\u00edbanon"_s)
+			$of(u"Líbanon"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("LC"_s),
-			$of(u"Sankti L\u00fas\u00eda"_s)
+			$of(u"Sankti Lúsía"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("phn"_s),
-			$of(u"f\u00f6nik\u00edska"_s)
+			$of(u"fönikíska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gwi"_s),
-			$of(u"gv\u00eds\u00edn"_s)
+			$of(u"gvísín"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("nds"_s),
-			$of(u"l\u00e1g\u00fe\u00fdska; l\u00e1gsaxneska"_s)
+			$of(u"lágþýska; lágsaxneska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("LI"_s),
@@ -1023,11 +1023,11 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("LK"_s),
-			$of(u"Sr\u00ed Lanka"_s)
+			$of(u"Srí Lanka"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("akk"_s),
-			$of(u"akkad\u00edska"_s)
+			$of(u"akkadíska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cop"_s),
@@ -1035,19 +1035,19 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("LR"_s),
-			$of(u"L\u00edber\u00eda"_s)
+			$of(u"Líbería"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("LS"_s),
-			$of(u"Les\u00f3t\u00f3"_s)
+			$of(u"Lesótó"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("LT"_s),
-			$of(u"Lith\u00e1en"_s)
+			$of(u"Litháen"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("LU"_s),
-			$of(u"L\u00faxemborg"_s)
+			$of(u"Lúxemborg"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("LV"_s),
@@ -1059,15 +1059,15 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("LY"_s),
-			$of(u"L\u00edb\u00eda"_s)
+			$of(u"Líbía"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lad"_s),
-			$of(u"lad\u00ednska"_s)
+			$of(u"ladínska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("vun"_s),
-			$of(u"vunj\u00f3"_s)
+			$of(u"vunjó"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lah"_s),
@@ -1075,7 +1075,7 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("lag"_s),
-			$of(u"lang\u00ed"_s)
+			$of(u"langí"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Thaa"_s),
@@ -1083,15 +1083,15 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("MA"_s),
-			$of(u"Marokk\u00f3"_s)
+			$of(u"Marokkó"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("MC"_s),
-			$of(u"M\u00f3nak\u00f3"_s)
+			$of(u"Mónakó"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("MD"_s),
-			$of(u"Mold\u00f3va"_s)
+			$of(u"Moldóva"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ME"_s),
@@ -1115,51 +1115,51 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ale"_s),
-			$of(u"ale\u00faska"_s)
+			$of(u"aleúska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Thai"_s),
-			$of(u"ta\u00edlenskt"_s)
+			$of(u"taílenskt"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.vaii"_s),
-			$of(u"Vai-t\u00f6lustafir"_s)
+			$of(u"Vai-tölustafir"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("MK"_s),
-			$of(u"Nor\u00f0ur-Maked\u00f3n\u00eda"_s)
+			$of(u"Norður-Makedónía"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ML"_s),
-			$of(u"Mal\u00ed"_s)
+			$of(u"Malí"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("MM"_s),
-			$of(u"Mjanmar (B\u00farma)"_s)
+			$of(u"Mjanmar (Búrma)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("MN"_s),
-			$of(u"Mong\u00f3l\u00eda"_s)
+			$of(u"Mongólía"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("new"_s),
-			$of(u"nevar\u00ed"_s)
+			$of(u"nevarí"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("MO"_s),
-			$of(u"s\u00e9rstj\u00f3rnarsv\u00e6\u00f0i\u00f0 Maka\u00f3"_s)
+			$of(u"sérstjórnarsvæðið Makaó"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("MP"_s),
-			$of(u"Nor\u00f0ur-Mar\u00edanaeyjar"_s)
+			$of(u"Norður-Maríanaeyjar"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("MQ"_s),
-			$of(u"Martin\u00edk"_s)
+			$of(u"Martiník"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("MR"_s),
-			$of(u"M\u00e1ritan\u00eda"_s)
+			$of(u"Máritanía"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("MS"_s),
@@ -1175,59 +1175,59 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("MU"_s),
-			$of(u"M\u00e1rit\u00edus"_s)
+			$of(u"Máritíus"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("alt"_s),
-			$of(u"su\u00f0uralta\u00edska"_s)
+			$of(u"suðuraltaíska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("MV"_s),
-			$of(u"Mald\u00edveyjar"_s)
+			$of(u"Maldíveyjar"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("MW"_s),
-			$of(u"Malav\u00ed"_s)
+			$of(u"Malaví"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("MX"_s),
-			$of(u"Mex\u00edk\u00f3"_s)
+			$of(u"Mexíkó"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.ca.japanese"_s),
-			$of(u"Japanskt t\u00edmatal"_s)
+			$of(u"Japanskt tímatal"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("MY"_s),
-			$of(u"Malas\u00eda"_s)
+			$of(u"Malasía"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("MZ"_s),
-			$of(u"M\u00f3samb\u00edk"_s)
+			$of(u"Mósambík"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("NA"_s),
-			$of(u"Namib\u00eda"_s)
+			$of(u"Namibía"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("202"_s),
-			$of(u"Afr\u00edka sunnan Sahara"_s)
+			$of(u"Afríka sunnan Sahara"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.ca.hebrew"_s),
-			$of(u"Hebreskt t\u00edmatal"_s)
+			$of(u"Hebreskt tímatal"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.co.dictionary"_s),
-			$of(u"Or\u00f0ab\u00f3karr\u00f6\u00f0"_s)
+			$of(u"Orðabókarröð"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("NC"_s),
-			$of(u"N\u00fdja-Kaled\u00f3n\u00eda"_s)
+			$of(u"Nýja-Kaledónía"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("NE"_s),
-			$of(u"N\u00edger"_s)
+			$of(u"Níger"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("NF"_s),
@@ -1235,15 +1235,15 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("NG"_s),
-			$of(u"N\u00edger\u00eda"_s)
+			$of(u"Nígería"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("trv"_s),
-			$of(u"tar\u00f3k\u00f3"_s)
+			$of(u"tarókó"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("NI"_s),
-			$of(u"N\u00edkaragva"_s)
+			$of(u"Níkaragva"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("NL"_s),
@@ -1259,7 +1259,7 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("NR"_s),
-			$of(u"N\u00e1r\u00fa"_s)
+			$of(u"Nárú"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("NU"_s),
@@ -1267,23 +1267,23 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("rof"_s),
-			$of(u"romb\u00f3"_s)
+			$of(u"rombó"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("tsi"_s),
-			$of(u"tsims\u00edska"_s)
+			$of(u"tsimsíska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("NZ"_s),
-			$of(u"N\u00fdja-Sj\u00e1land"_s)
+			$of(u"Nýja-Sjáland"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("rom"_s),
-			$of(u"roman\u00ed"_s)
+			$of(u"romaní"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("crh"_s),
-			$of(u"kr\u00edmtyrkneska"_s)
+			$of(u"krímtyrkneska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ang"_s),
@@ -1291,15 +1291,15 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("OM"_s),
-			$of(u"\u00d3man"_s)
+			$of(u"Óman"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("anp"_s),
-			$of(u"ang\u00edka"_s)
+			$of(u"angíka"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("crs"_s),
-			$of(u"seychelles-kre\u00f3lska"_s)
+			$of(u"seychelles-kreólska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("PA"_s),
@@ -1307,11 +1307,11 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("type.ca.islamic-civil"_s),
-			$of(u"\u00cdslamskt borgaradagatal"_s)
+			$of(u"Íslamskt borgaradagatal"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("csb"_s),
-			$of(u"kas\u00fab\u00edska"_s)
+			$of(u"kasúbíska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("en_GB"_s),
@@ -1319,15 +1319,15 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("PE"_s),
-			$of(u"Per\u00fa"_s)
+			$of(u"Perú"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("PF"_s),
-			$of(u"Franska P\u00f3l\u00fdnes\u00eda"_s)
+			$of(u"Franska Pólýnesía"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("PG"_s),
-			$of(u"Pap\u00faa N\u00fdja-G\u00ednea"_s)
+			$of(u"Papúa Nýja-Gínea"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("PH"_s),
@@ -1339,11 +1339,11 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("PL"_s),
-			$of(u"P\u00f3lland"_s)
+			$of(u"Pólland"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ewo"_s),
-			$of(u"evond\u00f3"_s)
+			$of(u"evondó"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("PM"_s),
@@ -1355,39 +1355,39 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("PR"_s),
-			$of(u"P\u00faert\u00f3 R\u00edk\u00f3"_s)
+			$of(u"Púertó Ríkó"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("PS"_s),
-			$of(u"Heimastj\u00f3rnarsv\u00e6\u00f0i Palest\u00ednumanna"_s)
+			$of(u"Heimastjórnarsvæði Palestínumanna"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Bali"_s),
-			$of(u"balines\u00edska"_s)
+			$of(u"balinesíska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("PT"_s),
-			$of(u"Port\u00fagal"_s)
+			$of(u"Portúgal"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("PW"_s),
-			$of(u"Pal\u00e1"_s)
+			$of(u"Palá"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("nia"_s),
-			$of(u"n\u00edas"_s)
+			$of(u"nías"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.greklow"_s),
-			$of(u"Gr\u00edskar l\u00e1gstafat\u00f6lur"_s)
+			$of(u"Grískar lágstafatölur"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("PY"_s),
-			$of(u"Paragv\u00e6"_s)
+			$of(u"Paragvæ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("tum"_s),
-			$of(u"t\u00famb\u00faka"_s)
+			$of(u"túmbúka"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Hebr"_s),
@@ -1399,23 +1399,23 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("niu"_s),
-			$of(u"n\u00edveska"_s)
+			$of(u"níveska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("QO"_s),
-			$of(u"Ytri Eyja\u00e1lfa"_s)
+			$of(u"Ytri Eyjaálfa"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lez"_s),
-			$of(u"lesg\u00edska"_s)
+			$of(u"lesgíska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.ahom"_s),
-			$of(u"ahom-t\u00f6lur"_s)
+			$of(u"ahom-tölur"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("tvl"_s),
-			$of(u"t\u00faval\u00faska"_s)
+			$of(u"túvalúska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("001"_s),
@@ -1423,19 +1423,19 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("002"_s),
-			$of(u"Afr\u00edka"_s)
+			$of(u"Afríka"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("003"_s),
-			$of(u"Nor\u00f0ur-Amer\u00edka"_s)
+			$of(u"Norður-Ameríka"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("RE"_s),
-			$of(u"R\u00e9union"_s)
+			$of(u"Réunion"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("005"_s),
-			$of(u"Su\u00f0ur-Amer\u00edka"_s)
+			$of(u"Suður-Ameríka"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("jbo"_s),
@@ -1443,27 +1443,27 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("009"_s),
-			$of(u"Eyja\u00e1lfa"_s)
+			$of(u"Eyjaálfa"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("RO"_s),
-			$of(u"R\u00famen\u00eda"_s)
+			$of(u"Rúmenía"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("RS"_s),
-			$of(u"Serb\u00eda"_s)
+			$of(u"Serbía"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("RU"_s),
-			$of(u"R\u00fassland"_s)
+			$of(u"Rússland"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("RW"_s),
-			$of(u"R\u00faanda"_s)
+			$of(u"Rúanda"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("SA"_s),
-			$of(u"S\u00e1di-Arab\u00eda"_s)
+			$of(u"Sádi-Arabía"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pon"_s),
@@ -1471,11 +1471,11 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("Mand"_s),
-			$of(u"manda\u00edska"_s)
+			$of(u"mandaíska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("SB"_s),
-			$of(u"Sal\u00f3monseyjar"_s)
+			$of(u"Salómonseyjar"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("twq"_s),
@@ -1483,7 +1483,7 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("011"_s),
-			$of(u"Vestur-Afr\u00edka"_s)
+			$of(u"Vestur-Afríka"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("SC"_s),
@@ -1491,31 +1491,31 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("SD"_s),
-			$of(u"S\u00fadan"_s)
+			$of(u"Súdan"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("013"_s),
-			$of(u"Mi\u00f0-Amer\u00edka"_s)
+			$of(u"Mið-Ameríka"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("SE"_s),
-			$of(u"Sv\u00ed\u00fej\u00f3\u00f0"_s)
+			$of(u"Svíþjóð"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("014"_s),
-			$of(u"Austur-Afr\u00edka"_s)
+			$of(u"Austur-Afríka"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("arc"_s),
-			$of(u"arame\u00edska"_s)
+			$of(u"arameíska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("015"_s),
-			$of(u"Nor\u00f0ur-Afr\u00edka"_s)
+			$of(u"Norður-Afríka"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("SG"_s),
-			$of(u"Singap\u00far"_s)
+			$of(u"Singapúr"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("SH"_s),
@@ -1523,39 +1523,39 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("type.lb.strict"_s),
-			$of(u"Str\u00f6ng l\u00ednuskipting"_s)
+			$of(u"Ströng línuskipting"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("017"_s),
-			$of(u"Mi\u00f0-Afr\u00edka"_s)
+			$of(u"Mið-Afríka"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("SI"_s),
-			$of(u"Sl\u00f3ven\u00eda"_s)
+			$of(u"Slóvenía"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("018"_s),
-			$of(u"Su\u00f0urhluti Afr\u00edku"_s)
+			$of(u"Suðurhluti Afríku"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("SJ"_s),
-			$of(u"Svalbar\u00f0i og Jan Mayen"_s)
+			$of(u"Svalbarði og Jan Mayen"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("019"_s),
-			$of(u"Amer\u00edka"_s)
+			$of(u"Ameríka"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("SK"_s),
-			$of(u"Sl\u00f3vak\u00eda"_s)
+			$of(u"Slóvakía"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("SL"_s),
-			$of(u"S\u00ederra Le\u00f3ne"_s)
+			$of(u"Síerra Leóne"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("SM"_s),
-			$of(u"San Mar\u00edn\u00f3"_s)
+			$of(u"San Marínó"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("SN"_s),
@@ -1563,7 +1563,7 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("SO"_s),
-			$of(u"S\u00f3mal\u00eda"_s)
+			$of(u"Sómalía"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("arn"_s),
@@ -1571,23 +1571,23 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("arp"_s),
-			$of(u"arapah\u00f3"_s)
+			$of(u"arapahó"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.taml"_s),
-			$of(u"Hef\u00f0bundnir tam\u00edlskir t\u00f6lustafir"_s)
+			$of(u"Hefðbundnir tamílskir tölustafir"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("SR"_s),
-			$of(u"S\u00far\u00ednam"_s)
+			$of(u"Súrínam"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("SS"_s),
-			$of(u"Su\u00f0ur-S\u00fadan"_s)
+			$of(u"Suður-Súdan"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ST"_s),
-			$of(u"Sa\u00f3 T\u00f3me og Prins\u00edpe"_s)
+			$of(u"Saó Tóme og Prinsípe"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("SV"_s),
@@ -1599,15 +1599,15 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("SY"_s),
-			$of(u"S\u00fdrland"_s)
+			$of(u"Sýrland"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("yao"_s),
-			$of(u"ja\u00f3"_s)
+			$of(u"jaó"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("SZ"_s),
-			$of(u"Svas\u00edland"_s)
+			$of(u"Svasíland"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("arw"_s),
@@ -1615,7 +1615,7 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("yap"_s),
-			$of(u"jap\u00edska"_s)
+			$of(u"japíska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("TA"_s),
@@ -1627,11 +1627,11 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("type.ms.ussystem"_s),
-			$of(u"Bandar\u00edskt m\u00e6lingakerfi"_s)
+			$of(u"Bandarískt mælingakerfi"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("021"_s),
-			$of(u"Amer\u00edka nor\u00f0an Mexik\u00f3"_s)
+			$of(u"Ameríka norðan Mexikó"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("TC"_s),
@@ -1647,31 +1647,31 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("TF"_s),
-			$of(u"Fr\u00f6nsku su\u00f0l\u00e6gu landsv\u00e6\u00f0in"_s)
+			$of(u"Frönsku suðlægu landsvæðin"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("TG"_s),
-			$of(u"T\u00f3g\u00f3"_s)
+			$of(u"Tógó"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("TH"_s),
-			$of(u"Ta\u00edland"_s)
+			$of(u"Taíland"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("TJ"_s),
-			$of(u"Tads\u00edkistan"_s)
+			$of(u"Tadsíkistan"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("029"_s),
-			$of(u"Kar\u00edbahafi\u00f0"_s)
+			$of(u"Karíbahafið"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("TK"_s),
-			$of(u"T\u00f3kel\u00e1"_s)
+			$of(u"Tókelá"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("TL"_s),
-			$of(u"T\u00edmor-Leste"_s)
+			$of(u"Tímor-Leste"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ybb"_s),
@@ -1679,15 +1679,15 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("type.co.searchjl"_s),
-			$of(u"Leita eftir upphafssamhlj\u00f3\u00f0a \u00ed Hangul"_s)
+			$of(u"Leita eftir upphafssamhljóða í Hangul"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("TM"_s),
-			$of(u"T\u00farkmenistan"_s)
+			$of(u"Túrkmenistan"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("TN"_s),
-			$of(u"T\u00fanis"_s)
+			$of(u"Túnis"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("TO"_s),
@@ -1699,23 +1699,23 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("TT"_s),
-			$of(u"Tr\u00ednidad og T\u00f3bag\u00f3"_s)
+			$of(u"Trínidad og Tóbagó"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("TV"_s),
-			$of(u"T\u00faval\u00fa"_s)
+			$of(u"Túvalú"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("TW"_s),
-			$of(u"Ta\u00edvan"_s)
+			$of(u"Taívan"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ast"_s),
-			$of(u"ast\u00far\u00edska"_s)
+			$of(u"astúríska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("TZ"_s),
-			$of(u"Tansan\u00eda"_s)
+			$of(u"Tansanía"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("nmg"_s),
@@ -1723,51 +1723,51 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("Zzzz"_s),
-			$of(u"\u00f3\u00feekkt letur"_s)
+			$of(u"óþekkt letur"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("UA"_s),
-			$of(u"\u00dakra\u00edna"_s)
+			$of(u"Úkraína"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("rup"_s),
-			$of(u"ar\u00famenska"_s)
+			$of(u"arúmenska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("030"_s),
-			$of(u"Austur-As\u00eda"_s)
+			$of(u"Austur-Asía"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("tyv"_s),
-			$of(u"t\u00fav\u00ednska"_s)
+			$of(u"túvínska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sw_CD"_s),
-			$of(u"kong\u00f3svah\u00edl\u00ed"_s)
+			$of(u"kongósvahílí"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("034"_s),
-			$of(u"Su\u00f0ur-As\u00eda"_s)
+			$of(u"Suður-Asía"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("hai"_s),
-			$of(u"ha\u00edda"_s)
+			$of(u"haída"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("035"_s),
-			$of(u"Su\u00f0austur-As\u00eda"_s)
+			$of(u"Suðaustur-Asía"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("UG"_s),
-			$of(u"\u00daganda"_s)
+			$of(u"Úganda"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.co.pinyin"_s),
-			$of(u"Pinyin-r\u00f6\u00f0un"_s)
+			$of(u"Pinyin-röðun"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("039"_s),
-			$of(u"Su\u00f0ur-Evr\u00f3pa"_s)
+			$of(u"Suður-Evrópa"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Sinh"_s),
@@ -1775,35 +1775,35 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("UM"_s),
-			$of(u"Sm\u00e1eyjar Bandar\u00edkjanna"_s)
+			$of(u"Smáeyjar Bandaríkjanna"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("UN"_s),
-			$of(u"Sameinu\u00f0u \u00fej\u00f3\u00f0irnar"_s)
+			$of(u"Sameinuðu þjóðirnar"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("US"_s),
-			$of(u"Bandar\u00edkin"_s)
+			$of(u"Bandaríkin"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("haw"_s),
-			$of(u"hava\u00edska"_s)
+			$of(u"havaíska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.co.gb2312han"_s),
-			$of(u"einf\u00f6ldu\u00f0 k\u00ednversk r\u00f6\u00f0un - GB2312"_s)
+			$of(u"einfölduð kínversk röðun - GB2312"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("UY"_s),
-			$of(u"\u00dar\u00fagv\u00e6"_s)
+			$of(u"Úrúgvæ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("prg"_s),
-			$of(u"pr\u00fassneska"_s)
+			$of(u"prússneska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("UZ"_s),
-			$of(u"\u00dasbekistan"_s)
+			$of(u"Úsbekistan"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("tzm"_s),
@@ -1811,7 +1811,7 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("type.co.stroke"_s),
-			$of(u"Strikar\u00f6\u00f0un"_s)
+			$of(u"Strikaröðun"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("nnh"_s),
@@ -1819,67 +1819,67 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("VA"_s),
-			$of(u"Vat\u00edkani\u00f0"_s)
+			$of(u"Vatíkanið"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pro"_s),
-			$of(u"fornpr\u00f3vensalska"_s)
+			$of(u"fornpróvensalska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("VC"_s),
-			$of(u"Sankti Vinsent og Grenad\u00edneyjar"_s)
+			$of(u"Sankti Vinsent og Grenadíneyjar"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("VE"_s),
-			$of(u"Venes\u00faela"_s)
+			$of(u"Venesúela"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("VG"_s),
-			$of(u"Bresku J\u00f3mfr\u00faaeyjar"_s)
+			$of(u"Bresku Jómfrúaeyjar"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("VI"_s),
-			$of(u"Bandar\u00edsku J\u00f3mfr\u00faaeyjar"_s)
+			$of(u"Bandarísku Jómfrúaeyjar"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("VN"_s),
-			$of(u"V\u00edetnam"_s)
+			$of(u"Víetnam"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("VU"_s),
-			$of(u"Van\u00faat\u00fa"_s)
+			$of(u"Vanúatú"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("nog"_s),
-			$of(u"n\u00f3ga\u00ed"_s)
+			$of(u"nógaí"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("rwk"_s),
-			$of(u"r\u00faa"_s)
+			$of(u"rúa"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("non"_s),
-			$of(u"norr\u00e6na"_s)
+			$of(u"norræna"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("053"_s),
-			$of(u"\u00c1stralas\u00eda"_s)
+			$of(u"Ástralasía"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("054"_s),
-			$of(u"Melanes\u00eda"_s)
+			$of(u"Melanesía"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("WF"_s),
-			$of(u"Wallis- og F\u00fat\u00fanaeyjar"_s)
+			$of(u"Wallis- og Fútúnaeyjar"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.co.traditional"_s),
-			$of(u"Hef\u00f0bundin"_s)
+			$of(u"Hefðbundin"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("057"_s),
-			$of(u"M\u00edkr\u00f3nes\u00edusv\u00e6\u00f0i\u00f0"_s)
+			$of(u"Míkrónesíusvæðið"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("jgo"_s),
@@ -1887,15 +1887,15 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("lkt"_s),
-			$of(u"lak\u00f3ta"_s)
+			$of(u"lakóta"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.finance"_s),
-			$of(u"Vi\u00f0skiptafr\u00e6\u00f0ileg t\u00f6luor\u00f0"_s)
+			$of(u"Viðskiptafræðileg töluorð"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.co.compat"_s),
-			$of(u"Fyrri r\u00f6\u00f0un, til samr\u00e6mis"_s)
+			$of(u"Fyrri röðun, til samræmis"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("wae"_s),
@@ -1903,7 +1903,7 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("WS"_s),
-			$of(u"Sam\u00f3a"_s)
+			$of(u"Samóa"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("wal"_s),
@@ -1911,7 +1911,7 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("was"_s),
-			$of(u"vasj\u00f3"_s)
+			$of(u"vasjó"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("XA"_s),
@@ -1919,23 +1919,23 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("war"_s),
-			$of(u"vara\u00ed"_s)
+			$of(u"varaí"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("XB"_s),
-			$of(u"gervista\u00f0ur"_s)
+			$of(u"gervistaður"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("awa"_s),
-			$of(u"avad\u00ed"_s)
+			$of(u"avadí"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("061"_s),
-			$of(u"P\u00f3l\u00fdnes\u00eda"_s)
+			$of(u"Pólýnesía"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("XK"_s),
-			$of(u"K\u00f3s\u00f3v\u00f3"_s)
+			$of(u"Kósóvó"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Gujr"_s),
@@ -1943,7 +1943,7 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("Zxxx"_s),
-			$of(u"\u00f3skrifa\u00f0"_s)
+			$of(u"óskrifað"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("wbp"_s),
@@ -1951,7 +1951,7 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("Batk"_s),
-			$of(u"batak\u00edska"_s)
+			$of(u"batakíska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("YE"_s),
@@ -1959,11 +1959,11 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("nqo"_s),
-			$of(u"n\u2019ko"_s)
+			$of(u"n’ko"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.co.standard"_s),
-			$of(u"St\u00f6\u00f0lu\u00f0 r\u00f6\u00f0un"_s)
+			$of(u"Stöðluð röðun"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("fan"_s),
@@ -1971,7 +1971,7 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("fat"_s),
-			$of(u"fant\u00ed"_s)
+			$of(u"fantí"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("YT"_s),
@@ -1979,11 +1979,11 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ZA"_s),
-			$of(u"Su\u00f0ur-Afr\u00edka"_s)
+			$of(u"Suður-Afríka"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.lb.loose"_s),
-			$of(u"Laus l\u00ednuskipting"_s)
+			$of(u"Laus línuskipting"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Deva"_s),
@@ -1991,7 +1991,7 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.geor"_s),
-			$of(u"Georg\u00edskir t\u00f6lustafir"_s)
+			$of(u"Georgískir tölustafir"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Hira"_s),
@@ -1999,7 +1999,7 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ZM"_s),
-			$of(u"Samb\u00eda"_s)
+			$of(u"Sambía"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ZW"_s),
@@ -2007,7 +2007,7 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ZZ"_s),
-			$of(u"\u00d3\u00feekkt sv\u00e6\u00f0i"_s)
+			$of(u"Óþekkt svæði"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.ms.metric"_s),
@@ -2015,23 +2015,23 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("type.ca.iso8601"_s),
-			$of(u"ISO-8601 t\u00edmatal"_s)
+			$of(u"ISO-8601 tímatal"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lol"_s),
-			$of(u"mong\u00f3"_s)
+			$of(u"mongó"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("nso"_s),
-			$of(u"nor\u00f0urs\u00f3t\u00f3"_s)
+			$of(u"norðursótó"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.telu"_s),
-			$of(u"Tel\u00fag\u00fa-t\u00f6lur"_s)
+			$of(u"Telúgú-tölur"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lou"_s),
-			$of(u"kre\u00f3lska (Louisiana)"_s)
+			$of(u"kreólska (Louisiana)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("loz"_s),
@@ -2039,35 +2039,35 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("jmc"_s),
-			$of(u"masj\u00e1me"_s)
+			$of(u"masjáme"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.hansfin"_s),
-			$of(u"Einfalda\u00f0ar k\u00ednverskar fj\u00e1rm\u00e1lat\u00f6lur"_s)
+			$of(u"Einfaldaðar kínverskar fjármálatölur"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("hil"_s),
-			$of(u"h\u00edliga\u00ednon"_s)
+			$of(u"híligaínon"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.arabext"_s),
-			$of(u"Auknar arab\u00edskar-indverskar t\u00f6lur"_s)
+			$of(u"Auknar arabískar-indverskar tölur"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("nus"_s),
-			$of(u"n\u00faer"_s)
+			$of(u"núer"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("dak"_s),
-			$of(u"dak\u00f3ta"_s)
+			$of(u"dakóta"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.fullwide"_s),
-			$of(u"T\u00f6lur \u00ed fullri breidd"_s)
+			$of(u"Tölur í fullri breidd"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("hit"_s),
-			$of(u"hettit\u00edska"_s)
+			$of(u"hettitíska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("dar"_s),
@@ -2075,11 +2075,11 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("dav"_s),
-			$of(u"ta\u00edta"_s)
+			$of(u"taíta"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lrc"_s),
-			$of(u"nor\u00f0url\u00far\u00ed"_s)
+			$of(u"norðurlúrí"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Copt"_s),
@@ -2087,11 +2087,11 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("nwc"_s),
-			$of(u"klass\u00edsk nevar\u00edska"_s)
+			$of(u"klassísk nevaríska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("udm"_s),
-			$of(u"\u00fadm\u00fart"_s)
+			$of(u"údmúrt"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Khmr"_s),
@@ -2103,19 +2103,19 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.roman"_s),
-			$of(u"R\u00f3mverskir t\u00f6lustafir"_s)
+			$of(u"Rómverskir tölustafir"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sah"_s),
-			$of(u"jak\u00fat"_s)
+			$of(u"jakút"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sam"_s),
-			$of(u"samversk arame\u00edska"_s)
+			$of(u"samversk arameíska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("saq"_s),
-			$of(u"samb\u00far\u00fa"_s)
+			$of(u"sambúrú"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sas"_s),
@@ -2123,19 +2123,19 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("sat"_s),
-			$of(u"santal\u00ed"_s)
+			$of(u"santalí"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("jpr"_s),
-			$of(u"gy\u00f0ingapersneska"_s)
+			$of(u"gyðingapersneska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.d0.npinyin"_s),
-			$of(u"T\u00f6lulegur"_s)
+			$of(u"Tölulegur"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.native"_s),
-			$of(u"Upprunalegir t\u00f6lustafir"_s)
+			$of(u"Upprunalegir tölustafir"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sba"_s),
@@ -2155,11 +2155,11 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("sbp"_s),
-			$of(u"sang\u00fa"_s)
+			$of(u"sangú"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lui"_s),
-			$of(u"l\u00faisen\u00f3"_s)
+			$of(u"lúisenó"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("nyn"_s),
@@ -2167,19 +2167,19 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("nym"_s),
-			$of(u"njamves\u00ed"_s)
+			$of(u"njamvesí"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lun"_s),
-			$of(u"l\u00fanda"_s)
+			$of(u"lúnda"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("nyo"_s),
-			$of(u"nj\u00f3r\u00f3"_s)
+			$of(u"njóró"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("luo"_s),
-			$of(u"l\u00fa\u00f3"_s)
+			$of(u"lúó"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("fil"_s),
@@ -2195,11 +2195,11 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("lus"_s),
-			$of(u"l\u00fasa\u00ed"_s)
+			$of(u"lúsaí"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bal"_s),
-			$of(u"bal\u00fak\u00ed"_s)
+			$of(u"balúkí"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("den"_s),
@@ -2207,11 +2207,11 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ban"_s),
-			$of(u"bal\u00edska"_s)
+			$of(u"balíska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("uga"_s),
-			$of(u"\u00fagar\u00edt\u00edska"_s)
+			$of(u"úgarítíska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("luy"_s),
@@ -2227,15 +2227,15 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("jrb"_s),
-			$of(u"gy\u00f0ingaarab\u00edska"_s)
+			$of(u"gyðingaarabíska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("es_ES"_s),
-			$of(u"evr\u00f3psk sp\u00e6nska"_s)
+			$of(u"evrópsk spænska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("nzi"_s),
-			$of(u"ns\u00edma"_s)
+			$of(u"nsíma"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sco"_s),
@@ -2247,19 +2247,19 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("aa"_s),
-			$of(u"af\u00e1r"_s)
+			$of(u"afár"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ab"_s),
-			$of(u"abkas\u00edska"_s)
+			$of(u"abkasíska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ae"_s),
-			$of(u"avest\u00edska"_s)
+			$of(u"avestíska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("af"_s),
-			$of(u"afr\u00edkanska"_s)
+			$of(u"afríkanska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ak"_s),
@@ -2267,7 +2267,7 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("am"_s),
-			$of(u"amhar\u00edska"_s)
+			$of(u"amharíska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("an"_s),
@@ -2275,7 +2275,7 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("Arab"_s),
-			$of(u"arab\u00edskt"_s)
+			$of(u"arabískt"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Jpan"_s),
@@ -2283,11 +2283,11 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ar"_s),
-			$of(u"arab\u00edska"_s)
+			$of(u"arabíska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Hrkt"_s),
-			$of(u"jap\u00f6nsk samst\u00f6fuletur"_s)
+			$of(u"japönsk samstöfuletur"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("as"_s),
@@ -2295,15 +2295,15 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("av"_s),
-			$of(u"avar\u00edska"_s)
+			$of(u"avaríska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sdh"_s),
-			$of(u"su\u00f0urk\u00fard\u00edska"_s)
+			$of(u"suðurkúrdíska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ay"_s),
-			$of(u"a\u00edmara"_s)
+			$of(u"aímara"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("az"_s),
@@ -2311,23 +2311,23 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ba"_s),
-			$of(u"bask\u00edr"_s)
+			$of(u"baskír"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.co.unihan"_s),
-			$of(u"R\u00f6\u00f0un eftir grunnstrikum"_s)
+			$of(u"Röðun eftir grunnstrikum"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("be"_s),
-			$of(u"hv\u00edtr\u00fassneska"_s)
+			$of(u"hvítrússneska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bg"_s),
-			$of(u"b\u00falgarska"_s)
+			$of(u"búlgarska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bi"_s),
-			$of(u"b\u00edslama"_s)
+			$of(u"bíslama"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bm"_s),
@@ -2339,19 +2339,19 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("bo"_s),
-			$of(u"t\u00edbeska"_s)
+			$of(u"tíbeska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("dgr"_s),
-			$of(u"dogr\u00edb"_s)
+			$of(u"dogríb"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("br"_s),
-			$of(u"bret\u00f3nska"_s)
+			$of(u"bretónska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bs"_s),
-			$of(u"bosn\u00edska"_s)
+			$of(u"bosníska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Mymr"_s),
@@ -2359,7 +2359,7 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.laoo"_s),
-			$of(u"Lao-t\u00f6lur"_s)
+			$of(u"Lao-tölur"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("seh"_s),
@@ -2367,19 +2367,19 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("Nkoo"_s),
-			$of(u"n-k\u00f3"_s)
+			$of(u"n-kó"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sel"_s),
-			$of(u"selk\u00fap"_s)
+			$of(u"selkúp"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ca"_s),
-			$of(u"katal\u00f3nska"_s)
+			$of(u"katalónska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ses"_s),
-			$of(u"ko\u00edrabor\u00f3-senn\u00ed"_s)
+			$of(u"koíraboró-senní"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ce"_s),
@@ -2387,11 +2387,11 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ch"_s),
-			$of(u"kamorr\u00f3"_s)
+			$of(u"kamorró"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("co"_s),
-			$of(u"kors\u00edska"_s)
+			$of(u"korsíska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Orya"_s),
@@ -2399,11 +2399,11 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("cr"_s),
-			$of(u"kr\u00ed"_s)
+			$of(u"krí"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cs"_s),
-			$of(u"t\u00e9kkneska"_s)
+			$of(u"tékkneska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cu"_s),
@@ -2411,7 +2411,7 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("cv"_s),
-			$of(u"sj\u00favas"_s)
+			$of(u"sjúvas"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cy"_s),
@@ -2419,7 +2419,7 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.ethi"_s),
-			$of(u"E\u00fe\u00ed\u00f3p\u00edskir t\u00f6lustafir"_s)
+			$of(u"Eþíópískir tölustafir"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("da"_s),
@@ -2427,15 +2427,15 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("pt_PT"_s),
-			$of(u"evr\u00f3psk port\u00fagalska"_s)
+			$of(u"evrópsk portúgalska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("de"_s),
-			$of(u"\u00fe\u00fdska"_s)
+			$of(u"þýska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.cf.standard"_s),
-			$of(u"Sta\u00f0la\u00f0 gjaldmi\u00f0ilssni\u00f0"_s)
+			$of(u"Staðlað gjaldmiðilssnið"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bej"_s),
@@ -2451,19 +2451,19 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("sga"_s),
-			$of(u"forn\u00edrska"_s)
+			$of(u"fornírska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.mong"_s),
-			$of(u"Mong\u00f3lskar t\u00f6lur"_s)
+			$of(u"Mongólskar tölur"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("dv"_s),
-			$of(u"d\u00edveh\u00ed"_s)
+			$of(u"dívehí"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("es_419"_s),
-			$of(u"r\u00f3m\u00f6nsk-amer\u00edsk sp\u00e6nska"_s)
+			$of(u"rómönsk-amerísk spænska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("dz"_s),
@@ -2475,7 +2475,7 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("type.ca.chinese"_s),
-			$of(u"K\u00ednversk t\u00edmatal"_s)
+			$of(u"Kínversk tímatal"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("dje"_s),
@@ -2483,7 +2483,7 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.grek"_s),
-			$of(u"Gr\u00edskir t\u00f6lustafir"_s)
+			$of(u"Grískir tölustafir"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ee"_s),
@@ -2491,15 +2491,15 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("type.lb.normal"_s),
-			$of(u"Venjuleg l\u00ednuskipting"_s)
+			$of(u"Venjuleg línuskipting"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ro_MD"_s),
-			$of(u"mold\u00f3vska"_s)
+			$of(u"moldóvska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("el"_s),
-			$of(u"gr\u00edska"_s)
+			$of(u"gríska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("en"_s),
@@ -2507,15 +2507,15 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("eo"_s),
-			$of(u"esperant\u00f3"_s)
+			$of(u"esperantó"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.co.big5han"_s),
-			$of(u"hef\u00f0bundin k\u00ednversk r\u00f6\u00f0un - Big5"_s)
+			$of(u"hefðbundin kínversk röðun - Big5"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("es"_s),
-			$of(u"sp\u00e6nska"_s)
+			$of(u"spænska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("et"_s),
@@ -2539,11 +2539,11 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("hsb"_s),
-			$of(u"h\u00e1sorbneska"_s)
+			$of(u"hásorbneska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Hani"_s),
-			$of(u"k\u00ednverskt"_s)
+			$of(u"kínverskt"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("shn"_s),
@@ -2555,19 +2555,19 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("Hans"_s),
-			$of(u"einfalda\u00f0"_s)
+			$of(u"einfaldað"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.latn"_s),
-			$of(u"Vestr\u00e6nar t\u00f6lur"_s)
+			$of(u"Vestrænar tölur"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Hant"_s),
-			$of(u"hef\u00f0bundi\u00f0"_s)
+			$of(u"hefðbundið"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ff"_s),
-			$of(u"f\u00fala"_s)
+			$of(u"fúla"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("fi"_s),
@@ -2575,23 +2575,23 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("fj"_s),
-			$of(u"f\u00eddjeyska"_s)
+			$of(u"fídjeyska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("fon"_s),
-			$of(u"f\u00f3n"_s)
+			$of(u"fón"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bgn"_s),
-			$of(u"vesturbalots\u00ed"_s)
+			$of(u"vesturbalotsí"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("yue"_s),
-			$of(u"kant\u00f3nska"_s)
+			$of(u"kantónska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("fo"_s),
-			$of(u"f\u00e6reyska"_s)
+			$of(u"færeyska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.m0.bgn"_s),
@@ -2599,7 +2599,7 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("umb"_s),
-			$of(u"\u00famb\u00fand\u00fa"_s)
+			$of(u"úmbúndú"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("fr"_s),
@@ -2607,39 +2607,39 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("sid"_s),
-			$of(u"s\u00eddam\u00f3"_s)
+			$of(u"sídamó"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("fy"_s),
-			$of(u"vesturfr\u00edsneska"_s)
+			$of(u"vesturfrísneska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ga"_s),
-			$of(u"\u00edrska"_s)
+			$of(u"írska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gd"_s),
-			$of(u"skosk gel\u00edska"_s)
+			$of(u"skosk gelíska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gl"_s),
-			$of(u"galis\u00edska"_s)
+			$of(u"galisíska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gn"_s),
-			$of(u"gvaran\u00ed"_s)
+			$of(u"gvaraní"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bho"_s),
-			$of(u"bojp\u00far\u00ed"_s)
+			$of(u"bojpúrí"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("und"_s),
-			$of(u"\u00f3\u00feekkt tungum\u00e1l"_s)
+			$of(u"óþekkt tungumál"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.ca.ethiopic-amete-alem"_s),
-			$of(u"E\u00fe\u00ed\u00f3p\u00edskt \u2018amete alem\u2019 t\u00edmatal"_s)
+			$of(u"Eþíópískt ‘amete alem’ tímatal"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gu"_s),
@@ -2651,7 +2651,7 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ha"_s),
-			$of(u"h\u00e1sa"_s)
+			$of(u"hása"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("he"_s),
@@ -2659,31 +2659,31 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("hi"_s),
-			$of(u"hind\u00ed"_s)
+			$of(u"hindí"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("hup"_s),
-			$of(u"h\u00fapa"_s)
+			$of(u"húpa"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bik"_s),
-			$of(u"b\u00edkol"_s)
+			$of(u"bíkol"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bin"_s),
-			$of(u"b\u00edn\u00ed"_s)
+			$of(u"bíní"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ho"_s),
-			$of(u"h\u00edr\u00edm\u00f3t\u00fa"_s)
+			$of(u"hírímótú"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("hr"_s),
-			$of(u"kr\u00f3at\u00edska"_s)
+			$of(u"króatíska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ht"_s),
-			$of(u"ha\u00edt\u00edska"_s)
+			$of(u"haítíska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("hu"_s),
@@ -2695,7 +2695,7 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("hz"_s),
-			$of(u"herer\u00f3"_s)
+			$of(u"hereró"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("frc"_s),
@@ -2711,11 +2711,11 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("id"_s),
-			$of(u"ind\u00f3nes\u00edska"_s)
+			$of(u"indónesíska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.tibt"_s),
-			$of(u"T\u00edbeskir t\u00f6lustafir"_s)
+			$of(u"Tíbeskir tölustafir"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ie"_s),
@@ -2723,19 +2723,19 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ig"_s),
-			$of(u"\u00edgb\u00f3"_s)
+			$of(u"ígbó"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ii"_s),
-			$of(u"s\u00eds\u00faanj\u00ed"_s)
+			$of(u"sísúanjí"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("frm"_s),
-			$of(u"mi\u00f0franska"_s)
+			$of(u"miðfranska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ik"_s),
-			$of(u"\u00edn\u00fap\u00edak"_s)
+			$of(u"ínúpíak"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("fro"_s),
@@ -2743,27 +2743,27 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("io"_s),
-			$of(u"\u00edd\u00f3"_s)
+			$of(u"ídó"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("frs"_s),
-			$of(u"austurfr\u00edsneska"_s)
+			$of(u"austurfrísneska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("frr"_s),
-			$of(u"nor\u00f0urfr\u00edsneska"_s)
+			$of(u"norðurfrísneska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("is"_s),
-			$of(u"\u00edslenska"_s)
+			$of(u"íslenska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("it"_s),
-			$of(u"\u00edtalska"_s)
+			$of(u"ítalska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("iu"_s),
-			$of(u"in\u00faktit\u00fat"_s)
+			$of(u"inúktitút"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ja"_s),
@@ -2775,11 +2775,11 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("doi"_s),
-			$of(u"dogr\u00ed"_s)
+			$of(u"dogrí"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sma"_s),
-			$of(u"su\u00f0ursam\u00edska"_s)
+			$of(u"suðursamíska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("jv"_s),
@@ -2787,27 +2787,27 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("mad"_s),
-			$of(u"mad\u00farska"_s)
+			$of(u"madúrska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("smj"_s),
-			$of(u"l\u00falesam\u00edska"_s)
+			$of(u"lúlesamíska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mag"_s),
-			$of(u"magah\u00ed"_s)
+			$of(u"magahí"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mai"_s),
-			$of(u"ma\u00edt\u00edl\u00ed"_s)
+			$of(u"maítílí"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("smn"_s),
-			$of(u"enaresam\u00edska"_s)
+			$of(u"enaresamíska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ka"_s),
-			$of(u"georg\u00edska"_s)
+			$of(u"georgíska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bla"_s),
@@ -2819,27 +2819,27 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("sms"_s),
-			$of(u"skoltesam\u00edska"_s)
+			$of(u"skoltesamíska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("man"_s),
-			$of(u"manding\u00f3"_s)
+			$of(u"mandingó"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kg"_s),
-			$of(u"kong\u00f3ska"_s)
+			$of(u"kongóska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ki"_s),
-			$of(u"k\u00edk\u00faj\u00fa"_s)
+			$of(u"kíkújú"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mas"_s),
-			$of(u"masa\u00ed"_s)
+			$of(u"masaí"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kj"_s),
-			$of(u"k\u00faanjama"_s)
+			$of(u"kúanjama"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kk"_s),
@@ -2847,7 +2847,7 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("kl"_s),
-			$of(u"gr\u00e6nlenska"_s)
+			$of(u"grænlenska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("km"_s),
@@ -2859,23 +2859,23 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ko"_s),
-			$of(u"k\u00f3reska"_s)
+			$of(u"kóreska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kr"_s),
-			$of(u"kan\u00far\u00ed"_s)
+			$of(u"kanúrí"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ks"_s),
-			$of(u"kasm\u00edrska"_s)
+			$of(u"kasmírska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ku"_s),
-			$of(u"k\u00fard\u00edska"_s)
+			$of(u"kúrdíska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kv"_s),
-			$of(u"kom\u00edska"_s)
+			$of(u"komíska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kw"_s),
@@ -2887,19 +2887,19 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("snk"_s),
-			$of(u"s\u00f3ninke"_s)
+			$of(u"sóninke"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("la"_s),
-			$of(u"lat\u00edna"_s)
+			$of(u"latína"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lb"_s),
-			$of(u"l\u00faxemborg\u00edska"_s)
+			$of(u"lúxemborgíska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.mlym"_s),
-			$of(u"Malayalam-t\u00f6lur"_s)
+			$of(u"Malayalam-tölur"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lg"_s),
@@ -2907,11 +2907,11 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("li"_s),
-			$of(u"limb\u00farg\u00edska"_s)
+			$of(u"limbúrgíska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Tibt"_s),
-			$of(u"t\u00edbeskt"_s)
+			$of(u"tíbeskt"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ln"_s),
@@ -2919,23 +2919,23 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("fur"_s),
-			$of(u"fr\u00ed\u00falska"_s)
+			$of(u"fríúlska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lo"_s),
-			$of(u"la\u00f3"_s)
+			$of(u"laó"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.ms.uksystem"_s),
-			$of(u"Breskt m\u00e6lingakerfi"_s)
+			$of(u"Breskt mælingakerfi"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lt"_s),
-			$of(u"lith\u00e1\u00edska"_s)
+			$of(u"litháíska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lu"_s),
-			$of(u"l\u00fabakatanga"_s)
+			$of(u"lúbakatanga"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lv"_s),
@@ -2943,11 +2943,11 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("sog"_s),
-			$of(u"sogd\u00eden"_s)
+			$of(u"sogdíen"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mg"_s),
-			$of(u"malagas\u00edska"_s)
+			$of(u"malagasíska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mh"_s),
@@ -2955,15 +2955,15 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("type.co.ducet"_s),
-			$of(u"Sj\u00e1lfgefin Unicode-r\u00f6\u00f0un"_s)
+			$of(u"Sjálfgefin Unicode-röðun"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mi"_s),
-			$of(u"maor\u00ed"_s)
+			$of(u"maorí"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mk"_s),
-			$of(u"maked\u00f3nska"_s)
+			$of(u"makedónska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ml"_s),
@@ -2971,15 +2971,15 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("mn"_s),
-			$of(u"mong\u00f3lska"_s)
+			$of(u"mongólska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mr"_s),
-			$of(u"marat\u00ed"_s)
+			$of(u"maratí"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ms"_s),
-			$of(u"mala\u00edska"_s)
+			$of(u"malaíska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mt"_s),
@@ -2987,7 +2987,7 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("my"_s),
-			$of(u"b\u00farmneska"_s)
+			$of(u"búrmneska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Armn"_s),
@@ -2999,11 +2999,11 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("dsb"_s),
-			$of(u"l\u00e1gsorbneska"_s)
+			$of(u"lágsorbneska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("na"_s),
-			$of(u"n\u00e1r\u00faska"_s)
+			$of(u"nárúska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.co.search"_s),
@@ -3011,11 +3011,11 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("nb"_s),
-			$of(u"norskt b\u00f3km\u00e1l"_s)
+			$of(u"norskt bókmál"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("nd"_s),
-			$of(u"nor\u00f0ur-ndebele"_s)
+			$of(u"norður-ndebele"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ne"_s),
@@ -3035,7 +3035,7 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("nn"_s),
-			$of(u"n\u00fdnorska"_s)
+			$of(u"nýnorska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("no"_s),
@@ -3043,11 +3043,11 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("nr"_s),
-			$of(u"su\u00f0urndebele"_s)
+			$of(u"suðurndebele"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("nv"_s),
-			$of(u"navah\u00f3"_s)
+			$of(u"navahó"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kaa"_s),
@@ -3055,19 +3055,19 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ny"_s),
-			$of(u"n\u00fdanja"_s)
+			$of(u"nýanja"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kac"_s),
-			$of(u"kas\u00edn"_s)
+			$of(u"kasín"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kab"_s),
-			$of(u"kab\u00edle"_s)
+			$of(u"kabíle"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("oc"_s),
-			$of(u"oks\u00edtan\u00edska"_s)
+			$of(u"oksítaníska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kaj"_s),
@@ -3087,11 +3087,11 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("mer"_s),
-			$of(u"mer\u00fa"_s)
+			$of(u"merú"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.armn"_s),
-			$of(u"Armenskir t\u00f6lustafir"_s)
+			$of(u"Armenskir tölustafir"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("om"_s),
@@ -3099,23 +3099,23 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("kaw"_s),
-			$of(u"kav\u00ed"_s)
+			$of(u"kaví"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("or"_s),
-			$of(u"\u00f3r\u00eda"_s)
+			$of(u"óría"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("os"_s),
-			$of(u"osset\u00edska"_s)
+			$of(u"ossetíska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kbd"_s),
-			$of(u"kabard\u00edska"_s)
+			$of(u"kabardíska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mfe"_s),
-			$of(u"m\u00e1rit\u00edska"_s)
+			$of(u"máritíska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("srn"_s),
@@ -3123,11 +3123,11 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("pa"_s),
-			$of(u"p\u00fanjab\u00ed"_s)
+			$of(u"púnjabí"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("dua"_s),
-			$of(u"d\u00faala"_s)
+			$of(u"dúala"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("srr"_s),
@@ -3135,39 +3135,39 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("pi"_s),
-			$of(u"pal\u00ed"_s)
+			$of(u"palí"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pl"_s),
-			$of(u"p\u00f3lska"_s)
+			$of(u"pólska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("dum"_s),
-			$of(u"mi\u00f0hollenska"_s)
+			$of(u"miðhollenska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.ca.dangi"_s),
-			$of(u"Dangi t\u00edmatal"_s)
+			$of(u"Dangi tímatal"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ps"_s),
-			$of(u"past\u00fa"_s)
+			$of(u"pastú"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pt"_s),
-			$of(u"port\u00fagalska"_s)
+			$of(u"portúgalska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mga"_s),
-			$of(u"mi\u00f0\u00edrska"_s)
+			$of(u"miðírska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("key.co"_s),
-			$of(u"R\u00f6\u00f0un"_s)
+			$of(u"Röðun"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pt_BR"_s),
-			$of(u"bras\u00edl\u00edsk port\u00fagalska"_s)
+			$of(u"brasílísk portúgalska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kcg"_s),
@@ -3179,15 +3179,15 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("key.cf"_s),
-			$of(u"Gjaldmi\u00f0ilssni\u00f0"_s)
+			$of(u"Gjaldmiðilssnið"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bra"_s),
-			$of(u"bra\u00ed"_s)
+			$of(u"braí"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("key.ca"_s),
-			$of(u"T\u00edmatal"_s)
+			$of(u"Tímatal"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Laoo"_s),
@@ -3195,15 +3195,15 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("mgo"_s),
-			$of(u"meta\u2019"_s)
+			$of(u"meta’"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.hc.h23"_s),
-			$of(u"24 t\u00edma kerfi (0\u201323)"_s)
+			$of(u"24 tíma kerfi (0–23)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.hc.h24"_s),
-			$of(u"24 t\u00edma kerfi (1\u201324)"_s)
+			$of(u"24 tíma kerfi (1–24)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ssy"_s),
@@ -3211,19 +3211,19 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.mymr"_s),
-			$of(u"Mjanmarskar t\u00f6lur"_s)
+			$of(u"Mjanmarskar tölur"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("qu"_s),
-			$of(u"kvesj\u00faa"_s)
+			$of(u"kvesjúa"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("zap"_s),
-			$of(u"sap\u00f3tek"_s)
+			$of(u"sapótek"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("brx"_s),
-			$of(u"b\u00f3d\u00f3"_s)
+			$of(u"bódó"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kde"_s),
@@ -3231,43 +3231,43 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("Ethi"_s),
-			$of(u"e\u00fe\u00ed\u00f3p\u00edskt"_s)
+			$of(u"eþíópískt"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.hc.h12"_s),
-			$of(u"12 t\u00edma kerfi (1\u201312)"_s)
+			$of(u"12 tíma kerfi (1–12)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.hc.h11"_s),
-			$of(u"12 t\u00edma kerfi (0\u201311)"_s)
+			$of(u"12 tíma kerfi (0–11)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("rm"_s),
-			$of(u"r\u00f3manska"_s)
+			$of(u"rómanska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("rn"_s),
-			$of(u"r\u00fand\u00ed"_s)
+			$of(u"rúndí"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("key.cu"_s),
-			$of(u"Gjaldmi\u00f0ill"_s)
+			$of(u"Gjaldmiðill"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ro"_s),
-			$of(u"r\u00famenska"_s)
+			$of(u"rúmenska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.orya"_s),
-			$of(u"Odia-t\u00f6lur"_s)
+			$of(u"Odia-tölur"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.hanidec"_s),
-			$of(u"K\u00ednverskir tugat\u00f6lustafir"_s)
+			$of(u"Kínverskir tugatölustafir"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ru"_s),
-			$of(u"r\u00fassneska"_s)
+			$of(u"rússneska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bss"_s),
@@ -3275,15 +3275,15 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("rw"_s),
-			$of(u"k\u00ednjarvanda"_s)
+			$of(u"kínjarvanda"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("zbl"_s),
-			$of(u"blisst\u00e1kn"_s)
+			$of(u"blisstákn"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kea"_s),
-			$of(u"gr\u00e6nh\u00f6f\u00f0eyska"_s)
+			$of(u"grænhöfðeyska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mic"_s),
@@ -3291,63 +3291,63 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("suk"_s),
-			$of(u"s\u00fak\u00fama"_s)
+			$of(u"súkúma"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("en_AU"_s),
-			$of(u"\u00e1str\u00f6lsk enska"_s)
+			$of(u"áströlsk enska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sa"_s),
-			$of(u"sanskr\u00edt"_s)
+			$of(u"sanskrít"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sc"_s),
-			$of(u"sard\u00ednska"_s)
+			$of(u"sardínska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sus"_s),
-			$of(u"s\u00fas\u00fa"_s)
+			$of(u"súsú"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sd"_s),
-			$of(u"sind\u00ed"_s)
+			$of(u"sindí"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("se"_s),
-			$of(u"nor\u00f0ursam\u00edska"_s)
+			$of(u"norðursamíska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("min"_s),
-			$of(u"m\u00ednangkab\u00e1"_s)
+			$of(u"mínangkabá"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sg"_s),
-			$of(u"sang\u00f3"_s)
+			$of(u"sangó"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sh"_s),
-			$of(u"serb\u00f3kr\u00f3at\u00edska"_s)
+			$of(u"serbókróatíska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("si"_s),
-			$of(u"singal\u00edska"_s)
+			$of(u"singalíska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sux"_s),
-			$of(u"s\u00famerska"_s)
+			$of(u"súmerska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sk"_s),
-			$of(u"sl\u00f3vak\u00edska"_s)
+			$of(u"slóvakíska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sl"_s),
-			$of(u"sl\u00f3venska"_s)
+			$of(u"slóvenska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sm"_s),
-			$of(u"sam\u00f3ska"_s)
+			$of(u"samóska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sn"_s),
@@ -3355,11 +3355,11 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("so"_s),
-			$of(u"s\u00f3malska"_s)
+			$of(u"sómalska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.arab"_s),
-			$of(u"Arab\u00edskar-indverskar t\u00f6lur"_s)
+			$of(u"Arabískar-indverskar tölur"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sq"_s),
@@ -3371,35 +3371,35 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ss"_s),
-			$of(u"svat\u00ed"_s)
+			$of(u"svatí"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.cf.account"_s),
-			$of(u"B\u00f3khaldsgjaldmi\u00f0ill"_s)
+			$of(u"Bókhaldsgjaldmiðill"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("st"_s),
-			$of(u"su\u00f0urs\u00f3t\u00f3"_s)
+			$of(u"suðursótó"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Java"_s),
-			$of(u"javanes\u00edska"_s)
+			$of(u"javanesíska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("su"_s),
-			$of(u"s\u00fandanska"_s)
+			$of(u"súndanska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sv"_s),
-			$of(u"s\u00e6nska"_s)
+			$of(u"sænska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sw"_s),
-			$of(u"svah\u00edl\u00ed"_s)
+			$of(u"svahílí"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.hantfin"_s),
-			$of(u"Hef\u00f0bundnar k\u00ednverskar fj\u00e1rm\u00e1lat\u00f6lur"_s)
+			$of(u"Hefðbundnar kínverskar fjármálatölur"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ibb"_s),
@@ -3407,23 +3407,23 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("iba"_s),
-			$of(u"\u00edban"_s)
+			$of(u"íban"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ta"_s),
-			$of(u"tam\u00edlska"_s)
+			$of(u"tamílska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("142"_s),
-			$of(u"As\u00eda"_s)
+			$of(u"Asía"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bua"_s),
-			$of(u"b\u00far\u00edat"_s)
+			$of(u"búríat"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("143"_s),
-			$of(u"Mi\u00f0-As\u00eda"_s)
+			$of(u"Mið-Asía"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("te"_s),
@@ -3431,7 +3431,7 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("145"_s),
-			$of(u"Vestur-As\u00eda"_s)
+			$of(u"Vestur-Asía"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("tg"_s),
@@ -3439,15 +3439,15 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("th"_s),
-			$of(u"ta\u00edlenska"_s)
+			$of(u"taílenska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ti"_s),
-			$of(u"t\u00edgrinja"_s)
+			$of(u"tígrinja"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bug"_s),
-			$of(u"b\u00fag\u00edska"_s)
+			$of(u"búgíska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kfo"_s),
@@ -3455,11 +3455,11 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("en_CA"_s),
-			$of(u"kanad\u00edsk enska"_s)
+			$of(u"kanadísk enska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("tk"_s),
-			$of(u"t\u00farkmenska"_s)
+			$of(u"túrkmenska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("tl"_s),
@@ -3467,7 +3467,7 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("tn"_s),
-			$of(u"ts\u00faana"_s)
+			$of(u"tsúana"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("to"_s),
@@ -3479,7 +3479,7 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.jpan"_s),
-			$of(u"Japanskir t\u00f6lustafir"_s)
+			$of(u"Japanskir tölustafir"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("tr"_s),
@@ -3491,7 +3491,7 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("swb"_s),
-			$of(u"shimaor\u00edska"_s)
+			$of(u"shimaoríska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("tt"_s),
@@ -3499,27 +3499,27 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("dyu"_s),
-			$of(u"dj\u00fala"_s)
+			$of(u"djúla"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("tw"_s),
-			$of(u"tv\u00ed"_s)
+			$of(u"tví"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ty"_s),
-			$of(u"tah\u00edt\u00edska"_s)
+			$of(u"tahítíska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("150"_s),
-			$of(u"Evr\u00f3pa"_s)
+			$of(u"Evrópa"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("151"_s),
-			$of(u"Austur-Evr\u00f3pa"_s)
+			$of(u"Austur-Evrópa"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("154"_s),
-			$of(u"Nor\u00f0ur-Evr\u00f3pa"_s)
+			$of(u"Norður-Evrópa"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("dzg"_s),
@@ -3527,15 +3527,15 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("155"_s),
-			$of(u"Vestur-Evr\u00f3pa"_s)
+			$of(u"Vestur-Evrópa"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ug"_s),
-			$of(u"\u00fa\u00edg\u00far"_s)
+			$of(u"úígúr"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Kore"_s),
-			$of(u"k\u00f3reskt"_s)
+			$of(u"kóreskt"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Zyyy"_s),
@@ -3543,19 +3543,19 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("uk"_s),
-			$of(u"\u00fakra\u00ednska"_s)
+			$of(u"úkraínska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.ca.coptic"_s),
-			$of(u"Kopt\u00edskt t\u00edmatal"_s)
+			$of(u"Koptískt tímatal"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ur"_s),
-			$of(u"\u00fard\u00fa"_s)
+			$of(u"úrdú"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xal"_s),
-			$of(u"kalm\u00fakska"_s)
+			$of(u"kalmúkska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("zen"_s),
@@ -3563,15 +3563,15 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("uz"_s),
-			$of(u"\u00fasbekska"_s)
+			$of(u"úsbekska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kha"_s),
-			$of(u"kas\u00ed"_s)
+			$of(u"kasí"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("nds_NL"_s),
-			$of(u"l\u00e1gsaxneska"_s)
+			$of(u"lágsaxneska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ve"_s),
@@ -3579,11 +3579,11 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("type.ca.roc"_s),
-			$of(u"Minguo t\u00edmatal"_s)
+			$of(u"Minguo tímatal"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("vi"_s),
-			$of(u"v\u00edetnamska"_s)
+			$of(u"víetnamska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kho"_s),
@@ -3595,7 +3595,7 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("key.hc"_s),
-			$of(u"T\u00edmakerfi (12 e\u00f0a 24)"_s)
+			$of(u"Tímakerfi (12 eða 24)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("vo"_s),
@@ -3603,7 +3603,7 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("syc"_s),
-			$of(u"klass\u00edsk s\u00fdrlenska"_s)
+			$of(u"klassísk sýrlenska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("quc"_s),
@@ -3615,19 +3615,19 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("wa"_s),
-			$of(u"vall\u00f3nska"_s)
+			$of(u"vallónska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gag"_s),
-			$of(u"gag\u00e1s"_s)
+			$of(u"gagás"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("syr"_s),
-			$of(u"s\u00fdrlenska"_s)
+			$of(u"sýrlenska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Grek"_s),
-			$of(u"gr\u00edskt"_s)
+			$of(u"grískt"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gan"_s),
@@ -3639,23 +3639,23 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("zgh"_s),
-			$of(u"sta\u00f0la\u00f0 marokk\u00f3skt tamazight"_s)
+			$of(u"staðlað marokkóskt tamazight"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ar_001"_s),
-			$of(u"st\u00f6\u00f0lu\u00f0 n\u00fat\u00edmaarab\u00edska"_s)
+			$of(u"stöðluð nútímaarabíska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gay"_s),
-			$of(u"gaj\u00f3"_s)
+			$of(u"gajó"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Mong"_s),
-			$of(u"mong\u00f3lskt"_s)
+			$of(u"mongólskt"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mnc"_s),
-			$of(u"mansj\u00fa"_s)
+			$of(u"mansjú"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gba"_s),
@@ -3663,7 +3663,7 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("mni"_s),
-			$of(u"man\u00edp\u00far\u00ed"_s)
+			$of(u"manípúrí"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Latn"_s),
@@ -3671,31 +3671,31 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.hans"_s),
-			$of(u"Einfalda\u00f0ir k\u00ednverskir t\u00f6lustafir"_s)
+			$of(u"Einfaldaðir kínverskir tölustafir"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.hant"_s),
-			$of(u"Hef\u00f0bundnir k\u00ednverskir t\u00f6lustafir"_s)
+			$of(u"Hefðbundnir kínverskir tölustafir"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xh"_s),
-			$of(u"s\u00f3sa"_s)
+			$of(u"sósa"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.romanlow"_s),
-			$of(u"R\u00f3mverskar l\u00e1gstafat\u00f6lur"_s)
+			$of(u"Rómverskar lágstafatölur"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("byn"_s),
-			$of(u"bl\u00edn"_s)
+			$of(u"blín"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("osa"_s),
-			$of(u"\u00f3sage"_s)
+			$of(u"ósage"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("moh"_s),
-			$of(u"m\u00f3h\u00edska"_s)
+			$of(u"móhíska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kkj"_s),
@@ -3703,35 +3703,35 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("yi"_s),
-			$of(u"jidd\u00edska"_s)
+			$of(u"jiddíska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mos"_s),
-			$of(u"moss\u00ed"_s)
+			$of(u"mossí"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("yo"_s),
-			$of(u"j\u00f3r\u00faba"_s)
+			$of(u"jórúba"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.traditional"_s),
-			$of(u"Hef\u00f0bundin t\u00f6lut\u00e1kn"_s)
+			$of(u"Hefðbundin tölutákn"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("es_MX"_s),
-			$of(u"mex\u00edk\u00f3sk sp\u00e6nska"_s)
+			$of(u"mexíkósk spænska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ota"_s),
-			$of(u"tyrkneska, ott\u00f3man"_s)
+			$of(u"tyrkneska, ottóman"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("vai"_s),
-			$of(u"va\u00ed"_s)
+			$of(u"vaí"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("za"_s),
-			$of(u"s\u00faang"_s)
+			$of(u"súang"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kln"_s),
@@ -3739,7 +3739,7 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("zh"_s),
-			$of(u"k\u00ednverska"_s)
+			$of(u"kínverska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Bopo"_s),
@@ -3747,35 +3747,35 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("key.lb"_s),
-			$of(u"L\u00ednuskipting"_s)
+			$of(u"Línuskipting"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("zu"_s),
-			$of(u"s\u00fal\u00fa"_s)
+			$of(u"súlú"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.co.phonebook"_s),
-			$of(u"S\u00edmaskr\u00e1arr\u00f6\u00f0un"_s)
+			$of(u"Símaskráarröðun"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Geor"_s),
-			$of(u"georg\u00edskt"_s)
+			$of(u"georgískt"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kmb"_s),
-			$of(u"kimb\u00fand\u00fa"_s)
+			$of(u"kimbúndú"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.jpanfin"_s),
-			$of(u"Japanskar fj\u00e1rm\u00e1lat\u00f6lur"_s)
+			$of(u"Japanskar fjármálatölur"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gez"_s),
-			$of(u"g\u00eds"_s)
+			$of(u"gís"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.co.reformed"_s),
-			$of(u"Endurb\u00e6tt r\u00f6\u00f0"_s)
+			$of(u"Endurbætt röð"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ebu"_s),
@@ -3783,15 +3783,15 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("zh_Hans"_s),
-			$of(u"k\u00ednverska (einf\u00f6ldu\u00f0)"_s)
+			$of(u"kínverska (einfölduð)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("koi"_s),
-			$of(u"k\u00f3m\u00ed-permyak"_s)
+			$of(u"kómí-permyak"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kok"_s),
-			$of(u"konkan\u00ed"_s)
+			$of(u"konkaní"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kos"_s),
@@ -3799,11 +3799,11 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("zh_Hant"_s),
-			$of(u"k\u00ednverska (hef\u00f0bundin)"_s)
+			$of(u"kínverska (hefðbundin)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Sund"_s),
-			$of(u"sundanes\u00edska"_s)
+			$of(u"sundanesíska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kpe"_s),
@@ -3811,11 +3811,11 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.khmr"_s),
-			$of(u"Kmer\u00edskar t\u00f6lur"_s)
+			$of(u"Kmerískar tölur"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ilo"_s),
-			$of(u"\u00edlok\u00f3"_s)
+			$of(u"ílokó"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mua"_s),
@@ -3823,23 +3823,23 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.guru"_s),
-			$of(u"Gurmukhi-t\u00f6lur"_s)
+			$of(u"Gurmukhi-tölur"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mul"_s),
-			$of(u"margv\u00edsleg m\u00e1l"_s)
+			$of(u"margvísleg mál"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cad"_s),
-			$of(u"kadd\u00f3"_s)
+			$of(u"kaddó"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("key.ms"_s),
-			$of(u"M\u00e6lingakerfi"_s)
+			$of(u"Mælingakerfi"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mus"_s),
-			$of(u"kr\u00edk"_s)
+			$of(u"krík"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gil"_s),
@@ -3847,43 +3847,43 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("car"_s),
-			$of(u"kar\u00edbam\u00e1l"_s)
+			$of(u"karíbamál"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cay"_s),
-			$of(u"kaj\u00faga"_s)
+			$of(u"kajúga"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.tamldec"_s),
-			$of(u"Tam\u00edlskar t\u00f6lur"_s)
+			$of(u"Tamílskar tölur"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("krc"_s),
-			$of(u"karasa\u00edbalkar"_s)
+			$of(u"karasaíbalkar"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("inh"_s),
-			$of(u"ing\u00fas"_s)
+			$of(u"ingús"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("fa_AF"_s),
-			$of(u"dar\u00ed"_s)
+			$of(u"darí"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("krl"_s),
-			$of(u"kar\u00e9lska"_s)
+			$of(u"karélska"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("efi"_s),
-			$of(u"ef\u00edk"_s)
+			$of(u"efík"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("key.nu"_s),
-			$of(u"T\u00f6lur"_s)
+			$of(u"Tölur"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kru"_s),
-			$of(u"k\u00far\u00fak"_s)
+			$of(u"kúrúk"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ksb"_s),
@@ -3895,7 +3895,7 @@ $ObjectArray2* LocaleNames_is::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ksf"_s),
-			$of(u"baf\u00eda"_s)
+			$of(u"bafía"_s)
 		})
 	}));
 	return data;

@@ -97,8 +97,8 @@ $ObjectArray2* FormatData_es_CL::getContents() {
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
+				u"‰"_s,
+				u"∞"_s,
 				"NaN"_s,
 				""_s,
 				""_s
@@ -139,9 +139,9 @@ $ObjectArray2* FormatData_es_CL::getContents() {
 			$of("latn.NumberPatterns"_s),
 			$of($$new($StringArray, {
 				"#,##0.###"_s,
-				u"\u00a4#,##0.00;\u00a4-#,##0.00"_s,
-				u"#,##0\u00a0%"_s,
-				u"\u00a4#,##0.00"_s
+				u"¤#,##0.00;¤-#,##0.00"_s,
+				u"#,##0 %"_s,
+				u"¤#,##0.00"_s
 			}))
 		}),
 		$$new($ObjectArray, {
@@ -151,10 +151,10 @@ $ObjectArray2* FormatData_es_CL::getContents() {
 		$$new($ObjectArray, {
 			$of("standalone.QuarterNames"_s),
 			$of($$new($StringArray, {
-				u"1.\u00b0 trimestre"_s,
-				u"2.\u00b0 trimestre"_s,
-				u"3.\u00b0 trimestre"_s,
-				u"4.\u00ba trimestre"_s
+				u"1.° trimestre"_s,
+				u"2.° trimestre"_s,
+				u"3.° trimestre"_s,
+				u"4.º trimestre"_s
 			}))
 		})
 	}));

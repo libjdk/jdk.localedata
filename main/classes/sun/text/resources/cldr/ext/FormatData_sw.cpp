@@ -307,8 +307,8 @@ $ObjectArray2* FormatData_sw::getContents() {
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
+				u"‰"_s,
+				u"∞"_s,
 				"NaN"_s,
 				""_s,
 				""_s
@@ -572,9 +572,9 @@ $ObjectArray2* FormatData_sw::getContents() {
 				""_s,
 				""_s,
 				""_s,
-				u"{one:elfu\u00a00;elfu\u00a0-0 other:elfu\u00a00;elfu\u00a0-0}"_s,
-				u"{one:elfu\u00a000;elfu\u00a0-00 other:elfu\u00a000;elfu\u00a0-00}"_s,
-				u"{one:elfu\u00a0000;elfu\u00a0-000 other:elfu\u00a0000;elfu\u00a0-000}"_s,
+				u"{one:elfu 0;elfu -0 other:elfu 0;elfu -0}"_s,
+				u"{one:elfu 00;elfu -00 other:elfu 00;elfu -00}"_s,
+				u"{one:elfu 000;elfu -000 other:elfu 000;elfu -000}"_s,
 				"{one:0M;-0M other:0M}"_s,
 				"{one:00M;-00M other:00M}"_s,
 				"{one:000M;-000M other:000M}"_s,
@@ -639,9 +639,9 @@ $ObjectArray2* FormatData_sw::getContents() {
 			$of("latn.NumberPatterns"_s),
 			$of($$new($StringArray, {
 				"#,##0.###"_s,
-				u"\u00a4\u00a0#,##0.00"_s,
+				u"¤ #,##0.00"_s,
 				"#,##0%"_s,
-				u"\u00a4\u00a0#,##0.00"_s
+				u"¤ #,##0.00"_s
 			}))
 		}),
 		$$new($ObjectArray, {

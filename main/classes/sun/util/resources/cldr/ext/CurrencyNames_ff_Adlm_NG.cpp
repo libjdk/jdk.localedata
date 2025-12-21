@@ -46,7 +46,7 @@ $ObjectArray2* CurrencyNames_ff_Adlm_NG::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("NGN"_s),
-			$of(u"\u20a6"_s)
+			$of(u"₦"_s)
 		})
 	}));
 	return data;

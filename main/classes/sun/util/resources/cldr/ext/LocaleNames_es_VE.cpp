@@ -46,7 +46,7 @@ $ObjectArray2* LocaleNames_es_VE::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("TA"_s),
-			$of(u"Trist\u00e1n de Acu\u00f1a"_s)
+			$of(u"Tristán de Acuña"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("UM"_s),
@@ -62,7 +62,7 @@ $ObjectArray2* LocaleNames_es_VE::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("pa"_s),
-			$of(u"punyab\u00ed"_s)
+			$of(u"punyabí"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ss"_s),
@@ -82,7 +82,7 @@ $ObjectArray2* LocaleNames_es_VE::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ace"_s),
-			$of(u"acehn\u00e9s"_s)
+			$of(u"acehnés"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("arp"_s),
@@ -102,7 +102,7 @@ $ObjectArray2* LocaleNames_es_VE::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("zgh"_s),
-			$of(u"tamazight marroqu\u00ed est\u00e1ndar"_s)
+			$of(u"tamazight marroquí estándar"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sw_CD"_s),

@@ -42,12 +42,12 @@ void TimeZoneNames_qu_EC::init$() {
 $ObjectArray2* TimeZoneNames_qu_EC::getContents() {
 	$useLocalCurrentObjectStackCache();
 	$var($StringArray, Peru, $new($StringArray, {
-		u"Hora Estandar de Per\u00fa"_s,
-		u"\u2205\u2205\u2205"_s,
-		u"Hora de Verano de Per\u00fa"_s,
-		u"\u2205\u2205\u2205"_s,
-		u"Hora de Per\u00fa"_s,
-		u"\u2205\u2205\u2205"_s
+		u"Hora Estandar de Perú"_s,
+		u"∅∅∅"_s,
+		u"Hora de Verano de Perú"_s,
+		u"∅∅∅"_s,
+		u"Hora de Perú"_s,
+		u"∅∅∅"_s
 	}));
 	$var($StringArray, Ecuador, $new($StringArray, {
 		"Hora de Ecuador"_s,

@@ -41,7 +41,7 @@ $ObjectArray2* CurrencyNames_sr_Latn_ME::getContents() {
 	return $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("EUR"_s),
-			$of(u"\u20ac"_s)
+			$of(u"€"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("eur"_s),

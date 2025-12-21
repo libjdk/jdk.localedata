@@ -54,7 +54,7 @@ $ObjectArray2* LocaleNames_es_PR::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ace"_s),
-			$of(u"acehn\u00e9s"_s)
+			$of(u"acehnés"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("arp"_s),

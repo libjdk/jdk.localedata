@@ -39,69 +39,69 @@ void LocaleNames_zh_Hant_HK::init$() {
 
 $ObjectArray2* LocaleNames_zh_Hant_HK::getContents() {
 	$useLocalCurrentObjectStackCache();
-	$var($String, metaValue_ka, u"\u683c\u9b6f\u5409\u4e9e\u6587"_s);
-	$var($String, metaValue_kn, u"\u574e\u7d0d\u9054\u6587"_s);
-	$var($String, metaValue_lo, u"\u8001\u64be\u6587"_s);
-	$var($String, metaValue_ml, u"\u99ac\u62c9\u96c5\u62c9\u59c6\u6587"_s);
-	$var($String, metaValue_or, u"\u5967\u91cc\u96c5\u6587"_s);
-	$var($String, metaValue_ta, u"\u6cf0\u7c73\u723e\u6587"_s);
-	$var($String, metaValue_type_nu_taml, u"\u6cf0\u7c73\u723e\u6578\u5b57"_s);
+	$var($String, metaValue_ka, u"格魯吉亞文"_s);
+	$var($String, metaValue_kn, u"坎納達文"_s);
+	$var($String, metaValue_lo, u"老撾文"_s);
+	$var($String, metaValue_ml, u"馬拉雅拉姆文"_s);
+	$var($String, metaValue_or, u"奧里雅文"_s);
+	$var($String, metaValue_ta, u"泰米爾文"_s);
+	$var($String, metaValue_type_nu_taml, u"泰米爾數字"_s);
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("de_AT"_s),
-			$of(u"\u5967\u5730\u5229\u5fb7\u6587"_s)
+			$of(u"奧地利德文"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("PS"_s),
-			$of(u"\u5df4\u52d2\u65af\u5766\u9818\u571f"_s)
+			$of(u"巴勒斯坦領土"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("wbp"_s),
-			$of(u"\u74e6\u723e\u76ae\u91cc\u6587"_s)
+			$of(u"瓦爾皮里文"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("HN"_s),
-			$of(u"\u6d2a\u90fd\u62c9\u65af"_s)
+			$of(u"洪都拉斯"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("luo"_s),
-			$of(u"\u76e7\u6b50\u6587"_s)
+			$of(u"盧歐文"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("hmn"_s),
-			$of(u"\u82d7\u8a9e"_s)
+			$of(u"苗語"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("HR"_s),
-			$of(u"\u514b\u7f85\u5730\u4e9e"_s)
+			$of(u"克羅地亞"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("hr"_s),
-			$of(u"\u514b\u7f85\u5730\u4e9e\u6587"_s)
+			$of(u"克羅地亞文"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gsw"_s),
-			$of(u"\u745e\u58eb\u5fb7\u6587"_s)
+			$of(u"瑞士德文"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pt_BR"_s),
-			$of(u"\u5df4\u897f\u8461\u8404\u7259\u6587"_s)
+			$of(u"巴西葡萄牙文"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("YE"_s),
-			$of(u"\u4e5f\u9580"_s)
+			$of(u"也門"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("den"_s),
-			$of(u"\u65af\u62c9\u592b\u6587"_s)
+			$of(u"斯拉夫文"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("nqo"_s),
-			$of(u"\u897f\u975e\u66f8\u9762\u8a9e\u8a00\uff08N\u2019ko\uff09"_s)
+			$of(u"西非書面語言（N’ko）"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("QA"_s),
-			$of(u"\u5361\u5854\u723e"_s)
+			$of(u"卡塔爾"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Laoo"_s),
@@ -109,71 +109,71 @@ $ObjectArray2* LocaleNames_zh_Hant_HK::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("%%SCOTLAND"_s),
-			$of(u"\u8607\u683c\u862d\u6a19\u6e96\u82f1\u8a9e"_s)
+			$of(u"蘇格蘭標準英語"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("es_MX"_s),
-			$of(u"\u58a8\u897f\u54e5\u897f\u73ed\u7259\u6587"_s)
+			$of(u"墨西哥西班牙文"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("YT"_s),
-			$of(u"\u99ac\u7d04\u7279"_s)
+			$of(u"馬約特"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("es_ES"_s),
-			$of(u"\u6b50\u6d32\u897f\u73ed\u7259\u6587"_s)
+			$of(u"歐洲西班牙文"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("aa"_s),
-			$of(u"\u963f\u6cd5\u723e\u6587"_s)
+			$of(u"阿法爾文"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("AE"_s),
-			$of(u"\u963f\u62c9\u4f2f\u806f\u5408\u914b\u9577\u570b"_s)
+			$of(u"阿拉伯聯合酋長國"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("IM"_s),
-			$of(u"\u99ac\u6069\u5cf6"_s)
+			$of(u"馬恩島"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("nl_BE"_s),
-			$of(u"\u6bd4\u5229\u6642\u8377\u862d\u6587"_s)
+			$of(u"比利時荷蘭文"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("AG"_s),
-			$of(u"\u5b89\u63d0\u74dc\u548c\u5df4\u5e03\u9054"_s)
+			$of(u"安提瓜和巴布達"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.ca.ethiopic"_s),
-			$of(u"\u57c3\u585e\u4fc4\u6bd4\u4e9e\u66c6"_s)
+			$of(u"埃塞俄比亞曆"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("IT"_s),
-			$of(u"\u610f\u5927\u5229"_s)
+			$of(u"意大利"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("it"_s),
-			$of(u"\u610f\u5927\u5229\u6587"_s)
+			$of(u"意大利文"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.geor"_s),
-			$of(u"\u683c\u9b6f\u5409\u4e9e\u6578\u5b57"_s)
+			$of(u"格魯吉亞數字"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Ethi"_s),
-			$of(u"\u57c3\u585e\u4fc4\u6bd4\u4e9e\u6587"_s)
+			$of(u"埃塞俄比亞文"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ZM"_s),
-			$of(u"\u8d0a\u6bd4\u4e9e"_s)
+			$of(u"贊比亞"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("AW"_s),
-			$of(u"\u963f\u9b6f\u5df4"_s)
+			$of(u"阿魯巴"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("en_US"_s),
-			$of(u"\u7f8e\u570b\u82f1\u6587"_s)
+			$of(u"美國英文"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Mlym"_s),
@@ -181,23 +181,23 @@ $ObjectArray2* LocaleNames_zh_Hant_HK::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("AZ"_s),
-			$of(u"\u4e9e\u585e\u62dc\u7586"_s)
+			$of(u"亞塞拜疆"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("az"_s),
-			$of(u"\u963f\u585e\u62dc\u7586\u6587"_s)
+			$of(u"阿塞拜疆文"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ZW"_s),
-			$of(u"\u6d25\u5df4\u5e03\u97cb"_s)
+			$of(u"津巴布韋"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("BA"_s),
-			$of(u"\u6ce2\u65af\u5c3c\u4e9e\u548c\u9ed1\u585e\u54e5\u7dad\u90a3"_s)
+			$of(u"波斯尼亞和黑塞哥維那"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ba"_s),
-			$of(u"\u5df4\u4ec0\u57fa\u723e\u6587"_s)
+			$of(u"巴什基爾文"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Geor"_s),
@@ -205,79 +205,79 @@ $ObjectArray2* LocaleNames_zh_Hant_HK::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("BB"_s),
-			$of(u"\u5df4\u5df4\u591a\u65af"_s)
+			$of(u"巴巴多斯"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.orya"_s),
-			$of(u"\u5967\u91cc\u4e9e\u6578\u5b57"_s)
+			$of(u"奧里亞數字"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("BF"_s),
-			$of(u"\u5e03\u57fa\u7d0d\u6cd5\u7d22"_s)
+			$of(u"布基納法索"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("RW"_s),
-			$of(u"\u76e7\u65fa\u9054"_s)
+			$of(u"盧旺達"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("rw"_s),
-			$of(u"\u76e7\u65fa\u9054\u6587"_s)
+			$of(u"盧旺達文"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("BI"_s),
-			$of(u"\u5e03\u9686\u8fea"_s)
+			$of(u"布隆迪"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("BJ"_s),
-			$of(u"\u8c9d\u5be7"_s)
+			$of(u"貝寧"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("en_AU"_s),
-			$of(u"\u6fb3\u6d32\u82f1\u6587"_s)
+			$of(u"澳洲英文"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("BL"_s),
-			$of(u"\u8056\u5df4\u6cf0\u52d2\u7c73"_s)
+			$of(u"聖巴泰勒米"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("SA"_s),
-			$of(u"\u6c99\u5730\u963f\u62c9\u4f2f"_s)
+			$of(u"沙地阿拉伯"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.knda"_s),
-			$of(u"\u5361\u7d0d\u9054\u6578\u5b57"_s)
+			$of(u"卡納達數字"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("SB"_s),
-			$of(u"\u6240\u7f85\u9580\u7fa4\u5cf6"_s)
+			$of(u"所羅門群島"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("SC"_s),
-			$of(u"\u585e\u820c\u723e"_s)
+			$of(u"塞舌爾"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("br"_s),
-			$of(u"\u5e03\u91cc\u591a\u5c3c\u6587"_s)
+			$of(u"布里多尼文"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bs"_s),
-			$of(u"\u6ce2\u65af\u5c3c\u4e9e\u6587"_s)
+			$of(u"波斯尼亞文"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("013"_s),
-			$of(u"\u4e2d\u7f8e\u6d32"_s)
+			$of(u"中美洲"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("de_CH"_s),
-			$of(u"\u745e\u58eb\u5fb7\u8a9e"_s)
+			$of(u"瑞士德語"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("BV"_s),
-			$of(u"\u9b91\u5a01\u7279\u5cf6"_s)
+			$of(u"鮑威特島"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("BW"_s),
-			$of(u"\u535a\u8328\u74e6\u7d0d"_s)
+			$of(u"博茨瓦納"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ka"_s),
@@ -285,43 +285,43 @@ $ObjectArray2* LocaleNames_zh_Hant_HK::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("SI"_s),
-			$of(u"\u65af\u6d1b\u6587\u5c3c\u4e9e"_s)
+			$of(u"斯洛文尼亞"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.laoo"_s),
-			$of(u"\u8001\u64be\u6578\u5b57"_s)
+			$of(u"老撾數字"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("SJ"_s),
-			$of(u"\u65af\u74e6\u723e\u5df4\u7279\u7fa4\u5cf6\u53ca\u63da\u99ac\u5ef6\u5cf6"_s)
+			$of(u"斯瓦爾巴特群島及揚馬延島"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("BZ"_s),
-			$of(u"\u4f2f\u5229\u8332"_s)
+			$of(u"伯利茲"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("SL"_s),
-			$of(u"\u585e\u62c9\u5229\u6602"_s)
+			$of(u"塞拉利昂"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sl"_s),
-			$of(u"\u65af\u6d1b\u6587\u5c3c\u4e9e\u6587"_s)
+			$of(u"斯洛文尼亞文"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("KE"_s),
-			$of(u"\u80af\u5c3c\u4e9e"_s)
+			$of(u"肯尼亞"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sn"_s),
-			$of(u"\u4fee\u7d0d\u6587"_s)
+			$of(u"修納文"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("SO"_s),
-			$of(u"\u7d22\u99ac\u91cc"_s)
+			$of(u"索馬里"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("so"_s),
-			$of(u"\u7d22\u99ac\u91cc\u6587"_s)
+			$of(u"索馬里文"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.taml"_s),
@@ -329,23 +329,23 @@ $ObjectArray2* LocaleNames_zh_Hant_HK::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ca"_s),
-			$of(u"\u52a0\u6cf0\u9686\u5c3c\u4e9e\u6587"_s)
+			$of(u"加泰隆尼亞文"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("SR"_s),
-			$of(u"\u8607\u91cc\u5357"_s)
+			$of(u"蘇里南"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("CC"_s),
-			$of(u"\u79d1\u79d1\u65af (\u57fa\u6797) \u7fa4\u5cf6"_s)
+			$of(u"科科斯 (基林) 群島"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ST"_s),
-			$of(u"\u8056\u591a\u7f8e\u548c\u666e\u6797\u897f\u6bd4"_s)
+			$of(u"聖多美和普林西比"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("KM"_s),
-			$of(u"\u79d1\u6469\u7f85"_s)
+			$of(u"科摩羅"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Knda"_s),
@@ -357,31 +357,31 @@ $ObjectArray2* LocaleNames_zh_Hant_HK::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("KN"_s),
-			$of(u"\u8056\u57fa\u8328\u548c\u5c3c\u7dad\u65af"_s)
+			$of(u"聖基茨和尼維斯"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("fr_CA"_s),
-			$of(u"\u52a0\u62ff\u5927\u6cd5\u6587"_s)
+			$of(u"加拿大法文"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("CI"_s),
-			$of(u"\u79d1\u7279\u8fea\u74e6"_s)
+			$of(u"科特迪瓦"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("SZ"_s),
-			$of(u"\u65af\u5a01\u58eb\u862d"_s)
+			$of(u"斯威士蘭"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("%%REVISED"_s),
-			$of(u"\u5df2\u4fee\u8a02\u62fc\u5b57\u6cd5"_s)
+			$of(u"已修訂拼字法"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.co.reformed"_s),
-			$of(u"\u6539\u9769\u7248\u6392\u5e8f"_s)
+			$of(u"改革版排序"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("fr_CH"_s),
-			$of(u"\u745e\u58eb\u6cd5\u6587"_s)
+			$of(u"瑞士法文"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ta"_s),
@@ -389,7 +389,7 @@ $ObjectArray2* LocaleNames_zh_Hant_HK::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("CP"_s),
-			$of(u"\u514b\u91cc\u73c0\u9813\u5cf6"_s)
+			$of(u"克里珀頓島"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Orya"_s),
@@ -397,87 +397,87 @@ $ObjectArray2* LocaleNames_zh_Hant_HK::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("type.ms.ussystem"_s),
-			$of(u"\u7f8e\u5236"_s)
+			$of(u"美制"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("CR"_s),
-			$of(u"\u54e5\u65af\u9054\u9ece\u52a0"_s)
+			$of(u"哥斯達黎加"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("TC"_s),
-			$of(u"\u7279\u514b\u65af\u548c\u51f1\u79d1\u65af\u7fa4\u5cf6"_s)
+			$of(u"特克斯和凱科斯群島"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("TD"_s),
-			$of(u"\u4e4d\u5f97"_s)
+			$of(u"乍得"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Cyrl"_s),
-			$of(u"\u897f\u91cc\u723e\u6587"_s)
+			$of(u"西里爾文"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("TF"_s),
-			$of(u"\u6cd5\u5c6c\u5357\u90e8\u9818\u5730"_s)
+			$of(u"法屬南部領地"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("CV"_s),
-			$of(u"\u4f5b\u5f97\u89d2"_s)
+			$of(u"佛得角"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("LA"_s),
-			$of(u"\u8001\u64be"_s)
+			$of(u"老撾"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("CY"_s),
-			$of(u"\u585e\u6d66\u8def\u65af"_s)
+			$of(u"塞浦路斯"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("en_CA"_s),
-			$of(u"\u52a0\u62ff\u5927\u82f1\u6587"_s)
+			$of(u"加拿大英文"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("029"_s),
-			$of(u"\u52a0\u52d2\u6bd4"_s)
+			$of(u"加勒比"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("LC"_s),
-			$of(u"\u8056\u76e7\u897f\u4e9e"_s)
+			$of(u"聖盧西亞"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.ethi"_s),
-			$of(u"\u57c3\u585e\u4fc4\u6bd4\u4e9e\u6578\u5b57"_s)
+			$of(u"埃塞俄比亞數字"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.mlym"_s),
-			$of(u"\u99ac\u62c9\u96c5\u62c9\u59c6\u6578\u5b57"_s)
+			$of(u"馬拉雅拉姆數字"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("tn"_s),
-			$of(u"\u7a81\u5c3c\u897f\u4e9e\u6587"_s)
+			$of(u"突尼西亞文"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("TO"_s),
-			$of(u"\u6e6f\u52a0"_s)
+			$of(u"湯加"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("to"_s),
-			$of(u"\u6e6f\u52a0\u6587"_s)
+			$of(u"湯加文"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("LI"_s),
-			$of(u"\u5217\u652f\u6566\u58eb\u767b"_s)
+			$of(u"列支敦士登"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pt_PT"_s),
-			$of(u"\u6b50\u6d32\u8461\u8404\u7259\u6587"_s)
+			$of(u"歐洲葡萄牙文"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("TT"_s),
-			$of(u"\u5343\u91cc\u9054\u548c\u591a\u5df4\u54e5"_s)
+			$of(u"千里達和多巴哥"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("TV"_s),
-			$of(u"\u5716\u74e6\u76e7"_s)
+			$of(u"圖瓦盧"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lo"_s),
@@ -485,71 +485,71 @@ $ObjectArray2* LocaleNames_zh_Hant_HK::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("type.ms.uksystem"_s),
-			$of(u"\u82f1\u5236"_s)
+			$of(u"英制"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.deva"_s),
-			$of(u"\u5929\u57ce\u9ad4\u6578\u5b57"_s)
+			$of(u"天城體數字"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("DJ"_s),
-			$of(u"\u5409\u5e03\u63d0"_s)
+			$of(u"吉布提"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("LR"_s),
-			$of(u"\u5229\u6bd4\u91cc\u4e9e"_s)
+			$of(u"利比里亞"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("TZ"_s),
-			$of(u"\u5766\u6851\u5c3c\u4e9e"_s)
+			$of(u"坦桑尼亞"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("LS"_s),
-			$of(u"\u840a\u7d22\u6258"_s)
+			$of(u"萊索托"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("%%1901"_s),
-			$of(u"\u50b3\u7d71\u5fb7\u570b\u62fc\u5b57\u6cd5"_s)
+			$of(u"傳統德國拼字法"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("DO"_s),
-			$of(u"\u591a\u7c73\u5c3c\u52a0\u5171\u548c\u570b"_s)
+			$of(u"多米尼加共和國"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("rup"_s),
-			$of(u"\u963f\u7f85\u99ac\u5c3c\u4e9e\u8a9e"_s)
+			$of(u"阿羅馬尼亞語"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sw_CD"_s),
-			$of(u"\u525b\u679c\u53f2\u74e6\u5e0c\u91cc\u6587"_s)
+			$of(u"剛果史瓦希里文"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("es_419"_s),
-			$of(u"\u62c9\u4e01\u7f8e\u6d32\u897f\u73ed\u7259\u6587"_s)
+			$of(u"拉丁美洲西班牙文"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Thaa"_s),
-			$of(u"\u5b83\u62ff\u5b57\u6bcd"_s)
+			$of(u"它拿字母"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Sinh"_s),
-			$of(u"\u50e7\u4f3d\u7f85\u6587"_s)
+			$of(u"僧伽羅文"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ME"_s),
-			$of(u"\u9ed1\u5c71"_s)
+			$of(u"黑山"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mg"_s),
-			$of(u"\u99ac\u62c9\u52a0\u65af\u6587"_s)
+			$of(u"馬拉加斯文"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ur"_s),
-			$of(u"\u70cf\u723e\u90fd\u6587"_s)
+			$of(u"烏爾都文"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("EC"_s),
-			$of(u"\u5384\u74dc\u591a\u723e"_s)
+			$of(u"厄瓜多爾"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ml"_s),
@@ -557,123 +557,123 @@ $ObjectArray2* LocaleNames_zh_Hant_HK::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ML"_s),
-			$of(u"\u99ac\u91cc"_s)
+			$of(u"馬里"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.co.gb2312han"_s),
-			$of(u"\u7c21\u9ad4\u4e2d\u6587\u6392\u5e8f (GB2312)"_s)
+			$of(u"簡體中文排序 (GB2312)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ro_MD"_s),
-			$of(u"\u6469\u723e\u591a\u74e6\u7f85\u99ac\u5c3c\u4e9e\u6587"_s)
+			$of(u"摩爾多瓦羅馬尼亞文"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("MR"_s),
-			$of(u"\u6bdb\u91cc\u5854\u5c3c\u4e9e"_s)
+			$of(u"毛里塔尼亞"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("MS"_s),
-			$of(u"\u8499\u7279\u585e\u62c9\u7279"_s)
+			$of(u"蒙特塞拉特"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("%%1996"_s),
-			$of(u"1996 \u5fb7\u570b\u62fc\u5b57\u6cd5"_s)
+			$of(u"1996 德國拼字法"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("MT"_s),
-			$of(u"\u99ac\u8033\u4ed6"_s)
+			$of(u"馬耳他"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mt"_s),
-			$of(u"\u99ac\u8033\u4ed6\u6587"_s)
+			$of(u"馬耳他文"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("MU"_s),
-			$of(u"\u6bdb\u91cc\u88d8\u65af"_s)
+			$of(u"毛里裘斯"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("MV"_s),
-			$of(u"\u99ac\u723e\u4ee3\u592b"_s)
+			$of(u"馬爾代夫"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("MW"_s),
-			$of(u"\u99ac\u62c9\u7dad"_s)
+			$of(u"馬拉維"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("eo"_s),
-			$of(u"\u4e16\u754c\u8a9e"_s)
+			$of(u"世界語"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ER"_s),
-			$of(u"\u5384\u7acb\u7279\u91cc\u4e9e"_s)
+			$of(u"厄立特里亞"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("MZ"_s),
-			$of(u"\u83ab\u6851\u6bd4\u514b"_s)
+			$of(u"莫桑比克"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("VC"_s),
-			$of(u"\u8056\u6587\u68ee\u7279\u548c\u683c\u6797\u7d0d\u4e01\u65af"_s)
+			$of(u"聖文森特和格林納丁斯"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.co.big5han"_s),
-			$of(u"\u7e41\u9ad4\u4e2d\u6587\u6392\u5e8f (Big5)"_s)
+			$of(u"繁體中文排序 (Big5)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ET"_s),
-			$of(u"\u57c3\u585e\u4fc4\u6bd4\u4e9e"_s)
+			$of(u"埃塞俄比亞"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("VG"_s),
-			$of(u"\u82f1\u5c6c\u7dad\u723e\u4eac\u7fa4\u5cf6"_s)
+			$of(u"英屬維爾京群島"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("VI"_s),
-			$of(u"\u7f8e\u5c6c\u7dad\u723e\u4eac\u7fa4\u5cf6"_s)
+			$of(u"美屬維爾京群島"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.co.dictionary"_s),
-			$of(u"\u8a5e\u5178\u6392\u5e8f"_s)
+			$of(u"詞典排序"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("NE"_s),
-			$of(u"\u5c3c\u65e5\u723e"_s)
+			$of(u"尼日爾"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("NG"_s),
-			$of(u"\u5c3c\u65e5\u5229\u4e9e"_s)
+			$of(u"尼日利亞"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Hans"_s),
-			$of(u"\u7c21\u9ad4\u5b57"_s)
+			$of(u"簡體字"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Hant"_s),
-			$of(u"\u7e41\u9ad4\u5b57"_s)
+			$of(u"繁體字"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("az_Arab"_s),
-			$of(u"\u5357\u963f\u585e\u62dc\u7586\u6587"_s)
+			$of(u"南阿塞拜疆文"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("VU"_s),
-			$of(u"\u74e6\u52aa\u963f\u5716"_s)
+			$of(u"瓦努阿圖"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("NR"_s),
-			$of(u"\u7459\u9b6f"_s)
+			$of(u"瑙魯"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Newa"_s),
-			$of(u"\u5c3c\u74e6\u723e\u6587"_s)
+			$of(u"尼瓦爾文"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("yue"_s),
-			$of(u"\u5ee3\u6771\u8a71"_s)
+			$of(u"廣東話"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("key.ms"_s),
-			$of(u"\u5ea6\u91cf\u8861\u7cfb\u7d71"_s)
+			$of(u"度量衡系統"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Taml"_s),
@@ -681,31 +681,31 @@ $ObjectArray2* LocaleNames_zh_Hant_HK::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("gil"_s),
-			$of(u"\u5409\u723e\u4f2f\u7279\u6587"_s)
+			$of(u"吉爾伯特文"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("syr"_s),
-			$of(u"\u654d\u5229\u4e9e\u6587"_s)
+			$of(u"敍利亞文"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("053"_s),
-			$of(u"\u6fb3\u5927\u62c9\u897f\u4e9e"_s)
+			$of(u"澳大拉西亞"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kiu"_s),
-			$of(u"\u624e\u624e\u5176\u6587"_s)
+			$of(u"扎扎其文"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("crh"_s),
-			$of(u"\u514b\u91cc\u7c73\u4e9e\u97c3\u977c\u6587"_s)
+			$of(u"克里米亞韃靼文"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("GA"_s),
-			$of(u"\u52a0\u84ec"_s)
+			$of(u"加蓬"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("zgh"_s),
-			$of(u"\u6469\u6d1b\u54e5\u6a19\u6e96\u5854\u99ac\u9f4a\u683c\u7279\u6587"_s)
+			$of(u"摩洛哥標準塔馬齊格特文"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.tamldec"_s),
@@ -713,19 +713,19 @@ $ObjectArray2* LocaleNames_zh_Hant_HK::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("pcm"_s),
-			$of(u"\u5c3c\u65e5\u5229\u4e9e\u76ae\u6b3d\u6587"_s)
+			$of(u"尼日利亞皮欽文"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("GD"_s),
-			$of(u"\u683c\u6797\u7d0d\u9054"_s)
+			$of(u"格林納達"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("GE"_s),
-			$of(u"\u683c\u9b6f\u5409\u4e9e"_s)
+			$of(u"格魯吉亞"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("GH"_s),
-			$of(u"\u52a0\u7d0d"_s)
+			$of(u"加納"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("or"_s),
@@ -733,79 +733,79 @@ $ObjectArray2* LocaleNames_zh_Hant_HK::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("kri"_s),
-			$of(u"\u514b\u88e1\u5967\u723e\u6587"_s)
+			$of(u"克裡奧爾文"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("fa_AF"_s),
-			$of(u"\u9054\u5229\u6587"_s)
+			$of(u"達利文"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gl"_s),
-			$of(u"\u52a0\u91cc\u897f\u4e9e\u6587"_s)
+			$of(u"加里西亞文"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("crs"_s),
-			$of(u"\u585e\u820c\u723e\u514b\u91cc\u5967\u723e\u6cd5\u6587"_s)
+			$of(u"塞舌爾克里奧爾法文"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("GM"_s),
-			$of(u"\u5ca1\u6bd4\u4e9e"_s)
+			$of(u"岡比亞"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("061"_s),
-			$of(u"\u6ce2\u5229\u5c3c\u897f\u4e9e"_s)
+			$of(u"波利尼西亞"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Latn"_s),
-			$of(u"\u62c9\u4e01\u5b57\u6bcd"_s)
+			$of(u"拉丁字母"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.ca.ethiopic-amete-alem"_s),
-			$of(u"\u57c3\u585e\u4fc4\u6bd4\u4e9e\u963f\u7f8e\u5fb7\u963f\u840a\u59c6\u66c6"_s)
+			$of(u"埃塞俄比亞阿美德阿萊姆曆"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("GS"_s),
-			$of(u"\u5357\u4f50\u6cbb\u4e9e\u5cf6\u8207\u5357\u6851\u5a01\u5947\u7fa4\u5cf6"_s)
+			$of(u"南佐治亞島與南桑威奇群島"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("GT"_s),
-			$of(u"\u5371\u5730\u99ac\u62c9"_s)
+			$of(u"危地馬拉"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("jpr"_s),
-			$of(u"\u7336\u592a\u6ce2\u65af\u6587"_s)
+			$of(u"猶太波斯文"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mfe"_s),
-			$of(u"\u6bdb\u91cc\u88d8\u65af\u514b\u91cc\u5967\u723e\u6587"_s)
+			$of(u"毛里裘斯克里奧爾文"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("GW"_s),
-			$of(u"\u5e7e\u5167\u4e9e\u6bd4\u7d39"_s)
+			$of(u"幾內亞比紹"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("GY"_s),
-			$of(u"\u572d\u4e9e\u90a3"_s)
+			$of(u"圭亞那"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Guru"_s),
-			$of(u"\u53e4\u6728\u57fa\u6587"_s)
+			$of(u"古木基文"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("en_GB"_s),
-			$of(u"\u82f1\u570b\u82f1\u6587"_s)
+			$of(u"英國英文"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("PF"_s),
-			$of(u"\u6cd5\u5c6c\u6ce2\u5229\u5c3c\u897f\u4e9e"_s)
+			$of(u"法屬波利尼西亞"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("PG"_s),
-			$of(u"\u5df4\u5e03\u4e9e\u65b0\u5e7e\u5167\u4e9e"_s)
+			$of(u"巴布亞新幾內亞"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("PN"_s),
-			$of(u"\u76ae\u7279\u51f1\u6069\u5cf6"_s)
+			$of(u"皮特凱恩島"_s)
 		})
 	}));
 	return data;

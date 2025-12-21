@@ -60,8 +60,8 @@ $ObjectArray2* FormatData_es_BO::getContents() {
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
+				u"‰"_s,
+				u"∞"_s,
 				"NaN"_s,
 				""_s,
 				""_s
@@ -71,9 +71,9 @@ $ObjectArray2* FormatData_es_BO::getContents() {
 			$of("latn.NumberPatterns"_s),
 			$of($$new($StringArray, {
 				"#,##0.###"_s,
-				u"\u00a4#,##0.00"_s,
-				u"#,##0\u00a0%"_s,
-				u"\u00a4#,##0.00"_s
+				u"¤#,##0.00"_s,
+				u"#,##0 %"_s,
+				u"¤#,##0.00"_s
 			}))
 		})
 	}));

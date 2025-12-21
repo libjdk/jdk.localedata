@@ -61,7 +61,7 @@ $ObjectArray2* TimeZoneNames_ig::getContents() {
 	$var($StringArray, Cook, $new($StringArray, {
 		"Oge Izugbe Cook Islands"_s,
 		""_s,
-		u"Oge \u1ecckara Okpom\u1ecdk\u1ee5 Cook Islands"_s,
+		u"Oge Ọkara Okpomọkụ Cook Islands"_s,
 		""_s,
 		"Oge Cook Islands"_s,
 		""_s
@@ -77,7 +77,7 @@ $ObjectArray2* TimeZoneNames_ig::getContents() {
 	$var($StringArray, Fiji, $new($StringArray, {
 		"Oge Izugbe Fiji"_s,
 		""_s,
-		u"Oge Okpom\u1ecdk\u1ee5 Fiji"_s,
+		u"Oge Okpomọkụ Fiji"_s,
 		""_s,
 		"Oge Fiji"_s,
 		""_s
@@ -93,7 +93,7 @@ $ObjectArray2* TimeZoneNames_ig::getContents() {
 	$var($StringArray, Hovd, $new($StringArray, {
 		"Oge Izugbe Hovd"_s,
 		""_s,
-		u"Oge Okpom\u1ecdk\u1ee5 Hovd"_s,
+		u"Oge Okpomọkụ Hovd"_s,
 		""_s,
 		"Oge Hovd"_s,
 		""_s
@@ -117,7 +117,7 @@ $ObjectArray2* TimeZoneNames_ig::getContents() {
 	$var($StringArray, Omsk, $new($StringArray, {
 		"Oge Izugbe Omsk"_s,
 		""_s,
-		u"Oge Okpom\u1ecdk\u1ee5 Omsk"_s,
+		u"Oge Okpomọkụ Omsk"_s,
 		""_s,
 		"Oge Omsk"_s,
 		""_s
@@ -125,7 +125,7 @@ $ObjectArray2* TimeZoneNames_ig::getContents() {
 	$var($StringArray, Peru, $new($StringArray, {
 		"Oge Izugbe Peru"_s,
 		""_s,
-		u"Oge Okpom\u1ecdk\u1ee5 Peru"_s,
+		u"Oge Okpomọkụ Peru"_s,
 		""_s,
 		"Oge Peru"_s,
 		""_s
@@ -149,7 +149,7 @@ $ObjectArray2* TimeZoneNames_ig::getContents() {
 	$var($StringArray, Chile, $new($StringArray, {
 		"Oge Izugbe Chile"_s,
 		""_s,
-		u"Oge Okpom\u1ecdk\u1ee5 Chile"_s,
+		u"Oge Okpomọkụ Chile"_s,
 		""_s,
 		"Oge Chile"_s,
 		""_s
@@ -245,7 +245,7 @@ $ObjectArray2* TimeZoneNames_ig::getContents() {
 	$var($StringArray, Tonga, $new($StringArray, {
 		"Oge Izugbe Tonga"_s,
 		""_s,
-		u"Oge Okpom\u1ecdk\u1ee5 Tonga"_s,
+		u"Oge Okpomọkụ Tonga"_s,
 		""_s,
 		"Oge Tonga"_s,
 		""_s
@@ -261,7 +261,7 @@ $ObjectArray2* TimeZoneNames_ig::getContents() {
 	$var($StringArray, Amazon, $new($StringArray, {
 		"Oge Izugbe Amazon"_s,
 		""_s,
-		u"Oge Okpom\u1ecdk\u1ee5 Amazon"_s,
+		u"Oge Okpomọkụ Amazon"_s,
 		""_s,
 		"Oge Amazon"_s,
 		""_s
@@ -269,7 +269,7 @@ $ObjectArray2* TimeZoneNames_ig::getContents() {
 	$var($StringArray, Azores, $new($StringArray, {
 		"Oge Izugbe Azores"_s,
 		""_s,
-		u"Oge Okpom\u1ecdk\u1ee5 Azores"_s,
+		u"Oge Okpomọkụ Azores"_s,
 		""_s,
 		"Oge Azores"_s,
 		""_s
@@ -291,11 +291,11 @@ $ObjectArray2* TimeZoneNames_ig::getContents() {
 		""_s
 	}));
 	$var($StringArray, Easter, $new($StringArray, {
-		u"Oge Izugbe Mpaghara \u1eccw\u1ee5wa Anyanw\u1ee5 Island"_s,
+		u"Oge Izugbe Mpaghara Ọwụwa Anyanwụ Island"_s,
 		""_s,
-		u"Oge Okpom\u1ecdk\u1ee5 Mpaghara \u1eccw\u1ee5wa Anyanw\u1ee5 Island"_s,
+		u"Oge Okpomọkụ Mpaghara Ọwụwa Anyanwụ Island"_s,
 		""_s,
-		u"Oge Mpaghara \u1eccw\u1ee5wa Anyanw\u1ee5 Island"_s,
+		u"Oge Mpaghara Ọwụwa Anyanwụ Island"_s,
 		""_s
 	}));
 	$var($StringArray, Guyana, $new($StringArray, {
@@ -333,7 +333,7 @@ $ObjectArray2* TimeZoneNames_ig::getContents() {
 	$var($StringArray, Moscow, $new($StringArray, {
 		"Oge Izugbe Moscow"_s,
 		""_s,
-		u"Oge Okpom\u1ecdk\u1ee5 Moscow"_s,
+		u"Oge Okpomọkụ Moscow"_s,
 		""_s,
 		"Oge Moscow"_s,
 		""_s
@@ -397,7 +397,7 @@ $ObjectArray2* TimeZoneNames_ig::getContents() {
 	$var($StringArray, Armenia, $new($StringArray, {
 		"Oge Izugbe Armenia"_s,
 		""_s,
-		u"Oge Okpom\u1ecdk\u1ee5 Armenia"_s,
+		u"Oge Okpomọkụ Armenia"_s,
 		""_s,
 		"Oge Armenia"_s,
 		""_s
@@ -419,7 +419,7 @@ $ObjectArray2* TimeZoneNames_ig::getContents() {
 		""_s
 	}));
 	$var($StringArray, ETC_UTC, $new($StringArray, {
-		u"Nhazi Oge \u1ee4wa Niile"_s,
+		u"Nhazi Oge Ụwa Niile"_s,
 		"UTC"_s,
 		""_s,
 		""_s,
@@ -445,7 +445,7 @@ $ObjectArray2* TimeZoneNames_ig::getContents() {
 	$var($StringArray, Georgia, $new($StringArray, {
 		"Oge Izugbe Georgia"_s,
 		""_s,
-		u"Oge Okpom\u1ecdk\u1ee5 Georgia"_s,
+		u"Oge Okpomọkụ Georgia"_s,
 		""_s,
 		"Oge Georgia"_s,
 		""_s
@@ -453,7 +453,7 @@ $ObjectArray2* TimeZoneNames_ig::getContents() {
 	$var($StringArray, Irkutsk, $new($StringArray, {
 		"Oge Izugbe Irkutsk"_s,
 		""_s,
-		u"Oge Okpom\u1ecdk\u1ee5 Irkutsk"_s,
+		u"Oge Okpomọkụ Irkutsk"_s,
 		""_s,
 		"Oge Irkutsk"_s,
 		""_s
@@ -461,7 +461,7 @@ $ObjectArray2* TimeZoneNames_ig::getContents() {
 	$var($StringArray, Magadan, $new($StringArray, {
 		"Oge Izugbe Magadan"_s,
 		""_s,
-		u"Oge Okpom\u1ecdk\u1ee5 Magadan"_s,
+		u"Oge Okpomọkụ Magadan"_s,
 		""_s,
 		"Oge Magadan"_s,
 		""_s
@@ -477,7 +477,7 @@ $ObjectArray2* TimeZoneNames_ig::getContents() {
 	$var($StringArray, Norfolk, $new($StringArray, {
 		"Oge Izugbe Norfolk Island"_s,
 		""_s,
-		u"Oge Okpom\u1ecdk\u1ee5 Norfolk Island"_s,
+		u"Oge Okpomọkụ Norfolk Island"_s,
 		""_s,
 		"Oge Norfolk Island"_s,
 		""_s
@@ -485,13 +485,13 @@ $ObjectArray2* TimeZoneNames_ig::getContents() {
 	$var($StringArray, Noronha, $new($StringArray, {
 		"Oge Izugbe Fernando de Noronha"_s,
 		""_s,
-		u"Oge Okpom\u1ecdk\u1ee5 Fernando de Noronha"_s,
+		u"Oge Okpomọkụ Fernando de Noronha"_s,
 		""_s,
 		"Oge Fernando de Noronha"_s,
 		""_s
 	}));
 	$var($StringArray, Reunion, $new($StringArray, {
-		u"Oge R\u00e9union"_s,
+		u"Oge Réunion"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -525,7 +525,7 @@ $ObjectArray2* TimeZoneNames_ig::getContents() {
 	$var($StringArray, Uruguay, $new($StringArray, {
 		"Oge Izugbe Uruguay"_s,
 		""_s,
-		u"Oge Okpom\u1ecdk\u1ee5 Uruguay"_s,
+		u"Oge Okpomọkụ Uruguay"_s,
 		""_s,
 		"Oge Uruguay"_s,
 		""_s
@@ -533,7 +533,7 @@ $ObjectArray2* TimeZoneNames_ig::getContents() {
 	$var($StringArray, Vanuatu, $new($StringArray, {
 		"Oge Izugbe Vanuatu"_s,
 		""_s,
-		u"Oge Okpom\u1ecdk\u1ee5 Vanuatu"_s,
+		u"Oge Okpomọkụ Vanuatu"_s,
 		""_s,
 		"Oge Vanuatu"_s,
 		""_s
@@ -541,7 +541,7 @@ $ObjectArray2* TimeZoneNames_ig::getContents() {
 	$var($StringArray, Yakutsk, $new($StringArray, {
 		"Oge Izugbe Yakutsk"_s,
 		""_s,
-		u"Oge Okpom\u1ecdk\u1ee5 Yakutsk"_s,
+		u"Oge Okpomọkụ Yakutsk"_s,
 		""_s,
 		"Oge Yakutsk"_s,
 		""_s
@@ -557,7 +557,7 @@ $ObjectArray2* TimeZoneNames_ig::getContents() {
 	$var($StringArray, Brasilia, $new($StringArray, {
 		"Oge Izugbe Brasilia"_s,
 		""_s,
-		u"Oge Okpom\u1ecdk\u1ee5 Brasilia"_s,
+		u"Oge Okpomọkụ Brasilia"_s,
 		""_s,
 		"Oge Brasilia"_s,
 		""_s
@@ -573,7 +573,7 @@ $ObjectArray2* TimeZoneNames_ig::getContents() {
 	$var($StringArray, Colombia, $new($StringArray, {
 		"Oge Izugbe Columbia"_s,
 		""_s,
-		u"Oge Okpom\u1ecdk\u1ee5 Columbia"_s,
+		u"Oge Okpomọkụ Columbia"_s,
 		""_s,
 		"Oge Columbia"_s,
 		""_s
@@ -581,7 +581,7 @@ $ObjectArray2* TimeZoneNames_ig::getContents() {
 	$var($StringArray, Falkland, $new($StringArray, {
 		"Oge Izugbe Falkland Islands"_s,
 		""_s,
-		u"Oge Okpom\u1ecdk\u1ee5 Falkland Islands"_s,
+		u"Oge Okpomọkụ Falkland Islands"_s,
 		""_s,
 		"Oge Falkland Islands"_s,
 		""_s
@@ -605,7 +605,7 @@ $ObjectArray2* TimeZoneNames_ig::getContents() {
 	$var($StringArray, Mongolia, $new($StringArray, {
 		"Oge Izugbe Ulaanbaatar"_s,
 		""_s,
-		u"Oge Okpom\u1ecdk\u1ee5 Ulaanbaatar"_s,
+		u"Oge Okpomọkụ Ulaanbaatar"_s,
 		""_s,
 		"Oge Ulaanbaatar"_s,
 		""_s
@@ -613,7 +613,7 @@ $ObjectArray2* TimeZoneNames_ig::getContents() {
 	$var($StringArray, Pakistan, $new($StringArray, {
 		"Oge Izugbe Pakistan"_s,
 		""_s,
-		u"Oge Okpom\u1ecdk\u1ee5 Pakistan"_s,
+		u"Oge Okpomọkụ Pakistan"_s,
 		""_s,
 		"Oge Pakistan"_s,
 		""_s
@@ -621,7 +621,7 @@ $ObjectArray2* TimeZoneNames_ig::getContents() {
 	$var($StringArray, Paraguay, $new($StringArray, {
 		"Oge Izugbe Paraguay"_s,
 		""_s,
-		u"Oge Okpom\u1ecdk\u1ee5 Paraguay"_s,
+		u"Oge Okpomọkụ Paraguay"_s,
 		""_s,
 		"Oge Paraguay"_s,
 		""_s
@@ -637,7 +637,7 @@ $ObjectArray2* TimeZoneNames_ig::getContents() {
 	$var($StringArray, Sakhalin, $new($StringArray, {
 		"Oge Izugbe Sakhalin"_s,
 		""_s,
-		u"Oge Okpom\u1ecdk\u1ee5 Sakhalin"_s,
+		u"Oge Okpomọkụ Sakhalin"_s,
 		""_s,
 		"Oge Sakhalin"_s,
 		""_s
@@ -653,7 +653,7 @@ $ObjectArray2* TimeZoneNames_ig::getContents() {
 	$var($StringArray, Argentina, $new($StringArray, {
 		"Oge Izugbe Argentina"_s,
 		""_s,
-		u"Oge Okpom\u1ecdk\u1ee5 Argentina"_s,
+		u"Oge Okpomọkụ Argentina"_s,
 		""_s,
 		"Oge Argentina"_s,
 		""_s
@@ -677,7 +677,7 @@ $ObjectArray2* TimeZoneNames_ig::getContents() {
 	$var($StringArray, Hong_Kong, $new($StringArray, {
 		"Oge Izugbe Hong Kong"_s,
 		""_s,
-		u"Oge Okpom\u1ecdk\u1ee5 Hong Kong"_s,
+		u"Oge Okpomọkụ Hong Kong"_s,
 		""_s,
 		"Oge Hong Kong"_s,
 		""_s
@@ -717,7 +717,7 @@ $ObjectArray2* TimeZoneNames_ig::getContents() {
 	$var($StringArray, Mauritius, $new($StringArray, {
 		"Oge Izugbe Mauritius"_s,
 		""_s,
-		u"Oge Okpom\u1ecdk\u1ee5 Mauritius"_s,
+		u"Oge Okpomọkụ Mauritius"_s,
 		""_s,
 		"Oge Mauritius"_s,
 		""_s
@@ -741,7 +741,7 @@ $ObjectArray2* TimeZoneNames_ig::getContents() {
 	$var($StringArray, Volgograd, $new($StringArray, {
 		"Oge Izugbe Volgograd"_s,
 		""_s,
-		u"Oge Okpom\u1ecdk\u1ee5 Volgograd"_s,
+		u"Oge Okpomọkụ Volgograd"_s,
 		""_s,
 		"Oge Volgograd"_s,
 		""_s
@@ -749,7 +749,7 @@ $ObjectArray2* TimeZoneNames_ig::getContents() {
 	$var($StringArray, Azerbaijan, $new($StringArray, {
 		"Oge Izugbe Azerbaijan"_s,
 		""_s,
-		u"Oge Okpom\u1ecdk\u1ee5 Azerbaijan"_s,
+		u"Oge Okpomọkụ Azerbaijan"_s,
 		""_s,
 		"Oge Azerbaijan"_s,
 		""_s
@@ -757,7 +757,7 @@ $ObjectArray2* TimeZoneNames_ig::getContents() {
 	$var($StringArray, Bangladesh, $new($StringArray, {
 		"Oge Izugbe Bangladesh"_s,
 		""_s,
-		u"Oge Okpom\u1ecdk\u1ee5 Bangladesh"_s,
+		u"Oge Okpomọkụ Bangladesh"_s,
 		""_s,
 		"Oge Bangladesh"_s,
 		""_s
@@ -765,13 +765,13 @@ $ObjectArray2* TimeZoneNames_ig::getContents() {
 	$var($StringArray, Cape_Verde, $new($StringArray, {
 		"Oge Izugbe Cape Verde"_s,
 		""_s,
-		u"Oge Okpom\u1ecdk\u1ee5 Cape Verde"_s,
+		u"Oge Okpomọkụ Cape Verde"_s,
 		""_s,
 		"Oge Cape Verde"_s,
 		""_s
 	}));
 	$var($StringArray, East_Timor, $new($StringArray, {
-		u"Oge Mpaghara \u1eccw\u1ee5wa Anyanw\u1ee5 Timor"_s,
+		u"Oge Mpaghara Ọwụwa Anyanwụ Timor"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -797,7 +797,7 @@ $ObjectArray2* TimeZoneNames_ig::getContents() {
 	$var($StringArray, Uzbekistan, $new($StringArray, {
 		"Oge Izugbe Uzbekist"_s,
 		""_s,
-		u"Oge Okpom\u1ecdk\u1ee5 Uzbekist"_s,
+		u"Oge Okpomọkụ Uzbekist"_s,
 		""_s,
 		"Oge Uzbekist"_s,
 		""_s
@@ -813,7 +813,7 @@ $ObjectArray2* TimeZoneNames_ig::getContents() {
 	$var($StringArray, Krasnoyarsk, $new($StringArray, {
 		"Oge Izugbe Krasnoyarsk"_s,
 		""_s,
-		u"Oge Okpom\u1ecdk\u1ee5 Krasnoyarsk"_s,
+		u"Oge Okpomọkụ Krasnoyarsk"_s,
 		""_s,
 		"Oge Krasnoyarsk"_s,
 		""_s
@@ -829,7 +829,7 @@ $ObjectArray2* TimeZoneNames_ig::getContents() {
 	$var($StringArray, Novosibirsk, $new($StringArray, {
 		"Oge Izugbe Novosibirsk"_s,
 		""_s,
-		u"Oge Okpom\u1ecdk\u1ee5 Novosibirsk"_s,
+		u"Oge Okpomọkụ Novosibirsk"_s,
 		""_s,
 		"Oge Novosibirsk"_s,
 		""_s
@@ -837,7 +837,7 @@ $ObjectArray2* TimeZoneNames_ig::getContents() {
 	$var($StringArray, Philippines, $new($StringArray, {
 		"Oge Izugbe Philippine"_s,
 		""_s,
-		u"Oge Okpom\u1ecdk\u1ee5 Philippine"_s,
+		u"Oge Okpomọkụ Philippine"_s,
 		""_s,
 		"Oge Philippine"_s,
 		""_s
@@ -845,7 +845,7 @@ $ObjectArray2* TimeZoneNames_ig::getContents() {
 	$var($StringArray, Vladivostok, $new($StringArray, {
 		"Oge Izugbe Vladivostok"_s,
 		""_s,
-		u"Oge Okpom\u1ecdk\u1ee5 Vladivostok"_s,
+		u"Oge Okpomọkụ Vladivostok"_s,
 		""_s,
 		"Oge Vladivostok"_s,
 		""_s
@@ -877,7 +877,7 @@ $ObjectArray2* TimeZoneNames_ig::getContents() {
 	$var($StringArray, Turkmenistan, $new($StringArray, {
 		"Oge Izugbe Turkmenist"_s,
 		""_s,
-		u"Oge Okpom\u1ecdk\u1ee5 Turkmenist"_s,
+		u"Oge Okpomọkụ Turkmenist"_s,
 		""_s,
 		"Oge Turkmenist"_s,
 		""_s
@@ -893,7 +893,7 @@ $ObjectArray2* TimeZoneNames_ig::getContents() {
 	$var($StringArray, New_Caledonia, $new($StringArray, {
 		"Oge Izugbe New Caledonia"_s,
 		""_s,
-		u"Oge Okpom\u1ecdk\u1ee5 New Caledonia"_s,
+		u"Oge Okpomọkụ New Caledonia"_s,
 		""_s,
 		"Oge New Caledonia"_s,
 		""_s
@@ -909,13 +909,13 @@ $ObjectArray2* TimeZoneNames_ig::getContents() {
 	$var($StringArray, Yekaterinburg, $new($StringArray, {
 		"Oge Izugbe Yekaterinburg"_s,
 		""_s,
-		u"Oge Okpom\u1ecdk\u1ee5 Yekaterinburg"_s,
+		u"Oge Okpomọkụ Yekaterinburg"_s,
 		""_s,
 		"Oge Yekaterinburg"_s,
 		""_s
 	}));
 	$var($StringArray, Africa_Central, $new($StringArray, {
-		u"Oge Etiti Afr\u1ecbka"_s,
+		u"Oge Etiti Afrịka"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -923,7 +923,7 @@ $ObjectArray2* TimeZoneNames_ig::getContents() {
 		""_s
 	}));
 	$var($StringArray, Africa_Eastern, $new($StringArray, {
-		u"Oge Mpaghara \u1eccw\u1ee5wa Anyanw\u1ee5 Afr\u1ecbka"_s,
+		u"Oge Mpaghara Ọwụwa Anyanwụ Afrịka"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -931,15 +931,15 @@ $ObjectArray2* TimeZoneNames_ig::getContents() {
 		""_s
 	}));
 	$var($StringArray, Africa_Western, $new($StringArray, {
-		u"Oge Izugbe Mpaghara \u1eccd\u1ecbda Anyanw\u1ee5 Afr\u1ecbka"_s,
+		u"Oge Izugbe Mpaghara Ọdịda Anyanwụ Afrịka"_s,
 		""_s,
-		u"Oge Okpom\u1ecdk\u1ee5 Mpaghara \u1eccd\u1ecbda Anyanw\u1ee5 Afr\u1ecbka"_s,
+		u"Oge Okpomọkụ Mpaghara Ọdịda Anyanwụ Afrịka"_s,
 		""_s,
-		u"Oge Mpaghara \u1eccd\u1ecbda Anyanw\u1ee5 Afr\u1ecbka"_s,
+		u"Oge Mpaghara Ọdịda Anyanwụ Afrịka"_s,
 		""_s
 	}));
 	$var($StringArray, DumontDUrville, $new($StringArray, {
-		u"Oge Dumont-d\u2019Urville"_s,
+		u"Oge Dumont-d’Urville"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -949,25 +949,25 @@ $ObjectArray2* TimeZoneNames_ig::getContents() {
 	$var($StringArray, Europe_Central, $new($StringArray, {
 		"Oge Izugbe Mpaghara Etiti Europe"_s,
 		""_s,
-		u"Oge Okpom\u1ecdk\u1ee5 Mpaghara Etiti Europe"_s,
+		u"Oge Okpomọkụ Mpaghara Etiti Europe"_s,
 		""_s,
 		"Oge Mpaghara Etiti Europe"_s,
 		""_s
 	}));
 	$var($StringArray, Europe_Eastern, $new($StringArray, {
-		u"Oge Izugbe Mpaghara \u1eccw\u1ee5wa Anyanw\u1ee5 Europe"_s,
+		u"Oge Izugbe Mpaghara Ọwụwa Anyanwụ Europe"_s,
 		""_s,
-		u"Oge Okpom\u1ecdk\u1ee5 Mpaghara \u1eccw\u1ee5wa Anyanw\u1ee5 Europe"_s,
+		u"Oge Okpomọkụ Mpaghara Ọwụwa Anyanwụ Europe"_s,
 		""_s,
-		u"Oge Mpaghara \u1eccw\u1ee5wa Anyanw\u1ee5 Europe"_s,
+		u"Oge Mpaghara Ọwụwa Anyanwụ Europe"_s,
 		""_s
 	}));
 	$var($StringArray, Europe_Western, $new($StringArray, {
-		u"Oge Izugbe Mpaghara \u1eccd\u1ecbda Anyanw\u1ee5 Europe"_s,
+		u"Oge Izugbe Mpaghara Ọdịda Anyanwụ Europe"_s,
 		""_s,
-		u"Oge Okpom\u1ecdk\u1ee5 Mpaghara \u1eccd\u1ecbda Anyanw\u1ee5 Europe"_s,
+		u"Oge Okpomọkụ Mpaghara Ọdịda Anyanwụ Europe"_s,
 		""_s,
-		u"Oge Mpaghara \u1eccd\u1ecbda Anyanw\u1ee5 Europe"_s,
+		u"Oge Mpaghara Ọdịda Anyanwụ Europe"_s,
 		""_s
 	}));
 	$var($StringArray, Mexico_Pacific, $new($StringArray, {
@@ -979,7 +979,7 @@ $ObjectArray2* TimeZoneNames_ig::getContents() {
 		""_s
 	}));
 	$var($StringArray, Africa_Southern, $new($StringArray, {
-		u"Oge Izugbe Mpaghara Mgbada Ugwu Afr\u1ecbka"_s,
+		u"Oge Izugbe Mpaghara Mgbada Ugwu Afrịka"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -995,11 +995,11 @@ $ObjectArray2* TimeZoneNames_ig::getContents() {
 		""_s
 	}));
 	$var($StringArray, America_Eastern, $new($StringArray, {
-		u"Oge Izugbe Mpaghara \u1eccw\u1ee5wa Anyanw\u1ee5"_s,
+		u"Oge Izugbe Mpaghara Ọwụwa Anyanwụ"_s,
 		""_s,
-		u"Oge Ihe Mpaghara \u1eccw\u1ee5wa Anyanw\u1ee5"_s,
+		u"Oge Ihe Mpaghara Ọwụwa Anyanwụ"_s,
 		""_s,
-		u"Oge Mpaghara \u1eccw\u1ee5wa Anyanw\u1ee5"_s,
+		u"Oge Mpaghara Ọwụwa Anyanwụ"_s,
 		""_s
 	}));
 	$var($StringArray, America_Pacific, $new($StringArray, {
@@ -1091,35 +1091,35 @@ $ObjectArray2* TimeZoneNames_ig::getContents() {
 		""_s
 	}));
 	$var($StringArray, Australia_Eastern, $new($StringArray, {
-		u"Oge Izugbe Mpaghara \u1eccw\u1ee5wa Anyanw\u1ee5 Australia"_s,
+		u"Oge Izugbe Mpaghara Ọwụwa Anyanwụ Australia"_s,
 		""_s,
-		u"Oge Ihe Mpaghara \u1eccw\u1ee5wa Anyanw\u1ee5 Australia"_s,
+		u"Oge Ihe Mpaghara Ọwụwa Anyanwụ Australia"_s,
 		""_s,
-		u"Oge Mpaghara \u1eccw\u1ee5wa Anyanw\u1ee5 Australia"_s,
+		u"Oge Mpaghara Ọwụwa Anyanwụ Australia"_s,
 		""_s
 	}));
 	$var($StringArray, Australia_Western, $new($StringArray, {
-		u"Oge Izugbe Mpaghara \u1eccd\u1ecbda Anyanw\u1ee5 Australia"_s,
+		u"Oge Izugbe Mpaghara Ọdịda Anyanwụ Australia"_s,
 		""_s,
-		u"Oge Ihe Mpaghara \u1eccd\u1ecbda Anyanw\u1ee5 Australia"_s,
+		u"Oge Ihe Mpaghara Ọdịda Anyanwụ Australia"_s,
 		""_s,
-		u"Oge Mpaghara \u1eccd\u1ecbda Anyanw\u1ee5 Australia"_s,
+		u"Oge Mpaghara Ọdịda Anyanwụ Australia"_s,
 		""_s
 	}));
 	$var($StringArray, Greenland_Eastern, $new($StringArray, {
-		u"Oge Izugbe Mpaghara \u1eccw\u1ee5wa Anyanw\u1ee5 Greenland"_s,
+		u"Oge Izugbe Mpaghara Ọwụwa Anyanwụ Greenland"_s,
 		""_s,
-		u"Oge Okpom\u1ecdk\u1ee5 Mpaghara \u1eccw\u1ee5wa Anyanw\u1ee5 Greenland"_s,
+		u"Oge Okpomọkụ Mpaghara Ọwụwa Anyanwụ Greenland"_s,
 		""_s,
-		u"Oge Mpaghara \u1eccw\u1ee5wa Anyanw\u1ee5 Greenland"_s,
+		u"Oge Mpaghara Ọwụwa Anyanwụ Greenland"_s,
 		""_s
 	}));
 	$var($StringArray, Greenland_Western, $new($StringArray, {
-		u"Oge Izugbe Mpaghara \u1eccd\u1ecbda Anyanw\u1ee5 Greenland"_s,
+		u"Oge Izugbe Mpaghara Ọdịda Anyanwụ Greenland"_s,
 		""_s,
-		u"Oge Okpom\u1ecdk\u1ee5 Mpaghara \u1eccd\u1ecbda Anyanw\u1ee5 Greenland"_s,
+		u"Oge Okpomọkụ Mpaghara Ọdịda Anyanwụ Greenland"_s,
 		""_s,
-		u"Oge Mpaghara \u1eccd\u1ecbda Anyanw\u1ee5 Greenland"_s,
+		u"Oge Mpaghara Ọdịda Anyanwụ Greenland"_s,
 		""_s
 	}));
 	$var($StringArray, Indonesia_Central, $new($StringArray, {
@@ -1131,7 +1131,7 @@ $ObjectArray2* TimeZoneNames_ig::getContents() {
 		""_s
 	}));
 	$var($StringArray, Indonesia_Eastern, $new($StringArray, {
-		u"Oge Mpaghara \u1eccw\u1ee5wa Anyanw\u1ee5 Indonesia"_s,
+		u"Oge Mpaghara Ọwụwa Anyanwụ Indonesia"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -1139,7 +1139,7 @@ $ObjectArray2* TimeZoneNames_ig::getContents() {
 		""_s
 	}));
 	$var($StringArray, Indonesia_Western, $new($StringArray, {
-		u"Oge Mpaghara \u1eccd\u1ecbda Anyanw\u1ee5 Indonesia"_s,
+		u"Oge Mpaghara Ọdịda Anyanwụ Indonesia"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -1147,7 +1147,7 @@ $ObjectArray2* TimeZoneNames_ig::getContents() {
 		""_s
 	}));
 	$var($StringArray, Kazakhstan_Eastern, $new($StringArray, {
-		u"Oge Mpaghara \u1eccw\u1ee5wa Anyanw\u1ee5 Kazakhstan"_s,
+		u"Oge Mpaghara Ọwụwa Anyanwụ Kazakhstan"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -1155,7 +1155,7 @@ $ObjectArray2* TimeZoneNames_ig::getContents() {
 		""_s
 	}));
 	$var($StringArray, Kazakhstan_Western, $new($StringArray, {
-		u"Oge Mpaghara \u1eccd\u1ecbda Anyanw\u1ee5 Kazakhstan"_s,
+		u"Oge Mpaghara Ọdịda Anyanwụ Kazakhstan"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -1163,11 +1163,11 @@ $ObjectArray2* TimeZoneNames_ig::getContents() {
 		""_s
 	}));
 	$var($StringArray, Australia_CentralWestern, $new($StringArray, {
-		u"Oge Izugbe Mpaghara \u1eccd\u1ecbda Anyanw\u1ee5 Etiti Australia"_s,
+		u"Oge Izugbe Mpaghara Ọdịda Anyanwụ Etiti Australia"_s,
 		""_s,
-		u"Oge Ihe Mpaghara \u1eccd\u1ecbda Anyanw\u1ee5 Etiti Australia"_s,
+		u"Oge Ihe Mpaghara Ọdịda Anyanwụ Etiti Australia"_s,
 		""_s,
-		u"Oge Mpaghara \u1eccd\u1ecbda Anyanw\u1ee5 Etiti Australia"_s,
+		u"Oge Mpaghara Ọdịda Anyanwụ Etiti Australia"_s,
 		""_s
 	}));
 	$var($ObjectArray2, data, $new($ObjectArray2, {
@@ -1812,7 +1812,7 @@ $ObjectArray2* TimeZoneNames_ig::getContents() {
 			$of($$new($StringArray, {
 				"Oge Mpaghara Greemwich Mean"_s,
 				""_s,
-				u"Oge Okpom\u1ecdk\u1ee5 Ireland"_s,
+				u"Oge Okpomọkụ Ireland"_s,
 				""_s,
 				""_s,
 				""_s
@@ -1831,7 +1831,7 @@ $ObjectArray2* TimeZoneNames_ig::getContents() {
 			$of($$new($StringArray, {
 				"Oge Mpaghara Greemwich Mean"_s,
 				""_s,
-				u"Oge Okpom\u1ecdk\u1ee5 Britain"_s,
+				u"Oge Okpomọkụ Britain"_s,
 				""_s,
 				""_s,
 				""_s
@@ -2042,7 +2042,7 @@ $ObjectArray2* TimeZoneNames_ig::getContents() {
 			$of($$new($StringArray, {
 				"Oge Mpaghara Greemwich Mean"_s,
 				""_s,
-				u"Oge Okpom\u1ecdk\u1ee5 Britain"_s,
+				u"Oge Okpomọkụ Britain"_s,
 				""_s,
 				""_s,
 				""_s
@@ -3014,7 +3014,7 @@ $ObjectArray2* TimeZoneNames_ig::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Etc/Unknown"_s),
-			$of(u"Obodo Amagh\u1ecb"_s)
+			$of(u"Obodo Amaghị"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("America/Argentina/Rio_Gallegos"_s),

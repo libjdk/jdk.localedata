@@ -39,20 +39,20 @@ void JavaTimeSupplementary_el::init$() {
 $ObjectArray2* JavaTimeSupplementary_el::getContents() {
 	$useLocalCurrentObjectStackCache();
 	$var($StringArray, sharedQuarterAbbreviations, $new($StringArray, {
-		u"\u03a41"_s,
-		u"\u03a42"_s,
-		u"\u03a43"_s,
-		u"\u03a44"_s
+		u"Τ1"_s,
+		u"Τ2"_s,
+		u"Τ3"_s,
+		u"Τ4"_s
 	}));
 	$var($StringArray, sharedQuarterNames, $new($StringArray, {
-		u"1\u03bf \u03c4\u03c1\u03af\u03bc\u03b7\u03bd\u03bf"_s,
-		u"2\u03bf \u03c4\u03c1\u03af\u03bc\u03b7\u03bd\u03bf"_s,
-		u"3\u03bf \u03c4\u03c1\u03af\u03bc\u03b7\u03bd\u03bf"_s,
-		u"4\u03bf \u03c4\u03c1\u03af\u03bc\u03b7\u03bd\u03bf"_s
+		u"1ο τρίμηνο"_s,
+		u"2ο τρίμηνο"_s,
+		u"3ο τρίμηνο"_s,
+		u"4ο τρίμηνο"_s
 	}));
 	$var($StringArray, sharedAmPmMarkers, $new($StringArray, {
-		u"\u03c0.\u03bc."_s,
-		u"\u03bc.\u03bc."_s
+		u"π.μ."_s,
+		u"μ.μ."_s
 	}));
 	$var($StringArray, sharedDatePatterns, $new($StringArray, {
 		"EEEE, d MMMM y GGGG"_s,
@@ -61,31 +61,31 @@ $ObjectArray2* JavaTimeSupplementary_el::getContents() {
 		"d/M/y G"_s
 	}));
 	$var($StringArray, sharedDayAbbreviations, $new($StringArray, {
-		u"\u039a\u03c5\u03c1"_s,
-		u"\u0394\u03b5\u03c5"_s,
-		u"\u03a4\u03c1\u03af"_s,
-		u"\u03a4\u03b5\u03c4"_s,
-		u"\u03a0\u03ad\u03bc"_s,
-		u"\u03a0\u03b1\u03c1"_s,
-		u"\u03a3\u03ac\u03b2"_s
+		u"Κυρ"_s,
+		u"Δευ"_s,
+		u"Τρί"_s,
+		u"Τετ"_s,
+		u"Πέμ"_s,
+		u"Παρ"_s,
+		u"Σάβ"_s
 	}));
 	$var($StringArray, sharedDayNames, $new($StringArray, {
-		u"\u039a\u03c5\u03c1\u03b9\u03b1\u03ba\u03ae"_s,
-		u"\u0394\u03b5\u03c5\u03c4\u03ad\u03c1\u03b1"_s,
-		u"\u03a4\u03c1\u03af\u03c4\u03b7"_s,
-		u"\u03a4\u03b5\u03c4\u03ac\u03c1\u03c4\u03b7"_s,
-		u"\u03a0\u03ad\u03bc\u03c0\u03c4\u03b7"_s,
-		u"\u03a0\u03b1\u03c1\u03b1\u03c3\u03ba\u03b5\u03c5\u03ae"_s,
-		u"\u03a3\u03ac\u03b2\u03b2\u03b1\u03c4\u03bf"_s
+		u"Κυριακή"_s,
+		u"Δευτέρα"_s,
+		u"Τρίτη"_s,
+		u"Τετάρτη"_s,
+		u"Πέμπτη"_s,
+		u"Παρασκευή"_s,
+		u"Σάββατο"_s
 	}));
 	$var($StringArray, sharedDayNarrows, $new($StringArray, {
-		u"\u039a"_s,
-		u"\u0394"_s,
-		u"\u03a4"_s,
-		u"\u03a4"_s,
-		u"\u03a0"_s,
-		u"\u03a0"_s,
-		u"\u03a3"_s
+		u"Κ"_s,
+		u"Δ"_s,
+		u"Τ"_s,
+		u"Τ"_s,
+		u"Π"_s,
+		u"Π"_s,
+		u"Σ"_s
 	}));
 	$var($StringArray, sharedTimePatterns, $new($StringArray, {
 		"h:mm:ss a zzzz"_s,
@@ -94,8 +94,8 @@ $ObjectArray2* JavaTimeSupplementary_el::getContents() {
 		"h:mm a"_s
 	}));
 	$var($StringArray, sharedNarrowAmPmMarkers, $new($StringArray, {
-		u"\u03c0\u03bc"_s,
-		u"\u03bc\u03bc"_s
+		u"πμ"_s,
+		u"μμ"_s
 	}));
 	$var($StringArray, sharedJavaTimeDatePatterns, $new($StringArray, {
 		"EEEE, d MMMM y G"_s,
@@ -104,7 +104,7 @@ $ObjectArray2* JavaTimeSupplementary_el::getContents() {
 		"d/M/y GGGGG"_s
 	}));
 	$var($StringArray, sharedEras, $new($StringArray, {
-		u"\u03a0\u03c1\u03b9\u03bd R.O.C."_s,
+		u"Πριν R.O.C."_s,
 		"R.O.C."_s
 	}));
 	return $new($ObjectArray2, {
@@ -118,71 +118,71 @@ $ObjectArray2* JavaTimeSupplementary_el::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.buddhist"_s),
-			$of(u"\u0392\u03bf\u03c5\u03b4\u03b9\u03c3\u03c4\u03b9\u03ba\u03cc \u03b7\u03bc\u03b5\u03c1\u03bf\u03bb\u03cc\u03b3\u03b9\u03bf"_s)
+			$of(u"Βουδιστικό ημερολόγιο"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.gregorian"_s),
-			$of(u"\u0393\u03c1\u03b7\u03b3\u03bf\u03c1\u03b9\u03b1\u03bd\u03cc \u03b7\u03bc\u03b5\u03c1\u03bf\u03bb\u03cc\u03b3\u03b9\u03bf"_s)
+			$of(u"Γρηγοριανό ημερολόγιο"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.gregory"_s),
-			$of(u"\u0393\u03c1\u03b7\u03b3\u03bf\u03c1\u03b9\u03b1\u03bd\u03cc \u03b7\u03bc\u03b5\u03c1\u03bf\u03bb\u03cc\u03b3\u03b9\u03bf"_s)
+			$of(u"Γρηγοριανό ημερολόγιο"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.islamic"_s),
-			$of(u"\u0399\u03c3\u03bb\u03b1\u03bc\u03b9\u03ba\u03cc \u03b7\u03bc\u03b5\u03c1\u03bf\u03bb\u03cc\u03b3\u03b9\u03bf"_s)
+			$of(u"Ισλαμικό ημερολόγιο"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.islamic-civil"_s),
-			$of(u"\u0399\u03c3\u03bb\u03b1\u03bc\u03b9\u03ba\u03cc \u03b1\u03c3\u03c4\u03b9\u03ba\u03cc \u03b7\u03bc\u03b5\u03c1\u03bf\u03bb\u03cc\u03b3\u03b9\u03bf"_s)
+			$of(u"Ισλαμικό αστικό ημερολόγιο"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.japanese"_s),
-			$of(u"\u0399\u03b1\u03c0\u03c9\u03bd\u03b9\u03ba\u03cc \u03b7\u03bc\u03b5\u03c1\u03bf\u03bb\u03cc\u03b3\u03b9\u03bf"_s)
+			$of(u"Ιαπωνικό ημερολόγιο"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.roc"_s),
-			$of(u"\u0397\u03bc\u03b5\u03c1\u03bf\u03bb\u03cc\u03b3\u03b9\u03bf \u03c4\u03b7\u03c2 \u0394\u03b7\u03bc\u03bf\u03ba\u03c1\u03b1\u03c4\u03af\u03b1\u03c2 \u03c4\u03b7\u03c2 \u039a\u03af\u03bd\u03b1\u03c2"_s)
+			$of(u"Ημερολόγιο της Δημοκρατίας της Κίνας"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("field.dayperiod"_s),
-			$of(u"\u03c0.\u03bc./\u03bc.\u03bc."_s)
+			$of(u"π.μ./μ.μ."_s)
 		}),
 		$$new($ObjectArray, {
 			$of("field.era"_s),
-			$of(u"\u03c0\u03b5\u03c1\u03af\u03bf\u03b4\u03bf\u03c2"_s)
+			$of(u"περίοδος"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("field.hour"_s),
-			$of(u"\u03ce\u03c1\u03b1"_s)
+			$of(u"ώρα"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("field.minute"_s),
-			$of(u"\u03bb\u03b5\u03c0\u03c4\u03cc"_s)
+			$of(u"λεπτό"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("field.month"_s),
-			$of(u"\u03bc\u03ae\u03bd\u03b1\u03c2"_s)
+			$of(u"μήνας"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("field.second"_s),
-			$of(u"\u03b4\u03b5\u03c5\u03c4\u03b5\u03c1\u03cc\u03bb\u03b5\u03c0\u03c4\u03bf"_s)
+			$of(u"δευτερόλεπτο"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("field.week"_s),
-			$of(u"\u03b5\u03b2\u03b4\u03bf\u03bc\u03ac\u03b4\u03b1"_s)
+			$of(u"εβδομάδα"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("field.weekday"_s),
-			$of(u"\u03ba\u03b1\u03b8\u03b7\u03bc\u03b5\u03c1\u03b9\u03bd\u03ae"_s)
+			$of(u"καθημερινή"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("field.year"_s),
-			$of(u"\u03ad\u03c4\u03bf\u03c2"_s)
+			$of(u"έτος"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("field.zone"_s),
-			$of(u"\u03b6\u03ce\u03bd\u03b7 \u03ce\u03c1\u03b1\u03c2"_s)
+			$of(u"ζώνη ώρας"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("islamic.AmPmMarkers"_s),
@@ -251,8 +251,8 @@ $ObjectArray2* JavaTimeSupplementary_el::getContents() {
 		$$new($ObjectArray, {
 			$of("java.time.long.Eras"_s),
 			$of($$new($StringArray, {
-				u"\u03c0\u03c1\u03bf \u03a7\u03c1\u03b9\u03c3\u03c4\u03bf\u03cd"_s,
-				u"\u03bc\u03b5\u03c4\u03ac \u03a7\u03c1\u03b9\u03c3\u03c4\u03cc\u03bd"_s
+				u"προ Χριστού"_s,
+				u"μετά Χριστόν"_s
 			}))
 		}),
 		$$new($ObjectArray, {
@@ -262,8 +262,8 @@ $ObjectArray2* JavaTimeSupplementary_el::getContents() {
 		$$new($ObjectArray, {
 			$of("java.time.short.Eras"_s),
 			$of($$new($StringArray, {
-				u"\u03c0.\u03a7."_s,
-				u"\u03bc.\u03a7."_s
+				u"π.Χ."_s,
+				u"μ.Χ."_s
 			}))
 		}),
 		$$new($ObjectArray, {
@@ -293,54 +293,54 @@ $ObjectArray2* JavaTimeSupplementary_el::getContents() {
 		$$new($ObjectArray, {
 			$of("roc.MonthAbbreviations"_s),
 			$of($$new($StringArray, {
-				u"\u0399\u03b1\u03bd"_s,
-				u"\u03a6\u03b5\u03b2"_s,
-				u"\u039c\u03b1\u03c1"_s,
-				u"\u0391\u03c0\u03c1"_s,
-				u"\u039c\u03b1\u0390"_s,
-				u"\u0399\u03bf\u03c5\u03bd"_s,
-				u"\u0399\u03bf\u03c5\u03bb"_s,
-				u"\u0391\u03c5\u03b3"_s,
-				u"\u03a3\u03b5\u03c0"_s,
-				u"\u039f\u03ba\u03c4"_s,
-				u"\u039d\u03bf\u03b5"_s,
-				u"\u0394\u03b5\u03ba"_s,
+				u"Ιαν"_s,
+				u"Φεβ"_s,
+				u"Μαρ"_s,
+				u"Απρ"_s,
+				u"Μαΐ"_s,
+				u"Ιουν"_s,
+				u"Ιουλ"_s,
+				u"Αυγ"_s,
+				u"Σεπ"_s,
+				u"Οκτ"_s,
+				u"Νοε"_s,
+				u"Δεκ"_s,
 				""_s
 			}))
 		}),
 		$$new($ObjectArray, {
 			$of("roc.MonthNames"_s),
 			$of($$new($StringArray, {
-				u"\u0399\u03b1\u03bd\u03bf\u03c5\u03b1\u03c1\u03af\u03bf\u03c5"_s,
-				u"\u03a6\u03b5\u03b2\u03c1\u03bf\u03c5\u03b1\u03c1\u03af\u03bf\u03c5"_s,
-				u"\u039c\u03b1\u03c1\u03c4\u03af\u03bf\u03c5"_s,
-				u"\u0391\u03c0\u03c1\u03b9\u03bb\u03af\u03bf\u03c5"_s,
-				u"\u039c\u03b1\u0390\u03bf\u03c5"_s,
-				u"\u0399\u03bf\u03c5\u03bd\u03af\u03bf\u03c5"_s,
-				u"\u0399\u03bf\u03c5\u03bb\u03af\u03bf\u03c5"_s,
-				u"\u0391\u03c5\u03b3\u03bf\u03cd\u03c3\u03c4\u03bf\u03c5"_s,
-				u"\u03a3\u03b5\u03c0\u03c4\u03b5\u03bc\u03b2\u03c1\u03af\u03bf\u03c5"_s,
-				u"\u039f\u03ba\u03c4\u03c9\u03b2\u03c1\u03af\u03bf\u03c5"_s,
-				u"\u039d\u03bf\u03b5\u03bc\u03b2\u03c1\u03af\u03bf\u03c5"_s,
-				u"\u0394\u03b5\u03ba\u03b5\u03bc\u03b2\u03c1\u03af\u03bf\u03c5"_s,
+				u"Ιανουαρίου"_s,
+				u"Φεβρουαρίου"_s,
+				u"Μαρτίου"_s,
+				u"Απριλίου"_s,
+				u"Μαΐου"_s,
+				u"Ιουνίου"_s,
+				u"Ιουλίου"_s,
+				u"Αυγούστου"_s,
+				u"Σεπτεμβρίου"_s,
+				u"Οκτωβρίου"_s,
+				u"Νοεμβρίου"_s,
+				u"Δεκεμβρίου"_s,
 				""_s
 			}))
 		}),
 		$$new($ObjectArray, {
 			$of("roc.MonthNarrows"_s),
 			$of($$new($StringArray, {
-				u"\u0399"_s,
-				u"\u03a6"_s,
-				u"\u039c"_s,
-				u"\u0391"_s,
-				u"\u039c"_s,
-				u"\u0399"_s,
-				u"\u0399"_s,
-				u"\u0391"_s,
-				u"\u03a3"_s,
-				u"\u039f"_s,
-				u"\u039d"_s,
-				u"\u0394"_s,
+				u"Ι"_s,
+				u"Φ"_s,
+				u"Μ"_s,
+				u"Α"_s,
+				u"Μ"_s,
+				u"Ι"_s,
+				u"Ι"_s,
+				u"Α"_s,
+				u"Σ"_s,
+				u"Ο"_s,
+				u"Ν"_s,
+				u"Δ"_s,
 				""_s
 			}))
 		}),

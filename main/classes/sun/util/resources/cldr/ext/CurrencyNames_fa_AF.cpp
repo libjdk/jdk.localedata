@@ -42,63 +42,63 @@ $ObjectArray2* CurrencyNames_fa_AF::getContents() {
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("aud"_s),
-			$of(u"\u062f\u0627\u0644\u0631 \u0622\u0633\u062a\u0631\u0627\u0644\u06cc\u0627"_s)
+			$of(u"دالر آسترالیا"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bnd"_s),
-			$of(u"\u062f\u0627\u0644\u0631 \u0628\u0631\u0648\u0646\u06cc"_s)
+			$of(u"دالر برونی"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("byn"_s),
-			$of(u"\u0631\u0648\u0628\u0644 \u0631\u0648\u0633\u06cc\u0647\u0654 \u0633\u0641\u06cc\u062f"_s)
+			$of(u"روبل روسیهٔ سفید"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("byr"_s),
-			$of(u"\u0631\u0648\u0628\u0644 \u0631\u0648\u0633\u06cc\u0647\u0654 \u0633\u0641\u06cc\u062f (\u06f2\u06f0\u06f0\u06f0\u2013\u06f2\u06f0\u06f1\u06f6)"_s)
+			$of(u"روبل روسیهٔ سفید (۲۰۰۰–۲۰۱۶)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cad"_s),
-			$of(u"\u062f\u0627\u0644\u0631 \u06a9\u0627\u0646\u0627\u062f\u0627"_s)
+			$of(u"دالر کانادا"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("chf"_s),
-			$of(u"\u0641\u0631\u0627\u0646\u06a9 \u0633\u0648\u06cc\u0633"_s)
+			$of(u"فرانک سویس"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("dkk"_s),
-			$of(u"\u06a9\u0631\u0648\u0646 \u062f\u0646\u0645\u0627\u0631\u06a9"_s)
+			$of(u"کرون دنمارک"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("jpy"_s),
-			$of(u"\u06cc\u0646 \u062c\u0627\u067e\u0627\u0646"_s)
+			$of(u"ین جاپان"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mxn"_s),
-			$of(u"\u067e\u0632\u0648\u06cc \u0645\u06a9\u0633\u06cc\u06a9\u0648"_s)
+			$of(u"پزوی مکسیکو"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("nlg"_s),
-			$of(u"\u06af\u06cc\u0644\u062f\u0631 \u0647\u0627\u0644\u0646\u062f"_s)
+			$of(u"گیلدر هالند"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("nok"_s),
-			$of(u"\u06a9\u0631\u0648\u0646 \u0646\u0627\u0631\u0648\u06cc"_s)
+			$of(u"کرون ناروی"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sek"_s),
-			$of(u"\u06a9\u0631\u0648\u0646 \u0633\u0648\u06cc\u062f\u0646"_s)
+			$of(u"کرون سویدن"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sgd"_s),
-			$of(u"\u062f\u0627\u0644\u0631 \u0633\u06cc\u0646\u06af\u0627\u067e\u0648\u0631"_s)
+			$of(u"دالر سینگاپور"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("tjs"_s),
-			$of(u"\u0633\u0627\u0645\u0627\u0646\u06cc \u062a\u0627\u062c\u06a9\u0633\u062a\u0627\u0646"_s)
+			$of(u"سامانی تاجکستان"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("usd"_s),
-			$of(u"\u062f\u0627\u0644\u0631 \u0627\u0645\u0631\u06cc\u06a9\u0627"_s)
+			$of(u"دالر امریکا"_s)
 		})
 	}));
 	return data;

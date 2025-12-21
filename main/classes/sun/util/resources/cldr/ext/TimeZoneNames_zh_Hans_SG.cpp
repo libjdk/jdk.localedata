@@ -42,7 +42,7 @@ void TimeZoneNames_zh_Hans_SG::init$() {
 $ObjectArray2* TimeZoneNames_zh_Hans_SG::getContents() {
 	$useLocalCurrentObjectStackCache();
 	$var($StringArray, Malaysia, $new($StringArray, {
-		u"\u9a6c\u6765\u897f\u4e9a\u65f6\u95f4"_s,
+		u"马来西亚时间"_s,
 		"MYT"_s,
 		""_s,
 		""_s,
@@ -50,7 +50,7 @@ $ObjectArray2* TimeZoneNames_zh_Hans_SG::getContents() {
 		""_s
 	}));
 	$var($StringArray, Singapore, $new($StringArray, {
-		u"\u65b0\u52a0\u5761\u6807\u51c6\u65f6\u95f4"_s,
+		u"新加坡标准时间"_s,
 		"SGT"_s,
 		""_s,
 		""_s,
@@ -84,7 +84,7 @@ $ObjectArray2* TimeZoneNames_zh_Hans_SG::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Scoresbysund"_s),
-			$of(u"\u65af\u8003\u65af\u4f2f\u677e\u5fb7"_s)
+			$of(u"斯考斯伯松德"_s)
 		})
 	}));
 	return data;

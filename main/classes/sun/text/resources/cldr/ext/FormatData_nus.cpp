@@ -40,30 +40,30 @@ void FormatData_nus::init$() {
 $ObjectArray2* FormatData_nus::getContents() {
 	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_MonthNames, $new($StringArray, {
-		u"Tiop thar p\u025bt"_s,
-		u"P\u025bt"_s,
-		u"Du\u0254\u0331\u0254\u0331\u014b"_s,
+		u"Tiop thar pɛt"_s,
+		u"Pɛt"_s,
+		u"Duɔ̱ɔ̱ŋ"_s,
 		"Guak"_s,
-		u"Du\u00e4t"_s,
+		u"Duät"_s,
 		"Kornyoot"_s,
-		u"Pay yie\u0331tni"_s,
-		u"Tho\u0331o\u0331r"_s,
-		u"T\u025b\u025br"_s,
+		u"Pay yie̱tni"_s,
+		u"Tho̱o̱r"_s,
+		u"Tɛɛr"_s,
 		"Laath"_s,
 		"Kur"_s,
-		u"Tio\u0331p in di\u0331i\u0331t"_s,
+		u"Tio̱p in di̱i̱t"_s,
 		""_s
 	}));
 	$var($StringArray, metaValue_MonthAbbreviations, $new($StringArray, {
 		"Tiop"_s,
-		u"P\u025bt"_s,
-		u"Du\u0254\u0331\u0254\u0331"_s,
+		u"Pɛt"_s,
+		u"Duɔ̱ɔ̱"_s,
 		"Guak"_s,
-		u"Du\u00e4"_s,
+		u"Duä"_s,
 		"Kor"_s,
 		"Pay"_s,
 		"Thoo"_s,
-		u"T\u025b\u025b"_s,
+		u"Tɛɛ"_s,
 		"Laa"_s,
 		"Kur"_s,
 		"Tid"_s,
@@ -85,37 +85,37 @@ $ObjectArray2* FormatData_nus::getContents() {
 		""_s
 	}));
 	$var($StringArray, metaValue_DayNames, $new($StringArray, {
-		u"C\u00e4\u014b ku\u0254th"_s,
-		u"Jiec la\u0331t"_s,
-		u"R\u025bw l\u00e4tni"_s,
-		u"Di\u0254\u0331k l\u00e4tni"_s,
-		u"\u014auaan l\u00e4tni"_s,
-		u"Dhieec l\u00e4tni"_s,
-		u"B\u00e4k\u025bl l\u00e4tni"_s
+		u"Cäŋ kuɔth"_s,
+		u"Jiec la̱t"_s,
+		u"Rɛw lätni"_s,
+		u"Diɔ̱k lätni"_s,
+		u"Ŋuaan lätni"_s,
+		u"Dhieec lätni"_s,
+		u"Bäkɛl lätni"_s
 	}));
 	$var($StringArray, metaValue_DayAbbreviations, $new($StringArray, {
-		u"C\u00e4\u014b"_s,
+		u"Cäŋ"_s,
 		"Jiec"_s,
-		u"R\u025bw"_s,
-		u"Di\u0254\u0331k"_s,
-		u"\u014auaan"_s,
+		u"Rɛw"_s,
+		u"Diɔ̱k"_s,
+		u"Ŋuaan"_s,
 		"Dhieec"_s,
-		u"B\u00e4k\u025bl"_s
+		u"Bäkɛl"_s
 	}));
 	$var($StringArray, metaValue_DayNarrows, $new($StringArray, {
 		"C"_s,
 		"J"_s,
 		"R"_s,
 		"D"_s,
-		u"\u014a"_s,
+		u"Ŋ"_s,
 		"D"_s,
 		"B"_s
 	}));
 	$var($StringArray, metaValue_QuarterNames, $new($StringArray, {
-		u"P\u00e4th di\u0254k tin nhiam"_s,
-		u"P\u00e4th di\u0254k tin guur\u025b"_s,
-		u"P\u00e4th di\u0254k tin w\u00e4 k\u0254\u0254ri\u025bn"_s,
-		u"P\u00e4th di\u0254k tin ji\u0254akdi\u025bn"_s
+		u"Päth diɔk tin nhiam"_s,
+		u"Päth diɔk tin guurɛ"_s,
+		u"Päth diɔk tin wä kɔɔriɛn"_s,
+		u"Päth diɔk tin jiɔakdiɛn"_s
 	}));
 	$var($StringArray, metaValue_QuarterAbbreviations, $new($StringArray, {
 		"P1"_s,
@@ -125,7 +125,7 @@ $ObjectArray2* FormatData_nus::getContents() {
 	}));
 	$var($StringArray, metaValue_AmPmMarkers, $new($StringArray, {
 		"RW"_s,
-		u"T\u014a"_s,
+		u"TŊ"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -139,7 +139,7 @@ $ObjectArray2* FormatData_nus::getContents() {
 	}));
 	$var($StringArray, metaValue_Eras, $new($StringArray, {
 		"AY"_s,
-		u"\u0190Y"_s
+		u"ƐY"_s
 	}));
 	$var($StringArray, metaValue_TimePatterns, $new($StringArray, {
 		"zzzz h:mm:ss a"_s,
@@ -166,7 +166,7 @@ $ObjectArray2* FormatData_nus::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.year"_s),
-			$of(u"Ru\u0254\u0331n"_s)
+			$of(u"Ruɔ̱n"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("islamic.QuarterAbbreviations"_s),
@@ -267,8 +267,8 @@ $ObjectArray2* FormatData_nus::getContents() {
 		$$new($ObjectArray, {
 			$of("long.Eras"_s),
 			$of($$new($StringArray, {
-				u"A ka\u0331n Yecu ni dap"_s,
-				u"\u0190 ca Yecu dap"_s
+				u"A ka̱n Yecu ni dap"_s,
+				u"Ɛ ca Yecu dap"_s
 			}))
 		}),
 		$$new($ObjectArray, {
@@ -285,7 +285,7 @@ $ObjectArray2* FormatData_nus::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.weekday"_s),
-			$of(u"Ni\u0331n jok\u00e4"_s)
+			$of(u"Ni̱n jokä"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("buddhist.MonthNames"_s),
@@ -306,8 +306,8 @@ $ObjectArray2* FormatData_nus::getContents() {
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
+				u"‰"_s,
+				u"∞"_s,
 				"NaN"_s,
 				""_s,
 				""_s
@@ -335,7 +335,7 @@ $ObjectArray2* FormatData_nus::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.era"_s),
-			$of(u"Gua\u0331a\u0331th Ru\u00ebc"_s)
+			$of(u"Gua̱a̱th Ruëc"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("islamic.DayAbbreviations"_s),
@@ -387,7 +387,7 @@ $ObjectArray2* FormatData_nus::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.second"_s),
-			$of(u"Th\u025bk\u025bni"_s)
+			$of(u"Thɛkɛni"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("roc.MonthNames"_s),
@@ -395,7 +395,7 @@ $ObjectArray2* FormatData_nus::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.week"_s),
-			$of(u"Ji\u0254k"_s)
+			$of(u"Jiɔk"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("DayAbbreviations"_s),
@@ -474,9 +474,9 @@ $ObjectArray2* FormatData_nus::getContents() {
 			$of("latn.NumberPatterns"_s),
 			$of($$new($StringArray, {
 				"#,##0.###"_s,
-				u"\u00a4#,##0.00"_s,
+				u"¤#,##0.00"_s,
 				"#,##0%"_s,
-				u"\u00a4#,##0.00;(\u00a4#,##0.00)"_s
+				u"¤#,##0.00;(¤#,##0.00)"_s
 			}))
 		}),
 		$$new($ObjectArray, {

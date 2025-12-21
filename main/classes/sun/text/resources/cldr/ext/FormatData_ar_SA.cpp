@@ -40,18 +40,18 @@ void FormatData_ar_SA::init$() {
 $ObjectArray2* FormatData_ar_SA::getContents() {
 	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_AmPmMarkers, $new($StringArray, {
-		u"\u0635"_s,
-		u"\u0645"_s,
+		u"ص"_s,
+		u"م"_s,
 		""_s,
 		""_s,
-		u"\u0641\u062c\u0631\u064b\u0627"_s,
-		u"\u0635"_s,
-		u"\u0638\u0647\u0631\u064b\u0627"_s,
-		u"\u0628\u0639\u062f \u0627\u0644\u0638\u0647\u0631"_s,
-		u"\u0645\u0633\u0627\u0621\u064b"_s,
+		u"فجرًا"_s,
+		u"ص"_s,
+		u"ظهرًا"_s,
+		u"بعد الظهر"_s,
+		u"مساءً"_s,
 		""_s,
-		u"\u0641\u064a \u0627\u0644\u0645\u0633\u0627\u0621"_s,
-		u"\u0644"_s
+		u"في المساء"_s,
+		u"ل"_s
 	}));
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
@@ -64,14 +64,14 @@ $ObjectArray2* FormatData_ar_SA::getContents() {
 				"."_s,
 				","_s,
 				";"_s,
-				u"\u066a"_s,
+				u"٪"_s,
 				"0"_s,
 				"#"_s,
 				u"\u200e-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
-				u"\u0644\u064a\u0633\u00a0\u0631\u0642\u0645\u064b\u0627"_s,
+				u"‰"_s,
+				u"∞"_s,
+				u"ليس رقمًا"_s,
 				""_s,
 				""_s
 			}))
@@ -100,9 +100,9 @@ $ObjectArray2* FormatData_ar_SA::getContents() {
 			$of("latn.NumberPatterns"_s),
 			$of($$new($StringArray, {
 				"#,##0.###"_s,
-				u"\u00a4\u00a0#,##0.00"_s,
+				u"¤ #,##0.00"_s,
 				"#,##0%"_s,
-				u"\u00a4#,##0.00;(\u00a4#,##0.00)"_s
+				u"¤#,##0.00;(¤#,##0.00)"_s
 			}))
 		}),
 		$$new($ObjectArray, {

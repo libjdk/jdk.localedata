@@ -54,7 +54,7 @@ $ObjectArray2* CurrencyNames_se::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("THB"_s),
-			$of(u"\u0e3f"_s)
+			$of(u"฿"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("eur"_s),
@@ -62,7 +62,7 @@ $ObjectArray2* CurrencyNames_se::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("fim"_s),
-			$of(u"suoma m\u00e1rkki"_s)
+			$of(u"suoma márkki"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("nok"_s),
@@ -70,7 +70,7 @@ $ObjectArray2* CurrencyNames_se::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("sek"_s),
-			$of(u"ruo\u0167\u0167a kruvdno"_s)
+			$of(u"ruoŧŧa kruvdno"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xag"_s),

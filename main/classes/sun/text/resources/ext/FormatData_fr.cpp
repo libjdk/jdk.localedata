@@ -43,17 +43,17 @@ $ObjectArray2* FormatData_fr::getContents() {
 			$of("MonthNames"_s),
 			$of($$new($StringArray, {
 				"janvier"_s,
-				u"f\u00e9vrier"_s,
+				u"février"_s,
 				"mars"_s,
 				"avril"_s,
 				"mai"_s,
 				"juin"_s,
 				"juillet"_s,
-				u"ao\u00fbt"_s,
+				u"août"_s,
 				"septembre"_s,
 				"octobre"_s,
 				"novembre"_s,
-				u"d\u00e9cembre"_s,
+				u"décembre"_s,
 				""_s
 			}))
 		}),
@@ -61,17 +61,17 @@ $ObjectArray2* FormatData_fr::getContents() {
 			$of("MonthAbbreviations"_s),
 			$of($$new($StringArray, {
 				"janv."_s,
-				u"f\u00e9vr."_s,
+				u"févr."_s,
 				"mars"_s,
 				"avr."_s,
 				"mai"_s,
 				"juin"_s,
 				"juil."_s,
-				u"ao\u00fbt"_s,
+				u"août"_s,
 				"sept."_s,
 				"oct."_s,
 				"nov."_s,
-				u"d\u00e9c."_s,
+				u"déc."_s,
 				""_s
 			}))
 		}),
@@ -159,14 +159,14 @@ $ObjectArray2* FormatData_fr::getContents() {
 			$of("buddhist.Eras"_s),
 			$of($$new($StringArray, {
 				"BC"_s,
-				u"\u00e8re bouddhiste"_s
+				u"ère bouddhiste"_s
 			}))
 		}),
 		$$new($ObjectArray, {
 			$of("buddhist.short.Eras"_s),
 			$of($$new($StringArray, {
 				"BC"_s,
-				u"\u00e8re b."_s
+				u"ère b."_s
 			}))
 		}),
 		$$new($ObjectArray, {
@@ -180,7 +180,7 @@ $ObjectArray2* FormatData_fr::getContents() {
 			$of("NumberPatterns"_s),
 			$of($$new($StringArray, {
 				"#,##0.###;-#,##0.###"_s,
-				u"#,##0.00 \u00a4;-#,##0.00 \u00a4"_s,
+				u"#,##0.00 ¤;-#,##0.00 ¤"_s,
 				"#,##0 %"_s
 			}))
 		}),
@@ -188,16 +188,16 @@ $ObjectArray2* FormatData_fr::getContents() {
 			$of("NumberElements"_s),
 			$of($$new($StringArray, {
 				","_s,
-				u"\u00a0"_s,
+				u" "_s,
 				";"_s,
 				"%"_s,
 				"0"_s,
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
-				u"\ufffd"_s
+				u"‰"_s,
+				u"∞"_s,
+				u"�"_s
 			}))
 		}),
 		$$new($ObjectArray, {

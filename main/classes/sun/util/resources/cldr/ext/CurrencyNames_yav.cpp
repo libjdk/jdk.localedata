@@ -42,95 +42,95 @@ $ObjectArray2* CurrencyNames_yav::getContents() {
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("aoa"_s),
-			$of(u"kuansa wu angol\u00e1"_s)
+			$of(u"kuansa wu angolá"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("aud"_s),
-			$of(u"tol\u00e1al wu ostalal\u00ed"_s)
+			$of(u"toláal wu ostalalí"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bhd"_s),
-			$of(u"tin\u00e1al wu paal\u00e9en"_s)
+			$of(u"tináal wu paaléen"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bif"_s),
-			$of(u"fal\u00e1\u014b\u025b u pulund\u00ed"_s)
+			$of(u"faláŋɛ u pulundí"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bwp"_s),
-			$of(u"pula pu posu\u00e1na"_s)
+			$of(u"pula pu posuána"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cad"_s),
-			$of(u"tol\u00e1al u kan\u00e1ta"_s)
+			$of(u"toláal u kanáta"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cdf"_s),
-			$of(u"\u0301fal\u00e1\u014b\u025b u kong\u00f3"_s)
+			$of(u"́faláŋɛ u kongó"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cny"_s),
-			$of(u"yuan \u025bl\u025bnmimb\u00ed"_s)
+			$of(u"yuan ɛlɛnmimbí"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cve"_s),
-			$of(u"\u025bsk\u00fado u k\u00e1pf\u025b\u0301\u025bl"_s)
+			$of(u"ɛskúdo u kápfɛ́ɛl"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("djf"_s),
-			$of(u"\u0301fal\u00e1\u014b\u025b u s\u00edput\u00ed"_s)
+			$of(u"́faláŋɛ u síputí"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("dzd"_s),
-			$of(u"tin\u00e1al wu alsel\u00ed"_s)
+			$of(u"tináal wu alselí"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("egp"_s),
-			$of(u"l\u00edfil\u025b wu is\u00edpit"_s)
+			$of(u"lífilɛ wu isípit"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ern"_s),
-			$of(u"n\u00e1fka wu elitil\u00e9e"_s)
+			$of(u"náfka wu elitilée"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("etb"_s),
-			$of(u"p\u00edil wu etiop\u00ed"_s)
+			$of(u"píil wu etiopí"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("eur"_s),
-			$of(u"ol\u00f3o"_s)
+			$of(u"olóo"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gbp"_s),
-			$of(u"l\u00edfil\u025b sitelel\u00edi\u014b"_s)
+			$of(u"lífilɛ sitelelíiŋ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ghc"_s),
-			$of(u"set\u00ed"_s)
+			$of(u"setí"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gmd"_s),
-			$of(u"talas\u00ed u kaamb\u00ed"_s)
+			$of(u"talasí u kaambí"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gns"_s),
-			$of(u"sil\u00ed u kiin\u00e9"_s)
+			$of(u"silí u kiiné"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("inr"_s),
-			$of(u"ulup\u00ed"_s)
+			$of(u"ulupí"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("jpy"_s),
-			$of(u"y\u025b\u0301\u025bn u sap\u0254\u0301\u0254\u014b"_s)
+			$of(u"yɛ́ɛn u sapɔ́ɔŋ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kes"_s),
-			$of(u"s\u00edli\u014b u k\u00e9nia"_s)
+			$of(u"síliŋ u kénia"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kmf"_s),
-			$of(u"\u0301fal\u00e1\u014b\u025b u k\u0254m\u0254\u0301\u0254l"_s)
+			$of(u"́faláŋɛ u kɔmɔ́ɔl"_s)
 		})
 	}));
 	return data;

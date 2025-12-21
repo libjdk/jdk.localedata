@@ -39,16 +39,16 @@ void JavaTimeSupplementary_tr::init$() {
 $ObjectArray2* JavaTimeSupplementary_tr::getContents() {
 	$useLocalCurrentObjectStackCache();
 	$var($StringArray, sharedQuarterAbbreviations, $new($StringArray, {
-		u"\u00c71"_s,
-		u"\u00c72"_s,
-		u"\u00c73"_s,
-		u"\u00c74"_s
+		u"Ç1"_s,
+		u"Ç2"_s,
+		u"Ç3"_s,
+		u"Ç4"_s
 	}));
 	$var($StringArray, sharedQuarterNames, $new($StringArray, {
-		u"1. \u00e7eyrek"_s,
-		u"2. \u00e7eyrek"_s,
-		u"3. \u00e7eyrek"_s,
-		u"4. \u00e7eyrek"_s
+		u"1. çeyrek"_s,
+		u"2. çeyrek"_s,
+		u"3. çeyrek"_s,
+		u"4. çeyrek"_s
 	}));
 	$var($StringArray, sharedQuarterNarrows, $new($StringArray, {
 		"1."_s,
@@ -57,8 +57,8 @@ $ObjectArray2* JavaTimeSupplementary_tr::getContents() {
 		"4."_s
 	}));
 	$var($StringArray, sharedAmPmMarkers, $new($StringArray, {
-		u"\u00d6\u00d6"_s,
-		u"\u00d6S"_s
+		u"ÖÖ"_s,
+		u"ÖS"_s
 	}));
 	$var($StringArray, sharedDatePatterns, $new($StringArray, {
 		"GGGG d MMMM y EEEE"_s,
@@ -70,7 +70,7 @@ $ObjectArray2* JavaTimeSupplementary_tr::getContents() {
 		"Paz"_s,
 		"Pzt"_s,
 		"Sal"_s,
-		u"\u00c7ar"_s,
+		u"Çar"_s,
 		"Per"_s,
 		"Cum"_s,
 		"Cmt"_s
@@ -78,9 +78,9 @@ $ObjectArray2* JavaTimeSupplementary_tr::getContents() {
 	$var($StringArray, sharedDayNames, $new($StringArray, {
 		"Pazar"_s,
 		"Pazartesi"_s,
-		u"Sal\u0131"_s,
-		u"\u00c7ar\u015famba"_s,
-		u"Per\u015fembe"_s,
+		u"Salı"_s,
+		u"Çarşamba"_s,
+		u"Perşembe"_s,
 		"Cuma"_s,
 		"Cumartesi"_s
 	}));
@@ -88,7 +88,7 @@ $ObjectArray2* JavaTimeSupplementary_tr::getContents() {
 		"P"_s,
 		"P"_s,
 		"S"_s,
-		u"\u00c7"_s,
+		u"Ç"_s,
 		"P"_s,
 		"C"_s,
 		"C"_s
@@ -100,21 +100,21 @@ $ObjectArray2* JavaTimeSupplementary_tr::getContents() {
 	$var($StringArray, sharedMonthNames, $new($StringArray, {
 		"Muharrem"_s,
 		"Safer"_s,
-		u"Rebi\u00fclevvel"_s,
-		u"Rebi\u00fclahir"_s,
+		u"Rebiülevvel"_s,
+		u"Rebiülahir"_s,
 		"Cemaziyelevvel"_s,
 		"Cemaziyelahir"_s,
 		"Recep"_s,
-		u"\u015eaban"_s,
+		u"Şaban"_s,
 		"Ramazan"_s,
-		u"\u015eevval"_s,
+		u"Şevval"_s,
 		"Zilkade"_s,
 		"Zilhicce"_s,
 		""_s
 	}));
 	$var($StringArray, sharedNarrowAmPmMarkers, $new($StringArray, {
-		u"\u00f6\u00f6"_s,
-		u"\u00f6s"_s
+		u"öö"_s,
+		u"ös"_s
 	}));
 	$var($StringArray, sharedJavaTimeDatePatterns, $new($StringArray, {
 		"G d MMMM y EEEE"_s,
@@ -161,7 +161,7 @@ $ObjectArray2* JavaTimeSupplementary_tr::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.islamic-umalqura"_s),
-			$of(u"Hicri Takvim (\u00dcmm\u00fc-l Kurra Takvimi)"_s)
+			$of(u"Hicri Takvim (Ümmü-l Kurra Takvimi)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.japanese"_s),
@@ -169,15 +169,15 @@ $ObjectArray2* JavaTimeSupplementary_tr::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.roc"_s),
-			$of(u"\u00c7in Cumhuriyeti Takvimi"_s)
+			$of(u"Çin Cumhuriyeti Takvimi"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("field.dayperiod"_s),
-			$of(u"\u00d6\u00d6/\u00d6S"_s)
+			$of(u"ÖÖ/ÖS"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("field.era"_s),
-			$of(u"Miladi D\u00f6nem"_s)
+			$of(u"Miladi Dönem"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("field.hour"_s),
@@ -201,11 +201,11 @@ $ObjectArray2* JavaTimeSupplementary_tr::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.weekday"_s),
-			$of(u"Haftan\u0131n G\u00fcn\u00fc"_s)
+			$of(u"Haftanın Günü"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("field.year"_s),
-			$of(u"Y\u0131l"_s)
+			$of(u"Yıl"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("field.zone"_s),
@@ -302,7 +302,7 @@ $ObjectArray2* JavaTimeSupplementary_tr::getContents() {
 		$$new($ObjectArray, {
 			$of("java.time.long.Eras"_s),
 			$of($$new($StringArray, {
-				u"Milattan \u00d6nce"_s,
+				u"Milattan Önce"_s,
 				"Milattan Sonra"_s
 			}))
 		}),
@@ -313,7 +313,7 @@ $ObjectArray2* JavaTimeSupplementary_tr::getContents() {
 		$$new($ObjectArray, {
 			$of("java.time.short.Eras"_s),
 			$of($$new($StringArray, {
-				u"M\u00d6"_s,
+				u"MÖ"_s,
 				"MS"_s
 			}))
 		}),
@@ -345,13 +345,13 @@ $ObjectArray2* JavaTimeSupplementary_tr::getContents() {
 			$of("roc.MonthAbbreviations"_s),
 			$of($$new($StringArray, {
 				"Oca"_s,
-				u"\u015eub"_s,
+				u"Şub"_s,
 				"Mar"_s,
 				"Nis"_s,
 				"May"_s,
 				"Haz"_s,
 				"Tem"_s,
-				u"A\u011fu"_s,
+				u"Ağu"_s,
 				"Eyl"_s,
 				"Eki"_s,
 				"Kas"_s,
@@ -363,17 +363,17 @@ $ObjectArray2* JavaTimeSupplementary_tr::getContents() {
 			$of("roc.MonthNames"_s),
 			$of($$new($StringArray, {
 				"Ocak"_s,
-				u"\u015eubat"_s,
+				u"Şubat"_s,
 				"Mart"_s,
 				"Nisan"_s,
-				u"May\u0131s"_s,
+				u"Mayıs"_s,
 				"Haziran"_s,
 				"Temmuz"_s,
-				u"A\u011fustos"_s,
-				u"Eyl\u00fcl"_s,
+				u"Ağustos"_s,
+				u"Eylül"_s,
 				"Ekim"_s,
-				u"Kas\u0131m"_s,
-				u"Aral\u0131k"_s,
+				u"Kasım"_s,
+				u"Aralık"_s,
 				""_s
 			}))
 		}),
@@ -381,7 +381,7 @@ $ObjectArray2* JavaTimeSupplementary_tr::getContents() {
 			$of("roc.MonthNarrows"_s),
 			$of($$new($StringArray, {
 				"O"_s,
-				u"\u015e"_s,
+				u"Ş"_s,
 				"M"_s,
 				"N"_s,
 				"M"_s,

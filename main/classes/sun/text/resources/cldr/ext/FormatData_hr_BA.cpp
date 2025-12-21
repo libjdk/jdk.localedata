@@ -61,7 +61,7 @@ $ObjectArray2* FormatData_hr_BA::getContents() {
 				"P"_s,
 				"U"_s,
 				"S"_s,
-				u"\u010c"_s,
+				u"Č"_s,
 				"P"_s,
 				"S"_s
 			}))

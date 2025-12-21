@@ -46,7 +46,7 @@ $ObjectArray2* CurrencyNames_su::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("JPY"_s),
-			$of(u"\u00a5"_s)
+			$of(u"¥"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("RUB"_s),
@@ -74,7 +74,7 @@ $ObjectArray2* CurrencyNames_su::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("idr"_s),
-			$of(u"Rupee Indon\u00e9sia"_s)
+			$of(u"Rupee Indonésia"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("inr"_s),
@@ -82,7 +82,7 @@ $ObjectArray2* CurrencyNames_su::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("jpy"_s),
-			$of(u"Y\u00e9n Jepang"_s)
+			$of(u"Yén Jepang"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("rub"_s),

@@ -42,13 +42,13 @@ $ObjectArray2* FormatData_lv::getContents() {
 		$$new($ObjectArray, {
 			$of("MonthNames"_s),
 			$of($$new($StringArray, {
-				u"janv\u0101ris"_s,
-				u"febru\u0101ris"_s,
+				u"janvāris"_s,
+				u"februāris"_s,
 				"marts"_s,
-				u"apr\u012blis"_s,
+				u"aprīlis"_s,
 				"maijs"_s,
-				u"j\u016bnijs"_s,
-				u"j\u016blijs"_s,
+				u"jūnijs"_s,
+				u"jūlijs"_s,
 				"augusts"_s,
 				"septembris"_s,
 				"oktobris"_s,
@@ -65,8 +65,8 @@ $ObjectArray2* FormatData_lv::getContents() {
 				"marts"_s,
 				"apr."_s,
 				"maijs"_s,
-				u"j\u016bn."_s,
-				u"j\u016bl."_s,
+				u"jūn."_s,
+				u"jūl."_s,
 				"aug."_s,
 				"sept."_s,
 				"okt."_s,
@@ -83,8 +83,8 @@ $ObjectArray2* FormatData_lv::getContents() {
 				"Mar"_s,
 				"Apr"_s,
 				"Maijs"_s,
-				u"J\u016bn"_s,
-				u"J\u016bl"_s,
+				u"Jūn"_s,
+				u"Jūl"_s,
 				"Aug"_s,
 				"Sep"_s,
 				"Okt"_s,
@@ -114,10 +114,10 @@ $ObjectArray2* FormatData_lv::getContents() {
 		$$new($ObjectArray, {
 			$of("DayNames"_s),
 			$of($$new($StringArray, {
-				u"sv\u0113tdiena"_s,
+				u"svētdiena"_s,
 				"pirmdiena"_s,
 				"otrdiena"_s,
-				u"tre\u0161diena"_s,
+				u"trešdiena"_s,
 				"ceturtdiena"_s,
 				"piektdiena"_s,
 				"sestdiena"_s
@@ -150,24 +150,24 @@ $ObjectArray2* FormatData_lv::getContents() {
 		$$new($ObjectArray, {
 			$of("Eras"_s),
 			$of($$new($StringArray, {
-				u"pm\u0113"_s,
-				u"m\u0113"_s
+				u"pmē"_s,
+				u"mē"_s
 			}))
 		}),
 		$$new($ObjectArray, {
 			$of("NumberElements"_s),
 			$of($$new($StringArray, {
 				","_s,
-				u"\u00a0"_s,
+				u" "_s,
 				";"_s,
 				"%"_s,
 				"0"_s,
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
-				u"\ufffd"_s
+				u"‰"_s,
+				u"∞"_s,
+				u"�"_s
 			}))
 		}),
 		$$new($ObjectArray, {

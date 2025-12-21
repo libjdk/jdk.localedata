@@ -43,7 +43,7 @@ void TimeZoneNames_mni::init$() {
 $ObjectArray2* TimeZoneNames_mni::getContents() {
 	$useLocalCurrentObjectStackCache();
 	$var($StringArray, GMT, $new($StringArray, {
-		u"\u0997\u09cd\u09b0\u09bf\u09a8\u09f1\u09bf\u099a \u09ae\u09bf\u09a8 \u099f\u09be\u0987\u09ae"_s,
+		u"গ্রিনৱিচ মিন টাইম"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -51,7 +51,7 @@ $ObjectArray2* TimeZoneNames_mni::getContents() {
 		""_s
 	}));
 	$var($StringArray, ETC_UTC, $new($StringArray, {
-		u"\u0995\u09cb\u0993\u09b0\u09cd\u09a6\u09bf\u09a8\u09c7\u099f\u09c7\u09a6 \u09af\u09bc\u09c1\u09a8\u09bf\u09ad\u09b0\u09cd\u09b8\u09c7\u09b2 \u099f\u09be\u0987\u09ae"_s,
+		u"কোওর্দিনেটেদ য়ুনিভর্সেল টাইম"_s,
 		"UTC"_s,
 		""_s,
 		""_s,
@@ -59,67 +59,67 @@ $ObjectArray2* TimeZoneNames_mni::getContents() {
 		""_s
 	}));
 	$var($StringArray, Atlantic, $new($StringArray, {
-		u"\u0985\u099f\u09b2\u09be\u09a8\u09cd\u099f\u09bf\u0995 \u09b7\u09cd\u099f\u09c7\u09a8\u09cd\u09a6\u09b0\u09cd\u09a6 \u099f\u09be\u0987\u09ae"_s,
+		u"অটলান্টিক ষ্টেন্দর্দ টাইম"_s,
 		""_s,
-		u"\u0985\u099f\u09b2\u09be\u09a8\u09cd\u099f\u09bf\u0995 \u09a6\u09c7\u09b2\u09be\u0987\u099f \u099f\u09be\u0987\u09ae"_s,
+		u"অটলান্টিক দেলাইট টাইম"_s,
 		""_s,
-		u"\u0985\u099f\u09b2\u09be\u09a8\u09cd\u099f\u09bf\u0995 \u099f\u09be\u0987\u09ae"_s,
+		u"অটলান্টিক টাইম"_s,
 		""_s
 	}));
 	$var($StringArray, Europe_Central, $new($StringArray, {
-		u"\u09b8\u09c7\u09a8\u09cd\u09a4\u09cd\u09b0\u09c7\u09b2 \u09af\u09bc\u09c1\u09b0\u09cb\u09aa\u09bf\u09af\u09bc\u09be\u09a8 \u09b7\u09cd\u099f\u09c7\u09a8\u09cd\u09a6\u09b0\u09cd\u09a6 \u099f\u09be\u0987\u09ae"_s,
+		u"সেন্ত্রেল য়ুরোপিয়ান ষ্টেন্দর্দ টাইম"_s,
 		""_s,
-		u"\u09b8\u09c7\u09a8\u09cd\u09a4\u09cd\u09b0\u09c7\u09b2 \u09af\u09bc\u09c1\u09b0\u09cb\u09aa\u09bf\u09af\u09bc\u09be\u09a8 \u09b8\u09ae\u09b0 \u099f\u09be\u0987\u09ae"_s,
+		u"সেন্ত্রেল য়ুরোপিয়ান সমর টাইম"_s,
 		""_s,
-		u"\u09b8\u09c7\u09a8\u09cd\u09a4\u09cd\u09b0\u09c7\u09b2 \u09af\u09bc\u09c1\u09b0\u09cb\u09aa\u09bf\u09af\u09bc\u09be\u09a8 \u099f\u09be\u0987\u09ae"_s,
+		u"সেন্ত্রেল য়ুরোপিয়ান টাইম"_s,
 		""_s
 	}));
 	$var($StringArray, Europe_Eastern, $new($StringArray, {
-		u"\u0987\u09b7\u09cd\u099f\u09b0\u09cd\u09a8 \u09af\u09bc\u09c1\u09b0\u09cb\u09aa\u09bf\u09af\u09bc\u09be\u09a8 \u09b7\u09cd\u099f\u09c7\u09a8\u09cd\u09a6\u09b0\u09cd\u09a6 \u099f\u09be\u0987\u09ae"_s,
+		u"ইষ্টর্ন য়ুরোপিয়ান ষ্টেন্দর্দ টাইম"_s,
 		""_s,
-		u"\u0987\u09b7\u09cd\u099f\u09b0\u09cd\u09a8 \u09af\u09bc\u09c1\u09b0\u09cb\u09aa\u09bf\u09af\u09bc\u09be\u09a8 \u09b8\u09ae\u09b0 \u099f\u09be\u0987\u09ae"_s,
+		u"ইষ্টর্ন য়ুরোপিয়ান সমর টাইম"_s,
 		""_s,
-		u"\u0987\u09b7\u09cd\u099f\u09b0\u09cd\u09a8 \u09af\u09bc\u09c1\u09b0\u09cb\u09aa\u09bf\u09af\u09bc\u09be\u09a8 \u099f\u09be\u0987\u09ae"_s,
+		u"ইষ্টর্ন য়ুরোপিয়ান টাইম"_s,
 		""_s
 	}));
 	$var($StringArray, Europe_Western, $new($StringArray, {
-		u"\u09f1\u09c7\u09b7\u09cd\u099f\u09b0\u09cd\u09a8 \u09af\u09bc\u09c1\u09b0\u09cb\u09aa\u09bf\u09af\u09bc\u09be\u09a8 \u09b7\u09cd\u099f\u09c7\u09a8\u09cd\u09a6\u09b0\u09cd\u09a6 \u099f\u09be\u0987\u09ae"_s,
+		u"ৱেষ্টর্ন য়ুরোপিয়ান ষ্টেন্দর্দ টাইম"_s,
 		""_s,
-		u"\u09f1\u09c7\u09b7\u09cd\u099f\u09b0\u09cd\u09a8 \u09af\u09bc\u09c1\u09b0\u09cb\u09aa\u09bf\u09af\u09bc\u09be\u09a8 \u09b8\u09ae\u09b0 \u099f\u09be\u0987\u09ae"_s,
+		u"ৱেষ্টর্ন য়ুরোপিয়ান সমর টাইম"_s,
 		""_s,
-		u"\u09f1\u09c7\u09b7\u09cd\u099f\u09b0\u09cd\u09a8 \u09af\u09bc\u09c1\u09b0\u09cb\u09aa\u09bf\u09af\u09bc\u09be\u09a8 \u099f\u09be\u0987\u09ae"_s,
+		u"ৱেষ্টর্ন য়ুরোপিয়ান টাইম"_s,
 		""_s
 	}));
 	$var($StringArray, America_Central, $new($StringArray, {
-		u"\u09a8\u09cb\u09b0\u09cd\u09a5 \u0985\u09ae\u09c7\u09b0\u09bf\u0995\u09be\u09a8 \u09b8\u09c7\u09a8\u09cd\u09a4\u09cd\u09b0\u09c7\u09b2 \u09b7\u09cd\u099f\u09c7\u09a8\u09cd\u09a6\u09b0\u09cd\u09a6 \u099f\u09be\u0987\u09ae"_s,
+		u"নোর্থ অমেরিকান সেন্ত্রেল ষ্টেন্দর্দ টাইম"_s,
 		""_s,
-		u"\u09a8\u09cb\u09b0\u09cd\u09a5 \u0985\u09ae\u09c7\u09b0\u09bf\u0995\u09be\u09a8 \u09b8\u09c7\u09a8\u09cd\u09a4\u09cd\u09b0\u09c7\u09b2 \u09a6\u09c7\u09b2\u09be\u0987\u099f \u099f\u09be\u0987\u09ae"_s,
+		u"নোর্থ অমেরিকান সেন্ত্রেল দেলাইট টাইম"_s,
 		""_s,
-		u"\u09a8\u09cb\u09b0\u09cd\u09a5 \u0985\u09ae\u09c7\u09b0\u09bf\u0995\u09be\u09a8 \u09b8\u09c7\u09a8\u09cd\u09a4\u09cd\u09b0\u09c7\u09b2 \u099f\u09be\u0987\u09ae"_s,
+		u"নোর্থ অমেরিকান সেন্ত্রেল টাইম"_s,
 		""_s
 	}));
 	$var($StringArray, America_Eastern, $new($StringArray, {
-		u"\u09a8\u09cb\u09b0\u09cd\u09a5 \u0985\u09ae\u09c7\u09b0\u09bf\u0995\u09be\u09a8 \u0987\u09b7\u09cd\u099f\u09b0\u09cd\u09a8 \u09b7\u09cd\u099f\u09c7\u09a8\u09cd\u09a6\u09b0\u09cd\u09a6 \u099f\u09be\u0987\u09ae"_s,
+		u"নোর্থ অমেরিকান ইষ্টর্ন ষ্টেন্দর্দ টাইম"_s,
 		""_s,
-		u"\u09a8\u09cb\u09b0\u09cd\u09a5 \u0985\u09ae\u09c7\u09b0\u09bf\u0995\u09be\u09a8 \u0987\u09b7\u09cd\u099f\u09b0\u09cd\u09a8 \u09a6\u09c7\u09b2\u09be\u0987\u099f \u099f\u09be\u0987\u09ae"_s,
+		u"নোর্থ অমেরিকান ইষ্টর্ন দেলাইট টাইম"_s,
 		""_s,
-		u"\u09a8\u09cb\u09b0\u09cd\u09a5 \u0985\u09ae\u09c7\u09b0\u09bf\u0995\u09be\u09a8 \u0987\u09b7\u09cd\u099f\u09b0\u09cd\u09a8 \u099f\u09be\u0987\u09ae"_s,
+		u"নোর্থ অমেরিকান ইষ্টর্ন টাইম"_s,
 		""_s
 	}));
 	$var($StringArray, America_Pacific, $new($StringArray, {
-		u"\u09a8\u09cb\u09b0\u09cd\u09a5 \u0985\u09ae\u09c7\u09b0\u09bf\u0995\u09be\u09a8 \u09aa\u09c7\u09b8\u09bf\u09ab\u09bf\u0995 \u09b7\u09cd\u099f\u09c7\u09a8\u09cd\u09a6\u09b0\u09cd\u09a6 \u099f\u09be\u0987\u09ae"_s,
+		u"নোর্থ অমেরিকান পেসিফিক ষ্টেন্দর্দ টাইম"_s,
 		""_s,
-		u"\u09a8\u09cb\u09b0\u09cd\u09a5 \u0985\u09ae\u09c7\u09b0\u09bf\u0995\u09be\u09a8 \u09aa\u09c7\u09b8\u09bf\u09ab\u09bf\u0995 \u09a6\u09c7\u09b2\u09be\u0987\u099f \u099f\u09be\u0987\u09ae"_s,
+		u"নোর্থ অমেরিকান পেসিফিক দেলাইট টাইম"_s,
 		""_s,
-		u"\u09a8\u09cb\u09b0\u09cd\u09a5 \u0985\u09ae\u09c7\u09b0\u09bf\u0995\u09be\u09a8 \u09aa\u09c7\u09b8\u09bf\u09ab\u09bf\u0995 \u099f\u09be\u0987\u09ae"_s,
+		u"নোর্থ অমেরিকান পেসিফিক টাইম"_s,
 		""_s
 	}));
 	$var($StringArray, America_Mountain, $new($StringArray, {
-		u"\u09a8\u09cb\u09b0\u09cd\u09a5 \u0985\u09ae\u09c7\u09b0\u09bf\u0995\u09be\u09a8 \u09ae\u09be\u0989\u09a8\u09cd\u099f\u09c7\u09a8 \u09b7\u09cd\u099f\u09c7\u09a8\u09cd\u09a6\u09b0\u09cd\u09a6 \u099f\u09be\u0987\u09ae"_s,
+		u"নোর্থ অমেরিকান মাউন্টেন ষ্টেন্দর্দ টাইম"_s,
 		""_s,
-		u"\u09a8\u09cb\u09b0\u09cd\u09a5 \u0985\u09ae\u09c7\u09b0\u09bf\u0995\u09be\u09a8 \u09ae\u09be\u0989\u09a8\u09cd\u099f\u09c7\u09a8 \u09a6\u09c7\u09b2\u09be\u0987\u099f \u099f\u09be\u0987\u09ae"_s,
+		u"নোর্থ অমেরিকান মাউন্টেন দেলাইট টাইম"_s,
 		""_s,
-		u"\u09a8\u09cb\u09b0\u09cd\u09a5 \u0985\u09ae\u09c7\u09b0\u09bf\u0995\u09be\u09a8 \u09ae\u09be\u0989\u09a8\u09cd\u099f\u09c7\u09a8 \u099f\u09be\u0987\u09ae"_s,
+		u"নোর্থ অমেরিকান মাউন্টেন টাইম"_s,
 		""_s
 	}));
 	$var($ObjectArray2, data, $new($ObjectArray2, {
@@ -929,7 +929,7 @@ $ObjectArray2* TimeZoneNames_mni::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Etc/Unknown"_s),
-			$of(u"\u0996\u0982\u09a6\u09ac\u09be \u09b8\u09bf\u099f\u09bf"_s)
+			$of(u"খংদবা সিটি"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("America/North_Dakota/New_Salem"_s),

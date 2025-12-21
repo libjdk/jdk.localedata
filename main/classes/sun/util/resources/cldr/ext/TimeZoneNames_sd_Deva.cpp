@@ -43,7 +43,7 @@ void TimeZoneNames_sd_Deva::init$() {
 $ObjectArray2* TimeZoneNames_sd_Deva::getContents() {
 	$useLocalCurrentObjectStackCache();
 	$var($StringArray, GMT, $new($StringArray, {
-		u"\u0917\u094d\u0930\u0940\u0928 \u0935\u093f\u091a\u0941 \u092e\u0940\u0928 \u091f\u093e\u0907\u092e\u0941"_s,
+		u"ग्रीन विचु मीन टाइमु"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -51,7 +51,7 @@ $ObjectArray2* TimeZoneNames_sd_Deva::getContents() {
 		""_s
 	}));
 	$var($StringArray, ETC_UTC, $new($StringArray, {
-		u"\u0906\u0938\u094d\u0925\u093e\u0928\u0940 \u091a\u093e\u0932\u0942 \u091f\u093e\u0907\u092e\u0941"_s,
+		u"आस्थानी चालू टाइमु"_s,
 		"UTC"_s,
 		""_s,
 		""_s,
@@ -59,67 +59,67 @@ $ObjectArray2* TimeZoneNames_sd_Deva::getContents() {
 		""_s
 	}));
 	$var($StringArray, Atlantic, $new($StringArray, {
-		u"\u0905\u0902\u091f\u0932\u093e\u0902\u091f\u093f\u0915 \u091c\u0947 \u092e\u0905\u092f\u093e\u0930\u0940 \u0935\u093e\u0930\u094b \u092d\u0947\u0930\u094b"_s,
+		u"अंटलांटिक जे मअयारी वारो भेरो"_s,
 		""_s,
-		u"\u0905\u0902\u091f\u0932\u093e\u0902\u091f\u093f\u0915 \u091c\u0947 \u097e\u0940\u0902\u0939 \u0935\u093e\u0930\u094b \u092d\u0947\u0930\u094b"_s,
+		u"अंटलांटिक जे ॾींह वारो भेरो"_s,
 		""_s,
-		u"\u0905\u091f\u0932\u093e\u0902\u091f\u093f\u0915 \u091f\u093e\u0907\u092e\u0941"_s,
+		u"अटलांटिक टाइमु"_s,
 		""_s
 	}));
 	$var($StringArray, Europe_Central, $new($StringArray, {
-		u"\u0938\u0947\u0902\u091f\u0930\u0932\u0941 \u092f\u0942\u0930\u092a\u0940 \u092e\u092f\u0906\u0930\u0940 \u0935\u093e\u0930\u094b \u091f\u093e\u0907\u092e\u0941"_s,
+		u"सेंटरलु यूरपी मयआरी वारो टाइमु"_s,
 		""_s,
-		u"\u0938\u0947\u0902\u091f\u0930\u0932\u0941 \u092f\u0942\u0930\u092a\u0940 \u0917\u0930\u092e\u0940 \u0935\u093e\u0930\u094b \u091f\u093e\u0907\u092e\u0941"_s,
+		u"सेंटरलु यूरपी गरमी वारो टाइमु"_s,
 		""_s,
-		u"\u0938\u0947\u0902\u091f\u0930\u0932\u0941 \u092f\u0942\u0930\u092a\u0940 \u091f\u093e\u0907\u092e\u0941"_s,
+		u"सेंटरलु यूरपी टाइमु"_s,
 		""_s
 	}));
 	$var($StringArray, Europe_Eastern, $new($StringArray, {
-		u"\u0909\u092d\u093f\u0930\u0902\u0926\u094b \u092f\u0942\u0930\u094b\u092a\u0940 \u092e\u0905\u092f\u093e\u0930\u0940 \u0935\u093e\u0930\u094b \u0935\u0915\u094d\u0924\u0941"_s,
+		u"उभिरंदो यूरोपी मअयारी वारो वक्तु"_s,
 		""_s,
-		u"\u0909\u092d\u093f\u0930\u0902\u0926\u094b \u092f\u0942\u0930\u094b\u092a\u0940 \u0917\u0930\u092e\u0940 \u0935\u093e\u0930\u094b \u0935\u0915\u094d\u0924\u0941"_s,
+		u"उभिरंदो यूरोपी गरमी वारो वक्तु"_s,
 		""_s,
-		u"\u0909\u092d\u093f\u0930\u0902\u0926\u094b \u092f\u0942\u0930\u094b\u092a\u0940 \u091f\u093e\u0907\u092e\u0941"_s,
+		u"उभिरंदो यूरोपी टाइमु"_s,
 		""_s
 	}));
 	$var($StringArray, Europe_Western, $new($StringArray, {
-		u"\u0909\u0932\u0939\u0902\u0926\u094b \u091c\u0947 \u092e\u0905\u092f\u093e\u0930\u0940 \u0935\u093e\u0930\u094b \u0935\u0915\u094d\u0924\u0941"_s,
+		u"उलहंदो जे मअयारी वारो वक्तु"_s,
 		""_s,
-		u"\u0909\u0932\u0939\u0902\u0926\u094b \u091c\u0947 \u092f\u0942\u0930\u094b\u092a\u0940\u0905 \u0917\u0930\u092e\u0940 \u0935\u093e\u0930\u094b \u0935\u0915\u094d\u0924\u0941"_s,
+		u"उलहंदो जे यूरोपीअ गरमी वारो वक्तु"_s,
 		""_s,
-		u"\u0909\u0932\u0939\u0902\u0926\u094b \u0935\u093e\u0930\u094b \u092f\u0942\u0930\u094b\u092a\u0940 \u0935\u093e\u0930\u094b \u0935\u0915\u094d\u0924\u0941"_s,
+		u"उलहंदो वारो यूरोपी वारो वक्तु"_s,
 		""_s
 	}));
 	$var($StringArray, America_Central, $new($StringArray, {
-		u"\u0935\u093f\u091a\u094b \u092e\u0905\u092f\u093e\u0930\u0940 \u092d\u0947\u0930\u094b"_s,
+		u"विचो मअयारी भेरो"_s,
 		""_s,
-		u"\u0935\u093f\u091a\u094b \u097e\u0940\u0902\u0939 \u0935\u093e\u0930\u094b \u092d\u0947\u0930\u094b"_s,
+		u"विचो ॾींह वारो भेरो"_s,
 		""_s,
-		u"\u0935\u093f\u091a\u094b \u092d\u0947\u0930\u094b"_s,
+		u"विचो भेरो"_s,
 		""_s
 	}));
 	$var($StringArray, America_Eastern, $new($StringArray, {
-		u"\u0909\u092d\u093f\u0930\u0902\u0926\u094b \u092e\u0905\u092f\u093e\u0930\u0940 \u0935\u093e\u0930\u094b \u092d\u0947\u0930\u094b"_s,
+		u"उभिरंदो मअयारी वारो भेरो"_s,
 		""_s,
-		u"\u0909\u092d\u093f\u0930\u0902\u0926\u094b \u0935\u093f\u091a\u094b \u0935\u093e\u0930\u094b \u092d\u0947\u0930\u094b"_s,
+		u"उभिरंदो विचो वारो भेरो"_s,
 		""_s,
-		u"\u0909\u092d\u093f\u0930\u0902\u0926\u094b \u092d\u0947\u0930\u094b"_s,
+		u"उभिरंदो भेरो"_s,
 		""_s
 	}));
 	$var($StringArray, America_Pacific, $new($StringArray, {
-		u"\u092a\u0947\u0938\u0940\u092b\u093f\u0915 \u0935\u093e\u0930\u094b \u092e\u0905\u092f\u093e\u0930\u0940 \u0935\u093e\u0930\u094b \u092d\u0947\u0930\u094b"_s,
+		u"पेसीफिक वारो मअयारी वारो भेरो"_s,
 		""_s,
-		u"\u092a\u0947\u0938\u0940\u092b\u093f\u0915 \u091c\u094b \u097e\u0940\u0902\u0939 \u0935\u093e\u0930\u094b \u092d\u0947\u0930\u094b"_s,
+		u"पेसीफिक जो ॾींह वारो भेरो"_s,
 		""_s,
-		u"\u092a\u0947\u0938\u0940\u092b\u093f\u0915 \u0935\u093e\u0930\u094b \u091f\u093e\u0907\u092e\u0941"_s,
+		u"पेसीफिक वारो टाइमु"_s,
 		""_s
 	}));
 	$var($StringArray, America_Mountain, $new($StringArray, {
-		u"\u091f\u0915\u0930\u0941 \u0935\u093e\u0930\u094b \u092e\u0905\u092f\u093e\u0930\u0940 \u092d\u0947\u0930\u094b"_s,
+		u"टकरु वारो मअयारी भेरो"_s,
 		""_s,
-		u"\u091f\u0915\u0930\u0941 \u091c\u094b \u097e\u0940\u0902\u0939 \u0935\u093e\u0930\u094b \u092d\u0947\u0930\u094b"_s,
+		u"टकरु जो ॾींह वारो भेरो"_s,
 		""_s,
-		u"\u091f\u0915\u0930\u0941 \u0935\u093e\u0930\u094b \u092d\u0947\u0930\u094b"_s,
+		u"टकरु वारो भेरो"_s,
 		""_s
 	}));
 	$var($ObjectArray2, data, $new($ObjectArray2, {
@@ -929,7 +929,7 @@ $ObjectArray2* TimeZoneNames_sd_Deva::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Etc/Unknown"_s),
-			$of(u"\u092c\u0947\u0916\u092c\u0930\u094b \u0936\u0939\u0930\u0941"_s)
+			$of(u"बेखबरो शहरु"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("America/North_Dakota/New_Salem"_s),

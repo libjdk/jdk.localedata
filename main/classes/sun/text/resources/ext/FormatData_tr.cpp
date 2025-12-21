@@ -43,17 +43,17 @@ $ObjectArray2* FormatData_tr::getContents() {
 			$of("MonthNames"_s),
 			$of($$new($StringArray, {
 				"Ocak"_s,
-				u"\u015eubat"_s,
+				u"Şubat"_s,
 				"Mart"_s,
 				"Nisan"_s,
-				u"May\u0131s"_s,
+				u"Mayıs"_s,
 				"Haziran"_s,
 				"Temmuz"_s,
-				u"A\u011fustos"_s,
-				u"Eyl\u00fcl"_s,
+				u"Ağustos"_s,
+				u"Eylül"_s,
 				"Ekim"_s,
-				u"Kas\u0131m"_s,
-				u"Aral\u0131k"_s,
+				u"Kasım"_s,
+				u"Aralık"_s,
 				""_s
 			}))
 		}),
@@ -61,17 +61,17 @@ $ObjectArray2* FormatData_tr::getContents() {
 			$of("standalone.MonthNames"_s),
 			$of($$new($StringArray, {
 				"Ocak"_s,
-				u"\u015eubat"_s,
+				u"Şubat"_s,
 				"Mart"_s,
 				"Nisan"_s,
-				u"May\u0131s"_s,
+				u"Mayıs"_s,
 				"Haziran"_s,
 				"Temmuz"_s,
-				u"A\u011fustos"_s,
-				u"Eyl\u00fcl"_s,
+				u"Ağustos"_s,
+				u"Eylül"_s,
 				"Ekim"_s,
-				u"Kas\u0131m"_s,
-				u"Aral\u0131k"_s,
+				u"Kasım"_s,
+				u"Aralık"_s,
 				""_s
 			}))
 		}),
@@ -79,13 +79,13 @@ $ObjectArray2* FormatData_tr::getContents() {
 			$of("MonthAbbreviations"_s),
 			$of($$new($StringArray, {
 				"Oca"_s,
-				u"\u015eub"_s,
+				u"Şub"_s,
 				"Mar"_s,
 				"Nis"_s,
 				"May"_s,
 				"Haz"_s,
 				"Tem"_s,
-				u"A\u011fu"_s,
+				u"Ağu"_s,
 				"Eyl"_s,
 				"Eki"_s,
 				"Kas"_s,
@@ -97,13 +97,13 @@ $ObjectArray2* FormatData_tr::getContents() {
 			$of("standalone.MonthAbbreviations"_s),
 			$of($$new($StringArray, {
 				"Oca"_s,
-				u"\u015eub"_s,
+				u"Şub"_s,
 				"Mar"_s,
 				"Nis"_s,
 				"May"_s,
 				"Haz"_s,
 				"Tem"_s,
-				u"A\u011fu"_s,
+				u"Ağu"_s,
 				"Eyl"_s,
 				"Eki"_s,
 				"Kas"_s,
@@ -115,7 +115,7 @@ $ObjectArray2* FormatData_tr::getContents() {
 			$of("MonthNarrows"_s),
 			$of($$new($StringArray, {
 				"O"_s,
-				u"\u015e"_s,
+				u"Ş"_s,
 				"M"_s,
 				"N"_s,
 				"M"_s,
@@ -133,7 +133,7 @@ $ObjectArray2* FormatData_tr::getContents() {
 			$of("standalone.MonthNarrows"_s),
 			$of($$new($StringArray, {
 				"O"_s,
-				u"\u015e"_s,
+				u"Ş"_s,
 				"M"_s,
 				"N"_s,
 				"M"_s,
@@ -152,9 +152,9 @@ $ObjectArray2* FormatData_tr::getContents() {
 			$of($$new($StringArray, {
 				"Pazar"_s,
 				"Pazartesi"_s,
-				u"Sal\u0131"_s,
-				u"\u00c7ar\u015famba"_s,
-				u"Per\u015fembe"_s,
+				u"Salı"_s,
+				u"Çarşamba"_s,
+				u"Perşembe"_s,
 				"Cuma"_s,
 				"Cumartesi"_s
 			}))
@@ -164,9 +164,9 @@ $ObjectArray2* FormatData_tr::getContents() {
 			$of($$new($StringArray, {
 				"Pazar"_s,
 				"Pazartesi"_s,
-				u"Sal\u0131"_s,
-				u"\u00c7ar\u015famba"_s,
-				u"Per\u015fembe"_s,
+				u"Salı"_s,
+				u"Çarşamba"_s,
+				u"Perşembe"_s,
 				"Cuma"_s,
 				"Cumartesi"_s
 			}))
@@ -177,7 +177,7 @@ $ObjectArray2* FormatData_tr::getContents() {
 				"Paz"_s,
 				"Pzt"_s,
 				"Sal"_s,
-				u"\u00c7ar"_s,
+				u"Çar"_s,
 				"Per"_s,
 				"Cum"_s,
 				"Cmt"_s
@@ -189,7 +189,7 @@ $ObjectArray2* FormatData_tr::getContents() {
 				"Paz"_s,
 				"Pzt"_s,
 				"Sal"_s,
-				u"\u00c7ar"_s,
+				u"Çar"_s,
 				"Per"_s,
 				"Cum"_s,
 				"Cmt"_s
@@ -201,7 +201,7 @@ $ObjectArray2* FormatData_tr::getContents() {
 				"P"_s,
 				"P"_s,
 				"S"_s,
-				u"\u00c7"_s,
+				u"Ç"_s,
 				"P"_s,
 				"C"_s,
 				"C"_s
@@ -213,7 +213,7 @@ $ObjectArray2* FormatData_tr::getContents() {
 				"P"_s,
 				"P"_s,
 				"S"_s,
-				u"\u00c7"_s,
+				u"Ç"_s,
 				"P"_s,
 				"C"_s,
 				"C"_s
@@ -222,14 +222,14 @@ $ObjectArray2* FormatData_tr::getContents() {
 		$$new($ObjectArray, {
 			$of("long.Eras"_s),
 			$of($$new($StringArray, {
-				u"Milattan \u00d6nce"_s,
+				u"Milattan Önce"_s,
 				"Milattan Sonra"_s
 			}))
 		}),
 		$$new($ObjectArray, {
 			$of("Eras"_s),
 			$of($$new($StringArray, {
-				u"M\u00d6"_s,
+				u"MÖ"_s,
 				"MS"_s
 			}))
 		}),
@@ -237,7 +237,7 @@ $ObjectArray2* FormatData_tr::getContents() {
 			$of("NumberPatterns"_s),
 			$of($$new($StringArray, {
 				"#,##0.###;-#,##0.###"_s,
-				u"#,##0.00 \u00a4;-#,##0.00 \u00a4"_s,
+				u"#,##0.00 ¤;-#,##0.00 ¤"_s,
 				"% #,##0"_s
 			}))
 		}),
@@ -252,9 +252,9 @@ $ObjectArray2* FormatData_tr::getContents() {
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
-				u"\ufffd"_s
+				u"‰"_s,
+				u"∞"_s,
+				u"�"_s
 			}))
 		}),
 		$$new($ObjectArray, {

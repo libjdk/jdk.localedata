@@ -298,7 +298,7 @@ $ObjectArray2* CurrencyNames_ja::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("CNY"_s),
-			$of(u"\u5143"_s)
+			$of(u"元"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("COP"_s),
@@ -538,7 +538,7 @@ $ObjectArray2* CurrencyNames_ja::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("JPY"_s),
-			$of(u"\uffe5"_s)
+			$of(u"￥"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("KES"_s),
@@ -1182,1211 +1182,1211 @@ $ObjectArray2* CurrencyNames_ja::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("adp"_s),
-			$of(u"\u30a2\u30f3\u30c9\u30e9 \u30da\u30bb\u30bf"_s)
+			$of(u"アンドラ ペセタ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("aed"_s),
-			$of(u"\u30a2\u30e9\u30d6\u9996\u9577\u56fd\u9023\u90a6\u30c7\u30a3\u30eb\u30cf\u30e0"_s)
+			$of(u"アラブ首長国連邦ディルハム"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("afa"_s),
-			$of(u"\u30a2\u30d5\u30ac\u30cb\u30b9\u30bf\u30f3 \u30a2\u30d5\u30ac\u30cb\u30fc (1927\u20132002)"_s)
+			$of(u"アフガニスタン アフガニー (1927–2002)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("afn"_s),
-			$of(u"\u30a2\u30d5\u30ac\u30cb\u30b9\u30bf\u30f3 \u30a2\u30d5\u30ac\u30cb\u30fc"_s)
+			$of(u"アフガニスタン アフガニー"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("alk"_s),
-			$of(u"\u30a2\u30eb\u30d0\u30cb\u30a2 \u30ec\u30af (1946\u20131965)"_s)
+			$of(u"アルバニア レク (1946–1965)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("all"_s),
-			$of(u"\u30a2\u30eb\u30d0\u30cb\u30a2 \u30ec\u30af"_s)
+			$of(u"アルバニア レク"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("amd"_s),
-			$of(u"\u30a2\u30eb\u30e1\u30cb\u30a2 \u30c9\u30e9\u30e0"_s)
+			$of(u"アルメニア ドラム"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ang"_s),
-			$of(u"\u30aa\u30e9\u30f3\u30c0\u9818\u30a2\u30f3\u30c6\u30a3\u30eb \u30ae\u30eb\u30c0\u30fc"_s)
+			$of(u"オランダ領アンティル ギルダー"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("aoa"_s),
-			$of(u"\u30a2\u30f3\u30b4\u30e9 \u30af\u30ef\u30f3\u30b6"_s)
+			$of(u"アンゴラ クワンザ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("aok"_s),
-			$of(u"\u30a2\u30f3\u30b4\u30e9 \u30af\u30ef\u30f3\u30b6 (1977\u20131991)"_s)
+			$of(u"アンゴラ クワンザ (1977–1991)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("aon"_s),
-			$of(u"\u30a2\u30f3\u30b4\u30e9 \u65b0\u30af\u30ef\u30f3\u30b6 (1990\u20132000)"_s)
+			$of(u"アンゴラ 新クワンザ (1990–2000)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("aor"_s),
-			$of(u"\u30a2\u30f3\u30b4\u30e9 \u65e7\u30af\u30ef\u30f3\u30b6 (1995\u20131999)"_s)
+			$of(u"アンゴラ 旧クワンザ (1995–1999)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ara"_s),
-			$of(u"\u30a2\u30eb\u30bc\u30f3\u30c1\u30f3 \u30a2\u30a5\u30b9\u30c8\u30e9\u30fc\u30eb"_s)
+			$of(u"アルゼンチン アゥストラール"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("arl"_s),
-			$of(u"\u30a2\u30eb\u30bc\u30f3\u30c1\u30f3\u30fb\u30da\u30bd\u30fb\u30ec\u30a4\uff081970\u20131983\uff09"_s)
+			$of(u"アルゼンチン・ペソ・レイ（1970–1983）"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("arm"_s),
-			$of(u"\u30a2\u30eb\u30bc\u30f3\u30c1\u30f3\u30fb\u30da\u30bd\uff081881\u20131970\uff09"_s)
+			$of(u"アルゼンチン・ペソ（1881–1970）"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("arp"_s),
-			$of(u"\u30a2\u30eb\u30bc\u30f3\u30c1\u30f3 \u30da\u30bd (1983\u20131985)"_s)
+			$of(u"アルゼンチン ペソ (1983–1985)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ars"_s),
-			$of(u"\u30a2\u30eb\u30bc\u30f3\u30c1\u30f3 \u30da\u30bd"_s)
+			$of(u"アルゼンチン ペソ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ats"_s),
-			$of(u"\u30aa\u30fc\u30b9\u30c8\u30ea\u30a2 \u30b7\u30ea\u30f3\u30b0"_s)
+			$of(u"オーストリア シリング"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("aud"_s),
-			$of(u"\u30aa\u30fc\u30b9\u30c8\u30e9\u30ea\u30a2 \u30c9\u30eb"_s)
+			$of(u"オーストラリア ドル"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("awg"_s),
-			$of(u"\u30a2\u30eb\u30d0 \u30d5\u30ed\u30ea\u30f3"_s)
+			$of(u"アルバ フロリン"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("azm"_s),
-			$of(u"\u30a2\u30bc\u30eb\u30d0\u30a4\u30b8\u30e3\u30f3 \u30de\u30ca\u30c8 (1993\u20132006)"_s)
+			$of(u"アゼルバイジャン マナト (1993–2006)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("azn"_s),
-			$of(u"\u30a2\u30bc\u30eb\u30d0\u30a4\u30b8\u30e3\u30f3 \u30de\u30ca\u30c8"_s)
+			$of(u"アゼルバイジャン マナト"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bad"_s),
-			$of(u"\u30dc\u30b9\u30cb\u30a2\u30fb\u30d8\u30eb\u30c4\u30a7\u30b4\u30d3\u30ca \u30c7\u30a3\u30ca\u30fc\u30eb (1992\u20131994)"_s)
+			$of(u"ボスニア・ヘルツェゴビナ ディナール (1992–1994)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bam"_s),
-			$of(u"\u30dc\u30b9\u30cb\u30a2\u30fb\u30d8\u30eb\u30c4\u30a7\u30b4\u30d3\u30ca \u514c\u63db\u30de\u30eb\u30af (BAM)"_s)
+			$of(u"ボスニア・ヘルツェゴビナ 兌換マルク (BAM)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ban"_s),
-			$of(u"\u30dc\u30b9\u30cb\u30a2\u30fb\u30d8\u30eb\u30c4\u30a7\u30b4\u30d3\u30ca \u65b0\u30c7\u30a3\u30ca\u30fc\u30eb\uff081994\u20131997\uff09"_s)
+			$of(u"ボスニア・ヘルツェゴビナ 新ディナール（1994–1997）"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bbd"_s),
-			$of(u"\u30d0\u30eb\u30d0\u30c9\u30b9 \u30c9\u30eb"_s)
+			$of(u"バルバドス ドル"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bdt"_s),
-			$of(u"\u30d0\u30f3\u30b0\u30e9\u30c7\u30b7\u30e5 \u30bf\u30ab"_s)
+			$of(u"バングラデシュ タカ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bec"_s),
-			$of(u"\u30d9\u30eb\u30ae\u30fc \u30d5\u30e9\u30f3 (BEC)"_s)
+			$of(u"ベルギー フラン (BEC)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bef"_s),
-			$of(u"\u30d9\u30eb\u30ae\u30fc \u30d5\u30e9\u30f3"_s)
+			$of(u"ベルギー フラン"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bel"_s),
-			$of(u"\u30d9\u30eb\u30ae\u30fc \u30d5\u30e9\u30f3 (BEL)"_s)
+			$of(u"ベルギー フラン (BEL)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bgl"_s),
-			$of(u"\u30d6\u30eb\u30ac\u30ea\u30a2 \u30ec\u30d5"_s)
+			$of(u"ブルガリア レフ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bgm"_s),
-			$of(u"\u30d6\u30eb\u30ac\u30ea\u30a2\u793e\u4f1a\u4e3b\u7fa9 \u30ec\u30d5"_s)
+			$of(u"ブルガリア社会主義 レフ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bgn"_s),
-			$of(u"\u30d6\u30eb\u30ac\u30ea\u30a2 \u65b0\u30ec\u30d5"_s)
+			$of(u"ブルガリア 新レフ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bgo"_s),
-			$of(u"\u30d6\u30eb\u30ac\u30ea\u30a2 \u30ec\u30d5\uff081879\u20131952\uff09"_s)
+			$of(u"ブルガリア レフ（1879–1952）"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bhd"_s),
-			$of(u"\u30d0\u30fc\u30ec\u30fc\u30f3 \u30c7\u30a3\u30ca\u30fc\u30eb"_s)
+			$of(u"バーレーン ディナール"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bif"_s),
-			$of(u"\u30d6\u30eb\u30f3\u30b8 \u30d5\u30e9\u30f3"_s)
+			$of(u"ブルンジ フラン"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bmd"_s),
-			$of(u"\u30d0\u30df\u30e5\u30fc\u30c0 \u30c9\u30eb"_s)
+			$of(u"バミューダ ドル"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bnd"_s),
-			$of(u"\u30d6\u30eb\u30cd\u30a4 \u30c9\u30eb"_s)
+			$of(u"ブルネイ ドル"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bob"_s),
-			$of(u"\u30dc\u30ea\u30d3\u30a2 \u30dc\u30ea\u30d3\u30a2\u30fc\u30ce"_s)
+			$of(u"ボリビア ボリビアーノ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bol"_s),
-			$of(u"\u30dc\u30ea\u30d3\u30a2 \u30dc\u30ea\u30d3\u30a2\u30fc\u30ce (1863\u20131963)"_s)
+			$of(u"ボリビア ボリビアーノ (1863–1963)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bop"_s),
-			$of(u"\u30dc\u30ea\u30d3\u30a2 \u30da\u30bd"_s)
+			$of(u"ボリビア ペソ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bov"_s),
-			$of(u"\u30dc\u30ea\u30d3\u30a2 (Mvdol)"_s)
+			$of(u"ボリビア (Mvdol)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("brb"_s),
-			$of(u"\u30d6\u30e9\u30b8\u30eb \u65b0\u30af\u30eb\u30bc\u30a4\u30ed (1967\u20131986)"_s)
+			$of(u"ブラジル 新クルゼイロ (1967–1986)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("brc"_s),
-			$of(u"\u30d6\u30e9\u30b8\u30eb \u30af\u30eb\u30b6\u30fc\u30c9 (1986\u20131989)"_s)
+			$of(u"ブラジル クルザード (1986–1989)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bre"_s),
-			$of(u"\u30d6\u30e9\u30b8\u30eb \u30af\u30eb\u30bc\u30a4\u30ed (1990\u20131993)"_s)
+			$of(u"ブラジル クルゼイロ (1990–1993)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("brl"_s),
-			$of(u"\u30d6\u30e9\u30b8\u30eb \u30ec\u30a2\u30eb"_s)
+			$of(u"ブラジル レアル"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("brn"_s),
-			$of(u"\u30d6\u30e9\u30b8\u30eb \u65b0\u30af\u30eb\u30b6\u30fc\u30c9 (1989\u20131990)"_s)
+			$of(u"ブラジル 新クルザード (1989–1990)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("brr"_s),
-			$of(u"\u30d6\u30e9\u30b8\u30eb \u30af\u30eb\u30bc\u30a4\u30ed (1993\u20131994)"_s)
+			$of(u"ブラジル クルゼイロ (1993–1994)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("brz"_s),
-			$of(u"\u30d6\u30e9\u30b8\u30eb \u30af\u30eb\u30bc\u30a4\u30ed\uff081942\u20131967\uff09"_s)
+			$of(u"ブラジル クルゼイロ（1942–1967）"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bsd"_s),
-			$of(u"\u30d0\u30cf\u30de \u30c9\u30eb"_s)
+			$of(u"バハマ ドル"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("btn"_s),
-			$of(u"\u30d6\u30fc\u30bf\u30f3 \u30cb\u30e5\u30eb\u30bf\u30e0"_s)
+			$of(u"ブータン ニュルタム"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("buk"_s),
-			$of(u"\u30d3\u30eb\u30de \u30c1\u30e3\u30c3\u30c8"_s)
+			$of(u"ビルマ チャット"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bwp"_s),
-			$of(u"\u30dc\u30c4\u30ef\u30ca \u30d7\u30e9"_s)
+			$of(u"ボツワナ プラ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("byb"_s),
-			$of(u"\u30d9\u30e9\u30eb\u30fc\u30b7 \u65b0\u30eb\u30fc\u30d6\u30eb (1994\u20131999)"_s)
+			$of(u"ベラルーシ 新ルーブル (1994–1999)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("byn"_s),
-			$of(u"\u30d9\u30e9\u30eb\u30fc\u30b7 \u30eb\u30fc\u30d6\u30eb"_s)
+			$of(u"ベラルーシ ルーブル"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("byr"_s),
-			$of(u"\u30d9\u30e9\u30eb\u30fc\u30b7 \u30eb\u30fc\u30d6\u30eb (2000\u20132016)"_s)
+			$of(u"ベラルーシ ルーブル (2000–2016)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bzd"_s),
-			$of(u"\u30d9\u30ea\u30fc\u30ba \u30c9\u30eb"_s)
+			$of(u"ベリーズ ドル"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cad"_s),
-			$of(u"\u30ab\u30ca\u30c0 \u30c9\u30eb"_s)
+			$of(u"カナダ ドル"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cdf"_s),
-			$of(u"\u30b3\u30f3\u30b4 \u30d5\u30e9\u30f3"_s)
+			$of(u"コンゴ フラン"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("che"_s),
-			$of(u"\u30e6\u30fc\u30ed (WIR)"_s)
+			$of(u"ユーロ (WIR)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("chf"_s),
-			$of(u"\u30b9\u30a4\u30b9 \u30d5\u30e9\u30f3"_s)
+			$of(u"スイス フラン"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("chw"_s),
-			$of(u"\u30d5\u30e9\u30f3 (WIR)"_s)
+			$of(u"フラン (WIR)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cle"_s),
-			$of(u"\u30c1\u30ea \u30a8\u30b9\u30af\u30fc\u30c9"_s)
+			$of(u"チリ エスクード"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("clf"_s),
-			$of(u"\u30c1\u30ea \u30a6\u30cb\u30c0\u30fb\u30c7\u30fb\u30d5\u30a9\u30e1\u30f3\u30c8 (UF)"_s)
+			$of(u"チリ ウニダ・デ・フォメント (UF)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("clp"_s),
-			$of(u"\u30c1\u30ea \u30da\u30bd"_s)
+			$of(u"チリ ペソ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cnh"_s),
-			$of(u"\u4e2d\u56fd\u4eba\u6c11\u5143(\u30aa\u30d5\u30b7\u30e7\u30a2)"_s)
+			$of(u"中国人民元(オフショア)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cnx"_s),
-			$of(u"\u4e2d\u56fd\u4eba\u6c11\u9280\u884c\u30c9\u30eb"_s)
+			$of(u"中国人民銀行ドル"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cny"_s),
-			$of(u"\u4e2d\u56fd\u4eba\u6c11\u5143"_s)
+			$of(u"中国人民元"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cop"_s),
-			$of(u"\u30b3\u30ed\u30f3\u30d3\u30a2 \u30da\u30bd"_s)
+			$of(u"コロンビア ペソ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cou"_s),
-			$of(u"\u30b3\u30ed\u30f3\u30d3\u30a2 \u30ec\u30a2\u30eb \uff08UVR)"_s)
+			$of(u"コロンビア レアル （UVR)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("crc"_s),
-			$of(u"\u30b3\u30b9\u30bf\u30ea\u30ab \u30b3\u30ed\u30f3"_s)
+			$of(u"コスタリカ コロン"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("csd"_s),
-			$of(u"\u30bb\u30eb\u30d3\u30a2 \u30c7\u30a3\u30ca\u30fc\u30eb (2002\u20132006)"_s)
+			$of(u"セルビア ディナール (2002–2006)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("csk"_s),
-			$of(u"\u30c1\u30a7\u30b3\u30b9\u30ed\u30d0\u30ad\u30a2 \u30b3\u30eb\u30ca"_s)
+			$of(u"チェコスロバキア コルナ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cuc"_s),
-			$of(u"\u30ad\u30e5\u30fc\u30d0 \u514c\u63db\u30da\u30bd"_s)
+			$of(u"キューバ 兌換ペソ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cup"_s),
-			$of(u"\u30ad\u30e5\u30fc\u30d0 \u30da\u30bd"_s)
+			$of(u"キューバ ペソ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cve"_s),
-			$of(u"\u30ab\u30fc\u30dc\u30d9\u30eb\u30c7 \u30a8\u30b9\u30af\u30fc\u30c9"_s)
+			$of(u"カーボベルデ エスクード"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cyp"_s),
-			$of(u"\u30ad\u30d7\u30ed\u30b9 \u30dd\u30f3\u30c9"_s)
+			$of(u"キプロス ポンド"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("czk"_s),
-			$of(u"\u30c1\u30a7\u30b3 \u30b3\u30eb\u30ca"_s)
+			$of(u"チェコ コルナ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ddm"_s),
-			$of(u"\u6771\u30c9\u30a4\u30c4 \u30de\u30eb\u30af"_s)
+			$of(u"東ドイツ マルク"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("dem"_s),
-			$of(u"\u30c9\u30a4\u30c4 \u30de\u30eb\u30af"_s)
+			$of(u"ドイツ マルク"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("djf"_s),
-			$of(u"\u30b8\u30d6\u30c1 \u30d5\u30e9\u30f3"_s)
+			$of(u"ジブチ フラン"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("dkk"_s),
-			$of(u"\u30c7\u30f3\u30de\u30fc\u30af \u30af\u30ed\u30fc\u30cd"_s)
+			$of(u"デンマーク クローネ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("dop"_s),
-			$of(u"\u30c9\u30df\u30cb\u30ab \u30da\u30bd"_s)
+			$of(u"ドミニカ ペソ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("dzd"_s),
-			$of(u"\u30a2\u30eb\u30b8\u30a7\u30ea\u30a2 \u30c7\u30a3\u30ca\u30fc\u30eb"_s)
+			$of(u"アルジェリア ディナール"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ecs"_s),
-			$of(u"\u30a8\u30af\u30a2\u30c9\u30eb \u30b9\u30af\u30ec"_s)
+			$of(u"エクアドル スクレ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ecv"_s),
-			$of(u"\u30a8\u30af\u30a2\u30c9\u30eb (UVC)"_s)
+			$of(u"エクアドル (UVC)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("eek"_s),
-			$of(u"\u30a8\u30b9\u30c8\u30cb\u30a2 \u30af\u30eb\u30fc\u30f3"_s)
+			$of(u"エストニア クルーン"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("egp"_s),
-			$of(u"\u30a8\u30b8\u30d7\u30c8 \u30dd\u30f3\u30c9"_s)
+			$of(u"エジプト ポンド"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ern"_s),
-			$of(u"\u30a8\u30ea\u30c8\u30ea\u30a2 \u30ca\u30af\u30d5\u30a1"_s)
+			$of(u"エリトリア ナクファ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("esa"_s),
-			$of(u"\u30b9\u30da\u30a4\u30f3\u30da\u30bb\u30bf\uff08\u52d8\u5b9aA\uff09"_s)
+			$of(u"スペインペセタ（勘定A）"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("esb"_s),
-			$of(u"\u30b9\u30da\u30a4\u30f3 \u514c\u63db\u30da\u30bb\u30bf"_s)
+			$of(u"スペイン 兌換ペセタ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("esp"_s),
-			$of(u"\u30b9\u30da\u30a4\u30f3 \u30da\u30bb\u30bf"_s)
+			$of(u"スペイン ペセタ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("etb"_s),
-			$of(u"\u30a8\u30c1\u30aa\u30d4\u30a2 \u30d6\u30eb"_s)
+			$of(u"エチオピア ブル"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("eur"_s),
-			$of(u"\u30e6\u30fc\u30ed"_s)
+			$of(u"ユーロ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("fim"_s),
-			$of(u"\u30d5\u30a3\u30f3\u30e9\u30f3\u30c9 \u30de\u30eb\u30ab"_s)
+			$of(u"フィンランド マルカ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("fjd"_s),
-			$of(u"\u30d5\u30a3\u30b8\u30fc \u30c9\u30eb"_s)
+			$of(u"フィジー ドル"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("fkp"_s),
-			$of(u"\u30d5\u30a9\u30fc\u30af\u30e9\u30f3\u30c9\uff08\u30de\u30eb\u30d3\u30ca\u30b9\uff09\u8af8\u5cf6 \u30dd\u30f3\u30c9"_s)
+			$of(u"フォークランド（マルビナス）諸島 ポンド"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("frf"_s),
-			$of(u"\u30d5\u30e9\u30f3\u30b9 \u30d5\u30e9\u30f3"_s)
+			$of(u"フランス フラン"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gbp"_s),
-			$of(u"\u82f1\u56fd\u30dd\u30f3\u30c9"_s)
+			$of(u"英国ポンド"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gek"_s),
-			$of(u"\u30b8\u30e7\u30fc\u30b8\u30a2 \u30af\u30fc\u30dd\u30f3 \u30e9\u30ea"_s)
+			$of(u"ジョージア クーポン ラリ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gel"_s),
-			$of(u"\u30b8\u30e7\u30fc\u30b8\u30a2 \u30e9\u30ea"_s)
+			$of(u"ジョージア ラリ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ghc"_s),
-			$of(u"\u30ac\u30fc\u30ca \u30bb\u30c7\u30a3 (1979\u20132007)"_s)
+			$of(u"ガーナ セディ (1979–2007)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ghs"_s),
-			$of(u"\u30ac\u30fc\u30ca \u30bb\u30c7\u30a3"_s)
+			$of(u"ガーナ セディ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gip"_s),
-			$of(u"\u30b8\u30d6\u30e9\u30eb\u30bf\u30eb \u30dd\u30f3\u30c9"_s)
+			$of(u"ジブラルタル ポンド"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gmd"_s),
-			$of(u"\u30ac\u30f3\u30d3\u30a2 \u30c0\u30e9\u30b7"_s)
+			$of(u"ガンビア ダラシ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gnf"_s),
-			$of(u"\u30ae\u30cb\u30a2 \u30d5\u30e9\u30f3"_s)
+			$of(u"ギニア フラン"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gns"_s),
-			$of(u"\u30ae\u30cb\u30a2 \u30b7\u30ea\u30fc"_s)
+			$of(u"ギニア シリー"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gqe"_s),
-			$of(u"\u8d64\u9053\u30ae\u30cb\u30a2 \u30a8\u30af\u30a6\u30a7\u30ec"_s)
+			$of(u"赤道ギニア エクウェレ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("grd"_s),
-			$of(u"\u30ae\u30ea\u30b7\u30e3 \u30c9\u30e9\u30af\u30de"_s)
+			$of(u"ギリシャ ドラクマ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gtq"_s),
-			$of(u"\u30b0\u30a2\u30c6\u30de\u30e9 \u30b1\u30c4\u30a1\u30eb"_s)
+			$of(u"グアテマラ ケツァル"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gwe"_s),
-			$of(u"\u30dd\u30eb\u30c8\u30ac\u30eb\u9818\u30ae\u30cb\u30a2 \u30a8\u30b9\u30af\u30fc\u30c9"_s)
+			$of(u"ポルトガル領ギニア エスクード"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gwp"_s),
-			$of(u"\u30ae\u30cb\u30a2\u30d3\u30b5\u30a6 \u30da\u30bd"_s)
+			$of(u"ギニアビサウ ペソ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gyd"_s),
-			$of(u"\u30ac\u30a4\u30a2\u30ca \u30c9\u30eb"_s)
+			$of(u"ガイアナ ドル"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("hkd"_s),
-			$of(u"\u9999\u6e2f\u30c9\u30eb"_s)
+			$of(u"香港ドル"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("hnl"_s),
-			$of(u"\u30db\u30f3\u30b8\u30e5\u30e9\u30b9 \u30ec\u30f3\u30d4\u30e9"_s)
+			$of(u"ホンジュラス レンピラ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("hrd"_s),
-			$of(u"\u30af\u30ed\u30a2\u30c1\u30a2 \u30c7\u30a3\u30ca\u30fc\u30eb"_s)
+			$of(u"クロアチア ディナール"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("hrk"_s),
-			$of(u"\u30af\u30ed\u30a2\u30c1\u30a2 \u30af\u30fc\u30ca"_s)
+			$of(u"クロアチア クーナ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("htg"_s),
-			$of(u"\u30cf\u30a4\u30c1 \u30b0\u30fc\u30eb\u30c9"_s)
+			$of(u"ハイチ グールド"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("huf"_s),
-			$of(u"\u30cf\u30f3\u30ac\u30ea\u30fc \u30d5\u30a9\u30ea\u30f3\u30c8"_s)
+			$of(u"ハンガリー フォリント"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("idr"_s),
-			$of(u"\u30a4\u30f3\u30c9\u30cd\u30b7\u30a2 \u30eb\u30d4\u30a2"_s)
+			$of(u"インドネシア ルピア"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("iep"_s),
-			$of(u"\u30a2\u30a4\u30ea\u30c3\u30b7\u30e5 \u30dd\u30f3\u30c9"_s)
+			$of(u"アイリッシュ ポンド"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ilp"_s),
-			$of(u"\u30a4\u30b9\u30e9\u30a8\u30eb \u30dd\u30f3\u30c9"_s)
+			$of(u"イスラエル ポンド"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ilr"_s),
-			$of(u"\u30a4\u30b9\u30e9\u30a8\u30eb \u30b7\u30a7\u30b1\u30eb (1980\u20131985)"_s)
+			$of(u"イスラエル シェケル (1980–1985)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ils"_s),
-			$of(u"\u30a4\u30b9\u30e9\u30a8\u30eb\u65b0\u30b7\u30a7\u30b1\u30eb"_s)
+			$of(u"イスラエル新シェケル"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("inr"_s),
-			$of(u"\u30a4\u30f3\u30c9 \u30eb\u30d4\u30fc"_s)
+			$of(u"インド ルピー"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("iqd"_s),
-			$of(u"\u30a4\u30e9\u30af \u30c7\u30a3\u30ca\u30fc\u30eb"_s)
+			$of(u"イラク ディナール"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("irr"_s),
-			$of(u"\u30a4\u30e9\u30f3 \u30ea\u30a2\u30eb"_s)
+			$of(u"イラン リアル"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("isj"_s),
-			$of(u"\u30a2\u30a4\u30b9\u30e9\u30f3\u30c9 \u30af\u30ed\u30fc\u30ca (1918\u20131981)"_s)
+			$of(u"アイスランド クローナ (1918–1981)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("isk"_s),
-			$of(u"\u30a2\u30a4\u30b9\u30e9\u30f3\u30c9 \u30af\u30ed\u30fc\u30ca"_s)
+			$of(u"アイスランド クローナ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("itl"_s),
-			$of(u"\u30a4\u30bf\u30ea\u30a2 \u30ea\u30e9"_s)
+			$of(u"イタリア リラ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("jmd"_s),
-			$of(u"\u30b8\u30e3\u30de\u30a4\u30ab \u30c9\u30eb"_s)
+			$of(u"ジャマイカ ドル"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("jod"_s),
-			$of(u"\u30e8\u30eb\u30c0\u30f3 \u30c7\u30a3\u30ca\u30fc\u30eb"_s)
+			$of(u"ヨルダン ディナール"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("jpy"_s),
-			$of(u"\u65e5\u672c\u5186"_s)
+			$of(u"日本円"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kes"_s),
-			$of(u"\u30b1\u30cb\u30a2 \u30b7\u30ea\u30f3\u30b0"_s)
+			$of(u"ケニア シリング"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kgs"_s),
-			$of(u"\u30ad\u30eb\u30ae\u30b9 \u30bd\u30e0"_s)
+			$of(u"キルギス ソム"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("khr"_s),
-			$of(u"\u30ab\u30f3\u30dc\u30b8\u30a2 \u30ea\u30a8\u30eb"_s)
+			$of(u"カンボジア リエル"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kmf"_s),
-			$of(u"\u30b3\u30e2\u30ed \u30d5\u30e9\u30f3"_s)
+			$of(u"コモロ フラン"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kpw"_s),
-			$of(u"\u5317\u671d\u9bae\u30a6\u30a9\u30f3"_s)
+			$of(u"北朝鮮ウォン"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("krh"_s),
-			$of(u"\u97d3\u56fd \u30d5\u30a1\u30f3\uff081953\u20131962\uff09"_s)
+			$of(u"韓国 ファン（1953–1962）"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kro"_s),
-			$of(u"\u97d3\u56fd \u30a6\u30a9\u30f3\uff081945\u20131953\uff09"_s)
+			$of(u"韓国 ウォン（1945–1953）"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("krw"_s),
-			$of(u"\u97d3\u56fd\u30a6\u30a9\u30f3"_s)
+			$of(u"韓国ウォン"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kwd"_s),
-			$of(u"\u30af\u30a6\u30a7\u30fc\u30c8 \u30c7\u30a3\u30ca\u30fc\u30eb"_s)
+			$of(u"クウェート ディナール"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kyd"_s),
-			$of(u"\u30b1\u30a4\u30de\u30f3\u8af8\u5cf6 \u30c9\u30eb"_s)
+			$of(u"ケイマン諸島 ドル"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kzt"_s),
-			$of(u"\u30ab\u30b6\u30d5\u30b9\u30bf\u30f3 \u30c6\u30f3\u30b2"_s)
+			$of(u"カザフスタン テンゲ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lak"_s),
-			$of(u"\u30e9\u30aa\u30b9 \u30ad\u30fc\u30d7"_s)
+			$of(u"ラオス キープ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lbp"_s),
-			$of(u"\u30ec\u30d0\u30ce\u30f3 \u30dd\u30f3\u30c9"_s)
+			$of(u"レバノン ポンド"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lkr"_s),
-			$of(u"\u30b9\u30ea\u30e9\u30f3\u30ab \u30eb\u30d4\u30fc"_s)
+			$of(u"スリランカ ルピー"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lrd"_s),
-			$of(u"\u30ea\u30d9\u30ea\u30a2 \u30c9\u30eb"_s)
+			$of(u"リベリア ドル"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lsl"_s),
-			$of(u"\u30ec\u30bd\u30c8 \u30ed\u30c6\u30a3"_s)
+			$of(u"レソト ロティ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ltl"_s),
-			$of(u"\u30ea\u30c8\u30a2\u30cb\u30a2 \u30ea\u30bf\u30b9"_s)
+			$of(u"リトアニア リタス"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ltt"_s),
-			$of(u"\u30ea\u30c8\u30a2\u30cb\u30a2 \u30bf\u30ed\u30ca"_s)
+			$of(u"リトアニア タロナ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("luc"_s),
-			$of(u"\u30eb\u30af\u30bb\u30f3\u30d6\u30eb\u30af \u514c\u63db\u30d5\u30e9\u30f3"_s)
+			$of(u"ルクセンブルク 兌換フラン"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("luf"_s),
-			$of(u"\u30eb\u30af\u30bb\u30f3\u30d6\u30eb\u30b0 \u30d5\u30e9\u30f3"_s)
+			$of(u"ルクセンブルグ フラン"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lul"_s),
-			$of(u"\u30eb\u30af\u30bb\u30f3\u30d6\u30eb\u30af \u91d1\u878d\u30d5\u30e9\u30f3"_s)
+			$of(u"ルクセンブルク 金融フラン"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lvl"_s),
-			$of(u"\u30e9\u30c8\u30d3\u30a2 \u30e9\u30c3\u30c4"_s)
+			$of(u"ラトビア ラッツ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lvr"_s),
-			$of(u"\u30e9\u30c8\u30d3\u30a2 \u30eb\u30fc\u30d6\u30eb"_s)
+			$of(u"ラトビア ルーブル"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lyd"_s),
-			$of(u"\u30ea\u30d3\u30a2 \u30c7\u30a3\u30ca\u30fc\u30eb"_s)
+			$of(u"リビア ディナール"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mad"_s),
-			$of(u"\u30e2\u30ed\u30c3\u30b3 \u30c7\u30a3\u30eb\u30cf\u30e0"_s)
+			$of(u"モロッコ ディルハム"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("maf"_s),
-			$of(u"\u30e2\u30ed\u30c3\u30b3 \u30d5\u30e9\u30f3"_s)
+			$of(u"モロッコ フラン"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mcf"_s),
-			$of(u"\u30e2\u30cd\u30ac\u30b9\u30af \u30d5\u30e9\u30f3"_s)
+			$of(u"モネガスク フラン"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mdc"_s),
-			$of(u"\u30e2\u30eb\u30c9\u30d0 \u30af\u30fc\u30dd\u30f3"_s)
+			$of(u"モルドバ クーポン"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mdl"_s),
-			$of(u"\u30e2\u30eb\u30c9\u30d0 \u30ec\u30a4"_s)
+			$of(u"モルドバ レイ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mga"_s),
-			$of(u"\u30de\u30c0\u30ac\u30b9\u30ab\u30eb \u30a2\u30ea\u30a2\u30ea"_s)
+			$of(u"マダガスカル アリアリ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mgf"_s),
-			$of(u"\u30de\u30e9\u30ac\u30b7 \u30d5\u30e9\u30f3"_s)
+			$of(u"マラガシ フラン"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mkd"_s),
-			$of(u"\u30de\u30b1\u30c9\u30cb\u30a2 \u30c7\u30ca\u30eb"_s)
+			$of(u"マケドニア デナル"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mkn"_s),
-			$of(u"\u30de\u30b1\u30c9\u30cb\u30a2 \u30c7\u30a3\u30ca\u30fc\u30eb\uff081992\u20131993\uff09"_s)
+			$of(u"マケドニア ディナール（1992–1993）"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mlf"_s),
-			$of(u"\u30de\u30ea \u30d5\u30e9\u30f3"_s)
+			$of(u"マリ フラン"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mmk"_s),
-			$of(u"\u30df\u30e3\u30f3\u30de\u30fc \u30c1\u30e3\u30c3\u30c8"_s)
+			$of(u"ミャンマー チャット"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mnt"_s),
-			$of(u"\u30e2\u30f3\u30b4\u30eb \u30c8\u30b0\u30ed\u30b0"_s)
+			$of(u"モンゴル トグログ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mop"_s),
-			$of(u"\u30de\u30ab\u30aa \u30d1\u30bf\u30ab"_s)
+			$of(u"マカオ パタカ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mro"_s),
-			$of(u"\u30e2\u30fc\u30ea\u30bf\u30cb\u30a2 \u30a6\u30ae\u30a2 (1973\u20132017)"_s)
+			$of(u"モーリタニア ウギア (1973–2017)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mru"_s),
-			$of(u"\u30e2\u30fc\u30ea\u30bf\u30cb\u30a2 \u30a6\u30ae\u30a2"_s)
+			$of(u"モーリタニア ウギア"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mtl"_s),
-			$of(u"\u30de\u30eb\u30bf \u30ea\u30e9"_s)
+			$of(u"マルタ リラ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mtp"_s),
-			$of(u"\u30de\u30eb\u30bf \u30dd\u30f3\u30c9"_s)
+			$of(u"マルタ ポンド"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mur"_s),
-			$of(u"\u30e2\u30fc\u30ea\u30b7\u30e3\u30b9 \u30eb\u30d4\u30fc"_s)
+			$of(u"モーリシャス ルピー"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mvp"_s),
-			$of(u"\u30e2\u30eb\u30c7\u30a3\u30d6\u8af8\u5cf6 \u30eb\u30d4\u30fc"_s)
+			$of(u"モルディブ諸島 ルピー"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mvr"_s),
-			$of(u"\u30e2\u30eb\u30c7\u30a3\u30d6 \u30eb\u30d5\u30a3\u30a2"_s)
+			$of(u"モルディブ ルフィア"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mwk"_s),
-			$of(u"\u30de\u30e9\u30a6\u30a3 \u30af\u30ef\u30c1\u30e3"_s)
+			$of(u"マラウィ クワチャ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mxn"_s),
-			$of(u"\u30e1\u30ad\u30b7\u30b3 \u30da\u30bd"_s)
+			$of(u"メキシコ ペソ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mxp"_s),
-			$of(u"\u30e1\u30ad\u30b7\u30b3 \u30da\u30bd (1861\u20131992)"_s)
+			$of(u"メキシコ ペソ (1861–1992)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mxv"_s),
-			$of(u"\u30e1\u30ad\u30b7\u30b3 (UDI)"_s)
+			$of(u"メキシコ (UDI)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("myr"_s),
-			$of(u"\u30de\u30ec\u30fc\u30b7\u30a2 \u30ea\u30f3\u30ae\u30c3\u30c8"_s)
+			$of(u"マレーシア リンギット"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mze"_s),
-			$of(u"\u30e2\u30b6\u30f3\u30d4\u30fc\u30af \u30a8\u30b9\u30af\u30fc\u30c9"_s)
+			$of(u"モザンピーク エスクード"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mzm"_s),
-			$of(u"\u30e2\u30b6\u30f3\u30d3\u30fc\u30af \u30e1\u30c6\u30a3\u30ab\u30eb (1980\u20132006)"_s)
+			$of(u"モザンビーク メティカル (1980–2006)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mzn"_s),
-			$of(u"\u30e2\u30b6\u30f3\u30d3\u30fc\u30af \u30e1\u30c6\u30a3\u30ab\u30eb"_s)
+			$of(u"モザンビーク メティカル"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("nad"_s),
-			$of(u"\u30ca\u30df\u30d3\u30a2 \u30c9\u30eb"_s)
+			$of(u"ナミビア ドル"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ngn"_s),
-			$of(u"\u30ca\u30a4\u30b8\u30a7\u30ea\u30a2 \u30ca\u30a4\u30e9"_s)
+			$of(u"ナイジェリア ナイラ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("nic"_s),
-			$of(u"\u30cb\u30ab\u30e9\u30b0\u30a2 \u30b3\u30eb\u30c9\u30d0 (1988\u20131991)"_s)
+			$of(u"ニカラグア コルドバ (1988–1991)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("nio"_s),
-			$of(u"\u30cb\u30ab\u30e9\u30b0\u30a2 \u30b3\u30eb\u30c9\u30d0 \u30aa\u30ed"_s)
+			$of(u"ニカラグア コルドバ オロ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("nlg"_s),
-			$of(u"\u30aa\u30e9\u30f3\u30c0 \u30ae\u30eb\u30c0\u30fc"_s)
+			$of(u"オランダ ギルダー"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("nok"_s),
-			$of(u"\u30ce\u30eb\u30a6\u30a7\u30fc \u30af\u30ed\u30fc\u30cd"_s)
+			$of(u"ノルウェー クローネ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("npr"_s),
-			$of(u"\u30cd\u30d1\u30fc\u30eb \u30eb\u30d4\u30fc"_s)
+			$of(u"ネパール ルピー"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("nzd"_s),
-			$of(u"\u30cb\u30e5\u30fc\u30b8\u30fc\u30e9\u30f3\u30c9 \u30c9\u30eb"_s)
+			$of(u"ニュージーランド ドル"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("omr"_s),
-			$of(u"\u30aa\u30de\u30fc\u30f3 \u30ea\u30a2\u30eb"_s)
+			$of(u"オマーン リアル"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pab"_s),
-			$of(u"\u30d1\u30ca\u30de \u30d0\u30eb\u30dc\u30a2"_s)
+			$of(u"パナマ バルボア"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pei"_s),
-			$of(u"\u30da\u30eb\u30fc \u30a4\u30f3\u30c6\u30a3"_s)
+			$of(u"ペルー インティ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pen"_s),
-			$of(u"\u30da\u30eb\u30fc \u30bd\u30eb"_s)
+			$of(u"ペルー ソル"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pes"_s),
-			$of(u"\u30da\u30eb\u30fc \u30bd\u30eb (1863\u20131965)"_s)
+			$of(u"ペルー ソル (1863–1965)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pgk"_s),
-			$of(u"\u30d1\u30d7\u30a2\u30cb\u30e5\u30fc\u30ae\u30cb\u30a2 \u30ad\u30ca"_s)
+			$of(u"パプアニューギニア キナ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("php"_s),
-			$of(u"\u30d5\u30a3\u30ea\u30d4\u30f3 \u30da\u30bd"_s)
+			$of(u"フィリピン ペソ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pkr"_s),
-			$of(u"\u30d1\u30ad\u30b9\u30bf\u30f3 \u30eb\u30d4\u30fc"_s)
+			$of(u"パキスタン ルピー"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pln"_s),
-			$of(u"\u30dd\u30fc\u30e9\u30f3\u30c9 \u30ba\u30a6\u30a9\u30c6\u30a3"_s)
+			$of(u"ポーランド ズウォティ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("plz"_s),
-			$of(u"\u30dd\u30fc\u30e9\u30f3\u30c9 \u30ba\u30a6\u30a9\u30c6\u30a3 (1950\u20131995)"_s)
+			$of(u"ポーランド ズウォティ (1950–1995)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pte"_s),
-			$of(u"\u30dd\u30eb\u30c8\u30ac\u30eb \u30a8\u30b9\u30af\u30fc\u30c9"_s)
+			$of(u"ポルトガル エスクード"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pyg"_s),
-			$of(u"\u30d1\u30e9\u30b0\u30a2\u30a4 \u30b0\u30a2\u30e9\u30cb"_s)
+			$of(u"パラグアイ グアラニ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("qar"_s),
-			$of(u"\u30ab\u30bf\u30fc\u30eb \u30ea\u30a2\u30eb"_s)
+			$of(u"カタール リアル"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("rhd"_s),
-			$of(u"\u30ed\u30fc\u30c7\u30b7\u30a2 \u30c9\u30eb"_s)
+			$of(u"ローデシア ドル"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("rol"_s),
-			$of(u"\u30eb\u30fc\u30de\u30cb\u30a2 \u30ec\u30a4 (1952\u20132006)"_s)
+			$of(u"ルーマニア レイ (1952–2006)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ron"_s),
-			$of(u"\u30eb\u30fc\u30de\u30cb\u30a2 \u30ec\u30a4"_s)
+			$of(u"ルーマニア レイ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("rsd"_s),
-			$of(u"\u30c7\u30a3\u30ca\u30fc\u30eb (\u30bb\u30eb\u30d3\u30a2)"_s)
+			$of(u"ディナール (セルビア)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("rub"_s),
-			$of(u"\u30ed\u30b7\u30a2 \u30eb\u30fc\u30d6\u30eb"_s)
+			$of(u"ロシア ルーブル"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("rur"_s),
-			$of(u"\u30ed\u30b7\u30a2 \u30eb\u30fc\u30d6\u30eb (1991\u20131998)"_s)
+			$of(u"ロシア ルーブル (1991–1998)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("rwf"_s),
-			$of(u"\u30eb\u30ef\u30f3\u30c0 \u30d5\u30e9\u30f3"_s)
+			$of(u"ルワンダ フラン"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sar"_s),
-			$of(u"\u30b5\u30a6\u30b8 \u30ea\u30e4\u30eb"_s)
+			$of(u"サウジ リヤル"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sbd"_s),
-			$of(u"\u30bd\u30ed\u30e2\u30f3\u8af8\u5cf6 \u30c9\u30eb"_s)
+			$of(u"ソロモン諸島 ドル"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("scr"_s),
-			$of(u"\u30bb\u30fc\u30b7\u30a7\u30eb \u30eb\u30d4\u30fc"_s)
+			$of(u"セーシェル ルピー"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sdd"_s),
-			$of(u"\u30b9\u30fc\u30c0\u30f3 \u30c7\u30a3\u30ca\u30fc\u30eb (1992\u20132007)"_s)
+			$of(u"スーダン ディナール (1992–2007)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sdg"_s),
-			$of(u"\u30b9\u30fc\u30c0\u30f3 \u30dd\u30f3\u30c9"_s)
+			$of(u"スーダン ポンド"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sdp"_s),
-			$of(u"\u30b9\u30fc\u30c0\u30f3 \u30dd\u30f3\u30c9 (1957\u20131998)"_s)
+			$of(u"スーダン ポンド (1957–1998)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sek"_s),
-			$of(u"\u30b9\u30a6\u30a7\u30fc\u30c7\u30f3 \u30af\u30ed\u30fc\u30ca"_s)
+			$of(u"スウェーデン クローナ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sgd"_s),
-			$of(u"\u30b7\u30f3\u30ac\u30dd\u30fc\u30eb \u30c9\u30eb"_s)
+			$of(u"シンガポール ドル"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("shp"_s),
-			$of(u"\u30bb\u30f3\u30c8\u30d8\u30ec\u30ca \u30dd\u30f3\u30c9"_s)
+			$of(u"セントヘレナ ポンド"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sit"_s),
-			$of(u"\u30b9\u30ed\u30d9\u30cb\u30a2 \u30c8\u30e9\u30fc\u30eb"_s)
+			$of(u"スロベニア トラール"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("skk"_s),
-			$of(u"\u30b9\u30ed\u30d0\u30ad\u30a2 \u30b3\u30eb\u30ca"_s)
+			$of(u"スロバキア コルナ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sll"_s),
-			$of(u"\u30b7\u30a8\u30e9\u30ec\u30aa\u30cd \u30ec\u30aa\u30f3"_s)
+			$of(u"シエラレオネ レオン"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sos"_s),
-			$of(u"\u30bd\u30de\u30ea\u30a2 \u30b7\u30ea\u30f3\u30b0"_s)
+			$of(u"ソマリア シリング"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("srd"_s),
-			$of(u"\u30b9\u30ea\u30ca\u30e0 \u30c9\u30eb"_s)
+			$of(u"スリナム ドル"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("srg"_s),
-			$of(u"\u30b9\u30ea\u30ca\u30e0 \u30ae\u30eb\u30c0\u30fc"_s)
+			$of(u"スリナム ギルダー"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ssp"_s),
-			$of(u"\u5357\u30b9\u30fc\u30c0\u30f3 \u30dd\u30f3\u30c9"_s)
+			$of(u"南スーダン ポンド"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("std"_s),
-			$of(u"\u30b5\u30f3\u30c8\u30e1\u30fb\u30d7\u30ea\u30f3\u30b7\u30da \u30c9\u30d6\u30e9 (1977\u20132017)"_s)
+			$of(u"サントメ・プリンシペ ドブラ (1977–2017)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("stn"_s),
-			$of(u"\u30b5\u30f3\u30c8\u30e1\u30fb\u30d7\u30ea\u30f3\u30b7\u30da \u30c9\u30d6\u30e9"_s)
+			$of(u"サントメ・プリンシペ ドブラ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sur"_s),
-			$of(u"\u30bd\u9023 \u30eb\u30fc\u30d6\u30eb"_s)
+			$of(u"ソ連 ルーブル"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("svc"_s),
-			$of(u"\u30a8\u30eb\u30b5\u30eb\u30d0\u30c9\u30eb \u30b3\u30ed\u30f3"_s)
+			$of(u"エルサルバドル コロン"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("syp"_s),
-			$of(u"\u30b7\u30ea\u30a2 \u30dd\u30f3\u30c9"_s)
+			$of(u"シリア ポンド"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("szl"_s),
-			$of(u"\u30b9\u30ef\u30b8\u30e9\u30f3\u30c9 \u30ea\u30e9\u30f3\u30b2\u30cb"_s)
+			$of(u"スワジランド リランゲニ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("thb"_s),
-			$of(u"\u30bf\u30a4 \u30d0\u30fc\u30c4"_s)
+			$of(u"タイ バーツ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("tjr"_s),
-			$of(u"\u30bf\u30b8\u30ad\u30b9\u30bf\u30f3 \u30eb\u30fc\u30d6\u30eb"_s)
+			$of(u"タジキスタン ルーブル"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("tjs"_s),
-			$of(u"\u30bf\u30b8\u30ad\u30b9\u30bf\u30f3 \u30bd\u30e2\u30cb"_s)
+			$of(u"タジキスタン ソモニ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("tmm"_s),
-			$of(u"\u30c8\u30eb\u30af\u30e1\u30cb\u30b9\u30bf\u30f3 \u30de\u30ca\u30c8 (1993\u20132009)"_s)
+			$of(u"トルクメニスタン マナト (1993–2009)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("tmt"_s),
-			$of(u"\u30c8\u30eb\u30af\u30e1\u30cb\u30b9\u30bf\u30f3 \u30de\u30ca\u30c8"_s)
+			$of(u"トルクメニスタン マナト"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("tnd"_s),
-			$of(u"\u30c1\u30e5\u30cb\u30b8\u30a2 \u30c7\u30a3\u30ca\u30fc\u30eb"_s)
+			$of(u"チュニジア ディナール"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("top"_s),
-			$of(u"\u30c8\u30f3\u30ac \u30d1\u30fb\u30a2\u30f3\u30ac"_s)
+			$of(u"トンガ パ・アンガ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("tpe"_s),
-			$of(u"\u30c6\u30a3\u30e2\u30fc\u30eb \u30a8\u30b9\u30af\u30fc\u30c9"_s)
+			$of(u"ティモール エスクード"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("trl"_s),
-			$of(u"\u30c8\u30eb\u30b3 \u30ea\u30e9 (1922\u20132005)"_s)
+			$of(u"トルコ リラ (1922–2005)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("try"_s),
-			$of(u"\u65b0\u30c8\u30eb\u30b3\u30ea\u30e9"_s)
+			$of(u"新トルコリラ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ttd"_s),
-			$of(u"\u30c8\u30ea\u30cb\u30c0\u30fc\u30c9\u30fb\u30c8\u30d0\u30b4 \u30c9\u30eb"_s)
+			$of(u"トリニダード・トバゴ ドル"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("twd"_s),
-			$of(u"\u65b0\u53f0\u6e7e\u30c9\u30eb"_s)
+			$of(u"新台湾ドル"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("tzs"_s),
-			$of(u"\u30bf\u30f3\u30b6\u30cb\u30a2 \u30b7\u30ea\u30f3\u30b0"_s)
+			$of(u"タンザニア シリング"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("uah"_s),
-			$of(u"\u30a6\u30af\u30e9\u30a4\u30ca \u30b0\u30ea\u30d6\u30ca"_s)
+			$of(u"ウクライナ グリブナ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("uak"_s),
-			$of(u"\u30a6\u30af\u30e9\u30a4\u30ca \u30ab\u30eb\u30dc\u30d0\u30cd\u30c4"_s)
+			$of(u"ウクライナ カルボバネツ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ugs"_s),
-			$of(u"\u30a6\u30ac\u30f3\u30c0 \u30b7\u30ea\u30f3\u30b0 (1966\u20131987)"_s)
+			$of(u"ウガンダ シリング (1966–1987)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ugx"_s),
-			$of(u"\u30a6\u30ac\u30f3\u30c0 \u30b7\u30ea\u30f3\u30b0"_s)
+			$of(u"ウガンダ シリング"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("usd"_s),
-			$of(u"\u7c73\u30c9\u30eb"_s)
+			$of(u"米ドル"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("usn"_s),
-			$of(u"\u7c73\u30c9\u30eb (\u7fcc\u65e5)"_s)
+			$of(u"米ドル (翌日)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("uss"_s),
-			$of(u"\u7c73\u30c9\u30eb (\u5f53\u65e5)"_s)
+			$of(u"米ドル (当日)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("uyi"_s),
-			$of(u"\u30a6\u30eb\u30b0\u30a2\u30a4 \u30da\u30bd\u30a8\u30f3"_s)
+			$of(u"ウルグアイ ペソエン"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("uyp"_s),
-			$of(u"\u30a6\u30eb\u30b0\u30a2\u30a4 \u30da\u30bd (1975\u20131993)"_s)
+			$of(u"ウルグアイ ペソ (1975–1993)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("uyu"_s),
-			$of(u"\u30a6\u30eb\u30b0\u30a2\u30a4 \u30da\u30bd"_s)
+			$of(u"ウルグアイ ペソ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("uzs"_s),
-			$of(u"\u30a6\u30ba\u30d9\u30ad\u30b9\u30bf\u30f3 \u30b9\u30e0"_s)
+			$of(u"ウズベキスタン スム"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("veb"_s),
-			$of(u"\u30d9\u30cd\u30ba\u30a8\u30e9 \u30dc\u30ea\u30d0\u30eb (1871\u20132008)"_s)
+			$of(u"ベネズエラ ボリバル (1871–2008)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("vef"_s),
-			$of(u"\u30d9\u30cd\u30ba\u30a8\u30e9 \u30dc\u30ea\u30d0\u30eb (2008\u20132018)"_s)
+			$of(u"ベネズエラ ボリバル (2008–2018)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ves"_s),
-			$of(u"\u30d9\u30cd\u30ba\u30a8\u30e9 \u30dc\u30ea\u30d0\u30eb"_s)
+			$of(u"ベネズエラ ボリバル"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("vnd"_s),
-			$of(u"\u30d9\u30c8\u30ca\u30e0 \u30c9\u30f3"_s)
+			$of(u"ベトナム ドン"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("vnn"_s),
-			$of(u"\u30d9\u30c8\u30ca\u30e0 \u30c9\u30f3\uff081978\u20131985\uff09"_s)
+			$of(u"ベトナム ドン（1978–1985）"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("vuv"_s),
-			$of(u"\u30d0\u30cc\u30a2\u30c4 \u30d0\u30c4"_s)
+			$of(u"バヌアツ バツ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("wst"_s),
-			$of(u"\u30b5\u30e2\u30a2 \u30bf\u30e9"_s)
+			$of(u"サモア タラ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xaf"_s),
-			$of(u"\u4e2d\u592e\u30a2\u30d5\u30ea\u30ab CFA \u30d5\u30e9\u30f3"_s)
+			$of(u"中央アフリカ CFA フラン"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xag"_s),
-			$of(u"\u9280"_s)
+			$of(u"銀"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xau"_s),
-			$of(u"\u91d1"_s)
+			$of(u"金"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xba"_s),
-			$of(u"\u30e8\u30fc\u30ed\u30c3\u30d1\u6df7\u5408\u5358\u4f4d (EURCO)"_s)
+			$of(u"ヨーロッパ混合単位 (EURCO)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xbb"_s),
-			$of(u"\u30e8\u30fc\u30ed\u30c3\u30d1\u901a\u8ca8\u5358\u4f4d (EMU\u20136)"_s)
+			$of(u"ヨーロッパ通貨単位 (EMU–6)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xbc"_s),
-			$of(u"\u30e8\u30fc\u30ed\u30c3\u30d1\u52d8\u5b9a\u5358\u4f4d (EUA\u20139)"_s)
+			$of(u"ヨーロッパ勘定単位 (EUA–9)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xbd"_s),
-			$of(u"\u30e8\u30fc\u30ed\u30c3\u30d1\u52d8\u5b9a\u5358\u4f4d (EUA\u201317)"_s)
+			$of(u"ヨーロッパ勘定単位 (EUA–17)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xcd"_s),
-			$of(u"\u6771\u30ab\u30ea\u30d6 \u30c9\u30eb"_s)
+			$of(u"東カリブ ドル"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xdr"_s),
-			$of(u"\u7279\u5225\u5f15\u304d\u51fa\u3057\u6a29"_s)
+			$of(u"特別引き出し権"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xeu"_s),
-			$of(u"\u30e8\u30fc\u30ed\u30c3\u30d1\u901a\u8ca8\u5358\u4f4d"_s)
+			$of(u"ヨーロッパ通貨単位"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xfo"_s),
-			$of(u"\u30d5\u30e9\u30f3\u30b9\u91d1\u30d5\u30e9\u30f3"_s)
+			$of(u"フランス金フラン"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xfu"_s),
-			$of(u"\u30d5\u30e9\u30f3\u30b9 \u30d5\u30e9\u30f3 (UIC)"_s)
+			$of(u"フランス フラン (UIC)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xof"_s),
-			$of(u"\u897f\u30a2\u30d5\u30ea\u30ab CFA \u30d5\u30e9\u30f3"_s)
+			$of(u"西アフリカ CFA フラン"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xpd"_s),
-			$of(u"\u30d1\u30e9\u30b8\u30a6\u30e0"_s)
+			$of(u"パラジウム"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xpf"_s),
-			$of(u"CFP \u30d5\u30e9\u30f3"_s)
+			$of(u"CFP フラン"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xpt"_s),
-			$of(u"\u30d7\u30e9\u30c1\u30ca"_s)
+			$of(u"プラチナ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xre"_s),
-			$of(u"RINET\u57fa\u91d1"_s)
+			$of(u"RINET基金"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xsu"_s),
-			$of(u"\u30b9\u30af\u30ec"_s)
+			$of(u"スクレ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xts"_s),
-			$of(u"\u30c6\u30b9\u30c8\u7528\u901a\u8ca8\u30b3\u30fc\u30c9"_s)
+			$of(u"テスト用通貨コード"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xua"_s),
-			$of(u"UA (\u30a2\u30d5\u30ea\u30ab\u958b\u767a\u9280\u884c)"_s)
+			$of(u"UA (アフリカ開発銀行)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xxx"_s),
-			$of(u"\u4e0d\u660e\u307e\u305f\u306f\u7121\u52b9\u306a\u901a\u8ca8"_s)
+			$of(u"不明または無効な通貨"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ydd"_s),
-			$of(u"\u30a4\u30a8\u30e1\u30f3 \u30c7\u30a3\u30ca\u30fc\u30eb"_s)
+			$of(u"イエメン ディナール"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("yer"_s),
-			$of(u"\u30a4\u30a8\u30e1\u30f3 \u30ea\u30a2\u30eb"_s)
+			$of(u"イエメン リアル"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("yud"_s),
-			$of(u"\u30e6\u30fc\u30b4\u30b9\u30e9\u30d3\u30a2 \u30cf\u30fc\u30c9\u30fb\u30c7\u30a3\u30ca\u30fc\u30eb (1966\u20131990)"_s)
+			$of(u"ユーゴスラビア ハード・ディナール (1966–1990)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("yum"_s),
-			$of(u"\u30e6\u30fc\u30b4\u30b9\u30e9\u30d3\u30a2 \u30ce\u30d3\u30fb\u30c7\u30a3\u30ca\u30fc\u30eb (1994\u20132002)"_s)
+			$of(u"ユーゴスラビア ノビ・ディナール (1994–2002)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("yun"_s),
-			$of(u"\u30e6\u30fc\u30b4\u30b9\u30e9\u30d3\u30a2 \u514c\u63db\u30c7\u30a3\u30ca\u30fc\u30eb (1990\u20131992)"_s)
+			$of(u"ユーゴスラビア 兌換ディナール (1990–1992)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("yur"_s),
-			$of(u"\u30e6\u30fc\u30b4\u30b9\u30e9\u30d3\u30a2 \u6539\u9769\u30c7\u30a3\u30ca\u30fc\u30eb\uff081992\u20131993\uff09"_s)
+			$of(u"ユーゴスラビア 改革ディナール（1992–1993）"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("zal"_s),
-			$of(u"\u5357\u30a2\u30d5\u30ea\u30ab \u30e9\u30f3\u30c9 (ZAL)"_s)
+			$of(u"南アフリカ ランド (ZAL)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("zar"_s),
-			$of(u"\u5357\u30a2\u30d5\u30ea\u30ab \u30e9\u30f3\u30c9"_s)
+			$of(u"南アフリカ ランド"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("zmk"_s),
-			$of(u"\u30b6\u30f3\u30d3\u30a2 \u30af\u30ef\u30c1\u30e3 (1968\u20132012)"_s)
+			$of(u"ザンビア クワチャ (1968–2012)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("zmw"_s),
-			$of(u"\u30b6\u30f3\u30d3\u30a2 \u30af\u30ef\u30c1\u30e3"_s)
+			$of(u"ザンビア クワチャ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("zrn"_s),
-			$of(u"\u30b6\u30a4\u30fc\u30eb \u65b0\u30b6\u30a4\u30fc\u30eb (1993\u20131998)"_s)
+			$of(u"ザイール 新ザイール (1993–1998)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("zrz"_s),
-			$of(u"\u30b6\u30a4\u30fc\u30eb \u30b6\u30a4\u30fc\u30eb (1971\u20131993)"_s)
+			$of(u"ザイール ザイール (1971–1993)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("zwd"_s),
-			$of(u"\u30b8\u30f3\u30d0\u30d6\u30a8 \u30c9\u30eb (1980\u20132008)"_s)
+			$of(u"ジンバブエ ドル (1980–2008)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("zwl"_s),
-			$of(u"\u30b8\u30f3\u30d0\u30d6\u30a8 \u30c9\u30eb (2009)"_s)
+			$of(u"ジンバブエ ドル (2009)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("zwr"_s),
-			$of(u"\u30b7\u30f3\u30d0\u30d6\u30a8 \u30c9\u30eb\uff082008\uff09"_s)
+			$of(u"シンバブエ ドル（2008）"_s)
 		})
 	}));
 	return data;

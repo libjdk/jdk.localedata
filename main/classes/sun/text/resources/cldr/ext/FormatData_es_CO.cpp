@@ -49,12 +49,12 @@ $ObjectArray2* FormatData_es_CO::getContents() {
 		"S"_s
 	}));
 	$var($StringArray, metaValue_AmPmMarkers, $new($StringArray, {
-		u"a.\u00a0m."_s,
-		u"p.\u00a0m."_s,
+		u"a. m."_s,
+		u"p. m."_s,
 		""_s,
 		"m."_s,
 		"de la madrugada"_s,
-		u"de la ma\u00f1ana"_s,
+		u"de la mañana"_s,
 		""_s,
 		""_s,
 		"de la tarde"_s,
@@ -215,8 +215,8 @@ $ObjectArray2* FormatData_es_CO::getContents() {
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
+				u"‰"_s,
+				u"∞"_s,
 				"NaN"_s,
 				""_s,
 				""_s
@@ -261,9 +261,9 @@ $ObjectArray2* FormatData_es_CO::getContents() {
 			$of("latn.NumberPatterns"_s),
 			$of($$new($StringArray, {
 				"#,##0.###"_s,
-				u"\u00a4\u00a0#,##0.00"_s,
-				u"#,##0\u00a0%"_s,
-				u"\u00a4#,##0.00"_s
+				u"¤ #,##0.00"_s,
+				u"#,##0 %"_s,
+				u"¤#,##0.00"_s
 			}))
 		}),
 		$$new($ObjectArray, {

@@ -39,7 +39,7 @@ void CurrencyNames_ar_LB::init$() {
 $ObjectArray2* CurrencyNames_ar_LB::getContents() {
 	return $new($ObjectArray2, {$$new($ObjectArray, {
 		$of("LBP"_s),
-		$of(u"\u0644.\u0644.\u200f"_s)
+		$of(u"ل.ل.\u200f"_s)
 	})});
 }
 

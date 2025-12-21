@@ -50,9 +50,9 @@ $ObjectArray2* FormatData_es_MX::getContents() {
 	}));
 	$var($StringArray, metaValue_QuarterNames, $new($StringArray, {
 		"1.er trimestre"_s,
-		u"2.\u00ba trimestre"_s,
+		u"2.º trimestre"_s,
 		"3.er trimestre"_s,
-		u"4.\u00ba trimestre"_s
+		u"4.º trimestre"_s
 	}));
 	$var($StringArray, metaValue_QuarterNarrows, $new($StringArray, {
 		"1T"_s,
@@ -61,12 +61,12 @@ $ObjectArray2* FormatData_es_MX::getContents() {
 		"4T"_s
 	}));
 	$var($StringArray, metaValue_narrow_AmPmMarkers, $new($StringArray, {
-		u"a.\u00a0m."_s,
-		u"p.\u00a0m."_s,
+		u"a. m."_s,
+		u"p. m."_s,
 		""_s,
-		u"del mediod\u00eda"_s,
+		u"del mediodía"_s,
 		"de la madrugada"_s,
-		u"ma\u00f1ana"_s,
+		u"mañana"_s,
 		""_s,
 		""_s,
 		"de la tarde"_s,
@@ -175,9 +175,9 @@ $ObjectArray2* FormatData_es_MX::getContents() {
 				""_s,
 				""_s,
 				""_s,
-				u"{one:0\u00a0k other:0\u00a0k}"_s,
-				u"{one:00\u00a0k other:00\u00a0k}"_s,
-				u"{one:000\u00a0k other:000\u00a0k}"_s
+				u"{one:0 k other:0 k}"_s,
+				u"{one:00 k other:00 k}"_s,
+				u"{one:000 k other:000 k}"_s
 			}))
 		}),
 		$$new($ObjectArray, {
@@ -229,8 +229,8 @@ $ObjectArray2* FormatData_es_MX::getContents() {
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
+				u"‰"_s,
+				u"∞"_s,
 				"NaN"_s,
 				""_s,
 				""_s
@@ -252,9 +252,9 @@ $ObjectArray2* FormatData_es_MX::getContents() {
 			$of("latn.NumberPatterns"_s),
 			$of($$new($StringArray, {
 				"#,##0.###"_s,
-				u"\u00a4#,##0.00"_s,
-				u"#,##0\u00a0%"_s,
-				u"\u00a4#,##0.00"_s
+				u"¤#,##0.00"_s,
+				u"#,##0 %"_s,
+				u"¤#,##0.00"_s
 			}))
 		}),
 		$$new($ObjectArray, {
@@ -272,7 +272,7 @@ $ObjectArray2* FormatData_es_MX::getContents() {
 				""_s,
 				""_s,
 				""_s,
-				u"{one:0\' \'bill\u00f3n other:0\' \'billones}"_s,
+				u"{one:0\' \'billón other:0\' \'billones}"_s,
 				"{one:00\' \'billones other:00\' \'billones}"_s,
 				"{one:000\' \'billones other:000\' \'billones}"_s
 			}))

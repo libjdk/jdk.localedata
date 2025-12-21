@@ -52,7 +52,7 @@ $ObjectArray2* FormatData_sq::getContents() {
 				"gusht"_s,
 				"shtator"_s,
 				"tetor"_s,
-				u"n\u00ebntor"_s,
+				u"nëntor"_s,
 				"dhjetor"_s,
 				""_s
 			}))
@@ -70,7 +70,7 @@ $ObjectArray2* FormatData_sq::getContents() {
 				"Gsh"_s,
 				"Sht"_s,
 				"Tet"_s,
-				u"N\u00ebn"_s,
+				u"Nën"_s,
 				"Dhj"_s,
 				""_s
 			}))
@@ -97,21 +97,21 @@ $ObjectArray2* FormatData_sq::getContents() {
 			$of("DayNames"_s),
 			$of($$new($StringArray, {
 				"e diel"_s,
-				u"e h\u00ebn\u00eb"_s,
-				u"e mart\u00eb"_s,
-				u"e m\u00ebrkur\u00eb"_s,
+				u"e hënë"_s,
+				u"e martë"_s,
+				u"e mërkurë"_s,
 				"e enjte"_s,
 				"e premte"_s,
-				u"e shtun\u00eb"_s
+				u"e shtunë"_s
 			}))
 		}),
 		$$new($ObjectArray, {
 			$of("DayAbbreviations"_s),
 			$of($$new($StringArray, {
 				"Die"_s,
-				u"H\u00ebn"_s,
+				u"Hën"_s,
 				"Mar"_s,
-				u"M\u00ebr"_s,
+				u"Mër"_s,
 				"Enj"_s,
 				"Pre"_s,
 				"Sht"_s
@@ -154,9 +154,9 @@ $ObjectArray2* FormatData_sq::getContents() {
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
-				u"\ufffd"_s
+				u"‰"_s,
+				u"∞"_s,
+				u"�"_s
 			}))
 		}),
 		$$new($ObjectArray, {

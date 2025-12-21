@@ -41,32 +41,32 @@ $ObjectArray2* FormatData_su::getContents() {
 	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_MonthNames, $new($StringArray, {
 		"Januari"_s,
-		u"P\u00e9bruari"_s,
+		u"Pébruari"_s,
 		"Maret"_s,
 		"April"_s,
-		u"M\u00e9i"_s,
+		u"Méi"_s,
 		"Juni"_s,
 		"Juli"_s,
 		"Agustus"_s,
-		u"S\u00e9pt\u00e9mber"_s,
+		u"Séptémber"_s,
 		"Oktober"_s,
-		u"Nop\u00e9mber"_s,
-		u"D\u00e9s\u00e9mber"_s,
+		u"Nopémber"_s,
+		u"Désémber"_s,
 		""_s
 	}));
 	$var($StringArray, metaValue_MonthAbbreviations, $new($StringArray, {
 		"Jan"_s,
-		u"P\u00e9b"_s,
+		u"Péb"_s,
 		"Mar"_s,
 		"Apr"_s,
-		u"M\u00e9i"_s,
+		u"Méi"_s,
 		"Jun"_s,
 		"Jul"_s,
 		"Ags"_s,
-		u"S\u00e9p"_s,
+		u"Sép"_s,
 		"Okt"_s,
 		"Nop"_s,
-		u"D\u00e9s"_s,
+		u"Dés"_s,
 		""_s
 	}));
 	$var($StringArray, metaValue_MonthNarrows, $new($StringArray, {
@@ -86,7 +86,7 @@ $ObjectArray2* FormatData_su::getContents() {
 	}));
 	$var($StringArray, metaValue_DayNames, $new($StringArray, {
 		"Minggu"_s,
-		u"Sen\u00e9n"_s,
+		u"Senén"_s,
 		"Salasa"_s,
 		"Rebo"_s,
 		"Kemis"_s,
@@ -145,7 +145,7 @@ $ObjectArray2* FormatData_su::getContents() {
 		"d MMM y GGGG"_s,
 		"d/M/y G"_s
 	}));
-	$var($String, metaValue_calendarname_gregorian, u"Kal\u00e9nder Gr\u00e9gorian"_s);
+	$var($String, metaValue_calendarname_gregorian, u"Kalénder Grégorian"_s);
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("MonthNames"_s),
@@ -275,8 +275,8 @@ $ObjectArray2* FormatData_su::getContents() {
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
+				u"‰"_s,
+				u"∞"_s,
 				"NaN"_s,
 				""_s,
 				""_s
@@ -304,7 +304,7 @@ $ObjectArray2* FormatData_su::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.era"_s),
-			$of(u"\u00e9ra"_s)
+			$of(u"éra"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("islamic.DayAbbreviations"_s),
@@ -447,7 +447,7 @@ $ObjectArray2* FormatData_su::getContents() {
 			$of("latn.NumberPatterns"_s),
 			$of($$new($StringArray, {
 				"#,##0.###"_s,
-				u"\u00a4#,##0.00"_s,
+				u"¤#,##0.00"_s,
 				"#,##0%"_s,
 				""_s
 			}))

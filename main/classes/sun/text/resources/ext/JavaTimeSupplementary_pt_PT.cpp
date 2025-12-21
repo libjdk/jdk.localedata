@@ -39,13 +39,13 @@ void JavaTimeSupplementary_pt_PT::init$() {
 $ObjectArray2* JavaTimeSupplementary_pt_PT::getContents() {
 	$useLocalCurrentObjectStackCache();
 	$var($StringArray, sharedQuarterNames, $new($StringArray, {
-		u"1.\u00ba trimestre"_s,
-		u"2.\u00ba trimestre"_s,
-		u"3.\u00ba trimestre"_s,
-		u"4.\u00ba trimestre"_s
+		u"1.º trimestre"_s,
+		u"2.º trimestre"_s,
+		u"3.º trimestre"_s,
+		u"4.º trimestre"_s
 	}));
 	$var($StringArray, sharedAmPmMarkers, $new($StringArray, {
-		u"da manh\u00e3"_s,
+		u"da manhã"_s,
 		"da tarde"_s
 	}));
 	$var($StringArray, sharedDatePatterns, $new($StringArray, {
@@ -57,11 +57,11 @@ $ObjectArray2* JavaTimeSupplementary_pt_PT::getContents() {
 	$var($StringArray, sharedDayAbbreviations, $new($StringArray, {
 		"domingo"_s,
 		"segunda"_s,
-		u"ter\u00e7a"_s,
+		u"terça"_s,
 		"quarta"_s,
 		"quinta"_s,
 		"sexta"_s,
-		u"s\u00e1bado"_s
+		u"sábado"_s
 	}));
 	$var($StringArray, sharedNarrowAmPmMarkers, $new($StringArray, {
 		"a.m."_s,
@@ -84,23 +84,23 @@ $ObjectArray2* JavaTimeSupplementary_pt_PT::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.buddhist"_s),
-			$of(u"Calend\u00e1rio budista"_s)
+			$of(u"Calendário budista"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.gregorian"_s),
-			$of(u"Calend\u00e1rio gregoriano"_s)
+			$of(u"Calendário gregoriano"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.gregory"_s),
-			$of(u"Calend\u00e1rio gregoriano"_s)
+			$of(u"Calendário gregoriano"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.islamic"_s),
-			$of(u"Calend\u00e1rio isl\u00e2mico"_s)
+			$of(u"Calendário islâmico"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.japanese"_s),
-			$of(u"Calend\u00e1rio japon\u00eas"_s)
+			$of(u"Calendário japonês"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("islamic.AmPmMarkers"_s),

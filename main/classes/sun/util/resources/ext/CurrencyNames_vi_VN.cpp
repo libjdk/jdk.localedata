@@ -39,7 +39,7 @@ void CurrencyNames_vi_VN::init$() {
 $ObjectArray2* CurrencyNames_vi_VN::getContents() {
 	return $new($ObjectArray2, {$$new($ObjectArray, {
 		$of("VND"_s),
-		$of(u"\u0111"_s)
+		$of(u"đ"_s)
 	})});
 }
 

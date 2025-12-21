@@ -41,11 +41,11 @@ $ObjectArray2* CurrencyNames_el_GR::getContents() {
 	return $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("EUR"_s),
-			$of(u"\u20ac"_s)
+			$of(u"€"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("GRD"_s),
-			$of(u"\u03b4\u03c1\u03c7"_s)
+			$of(u"δρχ"_s)
 		})
 	});
 }

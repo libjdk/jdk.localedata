@@ -62,7 +62,7 @@ $ObjectArray2* LocaleNames_zu::getContents() {
 	$var($String, metaValue_ban, "isi-Balinese"_s);
 	$var($String, metaValue_bug, "isi-Buginese"_s);
 	$var($String, metaValue_chr, "isi-Cherokee"_s);
-	$var($String, metaValue_nqo, u"isi-N\u2019Ko"_s);
+	$var($String, metaValue_nqo, u"isi-N’Ko"_s);
 	$var($String, metaValue_syr, "isi-Syriac"_s);
 	$var($String, metaValue_vai, "isi-Vai"_s);
 	$var($String, metaValue_type_nu_taml, "izinombolo zesi-Tamil"_s);
@@ -229,7 +229,7 @@ $ObjectArray2* LocaleNames_zu::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("AX"_s),
-			$of(u"i-\u00c5land Islands"_s)
+			$of(u"i-Åland Islands"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("AZ"_s),
@@ -285,7 +285,7 @@ $ObjectArray2* LocaleNames_zu::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("BL"_s),
-			$of(u"i-Saint Barth\u00e9lemy"_s)
+			$of(u"i-Saint Barthélemy"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("BM"_s),
@@ -385,7 +385,7 @@ $ObjectArray2* LocaleNames_zu::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("CI"_s),
-			$of(u"i-C\u00f4te d\u2019Ivoire"_s)
+			$of(u"i-Côte d’Ivoire"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("CK"_s),
@@ -429,7 +429,7 @@ $ObjectArray2* LocaleNames_zu::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("CW"_s),
-			$of(u"i-Cura\u00e7ao"_s)
+			$of(u"i-Curaçao"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("CX"_s),
@@ -461,7 +461,7 @@ $ObjectArray2* LocaleNames_zu::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("%%RIGIK"_s),
-			$of(u"I-Volap\u00fck Yakudala"_s)
+			$of(u"I-Volapük Yakudala"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Sogd"_s),
@@ -1109,7 +1109,7 @@ $ObjectArray2* LocaleNames_zu::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("gwi"_s),
-			$of(u"isi-Gwich\u02bcin"_s)
+			$of(u"isi-Gwichʼin"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("%%LUNA1918"_s),
@@ -1201,7 +1201,7 @@ $ObjectArray2* LocaleNames_zu::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("Nshu"_s),
-			$of(u"i-N\u00fcshu"_s)
+			$of(u"i-Nüshu"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ME"_s),
@@ -1609,7 +1609,7 @@ $ObjectArray2* LocaleNames_zu::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("RE"_s),
-			$of(u"i-R\u00e9union"_s)
+			$of(u"i-Réunion"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("005"_s),
@@ -1801,7 +1801,7 @@ $ObjectArray2* LocaleNames_zu::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ST"_s),
-			$of(u"i-S\u00e3o Tom\u00e9 kanye ne-Pr\u00edncipe"_s)
+			$of(u"i-São Tomé kanye ne-Príncipe"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("SV"_s),
@@ -1905,7 +1905,7 @@ $ObjectArray2* LocaleNames_zu::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("%%NULIK"_s),
-			$of(u"i-Volap\u00fck yesimanje"_s)
+			$of(u"i-Volapük yesimanje"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("TR"_s),
@@ -3433,7 +3433,7 @@ $ObjectArray2* LocaleNames_zu::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("nb"_s),
-			$of(u"isi-Norwegian Bokm\u00e5l"_s)
+			$of(u"isi-Norwegian Bokmål"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("nd"_s),
@@ -3601,7 +3601,7 @@ $ObjectArray2* LocaleNames_zu::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("%%BOHORIC"_s),
-			$of(u"Uhlambu lwe-Bohori\u010d"_s)
+			$of(u"Uhlambu lwe-Bohorič"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kcg"_s),
@@ -3617,7 +3617,7 @@ $ObjectArray2* LocaleNames_zu::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.nkoo"_s),
-			$of(u"Izinombolo ze-N\u2019Ko"_s)
+			$of(u"Izinombolo ze-N’Ko"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("key.ca"_s),
@@ -3637,7 +3637,7 @@ $ObjectArray2* LocaleNames_zu::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("mgo"_s),
-			$of(u"isi-Meta\u2019"_s)
+			$of(u"isi-Meta’"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.hc.h23"_s),
@@ -4089,7 +4089,7 @@ $ObjectArray2* LocaleNames_zu::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("vo"_s),
-			$of(u"isi-Volap\u00fck"_s)
+			$of(u"isi-Volapük"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.mathsans"_s),
@@ -4101,7 +4101,7 @@ $ObjectArray2* LocaleNames_zu::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("quc"_s),
-			$of(u"isi-K\u02bciche\u02bc"_s)
+			$of(u"isi-Kʼicheʼ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.gonm"_s),

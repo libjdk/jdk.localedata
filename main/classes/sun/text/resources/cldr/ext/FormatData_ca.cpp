@@ -42,14 +42,14 @@ $ObjectArray2* FormatData_ca::getContents() {
 	$var($StringArray, metaValue_MonthNames, $new($StringArray, {
 		"de gener"_s,
 		"de febrer"_s,
-		u"de mar\u00e7"_s,
-		u"d\u2019abril"_s,
+		u"de març"_s,
+		u"d’abril"_s,
 		"de maig"_s,
 		"de juny"_s,
 		"de juliol"_s,
-		u"d\u2019agost"_s,
+		u"d’agost"_s,
 		"de setembre"_s,
-		u"d\u2019octubre"_s,
+		u"d’octubre"_s,
 		"de novembre"_s,
 		"de desembre"_s,
 		""_s
@@ -57,14 +57,14 @@ $ObjectArray2* FormatData_ca::getContents() {
 	$var($StringArray, metaValue_MonthAbbreviations, $new($StringArray, {
 		"de gen."_s,
 		"de febr."_s,
-		u"de mar\u00e7"_s,
-		u"d\u2019abr."_s,
+		u"de març"_s,
+		u"d’abr."_s,
 		"de maig"_s,
 		"de juny"_s,
 		"de jul."_s,
-		u"d\u2019ag."_s,
+		u"d’ag."_s,
 		"de set."_s,
-		u"d\u2019oct."_s,
+		u"d’oct."_s,
 		"de nov."_s,
 		"de des."_s,
 		""_s
@@ -72,7 +72,7 @@ $ObjectArray2* FormatData_ca::getContents() {
 	$var($StringArray, metaValue_MonthNarrows, $new($StringArray, {
 		"GN"_s,
 		"FB"_s,
-		u"M\u00c7"_s,
+		u"MÇ"_s,
 		"AB"_s,
 		"MG"_s,
 		"JN"_s,
@@ -124,12 +124,12 @@ $ObjectArray2* FormatData_ca::getContents() {
 		"4T"_s
 	}));
 	$var($StringArray, metaValue_AmPmMarkers, $new($StringArray, {
-		u"a.\u00a0m."_s,
-		u"p.\u00a0m."_s,
+		u"a. m."_s,
+		u"p. m."_s,
 		"mitjanit"_s,
 		""_s,
 		"matinada"_s,
-		u"mat\u00ed"_s,
+		u"matí"_s,
 		"migdia"_s,
 		"tarda"_s,
 		"vespre"_s,
@@ -138,12 +138,12 @@ $ObjectArray2* FormatData_ca::getContents() {
 		""_s
 	}));
 	$var($StringArray, metaValue_narrow_AmPmMarkers, $new($StringArray, {
-		u"a.\u00a0m."_s,
-		u"p.\u00a0m."_s,
+		u"a. m."_s,
+		u"p. m."_s,
 		"mitjanit"_s,
 		""_s,
 		"mat."_s,
-		u"mat\u00ed"_s,
+		u"matí"_s,
 		"md"_s,
 		"tarda"_s,
 		"vespre"_s,
@@ -187,7 +187,7 @@ $ObjectArray2* FormatData_ca::getContents() {
 		"Abans de ROC"_s,
 		"ROC"_s
 	}));
-	$var($String, metaValue_calendarname_gregorian, u"calendari gregori\u00e0"_s);
+	$var($String, metaValue_calendarname_gregorian, u"calendari gregorià"_s);
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("MonthNames"_s),
@@ -199,7 +199,7 @@ $ObjectArray2* FormatData_ca::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.islamic-umalqura"_s),
-			$of(u"calendari isl\u00e0mic (Umm al-Qura)"_s)
+			$of(u"calendari islàmic (Umm al-Qura)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("japanese.AmPmMarkers"_s),
@@ -231,7 +231,7 @@ $ObjectArray2* FormatData_ca::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.islamic-civil"_s),
-			$of(u"calendari civil isl\u00e0mic"_s)
+			$of(u"calendari civil islàmic"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("islamic.narrow.AmPmMarkers"_s),
@@ -255,7 +255,7 @@ $ObjectArray2* FormatData_ca::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.regionFormat.standard"_s),
-			$of(u"Hora est\u00e0ndard, {0}"_s)
+			$of(u"Hora estàndard, {0}"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("japanese.abbreviated.AmPmMarkers"_s),
@@ -263,7 +263,7 @@ $ObjectArray2* FormatData_ca::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.japanese"_s),
-			$of(u"calendari japon\u00e8s"_s)
+			$of(u"calendari japonès"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("japanese.MonthNames"_s),
@@ -281,7 +281,7 @@ $ObjectArray2* FormatData_ca::getContents() {
 			$of("long.Eras"_s),
 			$of($$new($StringArray, {
 				"abans de Crist"_s,
-				u"despr\u00e9s de Crist"_s
+				u"després de Crist"_s
 			}))
 		}),
 		$$new($ObjectArray, {
@@ -324,8 +324,8 @@ $ObjectArray2* FormatData_ca::getContents() {
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
+				u"‰"_s,
+				u"∞"_s,
 				"NaN"_s,
 				""_s,
 				""_s
@@ -357,7 +357,7 @@ $ObjectArray2* FormatData_ca::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.dayperiod"_s),
-			$of(u"a.\u00a0m./p.\u00a0m."_s)
+			$of(u"a. m./p. m."_s)
 		}),
 		$$new($ObjectArray, {
 			$of("standalone.MonthNarrows"_s),
@@ -369,7 +369,7 @@ $ObjectArray2* FormatData_ca::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.roc"_s),
-			$of(u"calendari de la Rep\u00fablica de Xina"_s)
+			$of(u"calendari de la República de Xina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("islamic.DatePatterns"_s),
@@ -406,7 +406,7 @@ $ObjectArray2* FormatData_ca::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.islamic"_s),
-			$of(u"calendari isl\u00e0mic"_s)
+			$of(u"calendari islàmic"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("java.time.roc.long.Eras"_s),
@@ -429,7 +429,7 @@ $ObjectArray2* FormatData_ca::getContents() {
 			$of($$new($StringArray, {
 				"gen."_s,
 				"febr."_s,
-				u"mar\u00e7"_s,
+				u"març"_s,
 				"abr."_s,
 				"maig"_s,
 				"juny"_s,
@@ -455,13 +455,13 @@ $ObjectArray2* FormatData_ca::getContents() {
 				"{one:0\' \'miler other:0\' \'milers}"_s,
 				"{one:00\' \'milers other:00\' \'milers}"_s,
 				"{one:000\' \'milers other:000\' \'milers}"_s,
-				u"{one:0\' \'mili\u00f3 other:0\' \'milions}"_s,
+				u"{one:0\' \'milió other:0\' \'milions}"_s,
 				"{one:00\' \'milions other:00\' \'milions}"_s,
 				"{one:000\' \'milions other:000\' \'milions}"_s,
 				"{one:0\' \'miler\' \'de\' \'milions other:0\' \'milers\' \'de\' \'milions}"_s,
 				"{one:00\' \'milers\' \'de\' \'milions other:00\' \'milers\' \'de\' \'milions}"_s,
 				"{one:000\' \'milers\' \'de\' \'milions other:000\' \'milers\' \'de\' \'milions}"_s,
-				u"{one:0\' \'bili\u00f3 other:0\' \'bilions}"_s,
+				u"{one:0\' \'bilió other:0\' \'bilions}"_s,
 				"{one:00\' \'bilions other:00\' \'bilions}"_s,
 				"{one:000\' \'bilions other:000\' \'bilions}"_s
 			}))
@@ -663,15 +663,15 @@ $ObjectArray2* FormatData_ca::getContents() {
 				"{one:0m other:0m}"_s,
 				"{one:00m other:00m}"_s,
 				"{one:000m other:000m}"_s,
-				u"{one:0\u00a0M other:0\u00a0M}"_s,
-				u"{one:00\u00a0M other:00\u00a0M}"_s,
-				u"{one:000\u00a0M other:000\u00a0M}"_s,
-				u"{one:0000\u00a0M other:0000\u00a0M}"_s,
+				u"{one:0 M other:0 M}"_s,
+				u"{one:00 M other:00 M}"_s,
+				u"{one:000 M other:000 M}"_s,
+				u"{one:0000 M other:0000 M}"_s,
 				"{one:00mM other:00mM}"_s,
 				"{one:000mM other:000mM}"_s,
-				u"{one:0\u00a0B other:0\u00a0B}"_s,
-				u"{one:00\u00a0B other:00\u00a0B}"_s,
-				u"{one:000\u00a0B other:000\u00a0B}"_s
+				u"{one:0 B other:0 B}"_s,
+				u"{one:00 B other:00 B}"_s,
+				u"{one:000 B other:000 B}"_s
 			}))
 		}),
 		$$new($ObjectArray, {
@@ -684,7 +684,7 @@ $ObjectArray2* FormatData_ca::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.regionFormat.daylight"_s),
-			$of(u"Hora d\u2019estiu, {0}"_s)
+			$of(u"Hora d’estiu, {0}"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("DatePatterns"_s),
@@ -728,7 +728,7 @@ $ObjectArray2* FormatData_ca::getContents() {
 			$of($$new($StringArray, {
 				"gener"_s,
 				"febrer"_s,
-				u"mar\u00e7"_s,
+				u"març"_s,
 				"abril"_s,
 				"maig"_s,
 				"juny"_s,
@@ -745,9 +745,9 @@ $ObjectArray2* FormatData_ca::getContents() {
 			$of("latn.NumberPatterns"_s),
 			$of($$new($StringArray, {
 				"#,##0.###"_s,
-				u"#,##0.00\u00a0\u00a4"_s,
+				u"#,##0.00 ¤"_s,
 				"#,##0%"_s,
-				u"#,##0.00\u00a0\u00a4;(#,##0.00\u00a0\u00a4)"_s
+				u"#,##0.00 ¤;(#,##0.00 ¤)"_s
 			}))
 		}),
 		$$new($ObjectArray, {

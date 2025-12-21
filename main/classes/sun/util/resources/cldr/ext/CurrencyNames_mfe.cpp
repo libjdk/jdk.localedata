@@ -58,7 +58,7 @@ $ObjectArray2* CurrencyNames_mfe::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("bhd"_s),
-			$of(u"dinar bahre\u00efn"_s)
+			$of(u"dinar bahreïn"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bif"_s),
@@ -166,7 +166,7 @@ $ObjectArray2* CurrencyNames_mfe::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("mro"_s),
-			$of(u"ouguiya moritanien (1973\u20132017)"_s)
+			$of(u"ouguiya moritanien (1973–2017)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mru"_s),
@@ -214,7 +214,7 @@ $ObjectArray2* CurrencyNames_mfe::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("shp"_s),
-			$of(u"liv Sainte-H\u00e9l\u00e8ne"_s)
+			$of(u"liv Sainte-Hélène"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sll"_s),
@@ -226,7 +226,7 @@ $ObjectArray2* CurrencyNames_mfe::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("std"_s),
-			$of(u"dobra santomeen (1977\u20132017)"_s)
+			$of(u"dobra santomeen (1977–2017)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("stn"_s),
@@ -266,7 +266,7 @@ $ObjectArray2* CurrencyNames_mfe::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("zmk"_s),
-			$of(u"kwacha zanbien (1968\u20132012)"_s)
+			$of(u"kwacha zanbien (1968–2012)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("zmw"_s),

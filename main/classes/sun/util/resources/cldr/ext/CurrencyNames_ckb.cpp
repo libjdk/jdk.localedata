@@ -41,7 +41,7 @@ $ObjectArray2* CurrencyNames_ckb::getContents() {
 	$useLocalCurrentObjectStackCache();
 	$var($ObjectArray2, data, $new($ObjectArray2, {$$new($ObjectArray, {
 		$of("IQD"_s),
-		$of(u"\u062f.\u0639.\u200f"_s)
+		$of(u"د.ع.\u200f"_s)
 	})}));
 	return data;
 }

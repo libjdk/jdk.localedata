@@ -118,7 +118,7 @@ $ObjectArray2* FormatData_sl::getContents() {
 				"Ponedeljek"_s,
 				"Torek"_s,
 				"Sreda"_s,
-				u"\u010cetrtek"_s,
+				u"Četrtek"_s,
 				"Petek"_s,
 				"Sobota"_s
 			}))
@@ -130,7 +130,7 @@ $ObjectArray2* FormatData_sl::getContents() {
 				"Pon"_s,
 				"Tor"_s,
 				"Sre"_s,
-				u"\u010cet"_s,
+				u"Čet"_s,
 				"Pet"_s,
 				"Sob"_s
 			}))
@@ -142,7 +142,7 @@ $ObjectArray2* FormatData_sl::getContents() {
 				"pon"_s,
 				"tor"_s,
 				"sre"_s,
-				u"\u010det"_s,
+				u"čet"_s,
 				"pet"_s,
 				"sob"_s
 			}))
@@ -154,7 +154,7 @@ $ObjectArray2* FormatData_sl::getContents() {
 				"p"_s,
 				"t"_s,
 				"s"_s,
-				u"\u010d"_s,
+				u"č"_s,
 				"p"_s,
 				"s"_s
 			}))
@@ -162,7 +162,7 @@ $ObjectArray2* FormatData_sl::getContents() {
 		$$new($ObjectArray, {
 			$of("Eras"_s),
 			$of($$new($StringArray, {
-				u"pr.n.\u0161."_s,
+				u"pr.n.š."_s,
 				"po Kr."_s
 			}))
 		}),
@@ -177,9 +177,9 @@ $ObjectArray2* FormatData_sl::getContents() {
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
-				u"\ufffd"_s
+				u"‰"_s,
+				u"∞"_s,
+				u"�"_s
 			}))
 		}),
 		$$new($ObjectArray, {

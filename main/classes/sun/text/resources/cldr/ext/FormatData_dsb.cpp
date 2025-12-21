@@ -42,7 +42,7 @@ $ObjectArray2* FormatData_dsb::getContents() {
 	$var($StringArray, metaValue_MonthNames, $new($StringArray, {
 		"januara"_s,
 		"februara"_s,
-		u"m\u011brca"_s,
+		u"měrca"_s,
 		"apryla"_s,
 		"maja"_s,
 		"junija"_s,
@@ -57,7 +57,7 @@ $ObjectArray2* FormatData_dsb::getContents() {
 	$var($StringArray, metaValue_MonthAbbreviations, $new($StringArray, {
 		"jan."_s,
 		"feb."_s,
-		u"m\u011br."_s,
+		u"měr."_s,
 		"apr."_s,
 		"maj."_s,
 		"jun."_s,
@@ -85,21 +85,21 @@ $ObjectArray2* FormatData_dsb::getContents() {
 		""_s
 	}));
 	$var($StringArray, metaValue_DayNames, $new($StringArray, {
-		u"nje\u017aela"_s,
-		u"p\u00f3nje\u017aele"_s,
-		u"wa\u0142tora"_s,
+		u"njeźela"_s,
+		u"pónjeźele"_s,
+		u"wałtora"_s,
 		"srjoda"_s,
-		u"stw\u00f3rtk"_s,
-		u"p\u011btk"_s,
+		u"stwórtk"_s,
+		u"pětk"_s,
 		"sobota"_s
 	}));
 	$var($StringArray, metaValue_DayAbbreviations, $new($StringArray, {
 		"nje"_s,
-		u"p\u00f3n"_s,
-		u"wa\u0142"_s,
+		u"pón"_s,
+		u"wał"_s,
 		"srj"_s,
 		"stw"_s,
-		u"p\u011bt"_s,
+		u"pět"_s,
 		"sob"_s
 	}));
 	$var($StringArray, metaValue_DayNarrows, $new($StringArray, {
@@ -124,8 +124,8 @@ $ObjectArray2* FormatData_dsb::getContents() {
 		"Q4"_s
 	}));
 	$var($StringArray, metaValue_AmPmMarkers, $new($StringArray, {
-		u"dopo\u0142dnja"_s,
-		u"w\u00f3tpo\u0142dnja"_s,
+		u"dopołdnja"_s,
+		u"wótpołdnja"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -139,7 +139,7 @@ $ObjectArray2* FormatData_dsb::getContents() {
 	}));
 	$var($StringArray, metaValue_narrow_AmPmMarkers, $new($StringArray, {
 		"dop."_s,
-		u"w\u00f3tp."_s,
+		u"wótp."_s,
 		""_s,
 		""_s,
 		""_s,
@@ -152,8 +152,8 @@ $ObjectArray2* FormatData_dsb::getContents() {
 		""_s
 	}));
 	$var($StringArray, metaValue_Eras, $new($StringArray, {
-		u"p\u015b.Chr.n."_s,
-		u"p\u00f3 Chr.n."_s
+		u"pś.Chr.n."_s,
+		u"pó Chr.n."_s
 	}));
 	$var($StringArray, metaValue_TimePatterns, $new($StringArray, {
 		"H:mm:ss zzzz"_s,
@@ -179,7 +179,7 @@ $ObjectArray2* FormatData_dsb::getContents() {
 		"d.M.y GGGG"_s,
 		"d.M.yy G"_s
 	}));
-	$var($String, metaValue_calendarname_gregorian, u"gregoria\u0144ski kalender"_s);
+	$var($String, metaValue_calendarname_gregorian, u"gregoriański kalender"_s);
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("MonthNames"_s),
@@ -187,7 +187,7 @@ $ObjectArray2* FormatData_dsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.year"_s),
-			$of(u"l\u011bto"_s)
+			$of(u"lěto"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("japanese.AmPmMarkers"_s),
@@ -239,7 +239,7 @@ $ObjectArray2* FormatData_dsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.japanese"_s),
-			$of(u"japa\u0144ski kalender"_s)
+			$of(u"japański kalender"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("japanese.MonthNames"_s),
@@ -256,8 +256,8 @@ $ObjectArray2* FormatData_dsb::getContents() {
 		$$new($ObjectArray, {
 			$of("long.Eras"_s),
 			$of($$new($StringArray, {
-				u"p\u015bed Kristusowym naro\u017aenim"_s,
-				u"p\u00f3 Kristusowem naro\u017aenju"_s
+				u"pśed Kristusowym naroźenim"_s,
+				u"pó Kristusowem naroźenju"_s
 			}))
 		}),
 		$$new($ObjectArray, {
@@ -300,8 +300,8 @@ $ObjectArray2* FormatData_dsb::getContents() {
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
+				u"‰"_s,
+				u"∞"_s,
 				"NaN"_s,
 				""_s,
 				""_s
@@ -333,7 +333,7 @@ $ObjectArray2* FormatData_dsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.dayperiod"_s),
-			$of(u"po\u0142ojca dnja"_s)
+			$of(u"połojca dnja"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("standalone.MonthNarrows"_s),
@@ -392,7 +392,7 @@ $ObjectArray2* FormatData_dsb::getContents() {
 			$of($$new($StringArray, {
 				"jan"_s,
 				"feb"_s,
-				u"m\u011br"_s,
+				u"měr"_s,
 				"apr"_s,
 				"maj"_s,
 				"jun"_s,
@@ -421,7 +421,7 @@ $ObjectArray2* FormatData_dsb::getContents() {
 				"{one:0\' \'milion two:0\' \'miliona few:0\' \'miliony other:0\' \'milionow}"_s,
 				"{one:00\' \'milionow two:00\' \'milionow few:00\' \'milionow other:00\' \'milionow}"_s,
 				"{one:000\' \'milionow two:000\' \'milionow few:000\' \'milionow other:000\' \'milionow}"_s,
-				u"{one:0\' \'miliarda two:0\' \'miliar\u017ae few:0\' \'miliardy other:0\' \'miliardow}"_s,
+				u"{one:0\' \'miliarda two:0\' \'miliarźe few:0\' \'miliardy other:0\' \'miliardow}"_s,
 				"{one:00\' \'miliardow two:00\' \'miliardow few:00\' \'miliardow other:00\' \'miliardow}"_s,
 				"{one:000\' \'miliardow two:000\' \'miliardow few:000\' \'miliardow other:000\' \'miliardow}"_s,
 				"{one:0\' \'bilion two:0\' \'biliona few:0\' \'biliony other:0\' \'bilionow}"_s,
@@ -507,7 +507,7 @@ $ObjectArray2* FormatData_dsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.weekday"_s),
-			$of(u"\u017ae\u0144 ty\u017aenja"_s)
+			$of(u"źeń tyźenja"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("japanese.MonthAbbreviations"_s),
@@ -547,7 +547,7 @@ $ObjectArray2* FormatData_dsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.week"_s),
-			$of(u"ty\u017ae\u0144"_s)
+			$of(u"tyźeń"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("buddhist.MonthNarrows"_s),
@@ -583,18 +583,18 @@ $ObjectArray2* FormatData_dsb::getContents() {
 				""_s,
 				""_s,
 				""_s,
-				u"{one:0\u00a0tys\'.\' two:0\u00a0tys\'.\' few:0\u00a0tys\'.\' other:0\u00a0tys\'.\'}"_s,
-				u"{one:00\u00a0tys\'.\' two:00\u00a0tys\'.\' few:00\u00a0tys\'.\' other:00\u00a0tys\'.\'}"_s,
-				u"{one:000\u00a0tys\'.\' two:000\u00a0tys\'.\' few:000\u00a0tys\'.\' other:000\u00a0tys\'.\'}"_s,
-				u"{one:0\u00a0mio\'.\' two:0\u00a0mio\'.\' few:0\u00a0mio\'.\' other:0\u00a0mio\'.\'}"_s,
-				u"{one:00\u00a0mio\'.\' two:00\u00a0mio\'.\' few:00\u00a0mio\'.\' other:00\u00a0mio\'.\'}"_s,
-				u"{one:000\u00a0mio\'.\' two:000\u00a0mio\'.\' few:000\u00a0mio\'.\' other:000\u00a0mio\'.\'}"_s,
-				u"{one:0\u00a0mrd\'.\' two:0\u00a0mrd\'.\' few:0\u00a0mrd\'.\' other:0\u00a0mrd\'.\'}"_s,
-				u"{one:00\u00a0mrd\'.\' two:00\u00a0mrd\'.\' few:00\u00a0mrd\'.\' other:00\u00a0mrd\'.\'}"_s,
-				u"{one:000\u00a0mrd\'.\' two:000\u00a0mrd\'.\' few:000\u00a0mrd\'.\' other:000\u00a0mrd\'.\'}"_s,
-				u"{one:0\u00a0bil\'.\' two:0\u00a0bil\'.\' few:0\u00a0bil\'.\' other:0\u00a0bil\'.\'}"_s,
-				u"{one:00\u00a0bil\'.\' two:00\u00a0bil\'.\' few:00\u00a0bil\'.\' other:00\u00a0bil\'.\'}"_s,
-				u"{one:000\u00a0bil\'.\' two:000\u00a0bil\'.\' few:000\u00a0bil\'.\' other:000\u00a0bil\'.\'}"_s
+				u"{one:0 tys\'.\' two:0 tys\'.\' few:0 tys\'.\' other:0 tys\'.\'}"_s,
+				u"{one:00 tys\'.\' two:00 tys\'.\' few:00 tys\'.\' other:00 tys\'.\'}"_s,
+				u"{one:000 tys\'.\' two:000 tys\'.\' few:000 tys\'.\' other:000 tys\'.\'}"_s,
+				u"{one:0 mio\'.\' two:0 mio\'.\' few:0 mio\'.\' other:0 mio\'.\'}"_s,
+				u"{one:00 mio\'.\' two:00 mio\'.\' few:00 mio\'.\' other:00 mio\'.\'}"_s,
+				u"{one:000 mio\'.\' two:000 mio\'.\' few:000 mio\'.\' other:000 mio\'.\'}"_s,
+				u"{one:0 mrd\'.\' two:0 mrd\'.\' few:0 mrd\'.\' other:0 mrd\'.\'}"_s,
+				u"{one:00 mrd\'.\' two:00 mrd\'.\' few:00 mrd\'.\' other:00 mrd\'.\'}"_s,
+				u"{one:000 mrd\'.\' two:000 mrd\'.\' few:000 mrd\'.\' other:000 mrd\'.\'}"_s,
+				u"{one:0 bil\'.\' two:0 bil\'.\' few:0 bil\'.\' other:0 bil\'.\'}"_s,
+				u"{one:00 bil\'.\' two:00 bil\'.\' few:00 bil\'.\' other:00 bil\'.\'}"_s,
+				u"{one:000 bil\'.\' two:000 bil\'.\' few:000 bil\'.\' other:000 bil\'.\'}"_s
 			}))
 		}),
 		$$new($ObjectArray, {
@@ -603,7 +603,7 @@ $ObjectArray2* FormatData_dsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.regionFormat.daylight"_s),
-			$of(u"{0} l\u011b\u015bojski cas"_s)
+			$of(u"{0} lěśojski cas"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("DatePatterns"_s),
@@ -636,7 +636,7 @@ $ObjectArray2* FormatData_dsb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.hour"_s),
-			$of(u"g\u00f3\u017aina"_s)
+			$of(u"góźina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.buddhist"_s),
@@ -647,7 +647,7 @@ $ObjectArray2* FormatData_dsb::getContents() {
 			$of($$new($StringArray, {
 				"januar"_s,
 				"februar"_s,
-				u"m\u011brc"_s,
+				u"měrc"_s,
 				"apryl"_s,
 				"maj"_s,
 				"junij"_s,
@@ -664,9 +664,9 @@ $ObjectArray2* FormatData_dsb::getContents() {
 			$of("latn.NumberPatterns"_s),
 			$of($$new($StringArray, {
 				"#,##0.###"_s,
-				u"#,##0.00\u00a0\u00a4"_s,
-				u"#,##0\u00a0%"_s,
-				u"#,##0.00\u00a0\u00a4"_s
+				u"#,##0.00 ¤"_s,
+				u"#,##0 %"_s,
+				u"#,##0.00 ¤"_s
 			}))
 		}),
 		$$new($ObjectArray, {

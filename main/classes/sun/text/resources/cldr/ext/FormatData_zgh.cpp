@@ -40,83 +40,83 @@ void FormatData_zgh::init$() {
 $ObjectArray2* FormatData_zgh::getContents() {
 	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_MonthNames, $new($StringArray, {
-		u"\u2d49\u2d4f\u2d4f\u2d30\u2d62\u2d54"_s,
-		u"\u2d31\u2d55\u2d30\u2d62\u2d55"_s,
-		u"\u2d4e\u2d30\u2d55\u2d5a"_s,
-		u"\u2d49\u2d31\u2d54\u2d49\u2d54"_s,
-		u"\u2d4e\u2d30\u2d62\u2d62\u2d53"_s,
-		u"\u2d62\u2d53\u2d4f\u2d62\u2d53"_s,
-		u"\u2d62\u2d53\u2d4d\u2d62\u2d53\u2d63"_s,
-		u"\u2d56\u2d53\u2d5b\u2d5c"_s,
-		u"\u2d5b\u2d53\u2d5c\u2d30\u2d4f\u2d31\u2d49\u2d54"_s,
-		u"\u2d3d\u2d5c\u2d53\u2d31\u2d54"_s,
-		u"\u2d4f\u2d53\u2d61\u2d30\u2d4f\u2d31\u2d49\u2d54"_s,
-		u"\u2d37\u2d53\u2d4a\u2d30\u2d4f\u2d31\u2d49\u2d54"_s,
+		u"ⵉⵏⵏⴰⵢⵔ"_s,
+		u"ⴱⵕⴰⵢⵕ"_s,
+		u"ⵎⴰⵕⵚ"_s,
+		u"ⵉⴱⵔⵉⵔ"_s,
+		u"ⵎⴰⵢⵢⵓ"_s,
+		u"ⵢⵓⵏⵢⵓ"_s,
+		u"ⵢⵓⵍⵢⵓⵣ"_s,
+		u"ⵖⵓⵛⵜ"_s,
+		u"ⵛⵓⵜⴰⵏⴱⵉⵔ"_s,
+		u"ⴽⵜⵓⴱⵔ"_s,
+		u"ⵏⵓⵡⴰⵏⴱⵉⵔ"_s,
+		u"ⴷⵓⵊⴰⵏⴱⵉⵔ"_s,
 		""_s
 	}));
 	$var($StringArray, metaValue_MonthAbbreviations, $new($StringArray, {
-		u"\u2d49\u2d4f\u2d4f"_s,
-		u"\u2d31\u2d55\u2d30"_s,
-		u"\u2d4e\u2d30\u2d55"_s,
-		u"\u2d49\u2d31\u2d54"_s,
-		u"\u2d4e\u2d30\u2d62"_s,
-		u"\u2d62\u2d53\u2d4f"_s,
-		u"\u2d62\u2d53\u2d4d"_s,
-		u"\u2d56\u2d53\u2d5b"_s,
-		u"\u2d5b\u2d53\u2d5c"_s,
-		u"\u2d3d\u2d5c\u2d53"_s,
-		u"\u2d4f\u2d53\u2d61"_s,
-		u"\u2d37\u2d53\u2d4a"_s,
+		u"ⵉⵏⵏ"_s,
+		u"ⴱⵕⴰ"_s,
+		u"ⵎⴰⵕ"_s,
+		u"ⵉⴱⵔ"_s,
+		u"ⵎⴰⵢ"_s,
+		u"ⵢⵓⵏ"_s,
+		u"ⵢⵓⵍ"_s,
+		u"ⵖⵓⵛ"_s,
+		u"ⵛⵓⵜ"_s,
+		u"ⴽⵜⵓ"_s,
+		u"ⵏⵓⵡ"_s,
+		u"ⴷⵓⵊ"_s,
 		""_s
 	}));
 	$var($StringArray, metaValue_MonthNarrows, $new($StringArray, {
-		u"\u2d49"_s,
-		u"\u2d31"_s,
-		u"\u2d4e"_s,
-		u"\u2d49"_s,
-		u"\u2d4e"_s,
-		u"\u2d62"_s,
-		u"\u2d62"_s,
-		u"\u2d56"_s,
-		u"\u2d5b"_s,
-		u"\u2d3d"_s,
-		u"\u2d4f"_s,
-		u"\u2d37"_s,
+		u"ⵉ"_s,
+		u"ⴱ"_s,
+		u"ⵎ"_s,
+		u"ⵉ"_s,
+		u"ⵎ"_s,
+		u"ⵢ"_s,
+		u"ⵢ"_s,
+		u"ⵖ"_s,
+		u"ⵛ"_s,
+		u"ⴽ"_s,
+		u"ⵏ"_s,
+		u"ⴷ"_s,
 		""_s
 	}));
 	$var($StringArray, metaValue_DayNames, $new($StringArray, {
-		u"\u2d30\u2d59\u2d30\u2d4e\u2d30\u2d59"_s,
-		u"\u2d30\u2d62\u2d4f\u2d30\u2d59"_s,
-		u"\u2d30\u2d59\u2d49\u2d4f\u2d30\u2d59"_s,
-		u"\u2d30\u2d3d\u2d55\u2d30\u2d59"_s,
-		u"\u2d30\u2d3d\u2d61\u2d30\u2d59"_s,
-		u"\u2d30\u2d59\u2d49\u2d4e\u2d61\u2d30\u2d59"_s,
-		u"\u2d30\u2d59\u2d49\u2d39\u2d62\u2d30\u2d59"_s
+		u"ⴰⵙⴰⵎⴰⵙ"_s,
+		u"ⴰⵢⵏⴰⵙ"_s,
+		u"ⴰⵙⵉⵏⴰⵙ"_s,
+		u"ⴰⴽⵕⴰⵙ"_s,
+		u"ⴰⴽⵡⴰⵙ"_s,
+		u"ⴰⵙⵉⵎⵡⴰⵙ"_s,
+		u"ⴰⵙⵉⴹⵢⴰⵙ"_s
 	}));
 	$var($StringArray, metaValue_DayAbbreviations, $new($StringArray, {
-		u"\u2d30\u2d59\u2d30"_s,
-		u"\u2d30\u2d62\u2d4f"_s,
-		u"\u2d30\u2d59\u2d49"_s,
-		u"\u2d30\u2d3d\u2d55"_s,
-		u"\u2d30\u2d3d\u2d61"_s,
-		u"\u2d30\u2d59\u2d49\u2d4e"_s,
-		u"\u2d30\u2d59\u2d49\u2d39"_s
+		u"ⴰⵙⴰ"_s,
+		u"ⴰⵢⵏ"_s,
+		u"ⴰⵙⵉ"_s,
+		u"ⴰⴽⵕ"_s,
+		u"ⴰⴽⵡ"_s,
+		u"ⴰⵙⵉⵎ"_s,
+		u"ⴰⵙⵉⴹ"_s
 	}));
 	$var($StringArray, metaValue_QuarterNames, $new($StringArray, {
-		u"\u2d30\u2d3d\u2d55\u2d30\u2d39\u2d62\u2d53\u2d54 1"_s,
-		u"\u2d30\u2d3d\u2d55\u2d30\u2d39\u2d62\u2d53\u2d54 2"_s,
-		u"\u2d30\u2d3d\u2d55\u2d30\u2d39\u2d62\u2d53\u2d54 3"_s,
-		u"\u2d30\u2d3d\u2d55\u2d30\u2d39\u2d62\u2d53\u2d54 4"_s
+		u"ⴰⴽⵕⴰⴹⵢⵓⵔ 1"_s,
+		u"ⴰⴽⵕⴰⴹⵢⵓⵔ 2"_s,
+		u"ⴰⴽⵕⴰⴹⵢⵓⵔ 3"_s,
+		u"ⴰⴽⵕⴰⴹⵢⵓⵔ 4"_s
 	}));
 	$var($StringArray, metaValue_QuarterAbbreviations, $new($StringArray, {
-		u"\u2d30\u2d3d 1"_s,
-		u"\u2d30\u2d3d 2"_s,
-		u"\u2d30\u2d3d 3"_s,
-		u"\u2d30\u2d3d 4"_s
+		u"ⴰⴽ 1"_s,
+		u"ⴰⴽ 2"_s,
+		u"ⴰⴽ 3"_s,
+		u"ⴰⴽ 4"_s
 	}));
 	$var($StringArray, metaValue_AmPmMarkers, $new($StringArray, {
-		u"\u2d5c\u2d49\u2d3c\u2d30\u2d61\u2d5c"_s,
-		u"\u2d5c\u2d30\u2d37\u2d33\u2d33\u2d6f\u2d30\u2d5c"_s,
+		u"ⵜⵉⴼⴰⵡⵜ"_s,
+		u"ⵜⴰⴷⴳⴳⵯⴰⵜ"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -129,8 +129,8 @@ $ObjectArray2* FormatData_zgh::getContents() {
 		""_s
 	}));
 	$var($StringArray, metaValue_Eras, $new($StringArray, {
-		u"\u2d37\u2d30\u2d44"_s,
-		u"\u2d37\u2d3c\u2d44"_s
+		u"ⴷⴰⵄ"_s,
+		u"ⴷⴼⵄ"_s
 	}));
 	$var($StringArray, metaValue_TimePatterns, $new($StringArray, {
 		"HH:mm:ss zzzz"_s,
@@ -165,7 +165,7 @@ $ObjectArray2* FormatData_zgh::getContents() {
 		"d MMM, y GGGG"_s,
 		"d/M/y G"_s
 	}));
-	$var($String, metaValue_calendarname_gregorian, u"\u2d30\u2d59\u2d4e\u2d4d\u2d53\u2d59\u2d59\u2d30\u2d4f \u2d30\u2d33\u2d54\u2d49\u2d33\u2d53\u2d54"_s);
+	$var($String, metaValue_calendarname_gregorian, u"ⴰⵙⵎⵍⵓⵙⵙⴰⵏ ⴰⴳⵔⵉⴳⵓⵔ"_s);
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("MonthNames"_s),
@@ -173,7 +173,7 @@ $ObjectArray2* FormatData_zgh::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.year"_s),
-			$of(u"\u2d30\u2d59\u2d33\u2d33\u2d6f\u2d30\u2d59"_s)
+			$of(u"ⴰⵙⴳⴳⵯⴰⵙ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("islamic.QuarterAbbreviations"_s),
@@ -217,7 +217,7 @@ $ObjectArray2* FormatData_zgh::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.zone"_s),
-			$of(u"\u2d30\u2d3d\u2d53\u2d37 \u2d4f \u2d53\u2d33\u2d4e\u2d4e\u2d30\u2d39"_s)
+			$of(u"ⴰⴽⵓⴷ ⵏ ⵓⴳⵎⵎⴰⴹ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("roc.MonthNarrows"_s),
@@ -286,8 +286,8 @@ $ObjectArray2* FormatData_zgh::getContents() {
 		$$new($ObjectArray, {
 			$of("long.Eras"_s),
 			$of($$new($StringArray, {
-				u"\u2d37\u2d30\u2d5c \u2d4f \u2d44\u2d49\u2d59\u2d30"_s,
-				u"\u2d37\u2d3c\u2d3c\u2d49\u2d54 \u2d4f \u2d44\u2d49\u2d59\u2d30"_s
+				u"ⴷⴰⵜ ⵏ ⵄⵉⵙⴰ"_s,
+				u"ⴷⴼⴼⵉⵔ ⵏ ⵄⵉⵙⴰ"_s
 			}))
 		}),
 		$$new($ObjectArray, {
@@ -308,7 +308,7 @@ $ObjectArray2* FormatData_zgh::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.weekday"_s),
-			$of(u"\u2d30\u2d59\u2d59 \u2d33 \u2d49\u2d4e\u2d30\u2d4d\u2d30\u2d59\u2d59"_s)
+			$of(u"ⴰⵙⵙ ⴳ ⵉⵎⴰⵍⴰⵙⵙ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("buddhist.MonthNames"_s),
@@ -331,15 +331,15 @@ $ObjectArray2* FormatData_zgh::getContents() {
 			$of("latn.NumberElements"_s),
 			$of($$new($StringArray, {
 				","_s,
-				u"\u00a0"_s,
+				u" "_s,
 				";"_s,
 				"%"_s,
 				"0"_s,
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
+				u"‰"_s,
+				u"∞"_s,
 				"NaN"_s,
 				""_s,
 				""_s
@@ -363,11 +363,11 @@ $ObjectArray2* FormatData_zgh::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.minute"_s),
-			$of(u"\u2d5c\u2d53\u2d59\u2d37\u2d49\u2d37\u2d5c"_s)
+			$of(u"ⵜⵓⵙⴷⵉⴷⵜ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("field.era"_s),
-			$of(u"\u2d5c\u2d30\u2d59\u2d53\u2d5c"_s)
+			$of(u"ⵜⴰⵙⵓⵜ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("islamic.DayAbbreviations"_s),
@@ -379,7 +379,7 @@ $ObjectArray2* FormatData_zgh::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.dayperiod"_s),
-			$of(u"\u2d5c\u2d49\u2d63\u2d49 \u2d33 \u2d61\u2d30\u2d59\u2d59: \u2d5c\u2d49\u2d3c\u2d30\u2d61\u2d5c/\u2d5c\u2d30\u2d37\u2d33\u2d33\u2d6f\u2d30\u2d5c"_s)
+			$of(u"ⵜⵉⵣⵉ ⴳ ⵡⴰⵙⵙ: ⵜⵉⴼⴰⵡⵜ/ⵜⴰⴷⴳⴳⵯⴰⵜ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("standalone.MonthNarrows"_s),
@@ -419,7 +419,7 @@ $ObjectArray2* FormatData_zgh::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.month"_s),
-			$of(u"\u2d30\u2d62\u2d62\u2d53\u2d54"_s)
+			$of(u"ⴰⵢⵢⵓⵔ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("buddhist.DatePatterns"_s),
@@ -427,7 +427,7 @@ $ObjectArray2* FormatData_zgh::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.second"_s),
-			$of(u"\u2d5c\u2d30\u2d59\u2d49\u2d4f\u2d5c"_s)
+			$of(u"ⵜⴰⵙⵉⵏⵜ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("roc.MonthNames"_s),
@@ -435,7 +435,7 @@ $ObjectArray2* FormatData_zgh::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.week"_s),
-			$of(u"\u2d49\u2d4e\u2d30\u2d4d\u2d30\u2d59\u2d59"_s)
+			$of(u"ⵉⵎⴰⵍⴰⵙⵙ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("DayAbbreviations"_s),
@@ -459,7 +459,7 @@ $ObjectArray2* FormatData_zgh::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.islamic"_s),
-			$of(u"\u2d30\u2d59\u2d4e\u2d4d\u2d53\u2d59\u2d59\u2d30\u2d4f \u2d4f \u2d4d\u2d49\u2d59\u2d4d\u2d30\u2d4e"_s)
+			$of(u"ⴰⵙⵎⵍⵓⵙⵙⴰⵏ ⵏ ⵍⵉⵙⵍⴰⵎ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("roc.DayNarrows"_s),
@@ -508,7 +508,7 @@ $ObjectArray2* FormatData_zgh::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.hour"_s),
-			$of(u"\u2d5c\u2d30\u2d59\u2d54\u2d30\u2d33\u2d5c"_s)
+			$of(u"ⵜⴰⵙⵔⴰⴳⵜ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("japanese.narrow.AmPmMarkers"_s),
@@ -530,9 +530,9 @@ $ObjectArray2* FormatData_zgh::getContents() {
 			$of("latn.NumberPatterns"_s),
 			$of($$new($StringArray, {
 				"#,##0.###"_s,
-				u"#,##0.00\u00a4"_s,
-				u"#,##0\u00a0%"_s,
-				u"#,##0.00\u00a4"_s
+				u"#,##0.00¤"_s,
+				u"#,##0 %"_s,
+				u"#,##0.00¤"_s
 			}))
 		}),
 		$$new($ObjectArray, {

@@ -43,7 +43,7 @@ void TimeZoneNames_uz::init$() {
 $ObjectArray2* TimeZoneNames_uz::getContents() {
 	$useLocalCurrentObjectStackCache();
 	$var($StringArray, GMT, $new($StringArray, {
-		u"Grinvich o\u2018rtacha vaqti"_s,
+		u"Grinvich o‘rtacha vaqti"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -83,7 +83,7 @@ $ObjectArray2* TimeZoneNames_uz::getContents() {
 		""_s
 	}));
 	$var($StringArray, Gulf, $new($StringArray, {
-		u"Fors ko\u2018rfazi standart vaqti"_s,
+		u"Fors ko‘rfazi standart vaqti"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -691,7 +691,7 @@ $ObjectArray2* TimeZoneNames_uz::getContents() {
 		""_s
 	}));
 	$var($StringArray, Kyrgystan, $new($StringArray, {
-		u"Qirg\u02bbiziston vaqti"_s,
+		u"Qirgʻiziston vaqti"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -795,15 +795,15 @@ $ObjectArray2* TimeZoneNames_uz::getContents() {
 		""_s
 	}));
 	$var($StringArray, Uzbekistan, $new($StringArray, {
-		u"O\u2018zbekiston standart vaqti"_s,
+		u"O‘zbekiston standart vaqti"_s,
 		""_s,
-		u"O\u2018zbekiston yozgi vaqti"_s,
+		u"O‘zbekiston yozgi vaqti"_s,
 		""_s,
-		u"O\u2018zbekiston vaqti"_s,
+		u"O‘zbekiston vaqti"_s,
 		""_s
 	}));
 	$var($StringArray, Afghanistan, $new($StringArray, {
-		u"Afg\u02bboniston vaqti"_s,
+		u"Afgʻoniston vaqti"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -931,15 +931,15 @@ $ObjectArray2* TimeZoneNames_uz::getContents() {
 		""_s
 	}));
 	$var($StringArray, Africa_Western, $new($StringArray, {
-		u"G\u02bbarbiy Afrika standart vaqti"_s,
+		u"Gʻarbiy Afrika standart vaqti"_s,
 		""_s,
-		u"G\u02bbarbiy Afrika yozgi vaqti"_s,
+		u"Gʻarbiy Afrika yozgi vaqti"_s,
 		""_s,
-		u"G\u02bbarbiy Afrika vaqti"_s,
+		u"Gʻarbiy Afrika vaqti"_s,
 		""_s
 	}));
 	$var($StringArray, DumontDUrville, $new($StringArray, {
-		u"Dyumon-d\u2019Yurvil vaqti"_s,
+		u"Dyumon-d’Yurvil vaqti"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -963,11 +963,11 @@ $ObjectArray2* TimeZoneNames_uz::getContents() {
 		""_s
 	}));
 	$var($StringArray, Europe_Western, $new($StringArray, {
-		u"G\u2018arbiy Yevropa standart vaqti"_s,
+		u"G‘arbiy Yevropa standart vaqti"_s,
 		""_s,
-		u"G\u2018arbiy Yevropa yozgi vaqti"_s,
+		u"G‘arbiy Yevropa yozgi vaqti"_s,
 		""_s,
-		u"G\u2018arbiy Yevropa vaqti"_s,
+		u"G‘arbiy Yevropa vaqti"_s,
 		""_s
 	}));
 	$var($StringArray, Mexico_Pacific, $new($StringArray, {
@@ -1051,11 +1051,11 @@ $ObjectArray2* TimeZoneNames_uz::getContents() {
 		""_s
 	}));
 	$var($StringArray, America_Mountain, $new($StringArray, {
-		u"Tog\u2018 standart vaqti (AQSH)"_s,
+		u"Tog‘ standart vaqti (AQSH)"_s,
 		""_s,
-		u"Tog\u2018 yozgi vaqti (AQSH)"_s,
+		u"Tog‘ yozgi vaqti (AQSH)"_s,
 		""_s,
-		u"Tog\u2018 vaqti (AQSH)"_s,
+		u"Tog‘ vaqti (AQSH)"_s,
 		""_s
 	}));
 	$var($StringArray, Marshall_Islands, $new($StringArray, {
@@ -1067,11 +1067,11 @@ $ObjectArray2* TimeZoneNames_uz::getContents() {
 		""_s
 	}));
 	$var($StringArray, Mexico_Northwest, $new($StringArray, {
-		u"Shimoli-g\u2018arbiy Meksika standart vaqti"_s,
+		u"Shimoli-g‘arbiy Meksika standart vaqti"_s,
 		""_s,
-		u"Shimoli-g\u2018arbiy Meksika yozgi vaqti"_s,
+		u"Shimoli-g‘arbiy Meksika yozgi vaqti"_s,
 		""_s,
-		u"Shimoli-g\u2018arbiy Meksika vaqti"_s,
+		u"Shimoli-g‘arbiy Meksika vaqti"_s,
 		""_s
 	}));
 	$var($StringArray, Papua_New_Guinea, $new($StringArray, {
@@ -1099,11 +1099,11 @@ $ObjectArray2* TimeZoneNames_uz::getContents() {
 		""_s
 	}));
 	$var($StringArray, Australia_Western, $new($StringArray, {
-		u"G\u2018arbiy Avstraliya standart vaqti"_s,
+		u"G‘arbiy Avstraliya standart vaqti"_s,
 		""_s,
-		u"G\u2018arbiy Avstraliya yozgi vaqti"_s,
+		u"G‘arbiy Avstraliya yozgi vaqti"_s,
 		""_s,
-		u"G\u2018arbiy Avstraliya vaqti"_s,
+		u"G‘arbiy Avstraliya vaqti"_s,
 		""_s
 	}));
 	$var($StringArray, Greenland_Eastern, $new($StringArray, {
@@ -1115,11 +1115,11 @@ $ObjectArray2* TimeZoneNames_uz::getContents() {
 		""_s
 	}));
 	$var($StringArray, Greenland_Western, $new($StringArray, {
-		u"G\u2018arbiy Grenlandiya standart vaqti"_s,
+		u"G‘arbiy Grenlandiya standart vaqti"_s,
 		""_s,
-		u"G\u2018arbiy Grenlandiya yozgi vaqti"_s,
+		u"G‘arbiy Grenlandiya yozgi vaqti"_s,
 		""_s,
-		u"G\u2018arbiy Grenlandiya vaqti"_s,
+		u"G‘arbiy Grenlandiya vaqti"_s,
 		""_s
 	}));
 	$var($StringArray, Indonesia_Central, $new($StringArray, {
@@ -1139,7 +1139,7 @@ $ObjectArray2* TimeZoneNames_uz::getContents() {
 		""_s
 	}));
 	$var($StringArray, Indonesia_Western, $new($StringArray, {
-		u"G\u02bbarbiy Indoneziya vaqti"_s,
+		u"Gʻarbiy Indoneziya vaqti"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -1147,7 +1147,7 @@ $ObjectArray2* TimeZoneNames_uz::getContents() {
 		""_s
 	}));
 	$var($StringArray, Kazakhstan_Eastern, $new($StringArray, {
-		u"Sharqiy Qozog\u02bbiston vaqti"_s,
+		u"Sharqiy Qozogʻiston vaqti"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -1155,7 +1155,7 @@ $ObjectArray2* TimeZoneNames_uz::getContents() {
 		""_s
 	}));
 	$var($StringArray, Kazakhstan_Western, $new($StringArray, {
-		u"G\u02bbarbiy Qozog\u02bbiston vaqti"_s,
+		u"Gʻarbiy Qozogʻiston vaqti"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -1163,11 +1163,11 @@ $ObjectArray2* TimeZoneNames_uz::getContents() {
 		""_s
 	}));
 	$var($StringArray, Australia_CentralWestern, $new($StringArray, {
-		u"Markaziy Avstraliya g\u2018arbiy standart vaqti"_s,
+		u"Markaziy Avstraliya g‘arbiy standart vaqti"_s,
 		""_s,
-		u"Markaziy Avstraliya g\u2018arbiy yozgi vaqti"_s,
+		u"Markaziy Avstraliya g‘arbiy yozgi vaqti"_s,
 		""_s,
-		u"Markaziy Avstraliya g\u2018arbiy vaqti"_s,
+		u"Markaziy Avstraliya g‘arbiy vaqti"_s,
 		""_s
 	}));
 	$var($ObjectArray2, data, $new($ObjectArray2, {
@@ -1810,7 +1810,7 @@ $ObjectArray2* TimeZoneNames_uz::getContents() {
 		$$new($ObjectArray, {
 			$of("Europe/Dublin"_s),
 			$of($$new($StringArray, {
-				u"Grinvich o\u2018rtacha vaqti"_s,
+				u"Grinvich o‘rtacha vaqti"_s,
 				""_s,
 				"Irlandiya yozgi vaqti"_s,
 				""_s,
@@ -1829,7 +1829,7 @@ $ObjectArray2* TimeZoneNames_uz::getContents() {
 		$$new($ObjectArray, {
 			$of("Europe/London"_s),
 			$of($$new($StringArray, {
-				u"Grinvich o\u2018rtacha vaqti"_s,
+				u"Grinvich o‘rtacha vaqti"_s,
 				""_s,
 				"Britaniya yozgi vaqti"_s,
 				""_s,
@@ -2040,7 +2040,7 @@ $ObjectArray2* TimeZoneNames_uz::getContents() {
 		$$new($ObjectArray, {
 			$of("Europe/Belfast"_s),
 			$of($$new($StringArray, {
-				u"Grinvich o\u2018rtacha vaqti"_s,
+				u"Grinvich o‘rtacha vaqti"_s,
 				""_s,
 				"Britaniya yozgi vaqti"_s,
 				""_s,
@@ -2998,7 +2998,7 @@ $ObjectArray2* TimeZoneNames_uz::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Gaza"_s),
-			$of(u"G\u2018azo"_s)
+			$of(u"G‘azo"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Hovd"_s),
@@ -3102,7 +3102,7 @@ $ObjectArray2* TimeZoneNames_uz::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Aqtobe"_s),
-			$of(u"Oqto\u2018ba"_s)
+			$of(u"Oqto‘ba"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Atyrau"_s),
@@ -3154,7 +3154,7 @@ $ObjectArray2* TimeZoneNames_uz::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Etc/Unknown"_s),
-			$of(u"noma\u2019lum shahar"_s)
+			$of(u"noma’lum shahar"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Kiev"_s),
@@ -3214,7 +3214,7 @@ $ObjectArray2* TimeZoneNames_uz::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Baghdad"_s),
-			$of(u"Bag\u2018dod"_s)
+			$of(u"Bag‘dod"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Bahrain"_s),
@@ -3694,7 +3694,7 @@ $ObjectArray2* TimeZoneNames_uz::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Qyzylorda"_s),
-			$of(u"Qizilo\u2018rda"_s)
+			$of(u"Qizilo‘rda"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Samarkand"_s),
@@ -4690,7 +4690,7 @@ $ObjectArray2* TimeZoneNames_uz::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Antarctica/DumontDUrville"_s),
-			$of(u"Dyumon-d\u2019Yurvil"_s)
+			$of(u"Dyumon-d’Yurvil"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Argentina/La_Rioja"_s),

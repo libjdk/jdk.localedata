@@ -39,7 +39,7 @@ void CollationData_cs::init$() {
 $ObjectArray2* CollationData_cs::getContents() {
 	return $new($ObjectArray2, {$$new($ObjectArray, {
 		$of("Rule"_s),
-		$of(u"& \u0361 ; \u0308 = \u030d& C < c\u030c , C\u030c& H < ch , cH , Ch , CH & R < r\u030c , R\u030c& S < s\u030c , S\u030c& Z < z\u030c , Z\u030c"_s)
+		$of(u"& ͡ ; ̈ = ̍& C < č , Č& H < ch , cH , Ch , CH & R < ř , Ř& S < š , Š& Z < ž , Ž"_s)
 	})});
 }
 

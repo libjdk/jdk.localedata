@@ -50,7 +50,7 @@ $ObjectArray2* FormatData_sq::getContents() {
 		"gusht"_s,
 		"shtator"_s,
 		"tetor"_s,
-		u"n\u00ebntor"_s,
+		u"nëntor"_s,
 		"dhjetor"_s,
 		""_s
 	}));
@@ -65,7 +65,7 @@ $ObjectArray2* FormatData_sq::getContents() {
 		"gush"_s,
 		"sht"_s,
 		"tet"_s,
-		u"n\u00ebn"_s,
+		u"nën"_s,
 		"dhj"_s,
 		""_s
 	}));
@@ -86,18 +86,18 @@ $ObjectArray2* FormatData_sq::getContents() {
 	}));
 	$var($StringArray, metaValue_DayNames, $new($StringArray, {
 		"e diel"_s,
-		u"e h\u00ebn\u00eb"_s,
-		u"e mart\u00eb"_s,
-		u"e m\u00ebrkur\u00eb"_s,
+		u"e hënë"_s,
+		u"e martë"_s,
+		u"e mërkurë"_s,
 		"e enjte"_s,
 		"e premte"_s,
-		u"e shtun\u00eb"_s
+		u"e shtunë"_s
 	}));
 	$var($StringArray, metaValue_DayAbbreviations, $new($StringArray, {
 		"Die"_s,
-		u"H\u00ebn"_s,
+		u"Hën"_s,
 		"Mar"_s,
-		u"M\u00ebr"_s,
+		u"Mër"_s,
 		"Enj"_s,
 		"Pre"_s,
 		"Sht"_s
@@ -112,10 +112,10 @@ $ObjectArray2* FormatData_sq::getContents() {
 		"sh"_s
 	}));
 	$var($StringArray, metaValue_QuarterNames, $new($StringArray, {
-		u"tremujori i par\u00eb"_s,
-		u"tremujori i dyt\u00eb"_s,
-		u"tremujori i tret\u00eb"_s,
-		u"tremujori i kat\u00ebrt"_s
+		u"tremujori i parë"_s,
+		u"tremujori i dytë"_s,
+		u"tremujori i tretë"_s,
+		u"tremujori i katërt"_s
 	}));
 	$var($StringArray, metaValue_QuarterAbbreviations, $new($StringArray, {
 		"tremujori I"_s,
@@ -126,29 +126,29 @@ $ObjectArray2* FormatData_sq::getContents() {
 	$var($StringArray, metaValue_AmPmMarkers, $new($StringArray, {
 		"e paradites"_s,
 		"e pasdites"_s,
-		u"e mesnat\u00ebs"_s,
-		u"e mesdit\u00ebs"_s,
-		u"e m\u00ebngjesit"_s,
+		u"e mesnatës"_s,
+		u"e mesditës"_s,
+		u"e mëngjesit"_s,
 		"e paradites"_s,
 		"e pasdites"_s,
 		""_s,
-		u"e mbr\u00ebmjes"_s,
+		u"e mbrëmjes"_s,
 		""_s,
-		u"e nat\u00ebs"_s,
+		u"e natës"_s,
 		""_s
 	}));
 	$var($StringArray, metaValue_narrow_AmPmMarkers, $new($StringArray, {
 		"p.d."_s,
 		"m.d."_s,
-		u"e mesnat\u00ebs"_s,
-		u"e mesdit\u00ebs"_s,
-		u"e m\u00ebngjesit"_s,
+		u"e mesnatës"_s,
+		u"e mesditës"_s,
+		u"e mëngjesit"_s,
 		"e paradites"_s,
 		"e pasdites"_s,
 		""_s,
-		u"e mbr\u00ebmjes"_s,
+		u"e mbrëmjes"_s,
 		""_s,
-		u"e nat\u00ebs"_s,
+		u"e natës"_s,
 		""_s
 	}));
 	$var($StringArray, metaValue_Eras, $new($StringArray, {
@@ -262,9 +262,9 @@ $ObjectArray2* FormatData_sq::getContents() {
 			$of("standalone.DayAbbreviations"_s),
 			$of($$new($StringArray, {
 				"die"_s,
-				u"h\u00ebn"_s,
+				u"hën"_s,
 				"mar"_s,
-				u"m\u00ebr"_s,
+				u"mër"_s,
 				"enj"_s,
 				"pre"_s,
 				"sht"_s
@@ -300,8 +300,8 @@ $ObjectArray2* FormatData_sq::getContents() {
 		$$new($ObjectArray, {
 			$of("DateTimePatterns"_s),
 			$of($$new($StringArray, {
-				u"{1} \'n\u00eb\' {0}"_s,
-				u"{1} \'n\u00eb\' {0}"_s,
+				u"{1} \'në\' {0}"_s,
+				u"{1} \'në\' {0}"_s,
 				"{1}, {0}"_s,
 				"{1}, {0}"_s
 			}))
@@ -314,15 +314,15 @@ $ObjectArray2* FormatData_sq::getContents() {
 			$of("latn.NumberElements"_s),
 			$of($$new($StringArray, {
 				","_s,
-				u"\u00a0"_s,
+				u" "_s,
 				";"_s,
 				"%"_s,
 				"0"_s,
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
+				u"‰"_s,
+				u"∞"_s,
 				"NaN"_s,
 				""_s,
 				""_s
@@ -342,11 +342,11 @@ $ObjectArray2* FormatData_sq::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.minute"_s),
-			$of(u"minut\u00eb"_s)
+			$of(u"minutë"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("field.era"_s),
-			$of(u"er\u00eb"_s)
+			$of(u"erë"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("buddhist.AmPmMarkers"_s),
@@ -382,7 +382,7 @@ $ObjectArray2* FormatData_sq::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.second"_s),
-			$of(u"sekond\u00eb"_s)
+			$of(u"sekondë"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("DayAbbreviations"_s),
@@ -426,9 +426,9 @@ $ObjectArray2* FormatData_sq::getContents() {
 				""_s,
 				""_s,
 				""_s,
-				u"{one:0\' \'mij\u00eb other:0\' \'mij\u00eb}"_s,
-				u"{one:00\' \'mij\u00eb other:00\' \'mij\u00eb}"_s,
-				u"{one:000\' \'mij\u00eb other:000\' \'mij\u00eb}"_s,
+				u"{one:0\' \'mijë other:0\' \'mijë}"_s,
+				u"{one:00\' \'mijë other:00\' \'mijë}"_s,
+				u"{one:000\' \'mijë other:000\' \'mijë}"_s,
 				"{one:0\' \'milion other:0\' \'milion}"_s,
 				"{one:00\' \'milion other:00\' \'milion}"_s,
 				"{one:000\' \'milion other:000\' \'milion}"_s,
@@ -451,9 +451,9 @@ $ObjectArray2* FormatData_sq::getContents() {
 		$$new($ObjectArray, {
 			$of("standalone.QuarterNames"_s),
 			$of($$new($StringArray, {
-				u"Tremujori i 1-r\u00eb"_s,
-				u"Tremujori i 2-t\u00eb"_s,
-				u"Tremujori i 3-t\u00eb"_s,
+				u"Tremujori i 1-rë"_s,
+				u"Tremujori i 2-të"_s,
+				u"Tremujori i 3-të"_s,
 				"Tremujori i 4-t"_s
 			}))
 		}),
@@ -523,7 +523,7 @@ $ObjectArray2* FormatData_sq::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.weekday"_s),
-			$of(u"dit\u00eb e jav\u00ebs"_s)
+			$of(u"ditë e javës"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("japanese.MonthAbbreviations"_s),
@@ -563,7 +563,7 @@ $ObjectArray2* FormatData_sq::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.week"_s),
-			$of(u"jav\u00eb"_s)
+			$of(u"javë"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("buddhist.MonthNarrows"_s),
@@ -599,18 +599,18 @@ $ObjectArray2* FormatData_sq::getContents() {
 				""_s,
 				""_s,
 				""_s,
-				u"{one:0\u00a0mij\u00eb other:0\u00a0mij\u00eb}"_s,
-				u"{one:00\u00a0mij\u00eb other:00\u00a0mij\u00eb}"_s,
-				u"{one:000\u00a0mij\u00eb other:000\u00a0mij\u00eb}"_s,
-				u"{one:0\u00a0mln other:0\u00a0mln}"_s,
-				u"{one:00\u00a0mln other:00\u00a0mln}"_s,
-				u"{one:000\u00a0mln other:000\u00a0mln}"_s,
-				u"{one:0\u00a0mld other:0\u00a0mld}"_s,
-				u"{one:00\u00a0mld other:00\u00a0mld}"_s,
-				u"{one:000\u00a0mld other:000\u00a0mld}"_s,
-				u"{one:0\u00a0bln other:0\u00a0bln}"_s,
-				u"{one:00\u00a0bln other:00\u00a0bln}"_s,
-				u"{one:000\u00a0bln other:000\u00a0bln}"_s
+				u"{one:0 mijë other:0 mijë}"_s,
+				u"{one:00 mijë other:00 mijë}"_s,
+				u"{one:000 mijë other:000 mijë}"_s,
+				u"{one:0 mln other:0 mln}"_s,
+				u"{one:00 mln other:00 mln}"_s,
+				u"{one:000 mln other:000 mln}"_s,
+				u"{one:0 mld other:0 mld}"_s,
+				u"{one:00 mld other:00 mld}"_s,
+				u"{one:000 mld other:000 mld}"_s,
+				u"{one:0 bln other:0 bln}"_s,
+				u"{one:00 bln other:00 bln}"_s,
+				u"{one:000 bln other:000 bln}"_s
 			}))
 		}),
 		$$new($ObjectArray, {
@@ -652,7 +652,7 @@ $ObjectArray2* FormatData_sq::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.hour"_s),
-			$of(u"or\u00eb"_s)
+			$of(u"orë"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.buddhist"_s),
@@ -666,9 +666,9 @@ $ObjectArray2* FormatData_sq::getContents() {
 			$of("latn.NumberPatterns"_s),
 			$of($$new($StringArray, {
 				"#,##0.###"_s,
-				u"#,##0.00\u00a0\u00a4"_s,
+				u"#,##0.00 ¤"_s,
 				"#,##0%"_s,
-				u"#,##0.00\u00a0\u00a4;(#,##0.00\u00a0\u00a4)"_s
+				u"#,##0.00 ¤;(#,##0.00 ¤)"_s
 			}))
 		}),
 		$$new($ObjectArray, {

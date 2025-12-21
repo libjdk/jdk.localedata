@@ -40,37 +40,37 @@ void FormatData_tk::init$() {
 $ObjectArray2* FormatData_tk::getContents() {
 	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_MonthNames, $new($StringArray, {
-		u"\u00fdanwar"_s,
+		u"ýanwar"_s,
 		"fewral"_s,
 		"mart"_s,
 		"aprel"_s,
-		u"ma\u00fd"_s,
-		u"i\u00fdun"_s,
-		u"i\u00fdul"_s,
+		u"maý"_s,
+		u"iýun"_s,
+		u"iýul"_s,
 		"awgust"_s,
-		u"sent\u00fdabr"_s,
-		u"okt\u00fdabr"_s,
-		u"no\u00fdabr"_s,
+		u"sentýabr"_s,
+		u"oktýabr"_s,
+		u"noýabr"_s,
 		"dekabr"_s,
 		""_s
 	}));
 	$var($StringArray, metaValue_MonthAbbreviations, $new($StringArray, {
-		u"\u00fdan"_s,
+		u"ýan"_s,
 		"few"_s,
 		"mart"_s,
 		"apr"_s,
-		u"ma\u00fd"_s,
-		u"i\u00fdun"_s,
-		u"i\u00fdul"_s,
+		u"maý"_s,
+		u"iýun"_s,
+		u"iýul"_s,
 		"awg"_s,
 		"sen"_s,
 		"okt"_s,
-		u"no\u00fd"_s,
+		u"noý"_s,
 		"dek"_s,
 		""_s
 	}));
 	$var($StringArray, metaValue_MonthNarrows, $new($StringArray, {
-		u"\u00dd"_s,
+		u"Ý"_s,
 		"F"_s,
 		"M"_s,
 		"A"_s,
@@ -85,47 +85,47 @@ $ObjectArray2* FormatData_tk::getContents() {
 		""_s
 	}));
 	$var($StringArray, metaValue_DayNames, $new($StringArray, {
-		u"\u00fdek\u015fenbe"_s,
-		u"du\u015fenbe"_s,
-		u"si\u015fenbe"_s,
-		u"\u00e7ar\u015fenbe"_s,
-		u"pen\u015fenbe"_s,
+		u"ýekşenbe"_s,
+		u"duşenbe"_s,
+		u"sişenbe"_s,
+		u"çarşenbe"_s,
+		u"penşenbe"_s,
 		"anna"_s,
-		u"\u015fenbe"_s
+		u"şenbe"_s
 	}));
 	$var($StringArray, metaValue_DayAbbreviations, $new($StringArray, {
-		u"\u00fdek"_s,
-		u"du\u015f"_s,
-		u"si\u015f"_s,
-		u"\u00e7ar"_s,
+		u"ýek"_s,
+		u"duş"_s,
+		u"siş"_s,
+		u"çar"_s,
 		"pen"_s,
 		"ann"_s,
-		u"\u015fen"_s
+		u"şen"_s
 	}));
 	$var($StringArray, metaValue_DayNarrows, $new($StringArray, {
-		u"\u00dd"_s,
+		u"Ý"_s,
 		"D"_s,
 		"S"_s,
-		u"\u00c7"_s,
+		u"Ç"_s,
 		"P"_s,
 		"A"_s,
-		u"\u015e"_s
+		u"Ş"_s
 	}));
 	$var($StringArray, metaValue_QuarterNames, $new($StringArray, {
-		u"1-nji \u00e7\u00e4r\u00fdek"_s,
-		u"2-nji \u00e7\u00e4r\u00fdek"_s,
-		u"3-nji \u00e7\u00e4r\u00fdek"_s,
-		u"4-nji \u00e7\u00e4r\u00fdek"_s
+		u"1-nji çärýek"_s,
+		u"2-nji çärýek"_s,
+		u"3-nji çärýek"_s,
+		u"4-nji çärýek"_s
 	}));
 	$var($StringArray, metaValue_QuarterAbbreviations, $new($StringArray, {
-		u"1\u00c7"_s,
-		u"2\u00c7"_s,
-		u"3\u00c7"_s,
-		u"4\u00c7"_s
+		u"1Ç"_s,
+		u"2Ç"_s,
+		u"3Ç"_s,
+		u"4Ç"_s
 	}));
 	$var($StringArray, metaValue_AmPmMarkers, $new($StringArray, {
-		u"g\u00fcnortadan \u00f6\u0148"_s,
-		u"g\u00fcnortadan so\u0148"_s,
+		u"günortadan öň"_s,
+		u"günortadan soň"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -138,8 +138,8 @@ $ObjectArray2* FormatData_tk::getContents() {
 		""_s
 	}));
 	$var($StringArray, metaValue_narrow_AmPmMarkers, $new($StringArray, {
-		u"\u00f6\u0148"_s,
-		u"so\u0148"_s,
+		u"öň"_s,
+		u"soň"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -152,8 +152,8 @@ $ObjectArray2* FormatData_tk::getContents() {
 		""_s
 	}));
 	$var($StringArray, metaValue_abbreviated_AmPmMarkers, $new($StringArray, {
-		u"go.\u00f6\u0148"_s,
-		u"go.so\u0148"_s,
+		u"go.öň"_s,
+		u"go.soň"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -166,7 +166,7 @@ $ObjectArray2* FormatData_tk::getContents() {
 		""_s
 	}));
 	$var($StringArray, metaValue_Eras, $new($StringArray, {
-		u"B.e.\u00f6\u0148"_s,
+		u"B.e.öň"_s,
 		"B.e."_s
 	}));
 	$var($StringArray, metaValue_TimePatterns, $new($StringArray, {
@@ -201,7 +201,7 @@ $ObjectArray2* FormatData_tk::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.year"_s),
-			$of(u"\u00fdyl"_s)
+			$of(u"ýyl"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("japanese.AmPmMarkers"_s),
@@ -253,7 +253,7 @@ $ObjectArray2* FormatData_tk::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.japanese"_s),
-			$of(u"\u00ddapon senenamasy"_s)
+			$of(u"Ýapon senenamasy"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("japanese.MonthNames"_s),
@@ -262,13 +262,13 @@ $ObjectArray2* FormatData_tk::getContents() {
 		$$new($ObjectArray, {
 			$of("standalone.DayAbbreviations"_s),
 			$of($$new($StringArray, {
-				u"\u00ddek"_s,
-				u"Du\u015f"_s,
-				u"Si\u015f"_s,
-				u"\u00c7ar"_s,
+				u"Ýek"_s,
+				u"Duş"_s,
+				u"Siş"_s,
+				u"Çar"_s,
 				"Pen"_s,
 				"Ann"_s,
-				u"\u015een"_s
+				u"Şen"_s
 			}))
 		}),
 		$$new($ObjectArray, {
@@ -278,8 +278,8 @@ $ObjectArray2* FormatData_tk::getContents() {
 		$$new($ObjectArray, {
 			$of("long.Eras"_s),
 			$of($$new($StringArray, {
-				u"Isadan \u00f6\u0148"_s,
-				u"Isadan so\u0148"_s
+				u"Isadan öň"_s,
+				u"Isadan soň"_s
 			}))
 		}),
 		$$new($ObjectArray, {
@@ -315,16 +315,16 @@ $ObjectArray2* FormatData_tk::getContents() {
 			$of("latn.NumberElements"_s),
 			$of($$new($StringArray, {
 				","_s,
-				u"\u00a0"_s,
+				u" "_s,
 				";"_s,
 				"%"_s,
 				"0"_s,
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
-				u"san\u00a0d\u00e4l"_s,
+				u"‰"_s,
+				u"∞"_s,
+				u"san däl"_s,
 				""_s,
 				""_s
 			}))
@@ -355,7 +355,7 @@ $ObjectArray2* FormatData_tk::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.dayperiod"_s),
-			$of(u"g\u00fcnortadan \u00f6\u0148/g\u00fcnortadan so\u0148"_s)
+			$of(u"günortadan öň/günortadan soň"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("standalone.MonthNarrows"_s),
@@ -379,7 +379,7 @@ $ObjectArray2* FormatData_tk::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.month"_s),
-			$of(u"a\u00fd"_s)
+			$of(u"aý"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("field.second"_s),
@@ -412,17 +412,17 @@ $ObjectArray2* FormatData_tk::getContents() {
 		$$new($ObjectArray, {
 			$of("standalone.MonthAbbreviations"_s),
 			$of($$new($StringArray, {
-				u"\u00ddan"_s,
+				u"Ýan"_s,
 				"Few"_s,
 				"Mar"_s,
 				"Apr"_s,
-				u"Ma\u00fd"_s,
-				u"I\u00fdun"_s,
-				u"I\u00fdul"_s,
+				u"Maý"_s,
+				u"Iýun"_s,
+				u"Iýul"_s,
 				"Awg"_s,
 				"Sen"_s,
 				"Okt"_s,
-				u"No\u00fd"_s,
+				u"Noý"_s,
 				"Dek"_s,
 				""_s
 			}))
@@ -437,9 +437,9 @@ $ObjectArray2* FormatData_tk::getContents() {
 				""_s,
 				""_s,
 				""_s,
-				u"{one:0\' \'m\u00fc\u0148 other:0\' \'m\u00fc\u0148}"_s,
-				u"{one:00\' \'m\u00fc\u0148 other:00\' \'m\u00fc\u0148}"_s,
-				u"{one:000\' \'m\u00fc\u0148 other:000\' \'m\u00fc\u0148}"_s,
+				u"{one:0\' \'müň other:0\' \'müň}"_s,
+				u"{one:00\' \'müň other:00\' \'müň}"_s,
+				u"{one:000\' \'müň other:000\' \'müň}"_s,
 				"{one:0\' \'million other:0\' \'million}"_s,
 				"{one:00\' \'million other:00\' \'million}"_s,
 				"{one:000\' \'million other:000\' \'million}"_s,
@@ -493,7 +493,7 @@ $ObjectArray2* FormatData_tk::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.zone"_s),
-			$of(u"sagat gu\u015faklygy"_s)
+			$of(u"sagat guşaklygy"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("japanese.QuarterAbbreviations"_s),
@@ -529,7 +529,7 @@ $ObjectArray2* FormatData_tk::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.weekday"_s),
-			$of(u"hepd\u00e4ni\u0148 g\u00fcni"_s)
+			$of(u"hepdäniň güni"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("japanese.MonthAbbreviations"_s),
@@ -605,18 +605,18 @@ $ObjectArray2* FormatData_tk::getContents() {
 				""_s,
 				""_s,
 				""_s,
-				u"{one:0\u00a0m\u00fc\u0148 other:0\u00a0m\u00fc\u0148}"_s,
-				u"{one:00\u00a0m\u00fc\u0148 other:00\u00a0m\u00fc\u0148}"_s,
-				u"{one:000\u00a0m\u00fc\u0148 other:000\u00a0m\u00fc\u0148}"_s,
-				u"{one:0\u00a0mln other:0\u00a0mln}"_s,
-				u"{one:00\u00a0mln other:00\u00a0mln}"_s,
-				u"{one:000\u00a0mln other:000\u00a0mln}"_s,
-				u"{one:0\u00a0mlrd other:0\u00a0mlrd}"_s,
-				u"{one:00\u00a0mlrd other:00\u00a0mlrd}"_s,
-				u"{one:000\u00a0mlrd other:000\u00a0mlrd}"_s,
-				u"{one:0\u00a0trln other:0\u00a0trln}"_s,
-				u"{one:00\u00a0trln other:00\u00a0trln}"_s,
-				u"{one:000\u00a0trln other:000\u00a0trln}"_s
+				u"{one:0 müň other:0 müň}"_s,
+				u"{one:00 müň other:00 müň}"_s,
+				u"{one:000 müň other:000 müň}"_s,
+				u"{one:0 mln other:0 mln}"_s,
+				u"{one:00 mln other:00 mln}"_s,
+				u"{one:000 mln other:000 mln}"_s,
+				u"{one:0 mlrd other:0 mlrd}"_s,
+				u"{one:00 mlrd other:00 mlrd}"_s,
+				u"{one:000 mlrd other:000 mlrd}"_s,
+				u"{one:0 trln other:0 trln}"_s,
+				u"{one:00 trln other:00 trln}"_s,
+				u"{one:000 trln other:000 trln}"_s
 			}))
 		}),
 		$$new($ObjectArray, {
@@ -651,13 +651,13 @@ $ObjectArray2* FormatData_tk::getContents() {
 		$$new($ObjectArray, {
 			$of("standalone.DayNames"_s),
 			$of($$new($StringArray, {
-				u"\u00ddek\u015fenbe"_s,
-				u"Du\u015fenbe"_s,
-				u"Si\u015fenbe"_s,
-				u"\u00c7ar\u015fenbe"_s,
-				u"Pen\u015fenbe"_s,
+				u"Ýekşenbe"_s,
+				u"Duşenbe"_s,
+				u"Sişenbe"_s,
+				u"Çarşenbe"_s,
+				u"Penşenbe"_s,
 				"Anna"_s,
-				u"\u015eenbe"_s
+				u"Şenbe"_s
 			}))
 		}),
 		$$new($ObjectArray, {
@@ -675,17 +675,17 @@ $ObjectArray2* FormatData_tk::getContents() {
 		$$new($ObjectArray, {
 			$of("standalone.MonthNames"_s),
 			$of($$new($StringArray, {
-				u"\u00ddanwar"_s,
+				u"Ýanwar"_s,
 				"Fewral"_s,
 				"Mart"_s,
 				"Aprel"_s,
-				u"Ma\u00fd"_s,
-				u"I\u00fdun"_s,
-				u"I\u00fdul"_s,
+				u"Maý"_s,
+				u"Iýun"_s,
+				u"Iýul"_s,
 				"Awgust"_s,
-				u"Sent\u00fdabr"_s,
-				u"Okt\u00fdabr"_s,
-				u"No\u00fdabr"_s,
+				u"Sentýabr"_s,
+				u"Oktýabr"_s,
+				u"Noýabr"_s,
 				"Dekabr"_s,
 				""_s
 			}))
@@ -694,9 +694,9 @@ $ObjectArray2* FormatData_tk::getContents() {
 			$of("latn.NumberPatterns"_s),
 			$of($$new($StringArray, {
 				"#,##0.###"_s,
-				u"#,##0.00\u00a0\u00a4"_s,
-				u"#,##0\u00a0%"_s,
-				u"#,##0.00\u00a0\u00a4"_s
+				u"#,##0.00 ¤"_s,
+				u"#,##0 %"_s,
+				u"#,##0.00 ¤"_s
 			}))
 		}),
 		$$new($ObjectArray, {

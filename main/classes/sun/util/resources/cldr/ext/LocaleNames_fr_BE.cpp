@@ -42,7 +42,7 @@ $ObjectArray2* LocaleNames_fr_BE::getContents() {
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("GS"_s),
-			$of(u"\u00celes G\u00e9orgie du Sud et Sandwich du Sud"_s)
+			$of(u"Îles Géorgie du Sud et Sandwich du Sud"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gu"_s),
@@ -50,7 +50,7 @@ $ObjectArray2* LocaleNames_fr_BE::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("frp"_s),
-			$of(u"franco-proven\u00e7al"_s)
+			$of(u"franco-provençal"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("goh"_s),

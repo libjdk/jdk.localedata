@@ -261,8 +261,8 @@ $ObjectArray2* FormatData_mg::getContents() {
 		$$new($ObjectArray, {
 			$of("long.Eras"_s),
 			$of($$new($StringArray, {
-				u"Alohan\u2019i JK"_s,
-				u"Aorian\u2019i JK"_s
+				u"Alohan’i JK"_s,
+				u"Aorian’i JK"_s
 			}))
 		}),
 		$$new($ObjectArray, {
@@ -305,8 +305,8 @@ $ObjectArray2* FormatData_mg::getContents() {
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
+				u"‰"_s,
+				u"∞"_s,
 				"NaN"_s,
 				""_s,
 				""_s
@@ -489,9 +489,9 @@ $ObjectArray2* FormatData_mg::getContents() {
 			$of("latn.NumberPatterns"_s),
 			$of($$new($StringArray, {
 				"#,##0.###"_s,
-				u"\u00a4\u00a0#,##0.00"_s,
+				u"¤ #,##0.00"_s,
 				"#,##0%"_s,
-				u"\u00a4#,##0.00"_s
+				u"¤#,##0.00"_s
 			}))
 		}),
 		$$new($ObjectArray, {

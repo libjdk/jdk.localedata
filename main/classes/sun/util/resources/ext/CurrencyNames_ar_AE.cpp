@@ -39,7 +39,7 @@ void CurrencyNames_ar_AE::init$() {
 $ObjectArray2* CurrencyNames_ar_AE::getContents() {
 	return $new($ObjectArray2, {$$new($ObjectArray, {
 		$of("AED"_s),
-		$of(u"\u062f.\u0625.\u200f"_s)
+		$of(u"د.إ.\u200f"_s)
 	})});
 }
 

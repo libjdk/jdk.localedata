@@ -710,7 +710,7 @@ $ObjectArray2* LocaleNames_nd::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("RE"_s),
-			$of(u"R\u00e9union"_s)
+			$of(u"Réunion"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("RO"_s),
@@ -782,7 +782,7 @@ $ObjectArray2* LocaleNames_nd::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ST"_s),
-			$of(u"S\u00e3o Tom\u00e9 and Pr\u00edncipe"_s)
+			$of(u"São Tomé and Príncipe"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("SV"_s),

@@ -40,17 +40,17 @@ void FormatData_mi::init$() {
 $ObjectArray2* FormatData_mi::getContents() {
 	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_MonthNames, $new($StringArray, {
-		u"Kohit\u0101tea"_s,
+		u"Kohitātea"_s,
 		"Huitanguru"_s,
-		u"Pout\u016bterangi"_s,
-		u"Paengawh\u0101wh\u0101"_s,
+		u"Poutūterangi"_s,
+		u"Paengawhāwhā"_s,
 		"Haratua"_s,
 		"Pipiri"_s,
-		u"H\u014dngongoi"_s,
-		u"Hereturik\u014dk\u0101"_s,
+		u"Hōngongoi"_s,
+		u"Hereturikōkā"_s,
 		"Mahuru"_s,
-		u"Whiringa-\u0101-nuku"_s,
-		u"Whiringa-\u0101-rangi"_s,
+		u"Whiringa-ā-nuku"_s,
+		u"Whiringa-ā-rangi"_s,
 		"Hakihea"_s,
 		""_s
 	}));
@@ -61,7 +61,7 @@ $ObjectArray2* FormatData_mi::getContents() {
 		"Pae"_s,
 		"Hara"_s,
 		"Pipi"_s,
-		u"H\u014dngo"_s,
+		u"Hōngo"_s,
 		"Here"_s,
 		"Mahu"_s,
 		"Nuku"_s,
@@ -85,18 +85,18 @@ $ObjectArray2* FormatData_mi::getContents() {
 		""_s
 	}));
 	$var($StringArray, metaValue_DayNames, $new($StringArray, {
-		u"R\u0101tapu"_s,
-		u"R\u0101hina"_s,
-		u"R\u0101t\u016b"_s,
-		u"R\u0101apa"_s,
-		u"R\u0101pare"_s,
-		u"R\u0101mere"_s,
-		u"R\u0101horoi"_s
+		u"Rātapu"_s,
+		u"Rāhina"_s,
+		u"Rātū"_s,
+		u"Rāapa"_s,
+		u"Rāpare"_s,
+		u"Rāmere"_s,
+		u"Rāhoroi"_s
 	}));
 	$var($StringArray, metaValue_DayAbbreviations, $new($StringArray, {
 		"Tap"_s,
 		"Hin"_s,
-		u"T\u016b"_s,
+		u"Tū"_s,
 		"Apa"_s,
 		"Par"_s,
 		"Mer"_s,
@@ -112,10 +112,10 @@ $ObjectArray2* FormatData_mi::getContents() {
 		"H"_s
 	}));
 	$var($StringArray, metaValue_QuarterNames, $new($StringArray, {
-		u"Hauwh\u0101 tuatahi"_s,
-		u"Hauwh\u0101 tuarua"_s,
-		u"Hauwh\u0101 tuatoru"_s,
-		u"Hauwh\u0101 tuawh\u0101"_s
+		u"Hauwhā tuatahi"_s,
+		u"Hauwhā tuarua"_s,
+		u"Hauwhā tuatoru"_s,
+		u"Hauwhā tuawhā"_s
 	}));
 	$var($StringArray, metaValue_QuarterAbbreviations, $new($StringArray, {
 		"HW1"_s,
@@ -165,7 +165,7 @@ $ObjectArray2* FormatData_mi::getContents() {
 		"d MMM y GGGG"_s,
 		"dd-MM-y G"_s
 	}));
-	$var($String, metaValue_calendarname_gregorian, u"Maramataka P\u0101keh\u0101"_s);
+	$var($String, metaValue_calendarname_gregorian, u"Maramataka Pākehā"_s);
 	$var($StringArray, metaValue_short_CompactNumberPatterns, $new($StringArray, {
 		""_s,
 		""_s,
@@ -234,7 +234,7 @@ $ObjectArray2* FormatData_mi::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.zone"_s),
-			$of(u"rohe w\u0101"_s)
+			$of(u"rohe wā"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("roc.MonthNarrows"_s),
@@ -302,7 +302,7 @@ $ObjectArray2* FormatData_mi::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.weekday"_s),
-			$of(u"r\u0101 o te wiki"_s)
+			$of(u"rā o te wiki"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("buddhist.MonthNames"_s),
@@ -328,8 +328,8 @@ $ObjectArray2* FormatData_mi::getContents() {
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
+				u"‰"_s,
+				u"∞"_s,
 				"NaN"_s,
 				""_s,
 				""_s
@@ -357,7 +357,7 @@ $ObjectArray2* FormatData_mi::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.era"_s),
-			$of(u"w\u0101"_s)
+			$of(u"wā"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("islamic.DayAbbreviations"_s),
@@ -417,7 +417,7 @@ $ObjectArray2* FormatData_mi::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.second"_s),
-			$of(u"h\u0113kona"_s)
+			$of(u"hēkona"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("roc.MonthNames"_s),
@@ -502,7 +502,7 @@ $ObjectArray2* FormatData_mi::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.hour"_s),
-			$of(u"h\u0101ora"_s)
+			$of(u"hāora"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("japanese.narrow.AmPmMarkers"_s),
@@ -528,9 +528,9 @@ $ObjectArray2* FormatData_mi::getContents() {
 			$of("latn.NumberPatterns"_s),
 			$of($$new($StringArray, {
 				"#,##0.###"_s,
-				u"\u00a4\u00a0#,##0.00"_s,
+				u"¤ #,##0.00"_s,
 				"#,##0%"_s,
-				u"\u00a4\u00a0#,##0.00"_s
+				u"¤ #,##0.00"_s
 			}))
 		}),
 		$$new($ObjectArray, {

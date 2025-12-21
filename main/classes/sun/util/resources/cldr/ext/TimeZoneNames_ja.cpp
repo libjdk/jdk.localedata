@@ -43,7 +43,7 @@ void TimeZoneNames_ja::init$() {
 $ObjectArray2* TimeZoneNames_ja::getContents() {
 	$useLocalCurrentObjectStackCache();
 	$var($StringArray, GMT, $new($StringArray, {
-		u"\u30b0\u30ea\u30cb\u30c3\u30b8\u6a19\u6e96\u6642"_s,
+		u"グリニッジ標準時"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -51,47 +51,47 @@ $ObjectArray2* TimeZoneNames_ja::getContents() {
 		""_s
 	}));
 	$var($StringArray, Acre, $new($StringArray, {
-		u"\u30a2\u30af\u30ec\u6a19\u6e96\u6642"_s,
+		u"アクレ標準時"_s,
 		""_s,
-		u"\u30a2\u30af\u30ec\u590f\u6642\u9593"_s,
+		u"アクレ夏時間"_s,
 		""_s,
-		u"\u30a2\u30af\u30ec\u6642\u9593"_s,
+		u"アクレ時間"_s,
 		""_s
 	}));
 	$var($StringArray, Apia, $new($StringArray, {
-		u"\u30a2\u30d4\u30a2\u6a19\u6e96\u6642"_s,
+		u"アピア標準時"_s,
 		""_s,
-		u"\u30a2\u30d4\u30a2\u590f\u6642\u9593"_s,
+		u"アピア夏時間"_s,
 		""_s,
-		u"\u30a2\u30d4\u30a2\u6642\u9593"_s,
+		u"アピア時間"_s,
 		""_s
 	}));
 	$var($StringArray, Cook, $new($StringArray, {
-		u"\u30af\u30c3\u30af\u8af8\u5cf6\u6a19\u6e96\u6642"_s,
+		u"クック諸島標準時"_s,
 		""_s,
-		u"\u30af\u30c3\u30af\u8af8\u5cf6\u590f\u6642\u9593"_s,
+		u"クック諸島夏時間"_s,
 		""_s,
-		u"\u30af\u30c3\u30af\u8af8\u5cf6\u6642\u9593"_s,
+		u"クック諸島時間"_s,
 		""_s
 	}));
 	$var($StringArray, Cuba, $new($StringArray, {
-		u"\u30ad\u30e5\u30fc\u30d0\u6a19\u6e96\u6642"_s,
+		u"キューバ標準時"_s,
 		""_s,
-		u"\u30ad\u30e5\u30fc\u30d0\u590f\u6642\u9593"_s,
+		u"キューバ夏時間"_s,
 		""_s,
-		u"\u30ad\u30e5\u30fc\u30d0\u6642\u9593"_s,
+		u"キューバ時間"_s,
 		""_s
 	}));
 	$var($StringArray, Fiji, $new($StringArray, {
-		u"\u30d5\u30a3\u30b8\u30fc\u6a19\u6e96\u6642"_s,
+		u"フィジー標準時"_s,
 		""_s,
-		u"\u30d5\u30a3\u30b8\u30fc\u590f\u6642\u9593"_s,
+		u"フィジー夏時間"_s,
 		""_s,
-		u"\u30d5\u30a3\u30b8\u30fc\u6642\u9593"_s,
+		u"フィジー時間"_s,
 		""_s
 	}));
 	$var($StringArray, Gulf, $new($StringArray, {
-		u"\u6e7e\u5cb8\u6a19\u6e96\u6642"_s,
+		u"湾岸標準時"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -99,23 +99,23 @@ $ObjectArray2* TimeZoneNames_ja::getContents() {
 		""_s
 	}));
 	$var($StringArray, Hovd, $new($StringArray, {
-		u"\u30db\u30d6\u30c9\u6a19\u6e96\u6642"_s,
+		u"ホブド標準時"_s,
 		""_s,
-		u"\u30db\u30d6\u30c9\u590f\u6642\u9593"_s,
+		u"ホブド夏時間"_s,
 		""_s,
-		u"\u30db\u30d6\u30c9\u6642\u9593"_s,
+		u"ホブド時間"_s,
 		""_s
 	}));
 	$var($StringArray, Iran, $new($StringArray, {
-		u"\u30a4\u30e9\u30f3\u6a19\u6e96\u6642"_s,
+		u"イラン標準時"_s,
 		""_s,
-		u"\u30a4\u30e9\u30f3\u590f\u6642\u9593"_s,
+		u"イラン夏時間"_s,
 		""_s,
-		u"\u30a4\u30e9\u30f3\u6642\u9593"_s,
+		u"イラン時間"_s,
 		""_s
 	}));
 	$var($StringArray, Niue, $new($StringArray, {
-		u"\u30cb\u30a6\u30a8\u6642\u9593"_s,
+		u"ニウエ時間"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -123,23 +123,23 @@ $ObjectArray2* TimeZoneNames_ja::getContents() {
 		""_s
 	}));
 	$var($StringArray, Omsk, $new($StringArray, {
-		u"\u30aa\u30e0\u30b9\u30af\u6a19\u6e96\u6642"_s,
+		u"オムスク標準時"_s,
 		""_s,
-		u"\u30aa\u30e0\u30b9\u30af\u590f\u6642\u9593"_s,
+		u"オムスク夏時間"_s,
 		""_s,
-		u"\u30aa\u30e0\u30b9\u30af\u6642\u9593"_s,
+		u"オムスク時間"_s,
 		""_s
 	}));
 	$var($StringArray, Peru, $new($StringArray, {
-		u"\u30da\u30eb\u30fc\u6a19\u6e96\u6642"_s,
+		u"ペルー標準時"_s,
 		""_s,
-		u"\u30da\u30eb\u30fc\u590f\u6642\u9593"_s,
+		u"ペルー夏時間"_s,
 		""_s,
-		u"\u30da\u30eb\u30fc\u6642\u9593"_s,
+		u"ペルー時間"_s,
 		""_s
 	}));
 	$var($StringArray, Truk, $new($StringArray, {
-		u"\u30c1\u30e5\u30fc\u30af\u6642\u9593"_s,
+		u"チューク時間"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -147,7 +147,7 @@ $ObjectArray2* TimeZoneNames_ja::getContents() {
 		""_s
 	}));
 	$var($StringArray, Wake, $new($StringArray, {
-		u"\u30a6\u30a7\u30fc\u30af\u5cf6\u6642\u9593"_s,
+		u"ウェーク島時間"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -155,7 +155,7 @@ $ObjectArray2* TimeZoneNames_ja::getContents() {
 		""_s
 	}));
 	$var($StringArray, Casey, $new($StringArray, {
-		u"\u30b1\u30a4\u30b7\u30fc\u57fa\u5730\u6642\u9593"_s,
+		u"ケイシー基地時間"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -163,23 +163,23 @@ $ObjectArray2* TimeZoneNames_ja::getContents() {
 		""_s
 	}));
 	$var($StringArray, Chile, $new($StringArray, {
-		u"\u30c1\u30ea\u6a19\u6e96\u6642"_s,
+		u"チリ標準時"_s,
 		""_s,
-		u"\u30c1\u30ea\u590f\u6642\u9593"_s,
+		u"チリ夏時間"_s,
 		""_s,
-		u"\u30c1\u30ea\u6642\u9593"_s,
+		u"チリ時間"_s,
 		""_s
 	}));
 	$var($StringArray, China, $new($StringArray, {
-		u"\u4e2d\u56fd\u6a19\u6e96\u6642"_s,
+		u"中国標準時"_s,
 		""_s,
-		u"\u4e2d\u56fd\u590f\u6642\u9593"_s,
+		u"中国夏時間"_s,
 		""_s,
-		u"\u4e2d\u56fd\u6642\u9593"_s,
+		u"中国時間"_s,
 		""_s
 	}));
 	$var($StringArray, Cocos, $new($StringArray, {
-		u"\u30b3\u30b3\u30b9\u8af8\u5cf6\u6642\u9593"_s,
+		u"ココス諸島時間"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -187,7 +187,7 @@ $ObjectArray2* TimeZoneNames_ja::getContents() {
 		""_s
 	}));
 	$var($StringArray, Davis, $new($StringArray, {
-		u"\u30c7\u30fc\u30d3\u30b9\u57fa\u5730\u6642\u9593"_s,
+		u"デービス基地時間"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -195,7 +195,7 @@ $ObjectArray2* TimeZoneNames_ja::getContents() {
 		""_s
 	}));
 	$var($StringArray, India, $new($StringArray, {
-		u"\u30a4\u30f3\u30c9\u6a19\u6e96\u6642"_s,
+		u"インド標準時"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -203,23 +203,23 @@ $ObjectArray2* TimeZoneNames_ja::getContents() {
 		""_s
 	}));
 	$var($StringArray, Japan, $new($StringArray, {
-		u"\u65e5\u672c\u6a19\u6e96\u6642"_s,
+		u"日本標準時"_s,
 		"JST"_s,
-		u"\u65e5\u672c\u590f\u6642\u9593"_s,
+		u"日本夏時間"_s,
 		"JDT"_s,
-		u"\u65e5\u672c\u6642\u9593"_s,
-		u"\u2205\u2205\u2205"_s
+		u"日本時間"_s,
+		u"∅∅∅"_s
 	}));
 	$var($StringArray, Korea, $new($StringArray, {
-		u"\u97d3\u56fd\u6a19\u6e96\u6642"_s,
+		u"韓国標準時"_s,
 		""_s,
-		u"\u97d3\u56fd\u590f\u6642\u9593"_s,
+		u"韓国夏時間"_s,
 		""_s,
-		u"\u97d3\u56fd\u6642\u9593"_s,
+		u"韓国時間"_s,
 		""_s
 	}));
 	$var($StringArray, Nauru, $new($StringArray, {
-		u"\u30ca\u30a6\u30eb\u6642\u9593"_s,
+		u"ナウル時間"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -227,7 +227,7 @@ $ObjectArray2* TimeZoneNames_ja::getContents() {
 		""_s
 	}));
 	$var($StringArray, Nepal, $new($StringArray, {
-		u"\u30cd\u30d1\u30fc\u30eb\u6642\u9593"_s,
+		u"ネパール時間"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -235,7 +235,7 @@ $ObjectArray2* TimeZoneNames_ja::getContents() {
 		""_s
 	}));
 	$var($StringArray, Palau, $new($StringArray, {
-		u"\u30d1\u30e9\u30aa\u6642\u9593"_s,
+		u"パラオ時間"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -243,15 +243,15 @@ $ObjectArray2* TimeZoneNames_ja::getContents() {
 		""_s
 	}));
 	$var($StringArray, Samoa, $new($StringArray, {
-		u"\u30b5\u30e2\u30a2\u6a19\u6e96\u6642"_s,
+		u"サモア標準時"_s,
 		""_s,
-		u"\u30b5\u30e2\u30a2\u590f\u6642\u9593"_s,
+		u"サモア夏時間"_s,
 		""_s,
-		u"\u30b5\u30e2\u30a2\u6642\u9593"_s,
+		u"サモア時間"_s,
 		""_s
 	}));
 	$var($StringArray, Syowa, $new($StringArray, {
-		u"\u662d\u548c\u57fa\u5730\u6642\u9593"_s,
+		u"昭和基地時間"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -259,47 +259,47 @@ $ObjectArray2* TimeZoneNames_ja::getContents() {
 		""_s
 	}));
 	$var($StringArray, Tonga, $new($StringArray, {
-		u"\u30c8\u30f3\u30ac\u6a19\u6e96\u6642"_s,
+		u"トンガ標準時"_s,
 		""_s,
-		u"\u30c8\u30f3\u30ac\u590f\u6642\u9593"_s,
+		u"トンガ夏時間"_s,
 		""_s,
-		u"\u30c8\u30f3\u30ac\u6642\u9593"_s,
+		u"トンガ時間"_s,
 		""_s
 	}));
 	$var($StringArray, Alaska, $new($StringArray, {
-		u"\u30a2\u30e9\u30b9\u30ab\u6a19\u6e96\u6642"_s,
+		u"アラスカ標準時"_s,
 		""_s,
-		u"\u30a2\u30e9\u30b9\u30ab\u590f\u6642\u9593"_s,
+		u"アラスカ夏時間"_s,
 		""_s,
-		u"\u30a2\u30e9\u30b9\u30ab\u6642\u9593"_s,
+		u"アラスカ時間"_s,
 		""_s
 	}));
 	$var($StringArray, Amazon, $new($StringArray, {
-		u"\u30a2\u30de\u30be\u30f3\u6a19\u6e96\u6642"_s,
+		u"アマゾン標準時"_s,
 		""_s,
-		u"\u30a2\u30de\u30be\u30f3\u590f\u6642\u9593"_s,
+		u"アマゾン夏時間"_s,
 		""_s,
-		u"\u30a2\u30de\u30be\u30f3\u6642\u9593"_s,
+		u"アマゾン時間"_s,
 		""_s
 	}));
 	$var($StringArray, Anadyr, $new($StringArray, {
-		u"\u30a2\u30ca\u30c7\u30a3\u30ea\u6a19\u6e96\u6642"_s,
+		u"アナディリ標準時"_s,
 		""_s,
-		u"\u30a2\u30ca\u30c7\u30a3\u30ea\u590f\u6642\u9593"_s,
+		u"アナディリ夏時間"_s,
 		""_s,
-		u"\u30a2\u30ca\u30c7\u30a3\u30ea\u6642\u9593"_s,
+		u"アナディリ時間"_s,
 		""_s
 	}));
 	$var($StringArray, Azores, $new($StringArray, {
-		u"\u30a2\u30be\u30ec\u30b9\u6a19\u6e96\u6642"_s,
+		u"アゾレス標準時"_s,
 		""_s,
-		u"\u30a2\u30be\u30ec\u30b9\u590f\u6642\u9593"_s,
+		u"アゾレス夏時間"_s,
 		""_s,
-		u"\u30a2\u30be\u30ec\u30b9\u6642\u9593"_s,
+		u"アゾレス時間"_s,
 		""_s
 	}));
 	$var($StringArray, Bhutan, $new($StringArray, {
-		u"\u30d6\u30fc\u30bf\u30f3\u6642\u9593"_s,
+		u"ブータン時間"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -307,7 +307,7 @@ $ObjectArray2* TimeZoneNames_ja::getContents() {
 		""_s
 	}));
 	$var($StringArray, Brunei, $new($StringArray, {
-		u"\u30d6\u30eb\u30cd\u30a4\u30fb\u30c0\u30eb\u30b5\u30e9\u30fc\u30e0\u6642\u9593"_s,
+		u"ブルネイ・ダルサラーム時間"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -315,15 +315,15 @@ $ObjectArray2* TimeZoneNames_ja::getContents() {
 		""_s
 	}));
 	$var($StringArray, Easter, $new($StringArray, {
-		u"\u30a4\u30fc\u30b9\u30bf\u30fc\u5cf6\u6a19\u6e96\u6642"_s,
+		u"イースター島標準時"_s,
 		""_s,
-		u"\u30a4\u30fc\u30b9\u30bf\u30fc\u5cf6\u590f\u6642\u9593"_s,
+		u"イースター島夏時間"_s,
 		""_s,
-		u"\u30a4\u30fc\u30b9\u30bf\u30fc\u5cf6\u6642\u9593"_s,
+		u"イースター島時間"_s,
 		""_s
 	}));
 	$var($StringArray, Guyana, $new($StringArray, {
-		u"\u30ac\u30a4\u30a2\u30ca\u6642\u9593"_s,
+		u"ガイアナ時間"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -331,15 +331,15 @@ $ObjectArray2* TimeZoneNames_ja::getContents() {
 		""_s
 	}));
 	$var($StringArray, Israel, $new($StringArray, {
-		u"\u30a4\u30b9\u30e9\u30a8\u30eb\u6a19\u6e96\u6642"_s,
+		u"イスラエル標準時"_s,
 		""_s,
-		u"\u30a4\u30b9\u30e9\u30a8\u30eb\u590f\u6642\u9593"_s,
+		u"イスラエル夏時間"_s,
 		""_s,
-		u"\u30a4\u30b9\u30e9\u30a8\u30eb\u6642\u9593"_s,
+		u"イスラエル時間"_s,
 		""_s
 	}));
 	$var($StringArray, Kosrae, $new($StringArray, {
-		u"\u30b3\u30b9\u30e9\u30a8\u6642\u9593"_s,
+		u"コスラエ時間"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -347,7 +347,7 @@ $ObjectArray2* TimeZoneNames_ja::getContents() {
 		""_s
 	}));
 	$var($StringArray, Mawson, $new($StringArray, {
-		u"\u30e2\u30fc\u30bd\u30f3\u57fa\u5730\u6642\u9593"_s,
+		u"モーソン基地時間"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -355,15 +355,15 @@ $ObjectArray2* TimeZoneNames_ja::getContents() {
 		""_s
 	}));
 	$var($StringArray, Moscow, $new($StringArray, {
-		u"\u30e2\u30b9\u30af\u30ef\u6a19\u6e96\u6642"_s,
+		u"モスクワ標準時"_s,
 		""_s,
-		u"\u30e2\u30b9\u30af\u30ef\u590f\u6642\u9593"_s,
+		u"モスクワ夏時間"_s,
 		""_s,
-		u"\u30e2\u30b9\u30af\u30ef\u6642\u9593"_s,
+		u"モスクワ時間"_s,
 		""_s
 	}));
 	$var($StringArray, Ponape, $new($StringArray, {
-		u"\u30dd\u30ca\u30da\u6642\u9593"_s,
+		u"ポナペ時間"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -371,15 +371,15 @@ $ObjectArray2* TimeZoneNames_ja::getContents() {
 		""_s
 	}));
 	$var($StringArray, Samara, $new($StringArray, {
-		u"\u30b5\u30de\u30e9\u6a19\u6e96\u6642"_s,
+		u"サマラ標準時"_s,
 		""_s,
-		u"\u30b5\u30de\u30e9\u590f\u6642\u9593"_s,
+		u"サマラ夏時間"_s,
 		""_s,
-		u"\u30b5\u30de\u30e9\u6642\u9593"_s,
+		u"サマラ時間"_s,
 		""_s
 	}));
 	$var($StringArray, Tahiti, $new($StringArray, {
-		u"\u30bf\u30d2\u30c1\u6642\u9593"_s,
+		u"タヒチ時間"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -387,15 +387,15 @@ $ObjectArray2* TimeZoneNames_ja::getContents() {
 		""_s
 	}));
 	$var($StringArray, Taipei, $new($StringArray, {
-		u"\u53f0\u5317\u6a19\u6e96\u6642"_s,
+		u"台北標準時"_s,
 		""_s,
-		u"\u53f0\u5317\u590f\u6642\u9593"_s,
+		u"台北夏時間"_s,
 		""_s,
-		u"\u53f0\u5317\u6642\u9593"_s,
+		u"台北時間"_s,
 		""_s
 	}));
 	$var($StringArray, Tuvalu, $new($StringArray, {
-		u"\u30c4\u30d0\u30eb\u6642\u9593"_s,
+		u"ツバル時間"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -403,7 +403,7 @@ $ObjectArray2* TimeZoneNames_ja::getContents() {
 		""_s
 	}));
 	$var($StringArray, Vostok, $new($StringArray, {
-		u"\u30dc\u30b9\u30c8\u30fc\u30af\u57fa\u5730\u6642\u9593"_s,
+		u"ボストーク基地時間"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -411,7 +411,7 @@ $ObjectArray2* TimeZoneNames_ja::getContents() {
 		""_s
 	}));
 	$var($StringArray, Wallis, $new($StringArray, {
-		u"\u30a6\u30a9\u30ea\u30b9\u30fb\u30d5\u30c4\u30ca\u6642\u9593"_s,
+		u"ウォリス・フツナ時間"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -419,23 +419,23 @@ $ObjectArray2* TimeZoneNames_ja::getContents() {
 		""_s
 	}));
 	$var($StringArray, Arabian, $new($StringArray, {
-		u"\u30a2\u30e9\u30d3\u30a2\u6a19\u6e96\u6642"_s,
+		u"アラビア標準時"_s,
 		""_s,
-		u"\u30a2\u30e9\u30d3\u30a2\u590f\u6642\u9593"_s,
+		u"アラビア夏時間"_s,
 		""_s,
-		u"\u30a2\u30e9\u30d3\u30a2\u6642\u9593"_s,
+		u"アラビア時間"_s,
 		""_s
 	}));
 	$var($StringArray, Armenia, $new($StringArray, {
-		u"\u30a2\u30eb\u30e1\u30cb\u30a2\u6a19\u6e96\u6642"_s,
+		u"アルメニア標準時"_s,
 		""_s,
-		u"\u30a2\u30eb\u30e1\u30cb\u30a2\u590f\u6642\u9593"_s,
+		u"アルメニア夏時間"_s,
 		""_s,
-		u"\u30a2\u30eb\u30e1\u30cb\u30a2\u6642\u9593"_s,
+		u"アルメニア時間"_s,
 		""_s
 	}));
 	$var($StringArray, Bolivia, $new($StringArray, {
-		u"\u30dc\u30ea\u30d3\u30a2\u6642\u9593"_s,
+		u"ボリビア時間"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -443,15 +443,15 @@ $ObjectArray2* TimeZoneNames_ja::getContents() {
 		""_s
 	}));
 	$var($StringArray, Chatham, $new($StringArray, {
-		u"\u30c1\u30e3\u30bf\u30e0\u6a19\u6e96\u6642"_s,
+		u"チャタム標準時"_s,
 		""_s,
-		u"\u30c1\u30e3\u30bf\u30e0\u590f\u6642\u9593"_s,
+		u"チャタム夏時間"_s,
 		""_s,
-		u"\u30c1\u30e3\u30bf\u30e0\u6642\u9593"_s,
+		u"チャタム時間"_s,
 		""_s
 	}));
 	$var($StringArray, ETC_UTC, $new($StringArray, {
-		u"\u5354\u5b9a\u4e16\u754c\u6642"_s,
+		u"協定世界時"_s,
 		"UTC"_s,
 		""_s,
 		""_s,
@@ -459,7 +459,7 @@ $ObjectArray2* TimeZoneNames_ja::getContents() {
 		""_s
 	}));
 	$var($StringArray, Ecuador, $new($StringArray, {
-		u"\u30a8\u30af\u30a2\u30c9\u30eb\u6642\u9593"_s,
+		u"エクアドル時間"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -467,7 +467,7 @@ $ObjectArray2* TimeZoneNames_ja::getContents() {
 		""_s
 	}));
 	$var($StringArray, Gambier, $new($StringArray, {
-		u"\u30ac\u30f3\u30d3\u30a8\u8af8\u5cf6\u6642\u9593"_s,
+		u"ガンビエ諸島時間"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -475,31 +475,31 @@ $ObjectArray2* TimeZoneNames_ja::getContents() {
 		""_s
 	}));
 	$var($StringArray, Georgia, $new($StringArray, {
-		u"\u30b8\u30e7\u30fc\u30b8\u30a2\u6a19\u6e96\u6642"_s,
+		u"ジョージア標準時"_s,
 		""_s,
-		u"\u30b8\u30e7\u30fc\u30b8\u30a2\u590f\u6642\u9593"_s,
+		u"ジョージア夏時間"_s,
 		""_s,
-		u"\u30b8\u30e7\u30fc\u30b8\u30a2\u6642\u9593"_s,
+		u"ジョージア時間"_s,
 		""_s
 	}));
 	$var($StringArray, Irkutsk, $new($StringArray, {
-		u"\u30a4\u30eb\u30af\u30fc\u30c4\u30af\u6a19\u6e96\u6642"_s,
+		u"イルクーツク標準時"_s,
 		""_s,
-		u"\u30a4\u30eb\u30af\u30fc\u30c4\u30af\u590f\u6642\u9593"_s,
+		u"イルクーツク夏時間"_s,
 		""_s,
-		u"\u30a4\u30eb\u30af\u30fc\u30c4\u30af\u6642\u9593"_s,
+		u"イルクーツク時間"_s,
 		""_s
 	}));
 	$var($StringArray, Magadan, $new($StringArray, {
-		u"\u30de\u30ac\u30c0\u30f3\u6a19\u6e96\u6642"_s,
+		u"マガダン標準時"_s,
 		""_s,
-		u"\u30de\u30ac\u30c0\u30f3\u590f\u6642\u9593"_s,
+		u"マガダン夏時間"_s,
 		""_s,
-		u"\u30de\u30ac\u30c0\u30f3\u6642\u9593"_s,
+		u"マガダン時間"_s,
 		""_s
 	}));
 	$var($StringArray, Myanmar, $new($StringArray, {
-		u"\u30df\u30e3\u30f3\u30de\u30fc\u6642\u9593"_s,
+		u"ミャンマー時間"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -507,23 +507,23 @@ $ObjectArray2* TimeZoneNames_ja::getContents() {
 		""_s
 	}));
 	$var($StringArray, Norfolk, $new($StringArray, {
-		u"\u30ce\u30fc\u30d5\u30a9\u30fc\u30af\u5cf6\u6a19\u6e96\u6642"_s,
+		u"ノーフォーク島標準時"_s,
 		""_s,
-		u"\u30ce\u30fc\u30d5\u30a9\u30fc\u30af\u5cf6\u590f\u6642\u9593"_s,
+		u"ノーフォーク島夏時間"_s,
 		""_s,
-		u"\u30ce\u30fc\u30d5\u30a9\u30fc\u30af\u5cf6\u6642\u9593"_s,
+		u"ノーフォーク島時間"_s,
 		""_s
 	}));
 	$var($StringArray, Noronha, $new($StringArray, {
-		u"\u30d5\u30a7\u30eb\u30ca\u30f3\u30c9\u30fb\u30c7\u30fb\u30ce\u30ed\u30fc\u30cb\u30e3\u6a19\u6e96\u6642"_s,
+		u"フェルナンド・デ・ノローニャ標準時"_s,
 		""_s,
-		u"\u30d5\u30a7\u30eb\u30ca\u30f3\u30c9\u30fb\u30c7\u30fb\u30ce\u30ed\u30fc\u30cb\u30e3\u590f\u6642\u9593"_s,
+		u"フェルナンド・デ・ノローニャ夏時間"_s,
 		""_s,
-		u"\u30d5\u30a7\u30eb\u30ca\u30f3\u30c9\u30fb\u30c7\u30fb\u30ce\u30ed\u30fc\u30cb\u30e3\u6642\u9593"_s,
+		u"フェルナンド・デ・ノローニャ時間"_s,
 		""_s
 	}));
 	$var($StringArray, Reunion, $new($StringArray, {
-		u"\u30ec\u30e6\u30cb\u30aa\u30f3\u6642\u9593"_s,
+		u"レユニオン時間"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -531,7 +531,7 @@ $ObjectArray2* TimeZoneNames_ja::getContents() {
 		""_s
 	}));
 	$var($StringArray, Rothera, $new($StringArray, {
-		u"\u30ed\u30bc\u30e9\u57fa\u5730\u6642\u9593"_s,
+		u"ロゼラ基地時間"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -539,7 +539,7 @@ $ObjectArray2* TimeZoneNames_ja::getContents() {
 		""_s
 	}));
 	$var($StringArray, Solomon, $new($StringArray, {
-		u"\u30bd\u30ed\u30e2\u30f3\u8af8\u5cf6\u6642\u9593"_s,
+		u"ソロモン諸島時間"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -547,7 +547,7 @@ $ObjectArray2* TimeZoneNames_ja::getContents() {
 		""_s
 	}));
 	$var($StringArray, Tokelau, $new($StringArray, {
-		u"\u30c8\u30b1\u30e9\u30a6\u6642\u9593"_s,
+		u"トケラウ時間"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -555,47 +555,47 @@ $ObjectArray2* TimeZoneNames_ja::getContents() {
 		""_s
 	}));
 	$var($StringArray, Uruguay, $new($StringArray, {
-		u"\u30a6\u30eb\u30b0\u30a2\u30a4\u6a19\u6e96\u6642"_s,
+		u"ウルグアイ標準時"_s,
 		""_s,
-		u"\u30a6\u30eb\u30b0\u30a2\u30a4\u590f\u6642\u9593"_s,
+		u"ウルグアイ夏時間"_s,
 		""_s,
-		u"\u30a6\u30eb\u30b0\u30a2\u30a4\u6642\u9593"_s,
+		u"ウルグアイ時間"_s,
 		""_s
 	}));
 	$var($StringArray, Vanuatu, $new($StringArray, {
-		u"\u30d0\u30cc\u30a2\u30c4\u6a19\u6e96\u6642"_s,
+		u"バヌアツ標準時"_s,
 		""_s,
-		u"\u30d0\u30cc\u30a2\u30c4\u590f\u6642\u9593"_s,
+		u"バヌアツ夏時間"_s,
 		""_s,
-		u"\u30d0\u30cc\u30a2\u30c4\u6642\u9593"_s,
+		u"バヌアツ時間"_s,
 		""_s
 	}));
 	$var($StringArray, Yakutsk, $new($StringArray, {
-		u"\u30e4\u30af\u30fc\u30c4\u30af\u6a19\u6e96\u6642"_s,
+		u"ヤクーツク標準時"_s,
 		""_s,
-		u"\u30e4\u30af\u30fc\u30c4\u30af\u590f\u6642\u9593"_s,
+		u"ヤクーツク夏時間"_s,
 		""_s,
-		u"\u30e4\u30af\u30fc\u30c4\u30af\u6642\u9593"_s,
+		u"ヤクーツク時間"_s,
 		""_s
 	}));
 	$var($StringArray, Atlantic, $new($StringArray, {
-		u"\u5927\u897f\u6d0b\u6a19\u6e96\u6642"_s,
+		u"大西洋標準時"_s,
 		""_s,
-		u"\u5927\u897f\u6d0b\u590f\u6642\u9593"_s,
+		u"大西洋夏時間"_s,
 		""_s,
-		u"\u5927\u897f\u6d0b\u6642\u9593"_s,
+		u"大西洋時間"_s,
 		""_s
 	}));
 	$var($StringArray, Brasilia, $new($StringArray, {
-		u"\u30d6\u30e9\u30b8\u30ea\u30a2\u6a19\u6e96\u6642"_s,
+		u"ブラジリア標準時"_s,
 		""_s,
-		u"\u30d6\u30e9\u30b8\u30ea\u30a2\u590f\u6642\u9593"_s,
+		u"ブラジリア夏時間"_s,
 		""_s,
-		u"\u30d6\u30e9\u30b8\u30ea\u30a2\u6642\u9593"_s,
+		u"ブラジリア時間"_s,
 		""_s
 	}));
 	$var($StringArray, Chamorro, $new($StringArray, {
-		u"\u30c1\u30e3\u30e2\u30ed\u6642\u9593"_s,
+		u"チャモロ時間"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -603,23 +603,23 @@ $ObjectArray2* TimeZoneNames_ja::getContents() {
 		""_s
 	}));
 	$var($StringArray, Colombia, $new($StringArray, {
-		u"\u30b3\u30ed\u30f3\u30d3\u30a2\u6a19\u6e96\u6642"_s,
+		u"コロンビア標準時"_s,
 		""_s,
-		u"\u30b3\u30ed\u30f3\u30d3\u30a2\u590f\u6642\u9593"_s,
+		u"コロンビア夏時間"_s,
 		""_s,
-		u"\u30b3\u30ed\u30f3\u30d3\u30a2\u6642\u9593"_s,
+		u"コロンビア時間"_s,
 		""_s
 	}));
 	$var($StringArray, Falkland, $new($StringArray, {
-		u"\u30d5\u30a9\u30fc\u30af\u30e9\u30f3\u30c9\u8af8\u5cf6\u6a19\u6e96\u6642"_s,
+		u"フォークランド諸島標準時"_s,
 		""_s,
-		u"\u30d5\u30a9\u30fc\u30af\u30e9\u30f3\u30c9\u8af8\u5cf6\u590f\u6642\u9593"_s,
+		u"フォークランド諸島夏時間"_s,
 		""_s,
-		u"\u30d5\u30a9\u30fc\u30af\u30e9\u30f3\u30c9\u8af8\u5cf6\u6642\u9593"_s,
+		u"フォークランド諸島時間"_s,
 		""_s
 	}));
 	$var($StringArray, Malaysia, $new($StringArray, {
-		u"\u30de\u30ec\u30fc\u30b7\u30a2\u6642\u9593"_s,
+		u"マレーシア時間"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -627,7 +627,7 @@ $ObjectArray2* TimeZoneNames_ja::getContents() {
 		""_s
 	}));
 	$var($StringArray, Maldives, $new($StringArray, {
-		u"\u30e2\u30eb\u30c7\u30a3\u30d6\u6642\u9593"_s,
+		u"モルディブ時間"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -635,31 +635,31 @@ $ObjectArray2* TimeZoneNames_ja::getContents() {
 		""_s
 	}));
 	$var($StringArray, Mongolia, $new($StringArray, {
-		u"\u30a6\u30e9\u30f3\u30d0\u30fc\u30c8\u30eb\u6a19\u6e96\u6642"_s,
+		u"ウランバートル標準時"_s,
 		""_s,
-		u"\u30a6\u30e9\u30f3\u30d0\u30fc\u30c8\u30eb\u590f\u6642\u9593"_s,
+		u"ウランバートル夏時間"_s,
 		""_s,
-		u"\u30a6\u30e9\u30f3\u30d0\u30fc\u30c8\u30eb\u6642\u9593"_s,
+		u"ウランバートル時間"_s,
 		""_s
 	}));
 	$var($StringArray, Pakistan, $new($StringArray, {
-		u"\u30d1\u30ad\u30b9\u30bf\u30f3\u6a19\u6e96\u6642"_s,
+		u"パキスタン標準時"_s,
 		""_s,
-		u"\u30d1\u30ad\u30b9\u30bf\u30f3\u590f\u6642\u9593"_s,
+		u"パキスタン夏時間"_s,
 		""_s,
-		u"\u30d1\u30ad\u30b9\u30bf\u30f3\u6642\u9593"_s,
+		u"パキスタン時間"_s,
 		""_s
 	}));
 	$var($StringArray, Paraguay, $new($StringArray, {
-		u"\u30d1\u30e9\u30b0\u30a2\u30a4\u6a19\u6e96\u6642"_s,
+		u"パラグアイ標準時"_s,
 		""_s,
-		u"\u30d1\u30e9\u30b0\u30a2\u30a4\u590f\u6642\u9593"_s,
+		u"パラグアイ夏時間"_s,
 		""_s,
-		u"\u30d1\u30e9\u30b0\u30a2\u30a4\u6642\u9593"_s,
+		u"パラグアイ時間"_s,
 		""_s
 	}));
 	$var($StringArray, Pitcairn, $new($StringArray, {
-		u"\u30d4\u30c8\u30b1\u30a2\u30f3\u6642\u9593"_s,
+		u"ピトケアン時間"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -667,15 +667,15 @@ $ObjectArray2* TimeZoneNames_ja::getContents() {
 		""_s
 	}));
 	$var($StringArray, Sakhalin, $new($StringArray, {
-		u"\u30b5\u30cf\u30ea\u30f3\u6a19\u6e96\u6642"_s,
+		u"サハリン標準時"_s,
 		""_s,
-		u"\u30b5\u30cf\u30ea\u30f3\u590f\u6642\u9593"_s,
+		u"サハリン夏時間"_s,
 		""_s,
-		u"\u30b5\u30cf\u30ea\u30f3\u6642\u9593"_s,
+		u"サハリン時間"_s,
 		""_s
 	}));
 	$var($StringArray, Suriname, $new($StringArray, {
-		u"\u30b9\u30ea\u30ca\u30e0\u6642\u9593"_s,
+		u"スリナム時間"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -683,15 +683,15 @@ $ObjectArray2* TimeZoneNames_ja::getContents() {
 		""_s
 	}));
 	$var($StringArray, Argentina, $new($StringArray, {
-		u"\u30a2\u30eb\u30bc\u30f3\u30c1\u30f3\u6a19\u6e96\u6642"_s,
+		u"アルゼンチン標準時"_s,
 		""_s,
-		u"\u30a2\u30eb\u30bc\u30f3\u30c1\u30f3\u590f\u6642\u9593"_s,
+		u"アルゼンチン夏時間"_s,
 		""_s,
-		u"\u30a2\u30eb\u30bc\u30f3\u30c1\u30f3\u6642\u9593"_s,
+		u"アルゼンチン時間"_s,
 		""_s
 	}));
 	$var($StringArray, Christmas, $new($StringArray, {
-		u"\u30af\u30ea\u30b9\u30de\u30b9\u5cf6\u6642\u9593"_s,
+		u"クリスマス島時間"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -699,7 +699,7 @@ $ObjectArray2* TimeZoneNames_ja::getContents() {
 		""_s
 	}));
 	$var($StringArray, Galapagos, $new($StringArray, {
-		u"\u30ac\u30e9\u30d1\u30b4\u30b9\u6642\u9593"_s,
+		u"ガラパゴス時間"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -707,15 +707,15 @@ $ObjectArray2* TimeZoneNames_ja::getContents() {
 		""_s
 	}));
 	$var($StringArray, Hong_Kong, $new($StringArray, {
-		u"\u9999\u6e2f\u6a19\u6e96\u6642"_s,
+		u"香港標準時"_s,
 		""_s,
-		u"\u9999\u6e2f\u590f\u6642\u9593"_s,
+		u"香港夏時間"_s,
 		""_s,
-		u"\u9999\u6e2f\u6642\u9593"_s,
+		u"香港時間"_s,
 		""_s
 	}));
 	$var($StringArray, Indochina, $new($StringArray, {
-		u"\u30a4\u30f3\u30c9\u30b7\u30ca\u6642\u9593"_s,
+		u"インドシナ時間"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -723,15 +723,15 @@ $ObjectArray2* TimeZoneNames_ja::getContents() {
 		""_s
 	}));
 	$var($StringArray, Kamchatka, $new($StringArray, {
-		u"\u30da\u30c8\u30ed\u30d1\u30d6\u30ed\u30d5\u30b9\u30af\u30fb\u30ab\u30e0\u30c1\u30e3\u30c4\u30ad\u30fc\u6a19\u6e96\u6642"_s,
+		u"ペトロパブロフスク・カムチャツキー標準時"_s,
 		""_s,
-		u"\u30da\u30c8\u30ed\u30d1\u30d6\u30ed\u30d5\u30b9\u30af\u30fb\u30ab\u30e0\u30c1\u30e3\u30c4\u30ad\u30fc\u590f\u6642\u9593"_s,
+		u"ペトロパブロフスク・カムチャツキー夏時間"_s,
 		""_s,
-		u"\u30da\u30c8\u30ed\u30d1\u30d6\u30ed\u30d5\u30b9\u30af\u30fb\u30ab\u30e0\u30c1\u30e3\u30c4\u30ad\u30fc\u6642\u9593"_s,
+		u"ペトロパブロフスク・カムチャツキー時間"_s,
 		""_s
 	}));
 	$var($StringArray, Kyrgystan, $new($StringArray, {
-		u"\u30ad\u30eb\u30ae\u30b9\u6642\u9593"_s,
+		u"キルギス時間"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -739,15 +739,15 @@ $ObjectArray2* TimeZoneNames_ja::getContents() {
 		""_s
 	}));
 	$var($StringArray, Lord_Howe, $new($StringArray, {
-		u"\u30ed\u30fc\u30c9\u30cf\u30a6\u6a19\u6e96\u6642"_s,
+		u"ロードハウ標準時"_s,
 		""_s,
-		u"\u30ed\u30fc\u30c9\u30cf\u30a6\u590f\u6642\u9593"_s,
+		u"ロードハウ夏時間"_s,
 		""_s,
-		u"\u30ed\u30fc\u30c9\u30cf\u30a6\u6642\u9593"_s,
+		u"ロードハウ時間"_s,
 		""_s
 	}));
 	$var($StringArray, Marquesas, $new($StringArray, {
-		u"\u30de\u30eb\u30ad\u30fc\u30ba\u6642\u9593"_s,
+		u"マルキーズ時間"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -755,15 +755,15 @@ $ObjectArray2* TimeZoneNames_ja::getContents() {
 		""_s
 	}));
 	$var($StringArray, Mauritius, $new($StringArray, {
-		u"\u30e2\u30fc\u30ea\u30b7\u30e3\u30b9\u6a19\u6e96\u6642"_s,
+		u"モーリシャス標準時"_s,
 		""_s,
-		u"\u30e2\u30fc\u30ea\u30b7\u30e3\u30b9\u590f\u6642\u9593"_s,
+		u"モーリシャス夏時間"_s,
 		""_s,
-		u"\u30e2\u30fc\u30ea\u30b7\u30e3\u30b9\u6642\u9593"_s,
+		u"モーリシャス時間"_s,
 		""_s
 	}));
 	$var($StringArray, Singapore, $new($StringArray, {
-		u"\u30b7\u30f3\u30ac\u30dd\u30fc\u30eb\u6a19\u6e96\u6642"_s,
+		u"シンガポール標準時"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -771,7 +771,7 @@ $ObjectArray2* TimeZoneNames_ja::getContents() {
 		""_s
 	}));
 	$var($StringArray, Venezuela, $new($StringArray, {
-		u"\u30d9\u30cd\u30ba\u30a8\u30e9\u6642\u9593"_s,
+		u"ベネズエラ時間"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -779,39 +779,39 @@ $ObjectArray2* TimeZoneNames_ja::getContents() {
 		""_s
 	}));
 	$var($StringArray, Volgograd, $new($StringArray, {
-		u"\u30dc\u30eb\u30b4\u30b0\u30e9\u30fc\u30c9\u6a19\u6e96\u6642"_s,
+		u"ボルゴグラード標準時"_s,
 		""_s,
-		u"\u30dc\u30eb\u30b4\u30b0\u30e9\u30fc\u30c9\u590f\u6642\u9593"_s,
+		u"ボルゴグラード夏時間"_s,
 		""_s,
-		u"\u30dc\u30eb\u30b4\u30b0\u30e9\u30fc\u30c9\u6642\u9593"_s,
+		u"ボルゴグラード時間"_s,
 		""_s
 	}));
 	$var($StringArray, Azerbaijan, $new($StringArray, {
-		u"\u30a2\u30bc\u30eb\u30d0\u30a4\u30b8\u30e3\u30f3\u6a19\u6e96\u6642"_s,
+		u"アゼルバイジャン標準時"_s,
 		""_s,
-		u"\u30a2\u30bc\u30eb\u30d0\u30a4\u30b8\u30e3\u30f3\u590f\u6642\u9593"_s,
+		u"アゼルバイジャン夏時間"_s,
 		""_s,
-		u"\u30a2\u30bc\u30eb\u30d0\u30a4\u30b8\u30e3\u30f3\u6642\u9593"_s,
+		u"アゼルバイジャン時間"_s,
 		""_s
 	}));
 	$var($StringArray, Bangladesh, $new($StringArray, {
-		u"\u30d0\u30f3\u30b0\u30e9\u30c7\u30b7\u30e5\u6a19\u6e96\u6642"_s,
+		u"バングラデシュ標準時"_s,
 		""_s,
-		u"\u30d0\u30f3\u30b0\u30e9\u30c7\u30b7\u30e5\u590f\u6642\u9593"_s,
+		u"バングラデシュ夏時間"_s,
 		""_s,
-		u"\u30d0\u30f3\u30b0\u30e9\u30c7\u30b7\u30e5\u6642\u9593"_s,
+		u"バングラデシュ時間"_s,
 		""_s
 	}));
 	$var($StringArray, Cape_Verde, $new($StringArray, {
-		u"\u30ab\u30fc\u30dc\u30d9\u30eb\u30c7\u6a19\u6e96\u6642"_s,
+		u"カーボベルデ標準時"_s,
 		""_s,
-		u"\u30ab\u30fc\u30dc\u30d9\u30eb\u30c7\u590f\u6642\u9593"_s,
+		u"カーボベルデ夏時間"_s,
 		""_s,
-		u"\u30ab\u30fc\u30dc\u30d9\u30eb\u30c7\u6642\u9593"_s,
+		u"カーボベルデ時間"_s,
 		""_s
 	}));
 	$var($StringArray, East_Timor, $new($StringArray, {
-		u"\u6771\u30c6\u30a3\u30e2\u30fc\u30eb\u6642\u9593"_s,
+		u"東ティモール時間"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -819,7 +819,7 @@ $ObjectArray2* TimeZoneNames_ja::getContents() {
 		""_s
 	}));
 	$var($StringArray, Seychelles, $new($StringArray, {
-		u"\u30bb\u30fc\u30b7\u30a7\u30eb\u6642\u9593"_s,
+		u"セーシェル時間"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -827,7 +827,7 @@ $ObjectArray2* TimeZoneNames_ja::getContents() {
 		""_s
 	}));
 	$var($StringArray, Tajikistan, $new($StringArray, {
-		u"\u30bf\u30b8\u30ad\u30b9\u30bf\u30f3\u6642\u9593"_s,
+		u"タジキスタン時間"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -835,15 +835,15 @@ $ObjectArray2* TimeZoneNames_ja::getContents() {
 		""_s
 	}));
 	$var($StringArray, Uzbekistan, $new($StringArray, {
-		u"\u30a6\u30ba\u30d9\u30ad\u30b9\u30bf\u30f3\u6a19\u6e96\u6642"_s,
+		u"ウズベキスタン標準時"_s,
 		""_s,
-		u"\u30a6\u30ba\u30d9\u30ad\u30b9\u30bf\u30f3\u590f\u6642\u9593"_s,
+		u"ウズベキスタン夏時間"_s,
 		""_s,
-		u"\u30a6\u30ba\u30d9\u30ad\u30b9\u30bf\u30f3\u6642\u9593"_s,
+		u"ウズベキスタン時間"_s,
 		""_s
 	}));
 	$var($StringArray, Afghanistan, $new($StringArray, {
-		u"\u30a2\u30d5\u30ac\u30cb\u30b9\u30bf\u30f3\u6642\u9593"_s,
+		u"アフガニスタン時間"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -851,47 +851,47 @@ $ObjectArray2* TimeZoneNames_ja::getContents() {
 		""_s
 	}));
 	$var($StringArray, Krasnoyarsk, $new($StringArray, {
-		u"\u30af\u30e9\u30b9\u30ce\u30e4\u30eb\u30b9\u30af\u6a19\u6e96\u6642"_s,
+		u"クラスノヤルスク標準時"_s,
 		""_s,
-		u"\u30af\u30e9\u30b9\u30ce\u30e4\u30eb\u30b9\u30af\u590f\u6642\u9593"_s,
+		u"クラスノヤルスク夏時間"_s,
 		""_s,
-		u"\u30af\u30e9\u30b9\u30ce\u30e4\u30eb\u30b9\u30af\u6642\u9593"_s,
+		u"クラスノヤルスク時間"_s,
 		""_s
 	}));
 	$var($StringArray, New_Zealand, $new($StringArray, {
-		u"\u30cb\u30e5\u30fc\u30b8\u30fc\u30e9\u30f3\u30c9\u6a19\u6e96\u6642"_s,
+		u"ニュージーランド標準時"_s,
 		""_s,
-		u"\u30cb\u30e5\u30fc\u30b8\u30fc\u30e9\u30f3\u30c9\u590f\u6642\u9593"_s,
+		u"ニュージーランド夏時間"_s,
 		""_s,
-		u"\u30cb\u30e5\u30fc\u30b8\u30fc\u30e9\u30f3\u30c9\u6642\u9593"_s,
+		u"ニュージーランド時間"_s,
 		""_s
 	}));
 	$var($StringArray, Novosibirsk, $new($StringArray, {
-		u"\u30ce\u30f4\u30a9\u30b7\u30d3\u30eb\u30b9\u30af\u6a19\u6e96\u6642"_s,
+		u"ノヴォシビルスク標準時"_s,
 		""_s,
-		u"\u30ce\u30f4\u30a9\u30b7\u30d3\u30eb\u30b9\u30af\u590f\u6642\u9593"_s,
+		u"ノヴォシビルスク夏時間"_s,
 		""_s,
-		u"\u30ce\u30f4\u30a9\u30b7\u30d3\u30eb\u30b9\u30af\u6642\u9593"_s,
+		u"ノヴォシビルスク時間"_s,
 		""_s
 	}));
 	$var($StringArray, Philippines, $new($StringArray, {
-		u"\u30d5\u30a3\u30ea\u30d4\u30f3\u6a19\u6e96\u6642"_s,
+		u"フィリピン標準時"_s,
 		""_s,
-		u"\u30d5\u30a3\u30ea\u30d4\u30f3\u590f\u6642\u9593"_s,
+		u"フィリピン夏時間"_s,
 		""_s,
-		u"\u30d5\u30a3\u30ea\u30d4\u30f3\u6642\u9593"_s,
+		u"フィリピン時間"_s,
 		""_s
 	}));
 	$var($StringArray, Vladivostok, $new($StringArray, {
-		u"\u30a6\u30e9\u30b8\u30aa\u30b9\u30c8\u30af\u6a19\u6e96\u6642"_s,
+		u"ウラジオストク標準時"_s,
 		""_s,
-		u"\u30a6\u30e9\u30b8\u30aa\u30b9\u30c8\u30af\u590f\u6642\u9593"_s,
+		u"ウラジオストク夏時間"_s,
 		""_s,
-		u"\u30a6\u30e9\u30b8\u30aa\u30b9\u30c8\u30af\u6642\u9593"_s,
+		u"ウラジオストク時間"_s,
 		""_s
 	}));
 	$var($StringArray, Indian_Ocean, $new($StringArray, {
-		u"\u30a4\u30f3\u30c9\u6d0b\u6642\u9593"_s,
+		u"インド洋時間"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -899,7 +899,7 @@ $ObjectArray2* TimeZoneNames_ja::getContents() {
 		""_s
 	}));
 	$var($StringArray, Line_Islands, $new($StringArray, {
-		u"\u30e9\u30a4\u30f3\u8af8\u5cf6\u6642\u9593"_s,
+		u"ライン諸島時間"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -907,23 +907,23 @@ $ObjectArray2* TimeZoneNames_ja::getContents() {
 		""_s
 	}));
 	$var($StringArray, Newfoundland, $new($StringArray, {
-		u"\u30cb\u30e5\u30fc\u30d5\u30a1\u30f3\u30c9\u30e9\u30f3\u30c9\u6a19\u6e96\u6642"_s,
+		u"ニューファンドランド標準時"_s,
 		""_s,
-		u"\u30cb\u30e5\u30fc\u30d5\u30a1\u30f3\u30c9\u30e9\u30f3\u30c9\u590f\u6642\u9593"_s,
+		u"ニューファンドランド夏時間"_s,
 		""_s,
-		u"\u30cb\u30e5\u30fc\u30d5\u30a1\u30f3\u30c9\u30e9\u30f3\u30c9\u6642\u9593"_s,
+		u"ニューファンドランド時間"_s,
 		""_s
 	}));
 	$var($StringArray, Turkmenistan, $new($StringArray, {
-		u"\u30c8\u30eb\u30af\u30e1\u30cb\u30b9\u30bf\u30f3\u6a19\u6e96\u6642"_s,
+		u"トルクメニスタン標準時"_s,
 		""_s,
-		u"\u30c8\u30eb\u30af\u30e1\u30cb\u30b9\u30bf\u30f3\u590f\u6642\u9593"_s,
+		u"トルクメニスタン夏時間"_s,
 		""_s,
-		u"\u30c8\u30eb\u30af\u30e1\u30cb\u30b9\u30bf\u30f3\u6642\u9593"_s,
+		u"トルクメニスタン時間"_s,
 		""_s
 	}));
 	$var($StringArray, French_Guiana, $new($StringArray, {
-		u"\u4ecf\u9818\u30ae\u30a2\u30ca\u6642\u9593"_s,
+		u"仏領ギアナ時間"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -931,15 +931,15 @@ $ObjectArray2* TimeZoneNames_ja::getContents() {
 		""_s
 	}));
 	$var($StringArray, New_Caledonia, $new($StringArray, {
-		u"\u30cb\u30e5\u30fc\u30ab\u30ec\u30c9\u30cb\u30a2\u6a19\u6e96\u6642"_s,
+		u"ニューカレドニア標準時"_s,
 		""_s,
-		u"\u30cb\u30e5\u30fc\u30ab\u30ec\u30c9\u30cb\u30a2\u590f\u6642\u9593"_s,
+		u"ニューカレドニア夏時間"_s,
 		""_s,
-		u"\u30cb\u30e5\u30fc\u30ab\u30ec\u30c9\u30cb\u30a2\u6642\u9593"_s,
+		u"ニューカレドニア時間"_s,
 		""_s
 	}));
 	$var($StringArray, South_Georgia, $new($StringArray, {
-		u"\u30b5\u30a6\u30b9\u30b8\u30e7\u30fc\u30b8\u30a2\u6642\u9593"_s,
+		u"サウスジョージア時間"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -947,15 +947,15 @@ $ObjectArray2* TimeZoneNames_ja::getContents() {
 		""_s
 	}));
 	$var($StringArray, Yekaterinburg, $new($StringArray, {
-		u"\u30a8\u30ab\u30c6\u30ea\u30f3\u30d6\u30eb\u30b0\u6a19\u6e96\u6642"_s,
+		u"エカテリンブルグ標準時"_s,
 		""_s,
-		u"\u30a8\u30ab\u30c6\u30ea\u30f3\u30d6\u30eb\u30b0\u590f\u6642\u9593"_s,
+		u"エカテリンブルグ夏時間"_s,
 		""_s,
-		u"\u30a8\u30ab\u30c6\u30ea\u30f3\u30d6\u30eb\u30b0\u6642\u9593"_s,
+		u"エカテリンブルグ時間"_s,
 		""_s
 	}));
 	$var($StringArray, Africa_Central, $new($StringArray, {
-		u"\u4e2d\u592e\u30a2\u30d5\u30ea\u30ab\u6642\u9593"_s,
+		u"中央アフリカ時間"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -963,7 +963,7 @@ $ObjectArray2* TimeZoneNames_ja::getContents() {
 		""_s
 	}));
 	$var($StringArray, Africa_Eastern, $new($StringArray, {
-		u"\u6771\u30a2\u30d5\u30ea\u30ab\u6642\u9593"_s,
+		u"東アフリカ時間"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -971,15 +971,15 @@ $ObjectArray2* TimeZoneNames_ja::getContents() {
 		""_s
 	}));
 	$var($StringArray, Africa_Western, $new($StringArray, {
-		u"\u897f\u30a2\u30d5\u30ea\u30ab\u6a19\u6e96\u6642"_s,
+		u"西アフリカ標準時"_s,
 		""_s,
-		u"\u897f\u30a2\u30d5\u30ea\u30ab\u590f\u6642\u9593"_s,
+		u"西アフリカ夏時間"_s,
 		""_s,
-		u"\u897f\u30a2\u30d5\u30ea\u30ab\u6642\u9593"_s,
+		u"西アフリカ時間"_s,
 		""_s
 	}));
 	$var($StringArray, DumontDUrville, $new($StringArray, {
-		u"\u30c7\u30e5\u30e2\u30f3\u30fb\u30c7\u30e5\u30eb\u30f4\u30a3\u30eb\u57fa\u5730\u6642\u9593"_s,
+		u"デュモン・デュルヴィル基地時間"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -987,39 +987,39 @@ $ObjectArray2* TimeZoneNames_ja::getContents() {
 		""_s
 	}));
 	$var($StringArray, Europe_Central, $new($StringArray, {
-		u"\u4e2d\u592e\u30e8\u30fc\u30ed\u30c3\u30d1\u6a19\u6e96\u6642"_s,
+		u"中央ヨーロッパ標準時"_s,
 		""_s,
-		u"\u4e2d\u592e\u30e8\u30fc\u30ed\u30c3\u30d1\u590f\u6642\u9593"_s,
+		u"中央ヨーロッパ夏時間"_s,
 		""_s,
-		u"\u4e2d\u592e\u30e8\u30fc\u30ed\u30c3\u30d1\u6642\u9593"_s,
+		u"中央ヨーロッパ時間"_s,
 		""_s
 	}));
 	$var($StringArray, Europe_Eastern, $new($StringArray, {
-		u"\u6771\u30e8\u30fc\u30ed\u30c3\u30d1\u6a19\u6e96\u6642"_s,
+		u"東ヨーロッパ標準時"_s,
 		""_s,
-		u"\u6771\u30e8\u30fc\u30ed\u30c3\u30d1\u590f\u6642\u9593"_s,
+		u"東ヨーロッパ夏時間"_s,
 		""_s,
-		u"\u6771\u30e8\u30fc\u30ed\u30c3\u30d1\u6642\u9593"_s,
+		u"東ヨーロッパ時間"_s,
 		""_s
 	}));
 	$var($StringArray, Europe_Western, $new($StringArray, {
-		u"\u897f\u30e8\u30fc\u30ed\u30c3\u30d1\u6a19\u6e96\u6642"_s,
+		u"西ヨーロッパ標準時"_s,
 		""_s,
-		u"\u897f\u30e8\u30fc\u30ed\u30c3\u30d1\u590f\u6642\u9593"_s,
+		u"西ヨーロッパ夏時間"_s,
 		""_s,
-		u"\u897f\u30e8\u30fc\u30ed\u30c3\u30d1\u6642\u9593"_s,
+		u"西ヨーロッパ時間"_s,
 		""_s
 	}));
 	$var($StringArray, Mexico_Pacific, $new($StringArray, {
-		u"\u30e1\u30ad\u30b7\u30b3\u592a\u5e73\u6d0b\u6a19\u6e96\u6642"_s,
+		u"メキシコ太平洋標準時"_s,
 		""_s,
-		u"\u30e1\u30ad\u30b7\u30b3\u592a\u5e73\u6d0b\u590f\u6642\u9593"_s,
+		u"メキシコ太平洋夏時間"_s,
 		""_s,
-		u"\u30e1\u30ad\u30b7\u30b3\u592a\u5e73\u6d0b\u6642\u9593"_s,
+		u"メキシコ太平洋時間"_s,
 		""_s
 	}));
 	$var($StringArray, Africa_Southern, $new($StringArray, {
-		u"\u5357\u30a2\u30d5\u30ea\u30ab\u6a19\u6e96\u6642"_s,
+		u"南アフリカ標準時"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -1027,31 +1027,31 @@ $ObjectArray2* TimeZoneNames_ja::getContents() {
 		""_s
 	}));
 	$var($StringArray, America_Central, $new($StringArray, {
-		u"\u30a2\u30e1\u30ea\u30ab\u4e2d\u90e8\u6a19\u6e96\u6642"_s,
+		u"アメリカ中部標準時"_s,
 		""_s,
-		u"\u30a2\u30e1\u30ea\u30ab\u4e2d\u90e8\u590f\u6642\u9593"_s,
+		u"アメリカ中部夏時間"_s,
 		""_s,
-		u"\u30a2\u30e1\u30ea\u30ab\u4e2d\u90e8\u6642\u9593"_s,
+		u"アメリカ中部時間"_s,
 		""_s
 	}));
 	$var($StringArray, America_Eastern, $new($StringArray, {
-		u"\u30a2\u30e1\u30ea\u30ab\u6771\u90e8\u6a19\u6e96\u6642"_s,
+		u"アメリカ東部標準時"_s,
 		""_s,
-		u"\u30a2\u30e1\u30ea\u30ab\u6771\u90e8\u590f\u6642\u9593"_s,
+		u"アメリカ東部夏時間"_s,
 		""_s,
-		u"\u30a2\u30e1\u30ea\u30ab\u6771\u90e8\u6642\u9593"_s,
+		u"アメリカ東部時間"_s,
 		""_s
 	}));
 	$var($StringArray, America_Pacific, $new($StringArray, {
-		u"\u30a2\u30e1\u30ea\u30ab\u592a\u5e73\u6d0b\u6a19\u6e96\u6642"_s,
+		u"アメリカ太平洋標準時"_s,
 		""_s,
-		u"\u30a2\u30e1\u30ea\u30ab\u592a\u5e73\u6d0b\u590f\u6642\u9593"_s,
+		u"アメリカ太平洋夏時間"_s,
 		""_s,
-		u"\u30a2\u30e1\u30ea\u30ab\u592a\u5e73\u6d0b\u6642\u9593"_s,
+		u"アメリカ太平洋時間"_s,
 		""_s
 	}));
 	$var($StringArray, French_Southern, $new($StringArray, {
-		u"\u4ecf\u9818\u5357\u65b9\u5357\u6975\u6642\u9593"_s,
+		u"仏領南方南極時間"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -1059,7 +1059,7 @@ $ObjectArray2* TimeZoneNames_ja::getContents() {
 		""_s
 	}));
 	$var($StringArray, Gilbert_Islands, $new($StringArray, {
-		u"\u30ae\u30eb\u30d0\u30fc\u30c8\u8af8\u5cf6\u6642\u9593"_s,
+		u"ギルバート諸島時間"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -1067,15 +1067,15 @@ $ObjectArray2* TimeZoneNames_ja::getContents() {
 		""_s
 	}));
 	$var($StringArray, Hawaii_Aleutian, $new($StringArray, {
-		u"\u30cf\u30ef\u30a4\u30fb\u30a2\u30ea\u30e5\u30fc\u30b7\u30e3\u30f3\u6a19\u6e96\u6642"_s,
+		u"ハワイ・アリューシャン標準時"_s,
 		""_s,
-		u"\u30cf\u30ef\u30a4\u30fb\u30a2\u30ea\u30e5\u30fc\u30b7\u30e3\u30f3\u590f\u6642\u9593"_s,
+		u"ハワイ・アリューシャン夏時間"_s,
 		""_s,
-		u"\u30cf\u30ef\u30a4\u30fb\u30a2\u30ea\u30e5\u30fc\u30b7\u30e3\u30f3\u6642\u9593"_s,
+		u"ハワイ・アリューシャン時間"_s,
 		""_s
 	}));
 	$var($StringArray, Phoenix_Islands, $new($StringArray, {
-		u"\u30d5\u30a7\u30cb\u30c3\u30af\u30b9\u8af8\u5cf6\u6642\u9593"_s,
+		u"フェニックス諸島時間"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -1083,23 +1083,23 @@ $ObjectArray2* TimeZoneNames_ja::getContents() {
 		""_s
 	}));
 	$var($StringArray, Pierre_Miquelon, $new($StringArray, {
-		u"\u30b5\u30f3\u30d4\u30a8\u30fc\u30eb\u5cf6\u30fb\u30df\u30af\u30ed\u30f3\u5cf6\u6a19\u6e96\u6642"_s,
+		u"サンピエール島・ミクロン島標準時"_s,
 		""_s,
-		u"\u30b5\u30f3\u30d4\u30a8\u30fc\u30eb\u5cf6\u30fb\u30df\u30af\u30ed\u30f3\u5cf6\u590f\u6642\u9593"_s,
+		u"サンピエール島・ミクロン島夏時間"_s,
 		""_s,
-		u"\u30b5\u30f3\u30d4\u30a8\u30fc\u30eb\u5cf6\u30fb\u30df\u30af\u30ed\u30f3\u5cf6\u6642\u9593"_s,
+		u"サンピエール島・ミクロン島時間"_s,
 		""_s
 	}));
 	$var($StringArray, America_Mountain, $new($StringArray, {
-		u"\u30a2\u30e1\u30ea\u30ab\u5c71\u5730\u6a19\u6e96\u6642"_s,
+		u"アメリカ山地標準時"_s,
 		""_s,
-		u"\u30a2\u30e1\u30ea\u30ab\u5c71\u5730\u590f\u6642\u9593"_s,
+		u"アメリカ山地夏時間"_s,
 		""_s,
-		u"\u30a2\u30e1\u30ea\u30ab\u5c71\u5730\u6642\u9593"_s,
+		u"アメリカ山地時間"_s,
 		""_s
 	}));
 	$var($StringArray, Marshall_Islands, $new($StringArray, {
-		u"\u30de\u30fc\u30b7\u30e3\u30eb\u8af8\u5cf6\u6642\u9593"_s,
+		u"マーシャル諸島時間"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -1107,15 +1107,15 @@ $ObjectArray2* TimeZoneNames_ja::getContents() {
 		""_s
 	}));
 	$var($StringArray, Mexico_Northwest, $new($StringArray, {
-		u"\u30e1\u30ad\u30b7\u30b3\u5317\u897f\u90e8\u6a19\u6e96\u6642"_s,
+		u"メキシコ北西部標準時"_s,
 		""_s,
-		u"\u30e1\u30ad\u30b7\u30b3\u5317\u897f\u90e8\u590f\u6642\u9593"_s,
+		u"メキシコ北西部夏時間"_s,
 		""_s,
-		u"\u30e1\u30ad\u30b7\u30b3\u5317\u897f\u90e8\u6642\u9593"_s,
+		u"メキシコ北西部時間"_s,
 		""_s
 	}));
 	$var($StringArray, Papua_New_Guinea, $new($StringArray, {
-		u"\u30d1\u30d7\u30a2\u30cb\u30e5\u30fc\u30ae\u30cb\u30a2\u6642\u9593"_s,
+		u"パプアニューギニア時間"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -1123,47 +1123,47 @@ $ObjectArray2* TimeZoneNames_ja::getContents() {
 		""_s
 	}));
 	$var($StringArray, Australia_Central, $new($StringArray, {
-		u"\u30aa\u30fc\u30b9\u30c8\u30e9\u30ea\u30a2\u4e2d\u90e8\u6a19\u6e96\u6642"_s,
+		u"オーストラリア中部標準時"_s,
 		""_s,
-		u"\u30aa\u30fc\u30b9\u30c8\u30e9\u30ea\u30a2\u4e2d\u90e8\u590f\u6642\u9593"_s,
+		u"オーストラリア中部夏時間"_s,
 		""_s,
-		u"\u30aa\u30fc\u30b9\u30c8\u30e9\u30ea\u30a2\u4e2d\u90e8\u6642\u9593"_s,
+		u"オーストラリア中部時間"_s,
 		""_s
 	}));
 	$var($StringArray, Australia_Eastern, $new($StringArray, {
-		u"\u30aa\u30fc\u30b9\u30c8\u30e9\u30ea\u30a2\u6771\u90e8\u6a19\u6e96\u6642"_s,
+		u"オーストラリア東部標準時"_s,
 		""_s,
-		u"\u30aa\u30fc\u30b9\u30c8\u30e9\u30ea\u30a2\u6771\u90e8\u590f\u6642\u9593"_s,
+		u"オーストラリア東部夏時間"_s,
 		""_s,
-		u"\u30aa\u30fc\u30b9\u30c8\u30e9\u30ea\u30a2\u6771\u90e8\u6642\u9593"_s,
+		u"オーストラリア東部時間"_s,
 		""_s
 	}));
 	$var($StringArray, Australia_Western, $new($StringArray, {
-		u"\u30aa\u30fc\u30b9\u30c8\u30e9\u30ea\u30a2\u897f\u90e8\u6a19\u6e96\u6642"_s,
+		u"オーストラリア西部標準時"_s,
 		""_s,
-		u"\u30aa\u30fc\u30b9\u30c8\u30e9\u30ea\u30a2\u897f\u90e8\u590f\u6642\u9593"_s,
+		u"オーストラリア西部夏時間"_s,
 		""_s,
-		u"\u30aa\u30fc\u30b9\u30c8\u30e9\u30ea\u30a2\u897f\u90e8\u6642\u9593"_s,
+		u"オーストラリア西部時間"_s,
 		""_s
 	}));
 	$var($StringArray, Greenland_Eastern, $new($StringArray, {
-		u"\u30b0\u30ea\u30fc\u30f3\u30e9\u30f3\u30c9\u6771\u90e8\u6a19\u6e96\u6642"_s,
+		u"グリーンランド東部標準時"_s,
 		""_s,
-		u"\u30b0\u30ea\u30fc\u30f3\u30e9\u30f3\u30c9\u6771\u90e8\u590f\u6642\u9593"_s,
+		u"グリーンランド東部夏時間"_s,
 		""_s,
-		u"\u30b0\u30ea\u30fc\u30f3\u30e9\u30f3\u30c9\u6771\u90e8\u6642\u9593"_s,
+		u"グリーンランド東部時間"_s,
 		""_s
 	}));
 	$var($StringArray, Greenland_Western, $new($StringArray, {
-		u"\u30b0\u30ea\u30fc\u30f3\u30e9\u30f3\u30c9\u897f\u90e8\u6a19\u6e96\u6642"_s,
+		u"グリーンランド西部標準時"_s,
 		""_s,
-		u"\u30b0\u30ea\u30fc\u30f3\u30e9\u30f3\u30c9\u897f\u90e8\u590f\u6642\u9593"_s,
+		u"グリーンランド西部夏時間"_s,
 		""_s,
-		u"\u30b0\u30ea\u30fc\u30f3\u30e9\u30f3\u30c9\u897f\u90e8\u6642\u9593"_s,
+		u"グリーンランド西部時間"_s,
 		""_s
 	}));
 	$var($StringArray, Indonesia_Central, $new($StringArray, {
-		u"\u30a4\u30f3\u30c9\u30cd\u30b7\u30a2\u4e2d\u90e8\u6642\u9593"_s,
+		u"インドネシア中部時間"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -1171,7 +1171,7 @@ $ObjectArray2* TimeZoneNames_ja::getContents() {
 		""_s
 	}));
 	$var($StringArray, Indonesia_Eastern, $new($StringArray, {
-		u"\u30a4\u30f3\u30c9\u30cd\u30b7\u30a2\u6771\u90e8\u6642\u9593"_s,
+		u"インドネシア東部時間"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -1179,7 +1179,7 @@ $ObjectArray2* TimeZoneNames_ja::getContents() {
 		""_s
 	}));
 	$var($StringArray, Indonesia_Western, $new($StringArray, {
-		u"\u30a4\u30f3\u30c9\u30cd\u30b7\u30a2\u897f\u90e8\u6642\u9593"_s,
+		u"インドネシア西部時間"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -1187,7 +1187,7 @@ $ObjectArray2* TimeZoneNames_ja::getContents() {
 		""_s
 	}));
 	$var($StringArray, Kazakhstan_Eastern, $new($StringArray, {
-		u"\u6771\u30ab\u30b6\u30d5\u30b9\u30bf\u30f3\u6642\u9593"_s,
+		u"東カザフスタン時間"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -1195,7 +1195,7 @@ $ObjectArray2* TimeZoneNames_ja::getContents() {
 		""_s
 	}));
 	$var($StringArray, Kazakhstan_Western, $new($StringArray, {
-		u"\u897f\u30ab\u30b6\u30d5\u30b9\u30bf\u30f3\u6642\u9593"_s,
+		u"西カザフスタン時間"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -1203,11 +1203,11 @@ $ObjectArray2* TimeZoneNames_ja::getContents() {
 		""_s
 	}));
 	$var($StringArray, Australia_CentralWestern, $new($StringArray, {
-		u"\u30aa\u30fc\u30b9\u30c8\u30e9\u30ea\u30a2\u4e2d\u897f\u90e8\u6a19\u6e96\u6642"_s,
+		u"オーストラリア中西部標準時"_s,
 		""_s,
-		u"\u30aa\u30fc\u30b9\u30c8\u30e9\u30ea\u30a2\u4e2d\u897f\u90e8\u590f\u6642\u9593"_s,
+		u"オーストラリア中西部夏時間"_s,
 		""_s,
-		u"\u30aa\u30fc\u30b9\u30c8\u30e9\u30ea\u30a2\u4e2d\u897f\u90e8\u6642\u9593"_s,
+		u"オーストラリア中西部時間"_s,
 		""_s
 	}));
 	$var($ObjectArray2, data, $new($ObjectArray2, {
@@ -1854,9 +1854,9 @@ $ObjectArray2* TimeZoneNames_ja::getContents() {
 		$$new($ObjectArray, {
 			$of("Europe/Dublin"_s),
 			$of($$new($StringArray, {
-				u"\u30b0\u30ea\u30cb\u30c3\u30b8\u6a19\u6e96\u6642"_s,
+				u"グリニッジ標準時"_s,
 				""_s,
-				u"\u30a2\u30a4\u30eb\u30e9\u30f3\u30c9\u6a19\u6e96\u6642"_s,
+				u"アイルランド標準時"_s,
 				""_s,
 				""_s,
 				""_s
@@ -1873,9 +1873,9 @@ $ObjectArray2* TimeZoneNames_ja::getContents() {
 		$$new($ObjectArray, {
 			$of("Europe/London"_s),
 			$of($$new($StringArray, {
-				u"\u30b0\u30ea\u30cb\u30c3\u30b8\u6a19\u6e96\u6642"_s,
+				u"グリニッジ標準時"_s,
 				""_s,
-				u"\u82f1\u56fd\u590f\u6642\u9593"_s,
+				u"英国夏時間"_s,
 				""_s,
 				""_s,
 				""_s
@@ -2092,9 +2092,9 @@ $ObjectArray2* TimeZoneNames_ja::getContents() {
 		$$new($ObjectArray, {
 			$of("Europe/Belfast"_s),
 			$of($$new($StringArray, {
-				u"\u30b0\u30ea\u30cb\u30c3\u30b8\u6a19\u6e96\u6642"_s,
+				u"グリニッジ標準時"_s,
 				""_s,
-				u"\u82f1\u56fd\u590f\u6642\u9593"_s,
+				u"英国夏時間"_s,
 				""_s,
 				""_s,
 				""_s
@@ -3050,31 +3050,31 @@ $ObjectArray2* TimeZoneNames_ja::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Aden"_s),
-			$of(u"\u30a2\u30c7\u30f3"_s)
+			$of(u"アデン"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Baku"_s),
-			$of(u"\u30d0\u30af\u30fc"_s)
+			$of(u"バクー"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Dili"_s),
-			$of(u"\u30c7\u30a3\u30ea"_s)
+			$of(u"ディリ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Gaza"_s),
-			$of(u"\u30ac\u30b6"_s)
+			$of(u"ガザ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Hovd"_s),
-			$of(u"\u30db\u30d6\u30c9"_s)
+			$of(u"ホブド"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Omsk"_s),
-			$of(u"\u30aa\u30e0\u30b9\u30af"_s)
+			$of(u"オムスク"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Oral"_s),
-			$of(u"\u30aa\u30e9\u30eb"_s)
+			$of(u"オラル"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("America/Argentina/La_Rioja"_s),
@@ -3094,47 +3094,47 @@ $ObjectArray2* TimeZoneNames_ja::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Amman"_s),
-			$of(u"\u30a2\u30f3\u30de\u30f3"_s)
+			$of(u"アンマン"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Aqtau"_s),
-			$of(u"\u30a2\u30af\u30bf\u30a6"_s)
+			$of(u"アクタウ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Chita"_s),
-			$of(u"\u30c1\u30bf"_s)
+			$of(u"チタ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Dhaka"_s),
-			$of(u"\u30c0\u30c3\u30ab"_s)
+			$of(u"ダッカ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Dubai"_s),
-			$of(u"\u30c9\u30d0\u30a4"_s)
+			$of(u"ドバイ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Kabul"_s),
-			$of(u"\u30ab\u30d6\u30fc\u30eb"_s)
+			$of(u"カブール"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Macau"_s),
-			$of(u"\u30de\u30ab\u30aa"_s)
+			$of(u"マカオ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Qatar"_s),
-			$of(u"\u30ab\u30bf\u30fc\u30eb"_s)
+			$of(u"カタール"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Seoul"_s),
-			$of(u"\u30bd\u30a6\u30eb"_s)
+			$of(u"ソウル"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Tokyo"_s),
-			$of(u"\u6771\u4eac"_s)
+			$of(u"東京"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Tomsk"_s),
-			$of(u"\u30c8\u30e0\u30b9\u30af"_s)
+			$of(u"トムスク"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("America/Kentucky/Monticello"_s),
@@ -3150,475 +3150,475 @@ $ObjectArray2* TimeZoneNames_ja::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Africa/Juba"_s),
-			$of(u"\u30b8\u30e5\u30d0"_s)
+			$of(u"ジュバ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Africa/Lome"_s),
-			$of(u"\u30ed\u30e1"_s)
+			$of(u"ロメ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Almaty"_s),
-			$of(u"\u30a2\u30eb\u30de\u30c8\u30a4"_s)
+			$of(u"アルマトイ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Anadyr"_s),
-			$of(u"\u30a2\u30ca\u30c7\u30a3\u30ea"_s)
+			$of(u"アナディリ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Aqtobe"_s),
-			$of(u"\u30a2\u30af\u30c8\u30d9"_s)
+			$of(u"アクトベ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Atyrau"_s),
-			$of(u"\u30a2\u30c6\u30a3\u30e9\u30a6"_s)
+			$of(u"アティラウ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Beirut"_s),
-			$of(u"\u30d9\u30a4\u30eb\u30fc\u30c8"_s)
+			$of(u"ベイルート"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Brunei"_s),
-			$of(u"\u30d6\u30eb\u30cd\u30a4"_s)
+			$of(u"ブルネイ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Hebron"_s),
-			$of(u"\u30d8\u30d6\u30ed\u30f3"_s)
+			$of(u"ヘブロン"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Kuwait"_s),
-			$of(u"\u30af\u30a6\u30a7\u30fc\u30c8"_s)
+			$of(u"クウェート"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Manila"_s),
-			$of(u"\u30de\u30cb\u30e9"_s)
+			$of(u"マニラ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Muscat"_s),
-			$of(u"\u30de\u30b9\u30ab\u30c3\u30c8"_s)
+			$of(u"マスカット"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Riyadh"_s),
-			$of(u"\u30ea\u30e4\u30c9"_s)
+			$of(u"リヤド"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Saigon"_s),
-			$of(u"\u30db\u30fc\u30c1\u30df\u30f3"_s)
+			$of(u"ホーチミン"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Taipei"_s),
-			$of(u"\u53f0\u5317"_s)
+			$of(u"台北"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Tehran"_s),
-			$of(u"\u30c6\u30d8\u30e9\u30f3"_s)
+			$of(u"テヘラン"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Urumqi"_s),
-			$of(u"\u30a6\u30eb\u30e0\u30c1"_s)
+			$of(u"ウルムチ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Etc/Unknown"_s),
-			$of(u"\u5730\u57df\u4e0d\u660e"_s)
+			$of(u"地域不明"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Kiev"_s),
-			$of(u"\u30ad\u30a8\u30d5"_s)
+			$of(u"キエフ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Oslo"_s),
-			$of(u"\u30aa\u30b9\u30ed"_s)
+			$of(u"オスロ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Riga"_s),
-			$of(u"\u30ea\u30ac"_s)
+			$of(u"リガ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Rome"_s),
-			$of(u"\u30ed\u30fc\u30de"_s)
+			$of(u"ローマ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Indian/Mahe"_s),
-			$of(u"\u30de\u30d8"_s)
+			$of(u"マヘ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Africa/Accra"_s),
-			$of(u"\u30a2\u30af\u30e9"_s)
+			$of(u"アクラ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Africa/Cairo"_s),
-			$of(u"\u30ab\u30a4\u30ed"_s)
+			$of(u"カイロ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Africa/Ceuta"_s),
-			$of(u"\u30bb\u30a6\u30bf"_s)
+			$of(u"セウタ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Africa/Dakar"_s),
-			$of(u"\u30c0\u30ab\u30fc\u30eb"_s)
+			$of(u"ダカール"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Africa/Lagos"_s),
-			$of(u"\u30e9\u30b4\u30b9"_s)
+			$of(u"ラゴス"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Africa/Tunis"_s),
-			$of(u"\u30c1\u30e5\u30cb\u30b9"_s)
+			$of(u"チュニス"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Adak"_s),
-			$of(u"\u30a2\u30c0\u30c3\u30af"_s)
+			$of(u"アダック"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Lima"_s),
-			$of(u"\u30ea\u30de"_s)
+			$of(u"リマ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Nome"_s),
-			$of(u"\u30ce\u30fc\u30e0"_s)
+			$of(u"ノーム"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Baghdad"_s),
-			$of(u"\u30d0\u30b0\u30c0\u30c3\u30c9"_s)
+			$of(u"バグダッド"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Bahrain"_s),
-			$of(u"\u30d0\u30fc\u30ec\u30fc\u30f3"_s)
+			$of(u"バーレーン"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Bangkok"_s),
-			$of(u"\u30d0\u30f3\u30b3\u30af"_s)
+			$of(u"バンコク"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Barnaul"_s),
-			$of(u"\u30d0\u30eb\u30ca\u30a6\u30eb"_s)
+			$of(u"バルナウル"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Bishkek"_s),
-			$of(u"\u30d3\u30b7\u30e5\u30b1\u30af"_s)
+			$of(u"ビシュケク"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Colombo"_s),
-			$of(u"\u30b3\u30ed\u30f3\u30dc"_s)
+			$of(u"コロンボ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Irkutsk"_s),
-			$of(u"\u30a4\u30eb\u30af\u30fc\u30c4\u30af"_s)
+			$of(u"イルクーツク"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Jakarta"_s),
-			$of(u"\u30b8\u30e3\u30ab\u30eb\u30bf"_s)
+			$of(u"ジャカルタ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Karachi"_s),
-			$of(u"\u30ab\u30e9\u30c1"_s)
+			$of(u"カラチ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Kuching"_s),
-			$of(u"\u30af\u30c1\u30f3"_s)
+			$of(u"クチン"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Magadan"_s),
-			$of(u"\u30de\u30ac\u30c0\u30f3"_s)
+			$of(u"マガダン"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Nicosia"_s),
-			$of(u"\u30cb\u30b3\u30b7\u30a2"_s)
+			$of(u"ニコシア"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Rangoon"_s),
-			$of(u"\u30e4\u30f3\u30b4\u30f3"_s)
+			$of(u"ヤンゴン"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Tbilisi"_s),
-			$of(u"\u30c8\u30d3\u30ea\u30b7"_s)
+			$of(u"トビリシ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Thimphu"_s),
-			$of(u"\u30c6\u30a3\u30f3\u30d7\u30fc"_s)
+			$of(u"ティンプー"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Yakutsk"_s),
-			$of(u"\u30e4\u30af\u30fc\u30c4\u30af"_s)
+			$of(u"ヤクーツク"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Yerevan"_s),
-			$of(u"\u30a8\u30ec\u30d0\u30f3"_s)
+			$of(u"エレバン"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Kirov"_s),
-			$of(u"\u30ad\u30fc\u30ed\u30d5"_s)
+			$of(u"キーロフ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Malta"_s),
-			$of(u"\u30de\u30eb\u30bf"_s)
+			$of(u"マルタ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Minsk"_s),
-			$of(u"\u30df\u30f3\u30b9\u30af"_s)
+			$of(u"ミンスク"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Paris"_s),
-			$of(u"\u30d1\u30ea"_s)
+			$of(u"パリ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Sofia"_s),
-			$of(u"\u30bd\u30d5\u30a3\u30a2"_s)
+			$of(u"ソフィア"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Vaduz"_s),
-			$of(u"\u30d5\u30a1\u30c9\u30a5\u30fc\u30c4"_s)
+			$of(u"ファドゥーツ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Indian/Cocos"_s),
-			$of(u"\u30b3\u30b3\u30b9\u8af8\u5cf6"_s)
+			$of(u"ココス諸島"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Pacific/Apia"_s),
-			$of(u"\u30a2\u30d4\u30a2"_s)
+			$of(u"アピア"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Pacific/Fiji"_s),
-			$of(u"\u30d5\u30a3\u30b8\u30fc"_s)
+			$of(u"フィジー"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Pacific/Guam"_s),
-			$of(u"\u30b0\u30a2\u30e0"_s)
+			$of(u"グアム"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Pacific/Niue"_s),
-			$of(u"\u30cb\u30a6\u30a8"_s)
+			$of(u"ニウエ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Pacific/Truk"_s),
-			$of(u"\u30c1\u30e5\u30fc\u30af"_s)
+			$of(u"チューク"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Pacific/Wake"_s),
-			$of(u"\u30a6\u30a7\u30fc\u30af\u5cf6"_s)
+			$of(u"ウェーク島"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Africa/Asmera"_s),
-			$of(u"\u30a2\u30b9\u30de\u30e9"_s)
+			$of(u"アスマラ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Africa/Bamako"_s),
-			$of(u"\u30d0\u30de\u30b3"_s)
+			$of(u"バマコ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Africa/Bangui"_s),
-			$of(u"\u30d0\u30f3\u30ae"_s)
+			$of(u"バンギ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Africa/Banjul"_s),
-			$of(u"\u30d0\u30f3\u30b8\u30e5\u30fc\u30eb"_s)
+			$of(u"バンジュール"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Africa/Bissau"_s),
-			$of(u"\u30d3\u30b5\u30a6"_s)
+			$of(u"ビサウ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Africa/Douala"_s),
-			$of(u"\u30c9\u30a5\u30a2\u30e9"_s)
+			$of(u"ドゥアラ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Africa/Harare"_s),
-			$of(u"\u30cf\u30e9\u30ec"_s)
+			$of(u"ハラレ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Africa/Kigali"_s),
-			$of(u"\u30ad\u30ac\u30ea"_s)
+			$of(u"キガリ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Africa/Luanda"_s),
-			$of(u"\u30eb\u30a2\u30f3\u30c0"_s)
+			$of(u"ルアンダ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Africa/Lusaka"_s),
-			$of(u"\u30eb\u30b5\u30ab"_s)
+			$of(u"ルサカ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Africa/Malabo"_s),
-			$of(u"\u30de\u30e9\u30dc"_s)
+			$of(u"マラボ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Africa/Maputo"_s),
-			$of(u"\u30de\u30d7\u30c8"_s)
+			$of(u"マプト"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Africa/Maseru"_s),
-			$of(u"\u30de\u30bb\u30eb"_s)
+			$of(u"マセル"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Africa/Niamey"_s),
-			$of(u"\u30cb\u30a2\u30e1"_s)
+			$of(u"ニアメ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Aruba"_s),
-			$of(u"\u30a2\u30eb\u30d0"_s)
+			$of(u"アルバ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Bahia"_s),
-			$of(u"\u30d0\u30a4\u30fc\u30a2"_s)
+			$of(u"バイーア"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Belem"_s),
-			$of(u"\u30d9\u30ec\u30f3"_s)
+			$of(u"ベレン"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Boise"_s),
-			$of(u"\u30dc\u30a4\u30b7"_s)
+			$of(u"ボイシ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Jujuy"_s),
-			$of(u"\u30d5\u30d5\u30a4"_s)
+			$of(u"フフイ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Sitka"_s),
-			$of(u"\u30b7\u30c8\u30ab"_s)
+			$of(u"シトカ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Thule"_s),
-			$of(u"\u30c1\u30e5\u30fc\u30ec"_s)
+			$of(u"チューレ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Ashgabat"_s),
-			$of(u"\u30a2\u30b7\u30ac\u30d0\u30fc\u30c9"_s)
+			$of(u"アシガバード"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Calcutta"_s),
-			$of(u"\u30b3\u30eb\u30ab\u30bf"_s)
+			$of(u"コルカタ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Damascus"_s),
-			$of(u"\u30c0\u30de\u30b9\u30ab\u30b9"_s)
+			$of(u"ダマスカス"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Dushanbe"_s),
-			$of(u"\u30c9\u30a5\u30b7\u30e3\u30f3\u30d9"_s)
+			$of(u"ドゥシャンベ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Jayapura"_s),
-			$of(u"\u30b8\u30e3\u30e4\u30d7\u30e9"_s)
+			$of(u"ジャヤプラ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Katmandu"_s),
-			$of(u"\u30ab\u30c8\u30de\u30f3\u30ba"_s)
+			$of(u"カトマンズ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Khandyga"_s),
-			$of(u"\u30cf\u30f3\u30c9\u30a5\u30a4\u30ac"_s)
+			$of(u"ハンドゥイガ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Makassar"_s),
-			$of(u"\u30de\u30ab\u30c3\u30b5\u30eb"_s)
+			$of(u"マカッサル"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Qostanay"_s),
-			$of(u"\u30b3\u30b9\u30bf\u30ca\u30a4"_s)
+			$of(u"コスタナイ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Sakhalin"_s),
-			$of(u"\u30b5\u30cf\u30ea\u30f3"_s)
+			$of(u"サハリン"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Shanghai"_s),
-			$of(u"\u4e0a\u6d77"_s)
+			$of(u"上海"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Tashkent"_s),
-			$of(u"\u30bf\u30b7\u30b1\u30f3\u30c8"_s)
+			$of(u"タシケント"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Ust-Nera"_s),
-			$of(u"\u30a6\u30b9\u30c1\u30cd\u30e9"_s)
+			$of(u"ウスチネラ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Athens"_s),
-			$of(u"\u30a2\u30c6\u30cd"_s)
+			$of(u"アテネ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Berlin"_s),
-			$of(u"\u30d9\u30eb\u30ea\u30f3"_s)
+			$of(u"ベルリン"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Dublin"_s),
-			$of(u"\u30c0\u30d6\u30ea\u30f3"_s)
+			$of(u"ダブリン"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Jersey"_s),
-			$of(u"\u30b8\u30e3\u30fc\u30b8\u30fc"_s)
+			$of(u"ジャージー"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Lisbon"_s),
-			$of(u"\u30ea\u30b9\u30dc\u30f3"_s)
+			$of(u"リスボン"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/London"_s),
-			$of(u"\u30ed\u30f3\u30c9\u30f3"_s)
+			$of(u"ロンドン"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Madrid"_s),
-			$of(u"\u30de\u30c9\u30ea\u30fc\u30c9"_s)
+			$of(u"マドリード"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Monaco"_s),
-			$of(u"\u30e2\u30ca\u30b3"_s)
+			$of(u"モナコ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Moscow"_s),
-			$of(u"\u30e2\u30b9\u30af\u30ef"_s)
+			$of(u"モスクワ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Prague"_s),
-			$of(u"\u30d7\u30e9\u30cf"_s)
+			$of(u"プラハ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Samara"_s),
-			$of(u"\u30b5\u30de\u30e9"_s)
+			$of(u"サマラ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Skopje"_s),
-			$of(u"\u30b9\u30b3\u30d4\u30a8"_s)
+			$of(u"スコピエ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Tirane"_s),
-			$of(u"\u30c6\u30a3\u30e9\u30ca"_s)
+			$of(u"ティラナ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Vienna"_s),
-			$of(u"\u30a6\u30a3\u30fc\u30f3"_s)
+			$of(u"ウィーン"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Warsaw"_s),
-			$of(u"\u30ef\u30eb\u30b7\u30e3\u30ef"_s)
+			$of(u"ワルシャワ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Zagreb"_s),
-			$of(u"\u30b6\u30b0\u30ec\u30d6"_s)
+			$of(u"ザグレブ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Zurich"_s),
-			$of(u"\u30c1\u30e5\u30fc\u30ea\u30c3\u30d2"_s)
+			$of(u"チューリッヒ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Indian/Chagos"_s),
-			$of(u"\u30c1\u30e3\u30b4\u30b9"_s)
+			$of(u"チャゴス"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Indian/Comoro"_s),
-			$of(u"\u30b3\u30e2\u30ed"_s)
+			$of(u"コモロ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Pacific/Efate"_s),
-			$of(u"\u30a8\u30d5\u30a7\u30c6\u5cf6"_s)
+			$of(u"エフェテ島"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Pacific/Nauru"_s),
-			$of(u"\u30ca\u30a6\u30eb"_s)
+			$of(u"ナウル"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Pacific/Palau"_s),
-			$of(u"\u30d1\u30e9\u30aa"_s)
+			$of(u"パラオ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("America/Argentina/Rio_Gallegos"_s),
@@ -3630,1171 +3630,1171 @@ $ObjectArray2* TimeZoneNames_ja::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Africa/Abidjan"_s),
-			$of(u"\u30a2\u30d3\u30b8\u30e3\u30f3"_s)
+			$of(u"アビジャン"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Africa/Algiers"_s),
-			$of(u"\u30a2\u30eb\u30b8\u30a7"_s)
+			$of(u"アルジェ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Africa/Conakry"_s),
-			$of(u"\u30b3\u30ca\u30af\u30ea"_s)
+			$of(u"コナクリ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Africa/Kampala"_s),
-			$of(u"\u30ab\u30f3\u30d1\u30e9"_s)
+			$of(u"カンパラ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Africa/Mbabane"_s),
-			$of(u"\u30e0\u30d0\u30d0\u30fc\u30cd"_s)
+			$of(u"ムババーネ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Africa/Nairobi"_s),
-			$of(u"\u30ca\u30a4\u30ed\u30d3"_s)
+			$of(u"ナイロビ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Africa/Tripoli"_s),
-			$of(u"\u30c8\u30ea\u30dd\u30ea"_s)
+			$of(u"トリポリ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Belize"_s),
-			$of(u"\u30d9\u30ea\u30fc\u30ba"_s)
+			$of(u"ベリーズ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Bogota"_s),
-			$of(u"\u30dc\u30b4\u30bf"_s)
+			$of(u"ボゴタ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Cancun"_s),
-			$of(u"\u30ab\u30f3\u30af\u30f3"_s)
+			$of(u"カンクン"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Cayman"_s),
-			$of(u"\u30b1\u30a4\u30de\u30f3"_s)
+			$of(u"ケイマン"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Cuiaba"_s),
-			$of(u"\u30af\u30a4\u30a2\u30d0"_s)
+			$of(u"クイアバ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Dawson"_s),
-			$of(u"\u30c9\u30fc\u30bd\u30f3"_s)
+			$of(u"ドーソン"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Denver"_s),
-			$of(u"\u30c7\u30f3\u30d0\u30fc"_s)
+			$of(u"デンバー"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Guyana"_s),
-			$of(u"\u30ac\u30a4\u30a2\u30ca"_s)
+			$of(u"ガイアナ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Havana"_s),
-			$of(u"\u30cf\u30d0\u30ca"_s)
+			$of(u"ハバナ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Inuvik"_s),
-			$of(u"\u30a4\u30cc\u30f4\u30a3\u30af"_s)
+			$of(u"イヌヴィク"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Juneau"_s),
-			$of(u"\u30b8\u30e5\u30ce\u30fc"_s)
+			$of(u"ジュノー"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/La_Paz"_s),
-			$of(u"\u30e9\u30d1\u30b9"_s)
+			$of(u"ラパス"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Maceio"_s),
-			$of(u"\u30de\u30bb\u30a4\u30aa"_s)
+			$of(u"マセイオ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Manaus"_s),
-			$of(u"\u30de\u30ca\u30a6\u30b9"_s)
+			$of(u"マナウス"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Merida"_s),
-			$of(u"\u30e1\u30ea\u30c0"_s)
+			$of(u"メリダ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Nassau"_s),
-			$of(u"\u30ca\u30c3\u30bd\u30fc"_s)
+			$of(u"ナッソー"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Panama"_s),
-			$of(u"\u30d1\u30ca\u30de"_s)
+			$of(u"パナマ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Recife"_s),
-			$of(u"\u30ec\u30b7\u30d5\u30a7"_s)
+			$of(u"レシフェ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Regina"_s),
-			$of(u"\u30ec\u30b8\u30e3\u30a4\u30ca"_s)
+			$of(u"レジャイナ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Famagusta"_s),
-			$of(u"\u30d5\u30a1\u30de\u30b0\u30b9\u30bf"_s)
+			$of(u"ファマグスタ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Hong_Kong"_s),
-			$of(u"\u9999\u6e2f"_s)
+			$of(u"香港"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Jerusalem"_s),
-			$of(u"\u30a8\u30eb\u30b5\u30ec\u30e0"_s)
+			$of(u"エルサレム"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Kamchatka"_s),
-			$of(u"\u30ab\u30e0\u30c1\u30e3\u30c3\u30ab"_s)
+			$of(u"カムチャッカ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Pontianak"_s),
-			$of(u"\u30dd\u30f3\u30c6\u30a3\u30a2\u30ca\u30c3\u30af"_s)
+			$of(u"ポンティアナック"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Pyongyang"_s),
-			$of(u"\u5e73\u58cc"_s)
+			$of(u"平壌"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Qyzylorda"_s),
-			$of(u"\u30af\u30ba\u30ed\u30eb\u30c0"_s)
+			$of(u"クズロルダ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Samarkand"_s),
-			$of(u"\u30b5\u30de\u30eb\u30ab\u30f3\u30c9"_s)
+			$of(u"サマルカンド"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Singapore"_s),
-			$of(u"\u30b7\u30f3\u30ac\u30dd\u30fc\u30eb"_s)
+			$of(u"シンガポール"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Vientiane"_s),
-			$of(u"\u30d3\u30a8\u30f3\u30c1\u30e3\u30f3"_s)
+			$of(u"ビエンチャン"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Andorra"_s),
-			$of(u"\u30a2\u30f3\u30c9\u30e9"_s)
+			$of(u"アンドラ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Saratov"_s),
-			$of(u"\u30b5\u30e9\u30c8\u30d5"_s)
+			$of(u"サラトフ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Tallinn"_s),
-			$of(u"\u30bf\u30ea\u30f3"_s)
+			$of(u"タリン"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Vatican"_s),
-			$of(u"\u30d0\u30c1\u30ab\u30f3"_s)
+			$of(u"バチカン"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Vilnius"_s),
-			$of(u"\u30f4\u30a3\u30ea\u30cb\u30e5\u30b9"_s)
+			$of(u"ヴィリニュス"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Indian/Mayotte"_s),
-			$of(u"\u30de\u30e8\u30c3\u30c8"_s)
+			$of(u"マヨット"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Indian/Reunion"_s),
-			$of(u"\u30ec\u30e6\u30cb\u30aa\u30f3"_s)
+			$of(u"レユニオン"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Pacific/Easter"_s),
-			$of(u"\u30a4\u30fc\u30b9\u30bf\u30fc\u5cf6"_s)
+			$of(u"イースター島"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Pacific/Kosrae"_s),
-			$of(u"\u30b3\u30b9\u30e9\u30a8"_s)
+			$of(u"コスラエ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Pacific/Majuro"_s),
-			$of(u"\u30de\u30b8\u30e5\u30ed"_s)
+			$of(u"マジュロ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Pacific/Midway"_s),
-			$of(u"\u30df\u30c3\u30c9\u30a6\u30a7\u30fc\u5cf6"_s)
+			$of(u"ミッドウェー島"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Pacific/Noumea"_s),
-			$of(u"\u30cc\u30e1\u30a2"_s)
+			$of(u"ヌメア"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Pacific/Ponape"_s),
-			$of(u"\u30dd\u30f3\u30da\u30a4\u5cf6"_s)
+			$of(u"ポンペイ島"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Pacific/Saipan"_s),
-			$of(u"\u30b5\u30a4\u30d1\u30f3"_s)
+			$of(u"サイパン"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Pacific/Tahiti"_s),
-			$of(u"\u30bf\u30d2\u30c1"_s)
+			$of(u"タヒチ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Pacific/Tarawa"_s),
-			$of(u"\u30bf\u30e9\u30ef"_s)
+			$of(u"タラワ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Pacific/Wallis"_s),
-			$of(u"\u30a6\u30a9\u30ea\u30b9\u8af8\u5cf6"_s)
+			$of(u"ウォリス諸島"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Africa/Blantyre"_s),
-			$of(u"\u30d6\u30e9\u30f3\u30bf\u30a4\u30e4"_s)
+			$of(u"ブランタイヤ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Africa/Djibouti"_s),
-			$of(u"\u30b8\u30d6\u30c1"_s)
+			$of(u"ジブチ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Africa/El_Aaiun"_s),
-			$of(u"\u30a2\u30a4\u30a6\u30f3"_s)
+			$of(u"アイウン"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Africa/Freetown"_s),
-			$of(u"\u30d5\u30ea\u30fc\u30bf\u30a6\u30f3"_s)
+			$of(u"フリータウン"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Africa/Gaborone"_s),
-			$of(u"\u30cf\u30dc\u30ed\u30fc\u30cd"_s)
+			$of(u"ハボローネ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Africa/Khartoum"_s),
-			$of(u"\u30cf\u30eb\u30c4\u30fc\u30e0"_s)
+			$of(u"ハルツーム"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Africa/Kinshasa"_s),
-			$of(u"\u30ad\u30f3\u30b7\u30e3\u30b5"_s)
+			$of(u"キンシャサ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Africa/Monrovia"_s),
-			$of(u"\u30e2\u30f3\u30ed\u30d3\u30a2"_s)
+			$of(u"モンロビア"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Africa/Ndjamena"_s),
-			$of(u"\u30f3\u30b8\u30e3\u30e1\u30ca"_s)
+			$of(u"ンジャメナ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Africa/Sao_Tome"_s),
-			$of(u"\u30b5\u30f3\u30c8\u30e1"_s)
+			$of(u"サントメ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Africa/Windhoek"_s),
-			$of(u"\u30a6\u30a3\u30f3\u30c8\u30d5\u30c3\u30af"_s)
+			$of(u"ウィントフック"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Antigua"_s),
-			$of(u"\u30a2\u30f3\u30c6\u30a3\u30b0\u30a2"_s)
+			$of(u"アンティグア"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Caracas"_s),
-			$of(u"\u30ab\u30e9\u30ab\u30b9"_s)
+			$of(u"カラカス"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Cayenne"_s),
-			$of(u"\u30ab\u30a4\u30a8\u30f3\u30cc"_s)
+			$of(u"カイエンヌ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Chicago"_s),
-			$of(u"\u30b7\u30ab\u30b4"_s)
+			$of(u"シカゴ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Cordoba"_s),
-			$of(u"\u30b3\u30eb\u30c9\u30d0"_s)
+			$of(u"コルドバ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Creston"_s),
-			$of(u"\u30af\u30ec\u30b9\u30c8\u30f3"_s)
+			$of(u"クレストン"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Curacao"_s),
-			$of(u"\u30ad\u30e5\u30e9\u30bd\u30fc"_s)
+			$of(u"キュラソー"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Detroit"_s),
-			$of(u"\u30c7\u30c8\u30ed\u30a4\u30c8"_s)
+			$of(u"デトロイト"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Godthab"_s),
-			$of(u"\u30cc\u30fc\u30af"_s)
+			$of(u"ヌーク"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Grenada"_s),
-			$of(u"\u30b0\u30ec\u30ca\u30c0"_s)
+			$of(u"グレナダ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Halifax"_s),
-			$of(u"\u30cf\u30ea\u30d5\u30a1\u30af\u30b9"_s)
+			$of(u"ハリファクス"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Iqaluit"_s),
-			$of(u"\u30a4\u30ab\u30eb\u30a4\u30c3\u30c8"_s)
+			$of(u"イカルイット"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Jamaica"_s),
-			$of(u"\u30b8\u30e3\u30de\u30a4\u30ab"_s)
+			$of(u"ジャマイカ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Managua"_s),
-			$of(u"\u30de\u30ca\u30b0\u30a2"_s)
+			$of(u"マナグア"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Marigot"_s),
-			$of(u"\u30de\u30ea\u30b4"_s)
+			$of(u"マリゴ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Mendoza"_s),
-			$of(u"\u30e1\u30f3\u30c9\u30fc\u30b5"_s)
+			$of(u"メンドーサ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Moncton"_s),
-			$of(u"\u30e2\u30f3\u30af\u30c8\u30f3"_s)
+			$of(u"モンクトン"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Nipigon"_s),
-			$of(u"\u30cb\u30d4\u30b4\u30f3"_s)
+			$of(u"ニピゴン"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Noronha"_s),
-			$of(u"\u30ce\u30ed\u30fc\u30cb\u30e3"_s)
+			$of(u"ノローニャ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Ojinaga"_s),
-			$of(u"\u30aa\u30d2\u30ca\u30ac"_s)
+			$of(u"オヒナガ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Phoenix"_s),
-			$of(u"\u30d5\u30a7\u30cb\u30c3\u30af\u30b9"_s)
+			$of(u"フェニックス"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Tijuana"_s),
-			$of(u"\u30c6\u30a3\u30d5\u30a2\u30ca"_s)
+			$of(u"ティフアナ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Toronto"_s),
-			$of(u"\u30c8\u30ed\u30f3\u30c8"_s)
+			$of(u"トロント"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Tortola"_s),
-			$of(u"\u30c8\u30eb\u30c8\u30fc\u30e9"_s)
+			$of(u"トルトーラ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Yakutat"_s),
-			$of(u"\u30e4\u30af\u30bf\u30c3\u30c8"_s)
+			$of(u"ヤクタット"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Choibalsan"_s),
-			$of(u"\u30c1\u30e7\u30a4\u30d0\u30eb\u30b5\u30f3"_s)
+			$of(u"チョイバルサン"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Phnom_Penh"_s),
-			$of(u"\u30d7\u30ce\u30f3\u30da\u30f3"_s)
+			$of(u"プノンペン"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Atlantic/Azores"_s),
-			$of(u"\u30a2\u30be\u30ec\u30b9"_s)
+			$of(u"アゾレス"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Atlantic/Canary"_s),
-			$of(u"\u30ab\u30ca\u30ea\u30a2"_s)
+			$of(u"カナリア"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Atlantic/Faeroe"_s),
-			$of(u"\u30d5\u30a7\u30ed\u30fc"_s)
+			$of(u"フェロー"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Australia/Eucla"_s),
-			$of(u"\u30e6\u30fc\u30af\u30e9"_s)
+			$of(u"ユークラ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Australia/Perth"_s),
-			$of(u"\u30d1\u30fc\u30b9"_s)
+			$of(u"パース"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Belgrade"_s),
-			$of(u"\u30d9\u30aa\u30b0\u30e9\u30fc\u30c9"_s)
+			$of(u"ベオグラード"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Brussels"_s),
-			$of(u"\u30d6\u30ea\u30e5\u30c3\u30bb\u30eb"_s)
+			$of(u"ブリュッセル"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Budapest"_s),
-			$of(u"\u30d6\u30c0\u30da\u30b9\u30c8"_s)
+			$of(u"ブダペスト"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Busingen"_s),
-			$of(u"\u30d3\u30e5\u30fc\u30b8\u30f3\u30b2\u30f3"_s)
+			$of(u"ビュージンゲン"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Chisinau"_s),
-			$of(u"\u30ad\u30b7\u30ca\u30a6"_s)
+			$of(u"キシナウ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Guernsey"_s),
-			$of(u"\u30ac\u30fc\u30f3\u30b8\u30fc"_s)
+			$of(u"ガーンジー"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Helsinki"_s),
-			$of(u"\u30d8\u30eb\u30b7\u30f3\u30ad"_s)
+			$of(u"ヘルシンキ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Istanbul"_s),
-			$of(u"\u30a4\u30b9\u30bf\u30f3\u30d6\u30fc\u30eb"_s)
+			$of(u"イスタンブール"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Sarajevo"_s),
-			$of(u"\u30b5\u30e9\u30a8\u30dc"_s)
+			$of(u"サラエボ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Uzhgorod"_s),
-			$of(u"\u30a6\u30fc\u30b8\u30e5\u30db\u30ed\u30c9"_s)
+			$of(u"ウージュホロド"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Indian/Maldives"_s),
-			$of(u"\u30e2\u30eb\u30c7\u30a3\u30d6"_s)
+			$of(u"モルディブ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Pacific/Chatham"_s),
-			$of(u"\u30c1\u30e3\u30bf\u30e0"_s)
+			$of(u"チャタム"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Pacific/Fakaofo"_s),
-			$of(u"\u30d5\u30a1\u30ab\u30aa\u30d5\u30a9"_s)
+			$of(u"ファカオフォ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Pacific/Gambier"_s),
-			$of(u"\u30ac\u30f3\u30d3\u30a8\u8af8\u5cf6"_s)
+			$of(u"ガンビエ諸島"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Pacific/Norfolk"_s),
-			$of(u"\u30ce\u30fc\u30d5\u30a9\u30fc\u30af\u5cf6"_s)
+			$of(u"ノーフォーク島"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Africa/Bujumbura"_s),
-			$of(u"\u30d6\u30b8\u30e5\u30f3\u30d6\u30e9"_s)
+			$of(u"ブジュンブラ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Africa/Mogadishu"_s),
-			$of(u"\u30e2\u30ac\u30c7\u30a3\u30b7\u30aa"_s)
+			$of(u"モガディシオ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Anguilla"_s),
-			$of(u"\u30a2\u30f3\u30ae\u30e9"_s)
+			$of(u"アンギラ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Asuncion"_s),
-			$of(u"\u30a2\u30b9\u30f3\u30b7\u30aa\u30f3"_s)
+			$of(u"アスンシオン"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Barbados"_s),
-			$of(u"\u30d0\u30eb\u30d0\u30c9\u30b9"_s)
+			$of(u"バルバドス"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Dominica"_s),
-			$of(u"\u30c9\u30df\u30cb\u30ab"_s)
+			$of(u"ドミニカ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Edmonton"_s),
-			$of(u"\u30a8\u30c9\u30e2\u30f3\u30c8\u30f3"_s)
+			$of(u"エドモントン"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Eirunepe"_s),
-			$of(u"\u30a8\u30a4\u30eb\u30cd\u30da"_s)
+			$of(u"エイルネペ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Mazatlan"_s),
-			$of(u"\u30de\u30b5\u30c8\u30e9\u30f3"_s)
+			$of(u"マサトラン"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Miquelon"_s),
-			$of(u"\u30df\u30af\u30ed\u30f3\u5cf6"_s)
+			$of(u"ミクロン島"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/New_York"_s),
-			$of(u"\u30cb\u30e5\u30fc\u30e8\u30fc\u30af"_s)
+			$of(u"ニューヨーク"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Resolute"_s),
-			$of(u"\u30ec\u30be\u30ea\u30e5\u30fc\u30c8"_s)
+			$of(u"レゾリュート"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Santarem"_s),
-			$of(u"\u30b5\u30f3\u30bf\u30ec\u30e0"_s)
+			$of(u"サンタレム"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Santiago"_s),
-			$of(u"\u30b5\u30f3\u30c1\u30a2\u30b4"_s)
+			$of(u"サンチアゴ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/St_Johns"_s),
-			$of(u"\u30bb\u30f3\u30c8\u30b8\u30e7\u30f3\u30ba"_s)
+			$of(u"セントジョンズ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/St_Kitts"_s),
-			$of(u"\u30bb\u30f3\u30c8\u30af\u30ea\u30b9\u30c8\u30d5\u30a1\u30fc"_s)
+			$of(u"セントクリストファー"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/St_Lucia"_s),
-			$of(u"\u30bb\u30f3\u30c8\u30eb\u30b7\u30a2"_s)
+			$of(u"セントルシア"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Winnipeg"_s),
-			$of(u"\u30a6\u30a3\u30cb\u30da\u30b0"_s)
+			$of(u"ウィニペグ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Antarctica/Casey"_s),
-			$of(u"\u30b1\u30fc\u30b7\u30fc\u57fa\u5730"_s)
+			$of(u"ケーシー基地"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Antarctica/Davis"_s),
-			$of(u"\u30c7\u30fc\u30d3\u30b9\u57fa\u5730"_s)
+			$of(u"デービス基地"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Antarctica/Syowa"_s),
-			$of(u"\u662d\u548c\u57fa\u5730"_s)
+			$of(u"昭和基地"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Antarctica/Troll"_s),
-			$of(u"\u30c8\u30ed\u30eb\u57fa\u5730"_s)
+			$of(u"トロル基地"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Krasnoyarsk"_s),
-			$of(u"\u30af\u30e9\u30b9\u30ce\u30e4\u30eb\u30b9\u30af"_s)
+			$of(u"クラスノヤルスク"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Novosibirsk"_s),
-			$of(u"\u30ce\u30f4\u30a9\u30b7\u30d3\u30eb\u30b9\u30af"_s)
+			$of(u"ノヴォシビルスク"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Ulaanbaatar"_s),
-			$of(u"\u30a6\u30e9\u30f3\u30d0\u30fc\u30c8\u30eb"_s)
+			$of(u"ウランバートル"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Vladivostok"_s),
-			$of(u"\u30a6\u30e9\u30b8\u30aa\u30b9\u30c8\u30af"_s)
+			$of(u"ウラジオストク"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Atlantic/Bermuda"_s),
-			$of(u"\u30d0\u30df\u30e5\u30fc\u30c0"_s)
+			$of(u"バミューダ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Atlantic/Madeira"_s),
-			$of(u"\u30de\u30c7\u30a4\u30e9"_s)
+			$of(u"マデイラ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Atlantic/Stanley"_s),
-			$of(u"\u30b9\u30bf\u30f3\u30ec\u30fc"_s)
+			$of(u"スタンレー"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Australia/Currie"_s),
-			$of(u"\u30ab\u30ea\u30fc"_s)
+			$of(u"カリー"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Australia/Darwin"_s),
-			$of(u"\u30c0\u30fc\u30a6\u30a3\u30f3"_s)
+			$of(u"ダーウィン"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Australia/Hobart"_s),
-			$of(u"\u30db\u30d0\u30fc\u30c8"_s)
+			$of(u"ホバート"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Australia/Sydney"_s),
-			$of(u"\u30b7\u30c9\u30cb\u30fc"_s)
+			$of(u"シドニー"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Amsterdam"_s),
-			$of(u"\u30a2\u30e0\u30b9\u30c6\u30eb\u30c0\u30e0"_s)
+			$of(u"アムステルダム"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Astrakhan"_s),
-			$of(u"\u30a2\u30b9\u30c8\u30e9\u30cf\u30f3"_s)
+			$of(u"アストラハン"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Bucharest"_s),
-			$of(u"\u30d6\u30ab\u30ec\u30b9\u30c8"_s)
+			$of(u"ブカレスト"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Gibraltar"_s),
-			$of(u"\u30b8\u30d6\u30e9\u30eb\u30bf\u30eb"_s)
+			$of(u"ジブラルタル"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Ljubljana"_s),
-			$of(u"\u30ea\u30e5\u30d6\u30ea\u30e3\u30ca"_s)
+			$of(u"リュブリャナ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Mariehamn"_s),
-			$of(u"\u30de\u30ea\u30a8\u30cf\u30e0\u30f3"_s)
+			$of(u"マリエハムン"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Podgorica"_s),
-			$of(u"\u30dd\u30c9\u30b4\u30ea\u30c4\u30a1"_s)
+			$of(u"ポドゴリツァ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Stockholm"_s),
-			$of(u"\u30b9\u30c8\u30c3\u30af\u30db\u30eb\u30e0"_s)
+			$of(u"ストックホルム"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Ulyanovsk"_s),
-			$of(u"\u30a6\u30ea\u30e4\u30ce\u30d5\u30b9\u30af"_s)
+			$of(u"ウリヤノフスク"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Volgograd"_s),
-			$of(u"\u30dc\u30eb\u30b4\u30b0\u30e9\u30fc\u30c9"_s)
+			$of(u"ボルゴグラード"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Indian/Christmas"_s),
-			$of(u"\u30af\u30ea\u30b9\u30de\u30b9\u5cf6"_s)
+			$of(u"クリスマス島"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Indian/Kerguelen"_s),
-			$of(u"\u30b1\u30eb\u30b2\u30ec\u30f3\u8af8\u5cf6"_s)
+			$of(u"ケルゲレン諸島"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Indian/Mauritius"_s),
-			$of(u"\u30e2\u30fc\u30ea\u30b7\u30e3\u30b9"_s)
+			$of(u"モーリシャス"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Pacific/Auckland"_s),
-			$of(u"\u30aa\u30fc\u30af\u30e9\u30f3\u30c9"_s)
+			$of(u"オークランド"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Pacific/Funafuti"_s),
-			$of(u"\u30d5\u30ca\u30d5\u30c6\u30a3"_s)
+			$of(u"フナフティ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Pacific/Honolulu"_s),
-			$of(u"\u30db\u30ce\u30eb\u30eb"_s)
+			$of(u"ホノルル"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Pacific/Johnston"_s),
-			$of(u"\u30b8\u30e7\u30f3\u30b9\u30c8\u30f3\u5cf6"_s)
+			$of(u"ジョンストン島"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Pacific/Pitcairn"_s),
-			$of(u"\u30d4\u30c8\u30b1\u30a2\u30f3\u8af8\u5cf6"_s)
+			$of(u"ピトケアン諸島"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Africa/Casablanca"_s),
-			$of(u"\u30ab\u30b5\u30d6\u30e9\u30f3\u30ab"_s)
+			$of(u"カサブランカ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Africa/Libreville"_s),
-			$of(u"\u30ea\u30fc\u30d6\u30eb\u30f4\u30a3\u30eb"_s)
+			$of(u"リーブルヴィル"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Africa/Lubumbashi"_s),
-			$of(u"\u30eb\u30d6\u30f3\u30d0\u30b7"_s)
+			$of(u"ルブンバシ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Africa/Nouakchott"_s),
-			$of(u"\u30cc\u30a2\u30af\u30b7\u30e7\u30c3\u30c8"_s)
+			$of(u"ヌアクショット"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Africa/Porto-Novo"_s),
-			$of(u"\u30dd\u30eb\u30c8\u30ce\u30dc"_s)
+			$of(u"ポルトノボ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Anchorage"_s),
-			$of(u"\u30a2\u30f3\u30ab\u30ec\u30c3\u30b8"_s)
+			$of(u"アンカレッジ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Araguaina"_s),
-			$of(u"\u30a2\u30e9\u30b0\u30a1\u30a4\u30ca"_s)
+			$of(u"アラグァイナ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Boa_Vista"_s),
-			$of(u"\u30dc\u30a2\u30d3\u30b9\u30bf"_s)
+			$of(u"ボアビスタ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Catamarca"_s),
-			$of(u"\u30ab\u30bf\u30de\u30eb\u30ab"_s)
+			$of(u"カタマルカ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Chihuahua"_s),
-			$of(u"\u30c1\u30ef\u30ef"_s)
+			$of(u"チワワ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Fortaleza"_s),
-			$of(u"\u30d5\u30a9\u30eb\u30bf\u30ec\u30b6"_s)
+			$of(u"フォルタレザ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Glace_Bay"_s),
-			$of(u"\u30b0\u30ec\u30fc\u30b9\u30d9\u30a4"_s)
+			$of(u"グレースベイ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Goose_Bay"_s),
-			$of(u"\u30b0\u30fc\u30b9\u30d9\u30a4"_s)
+			$of(u"グースベイ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Guatemala"_s),
-			$of(u"\u30b0\u30a2\u30c6\u30de\u30e9"_s)
+			$of(u"グアテマラ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Guayaquil"_s),
-			$of(u"\u30b0\u30a2\u30e4\u30ad\u30eb"_s)
+			$of(u"グアヤキル"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Matamoros"_s),
-			$of(u"\u30de\u30bf\u30e2\u30ed\u30b9"_s)
+			$of(u"マタモロス"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Menominee"_s),
-			$of(u"\u30e1\u30ce\u30df\u30cb\u30fc"_s)
+			$of(u"メノミニー"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Monterrey"_s),
-			$of(u"\u30e2\u30f3\u30c6\u30ec\u30a4"_s)
+			$of(u"モンテレイ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Sao_Paulo"_s),
-			$of(u"\u30b5\u30f3\u30d1\u30a6\u30ed"_s)
+			$of(u"サンパウロ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/St_Thomas"_s),
-			$of(u"\u30bb\u30f3\u30c8\u30c8\u30fc\u30de\u30b9"_s)
+			$of(u"セントトーマス"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Vancouver"_s),
-			$of(u"\u30d0\u30f3\u30af\u30fc\u30d0\u30fc"_s)
+			$of(u"バンクーバー"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Antarctica/Mawson"_s),
-			$of(u"\u30e2\u30fc\u30bd\u30f3\u57fa\u5730"_s)
+			$of(u"モーソン基地"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Antarctica/Palmer"_s),
-			$of(u"\u30d1\u30fc\u30de\u30fc\u57fa\u5730"_s)
+			$of(u"パーマー基地"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Antarctica/Vostok"_s),
-			$of(u"\u30dc\u30b9\u30c8\u30fc\u30af\u57fa\u5730"_s)
+			$of(u"ボストーク基地"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Kuala_Lumpur"_s),
-			$of(u"\u30af\u30a2\u30e9\u30eb\u30f3\u30d7\u30fc\u30eb"_s)
+			$of(u"クアラルンプール"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Novokuznetsk"_s),
-			$of(u"\u30ce\u30f4\u30a9\u30af\u30ba\u30cd\u30c4\u30af"_s)
+			$of(u"ノヴォクズネツク"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Bratislava"_s),
-			$of(u"\u30d6\u30e9\u30c1\u30b9\u30e9\u30d0"_s)
+			$of(u"ブラチスラバ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Copenhagen"_s),
-			$of(u"\u30b3\u30da\u30f3\u30cf\u30fc\u30b2\u30f3"_s)
+			$of(u"コペンハーゲン"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Luxembourg"_s),
-			$of(u"\u30eb\u30af\u30bb\u30f3\u30d6\u30eb\u30af"_s)
+			$of(u"ルクセンブルク"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/San_Marino"_s),
-			$of(u"\u30b5\u30f3\u30de\u30ea\u30ce"_s)
+			$of(u"サンマリノ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Simferopol"_s),
-			$of(u"\u30b7\u30f3\u30d5\u30a7\u30ed\u30dd\u30ea"_s)
+			$of(u"シンフェロポリ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Zaporozhye"_s),
-			$of(u"\u30b6\u30dd\u30ea\u30fc\u30b8\u30e3"_s)
+			$of(u"ザポリージャ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Pacific/Enderbury"_s),
-			$of(u"\u30a8\u30f3\u30c0\u30fc\u30d9\u30ea\u30fc\u5cf6"_s)
+			$of(u"エンダーベリー島"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Pacific/Galapagos"_s),
-			$of(u"\u30ac\u30e9\u30d1\u30b4\u30b9"_s)
+			$of(u"ガラパゴス"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Pacific/Kwajalein"_s),
-			$of(u"\u30af\u30a7\u30bc\u30ea\u30f3"_s)
+			$of(u"クェゼリン"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Pacific/Marquesas"_s),
-			$of(u"\u30de\u30eb\u30ad\u30fc\u30ba"_s)
+			$of(u"マルキーズ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Pacific/Pago_Pago"_s),
-			$of(u"\u30d1\u30b4\u30d1\u30b4"_s)
+			$of(u"パゴパゴ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Pacific/Rarotonga"_s),
-			$of(u"\u30e9\u30ed\u30c8\u30f3\u30ac"_s)
+			$of(u"ラロトンガ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Pacific/Tongatapu"_s),
-			$of(u"\u30c8\u30f3\u30ac\u30bf\u30d7"_s)
+			$of(u"トンガタプ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Africa/Addis_Ababa"_s),
-			$of(u"\u30a2\u30b8\u30b9\u30a2\u30d9\u30d0"_s)
+			$of(u"アジスアベバ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Africa/Brazzaville"_s),
-			$of(u"\u30d6\u30e9\u30b6\u30d3\u30eb"_s)
+			$of(u"ブラザビル"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Africa/Ouagadougou"_s),
-			$of(u"\u30ef\u30ac\u30c9\u30a5\u30b0\u30fc"_s)
+			$of(u"ワガドゥグー"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Costa_Rica"_s),
-			$of(u"\u30b3\u30b9\u30bf\u30ea\u30ab"_s)
+			$of(u"コスタリカ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Grand_Turk"_s),
-			$of(u"\u30b0\u30e9\u30f3\u30c9\u30bf\u30fc\u30af"_s)
+			$of(u"グランドターク"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Guadeloupe"_s),
-			$of(u"\u30b0\u30a2\u30c9\u30eb\u30fc\u30d7"_s)
+			$of(u"グアドループ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Hermosillo"_s),
-			$of(u"\u30a8\u30eb\u30e2\u30b7\u30e8"_s)
+			$of(u"エルモシヨ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Kralendijk"_s),
-			$of(u"\u30af\u30e9\u30ec\u30f3\u30c0\u30a4\u30af"_s)
+			$of(u"クラレンダイク"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Louisville"_s),
-			$of(u"\u30eb\u30a4\u30d3\u30eb"_s)
+			$of(u"ルイビル"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Martinique"_s),
-			$of(u"\u30de\u30eb\u30c6\u30a3\u30cb\u30fc\u30af"_s)
+			$of(u"マルティニーク"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Metlakatla"_s),
-			$of(u"\u30e1\u30c8\u30e9\u30ab\u30c8\u30e9"_s)
+			$of(u"メトラカトラ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Montevideo"_s),
-			$of(u"\u30e2\u30f3\u30c6\u30d3\u30c7\u30aa"_s)
+			$of(u"モンテビデオ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Montserrat"_s),
-			$of(u"\u30e2\u30f3\u30c8\u30bb\u30e9\u30c8"_s)
+			$of(u"モントセラト"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Paramaribo"_s),
-			$of(u"\u30d1\u30e9\u30de\u30ea\u30dc"_s)
+			$of(u"パラマリボ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Rio_Branco"_s),
-			$of(u"\u30ea\u30aa\u30d6\u30e9\u30f3\u30b3"_s)
+			$of(u"リオブランコ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/St_Vincent"_s),
-			$of(u"\u30bb\u30f3\u30c8\u30d3\u30f3\u30bb\u30f3\u30c8"_s)
+			$of(u"セントビンセント"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Whitehorse"_s),
-			$of(u"\u30db\u30ef\u30a4\u30c8\u30db\u30fc\u30b9"_s)
+			$of(u"ホワイトホース"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Antarctica/McMurdo"_s),
-			$of(u"\u30de\u30af\u30de\u30fc\u30c9\u57fa\u5730"_s)
+			$of(u"マクマード基地"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Antarctica/Rothera"_s),
-			$of(u"\u30ed\u30bc\u30e9\u57fa\u5730"_s)
+			$of(u"ロゼラ基地"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Srednekolymsk"_s),
-			$of(u"\u30b9\u30ec\u30c9\u30cd\u30b3\u30ea\u30e0\u30b9\u30af"_s)
+			$of(u"スレドネコリムスク"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Yekaterinburg"_s),
-			$of(u"\u30a8\u30ab\u30c6\u30ea\u30f3\u30d6\u30eb\u30b0"_s)
+			$of(u"エカテリンブルグ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Atlantic/Reykjavik"_s),
-			$of(u"\u30ec\u30a4\u30ad\u30e3\u30d3\u30af"_s)
+			$of(u"レイキャビク"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Atlantic/St_Helena"_s),
-			$of(u"\u30bb\u30f3\u30c8\u30d8\u30ec\u30ca"_s)
+			$of(u"セントヘレナ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Australia/Adelaide"_s),
-			$of(u"\u30a2\u30c7\u30ec\u30fc\u30c9"_s)
+			$of(u"アデレード"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Australia/Brisbane"_s),
-			$of(u"\u30d6\u30ea\u30b9\u30d9\u30f3"_s)
+			$of(u"ブリスベン"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Australia/Lindeman"_s),
-			$of(u"\u30ea\u30f3\u30c7\u30de\u30f3"_s)
+			$of(u"リンデマン"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Isle_of_Man"_s),
-			$of(u"\u30de\u30f3\u5cf6"_s)
+			$of(u"マン島"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Kaliningrad"_s),
-			$of(u"\u30ab\u30ea\u30fc\u30cb\u30f3\u30b0\u30e9\u30fc\u30c9"_s)
+			$of(u"カリーニングラード"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Pacific/Kiritimati"_s),
-			$of(u"\u30ad\u30ea\u30b9\u30a3\u30de\u30b9\u30a3\u5cf6"_s)
+			$of(u"キリスィマスィ島"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Africa/Johannesburg"_s),
-			$of(u"\u30e8\u30cf\u30cd\u30b9\u30d6\u30eb\u30b0"_s)
+			$of(u"ヨハネスブルグ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/El_Salvador"_s),
-			$of(u"\u30a8\u30eb\u30b5\u30eb\u30d0\u30c9\u30eb"_s)
+			$of(u"エルサルバドル"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Fort_Nelson"_s),
-			$of(u"\u30d5\u30a9\u30fc\u30c8\u30cd\u30eb\u30bd\u30f3"_s)
+			$of(u"フォートネルソン"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Los_Angeles"_s),
-			$of(u"\u30ed\u30b5\u30f3\u30bc\u30eb\u30b9"_s)
+			$of(u"ロサンゼルス"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Mexico_City"_s),
-			$of(u"\u30e1\u30ad\u30b7\u30b3\u30b7\u30c6\u30a3\u30fc"_s)
+			$of(u"メキシコシティー"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Pangnirtung"_s),
-			$of(u"\u30d1\u30f3\u30ca\u30fc\u30bf\u30f3\u30b0"_s)
+			$of(u"パンナータング"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Porto_Velho"_s),
-			$of(u"\u30dd\u30eb\u30c8\u30d9\u30fc\u30ea\u30e7"_s)
+			$of(u"ポルトベーリョ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Puerto_Rico"_s),
-			$of(u"\u30d7\u30a8\u30eb\u30c8\u30ea\u30b3"_s)
+			$of(u"プエルトリコ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Rainy_River"_s),
-			$of(u"\u30ec\u30a4\u30cb\u30fc\u30ea\u30d0\u30fc"_s)
+			$of(u"レイニーリバー"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Tegucigalpa"_s),
-			$of(u"\u30c6\u30b0\u30b7\u30ac\u30eb\u30d1"_s)
+			$of(u"テグシガルパ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Thunder_Bay"_s),
-			$of(u"\u30b5\u30f3\u30c0\u30fc\u30d9\u30a4"_s)
+			$of(u"サンダーベイ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Yellowknife"_s),
-			$of(u"\u30a4\u30a8\u30ed\u30fc\u30ca\u30a4\u30d5"_s)
+			$of(u"イエローナイフ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Arctic/Longyearbyen"_s),
-			$of(u"\u30ed\u30f3\u30b0\u30a4\u30a7\u30fc\u30eb\u30d3\u30fc\u30f3"_s)
+			$of(u"ロングイェールビーン"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Atlantic/Cape_Verde"_s),
-			$of(u"\u30ab\u30fc\u30dc\u30d9\u30eb\u30c7"_s)
+			$of(u"カーボベルデ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Australia/Lord_Howe"_s),
-			$of(u"\u30ed\u30fc\u30c9\u30cf\u30a6"_s)
+			$of(u"ロードハウ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Australia/Melbourne"_s),
-			$of(u"\u30e1\u30eb\u30dc\u30eb\u30f3"_s)
+			$of(u"メルボルン"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Indian/Antananarivo"_s),
-			$of(u"\u30a2\u30f3\u30bf\u30ca\u30ca\u30ea\u30dc"_s)
+			$of(u"アンタナナリボ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Pacific/Guadalcanal"_s),
-			$of(u"\u30ac\u30c0\u30eb\u30ab\u30ca\u30eb"_s)
+			$of(u"ガダルカナル"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Africa/Dar_es_Salaam"_s),
-			$of(u"\u30c0\u30eb\u30a8\u30b9\u30b5\u30e9\u30fc\u30e0"_s)
+			$of(u"ダルエスサラーム"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Blanc-Sablon"_s),
-			$of(u"\u30d6\u30e9\u30f3\u30fb\u30b5\u30d6\u30ed\u30f3"_s)
+			$of(u"ブラン・サブロン"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Buenos_Aires"_s),
-			$of(u"\u30d6\u30a8\u30ce\u30b9\u30a2\u30a4\u30ec\u30b9"_s)
+			$of(u"ブエノスアイレス"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Campo_Grande"_s),
-			$of(u"\u30ab\u30f3\u30dd\u30b0\u30e9\u30f3\u30c7"_s)
+			$of(u"カンポグランデ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Danmarkshavn"_s),
-			$of(u"\u30c7\u30f3\u30de\u30fc\u30af\u30b7\u30e3\u30a6\u30f3"_s)
+			$of(u"デンマークシャウン"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Dawson_Creek"_s),
-			$of(u"\u30c9\u30fc\u30bd\u30f3\u30af\u30ea\u30fc\u30af"_s)
+			$of(u"ドーソンクリーク"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Indiana/Knox"_s),
-			$of(u"\u30a4\u30f3\u30c7\u30a3\u30a2\u30ca\u5dde\u30ce\u30c3\u30af\u30b9"_s)
+			$of(u"インディアナ州ノックス"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Indianapolis"_s),
-			$of(u"\u30a4\u30f3\u30c7\u30a3\u30a2\u30ca\u30dd\u30ea\u30b9"_s)
+			$of(u"インディアナポリス"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Punta_Arenas"_s),
-			$of(u"\u30d7\u30f3\u30bf\u30a2\u30ec\u30ca\u30b9"_s)
+			$of(u"プンタアレナス"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Rankin_Inlet"_s),
-			$of(u"\u30e9\u30f3\u30ad\u30f3\u30a4\u30f3\u30ec\u30c3\u30c8"_s)
+			$of(u"ランキンインレット"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Santa_Isabel"_s),
-			$of(u"\u30b5\u30f3\u30bf\u30a4\u30b5\u30d9\u30eb"_s)
+			$of(u"サンタイサベル"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Scoresbysund"_s),
-			$of(u"\u30a4\u30c8\u30b3\u30eb\u30c8\u30eb\u30df\u30c3\u30c8"_s)
+			$of(u"イトコルトルミット"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Antarctica/Macquarie"_s),
-			$of(u"\u30de\u30c3\u30b3\u30ea\u30fc"_s)
+			$of(u"マッコリー"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Pacific/Bougainville"_s),
-			$of(u"\u30d6\u30fc\u30b2\u30f3\u30d3\u30eb"_s)
+			$of(u"ブーゲンビル"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Pacific/Port_Moresby"_s),
-			$of(u"\u30dd\u30fc\u30c8\u30e2\u30ec\u30b9\u30d3\u30fc"_s)
+			$of(u"ポートモレスビー"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Cambridge_Bay"_s),
-			$of(u"\u30b1\u30f3\u30d6\u30ea\u30c3\u30b8\u30d9\u30a4"_s)
+			$of(u"ケンブリッジベイ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Coral_Harbour"_s),
-			$of(u"\u30a2\u30c6\u30a3\u30b3\u30ab\u30f3"_s)
+			$of(u"アティコカン"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Indiana/Vevay"_s),
-			$of(u"\u30a4\u30f3\u30c7\u30a3\u30a2\u30ca\u5dde\u30d3\u30d9\u30fc"_s)
+			$of(u"インディアナ州ビベー"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Lower_Princes"_s),
-			$of(u"\u30ed\u30fc\u30ef\u30fc\u30fb\u30d7\u30ea\u30f3\u30bb\u30ba\u30fb\u30af\u30a6\u30a9\u30fc\u30bf\u30fc"_s)
+			$of(u"ローワー・プリンセズ・クウォーター"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Port_of_Spain"_s),
-			$of(u"\u30dd\u30fc\u30c8\u30aa\u30d6\u30b9\u30da\u30a4\u30f3"_s)
+			$of(u"ポートオブスペイン"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Santo_Domingo"_s),
-			$of(u"\u30b5\u30f3\u30c8\u30c9\u30df\u30f3\u30b4"_s)
+			$of(u"サントドミンゴ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/St_Barthelemy"_s),
-			$of(u"\u30b5\u30f3\u30fb\u30d0\u30eb\u30c6\u30eb\u30df\u30fc"_s)
+			$of(u"サン・バルテルミー"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Swift_Current"_s),
-			$of(u"\u30b9\u30a6\u30a3\u30d5\u30c8\u30ab\u30ec\u30f3\u30c8"_s)
+			$of(u"スウィフトカレント"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Australia/Broken_Hill"_s),
-			$of(u"\u30d6\u30ed\u30fc\u30af\u30f3\u30d2\u30eb"_s)
+			$of(u"ブロークンヒル"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Bahia_Banderas"_s),
-			$of(u"\u30d0\u30a4\u30a2\u30d0\u30f3\u30c7\u30e9"_s)
+			$of(u"バイアバンデラ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Port-au-Prince"_s),
-			$of(u"\u30dd\u30eb\u30c8\u30fc\u30d7\u30e9\u30f3\u30b9"_s)
+			$of(u"ポルトープランス"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Atlantic/South_Georgia"_s),
-			$of(u"\u30b5\u30a6\u30b9\u30b8\u30e7\u30fc\u30b8\u30a2"_s)
+			$of(u"サウスジョージア"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Argentina/Salta"_s),
-			$of(u"\u30b5\u30eb\u30bf"_s)
+			$of(u"サルタ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Indiana/Marengo"_s),
-			$of(u"\u30a4\u30f3\u30c7\u30a3\u30a2\u30ca\u5dde\u30de\u30ec\u30f3\u30b4"_s)
+			$of(u"インディアナ州マレンゴ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Indiana/Winamac"_s),
-			$of(u"\u30a4\u30f3\u30c7\u30a3\u30a2\u30ca\u5dde\u30a6\u30a3\u30ca\u30de\u30c3\u30af"_s)
+			$of(u"インディアナ州ウィナマック"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Argentina/Tucuman"_s),
-			$of(u"\u30c8\u30a5\u30af\u30de\u30f3"_s)
+			$of(u"トゥクマン"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Argentina/Ushuaia"_s),
-			$of(u"\u30a6\u30b7\u30e5\u30a2\u30a4\u30a2"_s)
+			$of(u"ウシュアイア"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Indiana/Tell_City"_s),
-			$of(u"\u30a4\u30f3\u30c7\u30a3\u30a2\u30ca\u5dde\u30c6\u30eb\u30b7\u30c6\u30a3"_s)
+			$of(u"インディアナ州テルシティ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Indiana/Vincennes"_s),
-			$of(u"\u30a4\u30f3\u30c7\u30a3\u30a2\u30ca\u5dde\u30d3\u30f3\u30bb\u30f3\u30b9"_s)
+			$of(u"インディアナ州ビンセンス"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Antarctica/DumontDUrville"_s),
-			$of(u"\u30c7\u30e5\u30e2\u30f3\u30fb\u30c7\u30e5\u30eb\u30f4\u30a3\u30eb\u57fa\u5730"_s)
+			$of(u"デュモン・デュルヴィル基地"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Argentina/La_Rioja"_s),
-			$of(u"\u30e9\u30ea\u30aa\u30cf"_s)
+			$of(u"ラリオハ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Argentina/San_Juan"_s),
-			$of(u"\u30b5\u30f3\u30d5\u30a1\u30f3"_s)
+			$of(u"サンファン"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Argentina/San_Luis"_s),
-			$of(u"\u30b5\u30f3\u30eb\u30a4\u30b9"_s)
+			$of(u"サンルイス"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Indiana/Petersburg"_s),
-			$of(u"\u30a4\u30f3\u30c7\u30a3\u30a2\u30ca\u5dde\u30d4\u30fc\u30bf\u30fc\u30ba\u30d0\u30fc\u30b0"_s)
+			$of(u"インディアナ州ピーターズバーグ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Kentucky/Monticello"_s),
-			$of(u"\u30b1\u30f3\u30bf\u30c3\u30ad\u30fc\u5dde\u30e2\u30f3\u30c6\u30a3\u30c1\u30a7\u30ed"_s)
+			$of(u"ケンタッキー州モンティチェロ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/North_Dakota/Beulah"_s),
-			$of(u"\u30ce\u30fc\u30b9\u30c0\u30b3\u30bf\u5dde\u30d3\u30e5\u30fc\u30e9\u30fc"_s)
+			$of(u"ノースダコタ州ビューラー"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/North_Dakota/Center"_s),
-			$of(u"\u30ce\u30fc\u30b9\u30c0\u30b3\u30bf\u5dde\u30bb\u30f3\u30bf\u30fc"_s)
+			$of(u"ノースダコタ州センター"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Argentina/Rio_Gallegos"_s),
-			$of(u"\u30ea\u30aa\u30ac\u30b8\u30a7\u30b4\u30b9"_s)
+			$of(u"リオガジェゴス"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/North_Dakota/New_Salem"_s),
-			$of(u"\u30ce\u30fc\u30b9\u30c0\u30b3\u30bf\u5dde\u30cb\u30e5\u30fc\u30bb\u30fc\u30e9\u30e0"_s)
+			$of(u"ノースダコタ州ニューセーラム"_s)
 		})
 	}));
 	return data;

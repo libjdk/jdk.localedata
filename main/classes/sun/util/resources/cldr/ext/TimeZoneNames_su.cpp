@@ -83,27 +83,27 @@ $ObjectArray2* TimeZoneNames_su::getContents() {
 		""_s
 	}));
 	$var($StringArray, Europe_Central, $new($StringArray, {
-		u"Waktu Standar \u00c9ropa Tengah"_s,
+		u"Waktu Standar Éropa Tengah"_s,
 		""_s,
-		u"Waktu Usum Panas \u00c9ropa Tengah"_s,
+		u"Waktu Usum Panas Éropa Tengah"_s,
 		""_s,
-		u"Waktu \u00c9ropa Tengah"_s,
+		u"Waktu Éropa Tengah"_s,
 		""_s
 	}));
 	$var($StringArray, Europe_Eastern, $new($StringArray, {
-		u"Waktu Standar \u00c9ropa Timur"_s,
+		u"Waktu Standar Éropa Timur"_s,
 		""_s,
-		u"Waktu Usum Panas \u00c9ropa Timur"_s,
+		u"Waktu Usum Panas Éropa Timur"_s,
 		""_s,
-		u"Waktu \u00c9ropa Timur"_s,
+		u"Waktu Éropa Timur"_s,
 		""_s
 	}));
 	$var($StringArray, Europe_Western, $new($StringArray, {
-		u"Waktu Standar \u00c9ropa Barat"_s,
+		u"Waktu Standar Éropa Barat"_s,
 		""_s,
-		u"Waktu Usum Panas \u00c9ropa Barat"_s,
+		u"Waktu Usum Panas Éropa Barat"_s,
 		""_s,
-		u"Waktu \u00c9ropa Barat"_s,
+		u"Waktu Éropa Barat"_s,
 		""_s
 	}));
 	$var($StringArray, America_Central, $new($StringArray, {
@@ -115,11 +115,11 @@ $ObjectArray2* TimeZoneNames_su::getContents() {
 		""_s
 	}));
 	$var($StringArray, America_Eastern, $new($StringArray, {
-		u"Waktu Standar W\u00e9tan"_s,
+		u"Waktu Standar Wétan"_s,
 		""_s,
-		u"Waktu Usum Panas W\u00e9tan"_s,
+		u"Waktu Usum Panas Wétan"_s,
 		""_s,
-		u"Waktu W\u00e9tan"_s,
+		u"Waktu Wétan"_s,
 		""_s
 	}));
 	$var($StringArray, America_Pacific, $new($StringArray, {

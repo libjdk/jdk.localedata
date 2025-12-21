@@ -41,11 +41,11 @@ $ObjectArray2* LocaleNames_bg::getContents() {
 	return $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("BG"_s),
-			$of(u"\u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f"_s)
+			$of(u"България"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bg"_s),
-			$of(u"\u0431\u044a\u043b\u0433\u0430\u0440\u0441\u043a\u0438"_s)
+			$of(u"български"_s)
 		})
 	});
 }

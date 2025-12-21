@@ -39,7 +39,7 @@ void CurrencyNames_ar_OM::init$() {
 $ObjectArray2* CurrencyNames_ar_OM::getContents() {
 	return $new($ObjectArray2, {$$new($ObjectArray, {
 		$of("OMR"_s),
-		$of(u"\u0631.\u0639.\u200f"_s)
+		$of(u"ر.ع.\u200f"_s)
 	})});
 }
 

@@ -59,7 +59,7 @@ $ObjectArray2* LocaleNames_fr_CA::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("HM"_s),
-			$of(u"\u00eeles Heard et McDonald"_s)
+			$of(u"îles Heard et McDonald"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bik"_s),
@@ -71,7 +71,7 @@ $ObjectArray2* LocaleNames_fr_CA::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("type.ca.islamic-umalqura"_s),
-			$of(u"calendrier musulman (calcul\u00e9, Umm al-Qura)"_s)
+			$of(u"calendrier musulman (calculé, Umm al-Qura)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("den"_s),
@@ -87,11 +87,11 @@ $ObjectArray2* LocaleNames_fr_CA::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("Zsye"_s),
-			$of(u"\u00e9moji"_s)
+			$of(u"émoji"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mgo"_s),
-			$of(u"meta\u2019"_s)
+			$of(u"meta’"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("frc"_s),
@@ -99,7 +99,7 @@ $ObjectArray2* LocaleNames_fr_CA::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("IC"_s),
-			$of(u"\u00eeles Canaries"_s)
+			$of(u"îles Canaries"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("peo"_s),
@@ -107,7 +107,7 @@ $ObjectArray2* LocaleNames_fr_CA::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("QO"_s),
-			$of(u"Oc\u00e9anie lointaine"_s)
+			$of(u"Océanie lointaine"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ii"_s),
@@ -115,7 +115,7 @@ $ObjectArray2* LocaleNames_fr_CA::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("AC"_s),
-			$of(u"\u00eele de l\u2019Ascension"_s)
+			$of(u"île de l’Ascension"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("rar"_s),
@@ -123,19 +123,19 @@ $ObjectArray2* LocaleNames_fr_CA::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("IM"_s),
-			$of(u"\u00eele de Man"_s)
+			$of(u"île de Man"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("frp"_s),
-			$of(u"franco-proven\u00e7al"_s)
+			$of(u"franco-provençal"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.co.eor"_s),
-			$of(u"ordre multilingue europ\u00e9en"_s)
+			$of(u"ordre multilingue européen"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("IO"_s),
-			$of(u"territoire britannique de l\u2019oc\u00e9an Indien"_s)
+			$of(u"territoire britannique de l’océan Indien"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bbj"_s),
@@ -159,15 +159,15 @@ $ObjectArray2* LocaleNames_fr_CA::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("RE"_s),
-			$of(u"la R\u00e9union"_s)
+			$of(u"la Réunion"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sdh"_s),
-			$of(u"kurde m\u00e9ridional"_s)
+			$of(u"kurde méridional"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("AX"_s),
-			$of(u"\u00eeles d\u2019\u00c5land"_s)
+			$of(u"îles d’Åland"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pfl"_s),
@@ -187,7 +187,7 @@ $ObjectArray2* LocaleNames_fr_CA::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("BV"_s),
-			$of(u"\u00eele Bouvet"_s)
+			$of(u"île Bouvet"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ken"_s),
@@ -195,7 +195,7 @@ $ObjectArray2* LocaleNames_fr_CA::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("smn"_s),
-			$of(u"sami d\u2019Inari"_s)
+			$of(u"sami d’Inari"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sei"_s),
@@ -203,7 +203,7 @@ $ObjectArray2* LocaleNames_fr_CA::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("BY"_s),
-			$of(u"B\u00e9larus"_s)
+			$of(u"Bélarus"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("KG"_s),
@@ -219,7 +219,7 @@ $ObjectArray2* LocaleNames_fr_CA::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("CC"_s),
-			$of(u"\u00eeles Cocos (Keeling)"_s)
+			$of(u"îles Cocos (Keeling)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kl"_s),
@@ -231,11 +231,11 @@ $ObjectArray2* LocaleNames_fr_CA::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("type.co.reformed"_s),
-			$of(u"Ordre de tri r\u00e9form\u00e9"_s)
+			$of(u"Ordre de tri réformé"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("CK"_s),
-			$of(u"\u00eeles Cook"_s)
+			$of(u"îles Cook"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ks"_s),
@@ -255,7 +255,7 @@ $ObjectArray2* LocaleNames_fr_CA::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("CX"_s),
-			$of(u"\u00eele Christmas"_s)
+			$of(u"île Christmas"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("TL"_s),
@@ -275,7 +275,7 @@ $ObjectArray2* LocaleNames_fr_CA::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("LR"_s),
-			$of(u"Lib\u00e9ria"_s)
+			$of(u"Libéria"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("esu"_s),
@@ -319,7 +319,7 @@ $ObjectArray2* LocaleNames_fr_CA::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("039"_s),
-			$of(u"Europe m\u00e9ridionale"_s)
+			$of(u"Europe méridionale"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.d0.hwidth"_s),
@@ -327,7 +327,7 @@ $ObjectArray2* LocaleNames_fr_CA::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("UM"_s),
-			$of(u"\u00eeles mineures \u00e9loign\u00e9es des \u00c9tats-Unis"_s)
+			$of(u"îles mineures éloignées des États-Unis"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("liv"_s),
@@ -375,7 +375,7 @@ $ObjectArray2* LocaleNames_fr_CA::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("VA"_s),
-			$of(u"Cit\u00e9 du Vatican"_s)
+			$of(u"Cité du Vatican"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("nds_NL"_s),
@@ -391,11 +391,11 @@ $ObjectArray2* LocaleNames_fr_CA::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("VG"_s),
-			$of(u"\u00eeles Vierges britanniques"_s)
+			$of(u"îles Vierges britanniques"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("VI"_s),
-			$of(u"\u00eeles Vierges am\u00e9ricaines"_s)
+			$of(u"îles Vierges américaines"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.co.dictionary"_s),
@@ -411,11 +411,11 @@ $ObjectArray2* LocaleNames_fr_CA::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ady"_s),
-			$of(u"adygu\u00e9"_s)
+			$of(u"adygué"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("NF"_s),
-			$of(u"\u00eele Norfolk"_s)
+			$of(u"île Norfolk"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("VN"_s),
@@ -423,7 +423,7 @@ $ObjectArray2* LocaleNames_fr_CA::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("NG"_s),
-			$of(u"Nig\u00e9ria"_s)
+			$of(u"Nigéria"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("nwc"_s),
@@ -431,27 +431,27 @@ $ObjectArray2* LocaleNames_fr_CA::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("Hans"_s),
-			$of(u"id\u00e9ogrammes han simplifi\u00e9s"_s)
+			$of(u"idéogrammes han simplifiés"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Hant"_s),
-			$of(u"id\u00e9ogrammes han traditionnels"_s)
+			$of(u"idéogrammes han traditionnels"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("quc"_s),
-			$of(u"k\u2019iche\u2019"_s)
+			$of(u"k’iche’"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("FK"_s),
-			$of(u"\u00eeles Malouines"_s)
+			$of(u"îles Malouines"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("FO"_s),
-			$of(u"\u00eeles F\u00e9ro\u00e9"_s)
+			$of(u"îles Féroé"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.m0.bgn"_s),
-			$of(u"BGN (commission de toponymie des \u00c9tats-Unis)"_s)
+			$of(u"BGN (commission de toponymie des États-Unis)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ang"_s),
@@ -459,7 +459,7 @@ $ObjectArray2* LocaleNames_fr_CA::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("type.ca.ethiopic-amete-alem"_s),
-			$of(u"Calendrier \u00e9thiopien de l\u2019An de gr\u00e2ce"_s)
+			$of(u"Calendrier éthiopien de l’An de grâce"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gu"_s),
@@ -491,7 +491,7 @@ $ObjectArray2* LocaleNames_fr_CA::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("PN"_s),
-			$of(u"\u00eeles Pitcairn"_s)
+			$of(u"îles Pitcairn"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("byv"_s),

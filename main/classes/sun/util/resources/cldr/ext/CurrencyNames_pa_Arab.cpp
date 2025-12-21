@@ -42,19 +42,19 @@ $ObjectArray2* CurrencyNames_pa_Arab::getContents() {
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("PKR"_s),
-			$of(u"\u0631"_s)
+			$of(u"ر"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("eur"_s),
-			$of(u"\u064a\u0648\u0631\u0648"_s)
+			$of(u"يورو"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("inr"_s),
-			$of(u"\u0631\u0648\u067e\u0626\u06cc\u06c1 [INR]"_s)
+			$of(u"روپئیہ [INR]"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pkr"_s),
-			$of(u"\u0631\u0648\u067e\u0626\u06cc\u06c1"_s)
+			$of(u"روپئیہ"_s)
 		})
 	}));
 	return data;

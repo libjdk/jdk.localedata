@@ -2190,7 +2190,7 @@ $ObjectArray2* LocaleNames_ff_Adlm::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ListKeyTypePattern"_s),
-			$of(u"{0}\u202f: {1}"_s)
+			$of(u"{0} : {1}"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.ca.islamic-tbla"_s),
@@ -2202,7 +2202,7 @@ $ObjectArray2* LocaleNames_ff_Adlm::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ListCompositionPattern"_s),
-			$of(u"{0}\u2e41 {1}"_s)
+			$of(u"{0}⹁ {1}"_s)
 		})
 	}));
 	return data;

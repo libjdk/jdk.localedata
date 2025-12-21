@@ -42,7 +42,7 @@ void TimeZoneNames_es_CO::init$() {
 $ObjectArray2* TimeZoneNames_es_CO::getContents() {
 	$useLocalCurrentObjectStackCache();
 	$var($StringArray, Colombia, $new($StringArray, {
-		u"hora est\u00e1ndar de Colombia"_s,
+		u"hora estándar de Colombia"_s,
 		"COT"_s,
 		"hora de verano de Colombia"_s,
 		"COST"_s,

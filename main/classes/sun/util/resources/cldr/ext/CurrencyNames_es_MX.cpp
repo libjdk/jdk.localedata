@@ -54,15 +54,15 @@ $ObjectArray2* CurrencyNames_es_MX::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("bdt"_s),
-			$of(u"taka banglades\u00ed"_s)
+			$of(u"taka bangladesí"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("btn"_s),
-			$of(u"ngultrum butan\u00e9s"_s)
+			$of(u"ngultrum butanés"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kgs"_s),
-			$of(u"som kirgu\u00eds"_s)
+			$of(u"som kirguís"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("khr"_s),
@@ -82,7 +82,7 @@ $ObjectArray2* CurrencyNames_es_MX::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("thb"_s),
-			$of(u"baht tailand\u00e9s"_s)
+			$of(u"baht tailandés"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("vnd"_s),

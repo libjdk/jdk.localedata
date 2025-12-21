@@ -62,19 +62,19 @@ $ObjectArray2* LocaleNames_en_001::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("type.hc.h11"_s),
-			$of(u"12-Hour System (0\u201311)"_s)
+			$of(u"12-Hour System (0–11)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.hc.h12"_s),
-			$of(u"12-Hour System (1\u201312)"_s)
+			$of(u"12-Hour System (1–12)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.hc.h23"_s),
-			$of(u"24-Hour System (0\u201323)"_s)
+			$of(u"24-Hour System (0–23)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.hc.h24"_s),
-			$of(u"24-Hour System (1\u201324)"_s)
+			$of(u"24-Hour System (1–24)"_s)
 		})
 	}));
 	return data;

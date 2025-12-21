@@ -42,7 +42,7 @@ $ObjectArray2* CurrencyNames_wae::getContents() {
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("JPY"_s),
-			$of(u"\u00a5"_s)
+			$of(u"¥"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("USD"_s),
@@ -50,11 +50,11 @@ $ObjectArray2* CurrencyNames_wae::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("brl"_s),
-			$of(u"Brasiliani\u0161i Real"_s)
+			$of(u"Brasilianiši Real"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cny"_s),
-			$of(u"Chinesi\u0161i Yuan"_s)
+			$of(u"Chinesiši Yuan"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("eur"_s),
@@ -66,7 +66,7 @@ $ObjectArray2* CurrencyNames_wae::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("inr"_s),
-			$of(u"Indi\u0161i Rupie"_s)
+			$of(u"Indiši Rupie"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("jpy"_s),
@@ -82,7 +82,7 @@ $ObjectArray2* CurrencyNames_wae::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("xxx"_s),
-			$of(u"Unbekannti W\u00e3rig"_s)
+			$of(u"Unbekannti Wãrig"_s)
 		})
 	}));
 	return data;

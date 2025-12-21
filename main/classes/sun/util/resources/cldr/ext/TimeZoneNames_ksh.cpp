@@ -51,7 +51,7 @@ $ObjectArray2* TimeZoneNames_ksh::getContents() {
 		""_s
 	}));
 	$var($StringArray, Azores, $new($StringArray, {
-		u"de Azore ier jew\u00f6hnlijje Zick"_s,
+		u"de Azore ier jewöhnlijje Zick"_s,
 		""_s,
 		"de Azore ier Summerzick"_s,
 		""_s,
@@ -67,7 +67,7 @@ $ObjectArray2* TimeZoneNames_ksh::getContents() {
 		""_s
 	}));
 	$var($StringArray, Mauritius, $new($StringArray, {
-		u"Jew\u00f6hnlijje Zigg vun Mauritius"_s,
+		u"Jewöhnlijje Zigg vun Mauritius"_s,
 		""_s,
 		"Summerzigg vun Mauritius"_s,
 		""_s,
@@ -75,11 +75,11 @@ $ObjectArray2* TimeZoneNames_ksh::getContents() {
 		""_s
 	}));
 	$var($StringArray, Cape_Verde, $new($StringArray, {
-		u"Jew\u00f6hnlijje Kapv\u00e4rdejaansche Zigg"_s,
+		u"Jewöhnlijje Kapvärdejaansche Zigg"_s,
 		""_s,
-		u"Kapv\u00e4rdejaansche Sommerzigg"_s,
+		u"Kapvärdejaansche Sommerzigg"_s,
 		""_s,
-		u"Kapv\u00e4rdejaansche Zigg"_s,
+		u"Kapvärdejaansche Zigg"_s,
 		""_s
 	}));
 	$var($StringArray, EMPTY_ZONE, $new($StringArray, {
@@ -91,7 +91,7 @@ $ObjectArray2* TimeZoneNames_ksh::getContents() {
 		""_s
 	}));
 	$var($StringArray, Seychelles, $new($StringArray, {
-		u"Zigg vun de Seisch\u00e4lle"_s,
+		u"Zigg vun de Seischälle"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -115,7 +115,7 @@ $ObjectArray2* TimeZoneNames_ksh::getContents() {
 		""_s
 	}));
 	$var($StringArray, Africa_Eastern, $new($StringArray, {
-		u"O\u00df-Affrekaanesche Zigg"_s,
+		u"Oß-Affrekaanesche Zigg"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -123,15 +123,15 @@ $ObjectArray2* TimeZoneNames_ksh::getContents() {
 		""_s
 	}));
 	$var($StringArray, Africa_Western, $new($StringArray, {
-		u"Jew\u00f6hnlijje W\u00e4\u00df-Affrekaanesche Zigg"_s,
+		u"Jewöhnlijje Wäß-Affrekaanesche Zigg"_s,
 		""_s,
-		u"W\u00e4\u00df-Affrekaanesche Sommerzigg"_s,
+		u"Wäß-Affrekaanesche Sommerzigg"_s,
 		""_s,
-		u"W\u00e4\u00df-Affrekaanesche Zigg"_s,
+		u"Wäß-Affrekaanesche Zigg"_s,
 		""_s
 	}));
 	$var($StringArray, Europe_Central, $new($StringArray, {
-		u"Meddel-Europpa sing jew\u00f6hnlijje Zick"_s,
+		u"Meddel-Europpa sing jewöhnlijje Zick"_s,
 		"MEZ"_s,
 		"Meddel-Europpa sing Summerzick"_s,
 		"MESZ"_s,
@@ -139,23 +139,23 @@ $ObjectArray2* TimeZoneNames_ksh::getContents() {
 		"MEZ"_s
 	}));
 	$var($StringArray, Europe_Eastern, $new($StringArray, {
-		u"O\u00df-Europpa sing jew\u00f6hnlijje Zick"_s,
+		u"Oß-Europpa sing jewöhnlijje Zick"_s,
 		"OEZ"_s,
-		u"O\u00df-Europpa sing Summerzick"_s,
+		u"Oß-Europpa sing Summerzick"_s,
 		"OESZ"_s,
-		u"O\u00df-Europpa sing Zick"_s,
+		u"Oß-Europpa sing Zick"_s,
 		"OEZ"_s
 	}));
 	$var($StringArray, Europe_Western, $new($StringArray, {
-		u"We\u00df-Europpa sing jew\u00f6hnlijje Zick"_s,
+		u"Weß-Europpa sing jewöhnlijje Zick"_s,
 		"WEZ"_s,
-		u"We\u00df-Europpa sing Summerzick"_s,
+		u"Weß-Europpa sing Summerzick"_s,
 		"WESZ"_s,
-		u"We\u00df-Europpa sing Zick"_s,
+		u"Weß-Europpa sing Zick"_s,
 		"WEZ"_s
 	}));
 	$var($StringArray, Africa_Southern, $new($StringArray, {
-		u"S\u00f6d-Affrekaanesche Zigg"_s,
+		u"Söd-Affrekaanesche Zigg"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -375,7 +375,7 @@ $ObjectArray2* TimeZoneNames_ksh::getContents() {
 			$of($$new($StringArray, {
 				"Greenwich sing Standat-Zick"_s,
 				""_s,
-				u"Jru\u00dfbretannije sing Summerzick"_s,
+				u"Jrußbretannije sing Summerzick"_s,
 				""_s,
 				""_s,
 				""_s
@@ -462,7 +462,7 @@ $ObjectArray2* TimeZoneNames_ksh::getContents() {
 			$of($$new($StringArray, {
 				"Greenwich sing Standat-Zick"_s,
 				""_s,
-				u"Jru\u00dfbretannije sing Summerzick"_s,
+				u"Jrußbretannije sing Summerzick"_s,
 				""_s,
 				""_s,
 				""_s
@@ -722,7 +722,7 @@ $ObjectArray2* TimeZoneNames_ksh::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Aqtobe"_s),
-			$of(u"Aqt\u00f6be"_s)
+			$of(u"Aqtöbe"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Riyadh"_s),
@@ -738,7 +738,7 @@ $ObjectArray2* TimeZoneNames_ksh::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Etc/Unknown"_s),
-			$of(u"- we\u00dfe mer nit -"_s)
+			$of(u"- weße mer nit -"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Riga"_s),
@@ -814,7 +814,7 @@ $ObjectArray2* TimeZoneNames_ksh::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Jersey"_s),
-			$of(u"J\u00f6\u00f6sei"_s)
+			$of(u"Jöösei"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Lisbon"_s),
@@ -846,7 +846,7 @@ $ObjectArray2* TimeZoneNames_ksh::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Zurich"_s),
-			$of(u"Z\u00fcresch"_s)
+			$of(u"Züresch"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Hong_Kong"_s),
@@ -890,7 +890,7 @@ $ObjectArray2* TimeZoneNames_ksh::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Atlantic/Faeroe"_s),
-			$of(u"F\u00e4r\u00f6r"_s)
+			$of(u"Färör"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Belgrade"_s),
@@ -898,11 +898,11 @@ $ObjectArray2* TimeZoneNames_ksh::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Brussels"_s),
-			$of(u"Br\u00fcssel"_s)
+			$of(u"Brüssel"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Guernsey"_s),
-			$of(u"J\u00f6\u00f6nsei"_s)
+			$of(u"Jöönsei"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Istanbul"_s),
@@ -918,7 +918,7 @@ $ObjectArray2* TimeZoneNames_ksh::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/St_Johns"_s),
-			$of(u"Zint John\u2019s"_s)
+			$of(u"Zint John’s"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/St_Kitts"_s),
@@ -930,7 +930,7 @@ $ObjectArray2* TimeZoneNames_ksh::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Antarctica/Syowa"_s),
-			$of(u"Schoowa-Schtazjohn op d\u00e4 Ensel Onjul"_s)
+			$of(u"Schoowa-Schtazjohn op dä Ensel Onjul"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Krasnoyarsk"_s),
@@ -994,11 +994,11 @@ $ObjectArray2* TimeZoneNames_ksh::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Costa_Rica"_s),
-			$of(u"Ko\u00dftaricka"_s)
+			$of(u"Koßtaricka"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/St_Vincent"_s),
-			$of(u"Zint Vintsch\u00e4nt"_s)
+			$of(u"Zint Vintschänt"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Yekaterinburg"_s),
@@ -1010,7 +1010,7 @@ $ObjectArray2* TimeZoneNames_ksh::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Isle_of_Man"_s),
-			$of(u"Ensel M\u00e4n"_s)
+			$of(u"Ensel Män"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Kaliningrad"_s),
@@ -1034,7 +1034,7 @@ $ObjectArray2* TimeZoneNames_ksh::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/St_Barthelemy"_s),
-			$of(u"Zint Barth\u00e9lemy"_s)
+			$of(u"Zint Barthélemy"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Indiana/Marengo"_s),
@@ -1054,7 +1054,7 @@ $ObjectArray2* TimeZoneNames_ksh::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Antarctica/DumontDUrville"_s),
-			$of(u"Dumont-d\u2019Urville-Schtazjohn"_s)
+			$of(u"Dumont-d’Urville-Schtazjohn"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Indiana/Petersburg"_s),

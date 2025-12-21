@@ -44,7 +44,7 @@ $ObjectArray2* FormatData_pt::getContents() {
 			$of($$new($StringArray, {
 				"Janeiro"_s,
 				"Fevereiro"_s,
-				u"Mar\u00e7o"_s,
+				u"Março"_s,
 				"Abril"_s,
 				"Maio"_s,
 				"Junho"_s,
@@ -98,11 +98,11 @@ $ObjectArray2* FormatData_pt::getContents() {
 			$of($$new($StringArray, {
 				"Domingo"_s,
 				"Segunda-feira"_s,
-				u"Ter\u00e7a-feira"_s,
+				u"Terça-feira"_s,
 				"Quarta-feira"_s,
 				"Quinta-feira"_s,
 				"Sexta-feira"_s,
-				u"S\u00e1bado"_s
+				u"Sábado"_s
 			}))
 		}),
 		$$new($ObjectArray, {
@@ -114,7 +114,7 @@ $ObjectArray2* FormatData_pt::getContents() {
 				"Qua"_s,
 				"Qui"_s,
 				"Sex"_s,
-				u"S\u00e1b"_s
+				u"Sáb"_s
 			}))
 		}),
 		$$new($ObjectArray, {
@@ -154,9 +154,9 @@ $ObjectArray2* FormatData_pt::getContents() {
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
-				u"\ufffd"_s
+				u"‰"_s,
+				u"∞"_s,
+				u"�"_s
 			}))
 		}),
 		$$new($ObjectArray, {

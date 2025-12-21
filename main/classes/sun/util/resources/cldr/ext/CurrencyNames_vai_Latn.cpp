@@ -46,23 +46,23 @@ $ObjectArray2* CurrencyNames_vai_Latn::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("aed"_s),
-			$of(u"Yunait\u025b Arabhi \u0190mire Dihami"_s)
+			$of(u"Yunaitɛ Arabhi Ɛmire Dihami"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("aoa"_s),
-			$of(u"Angola Kuwa\u014bza"_s)
+			$of(u"Angola Kuwaŋza"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("aud"_s),
-			$of(u"\u0186\u0301situwa Dala"_s)
+			$of(u"Ɔ́situwa Dala"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bhd"_s),
-			$of(u"Bhar\u025b\u014b Dina"_s)
+			$of(u"Bharɛŋ Dina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bif"_s),
-			$of(u"Bhurundi Fura\u014bki"_s)
+			$of(u"Bhurundi Furaŋki"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bwp"_s),
@@ -74,23 +74,23 @@ $ObjectArray2* CurrencyNames_vai_Latn::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("cdf"_s),
-			$of(u"K\u00f3ngo Fura\u014bki"_s)
+			$of(u"Kóngo Furaŋki"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("chf"_s),
-			$of(u"Suwesi Fura\u014bki"_s)
+			$of(u"Suwesi Furaŋki"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cny"_s),
-			$of(u"Chan\u00ed\u0129 Yuwa\u014b R\u025b\u014bmimbi"_s)
+			$of(u"Chaníĩ Yuwaŋ Rɛŋmimbi"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cve"_s),
-			$of(u"\u0190sikudo Cabov\u025bdiyano"_s)
+			$of(u"Ɛsikudo Cabovɛdiyano"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("djf"_s),
-			$of(u"Jibhuti Fura\u014bki"_s)
+			$of(u"Jibhuti Furaŋki"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("dzd"_s),
@@ -98,15 +98,15 @@ $ObjectArray2* CurrencyNames_vai_Latn::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("egp"_s),
-			$of(u"M\u00eds\u00e9la P\u0254\u0254\u0303"_s)
+			$of(u"Míséla Pɔɔ̃"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ern"_s),
-			$of(u"\u0190ritera Nakifa"_s)
+			$of(u"Ɛritera Nakifa"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("etb"_s),
-			$of(u"\u00cdtiyopiya Bhii"_s)
+			$of(u"Ítiyopiya Bhii"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("eur"_s),
@@ -114,7 +114,7 @@ $ObjectArray2* CurrencyNames_vai_Latn::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("gbp"_s),
-			$of(u"Jeng\u00e9si P\u0254\u0254\u0303"_s)
+			$of(u"Jengési Pɔɔ̃"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ghc"_s),
@@ -126,23 +126,23 @@ $ObjectArray2* CurrencyNames_vai_Latn::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("gns"_s),
-			$of(u"Gini Fura\u014bki"_s)
+			$of(u"Gini Furaŋki"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("inr"_s),
-			$of(u"\u00cdndiya Rupi"_s)
+			$of(u"Índiya Rupi"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("jpy"_s),
-			$of(u"Japani\u0129 Y\u025b\u014b"_s)
+			$of(u"Japaniĩ Yɛŋ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kes"_s),
-			$of(u"K\u00e9nya Siye\u014b"_s)
+			$of(u"Kénya Siyeŋ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kmf"_s),
-			$of(u"Komoro Fura\u014bki"_s)
+			$of(u"Komoro Furaŋki"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lrd"_s),
@@ -150,7 +150,7 @@ $ObjectArray2* CurrencyNames_vai_Latn::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("lsl"_s),
-			$of(u"Lis\u00f3to Loti"_s)
+			$of(u"Lisóto Loti"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lyd"_s),
@@ -158,7 +158,7 @@ $ObjectArray2* CurrencyNames_vai_Latn::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("mad"_s),
-			$of(u"M\u0254roko Dihami"_s)
+			$of(u"Mɔroko Dihami"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mga"_s),
@@ -166,15 +166,15 @@ $ObjectArray2* CurrencyNames_vai_Latn::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("mro"_s),
-			$of(u"M\u0254retani Yugiya (1973\u20132017)"_s)
+			$of(u"Mɔretani Yugiya (1973–2017)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mru"_s),
-			$of(u"M\u0254retani Yugiya"_s)
+			$of(u"Mɔretani Yugiya"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mur"_s),
-			$of(u"M\u0254resh\u0254 Rupi"_s)
+			$of(u"Mɔreshɔ Rupi"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mwk"_s),
@@ -182,7 +182,7 @@ $ObjectArray2* CurrencyNames_vai_Latn::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("mzm"_s),
-			$of(u"Mozambiki M\u025btikali"_s)
+			$of(u"Mozambiki Mɛtikali"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("nad"_s),
@@ -190,11 +190,11 @@ $ObjectArray2* CurrencyNames_vai_Latn::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ngn"_s),
-			$of(u"Na\u0129jiriya Na\u0129ra"_s)
+			$of(u"Naĩjiriya Naĩra"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("rwf"_s),
-			$of(u"Rawunda Fura\u014bki"_s)
+			$of(u"Rawunda Furaŋki"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sar"_s),
@@ -202,27 +202,27 @@ $ObjectArray2* CurrencyNames_vai_Latn::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("sdg"_s),
-			$of(u"Sudani\u0129 P\u0254\u0254\u0303"_s)
+			$of(u"Sudaniĩ Pɔɔ̃"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("shp"_s),
-			$of(u"Si\u014b H\u025blina P\u0254\u0254\u0303"_s)
+			$of(u"Siŋ Hɛlina Pɔɔ̃"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sll"_s),
-			$of(u"Liy\u0254\u0254\u0300"_s)
+			$of(u"Liyɔɔ̀"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sos"_s),
-			$of(u"Somaliya Siye\u014b"_s)
+			$of(u"Somaliya Siyeŋ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("std"_s),
-			$of(u"Sawo Tombe \u0253\u025b a Gbawo Dobura (1977\u20132017)"_s)
+			$of(u"Sawo Tombe ɓɛ a Gbawo Dobura (1977–2017)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("stn"_s),
-			$of(u"Sawo Tombe \u0253\u025b a Gbawo Dobura"_s)
+			$of(u"Sawo Tombe ɓɛ a Gbawo Dobura"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("szl"_s),
@@ -234,11 +234,11 @@ $ObjectArray2* CurrencyNames_vai_Latn::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("tzs"_s),
-			$of(u"Ta\u014bzaniya Siye\u014b"_s)
+			$of(u"Taŋzaniya Siyeŋ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ugx"_s),
-			$of(u"Yuganda Siye\u014b"_s)
+			$of(u"Yuganda Siyeŋ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("usd"_s),
@@ -246,19 +246,19 @@ $ObjectArray2* CurrencyNames_vai_Latn::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("xaf"_s),
-			$of(u"\u00c1f\u00edr\u00edka T\u025b Sifa"_s)
+			$of(u"Áfíríka Tɛ Sifa"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xof"_s),
-			$of(u"\u00c1f\u00edr\u00edka Tele J\u00ed\u00ed Sifa"_s)
+			$of(u"Áfíríka Tele Jíí Sifa"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("zar"_s),
-			$of(u"Afirika K\u0254i Le\u014b\u014b\u025b l\u0254 Randi"_s)
+			$of(u"Afirika Kɔi Leŋŋɛ lɔ Randi"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("zmk"_s),
-			$of(u"Zambiya Kuwacha (1968\u20132012)"_s)
+			$of(u"Zambiya Kuwacha (1968–2012)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("zmw"_s),

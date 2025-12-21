@@ -42,7 +42,7 @@ void TimeZoneNames_es_US::init$() {
 $ObjectArray2* TimeZoneNames_es_US::getContents() {
 	$useLocalCurrentObjectStackCache();
 	$var($StringArray, Apia, $new($StringArray, {
-		u"hora est\u00e1ndar de Apia"_s,
+		u"hora estándar de Apia"_s,
 		""_s,
 		"hora de verano de Apia"_s,
 		""_s,
@@ -50,7 +50,7 @@ $ObjectArray2* TimeZoneNames_es_US::getContents() {
 		""_s
 	}));
 	$var($StringArray, Cook, $new($StringArray, {
-		u"hora est\u00e1ndar de las Islas Cook"_s,
+		u"hora estándar de las Islas Cook"_s,
 		""_s,
 		"hora de verano media de las Islas Cook"_s,
 		""_s,
@@ -74,7 +74,7 @@ $ObjectArray2* TimeZoneNames_es_US::getContents() {
 		""_s
 	}));
 	$var($StringArray, Alaska, $new($StringArray, {
-		u"hora est\u00e1ndar de Alaska"_s,
+		u"hora estándar de Alaska"_s,
 		"AKST"_s,
 		"hora de verano de Alaska"_s,
 		"AKDT"_s,
@@ -82,7 +82,7 @@ $ObjectArray2* TimeZoneNames_es_US::getContents() {
 		"AKT"_s
 	}));
 	$var($StringArray, Easter, $new($StringArray, {
-		u"hora est\u00e1ndar de la isla de Pascua"_s,
+		u"hora estándar de la isla de Pascua"_s,
 		""_s,
 		"hora de verano de la isla de Pascua"_s,
 		""_s,
@@ -90,7 +90,7 @@ $ObjectArray2* TimeZoneNames_es_US::getContents() {
 		""_s
 	}));
 	$var($StringArray, Norfolk, $new($StringArray, {
-		u"hora est\u00e1ndar de la isla Norfolk"_s,
+		u"hora estándar de la isla Norfolk"_s,
 		""_s,
 		"hora de verano de la isla Norfolk"_s,
 		""_s,
@@ -98,7 +98,7 @@ $ObjectArray2* TimeZoneNames_es_US::getContents() {
 		""_s
 	}));
 	$var($StringArray, Solomon, $new($StringArray, {
-		u"hora de las Islas Salom\u00f3n"_s,
+		u"hora de las Islas Salomón"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -106,11 +106,11 @@ $ObjectArray2* TimeZoneNames_es_US::getContents() {
 		""_s
 	}));
 	$var($StringArray, Atlantic, $new($StringArray, {
-		u"hora est\u00e1ndar del Atl\u00e1ntico"_s,
+		u"hora estándar del Atlántico"_s,
 		"AST"_s,
-		u"hora de verano del Atl\u00e1ntico"_s,
+		u"hora de verano del Atlántico"_s,
 		"ADT"_s,
-		u"hora del Atl\u00e1ntico"_s,
+		u"hora del Atlántico"_s,
 		"AT"_s
 	}));
 	$var($StringArray, Chamorro, $new($StringArray, {
@@ -122,7 +122,7 @@ $ObjectArray2* TimeZoneNames_es_US::getContents() {
 		""_s
 	}));
 	$var($StringArray, Falkland, $new($StringArray, {
-		u"hora est\u00e1ndar de las islas Malvinas"_s,
+		u"hora estándar de las islas Malvinas"_s,
 		""_s,
 		"hora de verano de las islas Malvinas"_s,
 		""_s,
@@ -146,7 +146,7 @@ $ObjectArray2* TimeZoneNames_es_US::getContents() {
 		""_s
 	}));
 	$var($StringArray, Indian_Ocean, $new($StringArray, {
-		u"hora del Oc\u00e9ano \u00cdndico"_s,
+		u"hora del Océano Índico"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -154,23 +154,23 @@ $ObjectArray2* TimeZoneNames_es_US::getContents() {
 		""_s
 	}));
 	$var($StringArray, Europe_Eastern, $new($StringArray, {
-		u"hora est\u00e1ndar de Europa oriental"_s,
-		u"\u2205\u2205\u2205"_s,
+		u"hora estándar de Europa oriental"_s,
+		u"∅∅∅"_s,
 		"hora de verano de Europa oriental"_s,
-		u"\u2205\u2205\u2205"_s,
+		u"∅∅∅"_s,
 		"hora de Europa oriental"_s,
-		u"\u2205\u2205\u2205"_s
+		u"∅∅∅"_s
 	}));
 	$var($StringArray, Europe_Western, $new($StringArray, {
-		u"hora est\u00e1ndar de Europa occidental"_s,
-		u"\u2205\u2205\u2205"_s,
+		u"hora estándar de Europa occidental"_s,
+		u"∅∅∅"_s,
 		"hora de verano de Europa occidental"_s,
-		u"\u2205\u2205\u2205"_s,
+		u"∅∅∅"_s,
 		"hora de Europa occidental"_s,
-		u"\u2205\u2205\u2205"_s
+		u"∅∅∅"_s
 	}));
 	$var($StringArray, America_Central, $new($StringArray, {
-		u"hora est\u00e1ndar central"_s,
+		u"hora estándar central"_s,
 		"CST"_s,
 		"hora de verano central"_s,
 		"CDT"_s,
@@ -178,7 +178,7 @@ $ObjectArray2* TimeZoneNames_es_US::getContents() {
 		"CT"_s
 	}));
 	$var($StringArray, America_Eastern, $new($StringArray, {
-		u"hora est\u00e1ndar oriental"_s,
+		u"hora estándar oriental"_s,
 		"EST"_s,
 		"hora de verano oriental"_s,
 		"EDT"_s,
@@ -186,11 +186,11 @@ $ObjectArray2* TimeZoneNames_es_US::getContents() {
 		"ET"_s
 	}));
 	$var($StringArray, America_Pacific, $new($StringArray, {
-		u"hora est\u00e1ndar del Pac\u00edfico"_s,
+		u"hora estándar del Pacífico"_s,
 		"PST"_s,
-		u"hora de verano del Pac\u00edfico"_s,
+		u"hora de verano del Pacífico"_s,
 		"PDT"_s,
-		u"hora del Pac\u00edfico"_s,
+		u"hora del Pacífico"_s,
 		"PT"_s
 	}));
 	$var($StringArray, Gilbert_Islands, $new($StringArray, {
@@ -202,15 +202,15 @@ $ObjectArray2* TimeZoneNames_es_US::getContents() {
 		""_s
 	}));
 	$var($StringArray, Hawaii_Aleutian, $new($StringArray, {
-		u"hora est\u00e1ndar de Haw\u00e1i-Aleutianas"_s,
+		u"hora estándar de Hawái-Aleutianas"_s,
 		"HAST"_s,
-		u"hora de verano de Haw\u00e1i-Aleutianas"_s,
+		u"hora de verano de Hawái-Aleutianas"_s,
 		"HADT"_s,
-		u"hora de Haw\u00e1i-Aleutianas"_s,
+		u"hora de Hawái-Aleutianas"_s,
 		"HAT"_s
 	}));
 	$var($StringArray, Phoenix_Islands, $new($StringArray, {
-		u"hora de las islas F\u00e9nix"_s,
+		u"hora de las islas Fénix"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -218,11 +218,11 @@ $ObjectArray2* TimeZoneNames_es_US::getContents() {
 		""_s
 	}));
 	$var($StringArray, America_Mountain, $new($StringArray, {
-		u"hora est\u00e1ndar de las Monta\u00f1as Rocosas"_s,
+		u"hora estándar de las Montañas Rocosas"_s,
 		"MST"_s,
-		u"hora de verano de las Monta\u00f1as Rocosas"_s,
+		u"hora de verano de las Montañas Rocosas"_s,
 		"MDT"_s,
-		u"hora de las Monta\u00f1as Rocosas"_s,
+		u"hora de las Montañas Rocosas"_s,
 		"MT"_s
 	}));
 	$var($StringArray, Marshall_Islands, $new($StringArray, {
@@ -261,11 +261,11 @@ $ObjectArray2* TimeZoneNames_es_US::getContents() {
 		$$new($ObjectArray, {
 			$of("Pacific/Honolulu"_s),
 			$of($$new($StringArray, {
-				u"hora est\u00e1ndar de Haw\u00e1i-Aleutianas"_s,
+				u"hora estándar de Hawái-Aleutianas"_s,
 				"HST"_s,
-				u"hora de verano de Haw\u00e1i-Aleutianas"_s,
+				u"hora de verano de Hawái-Aleutianas"_s,
 				"HDT"_s,
-				u"hora de Haw\u00e1i-Aleutianas"_s,
+				u"hora de Hawái-Aleutianas"_s,
 				"HST"_s
 			}))
 		}),
@@ -444,11 +444,11 @@ $ObjectArray2* TimeZoneNames_es_US::getContents() {
 		$$new($ObjectArray, {
 			$of("SystemV/HST10"_s),
 			$of($$new($StringArray, {
-				u"hora est\u00e1ndar de Haw\u00e1i-Aleutianas"_s,
+				u"hora estándar de Hawái-Aleutianas"_s,
 				"HST"_s,
-				u"hora de verano de Haw\u00e1i-Aleutianas"_s,
+				u"hora de verano de Hawái-Aleutianas"_s,
 				"HDT"_s,
-				u"hora de Haw\u00e1i-Aleutianas"_s,
+				u"hora de Hawái-Aleutianas"_s,
 				"HST"_s
 			}))
 		}),

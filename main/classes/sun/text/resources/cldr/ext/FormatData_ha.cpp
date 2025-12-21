@@ -90,7 +90,7 @@ $ObjectArray2* FormatData_ha::getContents() {
 		"Talata"_s,
 		"Laraba"_s,
 		"Alhamis"_s,
-		u"Jumma\u02bca"_s,
+		u"Jummaʼa"_s,
 		"Asabar"_s
 	}));
 	$var($StringArray, metaValue_DayAbbreviations, $new($StringArray, {
@@ -112,10 +112,10 @@ $ObjectArray2* FormatData_ha::getContents() {
 		"A"_s
 	}));
 	$var($StringArray, metaValue_QuarterNames, $new($StringArray, {
-		u"Kwata na \u0257aya"_s,
+		u"Kwata na ɗaya"_s,
 		"Kwata na biyu"_s,
 		"Kwata na uku"_s,
-		u"Kwata na hu\u0257u"_s
+		u"Kwata na huɗu"_s
 	}));
 	$var($StringArray, metaValue_QuarterAbbreviations, $new($StringArray, {
 		"K1"_s,
@@ -296,8 +296,8 @@ $ObjectArray2* FormatData_ha::getContents() {
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
+				u"‰"_s,
+				u"∞"_s,
 				"NaN"_s,
 				""_s,
 				""_s
@@ -357,7 +357,7 @@ $ObjectArray2* FormatData_ha::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.second"_s),
-			$of(u"da\u0199i\u0199a"_s)
+			$of(u"daƙiƙa"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("DayAbbreviations"_s),
@@ -624,7 +624,7 @@ $ObjectArray2* FormatData_ha::getContents() {
 			$of("latn.NumberPatterns"_s),
 			$of($$new($StringArray, {
 				"#,##0.###"_s,
-				u"\u00a4\u00a0#,##0.00"_s,
+				u"¤ #,##0.00"_s,
 				"#,##0%"_s,
 				""_s
 			}))

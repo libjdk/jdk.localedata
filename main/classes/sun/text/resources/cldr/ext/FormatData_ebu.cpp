@@ -41,17 +41,17 @@ $ObjectArray2* FormatData_ebu::getContents() {
 	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_MonthNames, $new($StringArray, {
 		"Mweri wa mbere"_s,
-		u"Mweri wa ka\u0129ri"_s,
-		u"Mweri wa kathat\u0169"_s,
+		u"Mweri wa kaĩri"_s,
+		u"Mweri wa kathatũ"_s,
 		"Mweri wa kana"_s,
 		"Mweri wa gatano"_s,
-		u"Mweri wa gatantat\u0169"_s,
-		u"Mweri wa m\u0169gwanja"_s,
+		u"Mweri wa gatantatũ"_s,
+		u"Mweri wa mũgwanja"_s,
 		"Mweri wa kanana"_s,
 		"Mweri wa kenda"_s,
-		u"Mweri wa ik\u0169mi"_s,
-		u"Mweri wa ik\u0169mi na \u0169mwe"_s,
-		u"Mweri wa ik\u0169mi na Ka\u0129r\u0129"_s,
+		u"Mweri wa ikũmi"_s,
+		u"Mweri wa ikũmi na ũmwe"_s,
+		u"Mweri wa ikũmi na Kaĩrĩ"_s,
 		""_s
 	}));
 	$var($StringArray, metaValue_MonthAbbreviations, $new($StringArray, {
@@ -113,7 +113,7 @@ $ObjectArray2* FormatData_ebu::getContents() {
 	}));
 	$var($StringArray, metaValue_QuarterNames, $new($StringArray, {
 		"Kuota ya mbere"_s,
-		u"Kuota ya Ka\u0129r\u0129"_s,
+		u"Kuota ya Kaĩrĩ"_s,
 		"Kuota ya kathatu"_s,
 		"Kuota ya kana"_s
 	}));
@@ -210,7 +210,7 @@ $ObjectArray2* FormatData_ebu::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.zone"_s),
-			$of(u"G\u0129thaa"_s)
+			$of(u"Gĩthaa"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("japanese.QuarterAbbreviations"_s),
@@ -289,7 +289,7 @@ $ObjectArray2* FormatData_ebu::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.weekday"_s),
-			$of(u"M\u0169thenya kiumia-in\u0129"_s)
+			$of(u"Mũthenya kiumia-inĩ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("buddhist.MonthNames"_s),
@@ -310,8 +310,8 @@ $ObjectArray2* FormatData_ebu::getContents() {
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
+				u"‰"_s,
+				u"∞"_s,
 				"NaN"_s,
 				""_s,
 				""_s
@@ -335,7 +335,7 @@ $ObjectArray2* FormatData_ebu::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.minute"_s),
-			$of(u"Ndag\u0129ka"_s)
+			$of(u"Ndagĩka"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("field.era"_s),
@@ -478,9 +478,9 @@ $ObjectArray2* FormatData_ebu::getContents() {
 			$of("latn.NumberPatterns"_s),
 			$of($$new($StringArray, {
 				"#,##0.###"_s,
-				u"\u00a4#,##0.00"_s,
+				u"¤#,##0.00"_s,
 				"#,##0%"_s,
-				u"\u00a4#,##0.00;(\u00a4#,##0.00)"_s
+				u"¤#,##0.00;(¤#,##0.00)"_s
 			}))
 		}),
 		$$new($ObjectArray, {

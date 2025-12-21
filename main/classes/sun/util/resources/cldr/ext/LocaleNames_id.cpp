@@ -103,7 +103,7 @@ $ObjectArray2* LocaleNames_id::getContents() {
 	$var($String, metaValue_cop, "Koptik"_s);
 	$var($String, metaValue_kpe, "Kpelle"_s);
 	$var($String, metaValue_men, "Mende"_s);
-	$var($String, metaValue_nqo, u"N\u2019Ko"_s);
+	$var($String, metaValue_nqo, u"N’Ko"_s);
 	$var($String, metaValue_pal, "Pahlevi"_s);
 	$var($String, metaValue_peo, "Persia Kuno"_s);
 	$var($String, metaValue_ssy, "Saho"_s);
@@ -341,7 +341,7 @@ $ObjectArray2* LocaleNames_id::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("BL"_s),
-			$of(u"Saint Barth\u00e9lemy"_s)
+			$of(u"Saint Barthélemy"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("BM"_s),
@@ -441,7 +441,7 @@ $ObjectArray2* LocaleNames_id::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("CI"_s),
-			$of(u"C\u00f4te d\u2019Ivoire"_s)
+			$of(u"Côte d’Ivoire"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("CK"_s),
@@ -485,7 +485,7 @@ $ObjectArray2* LocaleNames_id::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("CW"_s),
-			$of(u"Cura\u00e7ao"_s)
+			$of(u"Curaçao"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("CX"_s),
@@ -1201,7 +1201,7 @@ $ObjectArray2* LocaleNames_id::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("gwi"_s),
-			$of(u"Gwich\u2019in"_s)
+			$of(u"Gwich’in"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("nds"_s),
@@ -1685,7 +1685,7 @@ $ObjectArray2* LocaleNames_id::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("RE"_s),
-			$of(u"R\u00e9union"_s)
+			$of(u"Réunion"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("005"_s),
@@ -3609,7 +3609,7 @@ $ObjectArray2* LocaleNames_id::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("nb"_s),
-			$of(u"Bokm\u00e5l Norwegia"_s)
+			$of(u"Bokmål Norwegia"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("nd"_s),
@@ -3797,7 +3797,7 @@ $ObjectArray2* LocaleNames_id::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.nkoo"_s),
-			$of(u"Angka N\u2019Ko"_s)
+			$of(u"Angka N’Ko"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bra"_s),
@@ -3813,15 +3813,15 @@ $ObjectArray2* LocaleNames_id::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("mgo"_s),
-			$of(u"Meta\u2019"_s)
+			$of(u"Meta’"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.hc.h23"_s),
-			$of(u"Sistem 24 Jam (0\u201323)"_s)
+			$of(u"Sistem 24 Jam (0–23)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.hc.h24"_s),
-			$of(u"Sistem 24 Jam (1\u201324)"_s)
+			$of(u"Sistem 24 Jam (1–24)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ssy"_s),
@@ -3857,11 +3857,11 @@ $ObjectArray2* LocaleNames_id::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("type.hc.h12"_s),
-			$of(u"Sistem 12 Jam (1\u201312)"_s)
+			$of(u"Sistem 12 Jam (1–12)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.hc.h11"_s),
-			$of(u"Sistem 12 Jam (0\u201311)"_s)
+			$of(u"Sistem 12 Jam (0–11)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("rm"_s),
@@ -4281,7 +4281,7 @@ $ObjectArray2* LocaleNames_id::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("quc"_s),
-			$of(u"K\u02bciche\u02bc"_s)
+			$of(u"Kʼicheʼ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gaa"_s),

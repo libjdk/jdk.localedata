@@ -40,120 +40,120 @@ void FormatData_kn::init$() {
 $ObjectArray2* FormatData_kn::getContents() {
 	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_MonthNames, $new($StringArray, {
-		u"\u0c9c\u0ca8\u0cb5\u0cb0\u0cbf"_s,
-		u"\u0cab\u0cc6\u0cac\u0ccd\u0cb0\u0cb5\u0cb0\u0cbf"_s,
-		u"\u0cae\u0cbe\u0cb0\u0ccd\u0c9a\u0ccd"_s,
-		u"\u0c8f\u0caa\u0ccd\u0cb0\u0cbf\u0cb2\u0ccd"_s,
-		u"\u0cae\u0cc7"_s,
-		u"\u0c9c\u0cc2\u0ca8\u0ccd"_s,
-		u"\u0c9c\u0cc1\u0cb2\u0cc8"_s,
-		u"\u0c86\u0c97\u0cb8\u0ccd\u0c9f\u0ccd"_s,
-		u"\u0cb8\u0cc6\u0caa\u0ccd\u0c9f\u0cc6\u0c82\u0cac\u0cb0\u0ccd"_s,
-		u"\u0c85\u0c95\u0ccd\u0c9f\u0ccb\u0cac\u0cb0\u0ccd"_s,
-		u"\u0ca8\u0cb5\u0cc6\u0c82\u0cac\u0cb0\u0ccd"_s,
-		u"\u0ca1\u0cbf\u0cb8\u0cc6\u0c82\u0cac\u0cb0\u0ccd"_s,
+		u"ಜನವರಿ"_s,
+		u"ಫೆಬ್ರವರಿ"_s,
+		u"ಮಾರ್ಚ್"_s,
+		u"ಏಪ್ರಿಲ್"_s,
+		u"ಮೇ"_s,
+		u"ಜೂನ್"_s,
+		u"ಜುಲೈ"_s,
+		u"ಆಗಸ್ಟ್"_s,
+		u"ಸೆಪ್ಟೆಂಬರ್"_s,
+		u"ಅಕ್ಟೋಬರ್"_s,
+		u"ನವೆಂಬರ್"_s,
+		u"ಡಿಸೆಂಬರ್"_s,
 		""_s
 	}));
 	$var($StringArray, metaValue_MonthAbbreviations, $new($StringArray, {
-		u"\u0c9c\u0ca8\u0cb5\u0cb0\u0cbf"_s,
-		u"\u0cab\u0cc6\u0cac\u0ccd\u0cb0\u0cb5\u0cb0\u0cbf"_s,
-		u"\u0cae\u0cbe\u0cb0\u0ccd\u0c9a\u0ccd"_s,
-		u"\u0c8f\u0caa\u0ccd\u0cb0\u0cbf"_s,
-		u"\u0cae\u0cc7"_s,
-		u"\u0c9c\u0cc2\u0ca8\u0ccd"_s,
-		u"\u0c9c\u0cc1\u0cb2\u0cc8"_s,
-		u"\u0c86\u0c97"_s,
-		u"\u0cb8\u0cc6\u0caa\u0ccd\u0c9f\u0cc6\u0c82"_s,
-		u"\u0c85\u0c95\u0ccd\u0c9f\u0ccb"_s,
-		u"\u0ca8\u0cb5\u0cc6\u0c82"_s,
-		u"\u0ca1\u0cbf\u0cb8\u0cc6\u0c82"_s,
+		u"ಜನವರಿ"_s,
+		u"ಫೆಬ್ರವರಿ"_s,
+		u"ಮಾರ್ಚ್"_s,
+		u"ಏಪ್ರಿ"_s,
+		u"ಮೇ"_s,
+		u"ಜೂನ್"_s,
+		u"ಜುಲೈ"_s,
+		u"ಆಗ"_s,
+		u"ಸೆಪ್ಟೆಂ"_s,
+		u"ಅಕ್ಟೋ"_s,
+		u"ನವೆಂ"_s,
+		u"ಡಿಸೆಂ"_s,
 		""_s
 	}));
 	$var($StringArray, metaValue_MonthNarrows, $new($StringArray, {
-		u"\u0c9c"_s,
-		u"\u0cab\u0cc6"_s,
-		u"\u0cae\u0cbe"_s,
-		u"\u0c8f"_s,
-		u"\u0cae\u0cc7"_s,
-		u"\u0c9c\u0cc2"_s,
-		u"\u0c9c\u0cc1"_s,
-		u"\u0c86"_s,
-		u"\u0cb8\u0cc6"_s,
-		u"\u0c85"_s,
-		u"\u0ca8"_s,
-		u"\u0ca1\u0cbf"_s,
+		u"ಜ"_s,
+		u"ಫೆ"_s,
+		u"ಮಾ"_s,
+		u"ಏ"_s,
+		u"ಮೇ"_s,
+		u"ಜೂ"_s,
+		u"ಜು"_s,
+		u"ಆ"_s,
+		u"ಸೆ"_s,
+		u"ಅ"_s,
+		u"ನ"_s,
+		u"ಡಿ"_s,
 		""_s
 	}));
 	$var($StringArray, metaValue_DayNames, $new($StringArray, {
-		u"\u0cad\u0cbe\u0ca8\u0cc1\u0cb5\u0cbe\u0cb0"_s,
-		u"\u0cb8\u0ccb\u0cae\u0cb5\u0cbe\u0cb0"_s,
-		u"\u0cae\u0c82\u0c97\u0cb3\u0cb5\u0cbe\u0cb0"_s,
-		u"\u0cac\u0cc1\u0ca7\u0cb5\u0cbe\u0cb0"_s,
-		u"\u0c97\u0cc1\u0cb0\u0cc1\u0cb5\u0cbe\u0cb0"_s,
-		u"\u0cb6\u0cc1\u0c95\u0ccd\u0cb0\u0cb5\u0cbe\u0cb0"_s,
-		u"\u0cb6\u0ca8\u0cbf\u0cb5\u0cbe\u0cb0"_s
+		u"ಭಾನುವಾರ"_s,
+		u"ಸೋಮವಾರ"_s,
+		u"ಮಂಗಳವಾರ"_s,
+		u"ಬುಧವಾರ"_s,
+		u"ಗುರುವಾರ"_s,
+		u"ಶುಕ್ರವಾರ"_s,
+		u"ಶನಿವಾರ"_s
 	}));
 	$var($StringArray, metaValue_DayAbbreviations, $new($StringArray, {
-		u"\u0cad\u0cbe\u0ca8\u0cc1"_s,
-		u"\u0cb8\u0ccb\u0cae"_s,
-		u"\u0cae\u0c82\u0c97\u0cb3"_s,
-		u"\u0cac\u0cc1\u0ca7"_s,
-		u"\u0c97\u0cc1\u0cb0\u0cc1"_s,
-		u"\u0cb6\u0cc1\u0c95\u0ccd\u0cb0"_s,
-		u"\u0cb6\u0ca8\u0cbf"_s
+		u"ಭಾನು"_s,
+		u"ಸೋಮ"_s,
+		u"ಮಂಗಳ"_s,
+		u"ಬುಧ"_s,
+		u"ಗುರು"_s,
+		u"ಶುಕ್ರ"_s,
+		u"ಶನಿ"_s
 	}));
 	$var($StringArray, metaValue_DayNarrows, $new($StringArray, {
-		u"\u0cad\u0cbe"_s,
-		u"\u0cb8\u0ccb"_s,
-		u"\u0cae\u0c82"_s,
-		u"\u0cac\u0cc1"_s,
-		u"\u0c97\u0cc1"_s,
-		u"\u0cb6\u0cc1"_s,
-		u"\u0cb6"_s
+		u"ಭಾ"_s,
+		u"ಸೋ"_s,
+		u"ಮಂ"_s,
+		u"ಬು"_s,
+		u"ಗು"_s,
+		u"ಶು"_s,
+		u"ಶ"_s
 	}));
 	$var($StringArray, metaValue_QuarterNames, $new($StringArray, {
-		u"1\u0ca8\u0cc7 \u0ca4\u0ccd\u0cb0\u0cc8\u0cae\u0cbe\u0cb8\u0cbf\u0c95"_s,
-		u"2\u0ca8\u0cc7 \u0ca4\u0ccd\u0cb0\u0cc8\u0cae\u0cbe\u0cb8\u0cbf\u0c95"_s,
-		u"3\u0ca8\u0cc7 \u0ca4\u0ccd\u0cb0\u0cc8\u0cae\u0cbe\u0cb8\u0cbf\u0c95"_s,
-		u"4\u0ca8\u0cc7 \u0ca4\u0ccd\u0cb0\u0cc8\u0cae\u0cbe\u0cb8\u0cbf\u0c95"_s
+		u"1ನೇ ತ್ರೈಮಾಸಿಕ"_s,
+		u"2ನೇ ತ್ರೈಮಾಸಿಕ"_s,
+		u"3ನೇ ತ್ರೈಮಾಸಿಕ"_s,
+		u"4ನೇ ತ್ರೈಮಾಸಿಕ"_s
 	}));
 	$var($StringArray, metaValue_QuarterAbbreviations, $new($StringArray, {
-		u"\u0ca4\u0ccd\u0cb0\u0cc8 1"_s,
-		u"\u0ca4\u0ccd\u0cb0\u0cc8 2"_s,
-		u"\u0ca4\u0ccd\u0cb0\u0cc8 3"_s,
-		u"\u0ca4\u0ccd\u0cb0\u0cc8 4"_s
+		u"ತ್ರೈ 1"_s,
+		u"ತ್ರೈ 2"_s,
+		u"ತ್ರೈ 3"_s,
+		u"ತ್ರೈ 4"_s
 	}));
 	$var($StringArray, metaValue_AmPmMarkers, $new($StringArray, {
-		u"\u0caa\u0cc2\u0cb0\u0ccd\u0cb5\u0cbe\u0cb9\u0ccd\u0ca8"_s,
-		u"\u0c85\u0caa\u0cb0\u0cbe\u0cb9\u0ccd\u0ca8"_s,
-		u"\u0cae\u0ca7\u0ccd\u0caf \u0cb0\u0cbe\u0ca4\u0ccd\u0cb0\u0cbf"_s,
+		u"ಪೂರ್ವಾಹ್ನ"_s,
+		u"ಅಪರಾಹ್ನ"_s,
+		u"ಮಧ್ಯ ರಾತ್ರಿ"_s,
 		""_s,
-		u"\u0cac\u0cc6\u0cb3\u0c97\u0ccd\u0c97\u0cc6"_s,
+		u"ಬೆಳಗ್ಗೆ"_s,
 		""_s,
-		u"\u0cae\u0ca7\u0ccd\u0caf\u0cbe\u0cb9\u0ccd\u0ca8"_s,
+		u"ಮಧ್ಯಾಹ್ನ"_s,
 		""_s,
-		u"\u0cb8\u0c82\u0c9c\u0cc6"_s,
+		u"ಸಂಜೆ"_s,
 		""_s,
-		u"\u0cb0\u0cbe\u0ca4\u0ccd\u0cb0\u0cbf"_s,
+		u"ರಾತ್ರಿ"_s,
 		""_s
 	}));
 	$var($StringArray, metaValue_narrow_AmPmMarkers, $new($StringArray, {
-		u"\u0caa\u0cc2"_s,
-		u"\u0c85"_s,
-		u"\u0cae\u0ca7\u0ccd\u0caf\u0cb0\u0cbe\u0ca4\u0ccd\u0cb0\u0cbf"_s,
+		u"ಪೂ"_s,
+		u"ಅ"_s,
+		u"ಮಧ್ಯರಾತ್ರಿ"_s,
 		""_s,
-		u"\u0cac\u0cc6\u0cb3\u0c97\u0ccd\u0c97\u0cc6"_s,
+		u"ಬೆಳಗ್ಗೆ"_s,
 		""_s,
-		u"\u0cae\u0ca7\u0ccd\u0caf\u0cbe\u0cb9\u0ccd\u0ca8"_s,
+		u"ಮಧ್ಯಾಹ್ನ"_s,
 		""_s,
-		u"\u0cb8\u0c82\u0c9c\u0cc6"_s,
+		u"ಸಂಜೆ"_s,
 		""_s,
-		u"\u0cb0\u0cbe\u0ca4\u0ccd\u0cb0\u0cbf"_s,
+		u"ರಾತ್ರಿ"_s,
 		""_s
 	}));
 	$var($StringArray, metaValue_Eras, $new($StringArray, {
-		u"\u0c95\u0ccd\u0cb0\u0cbf.\u0caa\u0cc2"_s,
-		u"\u0c95\u0ccd\u0cb0\u0cbf.\u0cb6"_s
+		u"ಕ್ರಿ.ಪೂ"_s,
+		u"ಕ್ರಿ.ಶ"_s
 	}));
 	$var($StringArray, metaValue_TimePatterns, $new($StringArray, {
 		"hh:mm:ss a zzzz"_s,
@@ -184,14 +184,14 @@ $ObjectArray2* FormatData_kn::getContents() {
 		"G y-MM-dd"_s
 	}));
 	$var($StringArray, metaValue_java_time_roc_long_Eras, $new($StringArray, {
-		u"\u0c86\u0cb0\u0ccd.\u0c93.\u0cb8\u0cbf.\u0c97\u0cc6 \u0cae\u0cc1\u0c82\u0c9a\u0cc6"_s,
-		u"\u0cae\u0cbf\u0c82\u0c97\u0ccb"_s
+		u"ಆರ್.ಓ.ಸಿ.ಗೆ ಮುಂಚೆ"_s,
+		u"ಮಿಂಗೋ"_s
 	}));
 	$var($StringArray, metaValue_java_time_islamic_long_Eras, $new($StringArray, {
 		""_s,
 		"AH"_s
 	}));
-	$var($String, metaValue_calendarname_gregorian, u"\u0c97\u0ccd\u0cb0\u0cc6\u0c97\u0ccb\u0cb0\u0cbf\u0caf\u0ca8\u0ccd \u0c95\u0ccd\u0caf\u0cbe\u0cb2\u0cc6\u0c82\u0ca1\u0cb0\u0ccd"_s);
+	$var($String, metaValue_calendarname_gregorian, u"ಗ್ರೆಗೋರಿಯನ್ ಕ್ಯಾಲೆಂಡರ್"_s);
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("MonthNames"_s),
@@ -199,11 +199,11 @@ $ObjectArray2* FormatData_kn::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.year"_s),
-			$of(u"\u0cb5\u0cb0\u0ccd\u0cb7"_s)
+			$of(u"ವರ್ಷ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.islamic-umalqura"_s),
-			$of(u"\u0c87\u0cb8\u0ccd\u0cb2\u0cbe\u0cae\u0cbf\u0c95\u0ccd \u0c95\u0ccd\u0caf\u0cbe\u0cb2\u0cc6\u0c82\u0ca1\u0cb0\u0ccd (\u0c89\u0cae\u0ccd \u0c85\u0cb2\u0ccd-\u0c96\u0cc1\u0cb0\u0cbe)"_s)
+			$of(u"ಇಸ್ಲಾಮಿಕ್ ಕ್ಯಾಲೆಂಡರ್ (ಉಮ್ ಅಲ್-ಖುರಾ)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("japanese.AmPmMarkers"_s),
@@ -235,7 +235,7 @@ $ObjectArray2* FormatData_kn::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.islamic-civil"_s),
-			$of(u"\u0c87\u0cb8\u0ccd\u0cb2\u0cbe\u0cae\u0cbf\u0c95\u0ccd-\u0cb8\u0cbf\u0cb5\u0cbf\u0cb2\u0ccd \u0c95\u0ccd\u0caf\u0cbe\u0cb2\u0cc6\u0c82\u0ca1\u0cb0\u0ccd"_s)
+			$of(u"ಇಸ್ಲಾಮಿಕ್-ಸಿವಿಲ್ ಕ್ಯಾಲೆಂಡರ್"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("islamic.narrow.AmPmMarkers"_s),
@@ -259,7 +259,7 @@ $ObjectArray2* FormatData_kn::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.regionFormat.standard"_s),
-			$of(u"{0} \u0caa\u0ccd\u0cb0\u0cae\u0cbe\u0ca3\u0cbf\u0ca4 \u0cb8\u0cae\u0caf"_s)
+			$of(u"{0} ಪ್ರಮಾಣಿತ ಸಮಯ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("japanese.abbreviated.AmPmMarkers"_s),
@@ -267,7 +267,7 @@ $ObjectArray2* FormatData_kn::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.japanese"_s),
-			$of(u"\u0c9c\u0caa\u0cbe\u0ca8\u0cc0\u0cb8\u0ccd \u0c95\u0ccd\u0caf\u0cbe\u0cb2\u0cc6\u0c82\u0ca1\u0cb0\u0ccd"_s)
+			$of(u"ಜಪಾನೀಸ್ ಕ್ಯಾಲೆಂಡರ್"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("japanese.MonthNames"_s),
@@ -288,8 +288,8 @@ $ObjectArray2* FormatData_kn::getContents() {
 		$$new($ObjectArray, {
 			$of("long.Eras"_s),
 			$of($$new($StringArray, {
-				u"\u0c95\u0ccd\u0cb0\u0cbf\u0cb8\u0ccd\u0ca4 \u0caa\u0cc2\u0cb0\u0ccd\u0cb5"_s,
-				u"\u0c95\u0ccd\u0cb0\u0cbf\u0cb8\u0ccd\u0ca4 \u0cb6\u0c95"_s
+				u"ಕ್ರಿಸ್ತ ಪೂರ್ವ"_s,
+				u"ಕ್ರಿಸ್ತ ಶಕ"_s
 			}))
 		}),
 		$$new($ObjectArray, {
@@ -332,8 +332,8 @@ $ObjectArray2* FormatData_kn::getContents() {
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
+				u"‰"_s,
+				u"∞"_s,
 				"NaN"_s,
 				""_s,
 				""_s
@@ -353,11 +353,11 @@ $ObjectArray2* FormatData_kn::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.minute"_s),
-			$of(u"\u0ca8\u0cbf\u0cae\u0cbf\u0cb7"_s)
+			$of(u"ನಿಮಿಷ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("field.era"_s),
-			$of(u"\u0caf\u0cc1\u0c97"_s)
+			$of(u"ಯುಗ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("buddhist.AmPmMarkers"_s),
@@ -374,18 +374,18 @@ $ObjectArray2* FormatData_kn::getContents() {
 		$$new($ObjectArray, {
 			$of("islamic.MonthNames"_s),
 			$of($$new($StringArray, {
-				u"\u0cae\u0cc1\u0cb9\u0cb0\u0cae\u0ccd"_s,
-				u"\u0cb8\u0cab\u0cbe\u0cb0\u0ccd"_s,
-				u"\u0cb0\u0cac\u0cbf\u2018 I"_s,
-				u"\u0cb0\u0cac\u0cbf\u2018 II"_s,
-				u"\u0c9c\u0cc1\u0cae\u0cbe\u0ca6\u0cbe I"_s,
-				u"\u0c9c\u0cc1\u0cae\u0cbe\u0ca6\u0cbe II"_s,
-				u"\u0cb0\u0c9c\u0cac\u0ccd"_s,
-				u"\u0cb6\u2019\u0cac\u0cbe\u0ca8\u0ccd"_s,
-				u"\u0cb0\u0cae\u0ca6\u0cbe\u0ca8\u0ccd"_s,
-				u"\u0cb6\u0cb5\u0ccd\u0cb5\u0cbe\u0cb2\u0ccd"_s,
-				u"\u0ca7\u0cc1\u2018\u0cb2\u0ccd-\u0c95\u0cbf\u2018\u0ca1\u0cbe\u0cb9\u0ccd"_s,
-				u"\u0ca7\u0cc1\u2018\u0cb2\u0ccd-\u0cb9\u0cbf\u0c9c\u0cbe\u0cb9\u0ccd"_s,
+				u"ಮುಹರಮ್"_s,
+				u"ಸಫಾರ್"_s,
+				u"ರಬಿ‘ I"_s,
+				u"ರಬಿ‘ II"_s,
+				u"ಜುಮಾದಾ I"_s,
+				u"ಜುಮಾದಾ II"_s,
+				u"ರಜಬ್"_s,
+				u"ಶ’ಬಾನ್"_s,
+				u"ರಮದಾನ್"_s,
+				u"ಶವ್ವಾಲ್"_s,
+				u"ಧು‘ಲ್-ಕಿ‘ಡಾಹ್"_s,
+				u"ಧು‘ಲ್-ಹಿಜಾಹ್"_s,
 				""_s
 			}))
 		}),
@@ -395,7 +395,7 @@ $ObjectArray2* FormatData_kn::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.roc"_s),
-			$of(u"\u0cae\u0cbf\u0c82\u0c97\u0ccb \u0c95\u0ccd\u0caf\u0cbe\u0cb2\u0cc6\u0c82\u0ca1\u0cb0\u0ccd"_s)
+			$of(u"ಮಿಂಗೋ ಕ್ಯಾಲೆಂಡರ್"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("islamic.DatePatterns"_s),
@@ -411,7 +411,7 @@ $ObjectArray2* FormatData_kn::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.month"_s),
-			$of(u"\u0ca4\u0cbf\u0c82\u0c97\u0cb3\u0cc1"_s)
+			$of(u"ತಿಂಗಳು"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("roc.Eras"_s),
@@ -419,7 +419,7 @@ $ObjectArray2* FormatData_kn::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.second"_s),
-			$of(u"\u0cb8\u0cc6\u0c95\u0cc6\u0c82\u0ca1\u0ccd"_s)
+			$of(u"ಸೆಕೆಂಡ್"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("DayAbbreviations"_s),
@@ -435,7 +435,7 @@ $ObjectArray2* FormatData_kn::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.islamic"_s),
-			$of(u"\u0c87\u0cb8\u0ccd\u0cb2\u0cbe\u0cae\u0cbf\u0c95\u0ccd \u0c95\u0ccd\u0caf\u0cbe\u0cb2\u0cc6\u0c82\u0ca1\u0cb0\u0ccd"_s)
+			$of(u"ಇಸ್ಲಾಮಿಕ್ ಕ್ಯಾಲೆಂಡರ್"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("java.time.roc.long.Eras"_s),
@@ -452,12 +452,12 @@ $ObjectArray2* FormatData_kn::getContents() {
 				","_s,
 				";"_s,
 				"%"_s,
-				u"\u0ce6"_s,
+				u"೦"_s,
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
+				u"‰"_s,
+				u"∞"_s,
 				"NaN"_s,
 				""_s,
 				""_s
@@ -478,24 +478,24 @@ $ObjectArray2* FormatData_kn::getContents() {
 		$$new($ObjectArray, {
 			$of("standalone.MonthAbbreviations"_s),
 			$of($$new($StringArray, {
-				u"\u0c9c\u0ca8"_s,
-				u"\u0cab\u0cc6\u0cac\u0ccd\u0cb0"_s,
-				u"\u0cae\u0cbe\u0cb0\u0ccd\u0c9a\u0ccd"_s,
-				u"\u0c8f\u0caa\u0ccd\u0cb0\u0cbf"_s,
-				u"\u0cae\u0cc7"_s,
-				u"\u0c9c\u0cc2\u0ca8\u0ccd"_s,
-				u"\u0c9c\u0cc1\u0cb2\u0cc8"_s,
-				u"\u0c86\u0c97"_s,
-				u"\u0cb8\u0cc6\u0caa\u0ccd\u0c9f\u0cc6\u0c82"_s,
-				u"\u0c85\u0c95\u0ccd\u0c9f\u0ccb"_s,
-				u"\u0ca8\u0cb5\u0cc6\u0c82"_s,
-				u"\u0ca1\u0cbf\u0cb8\u0cc6\u0c82"_s,
+				u"ಜನ"_s,
+				u"ಫೆಬ್ರ"_s,
+				u"ಮಾರ್ಚ್"_s,
+				u"ಏಪ್ರಿ"_s,
+				u"ಮೇ"_s,
+				u"ಜೂನ್"_s,
+				u"ಜುಲೈ"_s,
+				u"ಆಗ"_s,
+				u"ಸೆಪ್ಟೆಂ"_s,
+				u"ಅಕ್ಟೋ"_s,
+				u"ನವೆಂ"_s,
+				u"ಡಿಸೆಂ"_s,
 				""_s
 			}))
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.regionFormat"_s),
-			$of(u"{0} \u0cb8\u0cae\u0caf"_s)
+			$of(u"{0} ಸಮಯ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("long.CompactNumberPatterns"_s),
@@ -503,18 +503,18 @@ $ObjectArray2* FormatData_kn::getContents() {
 				""_s,
 				""_s,
 				""_s,
-				u"{one:0\' \'\u0cb8\u0cbe\u0cb5\u0cbf\u0cb0 other:0\' \'\u0cb8\u0cbe\u0cb5\u0cbf\u0cb0}"_s,
-				u"{one:00\' \'\u0cb8\u0cbe\u0cb5\u0cbf\u0cb0 other:00\' \'\u0cb8\u0cbe\u0cb5\u0cbf\u0cb0}"_s,
-				u"{one:000\' \'\u0cb8\u0cbe\u0cb5\u0cbf\u0cb0 other:000\' \'\u0cb8\u0cbe\u0cb5\u0cbf\u0cb0}"_s,
-				u"{one:0\' \'\u0cae\u0cbf\u0cb2\u0cbf\u0caf\u0ca8\u0ccd other:0\' \'\u0cae\u0cbf\u0cb2\u0cbf\u0caf\u0ca8\u0ccd}"_s,
-				u"{one:00\' \'\u0cae\u0cbf\u0cb2\u0cbf\u0caf\u0ca8\u0ccd other:00\' \'\u0cae\u0cbf\u0cb2\u0cbf\u0caf\u0ca8\u0ccd}"_s,
-				u"{one:000\' \'\u0cae\u0cbf\u0cb2\u0cbf\u0caf\u0ca8\u0ccd other:000\' \'\u0cae\u0cbf\u0cb2\u0cbf\u0caf\u0ca8\u0ccd}"_s,
-				u"{one:0\' \'\u0cac\u0cbf\u0cb2\u0cbf\u0caf\u0ca8\u0ccd other:0\' \'\u0cac\u0cbf\u0cb2\u0cbf\u0caf\u0ca8\u0ccd}"_s,
-				u"{one:00\' \'\u0cac\u0cbf\u0cb2\u0cbf\u0caf\u0ca8\u0ccd other:00\' \'\u0cac\u0cbf\u0cb2\u0cbf\u0caf\u0ca8\u0ccd}"_s,
-				u"{one:000\' \'\u0cac\u0cbf\u0cb2\u0cbf\u0caf\u0ca8\u0ccd other:000\' \'\u0cac\u0cbf\u0cb2\u0cbf\u0caf\u0ca8\u0ccd}"_s,
-				u"{one:0\' \'\u0c9f\u0ccd\u0cb0\u0cbf\u0cb2\u0cbf\u0caf\u0ca8\u0ccd\u200c other:0\' \'\u0c9f\u0ccd\u0cb0\u0cbf\u0cb2\u0cbf\u0caf\u0ca8\u0ccd\u200c}"_s,
-				u"{one:00\' \'\u0c9f\u0ccd\u0cb0\u0cbf\u0cb2\u0cbf\u0caf\u0ca8\u0ccd\u200c other:00\' \'\u0c9f\u0ccd\u0cb0\u0cbf\u0cb2\u0cbf\u0caf\u0ca8\u0ccd\u200c}"_s,
-				u"{one:000\' \'\u0c9f\u0ccd\u0cb0\u0cbf\u0cb2\u0cbf\u0caf\u0ca8\u0ccd\u200c other:000\' \'\u0c9f\u0ccd\u0cb0\u0cbf\u0cb2\u0cbf\u0caf\u0ca8\u0ccd\u200c}"_s
+				u"{one:0\' \'ಸಾವಿರ other:0\' \'ಸಾವಿರ}"_s,
+				u"{one:00\' \'ಸಾವಿರ other:00\' \'ಸಾವಿರ}"_s,
+				u"{one:000\' \'ಸಾವಿರ other:000\' \'ಸಾವಿರ}"_s,
+				u"{one:0\' \'ಮಿಲಿಯನ್ other:0\' \'ಮಿಲಿಯನ್}"_s,
+				u"{one:00\' \'ಮಿಲಿಯನ್ other:00\' \'ಮಿಲಿಯನ್}"_s,
+				u"{one:000\' \'ಮಿಲಿಯನ್ other:000\' \'ಮಿಲಿಯನ್}"_s,
+				u"{one:0\' \'ಬಿಲಿಯನ್ other:0\' \'ಬಿಲಿಯನ್}"_s,
+				u"{one:00\' \'ಬಿಲಿಯನ್ other:00\' \'ಬಿಲಿಯನ್}"_s,
+				u"{one:000\' \'ಬಿಲಿಯನ್ other:000\' \'ಬಿಲಿಯನ್}"_s,
+				u"{one:0\' \'ಟ್ರಿಲಿಯನ್\u200c other:0\' \'ಟ್ರಿಲಿಯನ್\u200c}"_s,
+				u"{one:00\' \'ಟ್ರಿಲಿಯನ್\u200c other:00\' \'ಟ್ರಿಲಿಯನ್\u200c}"_s,
+				u"{one:000\' \'ಟ್ರಿಲಿಯನ್\u200c other:000\' \'ಟ್ರಿಲಿಯನ್\u200c}"_s
 			}))
 		}),
 		$$new($ObjectArray, {
@@ -571,7 +571,7 @@ $ObjectArray2* FormatData_kn::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.zone"_s),
-			$of(u"\u0cb8\u0cae\u0caf \u0cb5\u0cb2\u0caf"_s)
+			$of(u"ಸಮಯ ವಲಯ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("japanese.QuarterAbbreviations"_s),
@@ -611,7 +611,7 @@ $ObjectArray2* FormatData_kn::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.weekday"_s),
-			$of(u"\u0cb5\u0cbe\u0cb0\u0ca6 \u0ca6\u0cbf\u0ca8"_s)
+			$of(u"ವಾರದ ದಿನ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("japanese.MonthAbbreviations"_s),
@@ -649,7 +649,7 @@ $ObjectArray2* FormatData_kn::getContents() {
 			$of("knda.NumberPatterns"_s),
 			$of($$new($StringArray, {
 				"#,##0.###"_s,
-				u"\u00a4#,##0.00"_s,
+				u"¤#,##0.00"_s,
 				"#,##0%"_s,
 				""_s
 			}))
@@ -676,7 +676,7 @@ $ObjectArray2* FormatData_kn::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.week"_s),
-			$of(u"\u0cb5\u0cbe\u0cb0"_s)
+			$of(u"ವಾರ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("buddhist.MonthNarrows"_s),
@@ -712,18 +712,18 @@ $ObjectArray2* FormatData_kn::getContents() {
 				""_s,
 				""_s,
 				""_s,
-				u"{one:0\u0cb8\u0cbe other:0\u0cb8\u0cbe}"_s,
-				u"{one:00\u0cb8\u0cbe other:00\u0cb8\u0cbe}"_s,
-				u"{one:000\u0cb8\u0cbe other:000\u0cb8\u0cbe}"_s,
-				u"{one:0\u0cae\u0cbf other:0\u0cae\u0cbf}"_s,
-				u"{one:00\u0cae\u0cbf other:00\u0cae\u0cbf}"_s,
-				u"{one:000\u0cae\u0cbf other:000\u0cae\u0cbf}"_s,
-				u"{one:0\u0cac\u0cbf other:0\u0cac\u0cbf}"_s,
-				u"{one:00\u0cac\u0cbf other:00\u0cac\u0cbf}"_s,
-				u"{one:000\u0cac\u0cbf other:000\u0cac\u0cbf}"_s,
-				u"{one:0\u0c9f\u0ccd\u0cb0\u0cbf other:0\u0c9f\u0ccd\u0cb0\u0cbf}"_s,
-				u"{one:00\u0c9f\u0ccd\u0cb0\u0cbf other:00\u0c9f\u0ccd\u0cb0\u0cbf}"_s,
-				u"{one:000\u0c9f\u0ccd\u0cb0\u0cbf other:000\u0c9f\u0ccd\u0cb0\u0cbf}"_s
+				u"{one:0ಸಾ other:0ಸಾ}"_s,
+				u"{one:00ಸಾ other:00ಸಾ}"_s,
+				u"{one:000ಸಾ other:000ಸಾ}"_s,
+				u"{one:0ಮಿ other:0ಮಿ}"_s,
+				u"{one:00ಮಿ other:00ಮಿ}"_s,
+				u"{one:000ಮಿ other:000ಮಿ}"_s,
+				u"{one:0ಬಿ other:0ಬಿ}"_s,
+				u"{one:00ಬಿ other:00ಬಿ}"_s,
+				u"{one:000ಬಿ other:000ಬಿ}"_s,
+				u"{one:0ಟ್ರಿ other:0ಟ್ರಿ}"_s,
+				u"{one:00ಟ್ರಿ other:00ಟ್ರಿ}"_s,
+				u"{one:000ಟ್ರಿ other:000ಟ್ರಿ}"_s
 			}))
 		}),
 		$$new($ObjectArray, {
@@ -736,7 +736,7 @@ $ObjectArray2* FormatData_kn::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.regionFormat.daylight"_s),
-			$of(u"{0} \u0ca6\u0cbf\u0ca8\u0ca6 \u0cb8\u0cae\u0caf"_s)
+			$of(u"{0} ದಿನದ ಸಮಯ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("DatePatterns"_s),
@@ -769,23 +769,23 @@ $ObjectArray2* FormatData_kn::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.hour"_s),
-			$of(u"\u0c97\u0c82\u0c9f\u0cc6"_s)
+			$of(u"ಗಂಟೆ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("islamic.MonthAbbreviations"_s),
 			$of($$new($StringArray, {
-				u"\u0cae\u0cc1\u0cb9\u0ccd."_s,
-				u"\u0cb8\u0cab\u0cbe."_s,
-				u"\u0cb0\u0cac\u0cbf\u2018 I"_s,
-				u"\u0cb0\u0cac\u0cbf\u2018 II"_s,
-				u"\u0c9c\u0cc1\u0cae\u0ccd. I"_s,
-				u"\u0c9c\u0cc1\u0cae\u0ccd. II"_s,
-				u"\u0cb0\u0c9c\u0ccd."_s,
-				u"\u0cb6."_s,
-				u"\u0cb0\u0cae\u0ccd."_s,
-				u"\u0cb6\u0cb5\u0ccd."_s,
-				u"\u0ca7\u0cc1\u2018\u0cb2\u0ccd-\u0c95\u0cbf."_s,
-				u"\u0ca7\u0cc1\u2018\u0cb2\u0ccd-\u0cb9."_s,
+				u"ಮುಹ್."_s,
+				u"ಸಫಾ."_s,
+				u"ರಬಿ‘ I"_s,
+				u"ರಬಿ‘ II"_s,
+				u"ಜುಮ್. I"_s,
+				u"ಜುಮ್. II"_s,
+				u"ರಜ್."_s,
+				u"ಶ."_s,
+				u"ರಮ್."_s,
+				u"ಶವ್."_s,
+				u"ಧು‘ಲ್-ಕಿ."_s,
+				u"ಧು‘ಲ್-ಹ."_s,
 				""_s
 			}))
 		}),
@@ -795,7 +795,7 @@ $ObjectArray2* FormatData_kn::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.buddhist"_s),
-			$of(u"\u0cac\u0ccc\u0ca6\u0ccd\u0ca7\u0cb0 \u0c95\u0ccd\u0caf\u0cbe\u0cb2\u0cc6\u0c82\u0ca1\u0cb0\u0ccd"_s)
+			$of(u"ಬೌದ್ಧರ ಕ್ಯಾಲೆಂಡರ್"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("standalone.MonthNames"_s),
@@ -805,9 +805,9 @@ $ObjectArray2* FormatData_kn::getContents() {
 			$of("latn.NumberPatterns"_s),
 			$of($$new($StringArray, {
 				"#,##0.###"_s,
-				u"\u00a4#,##0.00"_s,
+				u"¤#,##0.00"_s,
 				"#,##0%"_s,
-				u"\u00a4#,##0.00;(\u00a4#,##0.00)"_s
+				u"¤#,##0.00;(¤#,##0.00)"_s
 			}))
 		}),
 		$$new($ObjectArray, {

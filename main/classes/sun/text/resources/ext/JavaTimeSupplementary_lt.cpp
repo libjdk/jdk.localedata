@@ -51,7 +51,7 @@ $ObjectArray2* JavaTimeSupplementary_lt::getContents() {
 		"IV ketvirtis"_s
 	}));
 	$var($StringArray, sharedAmPmMarkers, $new($StringArray, {
-		u"prie\u0161piet"_s,
+		u"priešpiet"_s,
 		"popiet"_s
 	}));
 	$var($StringArray, sharedDatePatterns, $new($StringArray, {
@@ -67,16 +67,16 @@ $ObjectArray2* JavaTimeSupplementary_lt::getContents() {
 		"tr"_s,
 		"kt"_s,
 		"pn"_s,
-		u"\u0161t"_s
+		u"št"_s
 	}));
 	$var($StringArray, sharedDayNames, $new($StringArray, {
 		"sekmadienis"_s,
 		"pirmadienis"_s,
 		"antradienis"_s,
-		u"tre\u010diadienis"_s,
+		u"trečiadienis"_s,
 		"ketvirtadienis"_s,
 		"penktadienis"_s,
-		u"\u0161e\u0161tadienis"_s
+		u"šeštadienis"_s
 	}));
 	$var($StringArray, sharedDayNarrows, $new($StringArray, {
 		"S"_s,
@@ -85,7 +85,7 @@ $ObjectArray2* JavaTimeSupplementary_lt::getContents() {
 		"T"_s,
 		"K"_s,
 		"P"_s,
-		u"\u0160"_s
+		u"Š"_s
 	}));
 	$var($StringArray, sharedNarrowAmPmMarkers, $new($StringArray, {
 		"pr. p."_s,
@@ -98,7 +98,7 @@ $ObjectArray2* JavaTimeSupplementary_lt::getContents() {
 		"y-MM-dd G"_s
 	}));
 	$var($StringArray, sharedEras, $new($StringArray, {
-		u"Prie\u0161 R.O.C."_s,
+		u"Prieš R.O.C."_s,
 		"R.O.C."_s
 	}));
 	return $new($ObjectArray2, {
@@ -112,7 +112,7 @@ $ObjectArray2* JavaTimeSupplementary_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.buddhist"_s),
-			$of(u"budist\u0173 kalendorius"_s)
+			$of(u"budistų kalendorius"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.gregorian"_s),
@@ -128,7 +128,7 @@ $ObjectArray2* JavaTimeSupplementary_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.islamic-civil"_s),
-			$of(u"Islamo kalendorius (lentelinis, pilietin\u0117 era)"_s)
+			$of(u"Islamo kalendorius (lentelinis, pilietinė era)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.islamic-umalqura"_s),
@@ -136,7 +136,7 @@ $ObjectArray2* JavaTimeSupplementary_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.japanese"_s),
-			$of(u"japon\u0173 kalendorius"_s)
+			$of(u"japonų kalendorius"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.roc"_s),
@@ -144,7 +144,7 @@ $ObjectArray2* JavaTimeSupplementary_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.dayperiod"_s),
-			$of(u"iki piet\u0173 / po piet\u0173"_s)
+			$of(u"iki pietų / po pietų"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("field.era"_s),
@@ -156,23 +156,23 @@ $ObjectArray2* JavaTimeSupplementary_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.minute"_s),
-			$of(u"minut\u0117"_s)
+			$of(u"minutė"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("field.month"_s),
-			$of(u"m\u0117nuo"_s)
+			$of(u"mėnuo"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("field.second"_s),
-			$of(u"sekund\u0117"_s)
+			$of(u"sekundė"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("field.week"_s),
-			$of(u"savait\u0117"_s)
+			$of(u"savaitė"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("field.weekday"_s),
-			$of(u"savait\u0117s diena"_s)
+			$of(u"savaitės diena"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("field.year"_s),
@@ -241,9 +241,9 @@ $ObjectArray2* JavaTimeSupplementary_lt::getContents() {
 			$of("java.time.japanese.long.Eras"_s),
 			$of($$new($StringArray, {
 				"po Kristaus"_s,
-				u"Meid\u017ei"_s,
-				u"Tai\u0161o"_s,
-				u"\u0160ova"_s,
+				u"Meidži"_s,
+				u"Taišo"_s,
+				u"Šova"_s,
 				"Heisei"_s,
 				"Reiwa"_s
 			}))
@@ -252,9 +252,9 @@ $ObjectArray2* JavaTimeSupplementary_lt::getContents() {
 			$of("java.time.japanese.short.Eras"_s),
 			$of($$new($StringArray, {
 				"po Kr."_s,
-				u"Meid\u017ei"_s,
-				u"Tai\u0161o"_s,
-				u"\u0160ova"_s,
+				u"Meidži"_s,
+				u"Taišo"_s,
+				u"Šova"_s,
 				"Heisei"_s,
 				"Reiwa"_s
 			}))
@@ -262,7 +262,7 @@ $ObjectArray2* JavaTimeSupplementary_lt::getContents() {
 		$$new($ObjectArray, {
 			$of("java.time.long.Eras"_s),
 			$of($$new($StringArray, {
-				u"prie\u0161 Krist\u0173"_s,
+				u"prieš Kristų"_s,
 				"po Kristaus"_s
 			}))
 		}),
@@ -309,7 +309,7 @@ $ObjectArray2* JavaTimeSupplementary_lt::getContents() {
 				"kov."_s,
 				"bal."_s,
 				"geg."_s,
-				u"bir\u017e."_s,
+				u"birž."_s,
 				"liep."_s,
 				"rugp."_s,
 				"rugs."_s,
@@ -325,15 +325,15 @@ $ObjectArray2* JavaTimeSupplementary_lt::getContents() {
 				"sausio"_s,
 				"vasario"_s,
 				"kovo"_s,
-				u"baland\u017eio"_s,
-				u"gegu\u017e\u0117s"_s,
-				u"bir\u017eelio"_s,
+				u"balandžio"_s,
+				u"gegužės"_s,
+				u"birželio"_s,
 				"liepos"_s,
-				u"rugpj\u016b\u010dio"_s,
-				u"rugs\u0117jo"_s,
+				u"rugpjūčio"_s,
+				u"rugsėjo"_s,
 				"spalio"_s,
-				u"lapkri\u010dio"_s,
-				u"gruod\u017eio"_s,
+				u"lapkričio"_s,
+				u"gruodžio"_s,
 				""_s
 			}))
 		}),
@@ -385,7 +385,7 @@ $ObjectArray2* JavaTimeSupplementary_lt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.hourFormat"_s),
-			$of(u"+HH:mm;\u2212HH:mm"_s)
+			$of(u"+HH:mm;−HH:mm"_s)
 		})
 	});
 }

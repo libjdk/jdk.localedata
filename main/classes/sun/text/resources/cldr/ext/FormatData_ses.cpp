@@ -40,13 +40,13 @@ void FormatData_ses::init$() {
 $ObjectArray2* FormatData_ses::getContents() {
 	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_MonthNames, $new($StringArray, {
-		u"\u017danwiye"_s,
+		u"Žanwiye"_s,
 		"Feewiriye"_s,
 		"Marsi"_s,
 		"Awiril"_s,
 		"Me"_s,
-		u"\u017duwe\u014b"_s,
-		u"\u017duyye"_s,
+		u"Žuweŋ"_s,
+		u"Žuyye"_s,
 		"Ut"_s,
 		"Sektanbur"_s,
 		"Oktoobur"_s,
@@ -55,13 +55,13 @@ $ObjectArray2* FormatData_ses::getContents() {
 		""_s
 	}));
 	$var($StringArray, metaValue_MonthAbbreviations, $new($StringArray, {
-		u"\u017dan"_s,
+		u"Žan"_s,
 		"Fee"_s,
 		"Mar"_s,
 		"Awi"_s,
 		"Me"_s,
-		u"\u017duw"_s,
-		u"\u017duy"_s,
+		u"Žuw"_s,
+		u"Žuy"_s,
 		"Ut"_s,
 		"Sek"_s,
 		"Okt"_s,
@@ -70,13 +70,13 @@ $ObjectArray2* FormatData_ses::getContents() {
 		""_s
 	}));
 	$var($StringArray, metaValue_MonthNarrows, $new($StringArray, {
-		u"\u017d"_s,
+		u"Ž"_s,
 		"F"_s,
 		"M"_s,
 		"A"_s,
 		"M"_s,
-		u"\u017d"_s,
-		u"\u017d"_s,
+		u"Ž"_s,
+		u"Ž"_s,
 		"U"_s,
 		"S"_s,
 		"O"_s,
@@ -299,15 +299,15 @@ $ObjectArray2* FormatData_ses::getContents() {
 			$of("latn.NumberElements"_s),
 			$of($$new($StringArray, {
 				"."_s,
-				u"\u00a0"_s,
+				u" "_s,
 				";"_s,
 				"%"_s,
 				"0"_s,
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
+				u"‰"_s,
+				u"∞"_s,
 				"NaN"_s,
 				""_s,
 				""_s
@@ -478,7 +478,7 @@ $ObjectArray2* FormatData_ses::getContents() {
 			$of("latn.NumberPatterns"_s),
 			$of($$new($StringArray, {
 				"#,##0.###"_s,
-				u"#,##0.00\u00a4"_s,
+				u"#,##0.00¤"_s,
 				"#,##0%"_s,
 				""_s
 			}))

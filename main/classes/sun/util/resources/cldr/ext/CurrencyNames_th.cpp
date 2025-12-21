@@ -522,7 +522,7 @@ $ObjectArray2* CurrencyNames_th::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("JPY"_s),
-			$of(u"\u00a5"_s)
+			$of(u"¥"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("KES"_s),
@@ -918,7 +918,7 @@ $ObjectArray2* CurrencyNames_th::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("THB"_s),
-			$of(u"\u0e3f"_s)
+			$of(u"฿"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("TJR"_s),
@@ -1158,1191 +1158,1191 @@ $ObjectArray2* CurrencyNames_th::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("adp"_s),
-			$of(u"\u0e40\u0e1b\u0e40\u0e0b\u0e15\u0e32\u0e2d\u0e31\u0e19\u0e14\u0e2d\u0e23\u0e4c\u0e23\u0e32"_s)
+			$of(u"เปเซตาอันดอร์รา"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("aed"_s),
-			$of(u"\u0e40\u0e14\u0e2d\u0e23\u0e4c\u0e41\u0e2e\u0e21\u0e2a\u0e2b\u0e23\u0e31\u0e10\u0e2d\u0e32\u0e2b\u0e23\u0e31\u0e1a\u0e40\u0e2d\u0e21\u0e34\u0e40\u0e23\u0e15\u0e2a\u0e4c"_s)
+			$of(u"เดอร์แฮมสหรัฐอาหรับเอมิเรตส์"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("afa"_s),
-			$of(u"\u0e2d\u0e31\u0e1f\u0e01\u0e32\u0e19\u0e35\u0e2d\u0e31\u0e1f\u0e01\u0e32\u0e19\u0e34\u0e2a\u0e16\u0e32\u0e19 (1927\u20132002)"_s)
+			$of(u"อัฟกานีอัฟกานิสถาน (1927–2002)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("afn"_s),
-			$of(u"\u0e2d\u0e31\u0e1f\u0e01\u0e32\u0e19\u0e34\u0e2d\u0e31\u0e1f\u0e01\u0e32\u0e19\u0e34\u0e2a\u0e16\u0e32\u0e19"_s)
+			$of(u"อัฟกานิอัฟกานิสถาน"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("all"_s),
-			$of(u"\u0e40\u0e25\u0e01\u0e41\u0e2d\u0e25\u0e40\u0e1a\u0e40\u0e19\u0e35\u0e22"_s)
+			$of(u"เลกแอลเบเนีย"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("amd"_s),
-			$of(u"\u0e41\u0e14\u0e23\u0e21\u0e2d\u0e32\u0e23\u0e4c\u0e40\u0e21\u0e40\u0e19\u0e35\u0e22"_s)
+			$of(u"แดรมอาร์เมเนีย"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ang"_s),
-			$of(u"\u0e01\u0e34\u0e25\u0e40\u0e14\u0e2d\u0e23\u0e4c\u0e40\u0e19\u0e40\u0e18\u0e2d\u0e23\u0e4c\u0e41\u0e25\u0e19\u0e14\u0e4c\u0e41\u0e2d\u0e19\u0e17\u0e34\u0e25\u0e25\u0e34\u0e2a"_s)
+			$of(u"กิลเดอร์เนเธอร์แลนด์แอนทิลลิส"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("aoa"_s),
-			$of(u"\u0e01\u0e27\u0e32\u0e19\u0e0b\u0e32\u0e41\u0e2d\u0e07\u0e42\u0e01\u0e25\u0e32"_s)
+			$of(u"กวานซาแองโกลา"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("aok"_s),
-			$of(u"\u0e01\u0e27\u0e32\u0e19\u0e0b\u0e32\u0e41\u0e2d\u0e07\u0e42\u0e01\u0e25\u0e32 (1977\u20131990)"_s)
+			$of(u"กวานซาแองโกลา (1977–1990)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("aon"_s),
-			$of(u"\u0e19\u0e34\u0e27\u0e01\u0e27\u0e32\u0e19\u0e0b\u0e32\u0e41\u0e2d\u0e07\u0e42\u0e01\u0e25\u0e32 (1990\u20132000)"_s)
+			$of(u"นิวกวานซาแองโกลา (1990–2000)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("aor"_s),
-			$of(u"\u0e01\u0e27\u0e32\u0e19\u0e0b\u0e32\u0e23\u0e35\u0e08\u0e31\u0e2a\u0e17\u0e32\u0e42\u0e14\u0e41\u0e2d\u0e07\u0e42\u0e01\u0e25\u0e32 (1995\u20131999)"_s)
+			$of(u"กวานซารีจัสทาโดแองโกลา (1995–1999)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ara"_s),
-			$of(u"\u0e2d\u0e2d\u0e2a\u0e15\u0e23\u0e31\u0e25\u0e2d\u0e32\u0e23\u0e4c\u0e40\u0e08\u0e19\u0e15\u0e34\u0e19\u0e32"_s)
+			$of(u"ออสตรัลอาร์เจนตินา"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("arl"_s),
-			$of(u"\u0e40\u0e1b\u0e42\u0e0b\u0e40\u0e25\u0e22\u0e4c\u0e2d\u0e32\u0e23\u0e4c\u0e40\u0e08\u0e19\u0e15\u0e34\u0e19\u0e32 (1970\u20131983)"_s)
+			$of(u"เปโซเลย์อาร์เจนตินา (1970–1983)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("arm"_s),
-			$of(u"\u0e40\u0e1b\u0e42\u0e0b\u0e2d\u0e32\u0e23\u0e4c\u0e40\u0e08\u0e19\u0e15\u0e34\u0e19\u0e32 (1881\u20131970)"_s)
+			$of(u"เปโซอาร์เจนตินา (1881–1970)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("arp"_s),
-			$of(u"\u0e40\u0e1b\u0e42\u0e0b\u0e2d\u0e32\u0e23\u0e4c\u0e40\u0e08\u0e19\u0e15\u0e34\u0e19\u0e32 (1983\u20131985)"_s)
+			$of(u"เปโซอาร์เจนตินา (1983–1985)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ars"_s),
-			$of(u"\u0e40\u0e1b\u0e42\u0e0b\u0e2d\u0e32\u0e23\u0e4c\u0e40\u0e08\u0e19\u0e15\u0e34\u0e19\u0e32"_s)
+			$of(u"เปโซอาร์เจนตินา"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ats"_s),
-			$of(u"\u0e0a\u0e34\u0e25\u0e25\u0e34\u0e07\u0e2d\u0e2d\u0e2a\u0e40\u0e15\u0e23\u0e35\u0e22"_s)
+			$of(u"ชิลลิงออสเตรีย"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("aud"_s),
-			$of(u"\u0e14\u0e2d\u0e25\u0e25\u0e32\u0e23\u0e4c\u0e2d\u0e2d\u0e2a\u0e40\u0e15\u0e23\u0e40\u0e25\u0e35\u0e22"_s)
+			$of(u"ดอลลาร์ออสเตรเลีย"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("awg"_s),
-			$of(u"\u0e1f\u0e25\u0e2d\u0e23\u0e34\u0e19\u0e2d\u0e32\u0e23\u0e39\u0e1a\u0e32"_s)
+			$of(u"ฟลอรินอารูบา"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("azm"_s),
-			$of(u"\u0e21\u0e32\u0e19\u0e31\u0e15\u0e2d\u0e32\u0e40\u0e0b\u0e2d\u0e23\u0e4c\u0e44\u0e1a\u0e08\u0e32\u0e19 (1993\u20132006)"_s)
+			$of(u"มานัตอาเซอร์ไบจาน (1993–2006)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("azn"_s),
-			$of(u"\u0e21\u0e32\u0e19\u0e31\u0e15\u0e2d\u0e32\u0e40\u0e0b\u0e2d\u0e23\u0e4c\u0e44\u0e1a\u0e08\u0e32\u0e19"_s)
+			$of(u"มานัตอาเซอร์ไบจาน"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bad"_s),
-			$of(u"\u0e14\u0e35\u0e19\u0e32\u0e23\u0e4c\u0e1a\u0e2d\u0e2a\u0e40\u0e19\u0e35\u0e22-\u0e40\u0e2e\u0e2d\u0e23\u0e4c\u0e40\u0e0b\u0e42\u0e01\u0e27\u0e35\u0e19\u0e32"_s)
+			$of(u"ดีนาร์บอสเนีย-เฮอร์เซโกวีนา"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bam"_s),
-			$of(u"\u0e21\u0e32\u0e23\u0e4c\u0e01\u0e1a\u0e2d\u0e2a\u0e40\u0e19\u0e35\u0e22-\u0e40\u0e2e\u0e2d\u0e23\u0e4c\u0e40\u0e0b\u0e42\u0e01\u0e27\u0e35\u0e19\u0e32"_s)
+			$of(u"มาร์กบอสเนีย-เฮอร์เซโกวีนา"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ban"_s),
-			$of(u"\u0e14\u0e35\u0e19\u0e32\u0e23\u0e4c\u0e43\u0e2b\u0e21\u0e48\u0e1a\u0e2d\u0e2a\u0e40\u0e19\u0e35\u0e22-\u0e40\u0e2e\u0e2d\u0e23\u0e4c\u0e40\u0e0b\u0e42\u0e01\u0e27\u0e35\u0e19\u0e32 (1994\u20131997)"_s)
+			$of(u"ดีนาร์ใหม่บอสเนีย-เฮอร์เซโกวีนา (1994–1997)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bbd"_s),
-			$of(u"\u0e14\u0e2d\u0e25\u0e25\u0e32\u0e23\u0e4c\u0e1a\u0e32\u0e23\u0e4c\u0e40\u0e1a\u0e42\u0e14\u0e2a"_s)
+			$of(u"ดอลลาร์บาร์เบโดส"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bdt"_s),
-			$of(u"\u0e15\u0e32\u0e01\u0e32\u0e1a\u0e31\u0e07\u0e01\u0e25\u0e32\u0e40\u0e17\u0e28"_s)
+			$of(u"ตากาบังกลาเทศ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bec"_s),
-			$of(u"\u0e1f\u0e23\u0e31\u0e07\u0e01\u0e4c\u0e40\u0e1a\u0e25\u0e40\u0e22\u0e35\u0e22\u0e21 (\u0e40\u0e1b\u0e25\u0e35\u0e48\u0e22\u0e19\u0e41\u0e1b\u0e25\u0e07\u0e44\u0e14\u0e49)"_s)
+			$of(u"ฟรังก์เบลเยียม (เปลี่ยนแปลงได้)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bef"_s),
-			$of(u"\u0e1f\u0e23\u0e31\u0e07\u0e01\u0e4c\u0e40\u0e1a\u0e25\u0e40\u0e22\u0e35\u0e22\u0e21"_s)
+			$of(u"ฟรังก์เบลเยียม"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bel"_s),
-			$of(u"\u0e1f\u0e23\u0e31\u0e07\u0e01\u0e4c\u0e40\u0e1a\u0e25\u0e40\u0e22\u0e35\u0e22\u0e21 (\u0e01\u0e32\u0e23\u0e40\u0e07\u0e34\u0e19)"_s)
+			$of(u"ฟรังก์เบลเยียม (การเงิน)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bgl"_s),
-			$of(u"\u0e2e\u0e32\u0e23\u0e4c\u0e14\u0e40\u0e25\u0e1f\u0e1a\u0e31\u0e25\u0e41\u0e01\u0e40\u0e23\u0e35\u0e22"_s)
+			$of(u"ฮาร์ดเลฟบัลแกเรีย"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bgm"_s),
-			$of(u"\u0e42\u0e0b\u0e40\u0e0a\u0e35\u0e22\u0e25\u0e25\u0e34\u0e2a\u0e15\u0e4c\u0e40\u0e25\u0e1f\u0e1a\u0e31\u0e25\u0e41\u0e01\u0e40\u0e23\u0e35\u0e22"_s)
+			$of(u"โซเชียลลิสต์เลฟบัลแกเรีย"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bgn"_s),
-			$of(u"\u0e40\u0e25\u0e1f\u0e1a\u0e31\u0e25\u0e41\u0e01\u0e40\u0e23\u0e35\u0e22"_s)
+			$of(u"เลฟบัลแกเรีย"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bgo"_s),
-			$of(u"\u0e40\u0e25\u0e1f\u0e1a\u0e31\u0e25\u0e40\u0e01\u0e40\u0e23\u0e35\u0e22 (1879\u20131952)"_s)
+			$of(u"เลฟบัลเกเรีย (1879–1952)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bhd"_s),
-			$of(u"\u0e14\u0e35\u0e19\u0e32\u0e23\u0e4c\u0e1a\u0e32\u0e2b\u0e4c\u0e40\u0e23\u0e19"_s)
+			$of(u"ดีนาร์บาห์เรน"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bif"_s),
-			$of(u"\u0e1f\u0e23\u0e31\u0e07\u0e01\u0e4c\u0e1a\u0e38\u0e23\u0e38\u0e19\u0e14\u0e35"_s)
+			$of(u"ฟรังก์บุรุนดี"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bmd"_s),
-			$of(u"\u0e14\u0e2d\u0e25\u0e25\u0e32\u0e23\u0e4c\u0e40\u0e1a\u0e2d\u0e23\u0e4c\u0e21\u0e34\u0e27\u0e14\u0e32"_s)
+			$of(u"ดอลลาร์เบอร์มิวดา"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bnd"_s),
-			$of(u"\u0e14\u0e2d\u0e25\u0e25\u0e32\u0e23\u0e4c\u0e1a\u0e23\u0e39\u0e44\u0e19"_s)
+			$of(u"ดอลลาร์บรูไน"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bob"_s),
-			$of(u"\u0e42\u0e1a\u0e25\u0e34\u0e40\u0e27\u0e35\u0e22\u0e42\u0e19\u0e42\u0e1a\u0e25\u0e34\u0e40\u0e27\u0e35\u0e22"_s)
+			$of(u"โบลิเวียโนโบลิเวีย"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bol"_s),
-			$of(u"\u0e42\u0e1a\u0e25\u0e34\u0e40\u0e27\u0e35\u0e22\u0e42\u0e19\u0e42\u0e1a\u0e25\u0e34\u0e40\u0e27\u0e35\u0e22 (1863\u20131963)"_s)
+			$of(u"โบลิเวียโนโบลิเวีย (1863–1963)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bop"_s),
-			$of(u"\u0e40\u0e1b\u0e42\u0e0b\u0e42\u0e1a\u0e25\u0e34\u0e40\u0e27\u0e35\u0e22"_s)
+			$of(u"เปโซโบลิเวีย"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bov"_s),
-			$of(u"\u0e21\u0e1f\u0e14\u0e2d\u0e25\u0e42\u0e1a\u0e25\u0e34\u0e40\u0e27\u0e35\u0e22"_s)
+			$of(u"มฟดอลโบลิเวีย"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("brb"_s),
-			$of(u"\u0e04\u0e23\u0e39\u0e40\u0e0b\u0e42\u0e23\u0e42\u0e19\u0e42\u0e27\u0e1a\u0e23\u0e32\u0e0b\u0e34\u0e25 (1967\u20131986)"_s)
+			$of(u"ครูเซโรโนโวบราซิล (1967–1986)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("brc"_s),
-			$of(u"\u0e04\u0e23\u0e39\u0e0b\u0e32\u0e42\u0e14\u0e1a\u0e23\u0e32\u0e0b\u0e34\u0e25"_s)
+			$of(u"ครูซาโดบราซิล"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bre"_s),
-			$of(u"\u0e04\u0e23\u0e39\u0e40\u0e0b\u0e42\u0e23\u0e1a\u0e23\u0e32\u0e0b\u0e34\u0e25 (1990\u20131993)"_s)
+			$of(u"ครูเซโรบราซิล (1990–1993)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("brl"_s),
-			$of(u"\u0e40\u0e23\u0e35\u0e22\u0e25\u0e1a\u0e23\u0e32\u0e0b\u0e34\u0e25"_s)
+			$of(u"เรียลบราซิล"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("brn"_s),
-			$of(u"\u0e04\u0e23\u0e39\u0e0b\u0e32\u0e42\u0e14\u0e42\u0e19\u0e42\u0e27\u0e1a\u0e23\u0e32\u0e0b\u0e34\u0e25"_s)
+			$of(u"ครูซาโดโนโวบราซิล"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("brr"_s),
-			$of(u"\u0e04\u0e23\u0e39\u0e40\u0e0b\u0e42\u0e23\u0e1a\u0e23\u0e32\u0e0b\u0e34\u0e25"_s)
+			$of(u"ครูเซโรบราซิล"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("brz"_s),
-			$of(u"\u0e04\u0e23\u0e39\u0e40\u0e0b\u0e42\u0e23\u0e1a\u0e23\u0e32\u0e0b\u0e34\u0e25 (1942\u20131967)"_s)
+			$of(u"ครูเซโรบราซิล (1942–1967)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bsd"_s),
-			$of(u"\u0e14\u0e2d\u0e25\u0e25\u0e32\u0e23\u0e4c\u0e1a\u0e32\u0e2e\u0e32\u0e21\u0e32\u0e2a"_s)
+			$of(u"ดอลลาร์บาฮามาส"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("btn"_s),
-			$of(u"\u0e40\u0e2d\u0e47\u0e07\u0e01\u0e38\u0e25\u0e15\u0e23\u0e31\u0e21\u0e20\u0e39\u0e0f\u0e32\u0e19"_s)
+			$of(u"เอ็งกุลตรัมภูฏาน"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("buk"_s),
-			$of(u"\u0e08\u0e4a\u0e32\u0e14\u0e1e\u0e21\u0e48\u0e32"_s)
+			$of(u"จ๊าดพม่า"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bwp"_s),
-			$of(u"\u0e1b\u0e39\u0e25\u0e32\u0e1a\u0e2d\u0e15\u0e2a\u0e27\u0e32\u0e19\u0e32"_s)
+			$of(u"ปูลาบอตสวานา"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("byb"_s),
-			$of(u"\u0e19\u0e34\u0e27\u0e23\u0e39\u0e40\u0e1a\u0e34\u0e25\u0e40\u0e1a\u0e25\u0e32\u0e23\u0e38\u0e2a (1994\u20131999)"_s)
+			$of(u"นิวรูเบิลเบลารุส (1994–1999)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("byn"_s),
-			$of(u"\u0e23\u0e39\u0e40\u0e1a\u0e34\u0e25\u0e40\u0e1a\u0e25\u0e32\u0e23\u0e38\u0e2a"_s)
+			$of(u"รูเบิลเบลารุส"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("byr"_s),
-			$of(u"\u0e23\u0e39\u0e40\u0e1a\u0e34\u0e25\u0e40\u0e1a\u0e25\u0e32\u0e23\u0e38\u0e2a (2000\u20132016)"_s)
+			$of(u"รูเบิลเบลารุส (2000–2016)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bzd"_s),
-			$of(u"\u0e14\u0e2d\u0e25\u0e25\u0e32\u0e23\u0e4c\u0e40\u0e1a\u0e25\u0e35\u0e0b"_s)
+			$of(u"ดอลลาร์เบลีซ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cad"_s),
-			$of(u"\u0e14\u0e2d\u0e25\u0e25\u0e32\u0e23\u0e4c\u0e41\u0e04\u0e19\u0e32\u0e14\u0e32"_s)
+			$of(u"ดอลลาร์แคนาดา"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cdf"_s),
-			$of(u"\u0e1f\u0e23\u0e31\u0e07\u0e01\u0e4c\u0e04\u0e2d\u0e07\u0e42\u0e01"_s)
+			$of(u"ฟรังก์คองโก"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("che"_s),
-			$of(u"\u0e22\u0e39\u0e42\u0e23\u0e14\u0e31\u0e1a\u0e40\u0e1a\u0e34\u0e25\u0e22\u0e39\u0e44\u0e2d\u0e2d\u0e32\u0e23\u0e4c"_s)
+			$of(u"ยูโรดับเบิลยูไออาร์"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("chf"_s),
-			$of(u"\u0e1f\u0e23\u0e31\u0e07\u0e01\u0e4c\u0e2a\u0e27\u0e34\u0e2a"_s)
+			$of(u"ฟรังก์สวิส"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("chw"_s),
-			$of(u"\u0e1f\u0e23\u0e31\u0e07\u0e01\u0e4c\u0e14\u0e31\u0e1a\u0e40\u0e1a\u0e34\u0e25\u0e22\u0e39\u0e44\u0e2d\u0e2d\u0e32\u0e23\u0e4c"_s)
+			$of(u"ฟรังก์ดับเบิลยูไออาร์"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cle"_s),
-			$of(u"\u0e40\u0e2d\u0e2a\u0e04\u0e39\u0e42\u0e14\u0e0a\u0e34\u0e25\u0e35"_s)
+			$of(u"เอสคูโดชิลี"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("clf"_s),
-			$of(u"\u0e1f\u0e39\u0e40\u0e21\u0e19\u0e42\u0e15\u0e0a\u0e34\u0e25\u0e35"_s)
+			$of(u"ฟูเมนโตชิลี"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("clp"_s),
-			$of(u"\u0e40\u0e1b\u0e42\u0e0b\u0e0a\u0e34\u0e25\u0e35"_s)
+			$of(u"เปโซชิลี"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cnh"_s),
-			$of(u"\u0e2b\u0e22\u0e27\u0e19"_s)
+			$of(u"หยวน"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cny"_s),
-			$of(u"\u0e2b\u0e22\u0e27\u0e19\u0e08\u0e35\u0e19"_s)
+			$of(u"หยวนจีน"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cop"_s),
-			$of(u"\u0e40\u0e1b\u0e42\u0e0b\u0e42\u0e04\u0e25\u0e2d\u0e21\u0e40\u0e1a\u0e35\u0e22"_s)
+			$of(u"เปโซโคลอมเบีย"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cou"_s),
-			$of(u"\u0e27\u0e32\u0e40\u0e25\u0e2d\u0e23\u0e4c\u0e40\u0e23\u0e35\u0e22\u0e25\u0e42\u0e04\u0e25\u0e2d\u0e21\u0e40\u0e1a\u0e35\u0e22"_s)
+			$of(u"วาเลอร์เรียลโคลอมเบีย"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("crc"_s),
-			$of(u"\u0e42\u0e01\u0e25\u0e2d\u0e07\u0e04\u0e2d\u0e2a\u0e15\u0e32\u0e23\u0e34\u0e01\u0e32"_s)
+			$of(u"โกลองคอสตาริกา"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("csd"_s),
-			$of(u"\u0e14\u0e35\u0e19\u0e32\u0e23\u0e4c\u0e40\u0e0b\u0e2d\u0e23\u0e4c\u0e40\u0e1a\u0e35\u0e22\u0e40\u0e01\u0e48\u0e32"_s)
+			$of(u"ดีนาร์เซอร์เบียเก่า"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("csk"_s),
-			$of(u"\u0e2e\u0e32\u0e23\u0e4c\u0e14\u0e42\u0e04\u0e23\u0e39\u0e19\u0e32\u0e40\u0e0a\u0e47\u0e01\u0e42\u0e01\u0e2a\u0e42\u0e25\u0e27\u0e31\u0e01"_s)
+			$of(u"ฮาร์ดโครูนาเช็กโกสโลวัก"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cuc"_s),
-			$of(u"\u0e40\u0e1b\u0e42\u0e0b\u0e04\u0e34\u0e27\u0e1a\u0e32 (\u0e41\u0e1b\u0e25\u0e07\u0e2a\u0e20\u0e32\u0e1e)"_s)
+			$of(u"เปโซคิวบา (แปลงสภาพ)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cup"_s),
-			$of(u"\u0e40\u0e1b\u0e42\u0e0b\u0e04\u0e34\u0e27\u0e1a\u0e32"_s)
+			$of(u"เปโซคิวบา"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cve"_s),
-			$of(u"\u0e40\u0e2d\u0e2a\u0e04\u0e39\u0e42\u0e14\u0e40\u0e04\u0e1b\u0e40\u0e27\u0e34\u0e23\u0e4c\u0e14"_s)
+			$of(u"เอสคูโดเคปเวิร์ด"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cyp"_s),
-			$of(u"\u0e1b\u0e2d\u0e19\u0e14\u0e4c\u0e44\u0e0b\u0e1b\u0e23\u0e31\u0e2a"_s)
+			$of(u"ปอนด์ไซปรัส"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("czk"_s),
-			$of(u"\u0e42\u0e04\u0e23\u0e39\u0e19\u0e32\u0e2a\u0e32\u0e18\u0e32\u0e23\u0e13\u0e23\u0e31\u0e10\u0e40\u0e0a\u0e47\u0e01"_s)
+			$of(u"โครูนาสาธารณรัฐเช็ก"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ddm"_s),
-			$of(u"\u0e21\u0e32\u0e23\u0e4c\u0e01\u0e40\u0e22\u0e2d\u0e23\u0e21\u0e31\u0e19\u0e15\u0e30\u0e27\u0e31\u0e19\u0e2d\u0e2d\u0e01"_s)
+			$of(u"มาร์กเยอรมันตะวันออก"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("dem"_s),
-			$of(u"\u0e21\u0e32\u0e23\u0e4c\u0e01\u0e40\u0e22\u0e2d\u0e23\u0e21\u0e31\u0e19"_s)
+			$of(u"มาร์กเยอรมัน"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("djf"_s),
-			$of(u"\u0e1f\u0e23\u0e31\u0e07\u0e01\u0e4c\u0e08\u0e34\u0e1a\u0e39\u0e15\u0e35"_s)
+			$of(u"ฟรังก์จิบูตี"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("dkk"_s),
-			$of(u"\u0e42\u0e04\u0e23\u0e19\u0e40\u0e14\u0e19\u0e21\u0e32\u0e23\u0e4c\u0e01"_s)
+			$of(u"โครนเดนมาร์ก"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("dop"_s),
-			$of(u"\u0e40\u0e1b\u0e42\u0e0b\u0e42\u0e14\u0e21\u0e34\u0e19\u0e34\u0e01\u0e31\u0e19"_s)
+			$of(u"เปโซโดมินิกัน"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("dzd"_s),
-			$of(u"\u0e14\u0e35\u0e19\u0e32\u0e23\u0e4c\u0e41\u0e2d\u0e25\u0e08\u0e35\u0e40\u0e23\u0e35\u0e22"_s)
+			$of(u"ดีนาร์แอลจีเรีย"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ecs"_s),
-			$of(u"\u0e0b\u0e39\u0e40\u0e01\u0e23\u0e40\u0e2d\u0e01\u0e27\u0e32\u0e14\u0e2d\u0e23\u0e4c"_s)
+			$of(u"ซูเกรเอกวาดอร์"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ecv"_s),
-			$of(u"\u0e27\u0e32\u0e40\u0e25\u0e2d\u0e23\u0e4c\u0e04\u0e2d\u0e19\u0e2a\u0e41\u0e15\u0e19\u0e15\u0e4c\u0e40\u0e2d\u0e01\u0e27\u0e32\u0e14\u0e2d\u0e23\u0e4c"_s)
+			$of(u"วาเลอร์คอนสแตนต์เอกวาดอร์"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("eek"_s),
-			$of(u"\u0e04\u0e23\u0e39\u0e19\u0e40\u0e2d\u0e2a\u0e42\u0e15\u0e40\u0e19\u0e35\u0e22"_s)
+			$of(u"ครูนเอสโตเนีย"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("egp"_s),
-			$of(u"\u0e1b\u0e2d\u0e19\u0e14\u0e4c\u0e2d\u0e35\u0e22\u0e34\u0e1b\u0e15\u0e4c"_s)
+			$of(u"ปอนด์อียิปต์"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ern"_s),
-			$of(u"\u0e41\u0e19\u0e01\u0e1f\u0e32\u0e40\u0e2d\u0e23\u0e34\u0e40\u0e17\u0e23\u0e35\u0e22"_s)
+			$of(u"แนกฟาเอริเทรีย"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("esa"_s),
-			$of(u"\u0e40\u0e1b\u0e40\u0e0b\u0e15\u0e32\u0e2a\u0e40\u0e1b\u0e19 (\u0e1a\u0e31\u0e0d\u0e0a\u0e35\u0e40\u0e2d)"_s)
+			$of(u"เปเซตาสเปน (บัญชีเอ)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("esb"_s),
-			$of(u"\u0e40\u0e1b\u0e40\u0e0b\u0e15\u0e32\u0e2a\u0e40\u0e1b\u0e19 (\u0e1a\u0e31\u0e0d\u0e0a\u0e35\u0e17\u0e35\u0e48\u0e40\u0e1b\u0e25\u0e35\u0e48\u0e22\u0e19\u0e41\u0e1b\u0e25\u0e07\u0e44\u0e14\u0e49)"_s)
+			$of(u"เปเซตาสเปน (บัญชีที่เปลี่ยนแปลงได้)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("esp"_s),
-			$of(u"\u0e40\u0e1b\u0e40\u0e0b\u0e15\u0e32\u0e2a\u0e40\u0e1b\u0e19"_s)
+			$of(u"เปเซตาสเปน"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("etb"_s),
-			$of(u"\u0e40\u0e1a\u0e2d\u0e23\u0e23\u0e4c\u0e40\u0e2d\u0e18\u0e34\u0e42\u0e2d\u0e40\u0e1b\u0e35\u0e22"_s)
+			$of(u"เบอรร์เอธิโอเปีย"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("eur"_s),
-			$of(u"\u0e22\u0e39\u0e42\u0e23"_s)
+			$of(u"ยูโร"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("fim"_s),
-			$of(u"\u0e21\u0e32\u0e23\u0e4c\u0e01\u0e01\u0e32\u0e1f\u0e34\u0e19\u0e41\u0e25\u0e19\u0e14\u0e4c"_s)
+			$of(u"มาร์กกาฟินแลนด์"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("fjd"_s),
-			$of(u"\u0e14\u0e2d\u0e25\u0e25\u0e32\u0e23\u0e4c\u0e1f\u0e34\u0e08\u0e34"_s)
+			$of(u"ดอลลาร์ฟิจิ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("fkp"_s),
-			$of(u"\u0e1b\u0e2d\u0e19\u0e14\u0e4c\u0e2b\u0e21\u0e39\u0e48\u0e40\u0e01\u0e32\u0e30\u0e1f\u0e2d\u0e25\u0e4c\u0e01\u0e41\u0e25\u0e19\u0e14\u0e4c"_s)
+			$of(u"ปอนด์หมู่เกาะฟอล์กแลนด์"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("frf"_s),
-			$of(u"\u0e1f\u0e23\u0e31\u0e07\u0e01\u0e4c\u0e1d\u0e23\u0e31\u0e48\u0e07\u0e40\u0e28\u0e2a"_s)
+			$of(u"ฟรังก์ฝรั่งเศส"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gbp"_s),
-			$of(u"\u0e1b\u0e2d\u0e19\u0e14\u0e4c\u0e2a\u0e40\u0e15\u0e2d\u0e23\u0e4c\u0e25\u0e34\u0e07 (\u0e2a\u0e2b\u0e23\u0e32\u0e0a\u0e2d\u0e32\u0e13\u0e32\u0e08\u0e31\u0e01\u0e23)"_s)
+			$of(u"ปอนด์สเตอร์ลิง (สหราชอาณาจักร)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gek"_s),
-			$of(u"\u0e04\u0e39\u0e1b\u0e2d\u0e19\u0e25\u0e32\u0e23\u0e34\u0e15\u0e08\u0e2d\u0e23\u0e4c\u0e40\u0e08\u0e35\u0e22"_s)
+			$of(u"คูปอนลาริตจอร์เจีย"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gel"_s),
-			$of(u"\u0e25\u0e32\u0e23\u0e35\u0e08\u0e2d\u0e23\u0e4c\u0e40\u0e08\u0e35\u0e22"_s)
+			$of(u"ลารีจอร์เจีย"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ghc"_s),
-			$of(u"\u0e40\u0e0b\u0e14\u0e35\u0e01\u0e32\u0e19\u0e32 (1979\u20132007)"_s)
+			$of(u"เซดีกานา (1979–2007)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ghs"_s),
-			$of(u"\u0e40\u0e0b\u0e14\u0e35\u0e01\u0e32\u0e19\u0e32"_s)
+			$of(u"เซดีกานา"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gip"_s),
-			$of(u"\u0e1b\u0e2d\u0e19\u0e14\u0e4c\u0e22\u0e34\u0e1a\u0e23\u0e2d\u0e25\u0e15\u0e32\u0e23\u0e4c"_s)
+			$of(u"ปอนด์ยิบรอลตาร์"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gmd"_s),
-			$of(u"\u0e14\u0e32\u0e25\u0e32\u0e0b\u0e35\u0e41\u0e01\u0e21\u0e40\u0e1a\u0e35\u0e22"_s)
+			$of(u"ดาลาซีแกมเบีย"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gnf"_s),
-			$of(u"\u0e1f\u0e23\u0e31\u0e07\u0e01\u0e4c\u0e01\u0e34\u0e19\u0e35"_s)
+			$of(u"ฟรังก์กินี"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gns"_s),
-			$of(u"\u0e44\u0e0b\u0e25\u0e35\u0e01\u0e34\u0e19\u0e35"_s)
+			$of(u"ไซลีกินี"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gqe"_s),
-			$of(u"\u0e40\u0e2d\u0e47\u0e01\u0e40\u0e27\u0e40\u0e25\u0e2d\u0e34\u0e40\u0e04\u0e27\u0e17\u0e2d\u0e40\u0e23\u0e35\u0e22\u0e25\u0e01\u0e34\u0e19\u0e35"_s)
+			$of(u"เอ็กเวเลอิเควทอเรียลกินี"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("grd"_s),
-			$of(u"\u0e14\u0e23\u0e31\u0e0a\u0e21\u0e32\u0e01\u0e23\u0e35\u0e01"_s)
+			$of(u"ดรัชมากรีก"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gtq"_s),
-			$of(u"\u0e40\u0e04\u0e27\u0e15\u0e0b\u0e31\u0e25\u0e01\u0e31\u0e27\u0e40\u0e15\u0e21\u0e32\u0e25\u0e32"_s)
+			$of(u"เควตซัลกัวเตมาลา"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gwe"_s),
-			$of(u"\u0e40\u0e2d\u0e2a\u0e04\u0e39\u0e42\u0e14\u0e01\u0e34\u0e19\u0e35\u0e42\u0e1b\u0e23\u0e15\u0e38\u0e40\u0e01\u0e2a"_s)
+			$of(u"เอสคูโดกินีโปรตุเกส"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gwp"_s),
-			$of(u"\u0e40\u0e1b\u0e42\u0e0b\u0e01\u0e34\u0e19\u0e35-\u0e1a\u0e34\u0e2a\u0e40\u0e0b\u0e32"_s)
+			$of(u"เปโซกินี-บิสเซา"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gyd"_s),
-			$of(u"\u0e14\u0e2d\u0e25\u0e25\u0e32\u0e23\u0e4c\u0e01\u0e32\u0e22\u0e2d\u0e32\u0e19\u0e32"_s)
+			$of(u"ดอลลาร์กายอานา"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("hkd"_s),
-			$of(u"\u0e14\u0e2d\u0e25\u0e25\u0e32\u0e23\u0e4c\u0e2e\u0e48\u0e2d\u0e07\u0e01\u0e07"_s)
+			$of(u"ดอลลาร์ฮ่องกง"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("hnl"_s),
-			$of(u"\u0e40\u0e25\u0e21\u0e1b\u0e34\u0e23\u0e32\u0e2e\u0e2d\u0e19\u0e14\u0e39\u0e23\u0e31\u0e2a"_s)
+			$of(u"เลมปิราฮอนดูรัส"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("hrd"_s),
-			$of(u"\u0e14\u0e35\u0e19\u0e32\u0e23\u0e4c\u0e42\u0e04\u0e23\u0e40\u0e2d\u0e40\u0e0a\u0e35\u0e22"_s)
+			$of(u"ดีนาร์โครเอเชีย"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("hrk"_s),
-			$of(u"\u0e04\u0e39\u0e19\u0e32\u0e42\u0e04\u0e23\u0e40\u0e2d\u0e40\u0e0a\u0e35\u0e22"_s)
+			$of(u"คูนาโครเอเชีย"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("htg"_s),
-			$of(u"\u0e01\u0e39\u0e23\u0e4c\u0e14\u0e40\u0e2e\u0e15\u0e34"_s)
+			$of(u"กูร์ดเฮติ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("huf"_s),
-			$of(u"\u0e1f\u0e2d\u0e23\u0e34\u0e19\u0e15\u0e4c\u0e2e\u0e31\u0e07\u0e01\u0e32\u0e23\u0e35"_s)
+			$of(u"ฟอรินต์ฮังการี"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("idr"_s),
-			$of(u"\u0e23\u0e39\u0e40\u0e1b\u0e35\u0e22\u0e2b\u0e4c\u0e2d\u0e34\u0e19\u0e42\u0e14\u0e19\u0e35\u0e40\u0e0b\u0e35\u0e22"_s)
+			$of(u"รูเปียห์อินโดนีเซีย"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("iep"_s),
-			$of(u"\u0e1b\u0e2d\u0e19\u0e14\u0e4c\u0e44\u0e2d\u0e23\u0e34\u0e0a"_s)
+			$of(u"ปอนด์ไอริช"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ilp"_s),
-			$of(u"\u0e1b\u0e2d\u0e19\u0e14\u0e4c\u0e2d\u0e34\u0e2a\u0e23\u0e32\u0e40\u0e2d\u0e25"_s)
+			$of(u"ปอนด์อิสราเอล"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ils"_s),
-			$of(u"\u0e19\u0e34\u0e27\u0e40\u0e0a\u0e40\u0e01\u0e25\u0e2d\u0e34\u0e2a\u0e23\u0e32\u0e40\u0e2d\u0e25"_s)
+			$of(u"นิวเชเกลอิสราเอล"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("inr"_s),
-			$of(u"\u0e23\u0e39\u0e1b\u0e35\u0e2d\u0e34\u0e19\u0e40\u0e14\u0e35\u0e22"_s)
+			$of(u"รูปีอินเดีย"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("iqd"_s),
-			$of(u"\u0e14\u0e35\u0e19\u0e32\u0e23\u0e4c\u0e2d\u0e34\u0e23\u0e31\u0e01"_s)
+			$of(u"ดีนาร์อิรัก"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("irr"_s),
-			$of(u"\u0e40\u0e23\u0e35\u0e22\u0e25\u0e2d\u0e34\u0e2b\u0e23\u0e48\u0e32\u0e19"_s)
+			$of(u"เรียลอิหร่าน"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("isk"_s),
-			$of(u"\u0e42\u0e04\u0e23\u0e19\u0e32\u0e44\u0e2d\u0e0b\u0e4c\u0e41\u0e25\u0e19\u0e14\u0e4c"_s)
+			$of(u"โครนาไอซ์แลนด์"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("itl"_s),
-			$of(u"\u0e25\u0e35\u0e23\u0e32\u0e2d\u0e34\u0e15\u0e32\u0e25\u0e35"_s)
+			$of(u"ลีราอิตาลี"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("jmd"_s),
-			$of(u"\u0e14\u0e2d\u0e25\u0e25\u0e32\u0e23\u0e4c\u0e08\u0e32\u0e40\u0e21\u0e01\u0e32"_s)
+			$of(u"ดอลลาร์จาเมกา"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("jod"_s),
-			$of(u"\u0e14\u0e35\u0e19\u0e32\u0e23\u0e4c\u0e08\u0e2d\u0e23\u0e4c\u0e41\u0e14\u0e19"_s)
+			$of(u"ดีนาร์จอร์แดน"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("jpy"_s),
-			$of(u"\u0e40\u0e22\u0e19\u0e0d\u0e35\u0e48\u0e1b\u0e38\u0e48\u0e19"_s)
+			$of(u"เยนญี่ปุ่น"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kes"_s),
-			$of(u"\u0e0a\u0e34\u0e25\u0e25\u0e34\u0e07\u0e40\u0e04\u0e19\u0e22\u0e32"_s)
+			$of(u"ชิลลิงเคนยา"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kgs"_s),
-			$of(u"\u0e0b\u0e2d\u0e21\u0e04\u0e35\u0e23\u0e4c\u0e01\u0e35\u0e0b\u0e2a\u0e16\u0e32\u0e19"_s)
+			$of(u"ซอมคีร์กีซสถาน"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("khr"_s),
-			$of(u"\u0e40\u0e23\u0e35\u0e22\u0e25\u0e01\u0e31\u0e21\u0e1e\u0e39\u0e0a\u0e32"_s)
+			$of(u"เรียลกัมพูชา"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kmf"_s),
-			$of(u"\u0e1f\u0e23\u0e31\u0e07\u0e01\u0e4c\u0e04\u0e2d\u0e42\u0e21\u0e42\u0e23\u0e2a"_s)
+			$of(u"ฟรังก์คอโมโรส"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kpw"_s),
-			$of(u"\u0e27\u0e2d\u0e19\u0e40\u0e01\u0e32\u0e2b\u0e25\u0e35\u0e40\u0e2b\u0e19\u0e37\u0e2d"_s)
+			$of(u"วอนเกาหลีเหนือ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("krh"_s),
-			$of(u"\u0e2e\u0e27\u0e32\u0e19\u0e40\u0e01\u0e32\u0e2b\u0e25\u0e35\u0e43\u0e15\u0e49 (1953\u20131962)"_s)
+			$of(u"ฮวานเกาหลีใต้ (1953–1962)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kro"_s),
-			$of(u"\u0e27\u0e2d\u0e19\u0e40\u0e01\u0e32\u0e2b\u0e25\u0e35\u0e43\u0e15\u0e49 (1945\u20131953)"_s)
+			$of(u"วอนเกาหลีใต้ (1945–1953)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("krw"_s),
-			$of(u"\u0e27\u0e2d\u0e19\u0e40\u0e01\u0e32\u0e2b\u0e25\u0e35\u0e43\u0e15\u0e49"_s)
+			$of(u"วอนเกาหลีใต้"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kwd"_s),
-			$of(u"\u0e14\u0e35\u0e19\u0e32\u0e23\u0e4c\u0e04\u0e39\u0e40\u0e27\u0e15"_s)
+			$of(u"ดีนาร์คูเวต"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kyd"_s),
-			$of(u"\u0e14\u0e2d\u0e25\u0e25\u0e32\u0e23\u0e4c\u0e2b\u0e21\u0e39\u0e48\u0e40\u0e01\u0e32\u0e30\u0e40\u0e04\u0e22\u0e4c\u0e41\u0e21\u0e19"_s)
+			$of(u"ดอลลาร์หมู่เกาะเคย์แมน"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kzt"_s),
-			$of(u"\u0e40\u0e17\u0e07\u0e40\u0e08\u0e04\u0e32\u0e0b\u0e31\u0e04\u0e2a\u0e16\u0e32\u0e19"_s)
+			$of(u"เทงเจคาซัคสถาน"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lak"_s),
-			$of(u"\u0e01\u0e35\u0e1a\u0e25\u0e32\u0e27"_s)
+			$of(u"กีบลาว"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lbp"_s),
-			$of(u"\u0e1b\u0e2d\u0e19\u0e14\u0e4c\u0e40\u0e25\u0e1a\u0e32\u0e19\u0e2d\u0e19"_s)
+			$of(u"ปอนด์เลบานอน"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lkr"_s),
-			$of(u"\u0e23\u0e39\u0e1b\u0e35\u0e28\u0e23\u0e35\u0e25\u0e31\u0e07\u0e01\u0e32"_s)
+			$of(u"รูปีศรีลังกา"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lrd"_s),
-			$of(u"\u0e14\u0e2d\u0e25\u0e25\u0e32\u0e23\u0e4c\u0e44\u0e25\u0e1a\u0e35\u0e40\u0e23\u0e35\u0e22"_s)
+			$of(u"ดอลลาร์ไลบีเรีย"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lsl"_s),
-			$of(u"\u0e42\u0e25\u0e15\u0e35\u0e40\u0e25\u0e42\u0e0b\u0e42\u0e17"_s)
+			$of(u"โลตีเลโซโท"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ltl"_s),
-			$of(u"\u0e25\u0e35\u0e15\u0e31\u0e2a\u0e25\u0e34\u0e17\u0e31\u0e27\u0e40\u0e19\u0e35\u0e22"_s)
+			$of(u"ลีตัสลิทัวเนีย"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ltt"_s),
-			$of(u"\u0e17\u0e32\u0e42\u0e25\u0e19\u0e31\u0e2a\u0e25\u0e34\u0e17\u0e31\u0e27\u0e40\u0e19\u0e35\u0e22"_s)
+			$of(u"ทาโลนัสลิทัวเนีย"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("luc"_s),
-			$of(u"\u0e04\u0e2d\u0e19\u0e40\u0e27\u0e2d\u0e23\u0e4c\u0e17\u0e34\u0e40\u0e1a\u0e34\u0e25\u0e1f\u0e23\u0e31\u0e07\u0e01\u0e4c\u0e25\u0e31\u0e01\u0e40\u0e0b\u0e21\u0e40\u0e1a\u0e34\u0e23\u0e4c\u0e01"_s)
+			$of(u"คอนเวอร์ทิเบิลฟรังก์ลักเซมเบิร์ก"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("luf"_s),
-			$of(u"\u0e1f\u0e23\u0e31\u0e07\u0e01\u0e4c\u0e25\u0e31\u0e01\u0e40\u0e0b\u0e21\u0e40\u0e1a\u0e34\u0e23\u0e4c\u0e01"_s)
+			$of(u"ฟรังก์ลักเซมเบิร์ก"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lul"_s),
-			$of(u"\u0e44\u0e1f\u0e41\u0e19\u0e25\u0e40\u0e0a\u0e35\u0e22\u0e25\u0e1f\u0e23\u0e31\u0e07\u0e01\u0e4c\u0e25\u0e31\u0e01\u0e40\u0e0b\u0e21\u0e40\u0e1a\u0e34\u0e23\u0e4c\u0e01"_s)
+			$of(u"ไฟแนลเชียลฟรังก์ลักเซมเบิร์ก"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lvl"_s),
-			$of(u"\u0e25\u0e31\u0e15\u0e2a\u0e4c\u0e25\u0e31\u0e15\u0e40\u0e27\u0e35\u0e22"_s)
+			$of(u"ลัตส์ลัตเวีย"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lvr"_s),
-			$of(u"\u0e23\u0e39\u0e40\u0e1a\u0e34\u0e25\u0e25\u0e31\u0e15\u0e40\u0e27\u0e35\u0e22"_s)
+			$of(u"รูเบิลลัตเวีย"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lyd"_s),
-			$of(u"\u0e14\u0e35\u0e19\u0e32\u0e23\u0e4c\u0e25\u0e34\u0e40\u0e1a\u0e35\u0e22"_s)
+			$of(u"ดีนาร์ลิเบีย"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mad"_s),
-			$of(u"\u0e14\u0e35\u0e41\u0e23\u0e2b\u0e4c\u0e21\u0e42\u0e21\u0e23\u0e47\u0e2d\u0e01\u0e42\u0e01"_s)
+			$of(u"ดีแรห์มโมร็อกโก"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("maf"_s),
-			$of(u"\u0e1f\u0e23\u0e31\u0e07\u0e01\u0e4c\u0e42\u0e21\u0e23\u0e47\u0e2d\u0e01\u0e42\u0e01"_s)
+			$of(u"ฟรังก์โมร็อกโก"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mcf"_s),
-			$of(u"\u0e1f\u0e23\u0e31\u0e07\u0e01\u0e4c\u0e42\u0e21\u0e19\u0e32\u0e42\u0e01"_s)
+			$of(u"ฟรังก์โมนาโก"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mdc"_s),
-			$of(u"\u0e1a\u0e31\u0e15\u0e23\u0e1b\u0e31\u0e19\u0e2a\u0e48\u0e27\u0e19\u0e21\u0e2d\u0e25\u0e42\u0e14\u0e27\u0e32"_s)
+			$of(u"บัตรปันส่วนมอลโดวา"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mdl"_s),
-			$of(u"\u0e25\u0e34\u0e27\u0e21\u0e2d\u0e25\u0e42\u0e14\u0e27\u0e32"_s)
+			$of(u"ลิวมอลโดวา"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mga"_s),
-			$of(u"\u0e2d\u0e32\u0e40\u0e23\u0e35\u0e22\u0e23\u0e35\u0e21\u0e32\u0e25\u0e32\u0e01\u0e32\u0e0b\u0e35"_s)
+			$of(u"อาเรียรีมาลากาซี"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mgf"_s),
-			$of(u"\u0e1f\u0e23\u0e31\u0e07\u0e01\u0e4c\u0e21\u0e32\u0e14\u0e32\u0e01\u0e31\u0e2a\u0e01\u0e32\u0e23\u0e4c"_s)
+			$of(u"ฟรังก์มาดากัสการ์"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mkd"_s),
-			$of(u"\u0e14\u0e35\u0e19\u0e32\u0e23\u0e4c\u0e21\u0e32\u0e0b\u0e34\u0e42\u0e14\u0e40\u0e19\u0e35\u0e22"_s)
+			$of(u"ดีนาร์มาซิโดเนีย"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mkn"_s),
-			$of(u"\u0e14\u0e35\u0e19\u0e32\u0e23\u0e4c\u0e21\u0e32\u0e0b\u0e34\u0e42\u0e14\u0e40\u0e19\u0e35\u0e22 (1992\u20131993)"_s)
+			$of(u"ดีนาร์มาซิโดเนีย (1992–1993)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mlf"_s),
-			$of(u"\u0e1f\u0e23\u0e31\u0e07\u0e01\u0e4c\u0e21\u0e32\u0e25\u0e35"_s)
+			$of(u"ฟรังก์มาลี"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mmk"_s),
-			$of(u"\u0e08\u0e4a\u0e32\u0e15\u0e1e\u0e21\u0e48\u0e32"_s)
+			$of(u"จ๊าตพม่า"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mnt"_s),
-			$of(u"\u0e17\u0e39\u0e01\u0e23\u0e34\u0e01\u0e21\u0e2d\u0e07\u0e42\u0e01\u0e40\u0e25\u0e35\u0e22"_s)
+			$of(u"ทูกริกมองโกเลีย"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mop"_s),
-			$of(u"\u0e1b\u0e32\u0e15\u0e32\u0e01\u0e32\u0e21\u0e32\u0e40\u0e01\u0e4a\u0e32"_s)
+			$of(u"ปาตากามาเก๊า"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mro"_s),
-			$of(u"\u0e2d\u0e39\u0e01\u0e35\u0e22\u0e32\u0e21\u0e2d\u0e23\u0e34\u0e40\u0e15\u0e40\u0e19\u0e35\u0e22 (1973\u20132017)"_s)
+			$of(u"อูกียามอริเตเนีย (1973–2017)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mru"_s),
-			$of(u"\u0e2d\u0e39\u0e01\u0e35\u0e22\u0e32\u0e21\u0e2d\u0e23\u0e34\u0e40\u0e15\u0e40\u0e19\u0e35\u0e22"_s)
+			$of(u"อูกียามอริเตเนีย"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mtl"_s),
-			$of(u"\u0e25\u0e35\u0e23\u0e32\u0e21\u0e2d\u0e25\u0e15\u0e32"_s)
+			$of(u"ลีรามอลตา"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mtp"_s),
-			$of(u"\u0e1b\u0e2d\u0e19\u0e14\u0e4c\u0e21\u0e2d\u0e25\u0e15\u0e32"_s)
+			$of(u"ปอนด์มอลตา"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mur"_s),
-			$of(u"\u0e23\u0e39\u0e1b\u0e35\u0e21\u0e2d\u0e23\u0e34\u0e40\u0e0a\u0e35\u0e22\u0e2a"_s)
+			$of(u"รูปีมอริเชียส"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mvr"_s),
-			$of(u"\u0e23\u0e39\u0e1f\u0e34\u0e22\u0e32\u0e21\u0e31\u0e25\u0e14\u0e35\u0e1f\u0e2a\u0e4c"_s)
+			$of(u"รูฟิยามัลดีฟส์"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mwk"_s),
-			$of(u"\u0e04\u0e27\u0e32\u0e0a\u0e32\u0e21\u0e32\u0e25\u0e32\u0e27\u0e35"_s)
+			$of(u"ควาชามาลาวี"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mxn"_s),
-			$of(u"\u0e40\u0e1b\u0e42\u0e0b\u0e40\u0e21\u0e47\u0e01\u0e0b\u0e34\u0e42\u0e01"_s)
+			$of(u"เปโซเม็กซิโก"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mxp"_s),
-			$of(u"\u0e40\u0e07\u0e34\u0e19\u0e40\u0e1b\u0e42\u0e0b\u0e40\u0e21\u0e47\u0e01\u0e0b\u0e34\u0e42\u0e01 (1861\u20131992)"_s)
+			$of(u"เงินเปโซเม็กซิโก (1861–1992)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mxv"_s),
-			$of(u"\u0e22\u0e39\u0e19\u0e34\u0e41\u0e14\u0e14 \u0e14\u0e35 \u0e2d\u0e34\u0e19\u0e40\u0e27\u0e2d\u0e23\u0e4c\u0e0a\u0e31\u0e48\u0e19 \u0e40\u0e21\u0e47\u0e01\u0e0b\u0e34\u0e42\u0e01"_s)
+			$of(u"ยูนิแดด ดี อินเวอร์ชั่น เม็กซิโก"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("myr"_s),
-			$of(u"\u0e23\u0e34\u0e07\u0e01\u0e34\u0e15\u0e21\u0e32\u0e40\u0e25\u0e40\u0e0b\u0e35\u0e22"_s)
+			$of(u"ริงกิตมาเลเซีย"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mze"_s),
-			$of(u"\u0e40\u0e2d\u0e2a\u0e04\u0e39\u0e42\u0e14\u0e42\u0e21\u0e0b\u0e31\u0e21\u0e1a\u0e34\u0e01"_s)
+			$of(u"เอสคูโดโมซัมบิก"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mzm"_s),
-			$of(u"\u0e40\u0e21\u0e15\u0e34\u0e04\u0e31\u0e25\u0e42\u0e21\u0e0b\u0e31\u0e21\u0e1a\u0e34\u0e01\u0e40\u0e01\u0e48\u0e32"_s)
+			$of(u"เมติคัลโมซัมบิกเก่า"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mzn"_s),
-			$of(u"\u0e40\u0e21\u0e15\u0e34\u0e04\u0e31\u0e25\u0e42\u0e21\u0e0b\u0e31\u0e21\u0e1a\u0e34\u0e01"_s)
+			$of(u"เมติคัลโมซัมบิก"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("nad"_s),
-			$of(u"\u0e14\u0e2d\u0e25\u0e25\u0e32\u0e23\u0e4c\u0e19\u0e32\u0e21\u0e34\u0e40\u0e1a\u0e35\u0e22"_s)
+			$of(u"ดอลลาร์นามิเบีย"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ngn"_s),
-			$of(u"\u0e44\u0e19\u0e23\u0e32\u0e44\u0e19\u0e08\u0e35\u0e40\u0e23\u0e35\u0e22"_s)
+			$of(u"ไนราไนจีเรีย"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("nic"_s),
-			$of(u"\u0e04\u0e2d\u0e23\u0e4c\u0e42\u0e14\u0e1a\u0e32\u0e19\u0e34\u0e01\u0e32\u0e23\u0e32\u0e01\u0e31\u0e27"_s)
+			$of(u"คอร์โดบานิการากัว"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("nio"_s),
-			$of(u"\u0e01\u0e2d\u0e23\u0e4c\u0e42\u0e14\u0e1a\u0e32\u0e19\u0e34\u0e01\u0e32\u0e23\u0e32\u0e01\u0e31\u0e27"_s)
+			$of(u"กอร์โดบานิการากัว"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("nlg"_s),
-			$of(u"\u0e01\u0e34\u0e25\u0e40\u0e14\u0e2d\u0e23\u0e4c\u0e40\u0e19\u0e40\u0e18\u0e2d\u0e23\u0e4c\u0e41\u0e25\u0e19\u0e14\u0e4c"_s)
+			$of(u"กิลเดอร์เนเธอร์แลนด์"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("nok"_s),
-			$of(u"\u0e42\u0e04\u0e23\u0e19\u0e19\u0e2d\u0e23\u0e4c\u0e40\u0e27\u0e22\u0e4c"_s)
+			$of(u"โครนนอร์เวย์"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("npr"_s),
-			$of(u"\u0e23\u0e39\u0e1b\u0e35\u0e40\u0e19\u0e1b\u0e32\u0e25"_s)
+			$of(u"รูปีเนปาล"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("nzd"_s),
-			$of(u"\u0e14\u0e2d\u0e25\u0e25\u0e32\u0e23\u0e4c\u0e19\u0e34\u0e27\u0e0b\u0e35\u0e41\u0e25\u0e19\u0e14\u0e4c"_s)
+			$of(u"ดอลลาร์นิวซีแลนด์"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("omr"_s),
-			$of(u"\u0e40\u0e23\u0e35\u0e22\u0e25\u0e42\u0e2d\u0e21\u0e32\u0e19"_s)
+			$of(u"เรียลโอมาน"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pab"_s),
-			$of(u"\u0e1a\u0e31\u0e25\u0e1a\u0e31\u0e27\u0e1b\u0e32\u0e19\u0e32\u0e21\u0e32"_s)
+			$of(u"บัลบัวปานามา"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pei"_s),
-			$of(u"\u0e2d\u0e34\u0e19\u0e15\u0e35\u0e40\u0e1b\u0e23\u0e39"_s)
+			$of(u"อินตีเปรู"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pen"_s),
-			$of(u"\u0e0b\u0e2d\u0e25\u0e40\u0e1b\u0e23\u0e39"_s)
+			$of(u"ซอลเปรู"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pes"_s),
-			$of(u"\u0e0b\u0e2d\u0e25\u0e40\u0e1b\u0e23\u0e39 (1863\u20131965)"_s)
+			$of(u"ซอลเปรู (1863–1965)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pgk"_s),
-			$of(u"\u0e01\u0e35\u0e19\u0e32\u0e1b\u0e32\u0e1b\u0e31\u0e27\u0e19\u0e34\u0e27\u0e01\u0e34\u0e19\u0e35"_s)
+			$of(u"กีนาปาปัวนิวกินี"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("php"_s),
-			$of(u"\u0e40\u0e1b\u0e42\u0e0b\u0e1f\u0e34\u0e25\u0e34\u0e1b\u0e1b\u0e34\u0e19\u0e2a\u0e4c"_s)
+			$of(u"เปโซฟิลิปปินส์"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pkr"_s),
-			$of(u"\u0e23\u0e39\u0e1b\u0e35\u0e1b\u0e32\u0e01\u0e35\u0e2a\u0e16\u0e32\u0e19"_s)
+			$of(u"รูปีปากีสถาน"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pln"_s),
-			$of(u"\u0e0b\u0e25\u0e2d\u0e15\u0e35\u0e42\u0e1b\u0e41\u0e25\u0e19\u0e14\u0e4c"_s)
+			$of(u"ซลอตีโปแลนด์"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("plz"_s),
-			$of(u"\u0e0b\u0e25\u0e2d\u0e15\u0e35\u0e42\u0e1b\u0e41\u0e25\u0e19\u0e14\u0e4c (1950\u20131995)"_s)
+			$of(u"ซลอตีโปแลนด์ (1950–1995)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pte"_s),
-			$of(u"\u0e40\u0e2d\u0e2a\u0e04\u0e39\u0e42\u0e14\u0e42\u0e1b\u0e23\u0e15\u0e38\u0e40\u0e01\u0e2a"_s)
+			$of(u"เอสคูโดโปรตุเกส"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pyg"_s),
-			$of(u"\u0e01\u0e27\u0e32\u0e23\u0e32\u0e19\u0e35\u0e1b\u0e32\u0e23\u0e32\u0e01\u0e27\u0e31\u0e22"_s)
+			$of(u"กวารานีปารากวัย"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("qar"_s),
-			$of(u"\u0e40\u0e23\u0e35\u0e22\u0e25\u0e01\u0e32\u0e15\u0e32\u0e23\u0e4c"_s)
+			$of(u"เรียลกาตาร์"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("rhd"_s),
-			$of(u"\u0e14\u0e2d\u0e25\u0e25\u0e32\u0e23\u0e4c\u0e42\u0e23\u0e14\u0e35\u0e40\u0e0b\u0e35\u0e22"_s)
+			$of(u"ดอลลาร์โรดีเซีย"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("rol"_s),
-			$of(u"\u0e25\u0e34\u0e27\u0e42\u0e23\u0e21\u0e32\u0e40\u0e19\u0e35\u0e22\u0e40\u0e01\u0e48\u0e32"_s)
+			$of(u"ลิวโรมาเนียเก่า"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ron"_s),
-			$of(u"\u0e25\u0e34\u0e27\u0e42\u0e23\u0e21\u0e32\u0e40\u0e19\u0e35\u0e22"_s)
+			$of(u"ลิวโรมาเนีย"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("rsd"_s),
-			$of(u"\u0e14\u0e35\u0e19\u0e32\u0e23\u0e4c\u0e40\u0e0b\u0e2d\u0e23\u0e4c\u0e40\u0e1a\u0e35\u0e22"_s)
+			$of(u"ดีนาร์เซอร์เบีย"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("rub"_s),
-			$of(u"\u0e23\u0e39\u0e40\u0e1a\u0e34\u0e25\u0e23\u0e31\u0e2a\u0e40\u0e0b\u0e35\u0e22"_s)
+			$of(u"รูเบิลรัสเซีย"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("rur"_s),
-			$of(u"\u0e23\u0e39\u0e40\u0e1a\u0e34\u0e25\u0e23\u0e31\u0e2a\u0e40\u0e0b\u0e35\u0e22 (1991\u20131998)"_s)
+			$of(u"รูเบิลรัสเซีย (1991–1998)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("rwf"_s),
-			$of(u"\u0e1f\u0e23\u0e31\u0e07\u0e01\u0e4c\u0e23\u0e27\u0e31\u0e19\u0e14\u0e32"_s)
+			$of(u"ฟรังก์รวันดา"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sar"_s),
-			$of(u"\u0e23\u0e34\u0e22\u0e31\u0e25\u0e0b\u0e32\u0e2d\u0e38\u0e14\u0e35\u0e2d\u0e32\u0e23\u0e30\u0e40\u0e1a\u0e35\u0e22"_s)
+			$of(u"ริยัลซาอุดีอาระเบีย"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sbd"_s),
-			$of(u"\u0e14\u0e2d\u0e25\u0e25\u0e32\u0e23\u0e4c\u0e2b\u0e21\u0e39\u0e48\u0e40\u0e01\u0e32\u0e30\u0e42\u0e0b\u0e42\u0e25\u0e21\u0e2d\u0e19"_s)
+			$of(u"ดอลลาร์หมู่เกาะโซโลมอน"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("scr"_s),
-			$of(u"\u0e23\u0e39\u0e1b\u0e35\u0e40\u0e0b\u0e40\u0e0a\u0e25\u0e2a\u0e4c"_s)
+			$of(u"รูปีเซเชลส์"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sdd"_s),
-			$of(u"\u0e14\u0e35\u0e19\u0e32\u0e23\u0e4c\u0e0b\u0e39\u0e14\u0e32\u0e19\u0e40\u0e01\u0e48\u0e32"_s)
+			$of(u"ดีนาร์ซูดานเก่า"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sdg"_s),
-			$of(u"\u0e1b\u0e2d\u0e19\u0e14\u0e4c\u0e0b\u0e39\u0e14\u0e32\u0e19"_s)
+			$of(u"ปอนด์ซูดาน"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sdp"_s),
-			$of(u"\u0e1b\u0e2d\u0e19\u0e14\u0e4c\u0e0b\u0e39\u0e14\u0e32\u0e19\u0e40\u0e01\u0e48\u0e32"_s)
+			$of(u"ปอนด์ซูดานเก่า"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sek"_s),
-			$of(u"\u0e42\u0e04\u0e23\u0e19\u0e32\u0e2a\u0e27\u0e35\u0e40\u0e14\u0e19"_s)
+			$of(u"โครนาสวีเดน"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sgd"_s),
-			$of(u"\u0e14\u0e2d\u0e25\u0e25\u0e32\u0e23\u0e4c\u0e2a\u0e34\u0e07\u0e04\u0e42\u0e1b\u0e23\u0e4c"_s)
+			$of(u"ดอลลาร์สิงคโปร์"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("shp"_s),
-			$of(u"\u0e1b\u0e2d\u0e19\u0e14\u0e4c\u0e40\u0e0b\u0e19\u0e15\u0e4c\u0e40\u0e2e\u0e40\u0e25\u0e19\u0e32"_s)
+			$of(u"ปอนด์เซนต์เฮเลนา"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sit"_s),
-			$of(u"\u0e17\u0e2d\u0e25\u0e32\u0e23\u0e4c\u0e2a\u0e42\u0e25\u0e27\u0e35\u0e40\u0e19\u0e35\u0e22"_s)
+			$of(u"ทอลาร์สโลวีเนีย"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("skk"_s),
-			$of(u"\u0e42\u0e04\u0e23\u0e39\u0e19\u0e32\u0e2a\u0e42\u0e25\u0e27\u0e31\u0e01"_s)
+			$of(u"โครูนาสโลวัก"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sll"_s),
-			$of(u"\u0e25\u0e35\u0e42\u0e2d\u0e19\u0e40\u0e0b\u0e35\u0e22\u0e23\u0e4c\u0e23\u0e32\u0e25\u0e35\u0e42\u0e2d\u0e19"_s)
+			$of(u"ลีโอนเซียร์ราลีโอน"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sos"_s),
-			$of(u"\u0e0a\u0e34\u0e25\u0e25\u0e34\u0e07\u0e42\u0e0b\u0e21\u0e32\u0e40\u0e25\u0e35\u0e22"_s)
+			$of(u"ชิลลิงโซมาเลีย"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("srd"_s),
-			$of(u"\u0e14\u0e2d\u0e25\u0e25\u0e32\u0e23\u0e4c\u0e0b\u0e39\u0e23\u0e34\u0e19\u0e32\u0e40\u0e21"_s)
+			$of(u"ดอลลาร์ซูรินาเม"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("srg"_s),
-			$of(u"\u0e01\u0e34\u0e25\u0e40\u0e14\u0e2d\u0e23\u0e4c\u0e0b\u0e39\u0e23\u0e34\u0e19\u0e32\u0e40\u0e21"_s)
+			$of(u"กิลเดอร์ซูรินาเม"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ssp"_s),
-			$of(u"\u0e1b\u0e2d\u0e19\u0e14\u0e4c\u0e0b\u0e39\u0e14\u0e32\u0e19\u0e43\u0e15\u0e49"_s)
+			$of(u"ปอนด์ซูดานใต้"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("std"_s),
-			$of(u"\u0e14\u0e2d\u0e1a\u0e23\u0e32\u0e40\u0e0b\u0e32\u0e15\u0e39\u0e40\u0e21\u0e41\u0e25\u0e30\u0e1b\u0e23\u0e34\u0e19\u0e0b\u0e34\u0e1b\u0e35 (1977\u20132017)"_s)
+			$of(u"ดอบราเซาตูเมและปรินซิปี (1977–2017)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("stn"_s),
-			$of(u"\u0e14\u0e2d\u0e1a\u0e23\u0e32\u0e40\u0e0b\u0e32\u0e15\u0e39\u0e40\u0e21\u0e41\u0e25\u0e30\u0e1b\u0e23\u0e34\u0e19\u0e0b\u0e34\u0e1b\u0e35"_s)
+			$of(u"ดอบราเซาตูเมและปรินซิปี"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sur"_s),
-			$of(u"\u0e23\u0e39\u0e40\u0e1a\u0e34\u0e25\u0e42\u0e0b\u0e40\u0e27\u0e35\u0e22\u0e15"_s)
+			$of(u"รูเบิลโซเวียต"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("svc"_s),
-			$of(u"\u0e42\u0e04\u0e25\u0e2d\u0e19\u0e40\u0e2d\u0e25\u0e0b\u0e31\u0e25\u0e27\u0e32\u0e14\u0e2d\u0e23\u0e4c"_s)
+			$of(u"โคลอนเอลซัลวาดอร์"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("syp"_s),
-			$of(u"\u0e1b\u0e2d\u0e19\u0e14\u0e4c\u0e0b\u0e35\u0e40\u0e23\u0e35\u0e22"_s)
+			$of(u"ปอนด์ซีเรีย"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("szl"_s),
-			$of(u"\u0e25\u0e34\u0e25\u0e31\u0e19\u0e40\u0e08\u0e19\u0e35\u0e2a\u0e27\u0e32\u0e0b\u0e34"_s)
+			$of(u"ลิลันเจนีสวาซิ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("thb"_s),
-			$of(u"\u0e1a\u0e32\u0e17"_s)
+			$of(u"บาท"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("tjr"_s),
-			$of(u"\u0e23\u0e39\u0e40\u0e1a\u0e34\u0e25\u0e17\u0e32\u0e08\u0e34\u0e01\u0e34\u0e2a\u0e16\u0e32\u0e19"_s)
+			$of(u"รูเบิลทาจิกิสถาน"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("tjs"_s),
-			$of(u"\u0e42\u0e0b\u0e42\u0e21\u0e19\u0e34\u0e17\u0e32\u0e08\u0e34\u0e01\u0e34\u0e2a\u0e16\u0e32\u0e19"_s)
+			$of(u"โซโมนิทาจิกิสถาน"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("tmm"_s),
-			$of(u"\u0e21\u0e32\u0e19\u0e31\u0e15\u0e40\u0e15\u0e34\u0e23\u0e4c\u0e01\u0e40\u0e21\u0e19\u0e34\u0e2a\u0e16\u0e32\u0e19 (1993\u20132009)"_s)
+			$of(u"มานัตเติร์กเมนิสถาน (1993–2009)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("tmt"_s),
-			$of(u"\u0e21\u0e32\u0e19\u0e31\u0e15\u0e40\u0e15\u0e34\u0e23\u0e4c\u0e01\u0e40\u0e21\u0e19\u0e34\u0e2a\u0e16\u0e32\u0e19"_s)
+			$of(u"มานัตเติร์กเมนิสถาน"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("tnd"_s),
-			$of(u"\u0e14\u0e35\u0e19\u0e32\u0e23\u0e4c\u0e15\u0e39\u0e19\u0e34\u0e40\u0e0b\u0e35\u0e22"_s)
+			$of(u"ดีนาร์ตูนิเซีย"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("top"_s),
-			$of(u"\u0e1e\u0e32\u0e41\u0e2d\u0e07\u0e01\u0e32\u0e15\u0e2d\u0e07\u0e01\u0e32"_s)
+			$of(u"พาแองกาตองกา"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("tpe"_s),
-			$of(u"\u0e40\u0e2d\u0e2a\u0e04\u0e39\u0e42\u0e14\u0e15\u0e34\u0e21\u0e2d\u0e23\u0e4c"_s)
+			$of(u"เอสคูโดติมอร์"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("trl"_s),
-			$of(u"\u0e25\u0e35\u0e23\u0e32\u0e15\u0e38\u0e23\u0e01\u0e35\u0e40\u0e01\u0e48\u0e32"_s)
+			$of(u"ลีราตุรกีเก่า"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("try"_s),
-			$of(u"\u0e25\u0e35\u0e23\u0e32\u0e15\u0e38\u0e23\u0e01\u0e35"_s)
+			$of(u"ลีราตุรกี"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ttd"_s),
-			$of(u"\u0e14\u0e2d\u0e25\u0e25\u0e32\u0e23\u0e4c\u0e15\u0e23\u0e34\u0e19\u0e34\u0e41\u0e14\u0e14\u0e41\u0e25\u0e30\u0e42\u0e15\u0e40\u0e1a\u0e42\u0e01"_s)
+			$of(u"ดอลลาร์ตรินิแดดและโตเบโก"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("twd"_s),
-			$of(u"\u0e14\u0e2d\u0e25\u0e25\u0e32\u0e23\u0e4c\u0e44\u0e15\u0e49\u0e2b\u0e27\u0e31\u0e19\u0e43\u0e2b\u0e21\u0e48"_s)
+			$of(u"ดอลลาร์ไต้หวันใหม่"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("tzs"_s),
-			$of(u"\u0e0a\u0e34\u0e25\u0e25\u0e34\u0e07\u0e41\u0e17\u0e19\u0e0b\u0e32\u0e40\u0e19\u0e35\u0e22"_s)
+			$of(u"ชิลลิงแทนซาเนีย"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("uah"_s),
-			$of(u"\u0e2e\u0e23\u0e35\u0e1f\u0e40\u0e19\u0e35\u0e22\u0e22\u0e39\u0e40\u0e04\u0e23\u0e19"_s)
+			$of(u"ฮรีฟเนียยูเครน"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("uak"_s),
-			$of(u"\u0e04\u0e32\u0e23\u0e4c\u0e42\u0e1a\u0e27\u0e32\u0e40\u0e19\u0e15\u0e0b\u0e4c\u0e22\u0e39\u0e40\u0e04\u0e23\u0e19"_s)
+			$of(u"คาร์โบวาเนตซ์ยูเครน"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ugs"_s),
-			$of(u"\u0e0a\u0e34\u0e25\u0e25\u0e34\u0e07\u0e22\u0e39\u0e01\u0e31\u0e19\u0e14\u0e32 (1966\u20131987)"_s)
+			$of(u"ชิลลิงยูกันดา (1966–1987)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ugx"_s),
-			$of(u"\u0e0a\u0e34\u0e25\u0e25\u0e34\u0e07\u0e22\u0e39\u0e01\u0e31\u0e19\u0e14\u0e32"_s)
+			$of(u"ชิลลิงยูกันดา"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("usd"_s),
-			$of(u"\u0e14\u0e2d\u0e25\u0e25\u0e32\u0e23\u0e4c\u0e2a\u0e2b\u0e23\u0e31\u0e10"_s)
+			$of(u"ดอลลาร์สหรัฐ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("usn"_s),
-			$of(u"\u0e14\u0e2d\u0e25\u0e25\u0e32\u0e23\u0e4c\u0e2a\u0e2b\u0e23\u0e31\u0e10 (\u0e27\u0e31\u0e19\u0e16\u0e31\u0e14\u0e44\u0e1b)"_s)
+			$of(u"ดอลลาร์สหรัฐ (วันถัดไป)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("uss"_s),
-			$of(u"\u0e14\u0e2d\u0e25\u0e25\u0e32\u0e23\u0e4c\u0e2a\u0e2b\u0e23\u0e31\u0e10 (\u0e27\u0e31\u0e19\u0e40\u0e14\u0e35\u0e22\u0e27\u0e01\u0e31\u0e19)"_s)
+			$of(u"ดอลลาร์สหรัฐ (วันเดียวกัน)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("uyi"_s),
-			$of(u"\u0e40\u0e1b\u0e42\u0e0b\u0e40\u0e2d\u0e19\u0e22\u0e39\u0e19\u0e34\u0e41\u0e14\u0e14\u0e40\u0e0b\u0e2a\u0e2d\u0e34\u0e19\u0e40\u0e14\u0e47\u0e01\u0e0b\u0e32\u0e41\u0e14\u0e2a\u0e2d\u0e38\u0e23\u0e38\u0e01\u0e27\u0e31\u0e22"_s)
+			$of(u"เปโซเอนยูนิแดดเซสอินเด็กซาแดสอุรุกวัย"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("uyp"_s),
-			$of(u"\u0e40\u0e1b\u0e42\u0e0b\u0e2d\u0e38\u0e23\u0e38\u0e01\u0e27\u0e31\u0e22 (1975\u20131993)"_s)
+			$of(u"เปโซอุรุกวัย (1975–1993)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("uyu"_s),
-			$of(u"\u0e40\u0e1b\u0e42\u0e0b\u0e2d\u0e38\u0e23\u0e38\u0e01\u0e27\u0e31\u0e22"_s)
+			$of(u"เปโซอุรุกวัย"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("uzs"_s),
-			$of(u"\u0e0b\u0e2d\u0e21\u0e2d\u0e38\u0e0b\u0e40\u0e1a\u0e01\u0e34\u0e2a\u0e16\u0e32\u0e19"_s)
+			$of(u"ซอมอุซเบกิสถาน"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("veb"_s),
-			$of(u"\u0e42\u0e1a\u0e25\u0e34\u0e27\u0e32\u0e23\u0e4c\u0e40\u0e27\u0e40\u0e19\u0e0b\u0e38\u0e40\u0e2d\u0e25\u0e32 (1871\u20132008)"_s)
+			$of(u"โบลิวาร์เวเนซุเอลา (1871–2008)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("vef"_s),
-			$of(u"\u0e42\u0e1a\u0e25\u0e34\u0e27\u0e32\u0e23\u0e4c\u0e40\u0e27\u0e40\u0e19\u0e0b\u0e38\u0e40\u0e2d\u0e25\u0e32"_s)
+			$of(u"โบลิวาร์เวเนซุเอลา"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ves"_s),
-			$of(u"\u0e42\u0e1a\u0e25\u0e35\u0e27\u0e32\u0e23\u0e4c\u0e40\u0e27\u0e40\u0e19\u0e0b\u0e38\u0e40\u0e2d\u0e25\u0e32"_s)
+			$of(u"โบลีวาร์เวเนซุเอลา"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("vnd"_s),
-			$of(u"\u0e14\u0e2d\u0e07\u0e40\u0e27\u0e35\u0e22\u0e14\u0e19\u0e32\u0e21"_s)
+			$of(u"ดองเวียดนาม"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("vnn"_s),
-			$of(u"\u0e14\u0e2d\u0e07\u0e40\u0e27\u0e35\u0e22\u0e14\u0e19\u0e32\u0e21 (1978\u20131985)"_s)
+			$of(u"ดองเวียดนาม (1978–1985)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("vuv"_s),
-			$of(u"\u0e27\u0e32\u0e15\u0e39\u0e27\u0e32\u0e19\u0e39\u0e2d\u0e32\u0e15\u0e39"_s)
+			$of(u"วาตูวานูอาตู"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("wst"_s),
-			$of(u"\u0e17\u0e32\u0e25\u0e32\u0e0b\u0e32\u0e21\u0e31\u0e27"_s)
+			$of(u"ทาลาซามัว"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xaf"_s),
-			$of(u"\u0e1f\u0e23\u0e31\u0e07\u0e01\u0e4c\u0e40\u0e0b\u0e1f\u0e32\u0e18\u0e19\u0e32\u0e04\u0e32\u0e23\u0e23\u0e31\u0e10\u0e41\u0e2d\u0e1f\u0e23\u0e34\u0e01\u0e32\u0e01\u0e25\u0e32\u0e07"_s)
+			$of(u"ฟรังก์เซฟาธนาคารรัฐแอฟริกากลาง"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xag"_s),
-			$of(u"\u0e40\u0e07\u0e34\u0e19"_s)
+			$of(u"เงิน"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xau"_s),
-			$of(u"\u0e17\u0e2d\u0e07"_s)
+			$of(u"ทอง"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xba"_s),
-			$of(u"\u0e2b\u0e19\u0e48\u0e27\u0e22\u0e04\u0e2d\u0e21\u0e42\u0e1e\u0e2a\u0e34\u0e15\u0e22\u0e38\u0e42\u0e23\u0e1b"_s)
+			$of(u"หน่วยคอมโพสิตยุโรป"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xbb"_s),
-			$of(u"\u0e2b\u0e19\u0e48\u0e27\u0e22\u0e42\u0e21\u0e40\u0e19\u0e17\u0e32\u0e23\u0e35\u0e22\u0e38\u0e42\u0e23\u0e1b"_s)
+			$of(u"หน่วยโมเนทารียุโรป"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xbc"_s),
-			$of(u"\u0e2b\u0e19\u0e48\u0e27\u0e22\u0e1a\u0e31\u0e0d\u0e0a\u0e35\u0e22\u0e38\u0e42\u0e23\u0e1b [XBC]"_s)
+			$of(u"หน่วยบัญชียุโรป [XBC]"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xbd"_s),
-			$of(u"\u0e2b\u0e19\u0e48\u0e27\u0e22\u0e1a\u0e31\u0e0d\u0e0a\u0e35\u0e22\u0e38\u0e42\u0e23\u0e1b [XBD]"_s)
+			$of(u"หน่วยบัญชียุโรป [XBD]"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xcd"_s),
-			$of(u"\u0e14\u0e2d\u0e25\u0e25\u0e32\u0e23\u0e4c\u0e41\u0e04\u0e23\u0e34\u0e1a\u0e40\u0e1a\u0e35\u0e22\u0e19\u0e15\u0e30\u0e27\u0e31\u0e19\u0e2d\u0e2d\u0e01"_s)
+			$of(u"ดอลลาร์แคริบเบียนตะวันออก"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xdr"_s),
-			$of(u"\u0e2a\u0e34\u0e17\u0e18\u0e34\u0e16\u0e2d\u0e19\u0e40\u0e07\u0e34\u0e19\u0e1e\u0e34\u0e40\u0e28\u0e29"_s)
+			$of(u"สิทธิถอนเงินพิเศษ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xeu"_s),
-			$of(u"\u0e2b\u0e19\u0e48\u0e27\u0e22\u0e2a\u0e01\u0e38\u0e25\u0e40\u0e07\u0e34\u0e19\u0e22\u0e38\u0e42\u0e23\u0e1b"_s)
+			$of(u"หน่วยสกุลเงินยุโรป"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xfo"_s),
-			$of(u"\u0e1f\u0e23\u0e31\u0e07\u0e01\u0e4c\u0e17\u0e2d\u0e07\u0e1d\u0e23\u0e31\u0e48\u0e07\u0e40\u0e28\u0e2a"_s)
+			$of(u"ฟรังก์ทองฝรั่งเศส"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xfu"_s),
-			$of(u"\u0e1f\u0e23\u0e31\u0e07\u0e01\u0e4c\u0e22\u0e39\u0e44\u0e2d\u0e0b\u0e35\u0e1d\u0e23\u0e31\u0e48\u0e07\u0e40\u0e28\u0e2a"_s)
+			$of(u"ฟรังก์ยูไอซีฝรั่งเศส"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xof"_s),
-			$of(u"\u0e1f\u0e23\u0e31\u0e07\u0e01\u0e4c\u0e40\u0e0b\u0e1f\u0e32\u0e18\u0e19\u0e32\u0e04\u0e32\u0e23\u0e01\u0e25\u0e32\u0e07\u0e23\u0e31\u0e10\u0e41\u0e2d\u0e1f\u0e23\u0e34\u0e01\u0e32\u0e15\u0e30\u0e27\u0e31\u0e19\u0e15\u0e01"_s)
+			$of(u"ฟรังก์เซฟาธนาคารกลางรัฐแอฟริกาตะวันตก"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xpd"_s),
-			$of(u"\u0e1e\u0e31\u0e25\u0e40\u0e25\u0e40\u0e14\u0e35\u0e22\u0e21"_s)
+			$of(u"พัลเลเดียม"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xpf"_s),
-			$of(u"\u0e1f\u0e23\u0e31\u0e07\u0e01\u0e4c\u0e0b\u0e35\u0e40\u0e2d\u0e1f\u0e1e\u0e35"_s)
+			$of(u"ฟรังก์ซีเอฟพี"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xpt"_s),
-			$of(u"\u0e41\u0e1e\u0e25\u0e15\u0e34\u0e19\u0e31\u0e21"_s)
+			$of(u"แพลตินัม"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xre"_s),
-			$of(u"\u0e01\u0e2d\u0e07\u0e17\u0e38\u0e19\u0e44\u0e23\u0e40\u0e19\u0e47\u0e15"_s)
+			$of(u"กองทุนไรเน็ต"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xsu"_s),
-			$of(u"\u0e0b\u0e39\u0e40\u0e01\u0e23"_s)
+			$of(u"ซูเกร"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xts"_s),
-			$of(u"\u0e23\u0e2b\u0e31\u0e2a\u0e17\u0e14\u0e2a\u0e2d\u0e1a\u0e2a\u0e01\u0e38\u0e25\u0e40\u0e07\u0e34\u0e19"_s)
+			$of(u"รหัสทดสอบสกุลเงิน"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xua"_s),
-			$of(u"\u0e2b\u0e19\u0e48\u0e27\u0e22\u0e1a\u0e31\u0e0d\u0e0a\u0e35 \u0e40\u0e2d\u0e14\u0e35\u0e1a\u0e35"_s)
+			$of(u"หน่วยบัญชี เอดีบี"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xxx"_s),
-			$of(u"\u0e44\u0e21\u0e48\u0e17\u0e23\u0e32\u0e1a\u0e0a\u0e37\u0e48\u0e2d\u0e2a\u0e01\u0e38\u0e25\u0e40\u0e07\u0e34\u0e19"_s)
+			$of(u"ไม่ทราบชื่อสกุลเงิน"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ydd"_s),
-			$of(u"\u0e14\u0e35\u0e19\u0e32\u0e23\u0e4c\u0e40\u0e22\u0e40\u0e21\u0e19"_s)
+			$of(u"ดีนาร์เยเมน"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("yer"_s),
-			$of(u"\u0e40\u0e23\u0e35\u0e22\u0e25\u0e40\u0e22\u0e40\u0e21\u0e19"_s)
+			$of(u"เรียลเยเมน"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("yud"_s),
-			$of(u"\u0e2e\u0e32\u0e23\u0e4c\u0e14\u0e14\u0e35\u0e19\u0e32\u0e23\u0e4c\u0e22\u0e39\u0e42\u0e01\u0e2a\u0e25\u0e32\u0e40\u0e27\u0e35\u0e22"_s)
+			$of(u"ฮาร์ดดีนาร์ยูโกสลาเวีย"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("yum"_s),
-			$of(u"\u0e42\u0e19\u0e27\u0e34\u0e22\u0e4c\u0e14\u0e35\u0e19\u0e32\u0e23\u0e4c\u0e22\u0e39\u0e42\u0e01\u0e2a\u0e25\u0e32\u0e40\u0e27\u0e35\u0e22"_s)
+			$of(u"โนวิย์ดีนาร์ยูโกสลาเวีย"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("yun"_s),
-			$of(u"\u0e04\u0e2d\u0e19\u0e40\u0e27\u0e2d\u0e23\u0e4c\u0e17\u0e34\u0e40\u0e1a\u0e34\u0e25\u0e14\u0e35\u0e19\u0e32\u0e23\u0e4c\u0e22\u0e39\u0e42\u0e01\u0e2a\u0e25\u0e32\u0e40\u0e27\u0e35\u0e22"_s)
+			$of(u"คอนเวอร์ทิเบิลดีนาร์ยูโกสลาเวีย"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("yur"_s),
-			$of(u"\u0e14\u0e35\u0e19\u0e32\u0e23\u0e4c\u0e1b\u0e0f\u0e34\u0e23\u0e39\u0e1b\u0e22\u0e39\u0e42\u0e01\u0e2a\u0e25\u0e32\u0e40\u0e27\u0e35\u0e22 (1992\u20131993)"_s)
+			$of(u"ดีนาร์ปฏิรูปยูโกสลาเวีย (1992–1993)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("zal"_s),
-			$of(u"\u0e41\u0e23\u0e19\u0e14\u0e4c\u0e41\u0e2d\u0e1f\u0e23\u0e34\u0e01\u0e32\u0e43\u0e15\u0e49 (\u0e01\u0e32\u0e23\u0e40\u0e07\u0e34\u0e19)"_s)
+			$of(u"แรนด์แอฟริกาใต้ (การเงิน)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("zar"_s),
-			$of(u"\u0e41\u0e23\u0e19\u0e14\u0e4c\u0e41\u0e2d\u0e1f\u0e23\u0e34\u0e01\u0e32\u0e43\u0e15\u0e49"_s)
+			$of(u"แรนด์แอฟริกาใต้"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("zmk"_s),
-			$of(u"\u0e04\u0e27\u0e32\u0e0a\u0e32\u0e41\u0e0b\u0e21\u0e40\u0e1a\u0e35\u0e22 (1968\u20132012)"_s)
+			$of(u"ควาชาแซมเบีย (1968–2012)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("zmw"_s),
-			$of(u"\u0e04\u0e27\u0e32\u0e0a\u0e32\u0e41\u0e0b\u0e21\u0e40\u0e1a\u0e35\u0e22"_s)
+			$of(u"ควาชาแซมเบีย"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("zrn"_s),
-			$of(u"\u0e19\u0e34\u0e27\u0e41\u0e0b\u0e23\u0e4c\u0e04\u0e2d\u0e07\u0e42\u0e01"_s)
+			$of(u"นิวแซร์คองโก"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("zrz"_s),
-			$of(u"\u0e41\u0e0b\u0e23\u0e4c\u0e04\u0e2d\u0e07\u0e42\u0e01"_s)
+			$of(u"แซร์คองโก"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("zwd"_s),
-			$of(u"\u0e14\u0e2d\u0e25\u0e25\u0e32\u0e23\u0e4c\u0e0b\u0e34\u0e21\u0e1a\u0e31\u0e1a\u0e40\u0e27"_s)
+			$of(u"ดอลลาร์ซิมบับเว"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("zwl"_s),
-			$of(u"\u0e14\u0e2d\u0e25\u0e25\u0e32\u0e23\u0e4c\u0e0b\u0e34\u0e21\u0e1a\u0e31\u0e1a\u0e40\u0e27 (2009)"_s)
+			$of(u"ดอลลาร์ซิมบับเว (2009)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("zwr"_s),
-			$of(u"\u0e14\u0e2d\u0e25\u0e25\u0e32\u0e23\u0e4c\u0e0b\u0e34\u0e21\u0e1a\u0e31\u0e1a\u0e40\u0e27 (2008)"_s)
+			$of(u"ดอลลาร์ซิมบับเว (2008)"_s)
 		})
 	}));
 	return data;

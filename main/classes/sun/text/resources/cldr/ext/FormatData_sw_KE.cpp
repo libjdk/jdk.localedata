@@ -63,8 +63,8 @@ $ObjectArray2* FormatData_sw_KE::getContents() {
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
+				u"‰"_s,
+				u"∞"_s,
 				"NaN"_s,
 				""_s,
 				""_s
@@ -94,9 +94,9 @@ $ObjectArray2* FormatData_sw_KE::getContents() {
 			$of("latn.NumberPatterns"_s),
 			$of($$new($StringArray, {
 				"#,##0.###"_s,
-				u"\u00a4\u00a0#,##0.00"_s,
+				u"¤ #,##0.00"_s,
 				"#,##0%"_s,
-				u"\u00a4\u00a0#,##0.00"_s
+				u"¤ #,##0.00"_s
 			}))
 		}),
 		$$new($ObjectArray, {
@@ -105,9 +105,9 @@ $ObjectArray2* FormatData_sw_KE::getContents() {
 				""_s,
 				""_s,
 				""_s,
-				u"{one:elfu\u00a00 other:elfu\u00a00}"_s,
-				u"{one:elfu\u00a000 other:elfu\u00a000}"_s,
-				u"{one:elfu\u00a0000 other:elfu\u00a0000}"_s,
+				u"{one:elfu 0 other:elfu 0}"_s,
+				u"{one:elfu 00 other:elfu 00}"_s,
+				u"{one:elfu 000 other:elfu 000}"_s,
 				"{one:M0 other:M0}"_s,
 				"{one:M00 other:M00}"_s,
 				"{one:M000 other:M000}"_s,

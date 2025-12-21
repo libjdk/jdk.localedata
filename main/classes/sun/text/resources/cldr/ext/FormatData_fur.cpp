@@ -40,10 +40,10 @@ void FormatData_fur::init$() {
 $ObjectArray2* FormatData_fur::getContents() {
 	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_MonthNames, $new($StringArray, {
-		u"Zen\u00e2r"_s,
-		u"Fevr\u00e2r"_s,
-		u"Mar\u00e7"_s,
-		u"Avr\u00eel"_s,
+		u"Zenâr"_s,
+		u"Fevrâr"_s,
+		u"Març"_s,
+		u"Avrîl"_s,
 		"Mai"_s,
 		"Jugn"_s,
 		"Lui"_s,
@@ -114,7 +114,7 @@ $ObjectArray2* FormatData_fur::getContents() {
 	$var($StringArray, metaValue_QuarterNames, $new($StringArray, {
 		"Prin trimestri"_s,
 		"Secont trimestri"_s,
-		u"Tier\u00e7 trimestri"_s,
+		u"Tierç trimestri"_s,
 		"Cuart trimestri"_s
 	}));
 	$var($StringArray, metaValue_QuarterAbbreviations, $new($StringArray, {
@@ -201,7 +201,7 @@ $ObjectArray2* FormatData_fur::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.islamic-civil"_s),
-			$of(u"calendari islamic civ\u00eel"_s)
+			$of(u"calendari islamic civîl"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("japanese.TimePatterns"_s),
@@ -221,7 +221,7 @@ $ObjectArray2* FormatData_fur::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.japanese"_s),
-			$of(u"calendari gjapon\u00eas"_s)
+			$of(u"calendari gjaponês"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("japanese.MonthNames"_s),
@@ -270,8 +270,8 @@ $ObjectArray2* FormatData_fur::getContents() {
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
+				u"‰"_s,
+				u"∞"_s,
 				"NaN"_s,
 				""_s,
 				""_s
@@ -291,7 +291,7 @@ $ObjectArray2* FormatData_fur::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.minute"_s),
-			$of(u"min\u00fbt"_s)
+			$of(u"minût"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("field.era"_s),
@@ -303,7 +303,7 @@ $ObjectArray2* FormatData_fur::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.dayperiod"_s),
-			$of(u"toc dal d\u00ec"_s)
+			$of(u"toc dal dì"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("standalone.MonthNarrows"_s),
@@ -327,7 +327,7 @@ $ObjectArray2* FormatData_fur::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.month"_s),
-			$of(u"m\u00eas"_s)
+			$of(u"mês"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("field.second"_s),
@@ -427,7 +427,7 @@ $ObjectArray2* FormatData_fur::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.weekday"_s),
-			$of(u"d\u00ec de setemane"_s)
+			$of(u"dì de setemane"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("japanese.MonthAbbreviations"_s),
@@ -546,7 +546,7 @@ $ObjectArray2* FormatData_fur::getContents() {
 			$of("latn.NumberPatterns"_s),
 			$of($$new($StringArray, {
 				"#,##0.###"_s,
-				u"\u00a4\u00a0#,##0.00"_s,
+				u"¤ #,##0.00"_s,
 				"#,##0%"_s,
 				""_s
 			}))

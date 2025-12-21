@@ -39,7 +39,7 @@ void CurrencyNames_ar_TN::init$() {
 $ObjectArray2* CurrencyNames_ar_TN::getContents() {
 	return $new($ObjectArray2, {$$new($ObjectArray, {
 		$of("TND"_s),
-		$of(u"\u062f.\u062a.\u200f"_s)
+		$of(u"د.ت.\u200f"_s)
 	})});
 }
 

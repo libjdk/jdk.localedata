@@ -40,101 +40,101 @@ void FormatData_bn::init$() {
 $ObjectArray2* FormatData_bn::getContents() {
 	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_MonthNames, $new($StringArray, {
-		u"\u099c\u09be\u09a8\u09c1\u09af\u09bc\u09be\u09b0\u09c0"_s,
-		u"\u09ab\u09c7\u09ac\u09cd\u09b0\u09c1\u09af\u09bc\u09be\u09b0\u09c0"_s,
-		u"\u09ae\u09be\u09b0\u09cd\u099a"_s,
-		u"\u098f\u09aa\u09cd\u09b0\u09bf\u09b2"_s,
-		u"\u09ae\u09c7"_s,
-		u"\u099c\u09c1\u09a8"_s,
-		u"\u099c\u09c1\u09b2\u09be\u0987"_s,
-		u"\u0986\u0997\u09b8\u09cd\u099f"_s,
-		u"\u09b8\u09c7\u09aa\u09cd\u099f\u09c7\u09ae\u09cd\u09ac\u09b0"_s,
-		u"\u0985\u0995\u09cd\u099f\u09cb\u09ac\u09b0"_s,
-		u"\u09a8\u09ad\u09c7\u09ae\u09cd\u09ac\u09b0"_s,
-		u"\u09a1\u09bf\u09b8\u09c7\u09ae\u09cd\u09ac\u09b0"_s,
+		u"জানুয়ারী"_s,
+		u"ফেব্রুয়ারী"_s,
+		u"মার্চ"_s,
+		u"এপ্রিল"_s,
+		u"মে"_s,
+		u"জুন"_s,
+		u"জুলাই"_s,
+		u"আগস্ট"_s,
+		u"সেপ্টেম্বর"_s,
+		u"অক্টোবর"_s,
+		u"নভেম্বর"_s,
+		u"ডিসেম্বর"_s,
 		""_s
 	}));
 	$var($StringArray, metaValue_MonthAbbreviations, $new($StringArray, {
-		u"\u099c\u09be\u09a8\u09c1"_s,
-		u"\u09ab\u09c7\u09ac"_s,
-		u"\u09ae\u09be\u09b0\u09cd\u099a"_s,
-		u"\u098f\u09aa\u09cd\u09b0\u09bf\u09b2"_s,
-		u"\u09ae\u09c7"_s,
-		u"\u099c\u09c1\u09a8"_s,
-		u"\u099c\u09c1\u09b2\u09be\u0987"_s,
-		u"\u0986\u0997\u09b8\u09cd\u099f"_s,
-		u"\u09b8\u09c7\u09aa\u09cd\u099f\u09c7\u09ae\u09cd\u09ac\u09b0"_s,
-		u"\u0985\u0995\u09cd\u099f\u09cb\u09ac\u09b0"_s,
-		u"\u09a8\u09ad\u09c7\u09ae\u09cd\u09ac\u09b0"_s,
-		u"\u09a1\u09bf\u09b8\u09c7\u09ae\u09cd\u09ac\u09b0"_s,
+		u"জানু"_s,
+		u"ফেব"_s,
+		u"মার্চ"_s,
+		u"এপ্রিল"_s,
+		u"মে"_s,
+		u"জুন"_s,
+		u"জুলাই"_s,
+		u"আগস্ট"_s,
+		u"সেপ্টেম্বর"_s,
+		u"অক্টোবর"_s,
+		u"নভেম্বর"_s,
+		u"ডিসেম্বর"_s,
 		""_s
 	}));
 	$var($StringArray, metaValue_MonthNarrows, $new($StringArray, {
-		u"\u099c\u09be"_s,
-		u"\u09ab\u09c7"_s,
-		u"\u09ae\u09be"_s,
-		u"\u098f"_s,
-		u"\u09ae\u09c7"_s,
-		u"\u099c\u09c1\u09a8"_s,
-		u"\u099c\u09c1"_s,
-		u"\u0986"_s,
-		u"\u09b8\u09c7"_s,
-		u"\u0985"_s,
-		u"\u09a8"_s,
-		u"\u09a1\u09bf"_s,
+		u"জা"_s,
+		u"ফে"_s,
+		u"মা"_s,
+		u"এ"_s,
+		u"মে"_s,
+		u"জুন"_s,
+		u"জু"_s,
+		u"আ"_s,
+		u"সে"_s,
+		u"অ"_s,
+		u"ন"_s,
+		u"ডি"_s,
 		""_s
 	}));
 	$var($StringArray, metaValue_DayNames, $new($StringArray, {
-		u"\u09b0\u09ac\u09bf\u09ac\u09be\u09b0"_s,
-		u"\u09b8\u09cb\u09ae\u09ac\u09be\u09b0"_s,
-		u"\u09ae\u0999\u09cd\u0997\u09b2\u09ac\u09be\u09b0"_s,
-		u"\u09ac\u09c1\u09a7\u09ac\u09be\u09b0"_s,
-		u"\u09ac\u09c3\u09b9\u09b8\u09cd\u09aa\u09a4\u09bf\u09ac\u09be\u09b0"_s,
-		u"\u09b6\u09c1\u0995\u09cd\u09b0\u09ac\u09be\u09b0"_s,
-		u"\u09b6\u09a8\u09bf\u09ac\u09be\u09b0"_s
+		u"রবিবার"_s,
+		u"সোমবার"_s,
+		u"মঙ্গলবার"_s,
+		u"বুধবার"_s,
+		u"বৃহস্পতিবার"_s,
+		u"শুক্রবার"_s,
+		u"শনিবার"_s
 	}));
 	$var($StringArray, metaValue_DayAbbreviations, $new($StringArray, {
-		u"\u09b0\u09ac\u09bf"_s,
-		u"\u09b8\u09cb\u09ae"_s,
-		u"\u09ae\u0999\u09cd\u0997\u09b2"_s,
-		u"\u09ac\u09c1\u09a7"_s,
-		u"\u09ac\u09c3\u09b9\u09b8\u09cd\u09aa\u09a4\u09bf"_s,
-		u"\u09b6\u09c1\u0995\u09cd\u09b0"_s,
-		u"\u09b6\u09a8\u09bf"_s
+		u"রবি"_s,
+		u"সোম"_s,
+		u"মঙ্গল"_s,
+		u"বুধ"_s,
+		u"বৃহস্পতি"_s,
+		u"শুক্র"_s,
+		u"শনি"_s
 	}));
 	$var($StringArray, metaValue_DayNarrows, $new($StringArray, {
-		u"\u09b0"_s,
-		u"\u09b8\u09cb"_s,
-		u"\u09ae"_s,
-		u"\u09ac\u09c1"_s,
-		u"\u09ac\u09c3"_s,
-		u"\u09b6\u09c1"_s,
-		u"\u09b6"_s
+		u"র"_s,
+		u"সো"_s,
+		u"ম"_s,
+		u"বু"_s,
+		u"বৃ"_s,
+		u"শু"_s,
+		u"শ"_s
 	}));
 	$var($StringArray, metaValue_QuarterNames, $new($StringArray, {
-		u"\u09a4\u09cd\u09b0\u09c8\u09ae\u09be\u09b8\u09bf\u0995"_s,
-		u"\u09a6\u09cd\u09ac\u09bf\u09a4\u09c0\u09af\u09bc \u09a4\u09cd\u09b0\u09c8\u09ae\u09be\u09b8\u09bf\u0995"_s,
-		u"\u09a4\u09c3\u09a4\u09c0\u09af\u09bc \u09a4\u09cd\u09b0\u09c8\u09ae\u09be\u09b8\u09bf\u0995"_s,
-		u"\u099a\u09a4\u09c1\u09b0\u09cd\u09a5 \u09a4\u09cd\u09b0\u09c8\u09ae\u09be\u09b8\u09bf\u0995"_s
+		u"ত্রৈমাসিক"_s,
+		u"দ্বিতীয় ত্রৈমাসিক"_s,
+		u"তৃতীয় ত্রৈমাসিক"_s,
+		u"চতুর্থ ত্রৈমাসিক"_s
 	}));
 	$var($StringArray, metaValue_QuarterNarrows, $new($StringArray, {
-		u"\u09e7"_s,
-		u"\u09e8"_s,
-		u"\u09e9"_s,
-		u"\u09ea"_s
+		u"১"_s,
+		u"২"_s,
+		u"৩"_s,
+		u"৪"_s
 	}));
 	$var($StringArray, metaValue_AmPmMarkers, $new($StringArray, {
 		"AM"_s,
 		"PM"_s,
 		""_s,
 		""_s,
-		u"\u09ad\u09cb\u09b0"_s,
-		u"\u09b8\u0995\u09be\u09b2"_s,
-		u"\u09a6\u09c1\u09aa\u09c1\u09b0"_s,
-		u"\u09ac\u09bf\u0995\u09be\u09b2"_s,
-		u"\u09b8\u09a8\u09cd\u09a7\u09cd\u09af\u09be"_s,
+		u"ভোর"_s,
+		u"সকাল"_s,
+		u"দুপুর"_s,
+		u"বিকাল"_s,
+		u"সন্ধ্যা"_s,
 		""_s,
-		u"\u09b0\u09be\u09a4\u09cd\u09b0\u09bf\u09a4\u09c7"_s,
+		u"রাত্রিতে"_s,
 		""_s
 	}));
 	$var($StringArray, metaValue_narrow_AmPmMarkers, $new($StringArray, {
@@ -142,18 +142,18 @@ $ObjectArray2* FormatData_bn::getContents() {
 		"PM"_s,
 		""_s,
 		""_s,
-		u"\u09ad\u09cb\u09b0"_s,
-		u"\u09b8\u0995\u09be\u09b2"_s,
-		u"\u09a6\u09c1\u09aa\u09c1\u09b0"_s,
-		u"\u09ac\u09bf\u0995\u09be\u09b2"_s,
-		u"\u09b8\u09a8\u09cd\u09a7\u09cd\u09af\u09be"_s,
+		u"ভোর"_s,
+		u"সকাল"_s,
+		u"দুপুর"_s,
+		u"বিকাল"_s,
+		u"সন্ধ্যা"_s,
 		""_s,
-		u"\u09b0\u09be\u09a4\u09cd\u09b0\u09bf"_s,
+		u"রাত্রি"_s,
 		""_s
 	}));
 	$var($StringArray, metaValue_Eras, $new($StringArray, {
-		u"\u0996\u09cd\u09b0\u09bf\u09b8\u09cd\u099f\u09aa\u09c2\u09b0\u09cd\u09ac"_s,
-		u"\u0996\u09c3\u09b7\u09cd\u099f\u09be\u09ac\u09cd\u09a6"_s
+		u"খ্রিস্টপূর্ব"_s,
+		u"খৃষ্টাব্দ"_s
 	}));
 	$var($StringArray, metaValue_TimePatterns, $new($StringArray, {
 		"h:mm:ss a zzzz"_s,
@@ -178,29 +178,29 @@ $ObjectArray2* FormatData_bn::getContents() {
 		"d/M/y G"_s
 	}));
 	$var($StringArray, metaValue_java_time_roc_long_Eras, $new($StringArray, {
-		u"\u0986\u0997\u09c7 R.O.C."_s,
-		u"\u09ae\u09bf\u0999\u09cd\u0997\u09c1\u09af\u09bc\u09be"_s
+		u"আগে R.O.C."_s,
+		u"মিঙ্গুয়া"_s
 	}));
 	$var($StringArray, metaValue_islamic_MonthNames, $new($StringArray, {
-		u"\u09ae\u09b9\u09b0\u09b0\u09ae"_s,
-		u"\u09b8\u09ab\u09b0"_s,
-		u"\u09b0\u09ac\u09bf\u0989\u09b2 \u0986\u0989\u09af\u09bc\u09be\u09b2"_s,
-		u"\u09b0\u09ac\u09bf\u0989\u09b8 \u09b8\u09be\u09a8\u09bf"_s,
-		u"\u099c\u09ae\u09be\u09a6\u09bf\u0989\u09b2 \u0986\u0989\u09af\u09bc\u09be\u09b2"_s,
-		u"\u099c\u09ae\u09be\u09a6\u09bf\u0989\u09b8 \u09b8\u09be\u09a8\u09bf"_s,
-		u"\u09b0\u099c\u09ac"_s,
-		u"\u09b6\u09be\u2018\u09ac\u09be\u09a8"_s,
-		u"\u09b0\u09ae\u099c\u09be\u09a8"_s,
-		u"\u09b6\u09be\u0993\u09af\u09bc\u09be\u09b2"_s,
-		u"\u099c\u09cd\u09ac\u09bf\u09b2\u0995\u09a6"_s,
-		u"\u099c\u09cd\u09ac\u09bf\u09b2\u09b9\u099c\u09cd\u099c"_s,
+		u"মহররম"_s,
+		u"সফর"_s,
+		u"রবিউল আউয়াল"_s,
+		u"রবিউস সানি"_s,
+		u"জমাদিউল আউয়াল"_s,
+		u"জমাদিউস সানি"_s,
+		u"রজব"_s,
+		u"শা‘বান"_s,
+		u"রমজান"_s,
+		u"শাওয়াল"_s,
+		u"জ্বিলকদ"_s,
+		u"জ্বিলহজ্জ"_s,
 		""_s
 	}));
 	$var($StringArray, metaValue_java_time_islamic_long_Eras, $new($StringArray, {
 		""_s,
-		u"\u09af\u09c1\u0997"_s
+		u"যুগ"_s
 	}));
-	$var($String, metaValue_calendarname_gregorian, u"\u0997\u09cd\u09b0\u09bf\u0997\u09cb\u09b0\u09bf\u09af\u09bc\u09be\u09a8 \u0995\u09cd\u09af\u09be\u09b2\u09c7\u09a8\u09cd\u09a1\u09be\u09b0"_s);
+	$var($String, metaValue_calendarname_gregorian, u"গ্রিগোরিয়ান ক্যালেন্ডার"_s);
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("MonthNames"_s),
@@ -208,11 +208,11 @@ $ObjectArray2* FormatData_bn::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.year"_s),
-			$of(u"\u09ac\u099b\u09b0"_s)
+			$of(u"বছর"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.islamic-umalqura"_s),
-			$of(u"\u0987\u09b8\u09b2\u09be\u09ae\u09bf\u0995 \u09ac\u09b0\u09cd\u09b7\u09aa\u099e\u09cd\u099c\u09c0 (\u0989\u09ae\u09cd\u09ae\u09be \u0986\u09b2-\u0995\u09c1\u09b0\u0986)"_s)
+			$of(u"ইসলামিক বর্ষপঞ্জী (উম্মা আল-কুরআ)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("japanese.AmPmMarkers"_s),
@@ -253,7 +253,7 @@ $ObjectArray2* FormatData_bn::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.islamic-civil"_s),
-			$of(u"\u0987\u09b8\u09b2\u09be\u09ae\u09bf\u0995-\u09b8\u09bf\u09ad\u09bf\u09b2 \u09ac\u09b0\u09cd\u09b7\u09aa\u099e\u09cd\u099c\u09c0"_s)
+			$of(u"ইসলামিক-সিভিল বর্ষপঞ্জী"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("islamic.narrow.AmPmMarkers"_s),
@@ -277,7 +277,7 @@ $ObjectArray2* FormatData_bn::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.regionFormat.standard"_s),
-			$of(u"{0} \u09ae\u09be\u09a8\u0995 \u09b8\u09ae\u09af\u09bc"_s)
+			$of(u"{0} মানক সময়"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("DefaultNumberingSystem"_s),
@@ -289,7 +289,7 @@ $ObjectArray2* FormatData_bn::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.japanese"_s),
-			$of(u"\u099c\u09be\u09aa\u09be\u09a8\u09bf \u0995\u09cd\u09af\u09be\u09b2\u09c7\u09a8\u09cd\u09a1\u09be\u09b0"_s)
+			$of(u"জাপানি ক্যালেন্ডার"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("japanese.MonthNames"_s),
@@ -314,12 +314,12 @@ $ObjectArray2* FormatData_bn::getContents() {
 				","_s,
 				";"_s,
 				"%"_s,
-				u"\u09e6"_s,
+				u"০"_s,
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
+				u"‰"_s,
+				u"∞"_s,
 				"NaN"_s,
 				""_s,
 				""_s
@@ -328,8 +328,8 @@ $ObjectArray2* FormatData_bn::getContents() {
 		$$new($ObjectArray, {
 			$of("long.Eras"_s),
 			$of($$new($StringArray, {
-				u"\u0996\u09cd\u09b0\u09bf\u09b8\u09cd\u099f\u09aa\u09c2\u09b0\u09cd\u09ac"_s,
-				u"\u0996\u09cd\u09b0\u09c0\u09b7\u09cd\u099f\u09be\u09ac\u09cd\u09a6"_s
+				u"খ্রিস্টপূর্ব"_s,
+				u"খ্রীষ্টাব্দ"_s
 			}))
 		}),
 		$$new($ObjectArray, {
@@ -372,8 +372,8 @@ $ObjectArray2* FormatData_bn::getContents() {
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
+				u"‰"_s,
+				u"∞"_s,
 				"NaN"_s,
 				""_s,
 				""_s
@@ -393,11 +393,11 @@ $ObjectArray2* FormatData_bn::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.minute"_s),
-			$of(u"\u09ae\u09bf\u09a8\u09bf\u099f"_s)
+			$of(u"মিনিট"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("field.era"_s),
-			$of(u"\u09af\u09c1\u0997"_s)
+			$of(u"যুগ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("buddhist.AmPmMarkers"_s),
@@ -423,14 +423,14 @@ $ObjectArray2* FormatData_bn::getContents() {
 			$of("beng.NumberPatterns"_s),
 			$of($$new($StringArray, {
 				"#,##,##0.###"_s,
-				u"#,##,##0.00\u00a4"_s,
+				u"#,##,##0.00¤"_s,
 				"#,##0%"_s,
 				""_s
 			}))
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.roc"_s),
-			$of(u"\u09ae\u09bf\u0999\u09cd\u0997\u09c1\u0993 \u0995\u09cd\u09af\u09be\u09b2\u09c7\u09a8\u09cd\u09a1\u09be\u09b0"_s)
+			$of(u"মিঙ্গুও ক্যালেন্ডার"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("islamic.DatePatterns"_s),
@@ -446,7 +446,7 @@ $ObjectArray2* FormatData_bn::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.month"_s),
-			$of(u"\u09ae\u09be\u09b8"_s)
+			$of(u"মাস"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("roc.Eras"_s),
@@ -454,23 +454,23 @@ $ObjectArray2* FormatData_bn::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.second"_s),
-			$of(u"\u09b8\u09c7\u0995\u09c7\u09a8\u09cd\u09a1"_s)
+			$of(u"সেকেন্ড"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("islamic.MonthNarrows"_s),
 			$of($$new($StringArray, {
-				u"\u09e7"_s,
-				u"\u09e8"_s,
-				u"\u09e9"_s,
-				u"\u09ea"_s,
-				u"\u09eb"_s,
-				u"\u09ec"_s,
-				u"\u09ed"_s,
-				u"\u09ee"_s,
-				u"\u09ef"_s,
-				u"\u09e7\u09e6"_s,
-				u"\u09e7\u09e7"_s,
-				u"\u09e7\u09e8"_s,
+				u"১"_s,
+				u"২"_s,
+				u"৩"_s,
+				u"৪"_s,
+				u"৫"_s,
+				u"৬"_s,
+				u"৭"_s,
+				u"৮"_s,
+				u"৯"_s,
+				u"১০"_s,
+				u"১১"_s,
+				u"১২"_s,
 				""_s
 			}))
 		}),
@@ -488,7 +488,7 @@ $ObjectArray2* FormatData_bn::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.islamic"_s),
-			$of(u"\u0987\u09b8\u09b2\u09be\u09ae\u09bf\u0995 \u0995\u09cd\u09af\u09be\u09b2\u09c7\u09a8\u09cd\u09a1\u09be\u09b0"_s)
+			$of(u"ইসলামিক ক্যালেন্ডার"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("java.time.roc.long.Eras"_s),
@@ -516,7 +516,7 @@ $ObjectArray2* FormatData_bn::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.regionFormat"_s),
-			$of(u"{0} \u09b8\u09ae\u09af\u09bc"_s)
+			$of(u"{0} সময়"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("long.CompactNumberPatterns"_s),
@@ -524,18 +524,18 @@ $ObjectArray2* FormatData_bn::getContents() {
 				""_s,
 				""_s,
 				""_s,
-				u"{one:0\' \'\u09b9\u09be\u099c\u09be\u09b0 other:0\' \'\u09b9\u09be\u099c\u09be\u09b0}"_s,
-				u"{one:00\' \'\u09b9\u09be\u099c\u09be\u09b0 other:00\' \'\u09b9\u09be\u099c\u09be\u09b0}"_s,
-				u"{one:0\' \'\u09b2\u09be\u0996 other:0\' \'\u09b2\u09be\u0996}"_s,
-				u"{one:00\' \'\u09b2\u09be\u0996 other:00\' \'\u09b2\u09be\u0996}"_s,
-				u"{one:0\' \'\u0995\u09cb\u099f\u09bf other:0\' \'\u0995\u09cb\u099f\u09bf}"_s,
-				u"{one:00\' \'\u0995\u09cb\u099f\u09bf other:00\' \'\u0995\u09cb\u099f\u09bf}"_s,
-				u"{one:000\' \'\u0995\u09cb\u099f\u09bf other:000\' \'\u0995\u09cb\u099f\u09bf}"_s,
-				u"{one:0000\' \'\u0995\u09cb\u099f\u09bf other:0000\' \'\u0995\u09cb\u099f\u09bf}"_s,
-				u"{one:00000\' \'\u0995\u09cb\u099f\u09bf other:00000\' \'\u0995\u09cb\u099f\u09bf}"_s,
-				u"{one:0\' \'\u09b2\u09be\u0996\' \'\u0995\u09cb\u099f\u09bf other:0\' \'\u09b2\u09be\u0996\' \'\u0995\u09cb\u099f\u09bf}"_s,
-				u"{one:00\' \'\u09b2\u09be\u0996\' \'\u0995\u09cb\u099f\u09bf other:00\' \'\u09b2\u09be\u0996\' \'\u0995\u09cb\u099f\u09bf}"_s,
-				u"{one:000\' \'\u09b2\u09be\u0996\' \'\u0995\u09cb\u099f\u09bf other:000\' \'\u09b2\u09be\u0996\' \'\u0995\u09cb\u099f\u09bf}"_s
+				u"{one:0\' \'হাজার other:0\' \'হাজার}"_s,
+				u"{one:00\' \'হাজার other:00\' \'হাজার}"_s,
+				u"{one:0\' \'লাখ other:0\' \'লাখ}"_s,
+				u"{one:00\' \'লাখ other:00\' \'লাখ}"_s,
+				u"{one:0\' \'কোটি other:0\' \'কোটি}"_s,
+				u"{one:00\' \'কোটি other:00\' \'কোটি}"_s,
+				u"{one:000\' \'কোটি other:000\' \'কোটি}"_s,
+				u"{one:0000\' \'কোটি other:0000\' \'কোটি}"_s,
+				u"{one:00000\' \'কোটি other:00000\' \'কোটি}"_s,
+				u"{one:0\' \'লাখ\' \'কোটি other:0\' \'লাখ\' \'কোটি}"_s,
+				u"{one:00\' \'লাখ\' \'কোটি other:00\' \'লাখ\' \'কোটি}"_s,
+				u"{one:000\' \'লাখ\' \'কোটি other:000\' \'লাখ\' \'কোটি}"_s
 			}))
 		}),
 		$$new($ObjectArray, {
@@ -592,7 +592,7 @@ $ObjectArray2* FormatData_bn::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.zone"_s),
-			$of(u"\u09b8\u09ae\u09af\u09bc \u0985\u099e\u09cd\u099a\u09b2"_s)
+			$of(u"সময় অঞ্চল"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("japanese.QuarterAbbreviations"_s),
@@ -640,7 +640,7 @@ $ObjectArray2* FormatData_bn::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.weekday"_s),
-			$of(u"\u09b8\u09aa\u09cd\u09a4\u09be\u09b9\u09c7\u09b0 \u09a6\u09bf\u09a8"_s)
+			$of(u"সপ্তাহের দিন"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("japanese.MonthAbbreviations"_s),
@@ -696,7 +696,7 @@ $ObjectArray2* FormatData_bn::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.week"_s),
-			$of(u"\u09b8\u09aa\u09cd\u09a4\u09be\u09b9"_s)
+			$of(u"সপ্তাহ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("buddhist.MonthNarrows"_s),
@@ -732,18 +732,18 @@ $ObjectArray2* FormatData_bn::getContents() {
 				""_s,
 				""_s,
 				""_s,
-				u"{one:0\u00a0\u09b9\u09be other:0\u00a0\u09b9\u09be}"_s,
-				u"{one:00\u00a0\u09b9\u09be other:00\u00a0\u09b9\u09be}"_s,
-				u"{one:0\u00a0\u09b2\u09be other:0\u00a0\u09b2\u09be}"_s,
-				u"{one:00\u00a0\u09b2\u09be other:00\u00a0\u09b2\u09be}"_s,
-				u"{one:0\u00a0\u0995\u09cb other:0\u00a0\u0995\u09cb}"_s,
-				u"{one:00\u00a0\u0995\u09cb other:00\u00a0\u0995\u09cb}"_s,
-				u"{one:000\u00a0\u0995\u09cb other:000\u00a0\u0995\u09cb}"_s,
-				u"{one:00\u00a0\u09b6\u09a4\u00a0\u0995\u09cb other:00\u09b6\u09a4\u00a0\u0995\u09cb}"_s,
-				u"{one:000\u0995\u09cb other:000\u0995\u09cb}"_s,
-				u"{one:0\u00a0\u09b2\u09be\'.\'\u0995\u09cb\'.\' other:0\u00a0\u09b2\u09be\'.\'\u0995\u09cb\'.\'}"_s,
-				u"{one:00\u00a0\u09b2\u09be\'.\'\u0995\u09cb\'.\' other:00\u00a0\u09b2\u09be\'.\'\u0995\u09cb\'.\'}"_s,
-				u"{one:000\u00a0\u09b2\u09be\'.\'\u0995\u09cb\'.\' other:000\u00a0\u09b2\u09be\'.\'\u0995\u09cb\'.\'}"_s
+				u"{one:0 হা other:0 হা}"_s,
+				u"{one:00 হা other:00 হা}"_s,
+				u"{one:0 লা other:0 লা}"_s,
+				u"{one:00 লা other:00 লা}"_s,
+				u"{one:0 কো other:0 কো}"_s,
+				u"{one:00 কো other:00 কো}"_s,
+				u"{one:000 কো other:000 কো}"_s,
+				u"{one:00 শত কো other:00শত কো}"_s,
+				u"{one:000কো other:000কো}"_s,
+				u"{one:0 লা\'.\'কো\'.\' other:0 লা\'.\'কো\'.\'}"_s,
+				u"{one:00 লা\'.\'কো\'.\' other:00 লা\'.\'কো\'.\'}"_s,
+				u"{one:000 লা\'.\'কো\'.\' other:000 লা\'.\'কো\'.\'}"_s
 			}))
 		}),
 		$$new($ObjectArray, {
@@ -756,7 +756,7 @@ $ObjectArray2* FormatData_bn::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.regionFormat.daylight"_s),
-			$of(u"{0} \u09a6\u09bf\u09ac\u09be\u09b2\u09cb\u0995 \u09b8\u09ae\u09af\u09bc"_s)
+			$of(u"{0} দিবালোক সময়"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("DatePatterns"_s),
@@ -789,7 +789,7 @@ $ObjectArray2* FormatData_bn::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.hour"_s),
-			$of(u"\u0998\u09a3\u09cd\u099f\u09be"_s)
+			$of(u"ঘণ্টা"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("islamic.MonthAbbreviations"_s),
@@ -801,7 +801,7 @@ $ObjectArray2* FormatData_bn::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.buddhist"_s),
-			$of(u"\u09ac\u09cc\u09a6\u09cd\u09a7 \u0995\u09cd\u09af\u09be\u09b2\u09c7\u09a8\u09cd\u09a1\u09be\u09b0"_s)
+			$of(u"বৌদ্ধ ক্যালেন্ডার"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("standalone.MonthNames"_s),
@@ -811,9 +811,9 @@ $ObjectArray2* FormatData_bn::getContents() {
 			$of("latn.NumberPatterns"_s),
 			$of($$new($StringArray, {
 				"#,##,##0.###"_s,
-				u"#,##,##0.00\u00a4"_s,
+				u"#,##,##0.00¤"_s,
 				"#,##,##0%"_s,
-				u"#,##,##0.00\u00a4;(#,##,##0.00\u00a4)"_s
+				u"#,##,##0.00¤;(#,##,##0.00¤)"_s
 			}))
 		}),
 		$$new($ObjectArray, {

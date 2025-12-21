@@ -46,9 +46,9 @@ $ObjectArray2* JavaTimeSupplementary_es::getContents() {
 	}));
 	$var($StringArray, sharedQuarterNames, $new($StringArray, {
 		"1.er trimestre"_s,
-		u"2.\u00ba trimestre"_s,
+		u"2.º trimestre"_s,
 		"3.er trimestre"_s,
-		u"4.\u00ba trimestre"_s
+		u"4.º trimestre"_s
 	}));
 	$var($StringArray, sharedAmPmMarkers, $new($StringArray, {
 		"a. m."_s,
@@ -64,19 +64,19 @@ $ObjectArray2* JavaTimeSupplementary_es::getContents() {
 		"dom."_s,
 		"lun."_s,
 		"mar."_s,
-		u"mi\u00e9."_s,
+		u"mié."_s,
 		"jue."_s,
 		"vie."_s,
-		u"s\u00e1b."_s
+		u"sáb."_s
 	}));
 	$var($StringArray, sharedDayNames, $new($StringArray, {
 		"domingo"_s,
 		"lunes"_s,
 		"martes"_s,
-		u"mi\u00e9rcoles"_s,
+		u"miércoles"_s,
 		"jueves"_s,
 		"viernes"_s,
-		u"s\u00e1bado"_s
+		u"sábado"_s
 	}));
 	$var($StringArray, sharedDayNarrows, $new($StringArray, {
 		"D"_s,
@@ -126,19 +126,19 @@ $ObjectArray2* JavaTimeSupplementary_es::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.islamic"_s),
-			$of(u"calendario isl\u00e1mico"_s)
+			$of(u"calendario islámico"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.islamic-civil"_s),
-			$of(u"calendario civil isl\u00e1mico"_s)
+			$of(u"calendario civil islámico"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.japanese"_s),
-			$of(u"calendario japon\u00e9s"_s)
+			$of(u"calendario japonés"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.roc"_s),
-			$of(u"calendario de la Rep\u00fablica de China"_s)
+			$of(u"calendario de la República de China"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("field.dayperiod"_s),
@@ -170,11 +170,11 @@ $ObjectArray2* JavaTimeSupplementary_es::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.weekday"_s),
-			$of(u"d\u00eda de la semana"_s)
+			$of(u"día de la semana"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("field.year"_s),
-			$of(u"a\u00f1o"_s)
+			$of(u"año"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("field.zone"_s),
@@ -248,7 +248,7 @@ $ObjectArray2* JavaTimeSupplementary_es::getContents() {
 			$of("java.time.long.Eras"_s),
 			$of($$new($StringArray, {
 				"antes de Cristo"_s,
-				u"despu\u00e9s de Cristo"_s
+				u"después de Cristo"_s
 			}))
 		}),
 		$$new($ObjectArray, {
@@ -259,7 +259,7 @@ $ObjectArray2* JavaTimeSupplementary_es::getContents() {
 			$of("java.time.short.Eras"_s),
 			$of($$new($StringArray, {
 				"antes de Cristo"_s,
-				u"anno D\u00f3mini"_s
+				u"anno Dómini"_s
 			}))
 		}),
 		$$new($ObjectArray, {

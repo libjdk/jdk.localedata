@@ -41,11 +41,11 @@ $ObjectArray2* LocaleNames_sk::getContents() {
 	return $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("SK"_s),
-			$of(u"Slovensk\u00e1 republika"_s)
+			$of(u"Slovenská republika"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sk"_s),
-			$of(u"Sloven\u010dina"_s)
+			$of(u"Slovenčina"_s)
 		})
 	});
 }

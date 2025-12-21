@@ -42,23 +42,23 @@ $ObjectArray2* CurrencyNames_bo::getContents() {
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("CNY"_s),
-			$of(u"\u00a5"_s)
+			$of(u"¥"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cny"_s),
-			$of(u"\u0f61\u0f74\u0f0b\u0f68\u0f53\u0f0b"_s)
+			$of(u"ཡུ་ཨན་"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("inr"_s),
-			$of(u"\u0f62\u0f92\u0fb1\u0f0b\u0f42\u0f62\u0f0b\u0f66\u0f92\u0f7c\u0f62\u0f0b"_s)
+			$of(u"རྒྱ་གར་སྒོར་"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("usd"_s),
-			$of(u"\u0f68\u0f0b\u0f62\u0f72\u0f60\u0f72\u0f0b\u0f66\u0f92\u0f7c\u0f62\u0f0b"_s)
+			$of(u"ཨ་རིའི་སྒོར་"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xxx"_s),
-			$of(u"\u0f58\u0f0b\u0f62\u0f9f\u0f7c\u0f42\u0f66\u0f0b\u0f54\u0f60\u0f72\u0f0b\u0f53\u0f74\u0f66\u0f0b\u0f58\u0f7a\u0f51\u0f0b\u0f51\u0f44\u0f74\u0f63\u0f0b\u0f63\u0f7c\u0f62"_s)
+			$of(u"མ་རྟོགས་པའི་ནུས་མེད་དངུལ་ལོར"_s)
 		})
 	}));
 	return data;

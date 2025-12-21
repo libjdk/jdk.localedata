@@ -42,8 +42,8 @@ $ObjectArray2* FormatData_lb::getContents() {
 	$var($StringArray, metaValue_MonthNames, $new($StringArray, {
 		"Januar"_s,
 		"Februar"_s,
-		u"M\u00e4erz"_s,
-		u"Abr\u00ebll"_s,
+		u"Mäerz"_s,
+		u"Abrëll"_s,
 		"Mee"_s,
 		"Juni"_s,
 		"Juli"_s,
@@ -57,7 +57,7 @@ $ObjectArray2* FormatData_lb::getContents() {
 	$var($StringArray, metaValue_MonthAbbreviations, $new($StringArray, {
 		"Jan."_s,
 		"Feb."_s,
-		u"M\u00e4e."_s,
+		u"Mäe."_s,
 		"Abr."_s,
 		"Mee"_s,
 		"Juni"_s,
@@ -86,18 +86,18 @@ $ObjectArray2* FormatData_lb::getContents() {
 	}));
 	$var($StringArray, metaValue_DayNames, $new($StringArray, {
 		"Sonndeg"_s,
-		u"M\u00e9indeg"_s,
-		u"D\u00ebnschdeg"_s,
-		u"M\u00ebttwoch"_s,
+		u"Méindeg"_s,
+		u"Dënschdeg"_s,
+		u"Mëttwoch"_s,
 		"Donneschdeg"_s,
 		"Freideg"_s,
 		"Samschdeg"_s
 	}));
 	$var($StringArray, metaValue_DayAbbreviations, $new($StringArray, {
 		"Son."_s,
-		u"M\u00e9i."_s,
-		u"D\u00ebn."_s,
-		u"M\u00ebt."_s,
+		u"Méi."_s,
+		u"Dën."_s,
+		u"Mët."_s,
 		"Don."_s,
 		"Fre."_s,
 		"Sam."_s
@@ -125,7 +125,7 @@ $ObjectArray2* FormatData_lb::getContents() {
 	}));
 	$var($StringArray, metaValue_AmPmMarkers, $new($StringArray, {
 		"moies"_s,
-		u"nom\u00ebttes"_s,
+		u"nomëttes"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -139,7 +139,7 @@ $ObjectArray2* FormatData_lb::getContents() {
 	}));
 	$var($StringArray, metaValue_narrow_AmPmMarkers, $new($StringArray, {
 		"mo."_s,
-		u"nom\u00eb."_s,
+		u"nomë."_s,
 		""_s,
 		""_s,
 		""_s,
@@ -255,7 +255,7 @@ $ObjectArray2* FormatData_lb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.regionFormat.standard"_s),
-			$of(u"{0} Normalz\u00e4it"_s)
+			$of(u"{0} Normalzäit"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("japanese.abbreviated.AmPmMarkers"_s),
@@ -273,9 +273,9 @@ $ObjectArray2* FormatData_lb::getContents() {
 			$of("standalone.DayAbbreviations"_s),
 			$of($$new($StringArray, {
 				"Son"_s,
-				u"M\u00e9i"_s,
-				u"D\u00ebn"_s,
-				u"M\u00ebt"_s,
+				u"Méi"_s,
+				u"Dën"_s,
+				u"Mët"_s,
 				"Don"_s,
 				"Fre"_s,
 				"Sam"_s
@@ -333,8 +333,8 @@ $ObjectArray2* FormatData_lb::getContents() {
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
+				u"‰"_s,
+				u"∞"_s,
 				"NaN"_s,
 				""_s,
 				""_s
@@ -441,7 +441,7 @@ $ObjectArray2* FormatData_lb::getContents() {
 			$of($$new($StringArray, {
 				"Jan"_s,
 				"Feb"_s,
-				u"M\u00e4e"_s,
+				u"Mäe"_s,
 				"Abr"_s,
 				"Mee"_s,
 				"Jun"_s,
@@ -456,7 +456,7 @@ $ObjectArray2* FormatData_lb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.regionFormat"_s),
-			$of(u"{0} Z\u00e4it"_s)
+			$of(u"{0} Zäit"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("long.CompactNumberPatterns"_s),
@@ -532,7 +532,7 @@ $ObjectArray2* FormatData_lb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.zone"_s),
-			$of(u"Z\u00e4itzon"_s)
+			$of(u"Zäitzon"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("japanese.QuarterAbbreviations"_s),
@@ -664,18 +664,18 @@ $ObjectArray2* FormatData_lb::getContents() {
 				""_s,
 				""_s,
 				""_s,
-				u"{one:0\u00a0Dsd\'.\' other:0\u00a0Dsd\'.\'}"_s,
-				u"{one:00\u00a0Dsd\'.\' other:00\u00a0Dsd\'.\'}"_s,
-				u"{one:000\u00a0Dsd\'.\' other:000\u00a0Dsd\'.\'}"_s,
-				u"{one:0\u00a0Mio\'.\' other:0\u00a0Mio\'.\'}"_s,
-				u"{one:00\u00a0Mio\'.\' other:00\u00a0Mio\'.\'}"_s,
-				u"{one:000\u00a0Mio\'.\' other:000\u00a0Mio\'.\'}"_s,
-				u"{one:0\u00a0Mrd\'.\' other:0\u00a0Mrd\'.\'}"_s,
-				u"{one:00\u00a0Mrd\'.\' other:00\u00a0Mrd\'.\'}"_s,
-				u"{one:000\u00a0Mrd\'.\' other:000\u00a0Mrd\'.\'}"_s,
-				u"{one:0\u00a0Bio\'.\' other:0\u00a0Bio\'.\'}"_s,
-				u"{one:00\u00a0Bio\'.\' other:00\u00a0Bio\'.\'}"_s,
-				u"{one:000\u00a0Bio\'.\' other:000\u00a0Bio\'.\'}"_s
+				u"{one:0 Dsd\'.\' other:0 Dsd\'.\'}"_s,
+				u"{one:00 Dsd\'.\' other:00 Dsd\'.\'}"_s,
+				u"{one:000 Dsd\'.\' other:000 Dsd\'.\'}"_s,
+				u"{one:0 Mio\'.\' other:0 Mio\'.\'}"_s,
+				u"{one:00 Mio\'.\' other:00 Mio\'.\'}"_s,
+				u"{one:000 Mio\'.\' other:000 Mio\'.\'}"_s,
+				u"{one:0 Mrd\'.\' other:0 Mrd\'.\'}"_s,
+				u"{one:00 Mrd\'.\' other:00 Mrd\'.\'}"_s,
+				u"{one:000 Mrd\'.\' other:000 Mrd\'.\'}"_s,
+				u"{one:0 Bio\'.\' other:0 Bio\'.\'}"_s,
+				u"{one:00 Bio\'.\' other:00 Bio\'.\'}"_s,
+				u"{one:000 Bio\'.\' other:000 Bio\'.\'}"_s
 			}))
 		}),
 		$$new($ObjectArray, {
@@ -688,7 +688,7 @@ $ObjectArray2* FormatData_lb::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.regionFormat.daylight"_s),
-			$of(u"{0} Summerz\u00e4it"_s)
+			$of(u"{0} Summerzäit"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("DatePatterns"_s),
@@ -739,9 +739,9 @@ $ObjectArray2* FormatData_lb::getContents() {
 			$of("latn.NumberPatterns"_s),
 			$of($$new($StringArray, {
 				"#,##0.###"_s,
-				u"#,##0.00\u00a0\u00a4"_s,
-				u"#,##0\u00a0%"_s,
-				u"#,##0.00\u00a0\u00a4"_s
+				u"#,##0.00 ¤"_s,
+				u"#,##0 %"_s,
+				u"#,##0.00 ¤"_s
 			}))
 		}),
 		$$new($ObjectArray, {

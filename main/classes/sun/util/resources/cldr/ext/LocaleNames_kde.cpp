@@ -178,7 +178,7 @@ $ObjectArray2* LocaleNames_kde::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("CF"_s),
-			$of(u"Jamuhuli ya Afilika ya Paching\u2019ati"_s)
+			$of(u"Jamuhuli ya Afilika ya Paching’ati"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("CG"_s),

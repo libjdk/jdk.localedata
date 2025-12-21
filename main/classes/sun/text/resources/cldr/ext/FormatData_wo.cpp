@@ -48,10 +48,10 @@ $ObjectArray2* FormatData_wo::getContents() {
 		"Suwe"_s,
 		"Sulet"_s,
 		"Ut"_s,
-		u"S\u00e0ttumbar"_s,
+		u"Sàttumbar"_s,
 		"Oktoobar"_s,
-		u"Now\u00e0mbar"_s,
-		u"Des\u00e0mbar"_s,
+		u"Nowàmbar"_s,
+		u"Desàmbar"_s,
 		""_s
 	}));
 	$var($StringArray, metaValue_MonthAbbreviations, $new($StringArray, {
@@ -63,28 +63,28 @@ $ObjectArray2* FormatData_wo::getContents() {
 		"Suw"_s,
 		"Sul"_s,
 		"Ut"_s,
-		u"S\u00e0t"_s,
+		u"Sàt"_s,
 		"Okt"_s,
 		"Now"_s,
 		"Des"_s,
 		""_s
 	}));
 	$var($StringArray, metaValue_DayNames, $new($StringArray, {
-		u"Dib\u00e9er"_s,
+		u"Dibéer"_s,
 		"Altine"_s,
 		"Talaata"_s,
-		u"\u00c0larba"_s,
+		u"Àlarba"_s,
 		"Alxamis"_s,
-		u"\u00c0jjuma"_s,
+		u"Àjjuma"_s,
 		"Aseer"_s
 	}));
 	$var($StringArray, metaValue_DayAbbreviations, $new($StringArray, {
 		"Dib"_s,
 		"Alt"_s,
 		"Tal"_s,
-		u"\u00c0la"_s,
+		u"Àla"_s,
 		"Alx"_s,
-		u"\u00c0jj"_s,
+		u"Àjj"_s,
 		"Ase"_s
 	}));
 	$var($StringArray, metaValue_QuarterNames, $new($StringArray, {
@@ -333,8 +333,8 @@ $ObjectArray2* FormatData_wo::getContents() {
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
+				u"‰"_s,
+				u"∞"_s,
 				"NaN"_s,
 				""_s,
 				""_s
@@ -517,9 +517,9 @@ $ObjectArray2* FormatData_wo::getContents() {
 			$of("latn.NumberPatterns"_s),
 			$of($$new($StringArray, {
 				"#,##0.###"_s,
-				u"\u00a4\u00a0#,##0.00"_s,
+				u"¤ #,##0.00"_s,
 				"#,##0%"_s,
-				u"\u00a4\u00a0#,##0.00"_s
+				u"¤ #,##0.00"_s
 			}))
 		}),
 		$$new($ObjectArray, {

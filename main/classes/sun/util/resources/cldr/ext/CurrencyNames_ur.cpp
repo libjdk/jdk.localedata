@@ -530,7 +530,7 @@ $ObjectArray2* CurrencyNames_ur::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("THB"_s),
-			$of(u"\u0e3f"_s)
+			$of(u"฿"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("TJS"_s),
@@ -610,679 +610,679 @@ $ObjectArray2* CurrencyNames_ur::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("aed"_s),
-			$of(u"\u0645\u062a\u062d\u062f\u06c1 \u0639\u0631\u0628 \u0627\u0645\u0627\u0631\u0627\u062a\u06cc \u062f\u0631\u06c1\u0645"_s)
+			$of(u"متحدہ عرب اماراتی درہم"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("afn"_s),
-			$of(u"\u0627\u0641\u063a\u0627\u0646 \u0627\u0641\u063a\u0627\u0646\u06cc"_s)
+			$of(u"افغان افغانی"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("all"_s),
-			$of(u"\u0627\u0644\u0628\u0627\u0646\u06cc\u0627 \u06a9\u0627 \u0644\u06cc\u06a9"_s)
+			$of(u"البانیا کا لیک"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("amd"_s),
-			$of(u"\u0622\u0631\u0645\u06cc\u0646\u06cc\u0627\u0626\u06cc \u0688\u0631\u0645"_s)
+			$of(u"آرمینیائی ڈرم"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ang"_s),
-			$of(u"\u0646\u06cc\u062f\u0631 \u0644\u06cc\u0646\u0688\u0632 \u0627\u0646\u0679\u06cc\u0644\u06cc\u0626\u0646 \u06af\u0644\u0688\u0631"_s)
+			$of(u"نیدر لینڈز انٹیلیئن گلڈر"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("aoa"_s),
-			$of(u"\u0627\u0646\u06af\u0648\u0644\u0627 \u06a9\u0627 \u06a9\u0648\u0627\u0646\u0632\u0627"_s)
+			$of(u"انگولا کا کوانزا"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ars"_s),
-			$of(u"\u0627\u0631\u062c\u0646\u0679\u0627\u0626\u0646 \u067e\u06cc\u0633\u06c1"_s)
+			$of(u"ارجنٹائن پیسہ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("aud"_s),
-			$of(u"\u0622\u0633\u0679\u0631\u06cc\u0644\u06cc\u0646 \u0688\u0627\u0644\u0631"_s)
+			$of(u"آسٹریلین ڈالر"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("awg"_s),
-			$of(u"\u0627\u0631\u0648\u0628\u0646 \u0641\u0644\u0648\u0631\u0650\u0646"_s)
+			$of(u"اروبن فلورِن"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("azn"_s),
-			$of(u"\u0622\u0630\u0631\u0628\u0627\u0626\u062c\u0627\u0646\u06cc \u0645\u0646\u0627\u062a"_s)
+			$of(u"آذربائجانی منات"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bam"_s),
-			$of(u"\u0628\u0648\u0633\u0646\u06cc\u0627 \u06c1\u0631\u0632\u06cc\u06af\u0648\u0648\u06cc\u0646\u0627 \u06a9\u0627 \u0642\u0627\u0628\u0644 \u0645\u0646\u062a\u0642\u0644\u06cc \u0646\u0634\u0627\u0646"_s)
+			$of(u"بوسنیا ہرزیگووینا کا قابل منتقلی نشان"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bbd"_s),
-			$of(u"\u0628\u0627\u0631\u0628\u06cc\u0688\u06cc\u0646 \u0688\u0627\u0644\u0631"_s)
+			$of(u"باربیڈین ڈالر"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bdt"_s),
-			$of(u"\u0628\u0646\u06af\u0644\u06c1 \u062f\u06cc\u0634\u06cc \u0679\u06a9\u0627"_s)
+			$of(u"بنگلہ دیشی ٹکا"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bgn"_s),
-			$of(u"\u0628\u0644\u063a\u0627\u0631\u06cc\u0646 \u0644\u06cc\u0648"_s)
+			$of(u"بلغارین لیو"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bhd"_s),
-			$of(u"\u0628\u062d\u0631\u06cc\u0646\u06cc \u062f\u06cc\u0646\u0627\u0631"_s)
+			$of(u"بحرینی دینار"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bif"_s),
-			$of(u"\u0628\u0631\u0648\u0646\u0688\u06cc\u0626\u0646 \u0641\u0631\u0627\u0646\u06a9"_s)
+			$of(u"برونڈیئن فرانک"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bmd"_s),
-			$of(u"\u0628\u0631\u0645\u0648\u0688\u0627 \u0688\u0627\u0644\u0631"_s)
+			$of(u"برموڈا ڈالر"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bnd"_s),
-			$of(u"\u0628\u0631\u0648\u0646\u0626\u06cc \u0688\u0627\u0644\u0631"_s)
+			$of(u"برونئی ڈالر"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bob"_s),
-			$of(u"\u0628\u0648\u0644\u06cc\u0648\u06cc\u0646 \u0628\u0648\u0644\u06cc\u0648\u06cc\u0627\u0646\u0648"_s)
+			$of(u"بولیوین بولیویانو"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("brl"_s),
-			$of(u"\u0628\u0631\u0627\u0632\u06cc\u0644\u06cc \u0631\u06cc\u0626\u0644"_s)
+			$of(u"برازیلی ریئل"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bsd"_s),
-			$of(u"\u0628\u06c1\u0627\u0645\u0627\u0646\u06cc \u0688\u0627\u0644\u0631"_s)
+			$of(u"بہامانی ڈالر"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("btn"_s),
-			$of(u"\u0628\u06be\u0648\u0679\u0627\u0646\u06cc \u06af\u064f\u0644\u0679\u0631\u0645"_s)
+			$of(u"بھوٹانی گُلٹرم"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bwp"_s),
-			$of(u"\u0628\u0648\u062a\u0633\u0648\u0627\u0646\u0627 \u06a9\u0627 \u067e\u0648\u0644\u0627"_s)
+			$of(u"بوتسوانا کا پولا"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("byn"_s),
-			$of(u"\u0628\u06cc\u0644\u0627\u0631\u0648\u0633\u06cc \u0631\u0648\u0628\u0644"_s)
+			$of(u"بیلاروسی روبل"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("byr"_s),
-			$of(u"\u0628\u06cc\u0644\u0627\u0631\u0648\u0633\u06cc \u0631\u0648\u0628\u0644 (\u06f2\u06f0\u06f0\u06f0\u2013\u06f2\u06f0\u06f1\u06f6)"_s)
+			$of(u"بیلاروسی روبل (۲۰۰۰–۲۰۱۶)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bzd"_s),
-			$of(u"\u0628\u06cc\u0644\u06cc\u0632 \u0688\u0627\u0644\u0631"_s)
+			$of(u"بیلیز ڈالر"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cad"_s),
-			$of(u"\u06a9\u0646\u06cc\u0688\u06cc\u0646 \u0688\u0627\u0644\u0631"_s)
+			$of(u"کنیڈین ڈالر"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cdf"_s),
-			$of(u"\u06a9\u0627\u0646\u06af\u0648\u0644\u06cc\u0632 \u0641\u0631\u0627\u0646\u06a9"_s)
+			$of(u"کانگولیز فرانک"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("chf"_s),
-			$of(u"\u0633\u0648\u0626\u0633 \u0641\u0631\u0627\u0646\u06a9\u0633"_s)
+			$of(u"سوئس فرانکس"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("clp"_s),
-			$of(u"\u0686\u0644\u0651\u06cc\u0646 \u067e\u06cc\u0633\u06c1"_s)
+			$of(u"چلّین پیسہ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cnh"_s),
-			$of(u"\u0686\u06cc\u0646\u06cc \u06cc\u0648\u0622\u0646 (\u0622\u0641 \u0634\u0648\u0631)"_s)
+			$of(u"چینی یوآن (آف شور)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cny"_s),
-			$of(u"\u0686\u06cc\u0646\u06cc \u06cc\u0648\u0622\u0646"_s)
+			$of(u"چینی یوآن"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cop"_s),
-			$of(u"\u06a9\u0648\u0644\u0645\u0628\u06cc\u0646 \u067e\u06cc\u0633\u06c1"_s)
+			$of(u"کولمبین پیسہ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("crc"_s),
-			$of(u"\u06a9\u0648\u0633\u0679\u0627 \u0631\u06cc\u06a9\u0627 \u06a9\u0627 \u06a9\u0648\u0644\u0646"_s)
+			$of(u"کوسٹا ریکا کا کولن"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cuc"_s),
-			$of(u"\u06a9\u06cc\u0648\u0628\u0627 \u06a9\u0627 \u0642\u0627\u0628\u0644 \u0645\u0646\u062a\u0642\u0644\u06cc \u067e\u06cc\u0633\u0648"_s)
+			$of(u"کیوبا کا قابل منتقلی پیسو"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cup"_s),
-			$of(u"\u06a9\u06cc\u0648\u0628\u0627 \u06a9\u0627 \u067e\u06cc\u0633\u0648"_s)
+			$of(u"کیوبا کا پیسو"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cve"_s),
-			$of(u"\u06a9\u06cc\u067e \u0648\u0631\u0688\u06cc \u06a9\u0627 \u0627\u0633\u06a9\u06cc\u0648\u0688\u0648"_s)
+			$of(u"کیپ ورڈی کا اسکیوڈو"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("czk"_s),
-			$of(u"\u0686\u06cc\u06a9 \u06a9\u0631\u0648\u0646\u0627"_s)
+			$of(u"چیک کرونا"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("dem"_s),
-			$of(u"\u0688\u0686 \u0645\u0627\u0631\u06a9\u0633"_s)
+			$of(u"ڈچ مارکس"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("djf"_s),
-			$of(u"\u062c\u0628\u0648\u062a\u06cc \u0641\u0631\u0627\u0646\u06a9"_s)
+			$of(u"جبوتی فرانک"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("dkk"_s),
-			$of(u"\u0688\u0646\u0645\u0627\u0631\u06a9 \u06a9\u0631\u0648\u0646"_s)
+			$of(u"ڈنمارک کرون"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("dop"_s),
-			$of(u"\u0688\u0648\u0645\u0646\u06cc\u06a9\u0646 \u067e\u06cc\u0633\u0648"_s)
+			$of(u"ڈومنیکن پیسو"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("dzd"_s),
-			$of(u"\u0627\u0644\u062c\u06cc\u0631\u06cc\u0627\u0626\u06cc \u062f\u06cc\u0646\u0627\u0631"_s)
+			$of(u"الجیریائی دینار"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("eek"_s),
-			$of(u"\u0627\u06cc\u0633\u0679\u0648\u0646\u06cc\u0646 \u06a9\u0631\u0648\u0646"_s)
+			$of(u"ایسٹونین کرون"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("egp"_s),
-			$of(u"\u0645\u0635\u0631\u06cc \u067e\u0627\u0624\u0646\u0688"_s)
+			$of(u"مصری پاؤنڈ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ern"_s),
-			$of(u"\u0627\u0631\u06cc\u0679\u06cc\u0631\u06cc\u0627\u0626\u06cc \u0646\u0627\u06a9\u0641\u0627"_s)
+			$of(u"اریٹیریائی ناکفا"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("etb"_s),
-			$of(u"\u0627\u06cc\u062a\u06be\u0648\u067e\u06cc\u0627\u0626\u06cc \u0628\u0650\u0631\u0651"_s)
+			$of(u"ایتھوپیائی بِرّ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("eur"_s),
-			$of(u"\u06cc\u0648\u0631\u0648"_s)
+			$of(u"یورو"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("fjd"_s),
-			$of(u"\u0641\u062c\u06cc \u06a9\u0627 \u0688\u0627\u0644\u0631"_s)
+			$of(u"فجی کا ڈالر"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("fkp"_s),
-			$of(u"\u0641\u0627\u06a9\u0644\u06cc\u0646\u0688 \u0622\u0626\u0644\u06cc\u0646\u0688\u0632 \u067e\u0648\u0646\u0688"_s)
+			$of(u"فاکلینڈ آئلینڈز پونڈ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gbp"_s),
-			$of(u"\u0628\u0631\u0637\u0627\u0646\u0648\u06cc \u067e\u0627\u0624\u0646\u0688"_s)
+			$of(u"برطانوی پاؤنڈ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gel"_s),
-			$of(u"\u062c\u0627\u0631\u062c\u06cc\u0627\u0626\u06cc \u0644\u0627\u0631\u06cc"_s)
+			$of(u"جارجیائی لاری"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ghs"_s),
-			$of(u"\u06af\u06be\u0627\u0646\u0627 \u06a9\u0627 \u0633\u06cc\u0688\u06cc"_s)
+			$of(u"گھانا کا سیڈی"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gip"_s),
-			$of(u"\u062c\u0628\u0644 \u0627\u0644\u0637\u0627\u0631\u0642 \u067e\u0648\u0646\u0688"_s)
+			$of(u"جبل الطارق پونڈ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gmd"_s),
-			$of(u"\u06af\u0627\u0645\u0628\u06cc\u0627 \u06a9\u0627 \u0688\u0644\u0627\u0633\u06cc"_s)
+			$of(u"گامبیا کا ڈلاسی"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gnf"_s),
-			$of(u"\u06af\u0646\u06cc \u0641\u0631\u0627\u0646\u06a9"_s)
+			$of(u"گنی فرانک"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gtq"_s),
-			$of(u"\u06af\u0648\u0627\u0679\u06d2 \u0645\u0627\u0644\u0627 \u06a9\u0627 \u06a9\u0648\u0626\u0679\u0632\u0644"_s)
+			$of(u"گواٹے مالا کا کوئٹزل"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gyd"_s),
-			$of(u"\u06af\u0648\u06cc\u0627\u0646\u06cc\u0632 \u0688\u0627\u0644\u0631"_s)
+			$of(u"گویانیز ڈالر"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("hkd"_s),
-			$of(u"\u06be\u0627\u0646\u06af \u06a9\u0627\u0646\u06af \u0688\u0627\u0644\u0631"_s)
+			$of(u"ھانگ کانگ ڈالر"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("hnl"_s),
-			$of(u"\u06c1\u0648\u0646\u0688\u0648\u0631\u0627\u0646 \u0644\u06cc\u0645\u067e\u06cc\u0631\u0627"_s)
+			$of(u"ہونڈوران لیمپیرا"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("hrk"_s),
-			$of(u"\u06a9\u0631\u0648\u0634\u06cc\u0646 \u06a9\u0648\u0646\u0627"_s)
+			$of(u"کروشین کونا"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("htg"_s),
-			$of(u"\u06c1\u06cc\u062a\u06cc \u06a9\u0627 \u06af\u0624\u0631\u0688\u06cc"_s)
+			$of(u"ہیتی کا گؤرڈی"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("huf"_s),
-			$of(u"\u06c1\u0646\u06af\u0631\u06cc\u0646 \u0641\u0648\u0631\u0646\u0679"_s)
+			$of(u"ہنگرین فورنٹ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("idr"_s),
-			$of(u"\u0627\u0646\u0688\u0648\u0646\u06cc\u0634\u06cc\u0646 \u0631\u0648\u067e\u06cc\u06c1"_s)
+			$of(u"انڈونیشین روپیہ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ils"_s),
-			$of(u"\u0627\u0633\u0631\u0627\u0626\u06cc\u0644\u06cc \u0646\u06cc\u0627 \u0634\u06cc\u06a9\u0644"_s)
+			$of(u"اسرائیلی نیا شیکل"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("inr"_s),
-			$of(u"\u0628\u06be\u0627\u0631\u062a\u06cc \u0631\u0648\u067e\u06cc\u06c1"_s)
+			$of(u"بھارتی روپیہ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("iqd"_s),
-			$of(u"\u0639\u0631\u0627\u0642\u06cc \u062f\u06cc\u0646\u0627\u0631"_s)
+			$of(u"عراقی دینار"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("irr"_s),
-			$of(u"\u0627\u06cc\u0631\u0627\u0646\u06cc \u0631\u06cc\u0627\u0644"_s)
+			$of(u"ایرانی ریال"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("isk"_s),
-			$of(u"\u0622\u0626\u0633 \u0644\u064a\u0646\u0688\u06cc \u06a9\u0631\u0648\u0646\u0627"_s)
+			$of(u"آئس لينڈی کرونا"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("jmd"_s),
-			$of(u"\u062c\u0645\u0627\u0626\u06cc\u06a9\u0646 \u0688\u0627\u0644\u0631"_s)
+			$of(u"جمائیکن ڈالر"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("jod"_s),
-			$of(u"\u0627\u0631\u062f\u0646\u06cc \u062f\u06cc\u0646\u0627\u0631"_s)
+			$of(u"اردنی دینار"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("jpy"_s),
-			$of(u"\u062c\u0627\u067e\u0627\u0646\u06cc \u06cc\u0646"_s)
+			$of(u"جاپانی ین"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kes"_s),
-			$of(u"\u06a9\u06cc\u0646\u06cc\u0627\u0626\u06cc \u0634\u0644\u0646\u06af"_s)
+			$of(u"کینیائی شلنگ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kgs"_s),
-			$of(u"\u06a9\u0631\u063a\u0633\u062a\u0627\u0646\u06cc \u0633\u0648\u0645"_s)
+			$of(u"کرغستانی سوم"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("khr"_s),
-			$of(u"\u06a9\u0645\u0628\u0648\u0688\u06cc\u0627\u0626\u06cc \u0631\u06cc\u0626\u0644"_s)
+			$of(u"کمبوڈیائی ریئل"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kmf"_s),
-			$of(u"\u06a9\u0648\u0645\u0648\u0631\u06cc\u0626\u0646 \u0641\u0631\u0627\u0646\u06a9"_s)
+			$of(u"کوموریئن فرانک"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kpw"_s),
-			$of(u"\u0634\u0645\u0627\u0644\u06cc \u06a9\u0648\u0631\u06cc\u0627\u0626\u06cc \u0648\u0648\u0646"_s)
+			$of(u"شمالی کوریائی وون"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("krw"_s),
-			$of(u"\u062c\u0646\u0648\u0628\u06cc \u06a9\u0648\u0631\u06cc\u0627\u0626\u06cc \u0648\u0648\u0646"_s)
+			$of(u"جنوبی کوریائی وون"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kwd"_s),
-			$of(u"\u06a9\u0648\u06cc\u062a\u06cc \u062f\u06cc\u0646\u0627\u0631"_s)
+			$of(u"کویتی دینار"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kyd"_s),
-			$of(u"\u06a9\u06cc\u0645\u06cc\u0646 \u0622\u0626\u0644\u06cc\u0646\u0688\u0632 \u0688\u0627\u0644\u0631"_s)
+			$of(u"کیمین آئلینڈز ڈالر"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kzt"_s),
-			$of(u"\u0642\u0632\u0627\u062e\u0633\u062a\u0627\u0646\u06cc \u0679\u06cc\u0646\u06af"_s)
+			$of(u"قزاخستانی ٹینگ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lak"_s),
-			$of(u"\u0644\u0627\u0624\u0634\u06cc\u0627\u0626\u06cc \u06a9\u0650\u067e"_s)
+			$of(u"لاؤشیائی کِپ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lbp"_s),
-			$of(u"\u0644\u0628\u0646\u0627\u0646\u06cc \u067e\u0648\u0646\u0688"_s)
+			$of(u"لبنانی پونڈ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lkr"_s),
-			$of(u"\u0633\u0631\u06cc \u0644\u0646\u06a9\u0627\u0626\u06cc \u0631\u0648\u067e\u06cc\u06c1"_s)
+			$of(u"سری لنکائی روپیہ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lrd"_s),
-			$of(u"\u0644\u0627\u0626\u0628\u0631\u06cc\u0627\u0626\u06cc \u0688\u0627\u0644\u0631"_s)
+			$of(u"لائبریائی ڈالر"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lsl"_s),
-			$of(u"\u0644\u06cc\u0633\u0648\u062a\u06be\u0648 \u0644\u0648\u0679\u06cc"_s)
+			$of(u"لیسوتھو لوٹی"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ltl"_s),
-			$of(u"\u0644\u06cc\u062a\u06be\u0648\u06cc\u0646\u06cc\u0627\u0626\u06cc \u0644\u06cc\u0679\u0627\u0633"_s)
+			$of(u"لیتھوینیائی لیٹاس"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lvl"_s),
-			$of(u"\u0644\u0627\u062a\u0648\u06cc\u0627\u0626\u06cc \u0644\u06cc\u0679\u0633"_s)
+			$of(u"لاتویائی لیٹس"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lyd"_s),
-			$of(u"\u0644\u06cc\u0628\u06cc\u0627\u0626\u06cc \u062f\u06cc\u0646\u0627\u0631"_s)
+			$of(u"لیبیائی دینار"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mad"_s),
-			$of(u"\u0645\u0631\u0627\u06a9\u0634\u06cc \u062f\u0631\u06c1\u0645"_s)
+			$of(u"مراکشی درہم"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mdl"_s),
-			$of(u"\u0645\u0627\u0644\u062f\u0648\u0648\u06cc \u0644\u06cc\u0648"_s)
+			$of(u"مالدووی لیو"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mga"_s),
-			$of(u"\u0645\u0644\u0627\u06af\u0627\u0633\u06cc \u0627\u0631\u06cc\u0627\u0631\u06cc"_s)
+			$of(u"ملاگاسی اریاری"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mkd"_s),
-			$of(u"\u0645\u0642\u062f\u0648\u0646\u06cc\u0627\u0626\u06cc \u062f\u06cc\u0646\u0627\u0631"_s)
+			$of(u"مقدونیائی دینار"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mmk"_s),
-			$of(u"\u0645\u06cc\u0627\u0646\u0645\u0627\u0631 \u06a9\u06cc\u0627\u0679"_s)
+			$of(u"میانمار کیاٹ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mnt"_s),
-			$of(u"\u0645\u0646\u06af\u0648\u0644\u06cc\u0627\u0626\u06cc \u0679\u06af\u0631\u0650"_s)
+			$of(u"منگولیائی ٹگرِ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mop"_s),
-			$of(u"\u0645\u06cc\u06a9\u0627\u0646\u06cc\u0632 \u067e\u0679\u0627\u06a9\u0627"_s)
+			$of(u"میکانیز پٹاکا"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mro"_s),
-			$of(u"\u0645\u0648\u0631\u06cc\u0637\u0627\u0646\u06cc\u0627\u0626\u06cc \u0627\u0648\u06af\u0648\u0626\u06cc\u0627 (1973\u20132017)"_s)
+			$of(u"موریطانیائی اوگوئیا (1973–2017)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mru"_s),
-			$of(u"\u0645\u0648\u0631\u06cc\u0637\u0627\u0646\u06cc\u0627\u0626\u06cc \u0627\u0648\u06af\u0648\u0626\u06cc\u0627"_s)
+			$of(u"موریطانیائی اوگوئیا"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mur"_s),
-			$of(u"\u0645\u0627\u0631\u06cc\u0634\u0633 \u06a9\u0627 \u0631\u0648\u067e\u06cc\u06c1"_s)
+			$of(u"ماریشس کا روپیہ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mvr"_s),
-			$of(u"\u0645\u0627\u0644\u062f\u06cc\u067e \u06a9\u0627 \u0631\u0648\u0641\u06cc\u06c1"_s)
+			$of(u"مالدیپ کا روفیہ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mwk"_s),
-			$of(u"\u0645\u0644\u0627\u0648\u06cc \u06a9\u0648\u0627\u0686\u0627"_s)
+			$of(u"ملاوی کواچا"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mxn"_s),
-			$of(u"\u0645\u06cc\u06a9\u0633\u06cc\u06a9\u06cc \u067e\u06cc\u0633\u06c1"_s)
+			$of(u"میکسیکی پیسہ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("myr"_s),
-			$of(u"\u0645\u0644\u06cc\u0634\u06cc\u0627\u0626\u06cc \u0631\u0646\u06af\u0650\u0679"_s)
+			$of(u"ملیشیائی رنگِٹ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mzn"_s),
-			$of(u"\u0645\u0648\u0632\u0627\u0645\u0628\u06cc\u0642\u06cc \u0645\u06cc\u0679\u06cc\u06a9\u0644"_s)
+			$of(u"موزامبیقی میٹیکل"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("nad"_s),
-			$of(u"\u0646\u0627\u0645\u06cc\u0628\u06cc\u0627\u0626\u06cc \u0688\u0627\u0644\u0631"_s)
+			$of(u"نامیبیائی ڈالر"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ngn"_s),
-			$of(u"\u0646\u0627\u0626\u06cc\u062c\u06cc\u0631\u06cc\u0627\u0626\u06cc \u0646\u0627\u0626\u0631\u0627"_s)
+			$of(u"نائیجیریائی نائرا"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("nio"_s),
-			$of(u"\u0646\u06a9\u0627\u0631\u0627 \u06af\u0648\u0627 \u06a9\u0627 \u06a9\u0648\u0631\u0688\u0648\u0628\u0627"_s)
+			$of(u"نکارا گوا کا کورڈوبا"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("nok"_s),
-			$of(u"\u0646\u0627\u0631\u0648\u06d2 \u06a9\u0631\u0648\u0646"_s)
+			$of(u"ناروے کرون"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("npr"_s),
-			$of(u"\u0646\u06cc\u067e\u0627\u0644\u06cc \u0631\u0648\u067e\u06cc\u06c1"_s)
+			$of(u"نیپالی روپیہ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("nzd"_s),
-			$of(u"\u0646\u06cc\u0648\u0632\u06cc \u0644\u06cc\u0646\u0688 \u0688\u0627\u0644\u0631"_s)
+			$of(u"نیوزی لینڈ ڈالر"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("omr"_s),
-			$of(u"\u0639\u0645\u0627\u0646\u06cc \u0631\u06cc\u0627\u0644"_s)
+			$of(u"عمانی ریال"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pab"_s),
-			$of(u"\u067e\u0646\u0627\u0645\u06c1 \u06a9\u0627 \u0628\u0627\u0644\u0628\u0648\u0622"_s)
+			$of(u"پنامہ کا بالبوآ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pen"_s),
-			$of(u"\u067e\u06cc\u0631\u0648\u0648\u06cc\u0626\u0646 \u0633\u0648\u0644"_s)
+			$of(u"پیروویئن سول"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pgk"_s),
-			$of(u"\u067e\u0627\u067e\u0648\u0622 \u0646\u06cc\u0648 \u06af\u0646\u06cc \u06a9\u0627 \u06a9\u06cc\u0646\u0627"_s)
+			$of(u"پاپوآ نیو گنی کا کینا"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("php"_s),
-			$of(u"\u0641\u0644\u067e\u0627\u0626\u06cc\u0646\u06cc \u067e\u06cc\u0633\u06c1"_s)
+			$of(u"فلپائینی پیسہ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pkr"_s),
-			$of(u"\u067e\u0627\u06a9\u0633\u062a\u0627\u0646\u06cc \u0631\u0648\u067e\u06cc\u06c1"_s)
+			$of(u"پاکستانی روپیہ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pln"_s),
-			$of(u"\u067e\u0648\u0644\u0634 \u0632\u0644\u0648\u0679\u06cc"_s)
+			$of(u"پولش زلوٹی"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pyg"_s),
-			$of(u"\u067e\u06cc\u0631\u0627\u06af\u0648\u0626\u06d2 \u06a9\u0627 \u06af\u0648\u0622\u0631\u0646\u06cc"_s)
+			$of(u"پیراگوئے کا گوآرنی"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("qar"_s),
-			$of(u"\u0642\u0637\u0631\u06cc \u0631\u06cc\u0627\u0644"_s)
+			$of(u"قطری ریال"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ron"_s),
-			$of(u"\u0631\u0648\u0645\u0627\u0646\u06cc\u0627\u0626\u06cc \u0644\u06cc\u0648"_s)
+			$of(u"رومانیائی لیو"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("rsd"_s),
-			$of(u"\u0633\u0631\u0628\u06cc\u0646 \u062f\u06cc\u0646\u0627\u0631"_s)
+			$of(u"سربین دینار"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("rub"_s),
-			$of(u"\u0631\u0648\u0633\u06cc \u0631\u0648\u0628\u0644"_s)
+			$of(u"روسی روبل"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("rwf"_s),
-			$of(u"\u0631\u0648\u0627\u0646\u0688\u0627 \u06a9\u0627 \u0641\u0631\u0627\u0646\u06a9"_s)
+			$of(u"روانڈا کا فرانک"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sar"_s),
-			$of(u"\u0633\u0639\u0648\u062f\u06cc \u0631\u06cc\u0627\u0644"_s)
+			$of(u"سعودی ریال"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sbd"_s),
-			$of(u"\u0633\u0648\u0644\u0648\u0645\u0646 \u0622\u0626\u0644\u06cc\u0646\u0688\u0632 \u0688\u0627\u0644\u0631"_s)
+			$of(u"سولومن آئلینڈز ڈالر"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("scr"_s),
-			$of(u"\u0633\u0634\u0644\u06cc \u06a9\u0627 \u0631\u0648\u067e\u06cc\u06c1"_s)
+			$of(u"سشلی کا روپیہ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sdg"_s),
-			$of(u"\u0633\u0648\u0688\u0627\u0646\u06cc \u067e\u0627\u0624\u0646\u0688"_s)
+			$of(u"سوڈانی پاؤنڈ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sek"_s),
-			$of(u"\u0633\u0648\u06cc\u0688\u0646 \u06a9\u0631\u0648\u0646\u0627"_s)
+			$of(u"سویڈن کرونا"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sgd"_s),
-			$of(u"\u0633\u0646\u06af\u0627 \u067e\u0648\u0631 \u0688\u0627\u0644\u0631"_s)
+			$of(u"سنگا پور ڈالر"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("shp"_s),
-			$of(u"\u0633\u06cc\u0646\u0679 \u06c1\u06cc\u0644\u06cc\u0646\u0627 \u067e\u0627\u0624\u0646\u0688"_s)
+			$of(u"سینٹ ہیلینا پاؤنڈ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sit"_s),
-			$of(u"\u0633\u0644\u0648\u0627\u0646\u06cc\u0646 \u0679\u0648\u0644\u0631"_s)
+			$of(u"سلوانین ٹولر"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("skk"_s),
-			$of(u"\u0633\u0644\u0648\u0648\u06a9 \u06a9\u0631\u0648\u0646\u0627"_s)
+			$of(u"سلووک کرونا"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sll"_s),
-			$of(u"\u0633\u06cc\u0626\u0631\u0627 \u0644\u06cc\u0648\u0646\u06cc\u0646 \u0644\u06cc\u0648\u0646"_s)
+			$of(u"سیئرا لیونین لیون"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sos"_s),
-			$of(u"\u0635\u0648\u0645\u0627\u0644\u06cc \u0634\u0644\u0646\u06af"_s)
+			$of(u"صومالی شلنگ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("srd"_s),
-			$of(u"\u0633\u0648\u0631\u06cc\u0646\u0627\u0645\u06cc \u0688\u0627\u0644\u0631"_s)
+			$of(u"سورینامی ڈالر"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ssp"_s),
-			$of(u"\u062c\u0646\u0648\u0628\u06cc \u0633\u0648\u0688\u0627\u0646\u06cc \u067e\u0627\u0624\u0646\u0688"_s)
+			$of(u"جنوبی سوڈانی پاؤنڈ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("std"_s),
-			$of(u"\u0633\u0627\u0624 \u0679\u0648\u0645 \u0627\u0648\u0631 \u067e\u0631\u0646\u0633\u067e\u06d2 \u0688\u0648\u0628\u0631\u0627 (1977\u20132017)"_s)
+			$of(u"ساؤ ٹوم اور پرنسپے ڈوبرا (1977–2017)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("stn"_s),
-			$of(u"\u0633\u0627\u0624 \u0679\u0648\u0645\u06d2 \u0627\u0648\u0631 \u067e\u0631\u0646\u0633\u067e\u06d2 \u0688\u0648\u0628\u0631\u0627"_s)
+			$of(u"ساؤ ٹومے اور پرنسپے ڈوبرا"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("syp"_s),
-			$of(u"\u0634\u0627\u0645\u06cc \u067e\u0648\u0646\u0688"_s)
+			$of(u"شامی پونڈ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("szl"_s),
-			$of(u"\u0633\u0648\u0627\u0632\u06cc \u0644\u06cc\u0644\u0627\u0646\u062c\u06cc\u0646\u06cc"_s)
+			$of(u"سوازی لیلانجینی"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("thb"_s),
-			$of(u"\u062a\u06be\u0627\u0626\u06cc \u0628\u0627\u06c1\u062a"_s)
+			$of(u"تھائی باہت"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("tjs"_s),
-			$of(u"\u062a\u0627\u062c\u06a9\u0633\u062a\u0627\u0646\u06cc \u0633\u0648\u0645\u0648\u0646\u06cc"_s)
+			$of(u"تاجکستانی سومونی"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("tmt"_s),
-			$of(u"\u062a\u0631\u06a9\u0645\u0627\u0646\u0633\u062a\u0627\u0646\u06cc \u0645\u0646\u0627\u062a"_s)
+			$of(u"ترکمانستانی منات"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("tnd"_s),
-			$of(u"\u062a\u06cc\u0648\u0646\u06cc\u0633\u06cc\u0627\u0626\u06cc \u062f\u06cc\u0646\u0627\u0631"_s)
+			$of(u"تیونیسیائی دینار"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("top"_s),
-			$of(u"\u0679\u0648\u0646\u06af\u0646 \u067e\u0627\u0646\u06af\u0627"_s)
+			$of(u"ٹونگن پانگا"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("try"_s),
-			$of(u"\u062a\u0631\u06a9\u06cc \u0644\u06cc\u0631\u0627"_s)
+			$of(u"ترکی لیرا"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ttd"_s),
-			$of(u"\u062a\u0631\u06cc\u0646\u06cc\u062f\u0627\u062f \u0627\u0648\u0631 \u0679\u0648\u0628\u0627\u06af\u0648 \u06a9\u0627 \u0688\u0627\u0644\u0631"_s)
+			$of(u"ترینیداد اور ٹوباگو کا ڈالر"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("twd"_s),
-			$of(u"\u0646\u06cc\u0648 \u062a\u0627\u0626\u06cc\u0648\u0627\u0646 \u0688\u0627\u0644\u0631"_s)
+			$of(u"نیو تائیوان ڈالر"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("tzs"_s),
-			$of(u"\u062a\u0646\u0632\u0627\u0646\u06cc\u0627\u0626\u06cc \u0634\u0644\u0646\u06af"_s)
+			$of(u"تنزانیائی شلنگ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("uah"_s),
-			$of(u"\u06cc\u0648\u06a9\u0631\u06cc\u0646\u06cc\u0627\u0626\u06cc \u06c1\u0631\u06cc\u0648\u0646\u06cc\u0627"_s)
+			$of(u"یوکرینیائی ہریونیا"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ugx"_s),
-			$of(u"\u06cc\u0648\u06af\u0627\u0646\u0688\u0627 \u0634\u0644\u0646\u06af"_s)
+			$of(u"یوگانڈا شلنگ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("usd"_s),
-			$of(u"\u0627\u0645\u0631\u06cc\u06a9\u06cc \u0688\u0627\u0644\u0631"_s)
+			$of(u"امریکی ڈالر"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("uyu"_s),
-			$of(u"\u06cc\u0648\u0631\u0648\u06af\u0648\u06cc\u0627\u0646 \u067e\u06cc\u0633\u0648"_s)
+			$of(u"یوروگویان پیسو"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("uzs"_s),
-			$of(u"\u0627\u0632\u0628\u06a9\u0633\u062a\u0627\u0646\u06cc \u0633\u0648\u0645"_s)
+			$of(u"ازبکستانی سوم"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("veb"_s),
-			$of(u"\u0648\u06cc\u0646\u0632\u0648\u06cc\u0644\u0627 \u0628\u0648\u0644\u06cc\u0648\u0631 (1871\u20132008)"_s)
+			$of(u"وینزویلا بولیور (1871–2008)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("vef"_s),
-			$of(u"\u0648\u06cc\u0646\u0632\u0648\u06cc\u0644\u0627 \u0628\u0648\u0644\u06cc\u0648\u0631 (2008\u20132018)"_s)
+			$of(u"وینزویلا بولیور (2008–2018)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ves"_s),
-			$of(u"\u0648\u06cc\u0646\u0632\u0648\u06cc\u0644\u0627 \u0628\u0648\u0644\u06cc\u0648\u0631"_s)
+			$of(u"وینزویلا بولیور"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("vnd"_s),
-			$of(u"\u0648\u06cc\u062a\u0646\u0627\u0645\u06cc \u0688\u0627\u0646\u06af"_s)
+			$of(u"ویتنامی ڈانگ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("vuv"_s),
-			$of(u"\u0648\u06cc\u0646\u0648\u0648\u0627\u062a\u0648 \u0648\u0627\u062a\u0648"_s)
+			$of(u"وینوواتو واتو"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("wst"_s),
-			$of(u"\u0633\u0627\u0645\u0648\u0622 \u06a9\u0627 \u0679\u0627\u0644\u0627"_s)
+			$of(u"ساموآ کا ٹالا"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xaf"_s),
-			$of(u"\u0648\u0633\u0637\u06cc \u0627\u0641\u0631\u06cc\u0642\u06cc [CFA] \u0641\u0631\u0627\u0646\u06a9"_s)
+			$of(u"وسطی افریقی [CFA] فرانک"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xcd"_s),
-			$of(u"\u0645\u0634\u0631\u0642\u06cc \u06a9\u0631\u06cc\u0628\u06cc\u0627 \u06a9\u0627 \u0688\u0627\u0644\u0631"_s)
+			$of(u"مشرقی کریبیا کا ڈالر"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xof"_s),
-			$of(u"\u0645\u063a\u0631\u0628\u06cc \u0627\u0641\u0631\u06cc\u0642\u06cc [CFA] \u0641\u0631\u0627\u0646\u06a9"_s)
+			$of(u"مغربی افریقی [CFA] فرانک"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xpf"_s),
-			$of(u"CFP \u0641\u0631\u0627\u0646\u06a9"_s)
+			$of(u"CFP فرانک"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xxx"_s),
-			$of(u"\u0646\u0627\u0645\u0639\u0644\u0648\u0645 \u06a9\u0631\u0646\u0633\u06cc"_s)
+			$of(u"نامعلوم کرنسی"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("yer"_s),
-			$of(u"\u06cc\u0645\u0646\u06cc \u0631\u06cc\u0627\u0644"_s)
+			$of(u"یمنی ریال"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("zar"_s),
-			$of(u"\u062c\u0646\u0648\u0628\u06cc \u0627\u0641\u0631\u06cc\u0642\u06cc \u0631\u0627\u0646\u0688"_s)
+			$of(u"جنوبی افریقی رانڈ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("zmk"_s),
-			$of(u"\u0632\u0627\u0645\u0628\u06cc\u0627\u0626\u06cc \u06a9\u0648\u0627\u0686\u0627 (1968\u20132012)"_s)
+			$of(u"زامبیائی کواچا (1968–2012)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("zmw"_s),
-			$of(u"\u0632\u0627\u0645\u0628\u06cc\u0627\u0626\u06cc \u06a9\u0648\u0627\u0686\u0627"_s)
+			$of(u"زامبیائی کواچا"_s)
 		})
 	}));
 	return data;

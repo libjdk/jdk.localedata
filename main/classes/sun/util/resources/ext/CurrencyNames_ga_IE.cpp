@@ -39,7 +39,7 @@ void CurrencyNames_ga_IE::init$() {
 $ObjectArray2* CurrencyNames_ga_IE::getContents() {
 	return $new($ObjectArray2, {$$new($ObjectArray, {
 		$of("EUR"_s),
-		$of(u"\u20ac"_s)
+		$of(u"€"_s)
 	})});
 }
 

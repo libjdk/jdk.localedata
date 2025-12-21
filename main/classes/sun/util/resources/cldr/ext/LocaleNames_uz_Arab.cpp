@@ -42,23 +42,23 @@ $ObjectArray2* LocaleNames_uz_Arab::getContents() {
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("AF"_s),
-			$of(u"\u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646"_s)
+			$of(u"افغانستان"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("fa"_s),
-			$of(u"\u062f\u0631\u06cc"_s)
+			$of(u"دری"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ps"_s),
-			$of(u"\u067e\u0634\u062a\u0648"_s)
+			$of(u"پشتو"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("uz"_s),
-			$of(u"\u0627\u0648\u0632\u0628\u06cc\u06a9"_s)
+			$of(u"اوزبیک"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Arab"_s),
-			$of(u"\u0639\u0631\u0628\u06cc"_s)
+			$of(u"عربی"_s)
 		})
 	}));
 	return data;

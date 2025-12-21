@@ -42,11 +42,11 @@ void TimeZoneNames_wae::init$() {
 $ObjectArray2* TimeZoneNames_wae::getContents() {
 	$useLocalCurrentObjectStackCache();
 	$var($StringArray, Atlantic, $new($StringArray, {
-		u"Atlanti\u0161i Standardzit"_s,
+		u"Atlantiši Standardzit"_s,
 		""_s,
-		u"Atlanti\u0161i Summerzit"_s,
+		u"Atlantiši Summerzit"_s,
 		""_s,
-		u"Atlanti\u0161i Zit"_s,
+		u"Atlantiši Zit"_s,
 		""_s
 	}));
 	$var($StringArray, EMPTY_ZONE, $new($StringArray, {
@@ -58,27 +58,27 @@ $ObjectArray2* TimeZoneNames_wae::getContents() {
 		""_s
 	}));
 	$var($StringArray, Europe_Central, $new($StringArray, {
-		u"Mitteleurop\u00e4i\u0161i Standardzit"_s,
+		u"Mitteleuropäiši Standardzit"_s,
 		"MEZ"_s,
-		u"Mitteleurop\u00e4i\u0161i Summerzit"_s,
+		u"Mitteleuropäiši Summerzit"_s,
 		"MESZ"_s,
-		u"Mitteleurop\u00e4i\u0161i Zit"_s,
+		u"Mitteleuropäiši Zit"_s,
 		"MEZ"_s
 	}));
 	$var($StringArray, Europe_Eastern, $new($StringArray, {
-		u"O\u0161teurop\u00e4i\u0161i Standardzit"_s,
+		u"Ošteuropäiši Standardzit"_s,
 		"OEZ"_s,
-		u"O\u0161teurop\u00e4i\u0161i Summerzit"_s,
+		u"Ošteuropäiši Summerzit"_s,
 		"OESZ"_s,
-		u"O\u0161teurop\u00e4i\u0161i Zit"_s,
+		u"Ošteuropäiši Zit"_s,
 		"OEZ"_s
 	}));
 	$var($StringArray, Europe_Western, $new($StringArray, {
-		u"We\u0161teurop\u00e4i\u0161i Standardzit"_s,
+		u"Wešteuropäiši Standardzit"_s,
 		"WEZ"_s,
-		u"We\u0161teurop\u00e4i\u0161i Summerzit"_s,
+		u"Wešteuropäiši Summerzit"_s,
 		"WESZ"_s,
-		u"We\u0161teurop\u00e4i\u0161i Zit"_s,
+		u"Wešteuropäiši Zit"_s,
 		"WEZ"_s
 	}));
 	$var($ObjectArray2, data, $new($ObjectArray2, {
@@ -508,11 +508,11 @@ $ObjectArray2* TimeZoneNames_wae::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Warsaw"_s),
-			$of(u"War\u0161au"_s)
+			$of(u"Waršau"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Zurich"_s),
-			$of(u"Z\u00fcri\u010d"_s)
+			$of(u"Zürič"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Africa/Algiers"_s),
@@ -552,7 +552,7 @@ $ObjectArray2* TimeZoneNames_wae::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Africa/Djibouti"_s),
-			$of(u"D\u0161ibuti"_s)
+			$of(u"Dšibuti"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Africa/Khartoum"_s),
@@ -572,19 +572,19 @@ $ObjectArray2* TimeZoneNames_wae::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Brussels"_s),
-			$of(u"Br\u00fcssel"_s)
+			$of(u"Brüssel"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Budapest"_s),
-			$of(u"Budape\u0161t"_s)
+			$of(u"Budapešt"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Istanbul"_s),
-			$of(u"Kon\u0161tantinopel"_s)
+			$of(u"Konštantinopel"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Africa/Mogadishu"_s),
-			$of(u"Mogadi\u0161u"_s)
+			$of(u"Mogadišu"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Australia/Sydney"_s),
@@ -592,15 +592,15 @@ $ObjectArray2* TimeZoneNames_wae::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Amsterdam"_s),
-			$of(u"Am\u0161terdam"_s)
+			$of(u"Amšterdam"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Bucharest"_s),
-			$of(u"Bukare\u0161t"_s)
+			$of(u"Bukarešt"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Ljubljana"_s),
-			$of(u"Laiba\u010d"_s)
+			$of(u"Laibač"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Volgograd"_s),
@@ -624,7 +624,7 @@ $ObjectArray2* TimeZoneNames_wae::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Kaliningrad"_s),
-			$of(u"K\u00f6nigsb\u00e4rg"_s)
+			$of(u"Königsbärg"_s)
 		})
 	}));
 	return data;

@@ -934,179 +934,179 @@ $ObjectArray2* LocaleNames_mas::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ak"_s),
-			$of(u"nk\u0289t\u0289\u0301k \u0254\u0301\u0254\u0304 lAkan"_s)
+			$of(u"nkʉtʉ́k ɔ́ɔ̄ lAkan"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("am"_s),
-			$of(u"nk\u0289t\u0289\u0301k \u0254\u0301\u0254\u0304 lAmhari"_s)
+			$of(u"nkʉtʉ́k ɔ́ɔ̄ lAmhari"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ar"_s),
-			$of(u"nk\u0289t\u0289\u0301k \u0254\u0301\u0254\u0304 lmarabu"_s)
+			$of(u"nkʉtʉ́k ɔ́ɔ̄ lmarabu"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("be"_s),
-			$of(u"nk\u0289t\u0289\u0301k \u0254\u0301\u0254\u0304 lBelarusi"_s)
+			$of(u"nkʉtʉ́k ɔ́ɔ̄ lBelarusi"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bg"_s),
-			$of(u"nk\u0289t\u0289\u0301k \u0254\u0301\u0254\u0304 lBulgaria"_s)
+			$of(u"nkʉtʉ́k ɔ́ɔ̄ lBulgaria"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bn"_s),
-			$of(u"lnk\u0289t\u0289\u0301k \u0254\u0301\u0254\u0304 lBengali"_s)
+			$of(u"lnkʉtʉ́k ɔ́ɔ̄ lBengali"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cs"_s),
-			$of(u"nk\u0289t\u0289\u0301k \u0254\u0301\u0254\u0304 lcheki"_s)
+			$of(u"nkʉtʉ́k ɔ́ɔ̄ lcheki"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("de"_s),
-			$of(u"nk\u0289t\u0289\u0301k \u0254\u0301\u0254\u0304 ljerumani"_s)
+			$of(u"nkʉtʉ́k ɔ́ɔ̄ ljerumani"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("el"_s),
-			$of(u"nk\u0289t\u0289\u0301k \u0254\u0301\u0254\u0304 lgiriki"_s)
+			$of(u"nkʉtʉ́k ɔ́ɔ̄ lgiriki"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("en"_s),
-			$of(u"nk\u0289t\u0289\u0301k \u0254\u0301\u0254\u0304 nk\u0268\u0301resa"_s)
+			$of(u"nkʉtʉ́k ɔ́ɔ̄ nkɨ́resa"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("es"_s),
-			$of(u"nk\u0289t\u0289\u0301k \u0254\u0301\u0254\u0304 lspania"_s)
+			$of(u"nkʉtʉ́k ɔ́ɔ̄ lspania"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("fa"_s),
-			$of(u"nk\u0289t\u0289\u0301k \u0254\u0301\u0254\u0304 lpersia"_s)
+			$of(u"nkʉtʉ́k ɔ́ɔ̄ lpersia"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("fr"_s),
-			$of(u"nk\u0289t\u0289\u0301k \u0254\u0301\u0254\u0304 faransa"_s)
+			$of(u"nkʉtʉ́k ɔ́ɔ̄ faransa"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ha"_s),
-			$of(u"nk\u0289t\u0289\u0301k \u0254\u0301\u0254\u0304 hausa"_s)
+			$of(u"nkʉtʉ́k ɔ́ɔ̄ hausa"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("hi"_s),
-			$of(u"nk\u0289t\u0289\u0301k \u0254\u0301\u0254\u0304 lmoindi"_s)
+			$of(u"nkʉtʉ́k ɔ́ɔ̄ lmoindi"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("hu"_s),
-			$of(u"nk\u0289t\u0289\u0301k \u0254\u0301\u0254\u0304 lhungari"_s)
+			$of(u"nkʉtʉ́k ɔ́ɔ̄ lhungari"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("id"_s),
-			$of(u"nk\u0289t\u0289\u0301k \u0254\u0301\u0254\u0304 Indonesia"_s)
+			$of(u"nkʉtʉ́k ɔ́ɔ̄ Indonesia"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ig"_s),
-			$of(u"nk\u0289t\u0289\u0301k \u0254\u0301\u0254\u0304 Igbo"_s)
+			$of(u"nkʉtʉ́k ɔ́ɔ̄ Igbo"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("it"_s),
-			$of(u"nk\u0289t\u0289\u0301k \u0254\u0301\u0254\u0304 ltalian"_s)
+			$of(u"nkʉtʉ́k ɔ́ɔ̄ ltalian"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ja"_s),
-			$of(u"nk\u0289t\u0289\u0301k \u0254\u0301\u0254\u0304 japani"_s)
+			$of(u"nkʉtʉ́k ɔ́ɔ̄ japani"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("jv"_s),
-			$of(u"nk\u0289t\u0289\u0301k \u0254\u0301\u0254\u0304 ljana"_s)
+			$of(u"nkʉtʉ́k ɔ́ɔ̄ ljana"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("km"_s),
-			$of(u"nk\u0289t\u0289\u0301k \u0254\u0301\u0254\u0304 lkambodia"_s)
+			$of(u"nkʉtʉ́k ɔ́ɔ̄ lkambodia"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ko"_s),
-			$of(u"nk\u0289t\u0289\u0301k \u0254\u0301\u0254\u0304 lkorea"_s)
+			$of(u"nkʉtʉ́k ɔ́ɔ̄ lkorea"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ms"_s),
-			$of(u"nk\u0289t\u0289\u0301k \u0254\u0301\u0254\u0304 malay"_s)
+			$of(u"nkʉtʉ́k ɔ́ɔ̄ malay"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("my"_s),
-			$of(u"nk\u0289t\u0289\u0301k \u0254\u0301\u0254\u0304 lBurma"_s)
+			$of(u"nkʉtʉ́k ɔ́ɔ̄ lBurma"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ne"_s),
-			$of(u"nk\u0289t\u0289\u0301k \u0254\u0301\u0254\u0304 lnepali"_s)
+			$of(u"nkʉtʉ́k ɔ́ɔ̄ lnepali"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("nl"_s),
-			$of(u"nk\u0289t\u0289\u0301k \u0254\u0301\u0254\u0304 lduchi"_s)
+			$of(u"nkʉtʉ́k ɔ́ɔ̄ lduchi"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pa"_s),
-			$of(u"nk\u0289t\u0289\u0301k \u0254\u0301\u0254\u0304 lpunjabi"_s)
+			$of(u"nkʉtʉ́k ɔ́ɔ̄ lpunjabi"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pl"_s),
-			$of(u"nk\u0289t\u0289\u0301k \u0254\u0301\u0254\u0304 lpoland"_s)
+			$of(u"nkʉtʉ́k ɔ́ɔ̄ lpoland"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pt"_s),
-			$of(u"nk\u0289t\u0289\u0301k \u0254\u0301\u0254\u0304 lportuguese"_s)
+			$of(u"nkʉtʉ́k ɔ́ɔ̄ lportuguese"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ro"_s),
-			$of(u"nk\u0289t\u0289\u0301k \u0254\u0301\u0254\u0304 lromania"_s)
+			$of(u"nkʉtʉ́k ɔ́ɔ̄ lromania"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ru"_s),
-			$of(u"nk\u0289t\u0289\u0301k \u0254\u0301\u0254\u0304 lrusi"_s)
+			$of(u"nkʉtʉ́k ɔ́ɔ̄ lrusi"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("rw"_s),
-			$of(u"nk\u0289t\u0289\u0301k \u0254\u0301\u0254\u0304 lruwanda"_s)
+			$of(u"nkʉtʉ́k ɔ́ɔ̄ lruwanda"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("so"_s),
-			$of(u"nk\u0289t\u0289\u0301k \u0254\u0301\u0254\u0304 lchumari"_s)
+			$of(u"nkʉtʉ́k ɔ́ɔ̄ lchumari"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sv"_s),
-			$of(u"nk\u0289t\u0289\u0301k \u0254\u0301\u0254\u0304 lswidi"_s)
+			$of(u"nkʉtʉ́k ɔ́ɔ̄ lswidi"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ta"_s),
-			$of(u"nk\u0289t\u0289\u0301k \u0254\u0301\u0254\u0304 ltamil"_s)
+			$of(u"nkʉtʉ́k ɔ́ɔ̄ ltamil"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("th"_s),
-			$of(u"nk\u0289t\u0289\u0301k \u0254\u0301\u0254\u0304 ltai"_s)
+			$of(u"nkʉtʉ́k ɔ́ɔ̄ ltai"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("tr"_s),
-			$of(u"nk\u0289t\u0289\u0301k \u0254\u0301\u0254\u0304 lturuki"_s)
+			$of(u"nkʉtʉ́k ɔ́ɔ̄ lturuki"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("uk"_s),
-			$of(u"nk\u0289t\u0289\u0301k \u0254\u0301\u0254\u0304 lkrania"_s)
+			$of(u"nkʉtʉ́k ɔ́ɔ̄ lkrania"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ur"_s),
-			$of(u"nk\u0289t\u0289\u0301k \u0254\u0301\u0254\u0304 lurdu"_s)
+			$of(u"nkʉtʉ́k ɔ́ɔ̄ lurdu"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("vi"_s),
-			$of(u"nk\u0289t\u0289\u0301k \u0254\u0301\u0254\u0304 lvietinamu"_s)
+			$of(u"nkʉtʉ́k ɔ́ɔ̄ lvietinamu"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("yo"_s),
-			$of(u"nk\u0289t\u0289\u0301k \u0254\u0301\u0254\u0304 lyoruba"_s)
+			$of(u"nkʉtʉ́k ɔ́ɔ̄ lyoruba"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("zh"_s),
-			$of(u"nk\u0289t\u0289\u0301k \u0254\u0301\u0254\u0304 lchina"_s)
+			$of(u"nkʉtʉ́k ɔ́ɔ̄ lchina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("zu"_s),
-			$of(u"nk\u0289t\u0289\u0301k \u0254\u0301\u0254\u0304 lzulu"_s)
+			$of(u"nkʉtʉ́k ɔ́ɔ̄ lzulu"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mas"_s),

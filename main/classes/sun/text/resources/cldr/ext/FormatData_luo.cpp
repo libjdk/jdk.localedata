@@ -43,7 +43,7 @@ $ObjectArray2* FormatData_luo::getContents() {
 		"Dwe mar Achiel"_s,
 		"Dwe mar Ariyo"_s,
 		"Dwe mar Adek"_s,
-		u"Dwe mar Ang\u2019wen"_s,
+		u"Dwe mar Ang’wen"_s,
 		"Dwe mar Abich"_s,
 		"Dwe mar Auchiel"_s,
 		"Dwe mar Abiriyo"_s,
@@ -89,7 +89,7 @@ $ObjectArray2* FormatData_luo::getContents() {
 		"Wuok Tich"_s,
 		"Tich Ariyo"_s,
 		"Tich Adek"_s,
-		u"Tich Ang\u2019wen"_s,
+		u"Tich Ang’wen"_s,
 		"Tich Abich"_s,
 		"Ngeso"_s
 	}));
@@ -310,8 +310,8 @@ $ObjectArray2* FormatData_luo::getContents() {
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
+				u"‰"_s,
+				u"∞"_s,
 				"NaN"_s,
 				""_s,
 				""_s
@@ -351,7 +351,7 @@ $ObjectArray2* FormatData_luo::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.dayperiod"_s),
-			$of(u"odieochieng\u2019/otieno"_s)
+			$of(u"odieochieng’/otieno"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("standalone.MonthNarrows"_s),
@@ -482,7 +482,7 @@ $ObjectArray2* FormatData_luo::getContents() {
 			$of("latn.NumberPatterns"_s),
 			$of($$new($StringArray, {
 				"#,##0.###"_s,
-				u"#,##0.00\u00a4"_s,
+				u"#,##0.00¤"_s,
 				"#,##0%"_s,
 				""_s
 			}))

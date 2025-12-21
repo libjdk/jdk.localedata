@@ -42,67 +42,67 @@ $ObjectArray2* CurrencyNames_nmg::getContents() {
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("aed"_s),
-			$of(u"M\u0254n B \u00b4Arabe"_s)
+			$of(u"Mɔn B ´Arabe"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("aoa"_s),
-			$of(u"M\u0254n Angola"_s)
+			$of(u"Mɔn Angola"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("aud"_s),
-			$of(u"D\u0254\u0301ll\u0254 \u0186stralia"_s)
+			$of(u"Dɔ́llɔ Ɔstralia"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bhd"_s),
-			$of(u"M\u0254n Bahrein"_s)
+			$of(u"Mɔn Bahrein"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bif"_s),
-			$of(u"Fra\u014b Burundi"_s)
+			$of(u"Fraŋ Burundi"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("bwp"_s),
-			$of(u"M\u0254n Botswana"_s)
+			$of(u"Mɔn Botswana"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cad"_s),
-			$of(u"D\u0254\u0301ll\u0254 Kanada"_s)
+			$of(u"Dɔ́llɔ Kanada"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cdf"_s),
-			$of(u"Fra\u014b b\u00f3 Kongol\u025b\u030c"_s)
+			$of(u"Fraŋ bó Kongolɛ̌"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("chf"_s),
-			$of(u"Fra\u014b Suisse"_s)
+			$of(u"Fraŋ Suisse"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cny"_s),
-			$of(u"M\u0254n b\u00f3 Chinois"_s)
+			$of(u"Mɔn bó Chinois"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cve"_s),
-			$of(u"M\u0254n Kapv\u025brt"_s)
+			$of(u"Mɔn Kapvɛrt"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("djf"_s),
-			$of(u"Fra\u014b Jibuti"_s)
+			$of(u"Fraŋ Jibuti"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("dzd"_s),
-			$of(u"M\u0254n Algeria"_s)
+			$of(u"Mɔn Algeria"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("egp"_s),
-			$of(u"M\u0254n \u00c4gypt\u025bn"_s)
+			$of(u"Mɔn Ägyptɛn"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ern"_s),
-			$of(u"M\u0254n Erytr\u00e9"_s)
+			$of(u"Mɔn Erytré"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("etb"_s),
-			$of(u"M\u0254n Ethiopia"_s)
+			$of(u"Mɔn Ethiopia"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("eur"_s),
@@ -110,167 +110,167 @@ $ObjectArray2* CurrencyNames_nmg::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("gbp"_s),
-			$of(u"M\u0254n Ng\u025b\u0304l\u025b\u0304n"_s)
+			$of(u"Mɔn Ngɛ̄lɛ̄n"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ghc"_s),
-			$of(u"M\u0254n Gana"_s)
+			$of(u"Mɔn Gana"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gmd"_s),
-			$of(u"M\u0254n Gambia"_s)
+			$of(u"Mɔn Gambia"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gns"_s),
-			$of(u"Fra\u014b Guin\u00e9"_s)
+			$of(u"Fraŋ Guiné"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("inr"_s),
-			$of(u"M\u0254n India"_s)
+			$of(u"Mɔn India"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("jpy"_s),
-			$of(u"M\u0254n Jap\u0254n"_s)
+			$of(u"Mɔn Japɔn"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kes"_s),
-			$of(u"M\u0254n K\u025bnya"_s)
+			$of(u"Mɔn Kɛnya"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kmf"_s),
-			$of(u"Fra\u014b b\u00f3 K\u0254m\u0254r"_s)
+			$of(u"Fraŋ bó Kɔmɔr"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lrd"_s),
-			$of(u"D\u0254\u0301ll\u0254 Liberia"_s)
+			$of(u"Dɔ́llɔ Liberia"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lsl"_s),
-			$of(u"M\u0254n Lesoto"_s)
+			$of(u"Mɔn Lesoto"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lyd"_s),
-			$of(u"M\u0254n Libya"_s)
+			$of(u"Mɔn Libya"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mad"_s),
-			$of(u"M\u0254n Mar\u0254k"_s)
+			$of(u"Mɔn Marɔk"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mga"_s),
-			$of(u"M\u0254n Madagaskar"_s)
+			$of(u"Mɔn Madagaskar"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mro"_s),
-			$of(u"M\u0254n Moritania (1973\u20132017)"_s)
+			$of(u"Mɔn Moritania (1973–2017)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mru"_s),
-			$of(u"M\u0254n Moritania"_s)
+			$of(u"Mɔn Moritania"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mur"_s),
-			$of(u"M\u0254n Moriss"_s)
+			$of(u"Mɔn Moriss"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mwk"_s),
-			$of(u"M\u0254n Malawi"_s)
+			$of(u"Mɔn Malawi"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("mzm"_s),
-			$of(u"M\u0254n Mozambik"_s)
+			$of(u"Mɔn Mozambik"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("nad"_s),
-			$of(u"D\u0254\u0301ll\u0254 Namibia"_s)
+			$of(u"Dɔ́llɔ Namibia"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ngn"_s),
-			$of(u"Na\u00efra Nigeria"_s)
+			$of(u"Naïra Nigeria"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("rwf"_s),
-			$of(u"Fra\u014b Rwanda"_s)
+			$of(u"Fraŋ Rwanda"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sar"_s),
-			$of(u"M\u0254n Saudi Arabia"_s)
+			$of(u"Mɔn Saudi Arabia"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("scr"_s),
-			$of(u"M\u0254n Seych\u025blle"_s)
+			$of(u"Mɔn Seychɛlle"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sdg"_s),
-			$of(u"M\u0254n Sudan"_s)
+			$of(u"Mɔn Sudan"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sdp"_s),
-			$of(u"M\u0254n Sudan (1957\u20131998)"_s)
+			$of(u"Mɔn Sudan (1957–1998)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("shp"_s),
-			$of(u"M\u0254n m\u00e1 Saint Lina"_s)
+			$of(u"Mɔn má Saint Lina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sll"_s),
-			$of(u"M\u0254n Le\u0254ne"_s)
+			$of(u"Mɔn Leɔne"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sos"_s),
-			$of(u"M\u0254n Somal\u00eda"_s)
+			$of(u"Mɔn Somalía"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("std"_s),
-			$of(u"M\u0254n Sao tom\u00e9 na prinship (1977\u20132017)"_s)
+			$of(u"Mɔn Sao tomé na prinship (1977–2017)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("stn"_s),
-			$of(u"M\u0254n Sao tom\u00e9 na prinship"_s)
+			$of(u"Mɔn Sao tomé na prinship"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("szl"_s),
-			$of(u"M\u0254n Ligangeni"_s)
+			$of(u"Mɔn Ligangeni"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("tnd"_s),
-			$of(u"M\u0254n Tunisia"_s)
+			$of(u"Mɔn Tunisia"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("tzs"_s),
-			$of(u"M\u0254n Tanzania"_s)
+			$of(u"Mɔn Tanzania"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ugx"_s),
-			$of(u"M\u0254n Uganda"_s)
+			$of(u"Mɔn Uganda"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("usd"_s),
-			$of(u"D\u0254\u0301ll\u0254 Am\u025b\u0155ka"_s)
+			$of(u"Dɔ́llɔ Amɛŕka"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xaf"_s),
-			$of(u"Fra\u014b CFA BEAC"_s)
+			$of(u"Fraŋ CFA BEAC"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xof"_s),
-			$of(u"Fra\u014b CFA BCEAO"_s)
+			$of(u"Fraŋ CFA BCEAO"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("zar"_s),
-			$of(u"M\u0254n Afrik y\u00ed s\u00ed"_s)
+			$of(u"Mɔn Afrik yí sí"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("zmk"_s),
-			$of(u"M\u0254n Zambia (1968\u20132012)"_s)
+			$of(u"Mɔn Zambia (1968–2012)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("zmw"_s),
-			$of(u"M\u0254n Zambia"_s)
+			$of(u"Mɔn Zambia"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("zwd"_s),
-			$of(u"D\u0254\u0301ll\u0254 Zimbabw\u01dd (1980\u20132008)"_s)
+			$of(u"Dɔ́llɔ Zimbabwǝ (1980–2008)"_s)
 		})
 	}));
 	return data;

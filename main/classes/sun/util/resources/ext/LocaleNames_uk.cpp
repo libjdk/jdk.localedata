@@ -41,11 +41,11 @@ $ObjectArray2* LocaleNames_uk::getContents() {
 	return $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("UA"_s),
-			$of(u"\u0423\u043a\u0440\u0430\u0457\u043d\u0430"_s)
+			$of(u"Україна"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("uk"_s),
-			$of(u"\u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430"_s)
+			$of(u"українська"_s)
 		})
 	});
 }

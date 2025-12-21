@@ -40,7 +40,7 @@ void LocaleNames_mi::init$() {
 $ObjectArray2* LocaleNames_mi::getContents() {
 	$useLocalCurrentObjectStackCache();
 	$var($String, metaValue_DE, "Tiamana"_s);
-	$var($String, metaValue_FR, u"W\u012bw\u012b"_s);
+	$var($String, metaValue_FR, u"Wīwī"_s);
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("de"_s),
@@ -56,23 +56,23 @@ $ObjectArray2* LocaleNames_mi::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("zh_Hans"_s),
-			$of(u"Hainamana M\u0101m\u0101"_s)
+			$of(u"Hainamana Māmā"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pt"_s),
-			$of(u"P\u014dtik\u012b"_s)
+			$of(u"Pōtikī"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Zzzz"_s),
-			$of(u"Momotuhi T\u0113 M\u014dhiotia"_s)
+			$of(u"Momotuhi Tē Mōhiotia"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pt_BR"_s),
-			$of(u"P\u014dtik\u012b Parahi"_s)
+			$of(u"Pōtikī Parahi"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.co.standard"_s),
-			$of(u"Raupapa K\u014dmaka Arowh\u0101nui"_s)
+			$of(u"Raupapa Kōmaka Arowhānui"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("es_419"_s),
@@ -80,7 +80,7 @@ $ObjectArray2* LocaleNames_mi::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("es_MX"_s),
-			$of(u"Paniora M\u0113hikana"_s)
+			$of(u"Paniora Mēhikana"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("es_ES"_s),
@@ -88,7 +88,7 @@ $ObjectArray2* LocaleNames_mi::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("mi"_s),
-			$of(u"te reo M\u0101ori"_s)
+			$of(u"te reo Māori"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("zh_Hant"_s),
@@ -96,7 +96,7 @@ $ObjectArray2* LocaleNames_mi::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("MK"_s),
-			$of(u"Maker\u014dnia ki te Raki"_s)
+			$of(u"Makerōnia ki te Raki"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("US"_s),
@@ -112,11 +112,11 @@ $ObjectArray2* LocaleNames_mi::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("IT"_s),
-			$of(u"It\u0101ria"_s)
+			$of(u"Itāria"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("it"_s),
-			$of(u"\u012atariana"_s)
+			$of(u"Ītariana"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Arab"_s),
@@ -132,7 +132,7 @@ $ObjectArray2* LocaleNames_mi::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("type.ca.gregorian"_s),
-			$of(u"Maramataka P\u0101keh\u0101"_s)
+			$of(u"Maramataka Pākehā"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("en_US"_s),
@@ -144,11 +144,11 @@ $ObjectArray2* LocaleNames_mi::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("Hans"_s),
-			$of(u"M\u0101m\u0101"_s)
+			$of(u"Māmā"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("type.nu.latn"_s),
-			$of(u"Ng\u0101 Mati P\u0101keh\u0101"_s)
+			$of(u"Ngā Mati Pākehā"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Hant"_s),
@@ -156,11 +156,11 @@ $ObjectArray2* LocaleNames_mi::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ZZ"_s),
-			$of(u"Rohe T\u0113 M\u014dhiotia"_s)
+			$of(u"Rohe Tē Mōhiotia"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("RU"_s),
-			$of(u"R\u016bhia"_s)
+			$of(u"Rūhia"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("ru"_s),
@@ -192,7 +192,7 @@ $ObjectArray2* LocaleNames_mi::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("de_CH"_s),
-			$of(u"Tiamana \u014ckawa Huiterangi"_s)
+			$of(u"Tiamana Ōkawa Huiterangi"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("GB"_s),
@@ -200,15 +200,15 @@ $ObjectArray2* LocaleNames_mi::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("fr_CA"_s),
-			$of(u"W\u012bw\u012b K\u0101nata"_s)
+			$of(u"Wīwī Kānata"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("und"_s),
-			$of(u"Reo T\u0113 M\u014dhiotia"_s)
+			$of(u"Reo Tē Mōhiotia"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("fr_CH"_s),
-			$of(u"W\u012bw\u012b Huiterangi"_s)
+			$of(u"Wīwī Huiterangi"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("CN"_s),
@@ -216,11 +216,11 @@ $ObjectArray2* LocaleNames_mi::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("Latn"_s),
-			$of(u"R\u0101tina"_s)
+			$of(u"Rātina"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("Cyrl"_s),
-			$of(u"H\u012bririki"_s)
+			$of(u"Hīririki"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("en_GB"_s),
@@ -232,11 +232,11 @@ $ObjectArray2* LocaleNames_mi::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("en_CA"_s),
-			$of(u"Ingarihi K\u0101nata"_s)
+			$of(u"Ingarihi Kānata"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("pt_PT"_s),
-			$of(u"P\u014dtik\u012b Uropi"_s)
+			$of(u"Pōtikī Uropi"_s)
 		})
 	}));
 	return data;

@@ -55,12 +55,12 @@ $ObjectArray2* FormatData_es_DO::getContents() {
 		"Q4"_s
 	}));
 	$var($StringArray, metaValue_narrow_AmPmMarkers, $new($StringArray, {
-		u"a.\u00a0m."_s,
-		u"p.\u00a0m."_s,
+		u"a. m."_s,
+		u"p. m."_s,
 		""_s,
-		u"mediod\u00eda"_s,
-		u"d\u00eda"_s,
-		u"ma\u00f1ana"_s,
+		u"mediodía"_s,
+		u"día"_s,
+		u"mañana"_s,
 		""_s,
 		""_s,
 		"tarde"_s,
@@ -93,7 +93,7 @@ $ObjectArray2* FormatData_es_DO::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.year"_s),
-			$of(u"A\u00f1o"_s)
+			$of(u"Año"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("islamic.QuarterAbbreviations"_s),
@@ -186,7 +186,7 @@ $ObjectArray2* FormatData_es_DO::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.weekday"_s),
-			$of(u"D\u00eda de la semana"_s)
+			$of(u"Día de la semana"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("islamic.TimePatterns"_s),
@@ -207,8 +207,8 @@ $ObjectArray2* FormatData_es_DO::getContents() {
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
+				u"‰"_s,
+				u"∞"_s,
 				"NaN"_s,
 				""_s,
 				""_s
@@ -243,9 +243,9 @@ $ObjectArray2* FormatData_es_DO::getContents() {
 			$of("latn.NumberPatterns"_s),
 			$of($$new($StringArray, {
 				"#,##0.###"_s,
-				u"\u00a4#,##0.00"_s,
-				u"#,##0\u00a0%"_s,
-				u"\u00a4#,##0.00;(\u00a4#,##0.00)"_s
+				u"¤#,##0.00"_s,
+				u"#,##0 %"_s,
+				u"¤#,##0.00;(¤#,##0.00)"_s
 			}))
 		}),
 		$$new($ObjectArray, {

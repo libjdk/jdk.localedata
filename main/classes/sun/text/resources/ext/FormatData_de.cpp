@@ -44,7 +44,7 @@ $ObjectArray2* FormatData_de::getContents() {
 			$of($$new($StringArray, {
 				"Januar"_s,
 				"Februar"_s,
-				u"M\u00e4rz"_s,
+				u"März"_s,
 				"April"_s,
 				"Mai"_s,
 				"Juni"_s,
@@ -62,7 +62,7 @@ $ObjectArray2* FormatData_de::getContents() {
 			$of($$new($StringArray, {
 				"Jan"_s,
 				"Feb"_s,
-				u"M\u00e4r"_s,
+				u"Mär"_s,
 				"Apr"_s,
 				"Mai"_s,
 				"Jun"_s,
@@ -98,7 +98,7 @@ $ObjectArray2* FormatData_de::getContents() {
 			$of($$new($StringArray, {
 				"Jan"_s,
 				"Feb"_s,
-				u"M\u00e4r"_s,
+				u"Mär"_s,
 				"Apr"_s,
 				"Mai"_s,
 				"Jun"_s,
@@ -184,9 +184,9 @@ $ObjectArray2* FormatData_de::getContents() {
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
-				u"\ufffd"_s
+				u"‰"_s,
+				u"∞"_s,
+				u"�"_s
 			}))
 		}),
 		$$new($ObjectArray, {

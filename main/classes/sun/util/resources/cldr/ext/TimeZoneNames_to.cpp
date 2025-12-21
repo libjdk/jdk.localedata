@@ -43,7 +43,7 @@ void TimeZoneNames_to::init$() {
 $ObjectArray2* TimeZoneNames_to::getContents() {
 	$useLocalCurrentObjectStackCache();
 	$var($StringArray, GMT, $new($StringArray, {
-		u"houa fakakiliniuisi m\u0101lie"_s,
+		u"houa fakakiliniuisi mālie"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -51,11 +51,11 @@ $ObjectArray2* TimeZoneNames_to::getContents() {
 		""_s
 	}));
 	$var($StringArray, Acre, $new($StringArray, {
-		u"houa faka\u02bbakel\u012b taimi totonu"_s,
+		u"houa fakaʻakelī taimi totonu"_s,
 		""_s,
-		u"houa faka\u02bbakel\u012b taimi liliu"_s,
+		u"houa fakaʻakelī taimi liliu"_s,
 		""_s,
-		u"houa faka\u02bbakel\u012b"_s,
+		u"houa fakaʻakelī"_s,
 		""_s
 	}));
 	$var($StringArray, Apia, $new($StringArray, {
@@ -67,11 +67,11 @@ $ObjectArray2* TimeZoneNames_to::getContents() {
 		""_s
 	}));
 	$var($StringArray, Cook, $new($StringArray, {
-		u"houa faka\u02bbotumotukuki taimi totonu"_s,
+		u"houa fakaʻotumotukuki taimi totonu"_s,
 		""_s,
-		u"houa faka\u02bbotumotukuki taimi liliu"_s,
+		u"houa fakaʻotumotukuki taimi liliu"_s,
 		""_s,
-		u"houa faka\u02bbotumotukuki"_s,
+		u"houa fakaʻotumotukuki"_s,
 		""_s
 	}));
 	$var($StringArray, Cuba, $new($StringArray, {
@@ -91,7 +91,7 @@ $ObjectArray2* TimeZoneNames_to::getContents() {
 		""_s
 	}));
 	$var($StringArray, Gulf, $new($StringArray, {
-		u"houa fakak\u016blifi"_s,
+		u"houa fakakūlifi"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -107,15 +107,15 @@ $ObjectArray2* TimeZoneNames_to::getContents() {
 		""_s
 	}));
 	$var($StringArray, Iran, $new($StringArray, {
-		u"houa faka\u02bbilaani taimi totonu"_s,
+		u"houa fakaʻilaani taimi totonu"_s,
 		""_s,
-		u"houa faka\u02bbilaani taimi liliu"_s,
+		u"houa fakaʻilaani taimi liliu"_s,
 		""_s,
-		u"houa faka\u02bbilaani"_s,
+		u"houa fakaʻilaani"_s,
 		""_s
 	}));
 	$var($StringArray, Niue, $new($StringArray, {
-		u"houa fakaniu\u0113"_s,
+		u"houa fakaniuē"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -123,23 +123,23 @@ $ObjectArray2* TimeZoneNames_to::getContents() {
 		""_s
 	}));
 	$var($StringArray, Omsk, $new($StringArray, {
-		u"houa fakal\u016bsia-\u02bbomisiki taimi totonu"_s,
+		u"houa fakalūsia-ʻomisiki taimi totonu"_s,
 		""_s,
-		u"houa fakal\u016bsia-\u02bbomisiki taimi liliu"_s,
+		u"houa fakalūsia-ʻomisiki taimi liliu"_s,
 		""_s,
-		u"houa fakal\u016bsia-\u02bbomisiki"_s,
+		u"houa fakalūsia-ʻomisiki"_s,
 		""_s
 	}));
 	$var($StringArray, Peru, $new($StringArray, {
-		u"houa fakapel\u016b taimi totonu"_s,
+		u"houa fakapelū taimi totonu"_s,
 		""_s,
-		u"houa fakapel\u016b taimi liliu"_s,
+		u"houa fakapelū taimi liliu"_s,
 		""_s,
-		u"houa fakapel\u016b"_s,
+		u"houa fakapelū"_s,
 		""_s
 	}));
 	$var($StringArray, Truk, $new($StringArray, {
-		u"houa fakat\u016bke"_s,
+		u"houa fakatūke"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -195,7 +195,7 @@ $ObjectArray2* TimeZoneNames_to::getContents() {
 		""_s
 	}));
 	$var($StringArray, India, $new($StringArray, {
-		u"houa faka\u02bbinitia"_s,
+		u"houa fakaʻinitia"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -211,11 +211,11 @@ $ObjectArray2* TimeZoneNames_to::getContents() {
 		""_s
 	}));
 	$var($StringArray, Korea, $new($StringArray, {
-		u"houa fakak\u014dlea taimi totonu"_s,
+		u"houa fakakōlea taimi totonu"_s,
 		""_s,
-		u"houa fakak\u014dlea taimi liliu"_s,
+		u"houa fakakōlea taimi liliu"_s,
 		""_s,
-		u"houa fakak\u014dlea"_s,
+		u"houa fakakōlea"_s,
 		""_s
 	}));
 	$var($StringArray, Nauru, $new($StringArray, {
@@ -243,11 +243,11 @@ $ObjectArray2* TimeZoneNames_to::getContents() {
 		""_s
 	}));
 	$var($StringArray, Samoa, $new($StringArray, {
-		u"houa fakaha\u02bbamoa taimi totonu"_s,
+		u"houa fakahaʻamoa taimi totonu"_s,
 		""_s,
-		u"houa fakaha\u02bbamoa taimi liliu"_s,
+		u"houa fakahaʻamoa taimi liliu"_s,
 		""_s,
-		u"houa fakaha\u02bbamoa"_s,
+		u"houa fakahaʻamoa"_s,
 		""_s
 	}));
 	$var($StringArray, Syowa, $new($StringArray, {
@@ -267,39 +267,39 @@ $ObjectArray2* TimeZoneNames_to::getContents() {
 		""_s
 	}));
 	$var($StringArray, Alaska, $new($StringArray, {
-		u"houa faka\u02bbalasika taimi totonu"_s,
+		u"houa fakaʻalasika taimi totonu"_s,
 		""_s,
-		u"houa faka\u02bbalasika taimi liliu"_s,
+		u"houa fakaʻalasika taimi liliu"_s,
 		""_s,
-		u"houa faka\u02bbalasika"_s,
+		u"houa fakaʻalasika"_s,
 		""_s
 	}));
 	$var($StringArray, Amazon, $new($StringArray, {
-		u"houa faka\u02bbamas\u014dne taimi totonu"_s,
+		u"houa fakaʻamasōne taimi totonu"_s,
 		""_s,
-		u"houa faka\u02bbamas\u014dne taimi liliu"_s,
+		u"houa fakaʻamasōne taimi liliu"_s,
 		""_s,
-		u"houa faka\u02bbamas\u014dne"_s,
+		u"houa fakaʻamasōne"_s,
 		""_s
 	}));
 	$var($StringArray, Anadyr, $new($StringArray, {
-		u"houa fakal\u016bsia-\u02bbanatili taimi totonu"_s,
+		u"houa fakalūsia-ʻanatili taimi totonu"_s,
 		""_s,
-		u"houa fakal\u016bsia-\u02bbanatili taimi liliu"_s,
+		u"houa fakalūsia-ʻanatili taimi liliu"_s,
 		""_s,
-		u"houa fakal\u016bsia-\u02bbanatili"_s,
+		u"houa fakalūsia-ʻanatili"_s,
 		""_s
 	}));
 	$var($StringArray, Azores, $new($StringArray, {
-		u"houa faka\u02bb\u0101solesi taimi totonu"_s,
+		u"houa fakaʻāsolesi taimi totonu"_s,
 		""_s,
-		u"houa faka\u02bb\u0101solesi taimi liliu"_s,
+		u"houa fakaʻāsolesi taimi liliu"_s,
 		""_s,
-		u"houa faka\u02bb\u0101solesi"_s,
+		u"houa fakaʻāsolesi"_s,
 		""_s
 	}));
 	$var($StringArray, Bhutan, $new($StringArray, {
-		u"houa fakap\u016btani"_s,
+		u"houa fakapūtani"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -331,11 +331,11 @@ $ObjectArray2* TimeZoneNames_to::getContents() {
 		""_s
 	}));
 	$var($StringArray, Israel, $new($StringArray, {
-		u"houa faka\u02bbisileli taimi totonu"_s,
+		u"houa fakaʻisileli taimi totonu"_s,
 		""_s,
-		u"houa faka\u02bbisileli taimi liliu"_s,
+		u"houa fakaʻisileli taimi liliu"_s,
 		""_s,
-		u"houa faka\u02bbisileli"_s,
+		u"houa fakaʻisileli"_s,
 		""_s
 	}));
 	$var($StringArray, Kosrae, $new($StringArray, {
@@ -355,15 +355,15 @@ $ObjectArray2* TimeZoneNames_to::getContents() {
 		""_s
 	}));
 	$var($StringArray, Moscow, $new($StringArray, {
-		u"houa fakal\u016bsia-mosikou taimi totonu"_s,
+		u"houa fakalūsia-mosikou taimi totonu"_s,
 		""_s,
-		u"houa fakal\u016bsia-mosikou taimi liliu"_s,
+		u"houa fakalūsia-mosikou taimi liliu"_s,
 		""_s,
-		u"houa fakal\u016bsia-mosikou"_s,
+		u"houa fakalūsia-mosikou"_s,
 		""_s
 	}));
 	$var($StringArray, Ponape, $new($StringArray, {
-		u"houa fakap\u014dnap\u0113"_s,
+		u"houa fakapōnapē"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -371,11 +371,11 @@ $ObjectArray2* TimeZoneNames_to::getContents() {
 		""_s
 	}));
 	$var($StringArray, Samara, $new($StringArray, {
-		u"houa fakal\u016bsia-samala taimi totonu"_s,
+		u"houa fakalūsia-samala taimi totonu"_s,
 		""_s,
-		u"houa fakal\u016bsia-samala taimi liliu"_s,
+		u"houa fakalūsia-samala taimi liliu"_s,
 		""_s,
-		u"houa fakal\u016bsia-samala"_s,
+		u"houa fakalūsia-samala"_s,
 		""_s
 	}));
 	$var($StringArray, Tahiti, $new($StringArray, {
@@ -395,7 +395,7 @@ $ObjectArray2* TimeZoneNames_to::getContents() {
 		""_s
 	}));
 	$var($StringArray, Tuvalu, $new($StringArray, {
-		u"houa fakat\u016bvalu"_s,
+		u"houa fakatūvalu"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -411,7 +411,7 @@ $ObjectArray2* TimeZoneNames_to::getContents() {
 		""_s
 	}));
 	$var($StringArray, Wallis, $new($StringArray, {
-		u"houa faka\u02bbuvea mo futuna"_s,
+		u"houa fakaʻuvea mo futuna"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -419,23 +419,23 @@ $ObjectArray2* TimeZoneNames_to::getContents() {
 		""_s
 	}));
 	$var($StringArray, Arabian, $new($StringArray, {
-		u"houa faka\u02bbalepea taimi totonu"_s,
+		u"houa fakaʻalepea taimi totonu"_s,
 		""_s,
-		u"houa faka\u02bbalepea taimi liliu"_s,
+		u"houa fakaʻalepea taimi liliu"_s,
 		""_s,
-		u"houa faka\u02bbalepea"_s,
+		u"houa fakaʻalepea"_s,
 		""_s
 	}));
 	$var($StringArray, Armenia, $new($StringArray, {
-		u"houa faka\u02bb\u0101menia taimi totonu"_s,
+		u"houa fakaʻāmenia taimi totonu"_s,
 		""_s,
-		u"houa faka\u02bb\u0101menia taimi liliu"_s,
+		u"houa fakaʻāmenia taimi liliu"_s,
 		""_s,
-		u"houa faka\u02bb\u0101menia"_s,
+		u"houa fakaʻāmenia"_s,
 		""_s
 	}));
 	$var($StringArray, Bolivia, $new($StringArray, {
-		u"houa fakapol\u012bvia"_s,
+		u"houa fakapolīvia"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -451,7 +451,7 @@ $ObjectArray2* TimeZoneNames_to::getContents() {
 		""_s
 	}));
 	$var($StringArray, ETC_UTC, $new($StringArray, {
-		u"taimi fakaem\u0101mani"_s,
+		u"taimi fakaemāmani"_s,
 		"UTC"_s,
 		""_s,
 		""_s,
@@ -459,7 +459,7 @@ $ObjectArray2* TimeZoneNames_to::getContents() {
 		""_s
 	}));
 	$var($StringArray, Ecuador, $new($StringArray, {
-		u"houa faka\u02bbekuetoa"_s,
+		u"houa fakaʻekuetoa"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -467,7 +467,7 @@ $ObjectArray2* TimeZoneNames_to::getContents() {
 		""_s
 	}));
 	$var($StringArray, Gambier, $new($StringArray, {
-		u"houa fakakamipi\u0113"_s,
+		u"houa fakakamipiē"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -475,27 +475,27 @@ $ObjectArray2* TimeZoneNames_to::getContents() {
 		""_s
 	}));
 	$var($StringArray, Georgia, $new($StringArray, {
-		u"houa fakase\u014dsia taimi totonu"_s,
+		u"houa fakaseōsia taimi totonu"_s,
 		""_s,
-		u"houa fakase\u014dsia taimi liliu"_s,
+		u"houa fakaseōsia taimi liliu"_s,
 		""_s,
-		u"houa fakase\u014dsia"_s,
+		u"houa fakaseōsia"_s,
 		""_s
 	}));
 	$var($StringArray, Irkutsk, $new($StringArray, {
-		u"houa fakal\u016bsia-\u02bb\u012bkutisiki taimi totonu"_s,
+		u"houa fakalūsia-ʻīkutisiki taimi totonu"_s,
 		""_s,
-		u"houa fakal\u016bsia-\u02bb\u012bkutisiki taimi liliu"_s,
+		u"houa fakalūsia-ʻīkutisiki taimi liliu"_s,
 		""_s,
-		u"houa fakal\u016bsia-\u02bb\u012bkutisiki"_s,
+		u"houa fakalūsia-ʻīkutisiki"_s,
 		""_s
 	}));
 	$var($StringArray, Magadan, $new($StringArray, {
-		u"houa fakal\u016bsia-makatani taimi totonu"_s,
+		u"houa fakalūsia-makatani taimi totonu"_s,
 		""_s,
-		u"houa fakal\u016bsia-makatani taimi liliu"_s,
+		u"houa fakalūsia-makatani taimi liliu"_s,
 		""_s,
-		u"houa fakal\u016bsia-makatani"_s,
+		u"houa fakalūsia-makatani"_s,
 		""_s
 	}));
 	$var($StringArray, Myanmar, $new($StringArray, {
@@ -507,23 +507,23 @@ $ObjectArray2* TimeZoneNames_to::getContents() {
 		""_s
 	}));
 	$var($StringArray, Norfolk, $new($StringArray, {
-		u"houa fakanoaf\u014dki taimi totonu"_s,
+		u"houa fakanoafōki taimi totonu"_s,
 		""_s,
-		u"houa fakanoaf\u014dki taimi liliu"_s,
+		u"houa fakanoafōki taimi liliu"_s,
 		""_s,
-		u"houa fakanoaf\u014dki"_s,
+		u"houa fakanoafōki"_s,
 		""_s
 	}));
 	$var($StringArray, Noronha, $new($StringArray, {
-		u"houa fakaf\u0113nanito-te-nol\u014dnia taimi totonu"_s,
+		u"houa fakafēnanito-te-nolōnia taimi totonu"_s,
 		""_s,
-		u"houa fakaf\u0113nanito-te-nol\u014dnia taimi liliu"_s,
+		u"houa fakafēnanito-te-nolōnia taimi liliu"_s,
 		""_s,
-		u"houa fakaf\u0113nanito-te-nol\u014dnia"_s,
+		u"houa fakafēnanito-te-nolōnia"_s,
 		""_s
 	}));
 	$var($StringArray, Reunion, $new($StringArray, {
-		u"houa fakal\u0113unioni"_s,
+		u"houa fakalēunioni"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -539,7 +539,7 @@ $ObjectArray2* TimeZoneNames_to::getContents() {
 		""_s
 	}));
 	$var($StringArray, Solomon, $new($StringArray, {
-		u"houa faka\u02bbotumotusolomone"_s,
+		u"houa fakaʻotumotusolomone"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -555,11 +555,11 @@ $ObjectArray2* TimeZoneNames_to::getContents() {
 		""_s
 	}));
 	$var($StringArray, Uruguay, $new($StringArray, {
-		u"houa faka\u02bbulukuai taimi totonu"_s,
+		u"houa fakaʻulukuai taimi totonu"_s,
 		""_s,
-		u"houa faka\u02bbulukuai taimi liliu"_s,
+		u"houa fakaʻulukuai taimi liliu"_s,
 		""_s,
-		u"houa faka\u02bbulukuai"_s,
+		u"houa fakaʻulukuai"_s,
 		""_s
 	}));
 	$var($StringArray, Vanuatu, $new($StringArray, {
@@ -571,27 +571,27 @@ $ObjectArray2* TimeZoneNames_to::getContents() {
 		""_s
 	}));
 	$var($StringArray, Yakutsk, $new($StringArray, {
-		u"houa fakal\u016bsia-\u02bbi\u0101kutisiki taimi totonu"_s,
+		u"houa fakalūsia-ʻiākutisiki taimi totonu"_s,
 		""_s,
-		u"houa fakal\u016bsia-\u02bbi\u0101kutisiki taimi liliu"_s,
+		u"houa fakalūsia-ʻiākutisiki taimi liliu"_s,
 		""_s,
-		u"houa fakal\u016bsia-\u02bbi\u0101kutisiki"_s,
+		u"houa fakalūsia-ʻiākutisiki"_s,
 		""_s
 	}));
 	$var($StringArray, Atlantic, $new($StringArray, {
-		u"houa faka\u02bbamelika-tokelau \u02bbatalanitiki taimi totonu"_s,
+		u"houa fakaʻamelika-tokelau ʻatalanitiki taimi totonu"_s,
 		""_s,
-		u"houa faka\u02bbamelika-tokelau \u02bbatalanitiki taimi liliu"_s,
+		u"houa fakaʻamelika-tokelau ʻatalanitiki taimi liliu"_s,
 		""_s,
-		u"houa faka\u02bbamelika-tokelau \u02bbatalanitiki"_s,
+		u"houa fakaʻamelika-tokelau ʻatalanitiki"_s,
 		""_s
 	}));
 	$var($StringArray, Brasilia, $new($StringArray, {
-		u"houa fakapal\u0101sila taimi totonu"_s,
+		u"houa fakapalāsila taimi totonu"_s,
 		""_s,
-		u"houa fakapal\u0101sila taimi liliu"_s,
+		u"houa fakapalāsila taimi liliu"_s,
 		""_s,
-		u"houa fakapal\u0101sila"_s,
+		u"houa fakapalāsila"_s,
 		""_s
 	}));
 	$var($StringArray, Chamorro, $new($StringArray, {
@@ -611,11 +611,11 @@ $ObjectArray2* TimeZoneNames_to::getContents() {
 		""_s
 	}));
 	$var($StringArray, Falkland, $new($StringArray, {
-		u"houa faka\u02bbotumotu-fokulani taimi totonu"_s,
+		u"houa fakaʻotumotu-fokulani taimi totonu"_s,
 		""_s,
-		u"houa faka\u02bbotumotu-fokulani taimi liliu"_s,
+		u"houa fakaʻotumotu-fokulani taimi liliu"_s,
 		""_s,
-		u"houa faka\u02bbotumotu-fokulani"_s,
+		u"houa fakaʻotumotu-fokulani"_s,
 		""_s
 	}));
 	$var($StringArray, Malaysia, $new($StringArray, {
@@ -635,19 +635,19 @@ $ObjectArray2* TimeZoneNames_to::getContents() {
 		""_s
 	}));
 	$var($StringArray, Mongolia, $new($StringArray, {
-		u"houa faka\u02bbul\u0101nip\u0101t\u0101 taimi totonu"_s,
+		u"houa fakaʻulānipātā taimi totonu"_s,
 		""_s,
-		u"houa faka\u02bbul\u0101nip\u0101t\u0101 taimi liliu"_s,
+		u"houa fakaʻulānipātā taimi liliu"_s,
 		""_s,
-		u"houa faka\u02bbul\u0101nip\u0101t\u0101"_s,
+		u"houa fakaʻulānipātā"_s,
 		""_s
 	}));
 	$var($StringArray, Pakistan, $new($StringArray, {
-		u"houa fakap\u0101kisitani taimi totonu"_s,
+		u"houa fakapākisitani taimi totonu"_s,
 		""_s,
-		u"houa fakap\u0101kisitani taimi liliu"_s,
+		u"houa fakapākisitani taimi liliu"_s,
 		""_s,
-		u"houa fakap\u0101kisitani"_s,
+		u"houa fakapākisitani"_s,
 		""_s
 	}));
 	$var($StringArray, Paraguay, $new($StringArray, {
@@ -667,11 +667,11 @@ $ObjectArray2* TimeZoneNames_to::getContents() {
 		""_s
 	}));
 	$var($StringArray, Sakhalin, $new($StringArray, {
-		u"houa fakal\u016bsia-sak\u0101line taimi totonu"_s,
+		u"houa fakalūsia-sakāline taimi totonu"_s,
 		""_s,
-		u"houa fakal\u016bsia-sak\u0101line taimi liliu"_s,
+		u"houa fakalūsia-sakāline taimi liliu"_s,
 		""_s,
-		u"houa fakal\u016bsia-sak\u0101line"_s,
+		u"houa fakalūsia-sakāline"_s,
 		""_s
 	}));
 	$var($StringArray, Suriname, $new($StringArray, {
@@ -683,11 +683,11 @@ $ObjectArray2* TimeZoneNames_to::getContents() {
 		""_s
 	}));
 	$var($StringArray, Argentina, $new($StringArray, {
-		u"houa faka\u02bbasenitina taimi totonu"_s,
+		u"houa fakaʻasenitina taimi totonu"_s,
 		""_s,
-		u"houa faka\u02bbasenitina taimi liliu"_s,
+		u"houa fakaʻasenitina taimi liliu"_s,
 		""_s,
-		u"houa faka\u02bbasenitina"_s,
+		u"houa fakaʻasenitina"_s,
 		""_s
 	}));
 	$var($StringArray, Christmas, $new($StringArray, {
@@ -715,7 +715,7 @@ $ObjectArray2* TimeZoneNames_to::getContents() {
 		""_s
 	}));
 	$var($StringArray, Indochina, $new($StringArray, {
-		u"houa faka\u02bbinitosiaina"_s,
+		u"houa fakaʻinitosiaina"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -723,15 +723,15 @@ $ObjectArray2* TimeZoneNames_to::getContents() {
 		""_s
 	}));
 	$var($StringArray, Kamchatka, $new($StringArray, {
-		u"houa fakal\u016bsia-petelopavilovisiki taimi totonu"_s,
+		u"houa fakalūsia-petelopavilovisiki taimi totonu"_s,
 		""_s,
-		u"houa fakal\u016bsia-petelopavilovisiki taimi liliu"_s,
+		u"houa fakalūsia-petelopavilovisiki taimi liliu"_s,
 		""_s,
-		u"houa fakal\u016bsia-petelopavilovisiki"_s,
+		u"houa fakalūsia-petelopavilovisiki"_s,
 		""_s
 	}));
 	$var($StringArray, Kyrgystan, $new($StringArray, {
-		u"houa fakak\u012bkisitani"_s,
+		u"houa fakakīkisitani"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -739,15 +739,15 @@ $ObjectArray2* TimeZoneNames_to::getContents() {
 		""_s
 	}));
 	$var($StringArray, Lord_Howe, $new($StringArray, {
-		u"houa fakamotu\u02bbeikihoue taimi totonu"_s,
+		u"houa fakamotuʻeikihoue taimi totonu"_s,
 		""_s,
-		u"houa fakamotu\u02bbeikihoue taimi liliu"_s,
+		u"houa fakamotuʻeikihoue taimi liliu"_s,
 		""_s,
-		u"houa fakamotu\u02bbeikihoue"_s,
+		u"houa fakamotuʻeikihoue"_s,
 		""_s
 	}));
 	$var($StringArray, Marquesas, $new($StringArray, {
-		u"houa fakam\u0101kesasi"_s,
+		u"houa fakamākesasi"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -779,35 +779,35 @@ $ObjectArray2* TimeZoneNames_to::getContents() {
 		""_s
 	}));
 	$var($StringArray, Volgograd, $new($StringArray, {
-		u"houa fakal\u016bsia-volikokalati taimi totonu"_s,
+		u"houa fakalūsia-volikokalati taimi totonu"_s,
 		""_s,
-		u"houa fakal\u016bsia-volikokalati taimi liliu"_s,
+		u"houa fakalūsia-volikokalati taimi liliu"_s,
 		""_s,
-		u"houa fakal\u016bsia-volikokalati"_s,
+		u"houa fakalūsia-volikokalati"_s,
 		""_s
 	}));
 	$var($StringArray, Azerbaijan, $new($StringArray, {
-		u"houa faka\u02bbasapaisani taimi totonu"_s,
+		u"houa fakaʻasapaisani taimi totonu"_s,
 		""_s,
-		u"houa faka\u02bbasapaisani taimi liliu"_s,
+		u"houa fakaʻasapaisani taimi liliu"_s,
 		""_s,
-		u"houa faka\u02bbasapaisani"_s,
+		u"houa fakaʻasapaisani"_s,
 		""_s
 	}));
 	$var($StringArray, Bangladesh, $new($StringArray, {
-		u"houa fakap\u0101ngil\u0101tesi taimi totonu"_s,
+		u"houa fakapāngilātesi taimi totonu"_s,
 		""_s,
-		u"houa fakap\u0101ngil\u0101tesi taimi liliu"_s,
+		u"houa fakapāngilātesi taimi liliu"_s,
 		""_s,
-		u"houa fakap\u0101ngil\u0101tesi"_s,
+		u"houa fakapāngilātesi"_s,
 		""_s
 	}));
 	$var($StringArray, Cape_Verde, $new($StringArray, {
-		u"houa fakamui\u02bbi-v\u0113te taimi totonu"_s,
+		u"houa fakamuiʻi-vēte taimi totonu"_s,
 		""_s,
-		u"houa fakamui\u02bbi-v\u0113te taimi liliu"_s,
+		u"houa fakamuiʻi-vēte taimi liliu"_s,
 		""_s,
-		u"houa fakamui\u02bbi-v\u0113te"_s,
+		u"houa fakamuiʻi-vēte"_s,
 		""_s
 	}));
 	$var($StringArray, East_Timor, $new($StringArray, {
@@ -819,7 +819,7 @@ $ObjectArray2* TimeZoneNames_to::getContents() {
 		""_s
 	}));
 	$var($StringArray, Seychelles, $new($StringArray, {
-		u"houa faka\u02bbotumotu-seiseli"_s,
+		u"houa fakaʻotumotu-seiseli"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -835,15 +835,15 @@ $ObjectArray2* TimeZoneNames_to::getContents() {
 		""_s
 	}));
 	$var($StringArray, Uzbekistan, $new($StringArray, {
-		u"houa faka\u02bbusipekitani taimi totonu"_s,
+		u"houa fakaʻusipekitani taimi totonu"_s,
 		""_s,
-		u"houa faka\u02bbusipekitani taimi liliu"_s,
+		u"houa fakaʻusipekitani taimi liliu"_s,
 		""_s,
-		u"houa faka\u02bbusipekitani"_s,
+		u"houa fakaʻusipekitani"_s,
 		""_s
 	}));
 	$var($StringArray, Afghanistan, $new($StringArray, {
-		u"houa faka\u02bbafik\u0101nisitani"_s,
+		u"houa fakaʻafikānisitani"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -851,27 +851,27 @@ $ObjectArray2* TimeZoneNames_to::getContents() {
 		""_s
 	}));
 	$var($StringArray, Krasnoyarsk, $new($StringArray, {
-		u"houa fakal\u016bsia-kalasinoi\u0101siki taimi totonu"_s,
+		u"houa fakalūsia-kalasinoiāsiki taimi totonu"_s,
 		""_s,
-		u"houa fakal\u016bsia-kalasinoi\u0101siki taimi liliu"_s,
+		u"houa fakalūsia-kalasinoiāsiki taimi liliu"_s,
 		""_s,
-		u"houa fakal\u016bsia-kalasinoi\u0101siki"_s,
+		u"houa fakalūsia-kalasinoiāsiki"_s,
 		""_s
 	}));
 	$var($StringArray, New_Zealand, $new($StringArray, {
-		u"houa fakanu\u02bbusila taimi totonu"_s,
+		u"houa fakanuʻusila taimi totonu"_s,
 		""_s,
-		u"houa fakanu\u02bbusila taimi liliu"_s,
+		u"houa fakanuʻusila taimi liliu"_s,
 		""_s,
-		u"houa fakanu\u02bbusila"_s,
+		u"houa fakanuʻusila"_s,
 		""_s
 	}));
 	$var($StringArray, Novosibirsk, $new($StringArray, {
-		u"houa fakal\u016bsia-novosip\u012bsiki taimi totonu"_s,
+		u"houa fakalūsia-novosipīsiki taimi totonu"_s,
 		""_s,
-		u"houa fakal\u016bsia-novosip\u012bsiki taimi liliu"_s,
+		u"houa fakalūsia-novosipīsiki taimi liliu"_s,
 		""_s,
-		u"houa fakal\u016bsia-novosip\u012bsiki"_s,
+		u"houa fakalūsia-novosipīsiki"_s,
 		""_s
 	}));
 	$var($StringArray, Philippines, $new($StringArray, {
@@ -883,15 +883,15 @@ $ObjectArray2* TimeZoneNames_to::getContents() {
 		""_s
 	}));
 	$var($StringArray, Vladivostok, $new($StringArray, {
-		u"houa fakal\u016bsia-valativositoki taimi totonu"_s,
+		u"houa fakalūsia-valativositoki taimi totonu"_s,
 		""_s,
-		u"houa fakal\u016bsia-valativositoki taimi liliu"_s,
+		u"houa fakalūsia-valativositoki taimi liliu"_s,
 		""_s,
-		u"houa fakal\u016bsia-valativositoki"_s,
+		u"houa fakalūsia-valativositoki"_s,
 		""_s
 	}));
 	$var($StringArray, Indian_Ocean, $new($StringArray, {
-		u"houa fakamoana\u02bbinitia"_s,
+		u"houa fakamoanaʻinitia"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -899,7 +899,7 @@ $ObjectArray2* TimeZoneNames_to::getContents() {
 		""_s
 	}));
 	$var($StringArray, Line_Islands, $new($StringArray, {
-		u"houa faka\u02bbotumotulaine"_s,
+		u"houa fakaʻotumotulaine"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -907,23 +907,23 @@ $ObjectArray2* TimeZoneNames_to::getContents() {
 		""_s
 	}));
 	$var($StringArray, Newfoundland, $new($StringArray, {
-		u"houa fakafonua\u02bbilofo\u02bbou taimi totonu"_s,
+		u"houa fakafonuaʻilofoʻou taimi totonu"_s,
 		""_s,
-		u"houa fakafonua\u02bbilofo\u02bbou taimi liliu"_s,
+		u"houa fakafonuaʻilofoʻou taimi liliu"_s,
 		""_s,
-		u"houa fakafonua\u02bbilofo\u02bbou"_s,
+		u"houa fakafonuaʻilofoʻou"_s,
 		""_s
 	}));
 	$var($StringArray, Turkmenistan, $new($StringArray, {
-		u"houa fakat\u016bkimenisitani taimi totonu"_s,
+		u"houa fakatūkimenisitani taimi totonu"_s,
 		""_s,
-		u"houa fakat\u016bkimenisitani taimi liliu"_s,
+		u"houa fakatūkimenisitani taimi liliu"_s,
 		""_s,
-		u"houa fakat\u016bkimenisitani"_s,
+		u"houa fakatūkimenisitani"_s,
 		""_s
 	}));
 	$var($StringArray, French_Guiana, $new($StringArray, {
-		u"houa fakakuiana-fakafalanis\u0113"_s,
+		u"houa fakakuiana-fakafalanisē"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -931,11 +931,11 @@ $ObjectArray2* TimeZoneNames_to::getContents() {
 		""_s
 	}));
 	$var($StringArray, New_Caledonia, $new($StringArray, {
-		u"houa fakakalet\u014dniafo\u02bbou taimi totonu"_s,
+		u"houa fakakaletōniafoʻou taimi totonu"_s,
 		""_s,
-		u"houa fakakalet\u014dniafo\u02bbou taimi liliu"_s,
+		u"houa fakakaletōniafoʻou taimi liliu"_s,
 		""_s,
-		u"houa fakakalet\u014dniafo\u02bbou"_s,
+		u"houa fakakaletōniafoʻou"_s,
 		""_s
 	}));
 	$var($StringArray, South_Georgia, $new($StringArray, {
@@ -947,15 +947,15 @@ $ObjectArray2* TimeZoneNames_to::getContents() {
 		""_s
 	}));
 	$var($StringArray, Yekaterinburg, $new($StringArray, {
-		u"houa fakal\u016bsia-\u02bbiekatelinep\u016bki taimi totonu"_s,
+		u"houa fakalūsia-ʻiekatelinepūki taimi totonu"_s,
 		""_s,
-		u"houa fakal\u016bsia-\u02bbiekatelinep\u016bki taimi liliu"_s,
+		u"houa fakalūsia-ʻiekatelinepūki taimi liliu"_s,
 		""_s,
-		u"houa fakal\u016bsia-\u02bbiekatelinep\u016bki"_s,
+		u"houa fakalūsia-ʻiekatelinepūki"_s,
 		""_s
 	}));
 	$var($StringArray, Africa_Central, $new($StringArray, {
-		u"houa faka\u02bbafelika-loto"_s,
+		u"houa fakaʻafelika-loto"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -963,7 +963,7 @@ $ObjectArray2* TimeZoneNames_to::getContents() {
 		""_s
 	}));
 	$var($StringArray, Africa_Eastern, $new($StringArray, {
-		u"houa faka\u02bbafelika-hahake"_s,
+		u"houa fakaʻafelika-hahake"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -971,15 +971,15 @@ $ObjectArray2* TimeZoneNames_to::getContents() {
 		""_s
 	}));
 	$var($StringArray, Africa_Western, $new($StringArray, {
-		u"houa faka\u02bbafelika-hihifo taimi totonu"_s,
+		u"houa fakaʻafelika-hihifo taimi totonu"_s,
 		""_s,
-		u"houa faka\u02bbafelika-hihifo taimi liliu"_s,
+		u"houa fakaʻafelika-hihifo taimi liliu"_s,
 		""_s,
-		u"houa faka\u02bbafelika-hihifo"_s,
+		u"houa fakaʻafelika-hihifo"_s,
 		""_s
 	}));
 	$var($StringArray, DumontDUrville, $new($StringArray, {
-		u"houa fakat\u016bmoni-t\u016bvile"_s,
+		u"houa fakatūmoni-tūvile"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -987,27 +987,27 @@ $ObjectArray2* TimeZoneNames_to::getContents() {
 		""_s
 	}));
 	$var($StringArray, Europe_Central, $new($StringArray, {
-		u"houa faka\u02bbeulope-loto taimi totonu"_s,
+		u"houa fakaʻeulope-loto taimi totonu"_s,
 		""_s,
-		u"houa faka\u02bbeulope-loto taimi liliu"_s,
+		u"houa fakaʻeulope-loto taimi liliu"_s,
 		""_s,
-		u"houa faka\u02bbeulope-loto"_s,
+		u"houa fakaʻeulope-loto"_s,
 		""_s
 	}));
 	$var($StringArray, Europe_Eastern, $new($StringArray, {
-		u"houa faka\u02bbeulope-hahake taimi totonu"_s,
+		u"houa fakaʻeulope-hahake taimi totonu"_s,
 		""_s,
-		u"houa faka\u02bbeulope-hahake taimi liliu"_s,
+		u"houa fakaʻeulope-hahake taimi liliu"_s,
 		""_s,
-		u"houa faka\u02bbeulope-hahake"_s,
+		u"houa fakaʻeulope-hahake"_s,
 		""_s
 	}));
 	$var($StringArray, Europe_Western, $new($StringArray, {
-		u"houa faka\u02bbeulope-hihifo taimi totonu"_s,
+		u"houa fakaʻeulope-hihifo taimi totonu"_s,
 		""_s,
-		u"houa faka\u02bbeulope-hihifo taimi liliu"_s,
+		u"houa fakaʻeulope-hihifo taimi liliu"_s,
 		""_s,
-		u"houa faka\u02bbeulope-hihifo"_s,
+		u"houa fakaʻeulope-hihifo"_s,
 		""_s
 	}));
 	$var($StringArray, Mexico_Pacific, $new($StringArray, {
@@ -1019,7 +1019,7 @@ $ObjectArray2* TimeZoneNames_to::getContents() {
 		""_s
 	}));
 	$var($StringArray, Africa_Southern, $new($StringArray, {
-		u"houa faka\u02bbafelika-tonga"_s,
+		u"houa fakaʻafelika-tonga"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -1027,31 +1027,31 @@ $ObjectArray2* TimeZoneNames_to::getContents() {
 		""_s
 	}));
 	$var($StringArray, America_Central, $new($StringArray, {
-		u"houa faka\u02bbamelika-tokelau loto taimi totonu"_s,
+		u"houa fakaʻamelika-tokelau loto taimi totonu"_s,
 		""_s,
-		u"houa faka\u02bbamelika-tokelau loto taimi liliu"_s,
+		u"houa fakaʻamelika-tokelau loto taimi liliu"_s,
 		""_s,
-		u"houa faka\u02bbamelika-tokelau loto"_s,
+		u"houa fakaʻamelika-tokelau loto"_s,
 		""_s
 	}));
 	$var($StringArray, America_Eastern, $new($StringArray, {
-		u"houa faka\u02bbamelika-tokelau hahake taimi totonu"_s,
+		u"houa fakaʻamelika-tokelau hahake taimi totonu"_s,
 		""_s,
-		u"houa faka\u02bbamelika-tokelau hahake taimi liliu"_s,
+		u"houa fakaʻamelika-tokelau hahake taimi liliu"_s,
 		""_s,
-		u"houa faka\u02bbamelika-tokelau hahake"_s,
+		u"houa fakaʻamelika-tokelau hahake"_s,
 		""_s
 	}));
 	$var($StringArray, America_Pacific, $new($StringArray, {
-		u"houa faka\u02bbamelika-tokelau pasifika taimi totonu"_s,
+		u"houa fakaʻamelika-tokelau pasifika taimi totonu"_s,
 		""_s,
-		u"houa faka\u02bbamelika-tokelau pasifika taimi liliu"_s,
+		u"houa fakaʻamelika-tokelau pasifika taimi liliu"_s,
 		""_s,
-		u"houa faka\u02bbamelika-tokelau pasifika"_s,
+		u"houa fakaʻamelika-tokelau pasifika"_s,
 		""_s
 	}));
 	$var($StringArray, French_Southern, $new($StringArray, {
-		u"houa faka\u02bbanet\u0101tikafalanis\u0113"_s,
+		u"houa fakaʻanetātikafalanisē"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -1067,15 +1067,15 @@ $ObjectArray2* TimeZoneNames_to::getContents() {
 		""_s
 	}));
 	$var($StringArray, Hawaii_Aleutian, $new($StringArray, {
-		u"houa fakahaua\u02bbi taimi totonu"_s,
+		u"houa fakahauaʻi taimi totonu"_s,
 		""_s,
-		u"houa fakahaua\u02bbi taimi liliu"_s,
+		u"houa fakahauaʻi taimi liliu"_s,
 		""_s,
-		u"houa fakahaua\u02bbi"_s,
+		u"houa fakahauaʻi"_s,
 		""_s
 	}));
 	$var($StringArray, Phoenix_Islands, $new($StringArray, {
-		u"houa faka\u02bbotumotufoinikisi"_s,
+		u"houa fakaʻotumotufoinikisi"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -1083,23 +1083,23 @@ $ObjectArray2* TimeZoneNames_to::getContents() {
 		""_s
 	}));
 	$var($StringArray, Pierre_Miquelon, $new($StringArray, {
-		u"houa fakas\u0101-piea-mo-mikeloni taimi totonu"_s,
+		u"houa fakasā-piea-mo-mikeloni taimi totonu"_s,
 		""_s,
-		u"houa fakas\u0101-piea-mo-mikeloni taimi liliu"_s,
+		u"houa fakasā-piea-mo-mikeloni taimi liliu"_s,
 		""_s,
-		u"houa fakas\u0101-piea-mo-mikeloni"_s,
+		u"houa fakasā-piea-mo-mikeloni"_s,
 		""_s
 	}));
 	$var($StringArray, America_Mountain, $new($StringArray, {
-		u"houa faka\u02bbamelika-tokelau mo\u02bbunga taimi totonu"_s,
+		u"houa fakaʻamelika-tokelau moʻunga taimi totonu"_s,
 		""_s,
-		u"houa faka\u02bbamelika-tokelau mo\u02bbunga taimi liliu"_s,
+		u"houa fakaʻamelika-tokelau moʻunga taimi liliu"_s,
 		""_s,
-		u"houa faka\u02bbamelika-tokelau mo\u02bbunga"_s,
+		u"houa fakaʻamelika-tokelau moʻunga"_s,
 		""_s
 	}));
 	$var($StringArray, Marshall_Islands, $new($StringArray, {
-		u"houa faka\u02bbotumotumasolo"_s,
+		u"houa fakaʻotumotumasolo"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -1123,27 +1123,27 @@ $ObjectArray2* TimeZoneNames_to::getContents() {
 		""_s
 	}));
 	$var($StringArray, Australia_Central, $new($StringArray, {
-		u"houa faka\u02bbaositel\u0113lia-loto taimi totonu"_s,
+		u"houa fakaʻaositelēlia-loto taimi totonu"_s,
 		""_s,
-		u"houa faka\u02bbaositel\u0113lia-loto taimi liliu"_s,
+		u"houa fakaʻaositelēlia-loto taimi liliu"_s,
 		""_s,
-		u"houa faka\u02bbaositel\u0113lia-loto"_s,
+		u"houa fakaʻaositelēlia-loto"_s,
 		""_s
 	}));
 	$var($StringArray, Australia_Eastern, $new($StringArray, {
-		u"houa faka\u02bbaositel\u0113lia-hahake taimi totonu"_s,
+		u"houa fakaʻaositelēlia-hahake taimi totonu"_s,
 		""_s,
-		u"houa faka\u02bbaositel\u0113lia-hahake taimi liliu"_s,
+		u"houa fakaʻaositelēlia-hahake taimi liliu"_s,
 		""_s,
-		u"houa faka\u02bbaositel\u0113lia-hahake"_s,
+		u"houa fakaʻaositelēlia-hahake"_s,
 		""_s
 	}));
 	$var($StringArray, Australia_Western, $new($StringArray, {
-		u"houa faka\u02bbaositel\u0113lia-hihifo taimi totonu"_s,
+		u"houa fakaʻaositelēlia-hihifo taimi totonu"_s,
 		""_s,
-		u"houa faka\u02bbaositel\u0113lia-hihifo taimi liliu"_s,
+		u"houa fakaʻaositelēlia-hihifo taimi liliu"_s,
 		""_s,
-		u"houa faka\u02bbaositel\u0113lia-hihifo"_s,
+		u"houa fakaʻaositelēlia-hihifo"_s,
 		""_s
 	}));
 	$var($StringArray, Greenland_Eastern, $new($StringArray, {
@@ -1163,7 +1163,7 @@ $ObjectArray2* TimeZoneNames_to::getContents() {
 		""_s
 	}));
 	$var($StringArray, Indonesia_Central, $new($StringArray, {
-		u"houa faka\u02bbinitonisia-loto"_s,
+		u"houa fakaʻinitonisia-loto"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -1171,7 +1171,7 @@ $ObjectArray2* TimeZoneNames_to::getContents() {
 		""_s
 	}));
 	$var($StringArray, Indonesia_Eastern, $new($StringArray, {
-		u"houa faka\u02bbinitonisia-hahake"_s,
+		u"houa fakaʻinitonisia-hahake"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -1179,7 +1179,7 @@ $ObjectArray2* TimeZoneNames_to::getContents() {
 		""_s
 	}));
 	$var($StringArray, Indonesia_Western, $new($StringArray, {
-		u"houa faka\u02bbinitonisia-hihifo"_s,
+		u"houa fakaʻinitonisia-hihifo"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -1203,11 +1203,11 @@ $ObjectArray2* TimeZoneNames_to::getContents() {
 		""_s
 	}));
 	$var($StringArray, Australia_CentralWestern, $new($StringArray, {
-		u"houa faka\u02bbaositel\u0113lia-loto-hihifo taimi totonu"_s,
+		u"houa fakaʻaositelēlia-loto-hihifo taimi totonu"_s,
 		""_s,
-		u"houa faka\u02bbaositel\u0113lia-loto-hihifo taimi liliu"_s,
+		u"houa fakaʻaositelēlia-loto-hihifo taimi liliu"_s,
 		""_s,
-		u"houa faka\u02bbaositel\u0113lia-loto-hihifo"_s,
+		u"houa fakaʻaositelēlia-loto-hihifo"_s,
 		""_s
 	}));
 	$var($ObjectArray2, data, $new($ObjectArray2, {
@@ -1854,9 +1854,9 @@ $ObjectArray2* TimeZoneNames_to::getContents() {
 		$$new($ObjectArray, {
 			$of("Europe/Dublin"_s),
 			$of($$new($StringArray, {
-				u"houa fakakiliniuisi m\u0101lie"_s,
+				u"houa fakakiliniuisi mālie"_s,
 				""_s,
-				u"houa faka\u02bbaealani taimi totonu"_s,
+				u"houa fakaʻaealani taimi totonu"_s,
 				""_s,
 				""_s,
 				""_s
@@ -1873,9 +1873,9 @@ $ObjectArray2* TimeZoneNames_to::getContents() {
 		$$new($ObjectArray, {
 			$of("Europe/London"_s),
 			$of($$new($StringArray, {
-				u"houa fakakiliniuisi m\u0101lie"_s,
+				u"houa fakakiliniuisi mālie"_s,
 				""_s,
-				u"houa fakapilit\u0101nia taimi liliu"_s,
+				u"houa fakapilitānia taimi liliu"_s,
 				""_s,
 				""_s,
 				""_s
@@ -2092,9 +2092,9 @@ $ObjectArray2* TimeZoneNames_to::getContents() {
 		$$new($ObjectArray, {
 			$of("Europe/Belfast"_s),
 			$of($$new($StringArray, {
-				u"houa fakakiliniuisi m\u0101lie"_s,
+				u"houa fakakiliniuisi mālie"_s,
 				""_s,
-				u"houa fakapilit\u0101nia taimi liliu"_s,
+				u"houa fakapilitānia taimi liliu"_s,
 				""_s,
 				""_s,
 				""_s
@@ -3214,7 +3214,7 @@ $ObjectArray2* TimeZoneNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Etc/Unknown"_s),
-			$of(u"Feitu\u02bbu ta\u02bbe\u02bbiloa"_s)
+			$of(u"Feituʻu taʻeʻiloa"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Kiev"_s),
@@ -3382,11 +3382,11 @@ $ObjectArray2* TimeZoneNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Pacific/Niue"_s),
-			$of(u"Niu\u0113"_s)
+			$of(u"Niuē"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Pacific/Truk"_s),
-			$of(u"T\u016bke"_s)
+			$of(u"Tūke"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Pacific/Wake"_s),
@@ -3514,7 +3514,7 @@ $ObjectArray2* TimeZoneNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Athens"_s),
-			$of(u"\u02bbAtenisi"_s)
+			$of(u"ʻAtenisi"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Berlin"_s),
@@ -3722,7 +3722,7 @@ $ObjectArray2* TimeZoneNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Jerusalem"_s),
-			$of(u"Sel\u016bsalema"_s)
+			$of(u"Selūsalema"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Kamchatka"_s),
@@ -3778,7 +3778,7 @@ $ObjectArray2* TimeZoneNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Indian/Reunion"_s),
-			$of(u"R\u00e9union"_s)
+			$of(u"Réunion"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Pacific/Easter"_s),
@@ -3802,11 +3802,11 @@ $ObjectArray2* TimeZoneNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Pacific/Ponape"_s),
-			$of(u"Ponap\u0113"_s)
+			$of(u"Ponapē"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Pacific/Saipan"_s),
-			$of(u"Sa\u02bbipani"_s)
+			$of(u"Saʻipani"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Pacific/Tahiti"_s),
@@ -3818,7 +3818,7 @@ $ObjectArray2* TimeZoneNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Pacific/Wallis"_s),
-			$of(u"\u02bbUvea"_s)
+			$of(u"ʻUvea"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Africa/Blantyre"_s),
@@ -3858,7 +3858,7 @@ $ObjectArray2* TimeZoneNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Africa/Sao_Tome"_s),
-			$of(u"Sao Tom\u00e9"_s)
+			$of(u"Sao Tomé"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Africa/Windhoek"_s),
@@ -3890,7 +3890,7 @@ $ObjectArray2* TimeZoneNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Curacao"_s),
-			$of(u"Cura\u00e7ao"_s)
+			$of(u"Curaçao"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Detroit"_s),
@@ -4038,11 +4038,11 @@ $ObjectArray2* TimeZoneNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Pacific/Gambier"_s),
-			$of(u"Kamipi\u0113"_s)
+			$of(u"Kamipiē"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Pacific/Norfolk"_s),
-			$of(u"Noaf\u014dki"_s)
+			$of(u"Noafōki"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Africa/Bujumbura"_s),
@@ -4058,7 +4058,7 @@ $ObjectArray2* TimeZoneNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Asuncion"_s),
-			$of(u"Asunci\u00f3n"_s)
+			$of(u"Asunción"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Barbados"_s),
@@ -4086,7 +4086,7 @@ $ObjectArray2* TimeZoneNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/New_York"_s),
-			$of(u"Niu \u02bbIoke"_s)
+			$of(u"Niu ʻIoke"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Resolute"_s),
@@ -4162,7 +4162,7 @@ $ObjectArray2* TimeZoneNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Australia/Sydney"_s),
-			$of(u"Sen\u0113"_s)
+			$of(u"Senē"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Amsterdam"_s),
@@ -4218,7 +4218,7 @@ $ObjectArray2* TimeZoneNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Pacific/Auckland"_s),
-			$of(u"\u02bbAokalani"_s)
+			$of(u"ʻAokalani"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Pacific/Funafuti"_s),
@@ -4362,7 +4362,7 @@ $ObjectArray2* TimeZoneNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Pacific/Enderbury"_s),
-			$of(u"\u02bbEnitipul\u012b"_s)
+			$of(u"ʻEnitipulī"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Pacific/Galapagos"_s),
@@ -4566,7 +4566,7 @@ $ObjectArray2* TimeZoneNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Pacific/Guadalcanal"_s),
-			$of(u"Kuat\u0101kanali"_s)
+			$of(u"Kuatākanali"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Africa/Dar_es_Salaam"_s),
@@ -4634,7 +4634,7 @@ $ObjectArray2* TimeZoneNames_to::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/St_Barthelemy"_s),
-			$of(u"St. Barth\u00e9lemy"_s)
+			$of(u"St. Barthélemy"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Swift_Current"_s),

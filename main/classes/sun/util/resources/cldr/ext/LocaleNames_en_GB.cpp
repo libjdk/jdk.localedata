@@ -42,7 +42,7 @@ $ObjectArray2* LocaleNames_en_GB::getContents() {
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("BL"_s),
-			$of(u"St Barth\u00e9lemy"_s)
+			$of(u"St Barthélemy"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("KN"_s),

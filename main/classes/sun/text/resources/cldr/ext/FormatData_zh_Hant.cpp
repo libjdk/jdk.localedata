@@ -40,70 +40,70 @@ void FormatData_zh_Hant::init$() {
 $ObjectArray2* FormatData_zh_Hant::getContents() {
 	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_MonthNames, $new($StringArray, {
-		u"1\u6708"_s,
-		u"2\u6708"_s,
-		u"3\u6708"_s,
-		u"4\u6708"_s,
-		u"5\u6708"_s,
-		u"6\u6708"_s,
-		u"7\u6708"_s,
-		u"8\u6708"_s,
-		u"9\u6708"_s,
-		u"10\u6708"_s,
-		u"11\u6708"_s,
-		u"12\u6708"_s,
+		u"1月"_s,
+		u"2月"_s,
+		u"3月"_s,
+		u"4月"_s,
+		u"5月"_s,
+		u"6月"_s,
+		u"7月"_s,
+		u"8月"_s,
+		u"9月"_s,
+		u"10月"_s,
+		u"11月"_s,
+		u"12月"_s,
 		""_s
 	}));
 	$var($StringArray, metaValue_DayNames, $new($StringArray, {
-		u"\u661f\u671f\u65e5"_s,
-		u"\u661f\u671f\u4e00"_s,
-		u"\u661f\u671f\u4e8c"_s,
-		u"\u661f\u671f\u4e09"_s,
-		u"\u661f\u671f\u56db"_s,
-		u"\u661f\u671f\u4e94"_s,
-		u"\u661f\u671f\u516d"_s
+		u"星期日"_s,
+		u"星期一"_s,
+		u"星期二"_s,
+		u"星期三"_s,
+		u"星期四"_s,
+		u"星期五"_s,
+		u"星期六"_s
 	}));
 	$var($StringArray, metaValue_DayAbbreviations, $new($StringArray, {
-		u"\u9031\u65e5"_s,
-		u"\u9031\u4e00"_s,
-		u"\u9031\u4e8c"_s,
-		u"\u9031\u4e09"_s,
-		u"\u9031\u56db"_s,
-		u"\u9031\u4e94"_s,
-		u"\u9031\u516d"_s
+		u"週日"_s,
+		u"週一"_s,
+		u"週二"_s,
+		u"週三"_s,
+		u"週四"_s,
+		u"週五"_s,
+		u"週六"_s
 	}));
 	$var($StringArray, metaValue_DayNarrows, $new($StringArray, {
-		u"\u65e5"_s,
-		u"\u4e00"_s,
-		u"\u4e8c"_s,
-		u"\u4e09"_s,
-		u"\u56db"_s,
-		u"\u4e94"_s,
-		u"\u516d"_s
+		u"日"_s,
+		u"一"_s,
+		u"二"_s,
+		u"三"_s,
+		u"四"_s,
+		u"五"_s,
+		u"六"_s
 	}));
 	$var($StringArray, metaValue_QuarterNames, $new($StringArray, {
-		u"\u7b2c1\u5b63"_s,
-		u"\u7b2c2\u5b63"_s,
-		u"\u7b2c3\u5b63"_s,
-		u"\u7b2c4\u5b63"_s
+		u"第1季"_s,
+		u"第2季"_s,
+		u"第3季"_s,
+		u"第4季"_s
 	}));
 	$var($StringArray, metaValue_AmPmMarkers, $new($StringArray, {
-		u"\u4e0a\u5348"_s,
-		u"\u4e0b\u5348"_s,
-		u"\u5348\u591c"_s,
+		u"上午"_s,
+		u"下午"_s,
+		u"午夜"_s,
 		""_s,
-		u"\u6e05\u6668"_s,
-		u"\u4e0a\u5348"_s,
-		u"\u4e2d\u5348"_s,
-		u"\u4e0b\u5348"_s,
-		u"\u665a\u4e0a"_s,
+		u"清晨"_s,
+		u"上午"_s,
+		u"中午"_s,
+		u"下午"_s,
+		u"晚上"_s,
 		""_s,
-		u"\u51cc\u6668"_s,
+		u"凌晨"_s,
 		""_s
 	}));
 	$var($StringArray, metaValue_long_Eras, $new($StringArray, {
-		u"\u897f\u5143\u524d"_s,
-		u"\u897f\u5143"_s
+		u"西元前"_s,
+		u"西元"_s
 	}));
 	$var($StringArray, metaValue_TimePatterns, $new($StringArray, {
 		"ah:mm:ss [zzzz]"_s,
@@ -134,18 +134,18 @@ $ObjectArray2* FormatData_zh_Hant::getContents() {
 	}));
 	$var($StringArray, metaValue_java_time_buddhist_long_Eras, $new($StringArray, {
 		"BC"_s,
-		u"\u4f5b\u66c6"_s
+		u"佛曆"_s
 	}));
 	$var($StringArray, metaValue_java_time_buddhist_DatePatterns, $new($StringArray, {
-		u"Gy\u5e74M\u6708d\u65e5EEEE"_s,
-		u"Gy\u5e74M\u6708d\u65e5"_s,
-		u"Gy\u5e74M\u6708d\u65e5"_s,
+		u"Gy年M月d日EEEE"_s,
+		u"Gy年M月d日"_s,
+		u"Gy年M月d日"_s,
 		"Gy/M/d"_s
 	}));
 	$var($StringArray, metaValue_buddhist_DatePatterns, $new($StringArray, {
-		u"GGGGy\u5e74M\u6708d\u65e5EEEE"_s,
-		u"GGGGy\u5e74M\u6708d\u65e5"_s,
-		u"GGGGy\u5e74M\u6708d\u65e5"_s,
+		u"GGGGy年M月d日EEEE"_s,
+		u"GGGGy年M月d日"_s,
+		u"GGGGy年M月d日"_s,
 		"GGGGy/M/d"_s
 	}));
 	$var($StringArray, metaValue_buddhist_DateTimePatterns, $new($StringArray, {
@@ -155,42 +155,42 @@ $ObjectArray2* FormatData_zh_Hant::getContents() {
 		"{1} {0}"_s
 	}));
 	$var($StringArray, metaValue_java_time_japanese_long_Eras, $new($StringArray, {
-		u"\u897f\u5143"_s,
-		u"\u660e\u6cbb"_s,
-		u"\u5927\u6b63"_s,
-		u"\u662d\u548c"_s,
-		u"\u5e73\u6210"_s,
-		u"\u4ee4\u548c"_s
+		u"西元"_s,
+		u"明治"_s,
+		u"大正"_s,
+		u"昭和"_s,
+		u"平成"_s,
+		u"令和"_s
 	}));
 	$var($StringArray, metaValue_java_time_roc_long_Eras, $new($StringArray, {
-		u"\u6c11\u570b\u524d"_s,
-		u"\u6c11\u570b"_s
+		u"民國前"_s,
+		u"民國"_s
 	}));
 	$var($StringArray, metaValue_islamic_MonthNames, $new($StringArray, {
-		u"\u7a46\u54c8\u862d\u59c6\u6708"_s,
-		u"\u8272\u6cd5\u723e\u6708"_s,
-		u"\u8cf4\u6bd4\u6708 I"_s,
-		u"\u8cf4\u6bd4\u6708 II"_s,
-		u"\u4e3b\u99ac\u9054\u6708 I"_s,
-		u"\u4e3b\u99ac\u9054\u6708 II"_s,
-		u"\u8cf4\u54f2\u535c\u6708"_s,
-		u"\u820d\u723e\u90a6\u6708"_s,
-		u"\u8cf4\u8cb7\u4e39\u6708"_s,
-		u"\u9583\u74e6\u9b6f\u6708"_s,
-		u"\u90fd\u723e\u5580\u723e\u5fb7\u6708"_s,
-		u"\u90fd\u723e\u9ed1\u54f2\u6708"_s,
+		u"穆哈蘭姆月"_s,
+		u"色法爾月"_s,
+		u"賴比月 I"_s,
+		u"賴比月 II"_s,
+		u"主馬達月 I"_s,
+		u"主馬達月 II"_s,
+		u"賴哲卜月"_s,
+		u"舍爾邦月"_s,
+		u"賴買丹月"_s,
+		u"閃瓦魯月"_s,
+		u"都爾喀爾德月"_s,
+		u"都爾黑哲月"_s,
 		""_s
 	}));
 	$var($StringArray, metaValue_java_time_islamic_long_Eras, $new($StringArray, {
 		""_s,
-		u"\u4f0a\u65af\u862d\u66c6"_s
+		u"伊斯蘭曆"_s
 	}));
-	$var($String, metaValue_calendarname_gregorian, u"\u516c\u66c6"_s);
+	$var($String, metaValue_calendarname_gregorian, u"公曆"_s);
 	$var($StringArray, metaValue_arabext_NumberPatterns, $new($StringArray, {
 		"#,##0.###"_s,
-		u"\u00a4#,##0.00"_s,
+		u"¤#,##0.00"_s,
 		"#,##0%"_s,
-		u"\u00a4#,##0.00;(\u00a4#,##0.00)"_s
+		u"¤#,##0.00;(¤#,##0.00)"_s
 	}));
 	$var($StringArray, metaValue_brah_NumberElements, $new($StringArray, {
 		"."_s,
@@ -201,9 +201,9 @@ $ObjectArray2* FormatData_zh_Hant::getContents() {
 		"#"_s,
 		"-"_s,
 		"E"_s,
-		u"\u2030"_s,
-		u"\u221e"_s,
-		u"\u975e\u6578\u503c"_s,
+		u"‰"_s,
+		u"∞"_s,
+		u"非數值"_s,
 		""_s,
 		""_s
 	}));
@@ -212,17 +212,17 @@ $ObjectArray2* FormatData_zh_Hant::getContents() {
 		""_s,
 		""_s,
 		"{other:0}"_s,
-		u"{other:0\u842c}"_s,
-		u"{other:00\u842c}"_s,
-		u"{other:000\u842c}"_s,
-		u"{other:0000\u842c}"_s,
-		u"{other:0\u5104}"_s,
-		u"{other:00\u5104}"_s,
-		u"{other:000\u5104}"_s,
-		u"{other:0000\u5104}"_s,
-		u"{other:0\u5146}"_s,
-		u"{other:00\u5146}"_s,
-		u"{other:000\u5146}"_s
+		u"{other:0萬}"_s,
+		u"{other:00萬}"_s,
+		u"{other:000萬}"_s,
+		u"{other:0000萬}"_s,
+		u"{other:0億}"_s,
+		u"{other:00億}"_s,
+		u"{other:000億}"_s,
+		u"{other:0000億}"_s,
+		u"{other:0兆}"_s,
+		u"{other:00兆}"_s,
+		u"{other:000兆}"_s
 	}));
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
@@ -231,7 +231,7 @@ $ObjectArray2* FormatData_zh_Hant::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.islamic-umalqura"_s),
-			$of(u"\u70cf\u59c6\u5eab\u62c9\u66c6"_s)
+			$of(u"烏姆庫拉曆"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("buddhist.narrow.Eras"_s),
@@ -252,20 +252,20 @@ $ObjectArray2* FormatData_zh_Hant::getContents() {
 				","_s,
 				";"_s,
 				"%"_s,
-				u"\u1a80"_s,
+				u"᪀"_s,
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
-				u"\u975e\u6578\u503c"_s,
+				u"‰"_s,
+				u"∞"_s,
+				u"非數值"_s,
 				""_s,
 				""_s
 			}))
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.islamic-civil"_s),
-			$of(u"\u4f0a\u65af\u862d\u6c11\u7528\u66c6"_s)
+			$of(u"伊斯蘭民用曆"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("talu.NumberElements"_s),
@@ -274,13 +274,13 @@ $ObjectArray2* FormatData_zh_Hant::getContents() {
 				","_s,
 				";"_s,
 				"%"_s,
-				u"\u19d0"_s,
+				u"᧐"_s,
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
-				u"\u975e\u6578\u503c"_s,
+				u"‰"_s,
+				u"∞"_s,
+				u"非數值"_s,
 				""_s,
 				""_s
 			}))
@@ -300,13 +300,13 @@ $ObjectArray2* FormatData_zh_Hant::getContents() {
 				","_s,
 				";"_s,
 				"%"_s,
-				u"\uabf0"_s,
+				u"꯰"_s,
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
-				u"\u975e\u6578\u503c"_s,
+				u"‰"_s,
+				u"∞"_s,
+				u"非數值"_s,
 				""_s,
 				""_s
 			}))
@@ -355,20 +355,20 @@ $ObjectArray2* FormatData_zh_Hant::getContents() {
 				","_s,
 				";"_s,
 				"%"_s,
-				u"\u0a66"_s,
+				u"੦"_s,
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
-				u"\u975e\u6578\u503c"_s,
+				u"‰"_s,
+				u"∞"_s,
+				u"非數值"_s,
 				""_s,
 				""_s
 			}))
 		}),
 		$$new($ObjectArray, {
 			$of("field.minute"_s),
-			$of(u"\u5206\u9418"_s)
+			$of(u"分鐘"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("buddhist.AmPmMarkers"_s),
@@ -385,13 +385,13 @@ $ObjectArray2* FormatData_zh_Hant::getContents() {
 				","_s,
 				";"_s,
 				"%"_s,
-				u"\uaa50"_s,
+				u"꩐"_s,
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
-				u"\u975e\u6578\u503c"_s,
+				u"‰"_s,
+				u"∞"_s,
+				u"非數值"_s,
 				""_s,
 				""_s
 			}))
@@ -411,17 +411,17 @@ $ObjectArray2* FormatData_zh_Hant::getContents() {
 		$$new($ObjectArray, {
 			$of("arab.NumberElements"_s),
 			$of($$new($StringArray, {
-				u"\u066b"_s,
-				u"\u066c"_s,
-				u"\u061b"_s,
-				u"\u066a\u061c"_s,
-				u"\u0660"_s,
+				u"٫"_s,
+				u"٬"_s,
+				u"؛"_s,
+				u"٪\u061c"_s,
+				u"٠"_s,
 				"#"_s,
 				"-"_s,
-				u"\u0627\u0633"_s,
-				u"\u0609"_s,
-				u"\u221e"_s,
-				u"\u975e\u6578\u503c"_s,
+				u"اس"_s,
+				u"؉"_s,
+				u"∞"_s,
+				u"非數值"_s,
 				""_s,
 				""_s
 			}))
@@ -449,13 +449,13 @@ $ObjectArray2* FormatData_zh_Hant::getContents() {
 				","_s,
 				";"_s,
 				"%"_s,
-				u"\u0966"_s,
+				u"०"_s,
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
-				u"\u975e\u6578\u503c"_s,
+				u"‰"_s,
+				u"∞"_s,
+				u"非數值"_s,
 				""_s,
 				""_s
 			}))
@@ -474,7 +474,7 @@ $ObjectArray2* FormatData_zh_Hant::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.second"_s),
-			$of(u"\u79d2"_s)
+			$of(u"秒"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("vaii.NumberPatterns"_s),
@@ -483,15 +483,15 @@ $ObjectArray2* FormatData_zh_Hant::getContents() {
 		$$new($ObjectArray, {
 			$of("roc.DatePatterns"_s),
 			$of($$new($StringArray, {
-				u"GGGGy\u5e74M\u6708d\u65e5 EEEE"_s,
-				u"GGGGy\u5e74M\u6708d\u65e5"_s,
-				u"GGGGy\u5e74M\u6708d\u65e5"_s,
+				u"GGGGy年M月d日 EEEE"_s,
+				u"GGGGy年M月d日"_s,
+				u"GGGGy年M月d日"_s,
 				"GGGGy/M/d"_s
 			}))
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.islamic"_s),
-			$of(u"\u4f0a\u65af\u862d\u66c6"_s)
+			$of(u"伊斯蘭曆"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("java.time.roc.long.Eras"_s),
@@ -511,7 +511,7 @@ $ObjectArray2* FormatData_zh_Hant::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.regionFormat"_s),
-			$of(u"{0}\u6642\u9593"_s)
+			$of(u"{0}時間"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("olck.NumberElements"_s),
@@ -520,13 +520,13 @@ $ObjectArray2* FormatData_zh_Hant::getContents() {
 				","_s,
 				";"_s,
 				"%"_s,
-				u"\u1c50"_s,
+				u"᱐"_s,
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
-				u"\u975e\u6578\u503c"_s,
+				u"‰"_s,
+				u"∞"_s,
+				u"非數值"_s,
 				""_s,
 				""_s
 			}))
@@ -562,13 +562,13 @@ $ObjectArray2* FormatData_zh_Hant::getContents() {
 				","_s,
 				";"_s,
 				"%"_s,
-				u"\u1090"_s,
+				u"႐"_s,
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
-				u"\u975e\u6578\u503c"_s,
+				u"‰"_s,
+				u"∞"_s,
+				u"非數值"_s,
 				""_s,
 				""_s
 			}))
@@ -588,13 +588,13 @@ $ObjectArray2* FormatData_zh_Hant::getContents() {
 				","_s,
 				";"_s,
 				"%"_s,
-				u"\ua9d0"_s,
+				u"꧐"_s,
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
-				u"\u975e\u6578\u503c"_s,
+				u"‰"_s,
+				u"∞"_s,
+				u"非數值"_s,
 				""_s,
 				""_s
 			}))
@@ -622,13 +622,13 @@ $ObjectArray2* FormatData_zh_Hant::getContents() {
 				","_s,
 				";"_s,
 				"%"_s,
-				u"\u0ed0"_s,
+				u"໐"_s,
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
-				u"\u975e\u6578\u503c"_s,
+				u"‰"_s,
+				u"∞"_s,
+				u"非數值"_s,
 				""_s,
 				""_s
 			}))
@@ -640,13 +640,13 @@ $ObjectArray2* FormatData_zh_Hant::getContents() {
 				","_s,
 				";"_s,
 				"%"_s,
-				u"\u1bb0"_s,
+				u"᮰"_s,
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
-				u"\u975e\u6578\u503c"_s,
+				u"‰"_s,
+				u"∞"_s,
+				u"非數值"_s,
 				""_s,
 				""_s
 			}))
@@ -666,13 +666,13 @@ $ObjectArray2* FormatData_zh_Hant::getContents() {
 				","_s,
 				";"_s,
 				"%"_s,
-				u"\ua900"_s,
+				u"꤀"_s,
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
-				u"\u975e\u6578\u503c"_s,
+				u"‰"_s,
+				u"∞"_s,
+				u"非數值"_s,
 				""_s,
 				""_s
 			}))
@@ -724,13 +724,13 @@ $ObjectArray2* FormatData_zh_Hant::getContents() {
 				","_s,
 				";"_s,
 				"%"_s,
-				u"\u07c0"_s,
+				u"߀"_s,
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
-				u"\u975e\u6578\u503c"_s,
+				u"‰"_s,
+				u"∞"_s,
+				u"非數值"_s,
 				""_s,
 				""_s
 			}))
@@ -746,13 +746,13 @@ $ObjectArray2* FormatData_zh_Hant::getContents() {
 				","_s,
 				";"_s,
 				"%"_s,
-				u"\u0f20"_s,
+				u"༠"_s,
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
-				u"\u975e\u6578\u503c"_s,
+				u"‰"_s,
+				u"∞"_s,
+				u"非數值"_s,
 				""_s,
 				""_s
 			}))
@@ -788,13 +788,13 @@ $ObjectArray2* FormatData_zh_Hant::getContents() {
 				","_s,
 				";"_s,
 				"%"_s,
-				u"\u0ae6"_s,
+				u"૦"_s,
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
-				u"\u975e\u6578\u503c"_s,
+				u"‰"_s,
+				u"∞"_s,
+				u"非數值"_s,
 				""_s,
 				""_s
 			}))
@@ -810,13 +810,13 @@ $ObjectArray2* FormatData_zh_Hant::getContents() {
 				","_s,
 				";"_s,
 				"%"_s,
-				u"\u1946"_s,
+				u"᥆"_s,
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
-				u"\u975e\u6578\u503c"_s,
+				u"‰"_s,
+				u"∞"_s,
+				u"非數值"_s,
 				""_s,
 				""_s
 			}))
@@ -848,9 +848,9 @@ $ObjectArray2* FormatData_zh_Hant::getContents() {
 		$$new($ObjectArray, {
 			$of("DatePatterns"_s),
 			$of($$new($StringArray, {
-				u"y\u5e74M\u6708d\u65e5 EEEE"_s,
-				u"y\u5e74M\u6708d\u65e5"_s,
-				u"y\u5e74M\u6708d\u65e5"_s,
+				u"y年M月d日 EEEE"_s,
+				u"y年M月d日"_s,
+				u"y年M月d日"_s,
 				"y/M/d"_s
 			}))
 		}),
@@ -882,13 +882,13 @@ $ObjectArray2* FormatData_zh_Hant::getContents() {
 				","_s,
 				";"_s,
 				"%"_s,
-				u"\ua620"_s,
+				u"꘠"_s,
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
-				u"\u975e\u6578\u503c"_s,
+				u"‰"_s,
+				u"∞"_s,
+				u"非數值"_s,
 				""_s,
 				""_s
 			}))
@@ -907,22 +907,22 @@ $ObjectArray2* FormatData_zh_Hant::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.year"_s),
-			$of(u"\u5e74"_s)
+			$of(u"年"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("arabext.NumberElements"_s),
 			$of($$new($StringArray, {
-				u"\u066b"_s,
-				u"\u066c"_s,
-				u"\u061b"_s,
-				u"\u066a"_s,
-				u"\u06f0"_s,
+				u"٫"_s,
+				u"٬"_s,
+				u"؛"_s,
+				u"٪"_s,
+				u"۰"_s,
 				"#"_s,
 				u"\u200e-\u200e"_s,
-				u"\u00d7\u06f1\u06f0^"_s,
-				u"\u0609"_s,
-				u"\u221e"_s,
-				u"\u975e\u6578\u503c"_s,
+				u"×۱۰^"_s,
+				u"؉"_s,
+				u"∞"_s,
+				u"非數值"_s,
 				""_s,
 				""_s
 			}))
@@ -970,13 +970,13 @@ $ObjectArray2* FormatData_zh_Hant::getContents() {
 				","_s,
 				";"_s,
 				"%"_s,
-				u"\u1040"_s,
+				u"၀"_s,
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
-				u"\u975e\u6578\u503c"_s,
+				u"‰"_s,
+				u"∞"_s,
+				u"非數值"_s,
 				""_s,
 				""_s
 			}))
@@ -1000,13 +1000,13 @@ $ObjectArray2* FormatData_zh_Hant::getContents() {
 				","_s,
 				";"_s,
 				"%"_s,
-				u"\u0be6"_s,
+				u"௦"_s,
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
-				u"\u975e\u6578\u503c"_s,
+				u"‰"_s,
+				u"∞"_s,
+				u"非數值"_s,
 				""_s,
 				""_s
 			}))
@@ -1017,7 +1017,7 @@ $ObjectArray2* FormatData_zh_Hant::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.japanese"_s),
-			$of(u"\u65e5\u672c\u66c6"_s)
+			$of(u"日本曆"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("roc.MonthAbbreviations"_s),
@@ -1034,13 +1034,13 @@ $ObjectArray2* FormatData_zh_Hant::getContents() {
 				","_s,
 				";"_s,
 				"%"_s,
-				u"\u09e6"_s,
+				u"০"_s,
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
-				u"\u975e\u6578\u503c"_s,
+				u"‰"_s,
+				u"∞"_s,
+				u"非數值"_s,
 				""_s,
 				""_s
 			}))
@@ -1060,13 +1060,13 @@ $ObjectArray2* FormatData_zh_Hant::getContents() {
 				","_s,
 				";"_s,
 				"%"_s,
-				u"\ua8d0"_s,
+				u"꣐"_s,
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
-				u"\u975e\u6578\u503c"_s,
+				u"‰"_s,
+				u"∞"_s,
+				u"非數值"_s,
 				""_s,
 				""_s
 			}))
@@ -1089,11 +1089,11 @@ $ObjectArray2* FormatData_zh_Hant::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.era"_s),
-			$of(u"\u5e74\u4ee3"_s)
+			$of(u"年代"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("field.dayperiod"_s),
-			$of(u"\u4e0a\u5348/\u4e0b\u5348"_s)
+			$of(u"上午/下午"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("lana.NumberPatterns"_s),
@@ -1101,11 +1101,11 @@ $ObjectArray2* FormatData_zh_Hant::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.roc"_s),
-			$of(u"\u570b\u66c6"_s)
+			$of(u"國曆"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("field.month"_s),
-			$of(u"\u6708"_s)
+			$of(u"月"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("osma.NumberElements"_s),
@@ -1142,13 +1142,13 @@ $ObjectArray2* FormatData_zh_Hant::getContents() {
 				","_s,
 				";"_s,
 				"%"_s,
-				u"\u0ce6"_s,
+				u"೦"_s,
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
-				u"\u975e\u6578\u503c"_s,
+				u"‰"_s,
+				u"∞"_s,
+				u"非數值"_s,
 				""_s,
 				""_s
 			}))
@@ -1160,13 +1160,13 @@ $ObjectArray2* FormatData_zh_Hant::getContents() {
 				","_s,
 				";"_s,
 				"%"_s,
-				u"\u1b50"_s,
+				u"᭐"_s,
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
-				u"\u975e\u6578\u503c"_s,
+				u"‰"_s,
+				u"∞"_s,
+				u"非數值"_s,
 				""_s,
 				""_s
 			}))
@@ -1210,13 +1210,13 @@ $ObjectArray2* FormatData_zh_Hant::getContents() {
 				","_s,
 				";"_s,
 				"%"_s,
-				u"\u0d66"_s,
+				u"൦"_s,
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
-				u"\u975e\u6578\u503c"_s,
+				u"‰"_s,
+				u"∞"_s,
+				u"非數值"_s,
 				""_s,
 				""_s
 			}))
@@ -1228,13 +1228,13 @@ $ObjectArray2* FormatData_zh_Hant::getContents() {
 				","_s,
 				";"_s,
 				"%"_s,
-				u"\u1c40"_s,
+				u"᱀"_s,
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
-				u"\u975e\u6578\u503c"_s,
+				u"‰"_s,
+				u"∞"_s,
+				u"非數值"_s,
 				""_s,
 				""_s
 			}))
@@ -1250,13 +1250,13 @@ $ObjectArray2* FormatData_zh_Hant::getContents() {
 				","_s,
 				";"_s,
 				"%"_s,
-				u"\uff10"_s,
+				u"０"_s,
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
-				u"\u975e\u6578\u503c"_s,
+				u"‰"_s,
+				u"∞"_s,
+				u"非數值"_s,
 				""_s,
 				""_s
 			}))
@@ -1276,20 +1276,20 @@ $ObjectArray2* FormatData_zh_Hant::getContents() {
 				","_s,
 				";"_s,
 				"%"_s,
-				u"\u17e0"_s,
+				u"០"_s,
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
-				u"\u975e\u6578\u503c"_s,
+				u"‰"_s,
+				u"∞"_s,
+				u"非數值"_s,
 				""_s,
 				""_s
 			}))
 		}),
 		$$new($ObjectArray, {
 			$of("field.zone"_s),
-			$of(u"\u6642\u5340"_s)
+			$of(u"時區"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("roc.DateTimePatterns"_s),
@@ -1299,7 +1299,7 @@ $ObjectArray2* FormatData_zh_Hant::getContents() {
 			$of("arab.NumberPatterns"_s),
 			$of($$new($StringArray, {
 				"#,##0.###"_s,
-				u"#,##0.00\u00a0\u00a4"_s,
+				u"#,##0.00 ¤"_s,
 				"#,##0%"_s,
 				""_s
 			}))
@@ -1311,13 +1311,13 @@ $ObjectArray2* FormatData_zh_Hant::getContents() {
 				","_s,
 				";"_s,
 				"%"_s,
-				u"\u0e50"_s,
+				u"๐"_s,
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
-				u"\u975e\u6578\u503c"_s,
+				u"‰"_s,
+				u"∞"_s,
+				u"非數值"_s,
 				""_s,
 				""_s
 			}))
@@ -1341,8 +1341,8 @@ $ObjectArray2* FormatData_zh_Hant::getContents() {
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
+				u"‰"_s,
+				u"∞"_s,
 				"NaN"_s,
 				""_s,
 				""_s
@@ -1375,13 +1375,13 @@ $ObjectArray2* FormatData_zh_Hant::getContents() {
 				","_s,
 				";"_s,
 				"%"_s,
-				u"\u1810"_s,
+				u"᠐"_s,
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
-				u"\u975e\u6578\u503c"_s,
+				u"‰"_s,
+				u"∞"_s,
+				u"非數值"_s,
 				""_s,
 				""_s
 			}))
@@ -1392,7 +1392,7 @@ $ObjectArray2* FormatData_zh_Hant::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.weekday"_s),
-			$of(u"\u9031\u5929"_s)
+			$of(u"週天"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("islamic.DateTimePatterns"_s),
@@ -1425,13 +1425,13 @@ $ObjectArray2* FormatData_zh_Hant::getContents() {
 				","_s,
 				";"_s,
 				"%"_s,
-				u"\u0c66"_s,
+				u"౦"_s,
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
-				u"\u975e\u6578\u503c"_s,
+				u"‰"_s,
+				u"∞"_s,
+				u"非數值"_s,
 				""_s,
 				""_s
 			}))
@@ -1459,13 +1459,13 @@ $ObjectArray2* FormatData_zh_Hant::getContents() {
 				","_s,
 				";"_s,
 				"%"_s,
-				u"\u1a90"_s,
+				u"᪐"_s,
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
-				u"\u975e\u6578\u503c"_s,
+				u"‰"_s,
+				u"∞"_s,
+				u"非數值"_s,
 				""_s,
 				""_s
 			}))
@@ -1484,7 +1484,7 @@ $ObjectArray2* FormatData_zh_Hant::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.week"_s),
-			$of(u"\u9031"_s)
+			$of(u"週"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("buddhist.QuarterNames"_s),
@@ -1501,13 +1501,13 @@ $ObjectArray2* FormatData_zh_Hant::getContents() {
 				","_s,
 				";"_s,
 				"%"_s,
-				u"\u0b66"_s,
+				u"୦"_s,
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
-				u"\u975e\u6578\u503c"_s,
+				u"‰"_s,
+				u"∞"_s,
+				u"非數值"_s,
 				""_s,
 				""_s
 			}))
@@ -1519,9 +1519,9 @@ $ObjectArray2* FormatData_zh_Hant::getContents() {
 		$$new($ObjectArray, {
 			$of("java.time.roc.DatePatterns"_s),
 			$of($$new($StringArray, {
-				u"Gy\u5e74M\u6708d\u65e5 EEEE"_s,
-				u"Gy\u5e74M\u6708d\u65e5"_s,
-				u"Gy\u5e74M\u6708d\u65e5"_s,
+				u"Gy年M月d日 EEEE"_s,
+				u"Gy年M月d日"_s,
+				u"Gy年M月d日"_s,
 				"Gy/M/d"_s
 			}))
 		}),
@@ -1539,7 +1539,7 @@ $ObjectArray2* FormatData_zh_Hant::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.hour"_s),
-			$of(u"\u5c0f\u6642"_s)
+			$of(u"小時"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("islamic.MonthAbbreviations"_s),
@@ -1551,7 +1551,7 @@ $ObjectArray2* FormatData_zh_Hant::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.buddhist"_s),
-			$of(u"\u4f5b\u66c6"_s)
+			$of(u"佛曆"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("kali.NumberPatterns"_s),

@@ -40,28 +40,28 @@ void FormatData_lkt::init$() {
 $ObjectArray2* FormatData_lkt::getContents() {
 	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_MonthNames, $new($StringArray, {
-		u"Wi\u00f3the\u021fika W\u00ed"_s,
-		u"Thiy\u00f3\u021feyu\u014bka W\u00ed"_s,
-		u"I\u0161t\u00e1wi\u010dhayaza\u014b W\u00ed"_s,
-		u"P\u021fe\u017e\u00edt\u021fo W\u00ed"_s,
-		u"\u010cha\u014bw\u00e1pet\u021fo W\u00ed"_s,
-		u"W\u00edpazuk\u021fa-wa\u0161t\u00e9 W\u00ed"_s,
-		u"\u010cha\u014bp\u021f\u00e1sapa W\u00ed"_s,
-		u"Was\u00fat\u021fu\u014b W\u00ed"_s,
-		u"\u010cha\u014bw\u00e1pe\u01e7i W\u00ed"_s,
-		u"\u010cha\u014bw\u00e1pe-kasn\u00e1 W\u00ed"_s,
-		u"Wan\u00edyetu W\u00ed"_s,
-		u"T\u021fah\u00e9kap\u0161u\u014b W\u00ed"_s,
+		u"Wiótheȟika Wí"_s,
+		u"Thiyóȟeyuŋka Wí"_s,
+		u"Ištáwičhayazaŋ Wí"_s,
+		u"Pȟežítȟo Wí"_s,
+		u"Čhaŋwápetȟo Wí"_s,
+		u"Wípazukȟa-wašté Wí"_s,
+		u"Čhaŋpȟásapa Wí"_s,
+		u"Wasútȟuŋ Wí"_s,
+		u"Čhaŋwápeǧi Wí"_s,
+		u"Čhaŋwápe-kasná Wí"_s,
+		u"Waníyetu Wí"_s,
+		u"Tȟahékapšuŋ Wí"_s,
 		""_s
 	}));
 	$var($StringArray, metaValue_DayNames, $new($StringArray, {
-		u"A\u014bp\u00e9tuwak\u021fa\u014b"_s,
-		u"A\u014bp\u00e9tuwa\u014b\u017ei"_s,
-		u"A\u014bp\u00e9tunu\u014bpa"_s,
-		u"A\u014bp\u00e9tuyamni"_s,
-		u"A\u014bp\u00e9tutopa"_s,
-		u"A\u014bp\u00e9tuzapta\u014b"_s,
-		u"Ow\u00e1\u014bgyu\u017ea\u017eapi"_s
+		u"Aŋpétuwakȟaŋ"_s,
+		u"Aŋpétuwaŋži"_s,
+		u"Aŋpétunuŋpa"_s,
+		u"Aŋpétuyamni"_s,
+		u"Aŋpétutopa"_s,
+		u"Aŋpétuzaptaŋ"_s,
+		u"Owáŋgyužažapi"_s
 	}));
 	$var($StringArray, metaValue_DayNarrows, $new($StringArray, {
 		"A"_s,
@@ -85,7 +85,7 @@ $ObjectArray2* FormatData_lkt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.year"_s),
-			$of(u"\u00d3mak\u021fa"_s)
+			$of(u"Ómakȟa"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("TimePatterns"_s),
@@ -109,11 +109,11 @@ $ObjectArray2* FormatData_lkt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.month"_s),
-			$of(u"W\u00ed"_s)
+			$of(u"Wí"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("field.second"_s),
-			$of(u"Okp\u00ed"_s)
+			$of(u"Okpí"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("roc.MonthNames"_s),
@@ -125,7 +125,7 @@ $ObjectArray2* FormatData_lkt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.week"_s),
-			$of(u"Ok\u00f3"_s)
+			$of(u"Okó"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("DayAbbreviations"_s),
@@ -174,7 +174,7 @@ $ObjectArray2* FormatData_lkt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.weekday"_s),
-			$of(u"Ok\u00f3-a\u014bp\u00e9tu"_s)
+			$of(u"Okó-aŋpétu"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("islamic.TimePatterns"_s),
@@ -203,8 +203,8 @@ $ObjectArray2* FormatData_lkt::getContents() {
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
+				u"‰"_s,
+				u"∞"_s,
 				"NaN"_s,
 				""_s,
 				""_s
@@ -212,7 +212,7 @@ $ObjectArray2* FormatData_lkt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.hour"_s),
-			$of(u"Ow\u00e1p\u021fe"_s)
+			$of(u"Owápȟe"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("japanese.MonthAbbreviations"_s),
@@ -228,7 +228,7 @@ $ObjectArray2* FormatData_lkt::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.minute"_s),
-			$of(u"Ow\u00e1p\u021fe o\u021f\u02bc\u00e1\u014bk\u021fo"_s)
+			$of(u"Owápȟe oȟʼáŋkȟo"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("standalone.MonthNames"_s),
@@ -246,7 +246,7 @@ $ObjectArray2* FormatData_lkt::getContents() {
 			$of("latn.NumberPatterns"_s),
 			$of($$new($StringArray, {
 				"#,##0.###"_s,
-				u"\u00a4\u00a0#,##0.00"_s,
+				u"¤ #,##0.00"_s,
 				"#,##0%"_s,
 				""_s
 			}))

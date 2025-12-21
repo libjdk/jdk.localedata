@@ -939,7 +939,7 @@ $ObjectArray2* TimeZoneNames_ceb::getContents() {
 		""_s
 	}));
 	$var($StringArray, DumontDUrville, $new($StringArray, {
-		u"Oras sa Dumont-d\u2019Urville"_s,
+		u"Oras sa Dumont-d’Urville"_s,
 		""_s,
 		""_s,
 		""_s,

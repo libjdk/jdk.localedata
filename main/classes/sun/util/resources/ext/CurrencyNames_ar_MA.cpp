@@ -39,7 +39,7 @@ void CurrencyNames_ar_MA::init$() {
 $ObjectArray2* CurrencyNames_ar_MA::getContents() {
 	return $new($ObjectArray2, {$$new($ObjectArray, {
 		$of("MAD"_s),
-		$of(u"\u062f.\u0645.\u200f"_s)
+		$of(u"د.م.\u200f"_s)
 	})});
 }
 

@@ -41,7 +41,7 @@ $ObjectArray2* LocaleNames_hu::getContents() {
 	return $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("HU"_s),
-			$of(u"Magyarorsz\u00e1g"_s)
+			$of(u"Magyarország"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("hu"_s),

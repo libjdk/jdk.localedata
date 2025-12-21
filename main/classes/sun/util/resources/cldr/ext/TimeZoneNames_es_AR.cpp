@@ -42,7 +42,7 @@ void TimeZoneNames_es_AR::init$() {
 $ObjectArray2* TimeZoneNames_es_AR::getContents() {
 	$useLocalCurrentObjectStackCache();
 	$var($StringArray, Argentina, $new($StringArray, {
-		u"hora est\u00e1ndar de Argentina"_s,
+		u"hora estándar de Argentina"_s,
 		"ART"_s,
 		"hora de verano de Argentina"_s,
 		"ARST"_s,

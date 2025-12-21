@@ -42,11 +42,11 @@ $ObjectArray2* CurrencyNames_en_FK::getContents() {
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("FKP"_s),
-			$of(u"\u00a3"_s)
+			$of(u"£"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("GBP"_s),
-			$of(u"GB\u00a3"_s)
+			$of(u"GB£"_s)
 		})
 	}));
 	return data;

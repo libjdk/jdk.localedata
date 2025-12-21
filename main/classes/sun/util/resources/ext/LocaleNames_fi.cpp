@@ -125,7 +125,7 @@ $ObjectArray2* LocaleNames_fi::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("RU"_s),
-			$of(u"Ven\u00e4j\u00e4"_s)
+			$of(u"Venäjä"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("SE"_s),
@@ -233,7 +233,7 @@ $ObjectArray2* LocaleNames_fi::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("ru"_s),
-			$of(u"ven\u00e4j\u00e4"_s)
+			$of(u"venäjä"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sv"_s),

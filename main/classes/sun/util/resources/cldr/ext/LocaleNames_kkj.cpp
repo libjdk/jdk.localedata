@@ -42,7 +42,7 @@ $ObjectArray2* LocaleNames_kkj::getContents() {
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("CM"_s),
-			$of(u"Kam\u025brun"_s)
+			$of(u"Kamɛrun"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("en"_s),
@@ -54,7 +54,7 @@ $ObjectArray2* LocaleNames_kkj::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("kkj"_s),
-			$of(u"kak\u0254"_s)
+			$of(u"kakɔ"_s)
 		})
 	}));
 	return data;

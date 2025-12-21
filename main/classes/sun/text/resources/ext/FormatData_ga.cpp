@@ -42,16 +42,16 @@ $ObjectArray2* FormatData_ga::getContents() {
 		$$new($ObjectArray, {
 			$of("MonthNames"_s),
 			$of($$new($StringArray, {
-				u"Ean\u00e1ir"_s,
+				u"Eanáir"_s,
 				"Feabhra"_s,
-				u"M\u00e1rta"_s,
-				u"Aibre\u00e1n"_s,
+				u"Márta"_s,
+				u"Aibreán"_s,
 				"Bealtaine"_s,
 				"Meitheamh"_s,
-				u"I\u00fail"_s,
-				u"L\u00fanasa"_s,
-				u"Me\u00e1n F\u00f3mhair"_s,
-				u"Deireadh F\u00f3mhair"_s,
+				u"Iúil"_s,
+				u"Lúnasa"_s,
+				u"Meán Fómhair"_s,
+				u"Deireadh Fómhair"_s,
 				"Samhain"_s,
 				"Nollaig"_s,
 				""_s
@@ -62,14 +62,14 @@ $ObjectArray2* FormatData_ga::getContents() {
 			$of($$new($StringArray, {
 				"Ean"_s,
 				"Feabh"_s,
-				u"M\u00e1rta"_s,
+				u"Márta"_s,
 				"Aib"_s,
 				"Beal"_s,
 				"Meith"_s,
-				u"I\u00fail"_s,
-				u"L\u00fan"_s,
-				u"MF\u00f3mh"_s,
-				u"DF\u00f3mh"_s,
+				u"Iúil"_s,
+				u"Lún"_s,
+				u"MFómh"_s,
+				u"DFómh"_s,
 				"Samh"_s,
 				"Noll"_s,
 				""_s
@@ -96,13 +96,13 @@ $ObjectArray2* FormatData_ga::getContents() {
 		$$new($ObjectArray, {
 			$of("DayNames"_s),
 			$of($$new($StringArray, {
-				u"D\u00e9 Domhnaigh"_s,
-				u"D\u00e9 Luain"_s,
-				u"D\u00e9 M\u00e1irt"_s,
-				u"D\u00e9 C\u00e9adaoin"_s,
-				u"D\u00e9ardaoin"_s,
-				u"D\u00e9 hAoine"_s,
-				u"D\u00e9 Sathairn"_s
+				u"Dé Domhnaigh"_s,
+				u"Dé Luain"_s,
+				u"Dé Máirt"_s,
+				u"Dé Céadaoin"_s,
+				u"Déardaoin"_s,
+				u"Dé hAoine"_s,
+				u"Dé Sathairn"_s
 			}))
 		}),
 		$$new($ObjectArray, {
@@ -110,9 +110,9 @@ $ObjectArray2* FormatData_ga::getContents() {
 			$of($$new($StringArray, {
 				"Domh"_s,
 				"Luan"_s,
-				u"M\u00e1irt"_s,
-				u"C\u00e9ad"_s,
-				u"D\u00e9ar"_s,
+				u"Máirt"_s,
+				u"Céad"_s,
+				u"Déar"_s,
 				"Aoine"_s,
 				"Sath"_s
 			}))
@@ -142,7 +142,7 @@ $ObjectArray2* FormatData_ga::getContents() {
 			$of("NumberPatterns"_s),
 			$of($$new($StringArray, {
 				"#,##0.###"_s,
-				u"\u00a4 #,##0.00"_s,
+				u"¤ #,##0.00"_s,
 				"#,##0%"_s
 			}))
 		}),
@@ -157,8 +157,8 @@ $ObjectArray2* FormatData_ga::getContents() {
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
+				u"‰"_s,
+				u"∞"_s,
 				"NaN"_s
 			}))
 		}),

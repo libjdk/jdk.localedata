@@ -201,7 +201,7 @@ $ObjectArray2* CurrencyNames_it::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("crc"_s),
-			$of(u"Col\u00f3n Costaricano"_s)
+			$of(u"Colón Costaricano"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cup"_s),
@@ -241,7 +241,7 @@ $ObjectArray2* CurrencyNames_it::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("eek"_s),
-			$of(u"Corona dell\u2019Estonia"_s)
+			$of(u"Corona dell’Estonia"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("egp"_s),
@@ -533,7 +533,7 @@ $ObjectArray2* CurrencyNames_it::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("nio"_s),
-			$of(u"C\u00f3rdoba oro nicaraguense"_s)
+			$of(u"Córdoba oro nicaraguense"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("nlg"_s),
@@ -645,7 +645,7 @@ $ObjectArray2* CurrencyNames_it::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("shp"_s),
-			$of(u"Sterlina di Sant\u2019Elena"_s)
+			$of(u"Sterlina di Sant’Elena"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("sit"_s),
@@ -673,11 +673,11 @@ $ObjectArray2* CurrencyNames_it::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("std"_s),
-			$of(u"Dobra di Sao Tom\u00e9 e Principe"_s)
+			$of(u"Dobra di Sao Tomé e Principe"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("svc"_s),
-			$of(u"Col\u00f3n Salvadoregno"_s)
+			$of(u"Colón Salvadoregno"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("syp"_s),
@@ -705,7 +705,7 @@ $ObjectArray2* CurrencyNames_it::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("top"_s),
-			$of(u"Pa\u02bbanga di Tonga"_s)
+			$of(u"Paʻanga di Tonga"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("tpe"_s),
@@ -757,7 +757,7 @@ $ObjectArray2* CurrencyNames_it::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("uzs"_s),
-			$of(u"Sum dell\u2019Uzbekistan"_s)
+			$of(u"Sum dell’Uzbekistan"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("veb"_s),
@@ -765,7 +765,7 @@ $ObjectArray2* CurrencyNames_it::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("vef"_s),
-			$of(u"Bol\u00edvar venezuelano forte"_s)
+			$of(u"Bolívar venezuelano forte"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("vnd"_s),
@@ -793,19 +793,19 @@ $ObjectArray2* CurrencyNames_it::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("xba"_s),
-			$of(u"Unit\u00e0 composita europea"_s)
+			$of(u"Unità composita europea"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xbb"_s),
-			$of(u"Unit\u00e0 monetaria europea"_s)
+			$of(u"Unità monetaria europea"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xbc"_s),
-			$of(u"Unit\u00e0 di acconto europea (XBC)"_s)
+			$of(u"Unità di acconto europea (XBC)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xbd"_s),
-			$of(u"Unit\u00e0 di acconto europea (XBD)"_s)
+			$of(u"Unità di acconto europea (XBD)"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xcd"_s),

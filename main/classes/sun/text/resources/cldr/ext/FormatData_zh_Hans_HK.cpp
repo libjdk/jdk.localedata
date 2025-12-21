@@ -40,15 +40,15 @@ void FormatData_zh_Hans_HK::init$() {
 $ObjectArray2* FormatData_zh_Hans_HK::getContents() {
 	$useLocalCurrentObjectStackCache();
 	$var($StringArray, metaValue_java_time_buddhist_DatePatterns, $new($StringArray, {
-		u"Gy\u5e74M\u6708d\u65e5EEEE"_s,
-		u"Gy\u5e74M\u6708d\u65e5"_s,
-		u"Gy\u5e74M\u6708d\u65e5"_s,
+		u"Gy年M月d日EEEE"_s,
+		u"Gy年M月d日"_s,
+		u"Gy年M月d日"_s,
 		"Gd/M/yy"_s
 	}));
 	$var($StringArray, metaValue_buddhist_DatePatterns, $new($StringArray, {
-		u"GGGGy\u5e74M\u6708d\u65e5EEEE"_s,
-		u"GGGGy\u5e74M\u6708d\u65e5"_s,
-		u"GGGGy\u5e74M\u6708d\u65e5"_s,
+		u"GGGGy年M月d日EEEE"_s,
+		u"GGGGy年M月d日"_s,
+		u"GGGGy年M月d日"_s,
 		"GGGGd/M/yy"_s
 	}));
 	$var($ObjectArray2, data, $new($ObjectArray2, {
@@ -63,8 +63,8 @@ $ObjectArray2* FormatData_zh_Hans_HK::getContents() {
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
+				u"‰"_s,
+				u"∞"_s,
 				"NaN"_s,
 				""_s,
 				""_s
@@ -94,9 +94,9 @@ $ObjectArray2* FormatData_zh_Hans_HK::getContents() {
 			$of("latn.NumberPatterns"_s),
 			$of($$new($StringArray, {
 				"#,##0.###"_s,
-				u"\u00a4#,##0.00"_s,
+				u"¤#,##0.00"_s,
 				"#,##0%"_s,
-				u"\u00a4#,##0.00;(\u00a4#,##0.00)"_s
+				u"¤#,##0.00;(¤#,##0.00)"_s
 			}))
 		}),
 		$$new($ObjectArray, {
@@ -114,9 +114,9 @@ $ObjectArray2* FormatData_zh_Hans_HK::getContents() {
 		$$new($ObjectArray, {
 			$of("DatePatterns"_s),
 			$of($$new($StringArray, {
-				u"y\u5e74M\u6708d\u65e5EEEE"_s,
-				u"y\u5e74M\u6708d\u65e5"_s,
-				u"y\u5e74M\u6708d\u65e5"_s,
+				u"y年M月d日EEEE"_s,
+				u"y年M月d日"_s,
+				u"y年M月d日"_s,
 				"d/M/yy"_s
 			}))
 		})

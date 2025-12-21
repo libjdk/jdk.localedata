@@ -42,20 +42,20 @@ $ObjectArray2* FormatData_zh_SG::getContents() {
 		$$new($ObjectArray, {
 			$of("DayAbbreviations"_s),
 			$of($$new($StringArray, {
-				u"\u5468\u65e5"_s,
-				u"\u5468\u4e00"_s,
-				u"\u5468\u4e8c"_s,
-				u"\u5468\u4e09"_s,
-				u"\u5468\u56db"_s,
-				u"\u5468\u4e94"_s,
-				u"\u5468\u516d"_s
+				u"周日"_s,
+				u"周一"_s,
+				u"周二"_s,
+				u"周三"_s,
+				u"周四"_s,
+				u"周五"_s,
+				u"周六"_s
 			}))
 		}),
 		$$new($ObjectArray, {
 			$of("NumberPatterns"_s),
 			$of($$new($StringArray, {
 				"#,##0.###"_s,
-				u"\u00a4#,##0.00"_s,
+				u"¤#,##0.00"_s,
 				"#,##0%"_s
 			}))
 		}),
@@ -70,8 +70,8 @@ $ObjectArray2* FormatData_zh_SG::getContents() {
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
+				u"‰"_s,
+				u"∞"_s,
 				"NaN"_s
 			}))
 		}),

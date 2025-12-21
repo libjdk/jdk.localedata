@@ -53,7 +53,7 @@ $ObjectArray2* TimeZoneNames_ro::getContents() {
 	$var($StringArray, Acre, $new($StringArray, {
 		"Ora standard Acre"_s,
 		""_s,
-		u"Ora de var\u0103 Acre"_s,
+		u"Ora de vară Acre"_s,
 		""_s,
 		"Ora Acre"_s,
 		""_s
@@ -61,7 +61,7 @@ $ObjectArray2* TimeZoneNames_ro::getContents() {
 	$var($StringArray, Apia, $new($StringArray, {
 		"Ora standard din Apia"_s,
 		""_s,
-		u"Ora de var\u0103 din Apia"_s,
+		u"Ora de vară din Apia"_s,
 		""_s,
 		"Ora din Apia"_s,
 		""_s
@@ -69,7 +69,7 @@ $ObjectArray2* TimeZoneNames_ro::getContents() {
 	$var($StringArray, Cook, $new($StringArray, {
 		"Ora standard a Insulelor Cook"_s,
 		""_s,
-		u"Ora de var\u0103 a Insulelor Cook"_s,
+		u"Ora de vară a Insulelor Cook"_s,
 		""_s,
 		"Ora Insulelor Cook"_s,
 		""_s
@@ -77,7 +77,7 @@ $ObjectArray2* TimeZoneNames_ro::getContents() {
 	$var($StringArray, Cuba, $new($StringArray, {
 		"Ora standard a Cubei"_s,
 		""_s,
-		u"Ora de var\u0103 a Cubei"_s,
+		u"Ora de vară a Cubei"_s,
 		""_s,
 		"Ora Cubei"_s,
 		""_s
@@ -85,7 +85,7 @@ $ObjectArray2* TimeZoneNames_ro::getContents() {
 	$var($StringArray, Fiji, $new($StringArray, {
 		"Ora standard din Fiji"_s,
 		""_s,
-		u"Ora de var\u0103 din Fiji"_s,
+		u"Ora de vară din Fiji"_s,
 		""_s,
 		"Ora din Fiji"_s,
 		""_s
@@ -101,7 +101,7 @@ $ObjectArray2* TimeZoneNames_ro::getContents() {
 	$var($StringArray, Hovd, $new($StringArray, {
 		"Ora standard din Hovd"_s,
 		""_s,
-		u"Ora de var\u0103 din Hovd"_s,
+		u"Ora de vară din Hovd"_s,
 		""_s,
 		"Ora din Hovd"_s,
 		""_s
@@ -109,7 +109,7 @@ $ObjectArray2* TimeZoneNames_ro::getContents() {
 	$var($StringArray, Iran, $new($StringArray, {
 		"Ora standard a Iranului"_s,
 		""_s,
-		u"Ora de var\u0103 a Iranului"_s,
+		u"Ora de vară a Iranului"_s,
 		""_s,
 		"Ora Iranului"_s,
 		""_s
@@ -125,7 +125,7 @@ $ObjectArray2* TimeZoneNames_ro::getContents() {
 	$var($StringArray, Omsk, $new($StringArray, {
 		"Ora standard din Omsk"_s,
 		""_s,
-		u"Ora de var\u0103 din Omsk"_s,
+		u"Ora de vară din Omsk"_s,
 		""_s,
 		"Ora din Omsk"_s,
 		""_s
@@ -133,7 +133,7 @@ $ObjectArray2* TimeZoneNames_ro::getContents() {
 	$var($StringArray, Peru, $new($StringArray, {
 		"Ora standard din Peru"_s,
 		""_s,
-		u"Ora de var\u0103 din Peru"_s,
+		u"Ora de vară din Peru"_s,
 		""_s,
 		"Ora din Peru"_s,
 		""_s
@@ -157,7 +157,7 @@ $ObjectArray2* TimeZoneNames_ro::getContents() {
 	$var($StringArray, Chile, $new($StringArray, {
 		"Ora standard din Chile"_s,
 		""_s,
-		u"Ora de var\u0103 din Chile"_s,
+		u"Ora de vară din Chile"_s,
 		""_s,
 		"Ora din Chile"_s,
 		""_s
@@ -165,7 +165,7 @@ $ObjectArray2* TimeZoneNames_ro::getContents() {
 	$var($StringArray, China, $new($StringArray, {
 		"Ora standard a Chinei"_s,
 		""_s,
-		u"Ora de var\u0103 a Chinei"_s,
+		u"Ora de vară a Chinei"_s,
 		""_s,
 		"Ora Chinei"_s,
 		""_s
@@ -197,7 +197,7 @@ $ObjectArray2* TimeZoneNames_ro::getContents() {
 	$var($StringArray, Japan, $new($StringArray, {
 		"Ora standard a Japoniei"_s,
 		""_s,
-		u"Ora de var\u0103 a Japoniei"_s,
+		u"Ora de vară a Japoniei"_s,
 		""_s,
 		"Ora Japoniei"_s,
 		""_s
@@ -205,7 +205,7 @@ $ObjectArray2* TimeZoneNames_ro::getContents() {
 	$var($StringArray, Korea, $new($StringArray, {
 		"Ora standard a Coreei"_s,
 		""_s,
-		u"Ora de var\u0103 a Coreei"_s,
+		u"Ora de vară a Coreei"_s,
 		""_s,
 		"Ora Coreei"_s,
 		""_s
@@ -237,7 +237,7 @@ $ObjectArray2* TimeZoneNames_ro::getContents() {
 	$var($StringArray, Samoa, $new($StringArray, {
 		"Ora standard din Samoa"_s,
 		""_s,
-		u"Ora de var\u0103 din Samoa"_s,
+		u"Ora de vară din Samoa"_s,
 		""_s,
 		"Ora din Samoa"_s,
 		""_s
@@ -253,7 +253,7 @@ $ObjectArray2* TimeZoneNames_ro::getContents() {
 	$var($StringArray, Tonga, $new($StringArray, {
 		"Ora standard din Tonga"_s,
 		""_s,
-		u"Ora de var\u0103 din Tonga"_s,
+		u"Ora de vară din Tonga"_s,
 		""_s,
 		"Ora din Tonga"_s,
 		""_s
@@ -261,7 +261,7 @@ $ObjectArray2* TimeZoneNames_ro::getContents() {
 	$var($StringArray, Alaska, $new($StringArray, {
 		"Ora standard din Alaska"_s,
 		""_s,
-		u"Ora de var\u0103 din Alaska"_s,
+		u"Ora de vară din Alaska"_s,
 		""_s,
 		"Ora din Alaska"_s,
 		""_s
@@ -269,7 +269,7 @@ $ObjectArray2* TimeZoneNames_ro::getContents() {
 	$var($StringArray, Amazon, $new($StringArray, {
 		"Ora standard a Amazonului"_s,
 		""_s,
-		u"Ora de var\u0103 a Amazonului"_s,
+		u"Ora de vară a Amazonului"_s,
 		""_s,
 		"Ora Amazonului"_s,
 		""_s
@@ -277,7 +277,7 @@ $ObjectArray2* TimeZoneNames_ro::getContents() {
 	$var($StringArray, Anadyr, $new($StringArray, {
 		"Ora standard din Anadyr"_s,
 		""_s,
-		u"Ora de var\u0103 din Anadyr"_s,
+		u"Ora de vară din Anadyr"_s,
 		""_s,
 		"Ora din Anadyr"_s,
 		""_s
@@ -285,7 +285,7 @@ $ObjectArray2* TimeZoneNames_ro::getContents() {
 	$var($StringArray, Azores, $new($StringArray, {
 		"Ora standard din Azore"_s,
 		""_s,
-		u"Ora de var\u0103 din Azore"_s,
+		u"Ora de vară din Azore"_s,
 		""_s,
 		"Ora din Azore"_s,
 		""_s
@@ -307,11 +307,11 @@ $ObjectArray2* TimeZoneNames_ro::getContents() {
 		""_s
 	}));
 	$var($StringArray, Easter, $new($StringArray, {
-		u"Ora standard din Insula Pa\u0219telui"_s,
+		u"Ora standard din Insula Paștelui"_s,
 		""_s,
-		u"Ora de var\u0103 din Insula Pa\u0219telui"_s,
+		u"Ora de vară din Insula Paștelui"_s,
 		""_s,
-		u"Ora din Insula Pa\u0219telui"_s,
+		u"Ora din Insula Paștelui"_s,
 		""_s
 	}));
 	$var($StringArray, Guyana, $new($StringArray, {
@@ -325,7 +325,7 @@ $ObjectArray2* TimeZoneNames_ro::getContents() {
 	$var($StringArray, Israel, $new($StringArray, {
 		"Ora standard a Israelului"_s,
 		""_s,
-		u"Ora de var\u0103 a Israelului"_s,
+		u"Ora de vară a Israelului"_s,
 		""_s,
 		"Ora Israelului"_s,
 		""_s
@@ -349,7 +349,7 @@ $ObjectArray2* TimeZoneNames_ro::getContents() {
 	$var($StringArray, Moscow, $new($StringArray, {
 		"Ora standard a Moscovei"_s,
 		""_s,
-		u"Ora de var\u0103 a Moscovei"_s,
+		u"Ora de vară a Moscovei"_s,
 		""_s,
 		"Ora Moscovei"_s,
 		""_s
@@ -365,7 +365,7 @@ $ObjectArray2* TimeZoneNames_ro::getContents() {
 	$var($StringArray, Samara, $new($StringArray, {
 		"Ora standard din Samara"_s,
 		""_s,
-		u"Ora de var\u0103 din Samara"_s,
+		u"Ora de vară din Samara"_s,
 		""_s,
 		"Ora din Samara"_s,
 		""_s
@@ -381,7 +381,7 @@ $ObjectArray2* TimeZoneNames_ro::getContents() {
 	$var($StringArray, Taipei, $new($StringArray, {
 		"Ora standard din Taipei"_s,
 		""_s,
-		u"Ora de var\u0103 din Taipei"_s,
+		u"Ora de vară din Taipei"_s,
 		""_s,
 		"Ora din Taipei"_s,
 		""_s
@@ -403,7 +403,7 @@ $ObjectArray2* TimeZoneNames_ro::getContents() {
 		""_s
 	}));
 	$var($StringArray, Wallis, $new($StringArray, {
-		u"Ora din Wallis \u0219i Futuna"_s,
+		u"Ora din Wallis și Futuna"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -411,17 +411,17 @@ $ObjectArray2* TimeZoneNames_ro::getContents() {
 		""_s
 	}));
 	$var($StringArray, Arabian, $new($StringArray, {
-		u"Ora standard arab\u0103"_s,
+		u"Ora standard arabă"_s,
 		""_s,
-		u"Ora de var\u0103 arab\u0103"_s,
+		u"Ora de vară arabă"_s,
 		""_s,
-		u"Ora arab\u0103"_s,
+		u"Ora arabă"_s,
 		""_s
 	}));
 	$var($StringArray, Armenia, $new($StringArray, {
 		"Ora standard a Armeniei"_s,
 		""_s,
-		u"Ora de var\u0103 a Armeniei"_s,
+		u"Ora de vară a Armeniei"_s,
 		""_s,
 		"Ora Armeniei"_s,
 		""_s
@@ -437,7 +437,7 @@ $ObjectArray2* TimeZoneNames_ro::getContents() {
 	$var($StringArray, Chatham, $new($StringArray, {
 		"Ora standard din Chatham"_s,
 		""_s,
-		u"Ora de var\u0103 din Chatham"_s,
+		u"Ora de vară din Chatham"_s,
 		""_s,
 		"Ora din Chatham"_s,
 		""_s
@@ -469,23 +469,23 @@ $ObjectArray2* TimeZoneNames_ro::getContents() {
 	$var($StringArray, Georgia, $new($StringArray, {
 		"Ora standard a Georgiei"_s,
 		""_s,
-		u"Ora de var\u0103 a Georgiei"_s,
+		u"Ora de vară a Georgiei"_s,
 		""_s,
 		"Ora Georgiei"_s,
 		""_s
 	}));
 	$var($StringArray, Irkutsk, $new($StringArray, {
-		u"Ora standard din Irku\u021bk"_s,
+		u"Ora standard din Irkuțk"_s,
 		""_s,
-		u"Ora de var\u0103 din Irku\u021bk"_s,
+		u"Ora de vară din Irkuțk"_s,
 		""_s,
-		u"Ora din Irku\u021bk"_s,
+		u"Ora din Irkuțk"_s,
 		""_s
 	}));
 	$var($StringArray, Magadan, $new($StringArray, {
 		"Ora standard din Magadan"_s,
 		""_s,
-		u"Ora de var\u0103 din Magadan"_s,
+		u"Ora de vară din Magadan"_s,
 		""_s,
 		"Ora din Magadan"_s,
 		""_s
@@ -501,7 +501,7 @@ $ObjectArray2* TimeZoneNames_ro::getContents() {
 	$var($StringArray, Norfolk, $new($StringArray, {
 		"Ora standard a Insulei Norfolk"_s,
 		""_s,
-		u"Ora de var\u0103 a Insulei Norfolk"_s,
+		u"Ora de vară a Insulei Norfolk"_s,
 		""_s,
 		"Ora Insulei Norfolk"_s,
 		""_s
@@ -509,7 +509,7 @@ $ObjectArray2* TimeZoneNames_ro::getContents() {
 	$var($StringArray, Noronha, $new($StringArray, {
 		"Ora standard din Fernando de Noronha"_s,
 		""_s,
-		u"Ora de var\u0103 din Fernando de Noronha"_s,
+		u"Ora de vară din Fernando de Noronha"_s,
 		""_s,
 		"Ora din Fernando de Noronha"_s,
 		""_s
@@ -549,7 +549,7 @@ $ObjectArray2* TimeZoneNames_ro::getContents() {
 	$var($StringArray, Uruguay, $new($StringArray, {
 		"Ora standard a Uruguayului"_s,
 		""_s,
-		u"Ora de var\u0103 a Uruguayului"_s,
+		u"Ora de vară a Uruguayului"_s,
 		""_s,
 		"Ora Uruguayului"_s,
 		""_s
@@ -557,23 +557,23 @@ $ObjectArray2* TimeZoneNames_ro::getContents() {
 	$var($StringArray, Vanuatu, $new($StringArray, {
 		"Ora standard din Vanuatu"_s,
 		""_s,
-		u"Ora de var\u0103 din Vanuatu"_s,
+		u"Ora de vară din Vanuatu"_s,
 		""_s,
 		"Ora din Vanuatu"_s,
 		""_s
 	}));
 	$var($StringArray, Yakutsk, $new($StringArray, {
-		u"Ora standard din Iaku\u021bk"_s,
+		u"Ora standard din Iakuțk"_s,
 		""_s,
-		u"Ora de var\u0103 din Iaku\u021bk"_s,
+		u"Ora de vară din Iakuțk"_s,
 		""_s,
-		u"Ora din Iaku\u021bk"_s,
+		u"Ora din Iakuțk"_s,
 		""_s
 	}));
 	$var($StringArray, Atlantic, $new($StringArray, {
-		u"Ora standard \u00een zona Atlantic nord-american\u0103"_s,
+		u"Ora standard în zona Atlantic nord-americană"_s,
 		""_s,
-		u"Ora de var\u0103 \u00een zona Atlantic nord-american\u0103"_s,
+		u"Ora de vară în zona Atlantic nord-americană"_s,
 		""_s,
 		"Ora zonei Atlantic nord-americane"_s,
 		""_s
@@ -581,7 +581,7 @@ $ObjectArray2* TimeZoneNames_ro::getContents() {
 	$var($StringArray, Brasilia, $new($StringArray, {
 		"Ora standard a Brasiliei"_s,
 		""_s,
-		u"Ora de var\u0103 a Brasiliei"_s,
+		u"Ora de vară a Brasiliei"_s,
 		""_s,
 		"Ora Brasiliei"_s,
 		""_s
@@ -597,7 +597,7 @@ $ObjectArray2* TimeZoneNames_ro::getContents() {
 	$var($StringArray, Colombia, $new($StringArray, {
 		"Ora standard a Columbiei"_s,
 		""_s,
-		u"Ora de var\u0103 a Columbiei"_s,
+		u"Ora de vară a Columbiei"_s,
 		""_s,
 		"Ora Columbiei"_s,
 		""_s
@@ -605,7 +605,7 @@ $ObjectArray2* TimeZoneNames_ro::getContents() {
 	$var($StringArray, Falkland, $new($StringArray, {
 		"Ora standard din Insulele Falkland"_s,
 		""_s,
-		u"Ora de var\u0103 din Insulele Falkland"_s,
+		u"Ora de vară din Insulele Falkland"_s,
 		""_s,
 		"Ora din Insulele Falkland"_s,
 		""_s
@@ -629,7 +629,7 @@ $ObjectArray2* TimeZoneNames_ro::getContents() {
 	$var($StringArray, Mongolia, $new($StringArray, {
 		"Ora standard din Ulan Bator"_s,
 		""_s,
-		u"Ora de var\u0103 din Ulan Bator"_s,
+		u"Ora de vară din Ulan Bator"_s,
 		""_s,
 		"Ora din Ulan Bator"_s,
 		""_s
@@ -637,7 +637,7 @@ $ObjectArray2* TimeZoneNames_ro::getContents() {
 	$var($StringArray, Pakistan, $new($StringArray, {
 		"Ora standard a Pakistanului"_s,
 		""_s,
-		u"Ora de var\u0103 a Pakistanului"_s,
+		u"Ora de vară a Pakistanului"_s,
 		""_s,
 		"Ora Pakistanului"_s,
 		""_s
@@ -645,7 +645,7 @@ $ObjectArray2* TimeZoneNames_ro::getContents() {
 	$var($StringArray, Paraguay, $new($StringArray, {
 		"Ora standard din Paraguay"_s,
 		""_s,
-		u"Ora de var\u0103 din Paraguay"_s,
+		u"Ora de vară din Paraguay"_s,
 		""_s,
 		"Ora din Paraguay"_s,
 		""_s
@@ -661,7 +661,7 @@ $ObjectArray2* TimeZoneNames_ro::getContents() {
 	$var($StringArray, Sakhalin, $new($StringArray, {
 		"Ora standard din Sahalin"_s,
 		""_s,
-		u"Ora de var\u0103 din Sahalin"_s,
+		u"Ora de vară din Sahalin"_s,
 		""_s,
 		"Ora din Sahalin"_s,
 		""_s
@@ -677,7 +677,7 @@ $ObjectArray2* TimeZoneNames_ro::getContents() {
 	$var($StringArray, Argentina, $new($StringArray, {
 		"Ora standard a Argentinei"_s,
 		""_s,
-		u"Ora de var\u0103 a Argentinei"_s,
+		u"Ora de vară a Argentinei"_s,
 		""_s,
 		"Ora Argentinei"_s,
 		""_s
@@ -701,7 +701,7 @@ $ObjectArray2* TimeZoneNames_ro::getContents() {
 	$var($StringArray, Hong_Kong, $new($StringArray, {
 		"Ora standard din Hong Kong"_s,
 		""_s,
-		u"Ora de var\u0103 din Hong Kong"_s,
+		u"Ora de vară din Hong Kong"_s,
 		""_s,
 		"Ora din Hong Kong"_s,
 		""_s
@@ -715,15 +715,15 @@ $ObjectArray2* TimeZoneNames_ro::getContents() {
 		""_s
 	}));
 	$var($StringArray, Kamchatka, $new($StringArray, {
-		u"Ora standard din Petropavlovsk-Kamcia\u021bki"_s,
+		u"Ora standard din Petropavlovsk-Kamciațki"_s,
 		""_s,
-		u"Ora de var\u0103 din Petropavlovsk-Kamcia\u021bki"_s,
+		u"Ora de vară din Petropavlovsk-Kamciațki"_s,
 		""_s,
-		u"Ora din Petropavlovsk-Kamcia\u021bki"_s,
+		u"Ora din Petropavlovsk-Kamciațki"_s,
 		""_s
 	}));
 	$var($StringArray, Kyrgystan, $new($StringArray, {
-		u"Ora din K\u00e2rg\u00e2zstan"_s,
+		u"Ora din Kârgâzstan"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -733,7 +733,7 @@ $ObjectArray2* TimeZoneNames_ro::getContents() {
 	$var($StringArray, Lord_Howe, $new($StringArray, {
 		"Ora standard din Lord Howe"_s,
 		""_s,
-		u"Ora de var\u0103 din Lord Howe"_s,
+		u"Ora de vară din Lord Howe"_s,
 		""_s,
 		"Ora din Lord Howe"_s,
 		""_s
@@ -749,7 +749,7 @@ $ObjectArray2* TimeZoneNames_ro::getContents() {
 	$var($StringArray, Mauritius, $new($StringArray, {
 		"Ora standard din Mauritius"_s,
 		""_s,
-		u"Ora de var\u0103 din Mauritius"_s,
+		u"Ora de vară din Mauritius"_s,
 		""_s,
 		"Ora din Mauritius"_s,
 		""_s
@@ -773,7 +773,7 @@ $ObjectArray2* TimeZoneNames_ro::getContents() {
 	$var($StringArray, Volgograd, $new($StringArray, {
 		"Ora standard din Volgograd"_s,
 		""_s,
-		u"Ora de var\u0103 din Volgograd"_s,
+		u"Ora de vară din Volgograd"_s,
 		""_s,
 		"Ora din Volgograd"_s,
 		""_s
@@ -781,7 +781,7 @@ $ObjectArray2* TimeZoneNames_ro::getContents() {
 	$var($StringArray, Azerbaijan, $new($StringArray, {
 		"Ora standard a Azerbaidjanului"_s,
 		""_s,
-		u"Ora de var\u0103 a Azerbaidjanului"_s,
+		u"Ora de vară a Azerbaidjanului"_s,
 		""_s,
 		"Ora Azerbaidjanului"_s,
 		""_s
@@ -789,7 +789,7 @@ $ObjectArray2* TimeZoneNames_ro::getContents() {
 	$var($StringArray, Bangladesh, $new($StringArray, {
 		"Ora standard din Bangladesh"_s,
 		""_s,
-		u"Ora de var\u0103 din Bangladesh"_s,
+		u"Ora de vară din Bangladesh"_s,
 		""_s,
 		"Ora din Bangladesh"_s,
 		""_s
@@ -797,7 +797,7 @@ $ObjectArray2* TimeZoneNames_ro::getContents() {
 	$var($StringArray, Cape_Verde, $new($StringArray, {
 		"Ora standard din Capul Verde"_s,
 		""_s,
-		u"Ora de var\u0103 din Capul Verde"_s,
+		u"Ora de vară din Capul Verde"_s,
 		""_s,
 		"Ora din Capul Verde"_s,
 		""_s
@@ -829,7 +829,7 @@ $ObjectArray2* TimeZoneNames_ro::getContents() {
 	$var($StringArray, Uzbekistan, $new($StringArray, {
 		"Ora standard din Uzbekistan"_s,
 		""_s,
-		u"Ora de var\u0103 din Uzbekistan"_s,
+		u"Ora de vară din Uzbekistan"_s,
 		""_s,
 		"Ora din Uzbekistan"_s,
 		""_s
@@ -845,7 +845,7 @@ $ObjectArray2* TimeZoneNames_ro::getContents() {
 	$var($StringArray, Krasnoyarsk, $new($StringArray, {
 		"Ora standard din Krasnoiarsk"_s,
 		""_s,
-		u"Ora de var\u0103 din Krasnoiarsk"_s,
+		u"Ora de vară din Krasnoiarsk"_s,
 		""_s,
 		"Ora din Krasnoiarsk"_s,
 		""_s
@@ -853,7 +853,7 @@ $ObjectArray2* TimeZoneNames_ro::getContents() {
 	$var($StringArray, New_Zealand, $new($StringArray, {
 		"Ora standard a Noii Zeelande"_s,
 		""_s,
-		u"Ora de var\u0103 a Noii Zeelande"_s,
+		u"Ora de vară a Noii Zeelande"_s,
 		""_s,
 		"Ora Noii Zeelande"_s,
 		""_s
@@ -861,7 +861,7 @@ $ObjectArray2* TimeZoneNames_ro::getContents() {
 	$var($StringArray, Novosibirsk, $new($StringArray, {
 		"Ora standard din Novosibirsk"_s,
 		""_s,
-		u"Ora de var\u0103 din Novosibirsk"_s,
+		u"Ora de vară din Novosibirsk"_s,
 		""_s,
 		"Ora din Novosibirsk"_s,
 		""_s
@@ -869,7 +869,7 @@ $ObjectArray2* TimeZoneNames_ro::getContents() {
 	$var($StringArray, Philippines, $new($StringArray, {
 		"Ora standard din Filipine"_s,
 		""_s,
-		u"Ora de var\u0103 din Filipine"_s,
+		u"Ora de vară din Filipine"_s,
 		""_s,
 		"Ora din Filipine"_s,
 		""_s
@@ -877,7 +877,7 @@ $ObjectArray2* TimeZoneNames_ro::getContents() {
 	$var($StringArray, Vladivostok, $new($StringArray, {
 		"Ora standard din Vladivostok"_s,
 		""_s,
-		u"Ora de var\u0103 din Vladivostok"_s,
+		u"Ora de vară din Vladivostok"_s,
 		""_s,
 		"Ora din Vladivostok"_s,
 		""_s
@@ -901,7 +901,7 @@ $ObjectArray2* TimeZoneNames_ro::getContents() {
 	$var($StringArray, Newfoundland, $new($StringArray, {
 		"Ora standard din Newfoundland"_s,
 		""_s,
-		u"Ora de var\u0103 din Newfoundland"_s,
+		u"Ora de vară din Newfoundland"_s,
 		""_s,
 		"Ora din Newfoundland"_s,
 		""_s
@@ -909,13 +909,13 @@ $ObjectArray2* TimeZoneNames_ro::getContents() {
 	$var($StringArray, Turkmenistan, $new($StringArray, {
 		"Ora standard din Turkmenistan"_s,
 		""_s,
-		u"Ora de var\u0103 din Turkmenistan"_s,
+		u"Ora de vară din Turkmenistan"_s,
 		""_s,
 		"Ora din Turkmenistan"_s,
 		""_s
 	}));
 	$var($StringArray, French_Guiana, $new($StringArray, {
-		u"Ora din Guyana Francez\u0103"_s,
+		u"Ora din Guyana Franceză"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -925,7 +925,7 @@ $ObjectArray2* TimeZoneNames_ro::getContents() {
 	$var($StringArray, New_Caledonia, $new($StringArray, {
 		"Ora standard a Noii Caledonii"_s,
 		""_s,
-		u"Ora de var\u0103 a Noii Caledonii"_s,
+		u"Ora de vară a Noii Caledonii"_s,
 		""_s,
 		"Ora Noii Caledonii"_s,
 		""_s
@@ -941,7 +941,7 @@ $ObjectArray2* TimeZoneNames_ro::getContents() {
 	$var($StringArray, Yekaterinburg, $new($StringArray, {
 		"Ora standard din Ekaterinburg"_s,
 		""_s,
-		u"Ora de var\u0103 din Ekaterinburg"_s,
+		u"Ora de vară din Ekaterinburg"_s,
 		""_s,
 		"Ora din Ekaterinburg"_s,
 		""_s
@@ -965,13 +965,13 @@ $ObjectArray2* TimeZoneNames_ro::getContents() {
 	$var($StringArray, Africa_Western, $new($StringArray, {
 		"Ora standard a Africii Occidentale"_s,
 		""_s,
-		u"Ora de var\u0103 a Africii Occidentale"_s,
+		u"Ora de vară a Africii Occidentale"_s,
 		""_s,
 		"Ora Africii Occidentale"_s,
 		""_s
 	}));
 	$var($StringArray, DumontDUrville, $new($StringArray, {
-		u"Ora din Dumont-d\u2019Urville"_s,
+		u"Ora din Dumont-d’Urville"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -981,7 +981,7 @@ $ObjectArray2* TimeZoneNames_ro::getContents() {
 	$var($StringArray, Europe_Central, $new($StringArray, {
 		"Ora standard a Europei Centrale"_s,
 		"CET"_s,
-		u"Ora de var\u0103 a Europei Centrale"_s,
+		u"Ora de vară a Europei Centrale"_s,
 		"CEST"_s,
 		"Ora Europei Centrale"_s,
 		"CET"_s
@@ -989,7 +989,7 @@ $ObjectArray2* TimeZoneNames_ro::getContents() {
 	$var($StringArray, Europe_Eastern, $new($StringArray, {
 		"Ora standard a Europei de Est"_s,
 		"EET"_s,
-		u"Ora de var\u0103 a Europei de Est"_s,
+		u"Ora de vară a Europei de Est"_s,
 		"EEST"_s,
 		"Ora Europei de Est"_s,
 		"EET"_s
@@ -997,7 +997,7 @@ $ObjectArray2* TimeZoneNames_ro::getContents() {
 	$var($StringArray, Europe_Western, $new($StringArray, {
 		"Ora standard a Europei de Vest"_s,
 		"WET"_s,
-		u"Ora de var\u0103 a Europei de Vest"_s,
+		u"Ora de vară a Europei de Vest"_s,
 		"WEST"_s,
 		"Ora Europei de Vest"_s,
 		"WET"_s
@@ -1005,7 +1005,7 @@ $ObjectArray2* TimeZoneNames_ro::getContents() {
 	$var($StringArray, Mexico_Pacific, $new($StringArray, {
 		"Ora standard a zonei Pacific mexicane"_s,
 		""_s,
-		u"Ora de var\u0103 a zonei Pacific mexicane"_s,
+		u"Ora de vară a zonei Pacific mexicane"_s,
 		""_s,
 		"Ora zonei Pacific mexicane"_s,
 		""_s
@@ -1019,31 +1019,31 @@ $ObjectArray2* TimeZoneNames_ro::getContents() {
 		""_s
 	}));
 	$var($StringArray, America_Central, $new($StringArray, {
-		u"Ora standard central\u0103 nord-american\u0103"_s,
+		u"Ora standard centrală nord-americană"_s,
 		""_s,
-		u"Ora de var\u0103 central\u0103 nord-american\u0103"_s,
+		u"Ora de vară centrală nord-americană"_s,
 		""_s,
-		u"Ora central\u0103 nord-american\u0103"_s,
+		u"Ora centrală nord-americană"_s,
 		""_s
 	}));
 	$var($StringArray, America_Eastern, $new($StringArray, {
-		u"Ora standard oriental\u0103 nord-american\u0103"_s,
+		u"Ora standard orientală nord-americană"_s,
 		""_s,
-		u"Ora de var\u0103 oriental\u0103 nord-american\u0103"_s,
+		u"Ora de vară orientală nord-americană"_s,
 		""_s,
-		u"Ora oriental\u0103 nord-american\u0103"_s,
+		u"Ora orientală nord-americană"_s,
 		""_s
 	}));
 	$var($StringArray, America_Pacific, $new($StringArray, {
-		u"Ora standard \u00een zona Pacific nord-american\u0103"_s,
+		u"Ora standard în zona Pacific nord-americană"_s,
 		""_s,
-		u"Ora de var\u0103 \u00een zona Pacific nord-american\u0103"_s,
+		u"Ora de vară în zona Pacific nord-americană"_s,
 		""_s,
 		"Ora zonei Pacific nord-americane"_s,
 		""_s
 	}));
 	$var($StringArray, French_Southern, $new($StringArray, {
-		u"Ora din Teritoriile Australe \u0219i Antarctice Franceze"_s,
+		u"Ora din Teritoriile Australe și Antarctice Franceze"_s,
 		""_s,
 		""_s,
 		""_s,
@@ -1061,7 +1061,7 @@ $ObjectArray2* TimeZoneNames_ro::getContents() {
 	$var($StringArray, Hawaii_Aleutian, $new($StringArray, {
 		"Ora standard din Hawaii-Aleutine"_s,
 		""_s,
-		u"Ora de var\u0103 din Hawaii-Aleutine"_s,
+		u"Ora de vară din Hawaii-Aleutine"_s,
 		""_s,
 		"Ora din Hawaii-Aleutine"_s,
 		""_s
@@ -1075,17 +1075,17 @@ $ObjectArray2* TimeZoneNames_ro::getContents() {
 		""_s
 	}));
 	$var($StringArray, Pierre_Miquelon, $new($StringArray, {
-		u"Ora standard din Saint-Pierre \u0219i Miquelon"_s,
+		u"Ora standard din Saint-Pierre și Miquelon"_s,
 		""_s,
-		u"Ora de var\u0103 din Saint-Pierre \u0219i Miquelon"_s,
+		u"Ora de vară din Saint-Pierre și Miquelon"_s,
 		""_s,
-		u"Ora din Saint-Pierre \u0219i Miquelon"_s,
+		u"Ora din Saint-Pierre și Miquelon"_s,
 		""_s
 	}));
 	$var($StringArray, America_Mountain, $new($StringArray, {
-		u"Ora standard \u00een zona montan\u0103 nord-american\u0103"_s,
+		u"Ora standard în zona montană nord-americană"_s,
 		""_s,
-		u"Ora de var\u0103 \u00een zona montan\u0103 nord-american\u0103"_s,
+		u"Ora de vară în zona montană nord-americană"_s,
 		""_s,
 		"Ora zonei montane nord-americane"_s,
 		""_s
@@ -1101,7 +1101,7 @@ $ObjectArray2* TimeZoneNames_ro::getContents() {
 	$var($StringArray, Mexico_Northwest, $new($StringArray, {
 		"Ora standard a Mexicului de nord-vest"_s,
 		""_s,
-		u"Ora de var\u0103 a Mexicului de nord-vest"_s,
+		u"Ora de vară a Mexicului de nord-vest"_s,
 		""_s,
 		"Ora Mexicului de nord-vest"_s,
 		""_s
@@ -1117,7 +1117,7 @@ $ObjectArray2* TimeZoneNames_ro::getContents() {
 	$var($StringArray, Australia_Central, $new($StringArray, {
 		"Ora standard a Australiei Centrale"_s,
 		""_s,
-		u"Ora de var\u0103 a Australiei Centrale"_s,
+		u"Ora de vară a Australiei Centrale"_s,
 		""_s,
 		"Ora Australiei Centrale"_s,
 		""_s
@@ -1125,7 +1125,7 @@ $ObjectArray2* TimeZoneNames_ro::getContents() {
 	$var($StringArray, Australia_Eastern, $new($StringArray, {
 		"Ora standard a Australiei Orientale"_s,
 		""_s,
-		u"Ora de var\u0103 a Australiei Orientale"_s,
+		u"Ora de vară a Australiei Orientale"_s,
 		""_s,
 		"Ora Australiei Orientale"_s,
 		""_s
@@ -1133,7 +1133,7 @@ $ObjectArray2* TimeZoneNames_ro::getContents() {
 	$var($StringArray, Australia_Western, $new($StringArray, {
 		"Ora standard a Australiei Occidentale"_s,
 		""_s,
-		u"Ora de var\u0103 a Australiei Occidentale"_s,
+		u"Ora de vară a Australiei Occidentale"_s,
 		""_s,
 		"Ora Australiei Occidentale"_s,
 		""_s
@@ -1141,7 +1141,7 @@ $ObjectArray2* TimeZoneNames_ro::getContents() {
 	$var($StringArray, Greenland_Eastern, $new($StringArray, {
 		"Ora standard a Groenlandei orientale"_s,
 		""_s,
-		u"Ora de var\u0103 a Groenlandei orientale"_s,
+		u"Ora de vară a Groenlandei orientale"_s,
 		""_s,
 		"Ora Groenlandei orientale"_s,
 		""_s
@@ -1149,7 +1149,7 @@ $ObjectArray2* TimeZoneNames_ro::getContents() {
 	$var($StringArray, Greenland_Western, $new($StringArray, {
 		"Ora standard a Groenlandei occidentale"_s,
 		""_s,
-		u"Ora de var\u0103 a Groenlandei occidentale"_s,
+		u"Ora de vară a Groenlandei occidentale"_s,
 		""_s,
 		"Ora Groenlandei occidentale"_s,
 		""_s
@@ -1197,7 +1197,7 @@ $ObjectArray2* TimeZoneNames_ro::getContents() {
 	$var($StringArray, Australia_CentralWestern, $new($StringArray, {
 		"Ora standard a Australiei Central Occidentale"_s,
 		""_s,
-		u"Ora de var\u0103 a Australiei Central Occidentale"_s,
+		u"Ora de vară a Australiei Central Occidentale"_s,
 		""_s,
 		"Ora Australiei Central Occidentale"_s,
 		""_s
@@ -1848,7 +1848,7 @@ $ObjectArray2* TimeZoneNames_ro::getContents() {
 			$of($$new($StringArray, {
 				"Ora de Greenwhich"_s,
 				"GMT"_s,
-				u"Ora de var\u0103 a Irlandei"_s,
+				u"Ora de vară a Irlandei"_s,
 				""_s,
 				""_s,
 				""_s
@@ -1867,7 +1867,7 @@ $ObjectArray2* TimeZoneNames_ro::getContents() {
 			$of($$new($StringArray, {
 				"Ora de Greenwhich"_s,
 				"GMT"_s,
-				u"Ora de var\u0103 britanic\u0103"_s,
+				u"Ora de vară britanică"_s,
 				""_s,
 				""_s,
 				""_s
@@ -2086,7 +2086,7 @@ $ObjectArray2* TimeZoneNames_ro::getContents() {
 			$of($$new($StringArray, {
 				"Ora de Greenwhich"_s,
 				"GMT"_s,
-				u"Ora de var\u0103 britanic\u0103"_s,
+				u"Ora de vară britanică"_s,
 				""_s,
 				""_s,
 				""_s
@@ -3142,7 +3142,7 @@ $ObjectArray2* TimeZoneNames_ro::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Almaty"_s),
-			$of(u"Almat\u00ee"_s)
+			$of(u"Almatî"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Anadyr"_s),
@@ -3154,7 +3154,7 @@ $ObjectArray2* TimeZoneNames_ro::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Atyrau"_s),
-			$of(u"At\u00eerau"_s)
+			$of(u"Atîrau"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Beirut"_s),
@@ -3186,7 +3186,7 @@ $ObjectArray2* TimeZoneNames_ro::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Saigon"_s),
-			$of(u"Ho \u0218i Min"_s)
+			$of(u"Ho Și Min"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Taipei"_s),
@@ -3202,7 +3202,7 @@ $ObjectArray2* TimeZoneNames_ro::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Etc/Unknown"_s),
-			$of(u"Ora\u0219 necunoscut"_s)
+			$of(u"Oraș necunoscut"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Kiev"_s),
@@ -3278,7 +3278,7 @@ $ObjectArray2* TimeZoneNames_ro::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Bishkek"_s),
-			$of(u"Bi\u0219kek"_s)
+			$of(u"Bișkek"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Colombo"_s),
@@ -3286,7 +3286,7 @@ $ObjectArray2* TimeZoneNames_ro::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Irkutsk"_s),
-			$of(u"Irku\u021bk"_s)
+			$of(u"Irkuțk"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Jakarta"_s),
@@ -3318,7 +3318,7 @@ $ObjectArray2* TimeZoneNames_ro::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Yakutsk"_s),
-			$of(u"Iaku\u021bk"_s)
+			$of(u"Iakuțk"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Yerevan"_s),
@@ -3454,7 +3454,7 @@ $ObjectArray2* TimeZoneNames_ro::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Ashgabat"_s),
-			$of(u"A\u0219gabat"_s)
+			$of(u"Așgabat"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Calcutta"_s),
@@ -3466,7 +3466,7 @@ $ObjectArray2* TimeZoneNames_ro::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Dushanbe"_s),
-			$of(u"Du\u0219anbe"_s)
+			$of(u"Dușanbe"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Jayapura"_s),
@@ -3494,7 +3494,7 @@ $ObjectArray2* TimeZoneNames_ro::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Tashkent"_s),
-			$of(u"Ta\u0219kent"_s)
+			$of(u"Tașkent"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Ust-Nera"_s),
@@ -3558,7 +3558,7 @@ $ObjectArray2* TimeZoneNames_ro::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Warsaw"_s),
-			$of(u"Var\u0219ovia"_s)
+			$of(u"Varșovia"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Zagreb"_s),
@@ -3566,7 +3566,7 @@ $ObjectArray2* TimeZoneNames_ro::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Zurich"_s),
-			$of(u"Z\u00fcrich"_s)
+			$of(u"Zürich"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Indian/Chagos"_s),
@@ -3766,11 +3766,11 @@ $ObjectArray2* TimeZoneNames_ro::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Indian/Reunion"_s),
-			$of(u"R\u00e9union"_s)
+			$of(u"Réunion"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Pacific/Easter"_s),
-			$of(u"Insula Pa\u0219telui"_s)
+			$of(u"Insula Paștelui"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Pacific/Kosrae"_s),
@@ -3838,11 +3838,11 @@ $ObjectArray2* TimeZoneNames_ro::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Africa/Ndjamena"_s),
-			$of(u"N\u2019Djamena"_s)
+			$of(u"N’Djamena"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Africa/Sao_Tome"_s),
-			$of(u"Sao Tom\u00e9"_s)
+			$of(u"Sao Tomé"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Africa/Windhoek"_s),
@@ -3874,7 +3874,7 @@ $ObjectArray2* TimeZoneNames_ro::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Curacao"_s),
-			$of(u"Cura\u00e7ao"_s)
+			$of(u"Curaçao"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Detroit"_s),
@@ -3990,7 +3990,7 @@ $ObjectArray2* TimeZoneNames_ro::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Chisinau"_s),
-			$of(u"Chi\u0219in\u0103u"_s)
+			$of(u"Chișinău"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Guernsey"_s),
@@ -4046,7 +4046,7 @@ $ObjectArray2* TimeZoneNames_ro::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Asuncion"_s),
-			$of(u"Asunci\u00f3n"_s)
+			$of(u"Asunción"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Barbados"_s),
@@ -4162,7 +4162,7 @@ $ObjectArray2* TimeZoneNames_ro::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Bucharest"_s),
-			$of(u"Bucure\u0219ti"_s)
+			$of(u"București"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Gibraltar"_s),
@@ -4178,7 +4178,7 @@ $ObjectArray2* TimeZoneNames_ro::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Podgorica"_s),
-			$of(u"Podgori\u021ba"_s)
+			$of(u"Podgorița"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Stockholm"_s),
@@ -4322,7 +4322,7 @@ $ObjectArray2* TimeZoneNames_ro::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Asia/Novokuznetsk"_s),
-			$of(u"Novokuzne\u021bk"_s)
+			$of(u"Novokuznețk"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.Europe/Bratislava"_s),
@@ -4626,7 +4626,7 @@ $ObjectArray2* TimeZoneNames_ro::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/St_Barthelemy"_s),
-			$of(u"Saint Barth\u00e9lemy"_s)
+			$of(u"Saint Barthélemy"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("timezone.excity.America/Swift_Current"_s),

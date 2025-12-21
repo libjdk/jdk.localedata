@@ -39,10 +39,10 @@ void JavaTimeSupplementary_vi::init$() {
 $ObjectArray2* JavaTimeSupplementary_vi::getContents() {
 	$useLocalCurrentObjectStackCache();
 	$var($StringArray, sharedQuarterNames, $new($StringArray, {
-		u"Qu\u00fd 1"_s,
-		u"Qu\u00fd 2"_s,
-		u"Qu\u00fd 3"_s,
-		u"Qu\u00fd 4"_s
+		u"Quý 1"_s,
+		u"Quý 2"_s,
+		u"Quý 3"_s,
+		u"Quý 4"_s
 	}));
 	$var($StringArray, sharedAmPmMarkers, $new($StringArray, {
 		"SA"_s,
@@ -58,13 +58,13 @@ $ObjectArray2* JavaTimeSupplementary_vi::getContents() {
 		"Th 7"_s
 	}));
 	$var($StringArray, sharedDayNames, $new($StringArray, {
-		u"Ch\u1ee7 Nh\u1eadt"_s,
-		u"Th\u1ee9 Hai"_s,
-		u"Th\u1ee9 Ba"_s,
-		u"Th\u1ee9 T\u01b0"_s,
-		u"Th\u1ee9 N\u0103m"_s,
-		u"Th\u1ee9 S\u00e1u"_s,
-		u"Th\u1ee9 B\u1ea3y"_s
+		u"Chủ Nhật"_s,
+		u"Thứ Hai"_s,
+		u"Thứ Ba"_s,
+		u"Thứ Tư"_s,
+		u"Thứ Năm"_s,
+		u"Thứ Sáu"_s,
+		u"Thứ Bảy"_s
 	}));
 	$var($StringArray, sharedDayNarrows, $new($StringArray, {
 		"CN"_s,
@@ -86,8 +86,8 @@ $ObjectArray2* JavaTimeSupplementary_vi::getContents() {
 		"c"_s
 	}));
 	$var($StringArray, sharedJavaTimeDatePatterns, $new($StringArray, {
-		u"EEEE, \'ng\u00e0y\' dd MMMM \'n\u0103m\' y G"_s,
-		u"\'Ng\u00e0y\' dd \'th\u00e1ng\' M \'n\u0103m\' y G"_s,
+		u"EEEE, \'ngày\' dd MMMM \'năm\' y G"_s,
+		u"\'Ngày\' dd \'tháng\' M \'năm\' y G"_s,
 		"dd-MM-y G"_s,
 		"dd/MM/y GGGGG"_s
 	}));
@@ -96,7 +96,7 @@ $ObjectArray2* JavaTimeSupplementary_vi::getContents() {
 		"sau CN"_s
 	}));
 	$var($StringArray, sharedEras, $new($StringArray, {
-		u"Tr\u01b0\u1edbc R.O.C"_s,
+		u"Trước R.O.C"_s,
 		"R.O.C."_s
 	}));
 	return $new($ObjectArray2, {
@@ -106,35 +106,35 @@ $ObjectArray2* JavaTimeSupplementary_vi::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.buddhist"_s),
-			$of(u"L\u1ecbch Ph\u1eadt Gi\u00e1o"_s)
+			$of(u"Lịch Phật Giáo"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.gregorian"_s),
-			$of(u"L\u1ecbch Gregory"_s)
+			$of(u"Lịch Gregory"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.gregory"_s),
-			$of(u"L\u1ecbch Gregory"_s)
+			$of(u"Lịch Gregory"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.islamic"_s),
-			$of(u"L\u1ecbch H\u1ed3i Gi\u00e1o"_s)
+			$of(u"Lịch Hồi Giáo"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.islamic-civil"_s),
-			$of(u"L\u1ecbch Islamic-Civil"_s)
+			$of(u"Lịch Islamic-Civil"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.islamic-umalqura"_s),
-			$of(u"L\u1ecbch H\u1ed3i Gi\u00e1o - Umm al-Qura"_s)
+			$of(u"Lịch Hồi Giáo - Umm al-Qura"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.japanese"_s),
-			$of(u"L\u1ecbch Nh\u1eadt B\u1ea3n"_s)
+			$of(u"Lịch Nhật Bản"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("calendarname.roc"_s),
-			$of(u"L\u1ecbch Trung Hoa D\u00e2n Qu\u1ed1c"_s)
+			$of(u"Lịch Trung Hoa Dân Quốc"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("field.dayperiod"_s),
@@ -142,39 +142,39 @@ $ObjectArray2* JavaTimeSupplementary_vi::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("field.era"_s),
-			$of(u"Th\u1eddi \u0111\u1ea1i"_s)
+			$of(u"Thời đại"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("field.hour"_s),
-			$of(u"Gi\u1edd"_s)
+			$of(u"Giờ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("field.minute"_s),
-			$of(u"Ph\u00fat"_s)
+			$of(u"Phút"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("field.month"_s),
-			$of(u"Th\u00e1ng"_s)
+			$of(u"Tháng"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("field.second"_s),
-			$of(u"Gi\u00e2y"_s)
+			$of(u"Giây"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("field.week"_s),
-			$of(u"Tu\u1ea7n"_s)
+			$of(u"Tuần"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("field.weekday"_s),
-			$of(u"Ng\u00e0y trong tu\u1ea7n"_s)
+			$of(u"Ngày trong tuần"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("field.year"_s),
-			$of(u"N\u0103m"_s)
+			$of(u"Năm"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("field.zone"_s),
-			$of(u"M\u00fai gi\u1edd"_s)
+			$of(u"Múi giờ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("islamic.AmPmMarkers"_s),
@@ -183,8 +183,8 @@ $ObjectArray2* JavaTimeSupplementary_vi::getContents() {
 		$$new($ObjectArray, {
 			$of("islamic.DatePatterns"_s),
 			$of($$new($StringArray, {
-				u"EEEE, \'ng\u00e0y\' dd \'th\u00e1ng\' MM \'n\u0103m\' y GGGG"_s,
-				u"\'Ng\u00e0y\' dd \'th\u00e1ng\' M \'n\u0103m\' y GGGG"_s,
+				u"EEEE, \'ngày\' dd \'tháng\' MM \'năm\' y GGGG"_s,
+				u"\'Ngày\' dd \'tháng\' M \'năm\' y GGGG"_s,
 				"dd-MM-y GGGG"_s,
 				"dd/MM/y G"_s
 			}))
@@ -231,8 +231,8 @@ $ObjectArray2* JavaTimeSupplementary_vi::getContents() {
 		$$new($ObjectArray, {
 			$of("java.time.islamic.DatePatterns"_s),
 			$of($$new($StringArray, {
-				u"EEEE, \'ng\u00e0y\' dd \'th\u00e1ng\' MM \'n\u0103m\' y G"_s,
-				u"\'Ng\u00e0y\' dd \'th\u00e1ng\' M \'n\u0103m\' y G"_s,
+				u"EEEE, \'ngày\' dd \'tháng\' MM \'năm\' y G"_s,
+				u"\'Ngày\' dd \'tháng\' M \'năm\' y G"_s,
 				"dd-MM-y G"_s,
 				"dd/MM/y GGGGG"_s
 			}))
@@ -240,8 +240,8 @@ $ObjectArray2* JavaTimeSupplementary_vi::getContents() {
 		$$new($ObjectArray, {
 			$of("java.time.japanese.DatePatterns"_s),
 			$of($$new($StringArray, {
-				u"EEEE, \'ng\u00e0y\' dd MMMM \'n\u0103m\' y G"_s,
-				u"\'Ng\u00e0y\' dd \'th\u00e1ng\' M \'n\u0103m\' y G"_s,
+				u"EEEE, \'ngày\' dd MMMM \'năm\' y G"_s,
+				u"\'Ngày\' dd \'tháng\' M \'năm\' y G"_s,
 				"dd-MM-y G"_s,
 				"dd/MM/y G"_s
 			}))
@@ -265,8 +265,8 @@ $ObjectArray2* JavaTimeSupplementary_vi::getContents() {
 		$$new($ObjectArray, {
 			$of("roc.DatePatterns"_s),
 			$of($$new($StringArray, {
-				u"EEEE, \'ng\u00e0y\' dd MMMM \'n\u0103m\' y GGGG"_s,
-				u"\'Ng\u00e0y\' dd \'th\u00e1ng\' M \'n\u0103m\' y GGGG"_s,
+				u"EEEE, \'ngày\' dd MMMM \'năm\' y GGGG"_s,
+				u"\'Ngày\' dd \'tháng\' M \'năm\' y GGGG"_s,
 				"dd-MM-y GGGG"_s,
 				"dd/MM/y G"_s
 			}))
@@ -308,18 +308,18 @@ $ObjectArray2* JavaTimeSupplementary_vi::getContents() {
 		$$new($ObjectArray, {
 			$of("roc.MonthNames"_s),
 			$of($$new($StringArray, {
-				u"th\u00e1ng 1"_s,
-				u"th\u00e1ng 2"_s,
-				u"th\u00e1ng 3"_s,
-				u"th\u00e1ng 4"_s,
-				u"th\u00e1ng 5"_s,
-				u"th\u00e1ng 6"_s,
-				u"th\u00e1ng 7"_s,
-				u"th\u00e1ng 8"_s,
-				u"th\u00e1ng 9"_s,
-				u"th\u00e1ng 10"_s,
-				u"th\u00e1ng 11"_s,
-				u"th\u00e1ng 12"_s,
+				u"tháng 1"_s,
+				u"tháng 2"_s,
+				u"tháng 3"_s,
+				u"tháng 4"_s,
+				u"tháng 5"_s,
+				u"tháng 6"_s,
+				u"tháng 7"_s,
+				u"tháng 8"_s,
+				u"tháng 9"_s,
+				u"tháng 10"_s,
+				u"tháng 11"_s,
+				u"tháng 12"_s,
 				""_s
 			}))
 		}),

@@ -62,7 +62,7 @@ $ObjectArray2* CurrencyNames_wo::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("gbp"_s),
-			$of(u"Pound bu Gr\u00e0nd Br\u00ebtaa\u00f1"_s)
+			$of(u"Pound bu Grànd Brëtaañ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("inr"_s),
@@ -70,7 +70,7 @@ $ObjectArray2* CurrencyNames_wo::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("jpy"_s),
-			$of(u"Yen bu Sapo\u014b"_s)
+			$of(u"Yen bu Sapoŋ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("rub"_s),
@@ -86,7 +86,7 @@ $ObjectArray2* CurrencyNames_wo::getContents() {
 		}),
 		$$new($ObjectArray, {
 			$of("xxx"_s),
-			$of(u"Xaalis bu\u00f1 Xamul"_s)
+			$of(u"Xaalis buñ Xamul"_s)
 		})
 	}));
 	return data;

@@ -39,7 +39,7 @@ void CurrencyNames_uk_UA::init$() {
 $ObjectArray2* CurrencyNames_uk_UA::getContents() {
 	return $new($ObjectArray2, {$$new($ObjectArray, {
 		$of("UAH"_s),
-		$of(u"\u0433\u0440\u043d."_s)
+		$of(u"грн."_s)
 	})});
 }
 

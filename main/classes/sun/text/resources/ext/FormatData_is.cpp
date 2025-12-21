@@ -42,17 +42,17 @@ $ObjectArray2* FormatData_is::getContents() {
 		$$new($ObjectArray, {
 			$of("MonthNames"_s),
 			$of($$new($StringArray, {
-				u"jan\u00faar"_s,
-				u"febr\u00faar"_s,
+				u"janúar"_s,
+				u"febrúar"_s,
 				"mars"_s,
-				u"apr\u00edl"_s,
-				u"ma\u00ed"_s,
-				u"j\u00fan\u00ed"_s,
-				u"j\u00fal\u00ed"_s,
-				u"\u00e1g\u00fast"_s,
+				u"apríl"_s,
+				u"maí"_s,
+				u"júní"_s,
+				u"júlí"_s,
+				u"ágúst"_s,
 				"september"_s,
-				u"okt\u00f3ber"_s,
-				u"n\u00f3vember"_s,
+				u"október"_s,
+				u"nóvember"_s,
 				"desember"_s,
 				""_s
 			}))
@@ -64,13 +64,13 @@ $ObjectArray2* FormatData_is::getContents() {
 				"feb."_s,
 				"mar."_s,
 				"apr."_s,
-				u"ma\u00ed"_s,
-				u"j\u00fan."_s,
-				u"j\u00fal."_s,
-				u"\u00e1g\u00fa."_s,
+				u"maí"_s,
+				u"jún."_s,
+				u"júl."_s,
+				u"ágú."_s,
 				"sep."_s,
 				"okt."_s,
-				u"n\u00f3v."_s,
+				u"nóv."_s,
 				"des."_s,
 				""_s
 			}))
@@ -85,7 +85,7 @@ $ObjectArray2* FormatData_is::getContents() {
 				"M"_s,
 				"J"_s,
 				"J"_s,
-				u"\u00c1"_s,
+				u"Á"_s,
 				"L"_s,
 				"O"_s,
 				"N"_s,
@@ -103,7 +103,7 @@ $ObjectArray2* FormatData_is::getContents() {
 				"m"_s,
 				"j"_s,
 				"j"_s,
-				u"\u00e1"_s,
+				u"á"_s,
 				"s"_s,
 				"o"_s,
 				"n"_s,
@@ -115,11 +115,11 @@ $ObjectArray2* FormatData_is::getContents() {
 			$of("DayNames"_s),
 			$of($$new($StringArray, {
 				"sunnudagur"_s,
-				u"m\u00e1nudagur"_s,
-				u"\u00feri\u00f0judagur"_s,
-				u"mi\u00f0vikudagur"_s,
+				u"mánudagur"_s,
+				u"þriðjudagur"_s,
+				u"miðvikudagur"_s,
 				"fimmtudagur"_s,
-				u"f\u00f6studagur"_s,
+				u"föstudagur"_s,
 				"laugardagur"_s
 			}))
 		}),
@@ -127,11 +127,11 @@ $ObjectArray2* FormatData_is::getContents() {
 			$of("DayAbbreviations"_s),
 			$of($$new($StringArray, {
 				"sun."_s,
-				u"m\u00e1n."_s,
-				u"\u00feri."_s,
-				u"mi\u00f0."_s,
+				u"mán."_s,
+				u"þri."_s,
+				u"mið."_s,
 				"fim."_s,
-				u"f\u00f6s."_s,
+				u"fös."_s,
 				"lau."_s
 			}))
 		}),
@@ -140,7 +140,7 @@ $ObjectArray2* FormatData_is::getContents() {
 			$of($$new($StringArray, {
 				"S"_s,
 				"M"_s,
-				u"\u00de"_s,
+				u"Þ"_s,
 				"M"_s,
 				"F"_s,
 				"F"_s,
@@ -152,7 +152,7 @@ $ObjectArray2* FormatData_is::getContents() {
 			$of($$new($StringArray, {
 				"s"_s,
 				"m"_s,
-				u"\u00fe"_s,
+				u"þ"_s,
 				"m"_s,
 				"f"_s,
 				"f"_s,
@@ -170,9 +170,9 @@ $ObjectArray2* FormatData_is::getContents() {
 				"#"_s,
 				"-"_s,
 				"E"_s,
-				u"\u2030"_s,
-				u"\u221e"_s,
-				u"\ufffd"_s
+				u"‰"_s,
+				u"∞"_s,
+				u"�"_s
 			}))
 		}),
 		$$new($ObjectArray, {

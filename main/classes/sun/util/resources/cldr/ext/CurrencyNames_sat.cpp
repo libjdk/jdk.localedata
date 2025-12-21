@@ -42,39 +42,39 @@ $ObjectArray2* CurrencyNames_sat::getContents() {
 	$var($ObjectArray2, data, $new($ObjectArray2, {
 		$$new($ObjectArray, {
 			$of("brl"_s),
-			$of(u"\u1c75\u1c68\u1c5f\u1c61\u1c64\u1c5e\u1c64\u1c6d\u1c5f\u1c71 \u1c68\u1c64\u1c6d\u1c5f\u1c79\u1c5e"_s)
+			$of(u"ᱵᱨᱟᱡᱤᱞᱤᱭᱟᱱ ᱨᱤᱭᱟᱹᱞ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("cny"_s),
-			$of(u"\u1c6a\u1c64\u1c71\u1c64 \u1c6d\u1c69\u1c63\u1c5f\u1c71"_s)
+			$of(u"ᱪᱤᱱᱤ ᱭᱩᱣᱟᱱ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("eur"_s),
-			$of(u"\u1c6d\u1c69\u1c68\u1c5a"_s)
+			$of(u"ᱭᱩᱨᱚ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("gbp"_s),
-			$of(u"\u1c75\u1c68\u1c64\u1c74\u1c64\u1c65 \u1c6f\u1c5f\u1c63\u1c69\u1c78\u1c70"_s)
+			$of(u"ᱵᱨᱤᱴᱤᱥ ᱯᱟᱣᱩᱸᱰ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("inr"_s),
-			$of(u"\u1c65\u1c64\u1c67\u1c5a\u1c5b \u1c68\u1c6e\u1c71\u1c5f\u1c5c \u1c74\u1c5f\u1c60\u1c5f"_s)
+			$of(u"ᱥᱤᱧᱚᱛ ᱨᱮᱱᱟᱜ ᱴᱟᱠᱟ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("jpy"_s),
-			$of(u"\u1c61\u1c5f\u1c6f\u1c5f\u1c71\u1c64 \u1c6d\u1c6e\u1c71"_s)
+			$of(u"ᱡᱟᱯᱟᱱᱤ ᱭᱮᱱ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("rub"_s),
-			$of(u"\u1c68\u1c69\u1c65\u1c64 \u1c68\u1c69\u1c75\u1c5f\u1c79\u1c5e"_s)
+			$of(u"ᱨᱩᱥᱤ ᱨᱩᱵᱟᱹᱞ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("usd"_s),
-			$of(u"\u1c6d\u1c69\u1c6e\u1c65 \u1c70\u1c5a\u1c5e\u1c5f\u1c68"_s)
+			$of(u"ᱭᱩᱮᱥ ᱰᱚᱞᱟᱨ"_s)
 		}),
 		$$new($ObjectArray, {
 			$of("xxx"_s),
-			$of(u"\u1c75\u1c5f\u1c5d\u1c69\u1c68\u1c69\u1c62 \u1c60\u1c5f\u1c68\u1c6e\u1c71\u1c65\u1c64"_s)
+			$of(u"ᱵᱟᱝᱩᱨᱩᱢ ᱠᱟᱨᱮᱱᱥᱤ"_s)
 		})
 	}));
 	return data;
