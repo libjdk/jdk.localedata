@@ -1815,7 +1815,6 @@
 #include <sun/util/resources/provider/NonBaseLocaleDataMetaInfo.h>
 #include <sun/util/resources/provider/SupplementaryLocaleDataProvider.h>
 
-
 #define $classEntry(name, clazz) {name, clazz::load$, $getMark(clazz)}
 ::java::lang::ClassEntry _jdk$localedata_classes_[] = {
 	$classEntry("sun.text.resources.cldr.ext.FormatData_af", ::sun::text::resources::cldr::ext::FormatData_af),

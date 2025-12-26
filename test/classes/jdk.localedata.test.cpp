@@ -14,7 +14,6 @@
 #include <HijrahConfigCheck.h>
 #include <nontestng/java/time/chrono/Bug8178823.h>
 
-
 #define $classEntry(name, clazz) {name, clazz::load$, $getMark(clazz)}
 ::java::lang::ClassEntry _jdk$localedata$test_classes_[] = {
 	$classEntry("Bug8132125", ::Bug8132125),

@@ -8,7 +8,6 @@
 #include <nontestng/java/time/chrono/Bug8178823.h>
 #include <jcpp.h>
 
-
 class TestCases : public $Object {
 public:
 	TestCases() {}
