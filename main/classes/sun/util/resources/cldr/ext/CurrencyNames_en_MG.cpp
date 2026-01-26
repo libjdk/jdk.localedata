@@ -15,8 +15,8 @@ namespace sun {
 				namespace ext {
 
 $MethodInfo _CurrencyNames_en_MG_MethodInfo_[] = {
-	{"<init>", "()V", nullptr, $PUBLIC, $method(static_cast<void(CurrencyNames_en_MG::*)()>(&CurrencyNames_en_MG::init$))},
-	{"getContents", "()[[Ljava/lang/Object;", nullptr, $PROTECTED | $FINAL},
+	{"<init>", "()V", nullptr, $PUBLIC, $method(CurrencyNames_en_MG, init$, void)},
+	{"getContents", "()[[Ljava/lang/Object;", nullptr, $PROTECTED | $FINAL, $virtualMethod(CurrencyNames_en_MG, getContents, $ObjectArray2*)},
 	{}
 };
 

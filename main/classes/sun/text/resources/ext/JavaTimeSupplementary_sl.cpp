@@ -14,8 +14,8 @@ namespace sun {
 			namespace ext {
 
 $MethodInfo _JavaTimeSupplementary_sl_MethodInfo_[] = {
-	{"<init>", "()V", nullptr, $PUBLIC, $method(static_cast<void(JavaTimeSupplementary_sl::*)()>(&JavaTimeSupplementary_sl::init$))},
-	{"getContents", "()[[Ljava/lang/Object;", nullptr, $PROTECTED | $FINAL},
+	{"<init>", "()V", nullptr, $PUBLIC, $method(JavaTimeSupplementary_sl, init$, void)},
+	{"getContents", "()[[Ljava/lang/Object;", nullptr, $PROTECTED | $FINAL, $virtualMethod(JavaTimeSupplementary_sl, getContents, $ObjectArray2*)},
 	{}
 };
 

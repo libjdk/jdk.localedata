@@ -15,8 +15,8 @@ namespace sun {
 				namespace ext {
 
 $MethodInfo _FormatData_ksf_MethodInfo_[] = {
-	{"<init>", "()V", nullptr, $PUBLIC, $method(static_cast<void(FormatData_ksf::*)()>(&FormatData_ksf::init$))},
-	{"getContents", "()[[Ljava/lang/Object;", nullptr, $PROTECTED | $FINAL},
+	{"<init>", "()V", nullptr, $PUBLIC, $method(FormatData_ksf, init$, void)},
+	{"getContents", "()[[Ljava/lang/Object;", nullptr, $PROTECTED | $FINAL, $virtualMethod(FormatData_ksf, getContents, $ObjectArray2*)},
 	{}
 };
 

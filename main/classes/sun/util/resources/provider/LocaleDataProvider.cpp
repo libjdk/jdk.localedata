@@ -29,9 +29,9 @@ namespace sun {
 			namespace provider {
 
 $MethodInfo _LocaleDataProvider_MethodInfo_[] = {
-	{"<init>", "()V", nullptr, $PUBLIC, $method(static_cast<void(LocaleDataProvider::*)()>(&LocaleDataProvider::init$))},
-	{"getBundle", "(Ljava/lang/String;Ljava/util/Locale;)Ljava/util/ResourceBundle;", nullptr, $PUBLIC},
-	{"loadResourceBundle", "(Ljava/lang/String;)Ljava/util/ResourceBundle;", nullptr, $STATIC, $method(static_cast<$ResourceBundle*(*)($String*)>(&LocaleDataProvider::loadResourceBundle))},
+	{"<init>", "()V", nullptr, $PUBLIC, $method(LocaleDataProvider, init$, void)},
+	{"getBundle", "(Ljava/lang/String;Ljava/util/Locale;)Ljava/util/ResourceBundle;", nullptr, $PUBLIC, $virtualMethod(LocaleDataProvider, getBundle, $ResourceBundle*, $String*, $Locale*)},
+	{"loadResourceBundle", "(Ljava/lang/String;)Ljava/util/ResourceBundle;", nullptr, $STATIC, $staticMethod(LocaleDataProvider, loadResourceBundle, $ResourceBundle*, $String*)},
 	{}
 };
 

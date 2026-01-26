@@ -14,8 +14,8 @@ namespace sun {
 			namespace ext {
 
 $MethodInfo _CalendarData_th_MethodInfo_[] = {
-	{"<init>", "()V", nullptr, $PUBLIC, $method(static_cast<void(CalendarData_th::*)()>(&CalendarData_th::init$))},
-	{"getContents", "()[[Ljava/lang/Object;", nullptr, $PROTECTED | $FINAL},
+	{"<init>", "()V", nullptr, $PUBLIC, $method(CalendarData_th, init$, void)},
+	{"getContents", "()[[Ljava/lang/Object;", nullptr, $PROTECTED | $FINAL, $virtualMethod(CalendarData_th, getContents, $ObjectArray2*)},
 	{}
 };
 

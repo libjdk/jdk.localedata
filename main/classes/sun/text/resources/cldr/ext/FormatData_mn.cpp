@@ -15,8 +15,8 @@ namespace sun {
 				namespace ext {
 
 $MethodInfo _FormatData_mn_MethodInfo_[] = {
-	{"<init>", "()V", nullptr, $PUBLIC, $method(static_cast<void(FormatData_mn::*)()>(&FormatData_mn::init$))},
-	{"getContents", "()[[Ljava/lang/Object;", nullptr, $PROTECTED | $FINAL},
+	{"<init>", "()V", nullptr, $PUBLIC, $method(FormatData_mn, init$, void)},
+	{"getContents", "()[[Ljava/lang/Object;", nullptr, $PROTECTED | $FINAL, $virtualMethod(FormatData_mn, getContents, $ObjectArray2*)},
 	{}
 };
 

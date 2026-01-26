@@ -14,8 +14,8 @@ namespace sun {
 			namespace ext {
 
 $MethodInfo _BreakIteratorInfo_th_MethodInfo_[] = {
-	{"<init>", "()V", nullptr, $PUBLIC, $method(static_cast<void(BreakIteratorInfo_th::*)()>(&BreakIteratorInfo_th::init$))},
-	{"getContents", "()[[Ljava/lang/Object;", nullptr, $PROTECTED | $FINAL},
+	{"<init>", "()V", nullptr, $PUBLIC, $method(BreakIteratorInfo_th, init$, void)},
+	{"getContents", "()[[Ljava/lang/Object;", nullptr, $PROTECTED | $FINAL, $virtualMethod(BreakIteratorInfo_th, getContents, $ObjectArray2*)},
 	{}
 };
 

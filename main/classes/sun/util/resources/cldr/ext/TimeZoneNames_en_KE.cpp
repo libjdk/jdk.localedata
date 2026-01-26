@@ -17,8 +17,8 @@ namespace sun {
 				namespace ext {
 
 $MethodInfo _TimeZoneNames_en_KE_MethodInfo_[] = {
-	{"<init>", "()V", nullptr, $PUBLIC, $method(static_cast<void(TimeZoneNames_en_KE::*)()>(&TimeZoneNames_en_KE::init$))},
-	{"getContents", "()[[Ljava/lang/Object;", nullptr, $PROTECTED | $FINAL},
+	{"<init>", "()V", nullptr, $PUBLIC, $method(TimeZoneNames_en_KE, init$, void)},
+	{"getContents", "()[[Ljava/lang/Object;", nullptr, $PROTECTED | $FINAL, $virtualMethod(TimeZoneNames_en_KE, getContents, $ObjectArray2*)},
 	{}
 };
 

@@ -14,8 +14,8 @@ namespace sun {
 			namespace ext {
 
 $MethodInfo _CurrencyNames_ar_IQ_MethodInfo_[] = {
-	{"<init>", "()V", nullptr, $PUBLIC, $method(static_cast<void(CurrencyNames_ar_IQ::*)()>(&CurrencyNames_ar_IQ::init$))},
-	{"getContents", "()[[Ljava/lang/Object;", nullptr, $PROTECTED | $FINAL},
+	{"<init>", "()V", nullptr, $PUBLIC, $method(CurrencyNames_ar_IQ, init$, void)},
+	{"getContents", "()[[Ljava/lang/Object;", nullptr, $PROTECTED | $FINAL, $virtualMethod(CurrencyNames_ar_IQ, getContents, $ObjectArray2*)},
 	{}
 };
 

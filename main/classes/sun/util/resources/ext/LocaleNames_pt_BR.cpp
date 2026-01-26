@@ -14,8 +14,8 @@ namespace sun {
 			namespace ext {
 
 $MethodInfo _LocaleNames_pt_BR_MethodInfo_[] = {
-	{"<init>", "()V", nullptr, $PUBLIC, $method(static_cast<void(LocaleNames_pt_BR::*)()>(&LocaleNames_pt_BR::init$))},
-	{"getContents", "()[[Ljava/lang/Object;", nullptr, $PROTECTED | $FINAL},
+	{"<init>", "()V", nullptr, $PUBLIC, $method(LocaleNames_pt_BR, init$, void)},
+	{"getContents", "()[[Ljava/lang/Object;", nullptr, $PROTECTED | $FINAL, $virtualMethod(LocaleNames_pt_BR, getContents, $ObjectArray2*)},
 	{}
 };
 

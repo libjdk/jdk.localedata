@@ -58,8 +58,8 @@ public:
 	static $ClassInfo classInfo$;
 };
 $MethodInfo HijrahConfigCheck$$Lambda$lambda$main$0::methodInfos[3] = {
-	{"<init>", "()V", nullptr, $PUBLIC, $method(static_cast<void(HijrahConfigCheck$$Lambda$lambda$main$0::*)()>(&HijrahConfigCheck$$Lambda$lambda$main$0::init$))},
-	{"test", "(Ljava/lang/Object;)Z", nullptr, $PUBLIC},
+	{"<init>", "()V", nullptr, $PUBLIC, $method(HijrahConfigCheck$$Lambda$lambda$main$0, init$, void)},
+	{"test", "(Ljava/lang/Object;)Z", nullptr, $PUBLIC, $virtualMethod(HijrahConfigCheck$$Lambda$lambda$main$0, test, bool, Object$*)},
 	{}
 };
 $ClassInfo HijrahConfigCheck$$Lambda$lambda$main$0::classInfo$ = {
@@ -82,9 +82,9 @@ $FieldInfo _HijrahConfigCheck_FieldInfo_[] = {
 };
 
 $MethodInfo _HijrahConfigCheck_MethodInfo_[] = {
-	{"<init>", "()V", nullptr, $PUBLIC, $method(static_cast<void(HijrahConfigCheck::*)()>(&HijrahConfigCheck::init$))},
-	{"lambda$main$0", "(Ljava/time/chrono/Chronology;)Z", nullptr, $PRIVATE | $STATIC | $SYNTHETIC, $method(static_cast<bool(*)($Chronology*)>(&HijrahConfigCheck::lambda$main$0))},
-	{"main", "([Ljava/lang/String;)V", nullptr, $PUBLIC | $STATIC | $TRANSIENT, $method(static_cast<void(*)($StringArray*)>(&HijrahConfigCheck::main))},
+	{"<init>", "()V", nullptr, $PUBLIC, $method(HijrahConfigCheck, init$, void)},
+	{"lambda$main$0", "(Ljava/time/chrono/Chronology;)Z", nullptr, $PRIVATE | $STATIC | $SYNTHETIC, $staticMethod(HijrahConfigCheck, lambda$main$0, bool, $Chronology*)},
+	{"main", "([Ljava/lang/String;)V", nullptr, $PUBLIC | $STATIC | $TRANSIENT, $staticMethod(HijrahConfigCheck, main, void, $StringArray*)},
 	{}
 };
 

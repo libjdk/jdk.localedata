@@ -28,9 +28,9 @@ $FieldInfo _CLDRLocaleDataMetaInfo_FieldInfo_[] = {
 };
 
 $MethodInfo _CLDRLocaleDataMetaInfo_MethodInfo_[] = {
-	{"<init>", "()V", nullptr, $PUBLIC, $method(static_cast<void(CLDRLocaleDataMetaInfo::*)()>(&CLDRLocaleDataMetaInfo::init$))},
-	{"availableLanguageTags", "(Ljava/lang/String;)Ljava/lang/String;", nullptr, $PUBLIC},
-	{"getType", "()Lsun/util/locale/provider/LocaleProviderAdapter$Type;", nullptr, $PUBLIC},
+	{"<init>", "()V", nullptr, $PUBLIC, $method(CLDRLocaleDataMetaInfo, init$, void)},
+	{"availableLanguageTags", "(Ljava/lang/String;)Ljava/lang/String;", nullptr, $PUBLIC, $virtualMethod(CLDRLocaleDataMetaInfo, availableLanguageTags, $String*, $String*)},
+	{"getType", "()Lsun/util/locale/provider/LocaleProviderAdapter$Type;", nullptr, $PUBLIC, $virtualMethod(CLDRLocaleDataMetaInfo, getType, $LocaleProviderAdapter$Type*)},
 	{}
 };
 

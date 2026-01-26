@@ -28,8 +28,8 @@ namespace sun {
 			namespace ext {
 
 $MethodInfo _TimeZoneNames_zh_HK_MethodInfo_[] = {
-	{"<init>", "()V", nullptr, $PUBLIC, $method(static_cast<void(TimeZoneNames_zh_HK::*)()>(&TimeZoneNames_zh_HK::init$))},
-	{"getContents", "()[[Ljava/lang/Object;", nullptr, $PROTECTED},
+	{"<init>", "()V", nullptr, $PUBLIC, $method(TimeZoneNames_zh_HK, init$, void)},
+	{"getContents", "()[[Ljava/lang/Object;", nullptr, $PROTECTED, $virtualMethod(TimeZoneNames_zh_HK, getContents, $ObjectArray2*)},
 	{}
 };
 

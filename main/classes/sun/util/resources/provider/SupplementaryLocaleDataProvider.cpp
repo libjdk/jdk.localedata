@@ -21,8 +21,8 @@ namespace sun {
 			namespace provider {
 
 $MethodInfo _SupplementaryLocaleDataProvider_MethodInfo_[] = {
-	{"<init>", "()V", nullptr, $PUBLIC, $method(static_cast<void(SupplementaryLocaleDataProvider::*)()>(&SupplementaryLocaleDataProvider::init$))},
-	{"getBundle", "(Ljava/lang/String;Ljava/util/Locale;)Ljava/util/ResourceBundle;", nullptr, $PUBLIC},
+	{"<init>", "()V", nullptr, $PUBLIC, $method(SupplementaryLocaleDataProvider, init$, void)},
+	{"getBundle", "(Ljava/lang/String;Ljava/util/Locale;)Ljava/util/ResourceBundle;", nullptr, $PUBLIC, $virtualMethod(SupplementaryLocaleDataProvider, getBundle, $ResourceBundle*, $String*, $Locale*)},
 	{}
 };
 

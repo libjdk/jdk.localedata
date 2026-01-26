@@ -50,8 +50,8 @@ public:
 	static $ClassInfo classInfo$;
 };
 $MethodInfo FormatLocale$$Lambda$lambda$main$0::methodInfos[3] = {
-	{"<init>", "()V", nullptr, $PUBLIC, $method(static_cast<void(FormatLocale$$Lambda$lambda$main$0::*)()>(&FormatLocale$$Lambda$lambda$main$0::init$))},
-	{"accept", "(I)V", nullptr, $PUBLIC},
+	{"<init>", "()V", nullptr, $PUBLIC, $method(FormatLocale$$Lambda$lambda$main$0, init$, void)},
+	{"accept", "(I)V", nullptr, $PUBLIC, $virtualMethod(FormatLocale$$Lambda$lambda$main$0, accept, void, int32_t)},
 	{}
 };
 $ClassInfo FormatLocale$$Lambda$lambda$main$0::classInfo$ = {
@@ -76,9 +76,9 @@ $FieldInfo _FormatLocale_FieldInfo_[] = {
 };
 
 $MethodInfo _FormatLocale_MethodInfo_[] = {
-	{"<init>", "()V", nullptr, $PUBLIC, $method(static_cast<void(FormatLocale::*)()>(&FormatLocale::init$))},
-	{"lambda$main$0", "(I)V", nullptr, $PRIVATE | $STATIC | $SYNTHETIC, $method(static_cast<void(*)(int32_t)>(&FormatLocale::lambda$main$0))},
-	{"main", "([Ljava/lang/String;)V", nullptr, $PUBLIC | $STATIC, $method(static_cast<void(*)($StringArray*)>(&FormatLocale::main))},
+	{"<init>", "()V", nullptr, $PUBLIC, $method(FormatLocale, init$, void)},
+	{"lambda$main$0", "(I)V", nullptr, $PRIVATE | $STATIC | $SYNTHETIC, $staticMethod(FormatLocale, lambda$main$0, void, int32_t)},
+	{"main", "([Ljava/lang/String;)V", nullptr, $PUBLIC | $STATIC, $staticMethod(FormatLocale, main, void, $StringArray*)},
 	{}
 };
 

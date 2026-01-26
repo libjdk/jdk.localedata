@@ -15,8 +15,8 @@ namespace nontestng {
 			namespace chrono {
 
 $MethodInfo _Bug8178823_MethodInfo_[] = {
-	{"<init>", "()V", nullptr, $PUBLIC, $method(static_cast<void(Bug8178823::*)()>(&Bug8178823::init$))},
-	{"main", "([Ljava/lang/String;)V", nullptr, $PUBLIC | $STATIC, $method(static_cast<void(*)($StringArray*)>(&Bug8178823::main))},
+	{"<init>", "()V", nullptr, $PUBLIC, $method(Bug8178823, init$, void)},
+	{"main", "([Ljava/lang/String;)V", nullptr, $PUBLIC | $STATIC, $staticMethod(Bug8178823, main, void, $StringArray*)},
 	{}
 };
 

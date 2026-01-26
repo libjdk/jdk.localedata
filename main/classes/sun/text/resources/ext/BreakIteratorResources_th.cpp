@@ -19,8 +19,8 @@ namespace sun {
 			namespace ext {
 
 $MethodInfo _BreakIteratorResources_th_MethodInfo_[] = {
-	{"<init>", "()V", nullptr, $PUBLIC, $method(static_cast<void(BreakIteratorResources_th::*)()>(&BreakIteratorResources_th::init$))},
-	{"getBreakIteratorInfo", "()Ljava/util/ResourceBundle;", nullptr, $PROTECTED},
+	{"<init>", "()V", nullptr, $PUBLIC, $method(BreakIteratorResources_th, init$, void)},
+	{"getBreakIteratorInfo", "()Ljava/util/ResourceBundle;", nullptr, $PROTECTED, $virtualMethod(BreakIteratorResources_th, getBreakIteratorInfo, $ResourceBundle*)},
 	{}
 };
 

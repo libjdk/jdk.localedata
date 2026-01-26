@@ -32,8 +32,8 @@ $FieldInfo _ContextMonthNamesTest_FieldInfo_[] = {
 };
 
 $MethodInfo _ContextMonthNamesTest_MethodInfo_[] = {
-	{"<init>", "()V", nullptr, $PUBLIC, $method(static_cast<void(ContextMonthNamesTest::*)()>(&ContextMonthNamesTest::init$))},
-	{"main", "([Ljava/lang/String;)V", nullptr, $PUBLIC | $STATIC, $method(static_cast<void(*)($StringArray*)>(&ContextMonthNamesTest::main))},
+	{"<init>", "()V", nullptr, $PUBLIC, $method(ContextMonthNamesTest, init$, void)},
+	{"main", "([Ljava/lang/String;)V", nullptr, $PUBLIC | $STATIC, $staticMethod(ContextMonthNamesTest, main, void, $StringArray*)},
 	{}
 };
 

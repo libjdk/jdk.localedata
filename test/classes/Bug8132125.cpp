@@ -12,8 +12,8 @@ using $NumberFormat = ::java::text::NumberFormat;
 using $Locale = ::java::util::Locale;
 
 $MethodInfo _Bug8132125_MethodInfo_[] = {
-	{"<init>", "()V", nullptr, $PUBLIC, $method(static_cast<void(Bug8132125::*)()>(&Bug8132125::init$))},
-	{"main", "([Ljava/lang/String;)V", nullptr, $PUBLIC | $STATIC, $method(static_cast<void(*)($StringArray*)>(&Bug8132125::main))},
+	{"<init>", "()V", nullptr, $PUBLIC, $method(Bug8132125, init$, void)},
+	{"main", "([Ljava/lang/String;)V", nullptr, $PUBLIC | $STATIC, $staticMethod(Bug8132125, main, void, $StringArray*)},
 	{}
 };
 

@@ -27,10 +27,10 @@ $FieldInfo _NonBaseLocaleDataMetaInfo_FieldInfo_[] = {
 };
 
 $MethodInfo _NonBaseLocaleDataMetaInfo_MethodInfo_[] = {
-	{"<init>", "()V", nullptr, $PUBLIC, $method(static_cast<void(NonBaseLocaleDataMetaInfo::*)()>(&NonBaseLocaleDataMetaInfo::init$))},
-	{"availableLanguageTags", "(Ljava/lang/String;)Ljava/lang/String;", nullptr, $PUBLIC},
-	{"getSupportedLocaleString", "(Ljava/lang/String;)Ljava/lang/String;", nullptr, $PUBLIC | $STATIC, $method(static_cast<$String*(*)($String*)>(&NonBaseLocaleDataMetaInfo::getSupportedLocaleString))},
-	{"getType", "()Lsun/util/locale/provider/LocaleProviderAdapter$Type;", nullptr, $PUBLIC},
+	{"<init>", "()V", nullptr, $PUBLIC, $method(NonBaseLocaleDataMetaInfo, init$, void)},
+	{"availableLanguageTags", "(Ljava/lang/String;)Ljava/lang/String;", nullptr, $PUBLIC, $virtualMethod(NonBaseLocaleDataMetaInfo, availableLanguageTags, $String*, $String*)},
+	{"getSupportedLocaleString", "(Ljava/lang/String;)Ljava/lang/String;", nullptr, $PUBLIC | $STATIC, $staticMethod(NonBaseLocaleDataMetaInfo, getSupportedLocaleString, $String*, $String*)},
+	{"getType", "()Lsun/util/locale/provider/LocaleProviderAdapter$Type;", nullptr, $PUBLIC, $virtualMethod(NonBaseLocaleDataMetaInfo, getType, $LocaleProviderAdapter$Type*)},
 	{}
 };
 

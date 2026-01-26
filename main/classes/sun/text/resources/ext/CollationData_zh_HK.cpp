@@ -26,8 +26,8 @@ namespace sun {
 			namespace ext {
 
 $MethodInfo _CollationData_zh_HK_MethodInfo_[] = {
-	{"<init>", "()V", nullptr, $PUBLIC, $method(static_cast<void(CollationData_zh_HK::*)()>(&CollationData_zh_HK::init$))},
-	{"getContents", "()[[Ljava/lang/Object;", nullptr, $PROTECTED | $FINAL},
+	{"<init>", "()V", nullptr, $PUBLIC, $method(CollationData_zh_HK, init$, void)},
+	{"getContents", "()[[Ljava/lang/Object;", nullptr, $PROTECTED | $FINAL, $virtualMethod(CollationData_zh_HK, getContents, $ObjectArray2*)},
 	{}
 };
 
